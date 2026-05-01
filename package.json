@@ -1,0 +1,14 @@
+{
+  "name": "ai-company-watch",
+  "private": true,
+  "type": "module",
+  "version": "0.1.0",
+  "description": "Daily digest for major official AI company updates",
+  "scripts": {
+    "run": "node scripts/run-digest.js",
+    "check": "node --check scripts/run-digest.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "lookbackDays": 7,
+  "totalLimit": 24,
+  "sources": [
+    {
+      "id": "openai-newsroom",
+      "company": "OpenAI",
+      "label": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "feedUrls": [
+        "https://openai.com/news/rss.xml"
+      ],
+      "articlePathPrefixes": [
+        "/index/"
+      ]
+    },
+    {
+      "id": "anthropic-news",
+      "company": "Anthropic",
+      "label": "Anthropic News",
+      "homepageUrl": "https://www.anthropic.com/news",
+      "articlePathPrefixes": [
+        "/news/"
+      ]
+    },
+    {
+      "id": "anthropic-engineering",
+      "company": "Anthropic",
+      "label": "Anthropic Engineering",
+      "homepageUrl": "https://www.anthropic.com/engineering",
+      "articlePathPrefixes": [
+        "/engineering/"
+      ]
+    },
+    {
+      "id": "google-ai",
+      "company": "Google",
+      "label": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "articlePathPrefixes": [
+        "/innovation-and-ai/"
+      ],
+      "requiredKeywords": [
+        "ai",
+        "gemini",
+        "agent",
+        "agents",
+        "model",
+        "models",
+        "notebooklm",
+        "deepmind",
+        "research",
+        "infrastructure",
+        "cloud",
+        "compute",
+        "data center",
+        "datacenter",
+        "chip",
+        "developer",
+        "workspace",
+        "search"
+      ]
+    },
+    {
+      "id": "google-deepmind",
+      "company": "Google DeepMind",
+      "label": "Google DeepMind Blog",
+      "homepageUrl": "https://deepmind.google/blog/",
+      "articlePathPrefixes": [
+        "/blog/"
+      ]
+    },
+    {
+      "id": "meta-newsroom",
+      "company": "Meta",
+      "label": "Meta Newsroom",
+      "homepageUrl": "https://about.fb.com/news/",
+      "articlePathPrefixes": [
+        "/news/"
+      ],
+      "requiredKeywords": [
+        "ai",
+        "artificial intelligence",
+        "meta ai",
+        "llama",
+        "generative",
+        "model",
+        "machine learning",
+        "agent"
+      ]
+    },
+    {
+      "id": "microsoft-ai",
+      "company": "Microsoft",
+      "label": "Microsoft AI",
+      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
+      "feedUrls": [
+        "https://news.microsoft.com/source/topics/ai/feed/"
+      ],
+      "articlePathPrefixes": [
+        "/source/topics/ai/",
+        "/source/features/ai/",
+        "/source/"
+      ],
+      "requiredKeywords": [
+        "ai",
+        "copilot",
+        "model",
+        "agent",
+        "azure ai",
+        "artificial intelligence"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,459 @@
+{
+  "generatedAt": "2026-05-01T21:29:39.526Z",
+  "lookbackDays": 7,
+  "sourcesChecked": [
+    {
+      "id": "openai-newsroom",
+      "company": "OpenAI",
+      "label": "OpenAI Newsroom"
+    },
+    {
+      "id": "anthropic-news",
+      "company": "Anthropic",
+      "label": "Anthropic News"
+    },
+    {
+      "id": "anthropic-engineering",
+      "company": "Anthropic",
+      "label": "Anthropic Engineering"
+    },
+    {
+      "id": "google-ai",
+      "company": "Google",
+      "label": "Google AI"
+    },
+    {
+      "id": "google-deepmind",
+      "company": "Google DeepMind",
+      "label": "Google DeepMind Blog"
+    },
+    {
+      "id": "meta-newsroom",
+      "company": "Meta",
+      "label": "Meta Newsroom"
+    },
+    {
+      "id": "microsoft-ai",
+      "company": "Microsoft",
+      "label": "Microsoft AI"
+    }
+  ],
+  "totals": {
+    "fetched": 27,
+    "deduped": 12,
+    "new": 12
+  },
+  "items": [
+    {
+      "id": "92f8ee26a85afd656d639fc0f1b2c475d3d5384a",
+      "company": "OpenAI",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/advanced-account-security",
+      "title": "Introducing Advanced Account Security",
+      "summary": "Introducing Advanced Account Security: phishing-resistant login, stronger recovery, and enhanced protections to safeguard sensitive data and prevent account takeover.",
+      "publishedAt": "2026-04-30T00:00:00.000Z",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "e6284b864c34a32408696f9e2519e03107219bf9",
+      "company": "OpenAI",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/our-commitment-to-community-safety",
+      "title": "Our commitment to community safety",
+      "summary": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts.",
+      "publishedAt": "2026-04-28T00:00:00.000Z",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "3a0b4572422c1a8cbc95ae7fb7158fc8dc49f9d0",
+      "company": "Anthropic",
+      "sourceId": "anthropic-news",
+      "sourceLabel": "Anthropic News",
+      "homepageUrl": "https://www.anthropic.com/news",
+      "url": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy",
+      "title": "Responsible Scaling Policy",
+      "summary": "",
+      "publishedAt": null,
+      "discoveryMethod": "anchor",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "0889e6f0be8e183ad6d8f901a98b6e97df66a2d4",
+      "company": "OpenAI",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
+      "title": "Building the compute infrastructure for the Intelligence Age",
+      "summary": "OpenAI scales Stargate to build the compute infrastructure powering AGI, adding new data center capacity to meet growing AI demand.",
+      "publishedAt": "2026-04-29T15:00:00.000Z",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Technical or research update"
+      }
+    },
+    {
+      "id": "6bd5c7f3b665824b9428788911fcc46d83c5b55a",
+      "company": "Meta",
+      "sourceId": "meta-newsroom",
+      "sourceLabel": "Meta Newsroom",
+      "homepageUrl": "https://about.fb.com/news/",
+      "url": "https://about.fb.com/news/2026/04/infrastructure-explained-meta-data-centers",
+      "title": "Infrastructure Explained: Data Centers",
+      "summary": "We're explaining what data centers are and how they help you connect to your favorite digital experiences, from sharing a photo on Instagram to chatting with AI assistants. The post Infrastructure Explained: Data Centers",
+      "publishedAt": "2026-04-28T18:30:54.000Z",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Technical or research update"
+      }
+    },
+    {
+      "id": "c845c405d5b0abacbfa3ed5abe54a34853d298b6",
+      "company": "Meta",
+      "sourceId": "meta-newsroom",
+      "sourceLabel": "Meta Newsroom",
+      "homepageUrl": "https://about.fb.com/news/",
+      "url": "https://about.fb.com/news/2026/04/powering-ai-strengthening-the-grid-space-solar-energy-and-long-duration-storage",
+      "title": "Powering AI, Strengthening the Grid: Innovation in Space Solar Energy and Long-Duration Storage",
+      "summary": "We’re announcing two partnerships to help deliver the reliable power our AI infrastructure and data centers need by advancing innovative energy generation and storage. The post Powering AI, Strengthening the Grid: Innovation in Space Solar Energy and Long-Duration Storage",
+      "publishedAt": "2026-04-27T10:00:08.000Z",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Technical or research update"
+      }
+    },
+    {
+      "id": "e45ccc2c61bd1c7f0b4959275e6723bb17e1c191",
+      "company": "Meta",
+      "sourceId": "meta-newsroom",
+      "sourceLabel": "Meta Newsroom",
+      "homepageUrl": "https://about.fb.com/news/",
+      "url": "https://about.fb.com/news/2026/04/breaking-ground-new-ai-optimized-data-center-tulsa-oklahoma",
+      "title": "Breaking Ground on a New AI-Optimized Data Center in Tulsa, Oklahoma",
+      "summary": "",
+      "publishedAt": null,
+      "discoveryMethod": "anchor",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Technical or research update"
+      }
+    },
+    {
+      "id": "6ce07af346a49ef2216f6d6e494b4ca6cd3b8abb",
+      "company": "OpenAI",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/where-the-goblins-came-from",
+      "title": "Where the goblins came from",
+      "summary": "How goblin outputs spread in AI models: timeline, root cause, and fixes behind personality-driven quirks in GPT-5 behavior.",
+      "publishedAt": "2026-04-29T20:00:00.000Z",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 1,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "416667b50935e5b71d654e2677b5e84629c7620d",
+      "company": "Google",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/generate-files-in-gemini",
+      "title": "You can now easily generate files in Gemini.",
+      "summary": "Move from a brainstorm to a polished document, sheet or PDF with a single prompt in Gemini.",
+      "publishedAt": "2026-04-29T16:00:00.000Z",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 1,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "6d737041e91d8e016ce2351396e2f57696f4bde7",
+      "company": "OpenAI",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/cybersecurity-in-the-intelligence-age",
+      "title": "Cybersecurity in the Intelligence Age",
+      "summary": "OpenAI outlines a five-part action plan for strengthening cybersecurity in the Intelligence Age, focused on democratizing AI-powered cyber defense and protecting critical systems.",
+      "publishedAt": "2026-04-29T04:00:00.000Z",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 1,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "1c2272f9572d4fa750d8ebca588836b780ad49e0",
+      "company": "Anthropic",
+      "sourceId": "anthropic-news",
+      "sourceLabel": "Anthropic News",
+      "homepageUrl": "https://www.anthropic.com/news",
+      "url": "https://www.anthropic.com/news/claude-for-creative-work",
+      "title": "Claude for Creative Work",
+      "summary": "",
+      "publishedAt": "2026-04-28T07:00:00.000Z",
+      "discoveryMethod": "anchor",
+      "classification": {
+        "bucket": "digest",
+        "score": 1,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "368128e6f28129236fd9abbf48e30f1750e61ffb",
+      "company": "OpenAI",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/openai-on-aws",
+      "title": "OpenAI models, Codex, and Managed Agents come to AWS",
+      "summary": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.",
+      "publishedAt": "2026-04-28T00:00:00.000Z",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 1,
+        "reason": "Routine official update"
+      }
+    }
+  ],
+  "newItems": [
+    {
+      "id": "92f8ee26a85afd656d639fc0f1b2c475d3d5384a",
+      "company": "OpenAI",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/advanced-account-security",
+      "title": "Introducing Advanced Account Security",
+      "summary": "Introducing Advanced Account Security: phishing-resistant login, stronger recovery, and enhanced protections to safeguard sensitive data and prevent account takeover.",
+      "publishedAt": "2026-04-30T00:00:00.000Z",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "e6284b864c34a32408696f9e2519e03107219bf9",
+      "company": "OpenAI",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/our-commitment-to-community-safety",
+      "title": "Our commitment to community safety",
+      "summary": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts.",
+      "publishedAt": "2026-04-28T00:00:00.000Z",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "3a0b4572422c1a8cbc95ae7fb7158fc8dc49f9d0",
+      "company": "Anthropic",
+      "sourceId": "anthropic-news",
+      "sourceLabel": "Anthropic News",
+      "homepageUrl": "https://www.anthropic.com/news",
+      "url": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy",
+      "title": "Responsible Scaling Policy",
+      "summary": "",
+      "publishedAt": null,
+      "discoveryMethod": "anchor",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "0889e6f0be8e183ad6d8f901a98b6e97df66a2d4",
+      "company": "OpenAI",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
+      "title": "Building the compute infrastructure for the Intelligence Age",
+      "summary": "OpenAI scales Stargate to build the compute infrastructure powering AGI, adding new data center capacity to meet growing AI demand.",
+      "publishedAt": "2026-04-29T15:00:00.000Z",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Technical or research update"
+      }
+    },
+    {
+      "id": "6bd5c7f3b665824b9428788911fcc46d83c5b55a",
+      "company": "Meta",
+      "sourceId": "meta-newsroom",
+      "sourceLabel": "Meta Newsroom",
+      "homepageUrl": "https://about.fb.com/news/",
+      "url": "https://about.fb.com/news/2026/04/infrastructure-explained-meta-data-centers",
+      "title": "Infrastructure Explained: Data Centers",
+      "summary": "We're explaining what data centers are and how they help you connect to your favorite digital experiences, from sharing a photo on Instagram to chatting with AI assistants. The post Infrastructure Explained: Data Centers",
+      "publishedAt": "2026-04-28T18:30:54.000Z",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Technical or research update"
+      }
+    },
+    {
+      "id": "c845c405d5b0abacbfa3ed5abe54a34853d298b6",
+      "company": "Meta",
+      "sourceId": "meta-newsroom",
+      "sourceLabel": "Meta Newsroom",
+      "homepageUrl": "https://about.fb.com/news/",
+      "url": "https://about.fb.com/news/2026/04/powering-ai-strengthening-the-grid-space-solar-energy-and-long-duration-storage",
+      "title": "Powering AI, Strengthening the Grid: Innovation in Space Solar Energy and Long-Duration Storage",
+      "summary": "We’re announcing two partnerships to help deliver the reliable power our AI infrastructure and data centers need by advancing innovative energy generation and storage. The post Powering AI, Strengthening the Grid: Innovation in Space Solar Energy and Long-Duration Storage",
+      "publishedAt": "2026-04-27T10:00:08.000Z",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Technical or research update"
+      }
+    },
+    {
+      "id": "e45ccc2c61bd1c7f0b4959275e6723bb17e1c191",
+      "company": "Meta",
+      "sourceId": "meta-newsroom",
+      "sourceLabel": "Meta Newsroom",
+      "homepageUrl": "https://about.fb.com/news/",
+      "url": "https://about.fb.com/news/2026/04/breaking-ground-new-ai-optimized-data-center-tulsa-oklahoma",
+      "title": "Breaking Ground on a New AI-Optimized Data Center in Tulsa, Oklahoma",
+      "summary": "",
+      "publishedAt": null,
+      "discoveryMethod": "anchor",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Technical or research update"
+      }
+    },
+    {
+      "id": "6ce07af346a49ef2216f6d6e494b4ca6cd3b8abb",
+      "company": "OpenAI",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/where-the-goblins-came-from",
+      "title": "Where the goblins came from",
+      "summary": "How goblin outputs spread in AI models: timeline, root cause, and fixes behind personality-driven quirks in GPT-5 behavior.",
+      "publishedAt": "2026-04-29T20:00:00.000Z",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 1,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "416667b50935e5b71d654e2677b5e84629c7620d",
+      "company": "Google",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/generate-files-in-gemini",
+      "title": "You can now easily generate files in Gemini.",
+      "summary": "Move from a brainstorm to a polished document, sheet or PDF with a single prompt in Gemini.",
+      "publishedAt": "2026-04-29T16:00:00.000Z",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 1,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "6d737041e91d8e016ce2351396e2f57696f4bde7",
+      "company": "OpenAI",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/cybersecurity-in-the-intelligence-age",
+      "title": "Cybersecurity in the Intelligence Age",
+      "summary": "OpenAI outlines a five-part action plan for strengthening cybersecurity in the Intelligence Age, focused on democratizing AI-powered cyber defense and protecting critical systems.",
+      "publishedAt": "2026-04-29T04:00:00.000Z",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 1,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "1c2272f9572d4fa750d8ebca588836b780ad49e0",
+      "company": "Anthropic",
+      "sourceId": "anthropic-news",
+      "sourceLabel": "Anthropic News",
+      "homepageUrl": "https://www.anthropic.com/news",
+      "url": "https://www.anthropic.com/news/claude-for-creative-work",
+      "title": "Claude for Creative Work",
+      "summary": "",
+      "publishedAt": "2026-04-28T07:00:00.000Z",
+      "discoveryMethod": "anchor",
+      "classification": {
+        "bucket": "digest",
+        "score": 1,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "368128e6f28129236fd9abbf48e30f1750e61ffb",
+      "company": "OpenAI",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/openai-on-aws",
+      "title": "OpenAI models, Codex, and Managed Agents come to AWS",
+      "summary": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.",
+      "publishedAt": "2026-04-28T00:00:00.000Z",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 1,
+        "reason": "Routine official update"
+      }
+    }
+  ],
+  "errors": []
+}
