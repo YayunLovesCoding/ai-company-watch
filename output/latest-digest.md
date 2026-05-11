@@ -1,15 +1,29 @@
 # AI Company Watch
 
-Generated: May 10, 2026, 8:21 PM PDT
+Generated: May 11, 2026, 8:13 AM PDT
 Lookback window: 7 day(s)
 Sources checked: 12
-Items fetched: 46
+Items fetched: 42
 Items kept: 24
 New items: 24
-External items kept: 16
-Official items kept: 8
+External items kept: 11
+Official items kept: 13
 
 ## Critical External News
+
+### OpenAI - Satya Nadella to testify in Elon Musk vs. OpenAI trial
+Source: Major External News - OpenAI
+Publisher: CNBC
+Published: May 11, 2026
+Why it matters: Corporate move or major external event
+Link: https://news.google.com/rss/articles/CBMinAFBVV95cUxNUFB2cFAyUkZCUVZUWEcyTWdjSHNNMURTX1lCLTFlX2d1dzhOZUtxSEhqVmJpbVdEejJja2RQVnh4MUNUMUxKeVY5MFF3MFJ5cDR2QmJRRk02dWtJbDlkelRNRzlZTXg1US1neThkZWlrazd6dDNzcjRfNjhteFZQbnlsQkx1bnV0Xzh2MHd0NFBpNjJCSjJScDh1bGQ?oc=5
+
+### Anthropic - Nvidia Partnership With Anthropic And SpaceX Highlights AI Growth And Valuation
+Source: Major External News - Anthropic
+Publisher: Yahoo Finance
+Published: May 11, 2026
+Why it matters: Corporate move or major external event
+Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxQUW41dUladzIwaGpaU0FvR24yb1BFQmRUMlhhLWo3eEF3emlxeklEdGFraDJKaS02Z19laWQ1cHVPWWhuU3hvZ1J0S0FUTHVZbndKUTh1VjU4S0xUSkhXM1U5NUZ1R3A2UUJRSDBLOFU0MEZFY0MtRWpEUHh3VHhfb2pFclh6ejVHbnQya1BkajR3RlczdUVvSWZ5MWtKS2NoUHRBTTNibmpObE5WbDlxNw?oc=5
 
 ### OpenAI - ‘Terminator’ Fears and Internal Dysfunction: Inside the OpenAI Trial
 Source: Major External News - OpenAI
@@ -25,20 +39,6 @@ Published: May 9, 2026
 Why it matters: Corporate move or major external event
 Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxPcFBfM2V3SG1GN25va2JrVFFRTFR3X3BRcklMWDhzNm1pTlJvNXFTWm9DOHdtdmhqd2tFLUR0TE5nREdXaXZjSW1zS3htbm52cHNudFRpanhHak9RS0FWaTVQcFE4ZmxKUlFENGczYUVSYldCcFJVX0d5YTNscFlHd295U0I?oc=5
 
-### OpenAI - Musk, Altman Management Styles Under Fire at OpenAI Trial
-Source: Major External News - OpenAI
-Publisher: Bloomberg.com
-Published: May 8, 2026
-Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxQX19xT0k5b2FTelhTOFNPT3lkVGF6RmIxWXpkbHBDVzRhVkpNbzFMMGdYTVJkTlkyaThiSDlJclBtdUpfOGljV1J2TjkzV0hOX1p3ZzRhRFRmWkJjVnJuSzhzNXQzYmV0UmwzWnFJdWpiYzBKbXRIR2lqR0lJSlhLOF9XUTlIM0EtYjhyY0l2U0lRcVlBa01ZNUMzbTY5X0prNG51UUVLVnh0d2JPbkZJdU13?oc=5
-
-### OpenAI - Everything you need to know from the first 2 weeks of the Musk v. OpenAI trial
-Source: Major External News - OpenAI
-Publisher: Yahoo Finance
-Published: May 8, 2026
-Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRFBNLXJad0ozUDNtUlA3OUlKS05hYmRVR3Z6anBBeERLa3BTaC0xSXhJNmszckREd1RrVlVyS2NrSkYxdDFYQWxPUlJlLXFxLTNSTGp5RjJtYWxURjZQYmNTSFNJbGNKZllpOUUtMXlXSWhlM0k3S3Fpd1h2VDFnQVZTQW8ydDJZNGlRQzVoem1hOU82Zk52bTdYUzJDLVRfMXZIc2tCY2owdERaUkZQWDY1VVF2bkZDeGRUQ2IxQ3dsMXRLZ2VkTEh6anN0SndCUHNvVzNoNEdaY0lFYlE?oc=5
-
 ### Anthropic - Anthropic CEO on compute: 'We're going to acquire as much as we can'
 Source: Major External News - Anthropic
 Publisher: CNBC
@@ -46,35 +46,14 @@ Published: May 7, 2026
 Why it matters: Corporate move or major external event
 Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcThyNEt6XzJ4TkQ5YmZMNTJPZ1ZLRG9zNExMX3J5ODFfM09iYlNMSzhSRW9Cc2ctbXgtUXlydUJtQ05WU3hoS3RVNEhsZ2tQME95Vk1TczNLWnRkbkx5WXZNVFFPeXpwU3JFd1FWTnRMY1JuYl9XajZsY0xrU2M5enQydVRab3dCbkdKbF9QM19OWmc3bFNya19taU1VS0I5aFRoeVlhVFl0bkU?oc=5
 
-### Microsoft - Microsoft’s AI Safety Role Grows As Infrastructure Hiring And Security Risks Mount
-Source: Major External News - Microsoft
-Publisher: Yahoo Finance
-Published: May 9, 2026
-Why it matters: Safety, security, or policy update
-Link: https://news.google.com/rss/articles/CBMioAFBVV95cUxPTFYyVkJPVDJWR3RDZjhDWGxMSFJlQ09DdnNXVGdacUpQY1htZ09sTUg0Ql9MUVhnZmhYajdLRTc0bzBNOEtlRENwLWJNYmZoZHZLRnFFZERjM2xlQjdxNGN4V3V6YkVXNDVrRHhacmxPMGxURFdNY2R6V0lVTGcyWl9TM2VKZEhJdTNfaHhfUzc1S3Q4UnM3bklPLVBfQ0lp?oc=5
-
 ## Important External News
 
-### Microsoft - Microsoft boss to testify on his role in OpenAI's founding
-Source: Major External News - Microsoft
+### OpenAI - Microsoft boss to testify on his role in OpenAI's founding
+Source: Major External News - OpenAI
 Publisher: Yahoo Finance
 Published: May 10, 2026
 Why it matters: Trusted external coverage
 Link: https://news.google.com/rss/articles/CBMipwFBVV95cUxOOHRIbk5QN3lGWGMwU05DTDJSb0l1SzN5RnFyVGJ0Q0tSU19Ma2k3a0lzZFhGc01LMkVLQnFUVkE2QzhmMjJpMWdjbXRYS0FCUVVtUng1WFF4LTByWFY5RGZkaHZkSllORlRTS2F5S2gyVjFnNlNEdHpJbU5yRzk1SjNkaG0tM0VEcE1LUDB4Tm1PRS0wRWRiSXdOQXViUlBzMjVqczJCMA?oc=5
-
-### Anthropic - We’re feeling cynical about xAI’s big deal with Anthropic
-Source: Major External News - Anthropic
-Publisher: TechCrunch
-Published: May 10, 2026
-Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMilAFBVV95cUxQMnhGNkwwYUVqY3hycV9GZTk5bUZlNmJtcUtFdnRXczdWZ2pVYnVxMmJTRTZJa003LVYtUGtCeUYzZ3VLVGNvWkp1TFE5eHphZ0dHSkk0cVlUSmtDeWtuY1BodkN0N2dSc1Q3QWZWcGQtX3o5QzVVUUFuM0liT1FEcTBYTV9JQUtWTmVOOXpYTXNnSm1L?oc=5
-
-### Meta - Meta got a $3.3 billion tax break for its $10 billion AI data center — and it could consume 20% of Louisiana's power
-Source: Major External News - Meta
-Publisher: Yahoo Finance Singapore
-Published: May 10, 2026
-Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMieEFVX3lxTE5xbmM0UHJaQWxkV1c4NDE1aWJiMUhUY29wOVRmNC1vMzBUZFVKMmZhV1RBUmwzYV9FX3duSUs0amtScEJkQy11bU1HR0JzNjc5YmVPZWd3ZjRpRTVsVGhJVzEtemhUWkVSUFpEYWFsR3hzWTczWnM4VQ?oc=5
 
 ### Anthropic - Anthropic grew 80-fold in a single quarter. Now it’s renting Elon Musk’s data center to cope
 Source: Major External News - Anthropic
@@ -111,28 +90,22 @@ Published: May 4, 2026
 Why it matters: Trusted external coverage
 Link: https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeDZ5WThoSHh0bHJLajhKZnFCbDB2eFRsdG5NZWNlSFAxbER5RFpmX2NBX0F6TWtmRmtaTWhGNWJRY0lnV2VpRmJkYTMxbHNIcldOM1M5SmlIcEh4TkRWdTNkOG9TWlBoN3h0ZHRTYXB2UFlCUXd0dkQxSDVILXpMczN0UzAtVHJJdXJocVZSb0t2YXExMXFhNEVzZ0k4S21wS255cXp5OGVfMUptSFhORjdCM1BmNHBncXRMX29zUndkOVFON2lzYg?oc=5
 
-### Meta - Meta Taps Morgan Stanley, JPMorgan for El Paso Data Center Deal
-Source: Major External News - Meta
-Publisher: Bloomberg.com
-Published: May 4, 2026
-Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxPTWVaMnJ6NTVWZVpycDFjSnA5LUhsMWRpRGtuTjk1SEZIQ0gtc2RkcXEwcDloZVJKWUdDSTlKZVV5eHJSZDN4eGNGbWctMFFtMzh6a01XNWNwanNoWjBmVER0a0ZjcTRLZVc4NXViYUE3dnljUi11ZEhRc3UtUmlhODZmdm4wTWJ5TzVnQTVzM3IxY0x3SE8wOGQyWmZVTVpwa0V6dWNrMzFmalNkOHI3MnJrbw?oc=5
+## Critical Official Updates
 
-### Google - Google’s AI deal with the Pentagon has sparked employee backlash. But don't expect a repeat of Project Maven
-Source: Major External News - Google
-Publisher: Fortune
-Published: May 4, 2026
-Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMirgFBVV95cUxPQkNVWUZ0eXczOUdSYlFfX1poVVhqS2RmOVZ3bnFuVG1BZWZqMVRyOHo5eXdKQzdnN25uYnlIWjluNkFISl82YUlob255c2cwOTlpcW9uaXdOdEVVazUtTFpVQWVERjEySy1IWC04Tl83TWpJR0FndUpFZlIzYzdlTmVhMGNnY0pZQ2FPanozSnFGeFRoZGVPeWZaeGVWSlc5ZFdHTy1oM3FPSV9TM3c?oc=5
+### OpenAI - OpenAI launches DeployCo to help businesses build around intelligence
+Source: OpenAI Newsroom
+Published: May 10, 2026
+Why it matters: Flagship model or product launch
+Summary: OpenAI launches DeployCo, a new enterprise deployment company built to help organizations bring frontier AI into production and turn it into measurable business impact.
+Link: https://openai.com/index/openai-launches-the-deployment-company
+
+### Meta - Meta Partners With AWS on Graviton Chips to Power Agentic AI
+Source: Meta Newsroom
+Published: Unknown
+Why it matters: Corporate move or major external event
+Link: https://about.fb.com/news/2026/04/meta-partners-with-aws-on-graviton-chips-to-power-agentic-ai
 
 ## Important Official Updates
-
-### OpenAI - Introducing Trusted Contact in ChatGPT
-Source: OpenAI Newsroom
-Published: May 6, 2026
-Why it matters: Flagship model or product launch
-Summary: Introducing Trusted Contact in ChatGPT, an optional safety feature that notifies someone you trust if serious self-harm concerns are detected.
-Link: https://openai.com/index/introducing-trusted-contact-in-chatgpt
 
 ### Google - The latest AI news we announced in April 2026
 Source: Google AI
@@ -141,12 +114,6 @@ Why it matters: Flagship model or product launch
 Summary: Here are Google’s latest AI updates from April 2026
 Link: https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026
 
-### Meta - Introducing Muse Spark: MSL’s First Model, Purpose-Built to Prioritize People
-Source: Meta Newsroom
-Published: Unknown
-Why it matters: Flagship model or product launch
-Link: https://about.fb.com/news/2026/04/introducing-muse-spark-meta-superintelligence-labs
-
 ### Anthropic - Responsible Scaling Policy
 Source: Anthropic News
 Published: Unknown
@@ -154,6 +121,20 @@ Why it matters: Safety, security, or policy update
 Link: https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy
 
 ## Official Company Updates
+
+### Google - Read our new report on AI-powered threats and our latest defenses.
+Source: Google AI
+Published: May 11, 2026
+Why it matters: Routine official update
+Summary: Learn more about how outside attackers are misusing AI, and what Google is doing to stop it.
+Link: https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/google-threat-intelligence-group-report
+
+### OpenAI - OpenAI Campus Network: Student club interest form
+Source: OpenAI Newsroom
+Published: May 11, 2026
+Why it matters: Routine official update
+Summary: Join the OpenAI Campus Network—connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.
+Link: https://openai.com/index/openai-campus-network-student-club-interest-form
 
 ### Google - Find out how AlphaEvolve has gone from research to solving real-life problems.
 Source: Google AI
@@ -181,3 +162,24 @@ Published: May 8, 2026
 Why it matters: Routine official update
 Summary: From capturing hands-free content to tracking workouts and staying connected on the go, find the AI glasses that fit your lifestyle. The post Which AI Glasses Are Right For You?
 Link: https://about.fb.com/news/2026/05/which-meta-ai-glasses-are-right-for-you
+
+### OpenAI - Running Codex safely at OpenAI
+Source: OpenAI Newsroom
+Published: May 8, 2026
+Why it matters: Routine official update
+Summary: How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to support safe and compliant coding agent adoption.
+Link: https://openai.com/index/running-codex-safely
+
+### Microsoft - Inside Porsche Cup Brasil’s AI-powered race operations
+Source: Microsoft AI
+Published: May 7, 2026
+Why it matters: Routine official update
+Summary: Inside Porsche Cup Brasil’s AI-powered race operations
+Link: https://news.microsoft.com/source/latam/features/ai/porsche-cup-brasil-ai-powered-crash-analysis?lang=en
+
+### OpenAI - Parloa builds service agents customers want to talk to
+Source: OpenAI Newsroom
+Published: May 7, 2026
+Why it matters: Routine official update
+Summary: Parloa leverages OpenAI models to power scalable, voice-driven AI customer service agents, enabling enterprises to design, simulate, and deploy reliable, real-time interactions.
+Link: https://openai.com/index/parloa
