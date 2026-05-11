@@ -4,6 +4,7 @@
 
 What it does:
 - checks a curated list of official company pages
+- checks a curated external-news lane for major legal, regulatory, financing, partnership, infrastructure, and leadership stories
 - discovers RSS/Atom feeds when available, with HTML fallbacks
 - deduplicates against local state so you only see new items
 - scores items into `critical`, `important`, and `digest`
@@ -19,6 +20,11 @@ What it does:
 - Google DeepMind
 - Meta Newsroom
 - Microsoft AI
+
+## Digest Lanes
+
+- `External News`: major external coverage for lawsuits, regulation, partnerships, financing, infrastructure, and other material company moves
+- `Official Company Updates`: product launches, policy updates, engineering posts, and other first-party announcements
 
 ## Project Layout
 
@@ -64,5 +70,6 @@ The workflow:
 ## Notes
 
 - V1 is intentionally narrow: official company sources first, no Slack/email delivery yet.
+- V1.1 adds a second lane for major external news using Google News RSS queries plus a credible-publisher filter.
 - If a source exposes RSS/Atom, the script uses that first because dates and summaries are more reliable.
 - Broad tech news sources and social sources can be added later as separate adapters.

@@ -23,6 +23,28 @@ const DEFAULT_LOOKBACK_DAYS = 7;
 const DEFAULT_TOTAL_LIMIT = 24;
 const DEFAULT_ITEMS_PER_SOURCE = 6;
 const DIGEST_TIME_ZONE = 'America/Los_Angeles';
+const EXTERNAL_ALLOWED_PUBLISHERS = [
+  'Reuters',
+  'AP News',
+  'Associated Press',
+  'Bloomberg',
+  'CNBC',
+  'CNN',
+  'NBC News',
+  'The New York Times',
+  'The Wall Street Journal',
+  'Financial Times',
+  'The Washington Post',
+  'TechCrunch',
+  'The Verge',
+  'Wired',
+  'Axios',
+  'Fortune',
+  'Yahoo Finance',
+  'Semafor',
+  'The Information'
+];
+const EXTERNAL_SIGNAL_PATTERN = /\b(lawsuit|sue[sd]?|trial|court|judge|hearing|injunction|testif(?:y|ies|ied)|regulator|regulatory|antitrust|settlement|probe|investigation|acquir(?:e|es|ed|ing)|acquisition|merger|partner(?:ship|s|ed)?|deal|contract|valuation|funding|revenue|unioniz(?:e|ed|ing)|resign(?:ed|s|ing)?|step down|appointed|appoints|fired|ousted|leadership|founder|board|security|breach|data center|datacenter|chip|military)\b/i;
 const REMOVABLE_QUERY_PARAMS = new Set([
   'utm_source',
   'utm_medium',
@@ -42,7 +64,7 @@ const CLASSIFIERS = [
   {
     score: 5,
     reason: 'Corporate move or major external event',
-    pattern: /\b(acquir(?:e|es|ed|ing)|acquisition|merger|invest(?:ment|s|ed)?|partner(?:ship|s|ed)?|joint venture|regulator|regulatory|antitrust|lawsuit|settlement|ban|blocked)\b/i
+    pattern: /\b(acquir(?:e|es|ed|ing)|acquisition|merger|invest(?:ment|s|ed)?|partner(?:ship|s|ed)?|joint venture|regulator|regulatory|antitrust|lawsuit|sue[sd]?|trial|court|judge|hearing|injunction|investigation|probe|settlement|ban|blocked)\b/i
   },
   {
     score: 4,
@@ -120,13 +142,18 @@ async function main() {
     lookbackDays,
     sourcesChecked: activeSources.map(source => ({
       id: source.id,
+      kind: source.kind || 'official',
       company: source.company,
       label: source.label
     })),
     totals: {
       fetched: fetchedItems.length,
       deduped: dedupedItems.length,
-      new: newItems.length
+      new: newItems.length,
+      byKind: {
+        official: countItemsByKind(dedupedItems, 'official'),
+        external: countItemsByKind(dedupedItems, 'external')
+      }
     },
     items: dedupedItems,
     newItems,
@@ -217,15 +244,19 @@ function pruneState(state, now) {
 async function fetchSource(source, lookbackMs, now) {
   let html = '';
   let htmlError = null;
-  try {
-    html = await fetchText(source.homepageUrl);
-  } catch (error) {
-    htmlError = error;
+  const homepageUrl = source.homepageUrl || buildSourceHomepageUrl(source);
+
+  if (!source.skipHomepageFetch && homepageUrl) {
+    try {
+      html = await fetchText(homepageUrl);
+    } catch (error) {
+      htmlError = error;
+    }
   }
 
   const feedUrls = [
-    ...(source.feedUrls || []),
-    ...(html ? discoverFeedUrls(html, source.homepageUrl) : [])
+    ...buildConfiguredFeedUrls(source),
+    ...(html ? discoverFeedUrls(html, homepageUrl) : [])
   ];
 
   const feedItems = [];
@@ -241,8 +272,8 @@ async function fetchSource(source, lookbackMs, now) {
     }
   }
 
-  const jsonLdItems = html ? parseJsonLdArticles(html, source.homepageUrl) : [];
-  const anchorItems = html ? parseAnchorArticles(html, source.homepageUrl) : [];
+  const jsonLdItems = html ? parseJsonLdArticles(html, homepageUrl) : [];
+  const anchorItems = html ? parseAnchorArticles(html, homepageUrl) : [];
 
   const merged = dedupeItems(
     [...feedItems, ...jsonLdItems, ...anchorItems]
@@ -310,6 +341,7 @@ function discoverFeedUrls(html, baseUrl) {
 }
 
 function parseFeed(xml, baseUrl) {
+  const isGoogleNews = isGoogleNewsFeed(baseUrl);
   const blocks = xml.match(/<item\b[\s\S]*?<\/item>/gi) || xml.match(/<entry\b[\s\S]*?<\/entry>/gi) || [];
   return blocks
     .map(block => {
@@ -318,12 +350,16 @@ function parseFeed(xml, baseUrl) {
       if (!title || !url) return null;
 
       const publishedAt = readXmlTag(block, ['pubDate', 'published', 'updated', 'dc:date']);
-      const summary = readXmlTag(block, ['description', 'summary', 'content:encoded', 'content']);
+      const rawSummary = readXmlTag(block, ['description', 'summary', 'content:encoded', 'content']);
+      const publication = readXmlSource(block)
+        || extractPublisherFromNewsDescription(rawSummary)
+        || extractPublisherFromTitle(title);
       return {
         url: normalizeUrl(url, baseUrl),
         title: cleanText(title),
-        summary: cleanText(summary),
+        summary: isGoogleNews ? '' : cleanText(rawSummary),
         publishedAt: toIsoDate(publishedAt),
+        publisher: publication,
         discoveryMethod: 'feed'
       };
     })
@@ -433,10 +469,12 @@ function parseAnchorArticles(html, baseUrl) {
 function normalizeItem(item, source) {
   if (!item || !item.url || !item.title) return null;
 
-  const normalizedUrl = normalizeUrl(item.url, source.homepageUrl);
+  const homepageUrl = source.homepageUrl || buildSourceHomepageUrl(source);
+  const normalizedUrl = normalizeUrl(item.url, homepageUrl);
   if (!normalizedUrl) return null;
 
-  const title = cleanupTitle(item.title);
+  const publisher = cleanupPublisher(item.publisher);
+  const title = stripTrailingPublisher(cleanupTitle(item.title), publisher);
   if (!title) return null;
 
   const summary = cleanupSummary(item.summary);
@@ -446,22 +484,25 @@ function normalizeItem(item, source) {
   return {
     id,
     company: source.company,
+    sourceKind: source.kind || 'official',
     sourceId: source.id,
     sourceLabel: source.label,
-    homepageUrl: source.homepageUrl,
+    homepageUrl,
     url: normalizedUrl,
     title,
     summary,
     publishedAt,
+    publisher,
     discoveryMethod: item.discoveryMethod || 'unknown'
   };
 }
 
 function isAllowedBySource(item, source) {
-  if (item.url === normalizeUrl(source.homepageUrl, source.homepageUrl)) return false;
+  const homepageUrl = source.homepageUrl || buildSourceHomepageUrl(source);
+  if (item.url === normalizeUrl(homepageUrl, homepageUrl)) return false;
 
   const url = new URL(item.url);
-  const homepage = new URL(source.homepageUrl);
+  const homepage = new URL(homepageUrl);
   if (source.allowedHostnames && source.allowedHostnames.length > 0) {
     if (!source.allowedHostnames.includes(url.hostname)) return false;
   } else if (url.hostname !== homepage.hostname) {
@@ -488,6 +529,19 @@ function isAllowedBySource(item, source) {
     if (hasExcludedKeyword) return false;
   }
 
+  if ((source.kind || 'official') === 'external') {
+    if (!item.publisher) return false;
+    if (!publisherMatchesAny(item.publisher, source.allowedPublishers || EXTERNAL_ALLOWED_PUBLISHERS)) {
+      return false;
+    }
+    if (source.excludePublishers && publisherMatchesAny(item.publisher, source.excludePublishers)) {
+      return false;
+    }
+    if (!EXTERNAL_SIGNAL_PATTERN.test(`${item.title}\n${item.summary}\n${item.publisher}`)) {
+      return false;
+    }
+  }
+
   return true;
 }
 
@@ -500,8 +554,10 @@ function isWithinLookback(item, lookbackMs, now) {
 
 function classifyItem(item, now) {
   const haystack = `${item.title} ${item.summary}`.toLowerCase();
-  let score = 1;
-  let reason = 'Routine official update';
+  let score = item.sourceKind === 'external' ? 2 : 1;
+  let reason = item.sourceKind === 'external'
+    ? 'External coverage worth scanning'
+    : 'Routine official update';
 
   for (const classifier of CLASSIFIERS) {
     if (classifier.pattern.test(haystack)) {
@@ -509,6 +565,13 @@ function classifyItem(item, now) {
         score = classifier.score;
         reason = classifier.reason;
       }
+    }
+  }
+
+  if (item.sourceKind === 'external' && item.publisher && publisherMatchesAny(item.publisher, EXTERNAL_ALLOWED_PUBLISHERS)) {
+    score += 1;
+    if (reason === 'External coverage worth scanning') {
+      reason = 'Trusted external coverage';
     }
   }
 
@@ -530,6 +593,9 @@ function compareItems(left, right) {
   const scoreDelta = (right.classification?.score || 0) - (left.classification?.score || 0);
   if (scoreDelta !== 0) return scoreDelta;
 
+  const kindDelta = sourceKindRank(right.sourceKind) - sourceKindRank(left.sourceKind);
+  if (kindDelta !== 0) return kindDelta;
+
   const leftTime = left.publishedAt ? Date.parse(left.publishedAt) : 0;
   const rightTime = right.publishedAt ? Date.parse(right.publishedAt) : 0;
   if (rightTime !== leftTime) return rightTime - leftTime;
@@ -546,7 +612,17 @@ function dedupeItems(items) {
       byUrl.set(item.url, item);
     }
   }
-  return [...byUrl.values()];
+
+  const byHeadline = new Map();
+  for (const item of byUrl.values()) {
+    const key = buildHeadlineKey(item);
+    const existing = byHeadline.get(key);
+    if (!existing || scoreCandidate(item) > scoreCandidate(existing)) {
+      byHeadline.set(key, item);
+    }
+  }
+
+  return [...byHeadline.values()];
 }
 
 function scoreCandidate(item) {
@@ -556,7 +632,16 @@ function scoreCandidate(item) {
   if (item.title) score += Math.min(item.title.length, 120) / 120;
   if (item.discoveryMethod === 'feed') score += 1;
   if (item.discoveryMethod === 'json-ld') score += 0.5;
+  if (item.publisher && publisherMatchesAny(item.publisher, EXTERNAL_ALLOWED_PUBLISHERS)) score += 1;
   return score;
+}
+
+function buildHeadlineKey(item) {
+  const titleKey = cleanupPublisher(item.title)
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, ' ')
+    .trim();
+  return `${item.company || ''}::${titleKey}`;
 }
 
 function renderDigest(summary) {
@@ -570,33 +655,24 @@ function renderDigest(summary) {
     `Items fetched: ${summary.totals.fetched}`,
     `Items kept: ${summary.totals.deduped}`,
     `New items: ${summary.totals.new}`,
+    `External items kept: ${summary.totals.byKind.external}`,
+    `Official items kept: ${summary.totals.byKind.official}`,
     ''
-  ];
-
-  const buckets = [
-    ['critical', 'Critical'],
-    ['important', 'Important'],
-    ['digest', 'Digest']
   ];
 
   if (summary.newItems.length === 0) {
     lines.push('## No New Items', '', 'No unseen items were found in the current lookback window.', '');
   } else {
-    for (const [bucketId, bucketLabel] of buckets) {
-      const bucketItems = summary.newItems.filter(item => item.classification.bucket === bucketId);
-      if (bucketItems.length === 0) continue;
-
-      lines.push(`## ${bucketLabel}`, '');
-      for (const item of bucketItems) {
-        lines.push(`### ${item.company} - ${item.title}`);
-        lines.push(`Source: ${item.sourceLabel}`);
-        lines.push(`Published: ${formatDate(item.publishedAt)}`);
-        lines.push(`Why it matters: ${item.classification.reason}`);
-        if (item.summary) lines.push(`Summary: ${item.summary}`);
-        lines.push(`Link: ${item.url}`);
-        lines.push('');
-      }
-    }
+    renderKindSections(lines, summary.newItems, 'external', [
+      ['critical', 'Critical External News'],
+      ['important', 'Important External News'],
+      ['digest', 'External News']
+    ]);
+    renderKindSections(lines, summary.newItems, 'official', [
+      ['critical', 'Critical Official Updates'],
+      ['important', 'Important Official Updates'],
+      ['digest', 'Official Company Updates']
+    ]);
   }
 
   if (summary.errors.length > 0) {
@@ -608,6 +684,27 @@ function renderDigest(summary) {
   }
 
   return lines.join('\n').trimEnd();
+}
+
+function renderKindSections(lines, items, sourceKind, sections) {
+  for (const [bucketId, heading] of sections) {
+    const bucketItems = items.filter(item =>
+      item.sourceKind === sourceKind && item.classification.bucket === bucketId
+    );
+    if (bucketItems.length === 0) continue;
+
+    lines.push(`## ${heading}`, '');
+    for (const item of bucketItems) {
+      lines.push(`### ${item.company} - ${item.title}`);
+      lines.push(`Source: ${item.sourceLabel}`);
+      if (item.publisher) lines.push(`Publisher: ${item.publisher}`);
+      lines.push(`Published: ${formatDate(item.publishedAt)}`);
+      lines.push(`Why it matters: ${item.classification.reason}`);
+      if (item.summary) lines.push(`Summary: ${item.summary}`);
+      lines.push(`Link: ${item.url}`);
+      lines.push('');
+    }
+  }
 }
 
 function readXmlTag(block, tagNames) {
@@ -632,6 +729,11 @@ function readXmlLink(block) {
   if (textMatch) return textMatch[1].trim();
 
   return '';
+}
+
+function readXmlSource(block) {
+  const match = block.match(/<source\b[^>]*>([\s\S]*?)<\/source>/i);
+  return match ? cleanText(match[1]) : '';
 }
 
 function parseJsonSafe(text) {
@@ -669,6 +771,38 @@ function normalizeUrl(url, baseUrl) {
   }
 }
 
+function buildConfiguredFeedUrls(source) {
+  const urls = [...(source.feedUrls || [])];
+  if (source.provider === 'google-news' && source.query) {
+    urls.push(buildGoogleNewsFeedUrl(source.query));
+  }
+  return urls;
+}
+
+function buildSourceHomepageUrl(source) {
+  if (source.provider === 'google-news' && source.query) {
+    return buildGoogleNewsSearchUrl(source.query);
+  }
+  return source.homepageUrl || '';
+}
+
+function buildGoogleNewsFeedUrl(query) {
+  return `https://news.google.com/rss/search?q=${encodeURIComponent(query)}&hl=en-US&gl=US&ceid=US:en`;
+}
+
+function buildGoogleNewsSearchUrl(query) {
+  return `https://news.google.com/search?q=${encodeURIComponent(query)}&hl=en-US&gl=US&ceid=US:en`;
+}
+
+function isGoogleNewsFeed(url) {
+  try {
+    const parsed = new URL(url);
+    return parsed.hostname === 'news.google.com';
+  } catch {
+    return false;
+  }
+}
+
 function cleanupTitle(text) {
   const cleaned = collapseWhitespace(
     decodeEntities(String(text || ''))
@@ -680,6 +814,13 @@ function cleanupTitle(text) {
   if (!cleaned) return '';
   if (/^(read more|learn more|watch now|listen now)$/i.test(cleaned)) return '';
   return cleaned;
+}
+
+function stripTrailingPublisher(title, publisher) {
+  if (!publisher) return title;
+  return title
+    .replace(new RegExp(`\\s[-–—]\\s${escapeRegex(publisher)}$`, 'i'), '')
+    .trim();
 }
 
 function cleanupAnchorTitle(text) {
@@ -708,6 +849,10 @@ function cleanupSummary(text) {
   if (!cleaned) return '';
   if (cleaned.toLowerCase() === 'read more') return '';
   return cleaned;
+}
+
+function cleanupPublisher(text) {
+  return collapseWhitespace(decodeEntities(String(text || ''))).trim();
 }
 
 function cleanText(text) {
@@ -741,6 +886,18 @@ function truncateText(text, limit) {
   return `${clean.slice(0, limit - 1).trim()}...`;
 }
 
+function extractPublisherFromNewsDescription(text) {
+  const raw = String(text || '');
+  const match = raw.match(/<font[^>]*>([\s\S]*?)<\/font>/i);
+  return match ? cleanText(match[1]) : '';
+}
+
+function extractPublisherFromTitle(text) {
+  const clean = cleanText(text);
+  const match = clean.match(/\s[-–—]\s([^–—-]{2,80})$/);
+  return match ? cleanupPublisher(match[1]) : '';
+}
+
 function textContainsKeyword(text, keyword) {
   const escaped = escapeRegex(keyword).replace(/\s+/g, '\\s+');
   return new RegExp(`\\b${escaped}\\b`, 'i').test(text);
@@ -748,6 +905,22 @@ function textContainsKeyword(text, keyword) {
 
 function escapeRegex(text) {
   return String(text || '').replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+}
+
+function publisherMatchesAny(publisher, names) {
+  return names.some(name => {
+    const left = publisher.toLowerCase();
+    const right = String(name || '').toLowerCase();
+    return left === right || left.includes(right) || right.includes(left);
+  });
+}
+
+function sourceKindRank(sourceKind) {
+  return sourceKind === 'external' ? 1 : 0;
+}
+
+function countItemsByKind(items, sourceKind) {
+  return items.filter(item => item.sourceKind === sourceKind).length;
 }
 
 function extractDateToken(text) {

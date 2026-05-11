@@ -4,6 +4,7 @@
   "sources": [
     {
       "id": "openai-newsroom",
+      "kind": "official",
       "company": "OpenAI",
       "label": "OpenAI Newsroom",
       "homepageUrl": "https://openai.com/newsroom/",
@@ -16,6 +17,7 @@
     },
     {
       "id": "anthropic-news",
+      "kind": "official",
       "company": "Anthropic",
       "label": "Anthropic News",
       "homepageUrl": "https://www.anthropic.com/news",
@@ -25,6 +27,7 @@
     },
     {
       "id": "anthropic-engineering",
+      "kind": "official",
       "company": "Anthropic",
       "label": "Anthropic Engineering",
       "homepageUrl": "https://www.anthropic.com/engineering",
@@ -34,6 +37,7 @@
     },
     {
       "id": "google-ai",
+      "kind": "official",
       "company": "Google",
       "label": "Google AI",
       "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
@@ -63,6 +67,7 @@
     },
     {
       "id": "google-deepmind",
+      "kind": "official",
       "company": "Google DeepMind",
       "label": "Google DeepMind Blog",
       "homepageUrl": "https://deepmind.google/blog/",
@@ -72,6 +77,7 @@
     },
     {
       "id": "meta-newsroom",
+      "kind": "official",
       "company": "Meta",
       "label": "Meta Newsroom",
       "homepageUrl": "https://about.fb.com/news/",
@@ -91,6 +97,7 @@
     },
     {
       "id": "microsoft-ai",
+      "kind": "official",
       "company": "Microsoft",
       "label": "Microsoft AI",
       "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
@@ -110,6 +117,99 @@
         "azure ai",
         "artificial intelligence"
       ]
+    },
+    {
+      "id": "external-openai-major",
+      "kind": "external",
+      "provider": "google-news",
+      "company": "OpenAI",
+      "label": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "skipHomepageFetch": true,
+      "query": "OpenAI (Musk OR Altman OR Microsoft OR board OR regulator OR antitrust OR acquisition OR partnership OR settlement OR investigation OR trial OR court OR security OR breach OR funding)",
+      "articlePathPrefixes": [
+        "/rss/articles/"
+      ],
+      "requiredKeywords": [
+        "openai"
+      ],
+      "maxItems": 4
+    },
+    {
+      "id": "external-anthropic-major",
+      "kind": "external",
+      "provider": "google-news",
+      "company": "Anthropic",
+      "label": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "skipHomepageFetch": true,
+      "query": "(Anthropic OR Claude) (Amazon OR Google OR regulator OR antitrust OR acquisition OR partnership OR settlement OR investigation OR trial OR court OR security OR breach OR funding OR CEO)",
+      "articlePathPrefixes": [
+        "/rss/articles/"
+      ],
+      "requiredKeywords": [
+        "anthropic",
+        "claude"
+      ],
+      "maxItems": 4
+    },
+    {
+      "id": "external-google-major",
+      "kind": "external",
+      "provider": "google-news",
+      "company": "Google",
+      "label": "Major External News - Google",
+      "homepageUrl": "https://news.google.com/",
+      "skipHomepageFetch": true,
+      "query": "(\"Google DeepMind\" OR Gemini OR \"Google AI\") (regulator OR antitrust OR acquisition OR partnership OR settlement OR investigation OR trial OR court OR security OR breach OR chip OR CEO)",
+      "articlePathPrefixes": [
+        "/rss/articles/"
+      ],
+      "requiredKeywords": [
+        "google",
+        "gemini",
+        "deepmind"
+      ],
+      "maxItems": 4
+    },
+    {
+      "id": "external-meta-major",
+      "kind": "external",
+      "provider": "google-news",
+      "company": "Meta",
+      "label": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "skipHomepageFetch": true,
+      "query": "(Meta OR \"Meta AI\" OR Llama) (regulator OR antitrust OR acquisition OR partnership OR settlement OR investigation OR trial OR court OR security OR breach OR chip OR data center OR CEO)",
+      "articlePathPrefixes": [
+        "/rss/articles/"
+      ],
+      "requiredKeywords": [
+        "meta",
+        "llama",
+        "meta ai"
+      ],
+      "maxItems": 4
+    },
+    {
+      "id": "external-microsoft-major",
+      "kind": "external",
+      "provider": "google-news",
+      "company": "Microsoft",
+      "label": "Major External News - Microsoft",
+      "homepageUrl": "https://news.google.com/",
+      "skipHomepageFetch": true,
+      "query": "(Microsoft OR Copilot OR \"Azure AI\" OR OpenAI) (regulator OR antitrust OR acquisition OR partnership OR settlement OR investigation OR trial OR court OR security OR breach OR CEO)",
+      "articlePathPrefixes": [
+        "/rss/articles/"
+      ],
+      "requiredKeywords": [
+        "microsoft",
+        "copilot",
+        "azure ai",
+        "openai"
+      ],
+      "maxItems": 4
     }
   ]
 }

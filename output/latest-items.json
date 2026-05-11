@@ -1,52 +1,265 @@
 {
-  "generatedAt": "2026-05-10T22:25:27.596Z",
+  "generatedAt": "2026-05-11T03:21:34.393Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
       "id": "openai-newsroom",
+      "kind": "official",
       "company": "OpenAI",
       "label": "OpenAI Newsroom"
     },
     {
       "id": "anthropic-news",
+      "kind": "official",
       "company": "Anthropic",
       "label": "Anthropic News"
     },
     {
       "id": "anthropic-engineering",
+      "kind": "official",
       "company": "Anthropic",
       "label": "Anthropic Engineering"
     },
     {
       "id": "google-ai",
+      "kind": "official",
       "company": "Google",
       "label": "Google AI"
     },
     {
       "id": "google-deepmind",
+      "kind": "official",
       "company": "Google DeepMind",
       "label": "Google DeepMind Blog"
     },
     {
       "id": "meta-newsroom",
+      "kind": "official",
       "company": "Meta",
       "label": "Meta Newsroom"
     },
     {
       "id": "microsoft-ai",
+      "kind": "official",
       "company": "Microsoft",
       "label": "Microsoft AI"
+    },
+    {
+      "id": "external-openai-major",
+      "kind": "external",
+      "company": "OpenAI",
+      "label": "Major External News - OpenAI"
+    },
+    {
+      "id": "external-anthropic-major",
+      "kind": "external",
+      "company": "Anthropic",
+      "label": "Major External News - Anthropic"
+    },
+    {
+      "id": "external-google-major",
+      "kind": "external",
+      "company": "Google",
+      "label": "Major External News - Google"
+    },
+    {
+      "id": "external-meta-major",
+      "kind": "external",
+      "company": "Meta",
+      "label": "Major External News - Meta"
+    },
+    {
+      "id": "external-microsoft-major",
+      "kind": "external",
+      "company": "Microsoft",
+      "label": "Major External News - Microsoft"
     }
   ],
   "totals": {
-    "fetched": 28,
+    "fetched": 46,
     "deduped": 24,
-    "new": 24
+    "new": 24,
+    "byKind": {
+      "official": 8,
+      "external": 16
+    }
   },
   "items": [
     {
+      "id": "b09ea0013da0ffa214f0087e746e1cd0f4b6027e",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNzc4Zy1nN0h0eXoyQjVqU3Uyb0tlYlhtYVFlUlJfSFJNN3JhLURwTFR6TEx2UTRpeWlBUEl4dTFtSTg2UVpFN0NDdmIwR0YweWd3dUhBQkQyLWstTWx4QkZyaXloVUxjRUlkNkU3M1BETEJ1UlRUYmNseTRpYzRpUQ?oc=5",
+      "title": "‘Terminator’ Fears and Internal Dysfunction: Inside the OpenAI Trial",
+      "summary": "",
+      "publishedAt": "2026-05-10T15:48:00.000Z",
+      "publisher": "The New York Times",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "3606cb389cf78f9cae011586af30ba719ce6890d",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcFBfM2V3SG1GN25va2JrVFFRTFR3X3BRcklMWDhzNm1pTlJvNXFTWm9DOHdtdmhqd2tFLUR0TE5nREdXaXZjSW1zS3htbm52cHNudFRpanhHak9RS0FWaTVQcFE4ZmxKUlFENGczYUVSYldCcFJVX0d5YTNscFlHd295U0I?oc=5",
+      "title": "OpenAI trial lays bare rivalries behind start-up’s $852bn rise",
+      "summary": "",
+      "publishedAt": "2026-05-10T06:01:25.000Z",
+      "publisher": "Financial Times",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "d7d8d1548f4b8135256d2c7528f3a32213621e07",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQX19xT0k5b2FTelhTOFNPT3lkVGF6RmIxWXpkbHBDVzRhVkpNbzFMMGdYTVJkTlkyaThiSDlJclBtdUpfOGljV1J2TjkzV0hOX1p3ZzRhRFRmWkJjVnJuSzhzNXQzYmV0UmwzWnFJdWpiYzBKbXRIR2lqR0lJSlhLOF9XUTlIM0EtYjhyY0l2U0lRcVlBa01ZNUMzbTY5X0prNG51UUVLVnh0d2JPbkZJdU13?oc=5",
+      "title": "Musk, Altman Management Styles Under Fire at OpenAI Trial",
+      "summary": "",
+      "publishedAt": "2026-05-08T19:22:19.000Z",
+      "publisher": "Bloomberg.com",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "18dd218b03c3be75b53b2f909d4eaf5f9c2b0fb0",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRFBNLXJad0ozUDNtUlA3OUlKS05hYmRVR3Z6anBBeERLa3BTaC0xSXhJNmszckREd1RrVlVyS2NrSkYxdDFYQWxPUlJlLXFxLTNSTGp5RjJtYWxURjZQYmNTSFNJbGNKZllpOUUtMXlXSWhlM0k3S3Fpd1h2VDFnQVZTQW8ydDJZNGlRQzVoem1hOU82Zk52bTdYUzJDLVRfMXZIc2tCY2owdERaUkZQWDY1VVF2bkZDeGRUQ2IxQ3dsMXRLZ2VkTEh6anN0SndCUHNvVzNoNEdaY0lFYlE?oc=5",
+      "title": "Everything you need to know from the first 2 weeks of the Musk v. OpenAI trial",
+      "summary": "",
+      "publishedAt": "2026-05-08T14:41:57.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "8f017d4739387dd487afb936a6df96af877349a2",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcThyNEt6XzJ4TkQ5YmZMNTJPZ1ZLRG9zNExMX3J5ODFfM09iYlNMSzhSRW9Cc2ctbXgtUXlydUJtQ05WU3hoS3RVNEhsZ2tQME95Vk1TczNLWnRkbkx5WXZNVFFPeXpwU3JFd1FWTnRMY1JuYl9XajZsY0xrU2M5enQydVRab3dCbkdKbF9QM19OWmc3bFNya19taU1VS0I5aFRoeVlhVFl0bkU?oc=5",
+      "title": "Anthropic CEO on compute: 'We're going to acquire as much as we can'",
+      "summary": "",
+      "publishedAt": "2026-05-07T16:05:00.000Z",
+      "publisher": "CNBC",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "7116923edac3fe28b6c38df679eb0dc244b910ea",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTFYyVkJPVDJWR3RDZjhDWGxMSFJlQ09DdnNXVGdacUpQY1htZ09sTUg0Ql9MUVhnZmhYajdLRTc0bzBNOEtlRENwLWJNYmZoZHZLRnFFZERjM2xlQjdxNGN4V3V6YkVXNDVrRHhacmxPMGxURFdNY2R6V0lVTGcyWl9TM2VKZEhJdTNfaHhfUzc1S3Q4UnM3bklPLVBfQ0lp?oc=5",
+      "title": "Microsoft’s AI Safety Role Grows As Infrastructure Hiring And Security Risks Mount",
+      "summary": "",
+      "publishedAt": "2026-05-09T16:18:43.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "0a81434536a7d928cb028717894020d48ca25781",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOHRIbk5QN3lGWGMwU05DTDJSb0l1SzN5RnFyVGJ0Q0tSU19Ma2k3a0lzZFhGc01LMkVLQnFUVkE2QzhmMjJpMWdjbXRYS0FCUVVtUng1WFF4LTByWFY5RGZkaHZkSllORlRTS2F5S2gyVjFnNlNEdHpJbU5yRzk1SjNkaG0tM0VEcE1LUDB4Tm1PRS0wRWRiSXdOQXViUlBzMjVqczJCMA?oc=5",
+      "title": "Microsoft boss to testify on his role in OpenAI's founding",
+      "summary": "",
+      "publishedAt": "2026-05-11T01:13:00.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "298bf13afce009daaadc9e73ac49634acd47f6e5",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMnhGNkwwYUVqY3hycV9GZTk5bUZlNmJtcUtFdnRXczdWZ2pVYnVxMmJTRTZJa003LVYtUGtCeUYzZ3VLVGNvWkp1TFE5eHphZ0dHSkk0cVlUSmtDeWtuY1BodkN0N2dSc1Q3QWZWcGQtX3o5QzVVUUFuM0liT1FEcTBYTV9JQUtWTmVOOXpYTXNnSm1L?oc=5",
+      "title": "We’re feeling cynical about xAI’s big deal with Anthropic",
+      "summary": "",
+      "publishedAt": "2026-05-10T15:34:25.000Z",
+      "publisher": "TechCrunch",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "f17943198a956244795a5c08ed365f73ee8ec76d",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5xbmM0UHJaQWxkV1c4NDE1aWJiMUhUY29wOVRmNC1vMzBUZFVKMmZhV1RBUmwzYV9FX3duSUs0amtScEJkQy11bU1HR0JzNjc5YmVPZWd3ZjRpRTVsVGhJVzEtemhUWkVSUFpEYWFsR3hzWTczWnM4VQ?oc=5",
+      "title": "Meta got a $3.3 billion tax break for its $10 billion AI data center — and it could consume 20% of Louisiana's power",
+      "summary": "",
+      "publishedAt": "2026-05-10T10:15:00.000Z",
+      "publisher": "Yahoo Finance Singapore",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
       "id": "fe948365c4d6a69e5ad56049aec47391b19b0780",
       "company": "OpenAI",
+      "sourceKind": "official",
       "sourceId": "openai-newsroom",
       "sourceLabel": "OpenAI Newsroom",
       "homepageUrl": "https://openai.com/newsroom/",
@@ -54,6 +267,7 @@
       "title": "Introducing Trusted Contact in ChatGPT",
       "summary": "Introducing Trusted Contact in ChatGPT, an optional safety feature that notifies someone you trust if serious self-harm concerns are detected.",
       "publishedAt": "2026-05-07T00:00:00.000Z",
+      "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -64,6 +278,7 @@
     {
       "id": "4d3c4343934e34e05ba34915b825e514a1c823f1",
       "company": "Google",
+      "sourceKind": "official",
       "sourceId": "google-ai",
       "sourceLabel": "Google AI",
       "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
@@ -71,6 +286,7 @@
       "title": "The latest AI news we announced in April 2026",
       "summary": "Here are Google’s latest AI updates from April 2026",
       "publishedAt": "2026-05-04T17:00:00.000Z",
+      "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -81,6 +297,7 @@
     {
       "id": "027ccaad6e6b1b5d3f5391ecfd2ae77b6f416a3e",
       "company": "Meta",
+      "sourceKind": "official",
       "sourceId": "meta-newsroom",
       "sourceLabel": "Meta Newsroom",
       "homepageUrl": "https://about.fb.com/news/",
@@ -88,6 +305,7 @@
       "title": "Introducing Muse Spark: MSL’s First Model, Purpose-Built to Prioritize People",
       "summary": "",
       "publishedAt": null,
+      "publisher": "",
       "discoveryMethod": "anchor",
       "classification": {
         "bucket": "important",
@@ -96,8 +314,142 @@
       }
     },
     {
+      "id": "276fdbb1f8c580b0b7055e5b56169dfad8b5fdd6",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNE9uSzdNaHJsd1N3WlBfbXQzM0dvdnAzWVpxUGh2SmN0cDl0VDhnbDRDellzb0N4SWxRRTVLX1ZvWk9SbzlWSGNiMHAtREstaUpYNlFXYW5UelduUnBNeFFhdW9FLU9aZjdDSE53dTNxSFRzd1VVNXEtVEh0dzRsM0kxTjF0THl4bk5KcFVvc0E1bjFSQUtKaw?oc=5",
+      "title": "Anthropic grew 80-fold in a single quarter. Now it’s renting Elon Musk’s data center to cope",
+      "summary": "",
+      "publishedAt": "2026-05-08T14:45:00.000Z",
+      "publisher": "Fortune",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "3e1bb621095da3731b4cc7c7e37af07d4138db20",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbm50a0dOeDRWaURZY3JFcjlDZjk4TV9VTE91UW0ydW80QmRnQ0t5bGR2WkFtWFFwN1RsdmFacnNSYnV6aWJsQnhyNDQzUWtGMDhyZGpjYTZuZjNmN1RnUFVreU0xUFFhb1VzOUFVSWFydUJpUnFLR0stTTJ5NWNXSnpKV24?oc=5",
+      "title": "Anthropic weighs deal for near $1tn valuation as revenue surges",
+      "summary": "",
+      "publishedAt": "2026-05-08T04:00:52.000Z",
+      "publisher": "Financial Times",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "bae3fd4ddee42a78fcab16673f7f4cb7dd7be47e",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSER6ZTBhM0x0bTVHUk1ka3l4S2FXWXp4NU5lanlUR0VubDJFZ0NLWGhNQnBRend0Y201QVhXVVNlMWgzN3UxQkdTTUNTZjFjZmxDUDRQMU1xOXNEX1pzTlBwalBUSjdvNE1nTlR4bE9iQWZISlRqOGRWZ1liQl9nVTBDT0xJSzBWaHlBbGFTUjFOd3FtSUM4VFZ3SQ?oc=5",
+      "title": "Why Entergy (ETR) Is Expanding Its Grid for Meta’s Data Center Boom",
+      "summary": "",
+      "publishedAt": "2026-05-05T17:30:15.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "0fcaef71357ac11411ca60942dfc07a979d442b2",
+      "company": "Google",
+      "sourceKind": "external",
+      "sourceId": "external-google-major",
+      "sourceLabel": "Major External News - Google",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVFdjWmFVUEc0OE9zZjdMWF8yY2d0bUNKRFAwM0l1NzItaklPZkFXeVFCY0JHTXo5SF9CUDlkR1FvV2xDMS0wSWpQdTU3MXAzamltV2dwV3c0UHhzNk96b21LT3BkM1VOQjJOUjJKd0NLcGhRSjllNTZ3bXBfNXh4T2RVdFl1QXk3Ylkya01mbS14dUJ4UE5EdTVTeHdDRUx1d0J5b3J1QW1SQ3pyNHVXT291SGUzMDBlWU1jakg5WUlqcExTMENIMTRPV0dzbzg3VlptSg?oc=5",
+      "title": "Google DeepMind workers in the U.K. vote to unionize over military AI contracts",
+      "summary": "",
+      "publishedAt": "2026-05-05T14:33:00.000Z",
+      "publisher": "Fortune",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "924af8a2a3f17cf984278389fe3d89d1c2541bfe",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeDZ5WThoSHh0bHJLajhKZnFCbDB2eFRsdG5NZWNlSFAxbER5RFpmX2NBX0F6TWtmRmtaTWhGNWJRY0lnV2VpRmJkYTMxbHNIcldOM1M5SmlIcEh4TkRWdTNkOG9TWlBoN3h0ZHRTYXB2UFlCUXd0dkQxSDVILXpMczN0UzAtVHJJdXJocVZSb0t2YXExMXFhNEVzZ0k4S21wS255cXp5OGVfMUptSFhORjdCM1BmNHBncXRMX29zUndkOVFON2lzYg?oc=5",
+      "title": "Meta picks Morgan Stanley, JPMorgan for El Paso data center financing, source says",
+      "summary": "",
+      "publishedAt": "2026-05-04T23:19:00.000Z",
+      "publisher": "Reuters",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "17defbfc2c777f9b5e74822c329719958e6d2ab6",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTWVaMnJ6NTVWZVpycDFjSnA5LUhsMWRpRGtuTjk1SEZIQ0gtc2RkcXEwcDloZVJKWUdDSTlKZVV5eHJSZDN4eGNGbWctMFFtMzh6a01XNWNwanNoWjBmVER0a0ZjcTRLZVc4NXViYUE3dnljUi11ZEhRc3UtUmlhODZmdm4wTWJ5TzVnQTVzM3IxY0x3SE8wOGQyWmZVTVpwa0V6dWNrMzFmalNkOHI3MnJrbw?oc=5",
+      "title": "Meta Taps Morgan Stanley, JPMorgan for El Paso Data Center Deal",
+      "summary": "",
+      "publishedAt": "2026-05-04T22:56:00.000Z",
+      "publisher": "Bloomberg.com",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "64dba1d3c19a20b6fe42bcda8c8b2a6d06da261d",
+      "company": "Google",
+      "sourceKind": "external",
+      "sourceId": "external-google-major",
+      "sourceLabel": "Major External News - Google",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQkNVWUZ0eXczOUdSYlFfX1poVVhqS2RmOVZ3bnFuVG1BZWZqMVRyOHo5eXdKQzdnN25uYnlIWjluNkFISl82YUlob255c2cwOTlpcW9uaXdOdEVVazUtTFpVQWVERjEySy1IWC04Tl83TWpJR0FndUpFZlIzYzdlTmVhMGNnY0pZQ2FPanozSnFGeFRoZGVPeWZaeGVWSlc5ZFdHTy1oM3FPSV9TM3c?oc=5",
+      "title": "Google’s AI deal with the Pentagon has sparked employee backlash. But don't expect a repeat of Project Maven",
+      "summary": "",
+      "publishedAt": "2026-05-04T07:00:00.000Z",
+      "publisher": "Fortune",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
       "id": "3a0b4572422c1a8cbc95ae7fb7158fc8dc49f9d0",
       "company": "Anthropic",
+      "sourceKind": "official",
       "sourceId": "anthropic-news",
       "sourceLabel": "Anthropic News",
       "homepageUrl": "https://www.anthropic.com/news",
@@ -105,6 +457,7 @@
       "title": "Responsible Scaling Policy",
       "summary": "",
       "publishedAt": null,
+      "publisher": "",
       "discoveryMethod": "anchor",
       "classification": {
         "bucket": "important",
@@ -115,6 +468,7 @@
     {
       "id": "856246a81d636c46c0963af331b459aaebf50824",
       "company": "Google",
+      "sourceKind": "official",
       "sourceId": "google-ai",
       "sourceLabel": "Google AI",
       "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
@@ -122,6 +476,7 @@
       "title": "Find out how AlphaEvolve has gone from research to solving real-life problems.",
       "summary": "AlphaEvolve has become a powerful engine for scientific and societal progress.",
       "publishedAt": "2026-05-07T15:00:00.000Z",
+      "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "digest",
@@ -132,6 +487,7 @@
     {
       "id": "288ea344bbe070b948a869257ad84c96dd41ae04",
       "company": "OpenAI",
+      "sourceKind": "official",
       "sourceId": "openai-newsroom",
       "sourceLabel": "OpenAI Newsroom",
       "homepageUrl": "https://openai.com/newsroom/",
@@ -139,6 +495,7 @@
       "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
       "summary": "OpenAI expands Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber, helping verified defenders accelerate vulnerability research and protect critical infrastructure.",
       "publishedAt": "2026-05-07T13:00:00.000Z",
+      "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "digest",
@@ -149,6 +506,7 @@
     {
       "id": "e45ccc2c61bd1c7f0b4959275e6723bb17e1c191",
       "company": "Meta",
+      "sourceKind": "official",
       "sourceId": "meta-newsroom",
       "sourceLabel": "Meta Newsroom",
       "homepageUrl": "https://about.fb.com/news/",
@@ -156,6 +514,7 @@
       "title": "Breaking Ground on a New AI-Optimized Data Center in Tulsa, Oklahoma",
       "summary": "",
       "publishedAt": null,
+      "publisher": "",
       "discoveryMethod": "anchor",
       "classification": {
         "bucket": "digest",
@@ -166,6 +525,7 @@
     {
       "id": "bbe03a4cb01314fdb1e615ad5591c49be9dd3616",
       "company": "Meta",
+      "sourceKind": "official",
       "sourceId": "meta-newsroom",
       "sourceLabel": "Meta Newsroom",
       "homepageUrl": "https://about.fb.com/news/",
@@ -173,279 +533,8 @@
       "title": "Which AI Glasses Are Right For You?",
       "summary": "From capturing hands-free content to tracking workouts and staying connected on the go, find the AI glasses that fit your lifestyle. The post Which AI Glasses Are Right For You?",
       "publishedAt": "2026-05-08T19:00:21.000Z",
+      "publisher": "",
       "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "91ec1ce9a5cf0cecc4b0c8eada7f7ca1bc5da1cd",
-      "company": "OpenAI",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/running-codex-safely",
-      "title": "Running Codex safely at OpenAI",
-      "summary": "How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to support safe and compliant coding agent adoption.",
-      "publishedAt": "2026-05-08T12:30:00.000Z",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "4abb637a8f323f193075a4d2cf0773ac2b5220ee",
-      "company": "Microsoft",
-      "sourceId": "microsoft-ai",
-      "sourceLabel": "Microsoft AI",
-      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
-      "url": "https://news.microsoft.com/source/latam/features/ai/porsche-cup-brasil-ai-powered-crash-analysis?lang=en",
-      "title": "Inside Porsche Cup Brasil’s AI-powered race operations",
-      "summary": "Inside Porsche Cup Brasil’s AI-powered race operations",
-      "publishedAt": "2026-05-07T15:03:19.000Z",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "e41b9b9c2133078d6fdadd4945c341a0ca6a09fe",
-      "company": "OpenAI",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/parloa",
-      "title": "Parloa builds service agents customers want to talk to",
-      "summary": "Parloa leverages OpenAI models to power scalable, voice-driven AI customer service agents, enabling enterprises to design, simulate, and deploy reliable, real-time interactions.",
-      "publishedAt": "2026-05-07T11:00:00.000Z",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "4ba89a634a8ba847997e29cf1187241b04f3b55e",
-      "company": "OpenAI",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
-      "title": "Advancing voice intelligence with new models in the API",
-      "summary": "Explore new realtime voice models in the OpenAI API that can reason, translate, and transcribe speech, enabling more natural and intelligent voice experiences.",
-      "publishedAt": "2026-05-07T10:00:00.000Z",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "eed85cf61ed43c59d6f9ffa316a848faf6c9c41d",
-      "company": "OpenAI",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/simplex",
-      "title": "Simplex rethinks software development with Codex",
-      "summary": "Simplex boosts software development with ChatGPT Enterprise and Codex, reducing design, build, and testing time while scaling AI-driven workflows.",
-      "publishedAt": "2026-05-07T00:00:00.000Z",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "cb85d5cc4e125d6324f3216dd2893c77c004ec37",
-      "company": "Anthropic",
-      "sourceId": "anthropic-news",
-      "sourceLabel": "Anthropic News",
-      "homepageUrl": "https://www.anthropic.com/news",
-      "url": "https://www.anthropic.com/news/higher-limits-spacex",
-      "title": "Higher usage limits for Claude and a compute deal with SpaceX",
-      "summary": "",
-      "publishedAt": "2026-05-06T00:00:00.000Z",
-      "discoveryMethod": "anchor",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "d11e41bb8154f402fd3ee51112e48620ac7aa3cd",
-      "company": "Google",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag",
-      "title": "Gemini API File Search is now multimodal: build efficient, verifiable RAG",
-      "summary": "Updates to the Gemini API File Search tool makes building efficient, multimodal file retrieval systems easier for developers.",
-      "publishedAt": "2026-05-05T18:00:00.000Z",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "d4a46d4b932462361293acf3a7ee0a9734b5e298",
-      "company": "Google",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4",
-      "title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
-      "summary": "An overview of how Multi-Token Prediction (MTP) drafters are making Gemma 4 models up to 3x faster at inference.",
-      "publishedAt": "2026-05-05T16:00:00.000Z",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "215e90ab3fd871921ed6688133852cc0bf3735d5",
-      "company": "Meta",
-      "sourceId": "meta-newsroom",
-      "sourceLabel": "Meta Newsroom",
-      "homepageUrl": "https://about.fb.com/news/",
-      "url": "https://about.fb.com/news/2026/05/ai-age-assurance-teens",
-      "title": "New AI-Powered Age Assurance Measures to Place Teens in Age-Appropriate Experiences",
-      "summary": "We’re strengthening our underage enforcement measures with AI to ensure young people have safe experiences online. The post New AI-Powered Age Assurance Measures to Place Teens in Age-Appropriate Experiences",
-      "publishedAt": "2026-05-05T11:00:40.000Z",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "29276d540e65a68489352bf088f88dd4f49c49cc",
-      "company": "Anthropic",
-      "sourceId": "anthropic-news",
-      "sourceLabel": "Anthropic News",
-      "homepageUrl": "https://www.anthropic.com/news",
-      "url": "https://www.anthropic.com/news/finance-agents",
-      "title": "Agents for financial services",
-      "summary": "",
-      "publishedAt": "2026-05-05T00:00:00.000Z",
-      "discoveryMethod": "anchor",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "472f81f15ea1ffeac1ed48b7754731d374230d64",
-      "company": "Google",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks",
-      "title": "Reduce friction and latency for long-running jobs with Webhooks in Gemini API",
-      "summary": "Event-Driven Webhooks are a push-based notification system that eliminates the need for inefficient polling.",
-      "publishedAt": "2026-05-04T15:30:00.000Z",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "2f244068731d266de45c692c728414a9a572a13e",
-      "company": "Anthropic",
-      "sourceId": "anthropic-news",
-      "sourceLabel": "Anthropic News",
-      "homepageUrl": "https://www.anthropic.com/news",
-      "url": "https://www.anthropic.com/news/enterprise-ai-services-company",
-      "title": "Building a new enterprise AI services company with Blackstone, Hellman & Friedman, and Goldman Sachs",
-      "summary": "",
-      "publishedAt": "2026-05-04T00:00:00.000Z",
-      "discoveryMethod": "anchor",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "dea52d951227dccce7da82c237b9c77c20be7024",
-      "company": "Anthropic",
-      "sourceId": "anthropic-engineering",
-      "sourceLabel": "Anthropic Engineering",
-      "homepageUrl": "https://www.anthropic.com/engineering",
-      "url": "https://www.anthropic.com/engineering/april-23-postmortem",
-      "title": "Featured An update on recent Claude Code quality reports We traced recent reports of Claude Code quality issues to three separate changes. Here&#x27;s what happened and what we&#x27;re changing.",
-      "summary": "",
-      "publishedAt": null,
-      "discoveryMethod": "anchor",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "530bc8927d99446fe189bb18bf7ded7d8dc7dda4",
-      "company": "Google",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-impact-summit-2026-india",
-      "title": "AI Impact Summit 2026: How we’re partnering to make AI work for everyone An overview of Google’s new global partnerships and funding announcements at the AI Impact Summit in India.",
-      "summary": "",
-      "publishedAt": null,
-      "discoveryMethod": "anchor",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "4a07e653570fb61c178d1e91fa9cc72d3a5abd8e",
-      "company": "Meta",
-      "sourceId": "meta-newsroom",
-      "sourceLabel": "Meta Newsroom",
-      "homepageUrl": "https://about.fb.com/news/",
-      "url": "https://about.fb.com/news/tag/ray-ban-meta-glasses",
-      "title": "AI Glasses",
-      "summary": "",
-      "publishedAt": null,
-      "discoveryMethod": "anchor",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "a83a0dc0c875fd7eaa626e8c8eaf37f43cb365ea",
-      "company": "Meta",
-      "sourceId": "meta-newsroom",
-      "sourceLabel": "Meta Newsroom",
-      "homepageUrl": "https://about.fb.com/news/",
-      "url": "https://about.fb.com/news/2026/04/helping-parents-understand-conversations-their-teens-are-having-with-ai",
-      "title": "Helping Parents Understand the Conversations Their Teens Are Having With AI",
-      "summary": "",
-      "publishedAt": null,
-      "discoveryMethod": "anchor",
       "classification": {
         "bucket": "digest",
         "score": 1,
@@ -455,8 +544,180 @@
   ],
   "newItems": [
     {
+      "id": "b09ea0013da0ffa214f0087e746e1cd0f4b6027e",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNzc4Zy1nN0h0eXoyQjVqU3Uyb0tlYlhtYVFlUlJfSFJNN3JhLURwTFR6TEx2UTRpeWlBUEl4dTFtSTg2UVpFN0NDdmIwR0YweWd3dUhBQkQyLWstTWx4QkZyaXloVUxjRUlkNkU3M1BETEJ1UlRUYmNseTRpYzRpUQ?oc=5",
+      "title": "‘Terminator’ Fears and Internal Dysfunction: Inside the OpenAI Trial",
+      "summary": "",
+      "publishedAt": "2026-05-10T15:48:00.000Z",
+      "publisher": "The New York Times",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "3606cb389cf78f9cae011586af30ba719ce6890d",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcFBfM2V3SG1GN25va2JrVFFRTFR3X3BRcklMWDhzNm1pTlJvNXFTWm9DOHdtdmhqd2tFLUR0TE5nREdXaXZjSW1zS3htbm52cHNudFRpanhHak9RS0FWaTVQcFE4ZmxKUlFENGczYUVSYldCcFJVX0d5YTNscFlHd295U0I?oc=5",
+      "title": "OpenAI trial lays bare rivalries behind start-up’s $852bn rise",
+      "summary": "",
+      "publishedAt": "2026-05-10T06:01:25.000Z",
+      "publisher": "Financial Times",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "d7d8d1548f4b8135256d2c7528f3a32213621e07",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQX19xT0k5b2FTelhTOFNPT3lkVGF6RmIxWXpkbHBDVzRhVkpNbzFMMGdYTVJkTlkyaThiSDlJclBtdUpfOGljV1J2TjkzV0hOX1p3ZzRhRFRmWkJjVnJuSzhzNXQzYmV0UmwzWnFJdWpiYzBKbXRIR2lqR0lJSlhLOF9XUTlIM0EtYjhyY0l2U0lRcVlBa01ZNUMzbTY5X0prNG51UUVLVnh0d2JPbkZJdU13?oc=5",
+      "title": "Musk, Altman Management Styles Under Fire at OpenAI Trial",
+      "summary": "",
+      "publishedAt": "2026-05-08T19:22:19.000Z",
+      "publisher": "Bloomberg.com",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "18dd218b03c3be75b53b2f909d4eaf5f9c2b0fb0",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRFBNLXJad0ozUDNtUlA3OUlKS05hYmRVR3Z6anBBeERLa3BTaC0xSXhJNmszckREd1RrVlVyS2NrSkYxdDFYQWxPUlJlLXFxLTNSTGp5RjJtYWxURjZQYmNTSFNJbGNKZllpOUUtMXlXSWhlM0k3S3Fpd1h2VDFnQVZTQW8ydDJZNGlRQzVoem1hOU82Zk52bTdYUzJDLVRfMXZIc2tCY2owdERaUkZQWDY1VVF2bkZDeGRUQ2IxQ3dsMXRLZ2VkTEh6anN0SndCUHNvVzNoNEdaY0lFYlE?oc=5",
+      "title": "Everything you need to know from the first 2 weeks of the Musk v. OpenAI trial",
+      "summary": "",
+      "publishedAt": "2026-05-08T14:41:57.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "8f017d4739387dd487afb936a6df96af877349a2",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcThyNEt6XzJ4TkQ5YmZMNTJPZ1ZLRG9zNExMX3J5ODFfM09iYlNMSzhSRW9Cc2ctbXgtUXlydUJtQ05WU3hoS3RVNEhsZ2tQME95Vk1TczNLWnRkbkx5WXZNVFFPeXpwU3JFd1FWTnRMY1JuYl9XajZsY0xrU2M5enQydVRab3dCbkdKbF9QM19OWmc3bFNya19taU1VS0I5aFRoeVlhVFl0bkU?oc=5",
+      "title": "Anthropic CEO on compute: 'We're going to acquire as much as we can'",
+      "summary": "",
+      "publishedAt": "2026-05-07T16:05:00.000Z",
+      "publisher": "CNBC",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "7116923edac3fe28b6c38df679eb0dc244b910ea",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTFYyVkJPVDJWR3RDZjhDWGxMSFJlQ09DdnNXVGdacUpQY1htZ09sTUg0Ql9MUVhnZmhYajdLRTc0bzBNOEtlRENwLWJNYmZoZHZLRnFFZERjM2xlQjdxNGN4V3V6YkVXNDVrRHhacmxPMGxURFdNY2R6V0lVTGcyWl9TM2VKZEhJdTNfaHhfUzc1S3Q4UnM3bklPLVBfQ0lp?oc=5",
+      "title": "Microsoft’s AI Safety Role Grows As Infrastructure Hiring And Security Risks Mount",
+      "summary": "",
+      "publishedAt": "2026-05-09T16:18:43.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "0a81434536a7d928cb028717894020d48ca25781",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOHRIbk5QN3lGWGMwU05DTDJSb0l1SzN5RnFyVGJ0Q0tSU19Ma2k3a0lzZFhGc01LMkVLQnFUVkE2QzhmMjJpMWdjbXRYS0FCUVVtUng1WFF4LTByWFY5RGZkaHZkSllORlRTS2F5S2gyVjFnNlNEdHpJbU5yRzk1SjNkaG0tM0VEcE1LUDB4Tm1PRS0wRWRiSXdOQXViUlBzMjVqczJCMA?oc=5",
+      "title": "Microsoft boss to testify on his role in OpenAI's founding",
+      "summary": "",
+      "publishedAt": "2026-05-11T01:13:00.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "298bf13afce009daaadc9e73ac49634acd47f6e5",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMnhGNkwwYUVqY3hycV9GZTk5bUZlNmJtcUtFdnRXczdWZ2pVYnVxMmJTRTZJa003LVYtUGtCeUYzZ3VLVGNvWkp1TFE5eHphZ0dHSkk0cVlUSmtDeWtuY1BodkN0N2dSc1Q3QWZWcGQtX3o5QzVVUUFuM0liT1FEcTBYTV9JQUtWTmVOOXpYTXNnSm1L?oc=5",
+      "title": "We’re feeling cynical about xAI’s big deal with Anthropic",
+      "summary": "",
+      "publishedAt": "2026-05-10T15:34:25.000Z",
+      "publisher": "TechCrunch",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "f17943198a956244795a5c08ed365f73ee8ec76d",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5xbmM0UHJaQWxkV1c4NDE1aWJiMUhUY29wOVRmNC1vMzBUZFVKMmZhV1RBUmwzYV9FX3duSUs0amtScEJkQy11bU1HR0JzNjc5YmVPZWd3ZjRpRTVsVGhJVzEtemhUWkVSUFpEYWFsR3hzWTczWnM4VQ?oc=5",
+      "title": "Meta got a $3.3 billion tax break for its $10 billion AI data center — and it could consume 20% of Louisiana's power",
+      "summary": "",
+      "publishedAt": "2026-05-10T10:15:00.000Z",
+      "publisher": "Yahoo Finance Singapore",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
       "id": "fe948365c4d6a69e5ad56049aec47391b19b0780",
       "company": "OpenAI",
+      "sourceKind": "official",
       "sourceId": "openai-newsroom",
       "sourceLabel": "OpenAI Newsroom",
       "homepageUrl": "https://openai.com/newsroom/",
@@ -464,6 +725,7 @@
       "title": "Introducing Trusted Contact in ChatGPT",
       "summary": "Introducing Trusted Contact in ChatGPT, an optional safety feature that notifies someone you trust if serious self-harm concerns are detected.",
       "publishedAt": "2026-05-07T00:00:00.000Z",
+      "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -474,6 +736,7 @@
     {
       "id": "4d3c4343934e34e05ba34915b825e514a1c823f1",
       "company": "Google",
+      "sourceKind": "official",
       "sourceId": "google-ai",
       "sourceLabel": "Google AI",
       "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
@@ -481,6 +744,7 @@
       "title": "The latest AI news we announced in April 2026",
       "summary": "Here are Google’s latest AI updates from April 2026",
       "publishedAt": "2026-05-04T17:00:00.000Z",
+      "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -491,6 +755,7 @@
     {
       "id": "027ccaad6e6b1b5d3f5391ecfd2ae77b6f416a3e",
       "company": "Meta",
+      "sourceKind": "official",
       "sourceId": "meta-newsroom",
       "sourceLabel": "Meta Newsroom",
       "homepageUrl": "https://about.fb.com/news/",
@@ -498,6 +763,7 @@
       "title": "Introducing Muse Spark: MSL’s First Model, Purpose-Built to Prioritize People",
       "summary": "",
       "publishedAt": null,
+      "publisher": "",
       "discoveryMethod": "anchor",
       "classification": {
         "bucket": "important",
@@ -506,8 +772,142 @@
       }
     },
     {
+      "id": "276fdbb1f8c580b0b7055e5b56169dfad8b5fdd6",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNE9uSzdNaHJsd1N3WlBfbXQzM0dvdnAzWVpxUGh2SmN0cDl0VDhnbDRDellzb0N4SWxRRTVLX1ZvWk9SbzlWSGNiMHAtREstaUpYNlFXYW5UelduUnBNeFFhdW9FLU9aZjdDSE53dTNxSFRzd1VVNXEtVEh0dzRsM0kxTjF0THl4bk5KcFVvc0E1bjFSQUtKaw?oc=5",
+      "title": "Anthropic grew 80-fold in a single quarter. Now it’s renting Elon Musk’s data center to cope",
+      "summary": "",
+      "publishedAt": "2026-05-08T14:45:00.000Z",
+      "publisher": "Fortune",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "3e1bb621095da3731b4cc7c7e37af07d4138db20",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbm50a0dOeDRWaURZY3JFcjlDZjk4TV9VTE91UW0ydW80QmRnQ0t5bGR2WkFtWFFwN1RsdmFacnNSYnV6aWJsQnhyNDQzUWtGMDhyZGpjYTZuZjNmN1RnUFVreU0xUFFhb1VzOUFVSWFydUJpUnFLR0stTTJ5NWNXSnpKV24?oc=5",
+      "title": "Anthropic weighs deal for near $1tn valuation as revenue surges",
+      "summary": "",
+      "publishedAt": "2026-05-08T04:00:52.000Z",
+      "publisher": "Financial Times",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "bae3fd4ddee42a78fcab16673f7f4cb7dd7be47e",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSER6ZTBhM0x0bTVHUk1ka3l4S2FXWXp4NU5lanlUR0VubDJFZ0NLWGhNQnBRend0Y201QVhXVVNlMWgzN3UxQkdTTUNTZjFjZmxDUDRQMU1xOXNEX1pzTlBwalBUSjdvNE1nTlR4bE9iQWZISlRqOGRWZ1liQl9nVTBDT0xJSzBWaHlBbGFTUjFOd3FtSUM4VFZ3SQ?oc=5",
+      "title": "Why Entergy (ETR) Is Expanding Its Grid for Meta’s Data Center Boom",
+      "summary": "",
+      "publishedAt": "2026-05-05T17:30:15.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "0fcaef71357ac11411ca60942dfc07a979d442b2",
+      "company": "Google",
+      "sourceKind": "external",
+      "sourceId": "external-google-major",
+      "sourceLabel": "Major External News - Google",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVFdjWmFVUEc0OE9zZjdMWF8yY2d0bUNKRFAwM0l1NzItaklPZkFXeVFCY0JHTXo5SF9CUDlkR1FvV2xDMS0wSWpQdTU3MXAzamltV2dwV3c0UHhzNk96b21LT3BkM1VOQjJOUjJKd0NLcGhRSjllNTZ3bXBfNXh4T2RVdFl1QXk3Ylkya01mbS14dUJ4UE5EdTVTeHdDRUx1d0J5b3J1QW1SQ3pyNHVXT291SGUzMDBlWU1jakg5WUlqcExTMENIMTRPV0dzbzg3VlptSg?oc=5",
+      "title": "Google DeepMind workers in the U.K. vote to unionize over military AI contracts",
+      "summary": "",
+      "publishedAt": "2026-05-05T14:33:00.000Z",
+      "publisher": "Fortune",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "924af8a2a3f17cf984278389fe3d89d1c2541bfe",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeDZ5WThoSHh0bHJLajhKZnFCbDB2eFRsdG5NZWNlSFAxbER5RFpmX2NBX0F6TWtmRmtaTWhGNWJRY0lnV2VpRmJkYTMxbHNIcldOM1M5SmlIcEh4TkRWdTNkOG9TWlBoN3h0ZHRTYXB2UFlCUXd0dkQxSDVILXpMczN0UzAtVHJJdXJocVZSb0t2YXExMXFhNEVzZ0k4S21wS255cXp5OGVfMUptSFhORjdCM1BmNHBncXRMX29zUndkOVFON2lzYg?oc=5",
+      "title": "Meta picks Morgan Stanley, JPMorgan for El Paso data center financing, source says",
+      "summary": "",
+      "publishedAt": "2026-05-04T23:19:00.000Z",
+      "publisher": "Reuters",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "17defbfc2c777f9b5e74822c329719958e6d2ab6",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTWVaMnJ6NTVWZVpycDFjSnA5LUhsMWRpRGtuTjk1SEZIQ0gtc2RkcXEwcDloZVJKWUdDSTlKZVV5eHJSZDN4eGNGbWctMFFtMzh6a01XNWNwanNoWjBmVER0a0ZjcTRLZVc4NXViYUE3dnljUi11ZEhRc3UtUmlhODZmdm4wTWJ5TzVnQTVzM3IxY0x3SE8wOGQyWmZVTVpwa0V6dWNrMzFmalNkOHI3MnJrbw?oc=5",
+      "title": "Meta Taps Morgan Stanley, JPMorgan for El Paso Data Center Deal",
+      "summary": "",
+      "publishedAt": "2026-05-04T22:56:00.000Z",
+      "publisher": "Bloomberg.com",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "64dba1d3c19a20b6fe42bcda8c8b2a6d06da261d",
+      "company": "Google",
+      "sourceKind": "external",
+      "sourceId": "external-google-major",
+      "sourceLabel": "Major External News - Google",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQkNVWUZ0eXczOUdSYlFfX1poVVhqS2RmOVZ3bnFuVG1BZWZqMVRyOHo5eXdKQzdnN25uYnlIWjluNkFISl82YUlob255c2cwOTlpcW9uaXdOdEVVazUtTFpVQWVERjEySy1IWC04Tl83TWpJR0FndUpFZlIzYzdlTmVhMGNnY0pZQ2FPanozSnFGeFRoZGVPeWZaeGVWSlc5ZFdHTy1oM3FPSV9TM3c?oc=5",
+      "title": "Google’s AI deal with the Pentagon has sparked employee backlash. But don't expect a repeat of Project Maven",
+      "summary": "",
+      "publishedAt": "2026-05-04T07:00:00.000Z",
+      "publisher": "Fortune",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
       "id": "3a0b4572422c1a8cbc95ae7fb7158fc8dc49f9d0",
       "company": "Anthropic",
+      "sourceKind": "official",
       "sourceId": "anthropic-news",
       "sourceLabel": "Anthropic News",
       "homepageUrl": "https://www.anthropic.com/news",
@@ -515,6 +915,7 @@
       "title": "Responsible Scaling Policy",
       "summary": "",
       "publishedAt": null,
+      "publisher": "",
       "discoveryMethod": "anchor",
       "classification": {
         "bucket": "important",
@@ -525,6 +926,7 @@
     {
       "id": "856246a81d636c46c0963af331b459aaebf50824",
       "company": "Google",
+      "sourceKind": "official",
       "sourceId": "google-ai",
       "sourceLabel": "Google AI",
       "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
@@ -532,6 +934,7 @@
       "title": "Find out how AlphaEvolve has gone from research to solving real-life problems.",
       "summary": "AlphaEvolve has become a powerful engine for scientific and societal progress.",
       "publishedAt": "2026-05-07T15:00:00.000Z",
+      "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "digest",
@@ -542,6 +945,7 @@
     {
       "id": "288ea344bbe070b948a869257ad84c96dd41ae04",
       "company": "OpenAI",
+      "sourceKind": "official",
       "sourceId": "openai-newsroom",
       "sourceLabel": "OpenAI Newsroom",
       "homepageUrl": "https://openai.com/newsroom/",
@@ -549,6 +953,7 @@
       "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
       "summary": "OpenAI expands Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber, helping verified defenders accelerate vulnerability research and protect critical infrastructure.",
       "publishedAt": "2026-05-07T13:00:00.000Z",
+      "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "digest",
@@ -559,6 +964,7 @@
     {
       "id": "e45ccc2c61bd1c7f0b4959275e6723bb17e1c191",
       "company": "Meta",
+      "sourceKind": "official",
       "sourceId": "meta-newsroom",
       "sourceLabel": "Meta Newsroom",
       "homepageUrl": "https://about.fb.com/news/",
@@ -566,6 +972,7 @@
       "title": "Breaking Ground on a New AI-Optimized Data Center in Tulsa, Oklahoma",
       "summary": "",
       "publishedAt": null,
+      "publisher": "",
       "discoveryMethod": "anchor",
       "classification": {
         "bucket": "digest",
@@ -576,6 +983,7 @@
     {
       "id": "bbe03a4cb01314fdb1e615ad5591c49be9dd3616",
       "company": "Meta",
+      "sourceKind": "official",
       "sourceId": "meta-newsroom",
       "sourceLabel": "Meta Newsroom",
       "homepageUrl": "https://about.fb.com/news/",
@@ -583,279 +991,8 @@
       "title": "Which AI Glasses Are Right For You?",
       "summary": "From capturing hands-free content to tracking workouts and staying connected on the go, find the AI glasses that fit your lifestyle. The post Which AI Glasses Are Right For You?",
       "publishedAt": "2026-05-08T19:00:21.000Z",
+      "publisher": "",
       "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "91ec1ce9a5cf0cecc4b0c8eada7f7ca1bc5da1cd",
-      "company": "OpenAI",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/running-codex-safely",
-      "title": "Running Codex safely at OpenAI",
-      "summary": "How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to support safe and compliant coding agent adoption.",
-      "publishedAt": "2026-05-08T12:30:00.000Z",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "4abb637a8f323f193075a4d2cf0773ac2b5220ee",
-      "company": "Microsoft",
-      "sourceId": "microsoft-ai",
-      "sourceLabel": "Microsoft AI",
-      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
-      "url": "https://news.microsoft.com/source/latam/features/ai/porsche-cup-brasil-ai-powered-crash-analysis?lang=en",
-      "title": "Inside Porsche Cup Brasil’s AI-powered race operations",
-      "summary": "Inside Porsche Cup Brasil’s AI-powered race operations",
-      "publishedAt": "2026-05-07T15:03:19.000Z",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "e41b9b9c2133078d6fdadd4945c341a0ca6a09fe",
-      "company": "OpenAI",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/parloa",
-      "title": "Parloa builds service agents customers want to talk to",
-      "summary": "Parloa leverages OpenAI models to power scalable, voice-driven AI customer service agents, enabling enterprises to design, simulate, and deploy reliable, real-time interactions.",
-      "publishedAt": "2026-05-07T11:00:00.000Z",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "4ba89a634a8ba847997e29cf1187241b04f3b55e",
-      "company": "OpenAI",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
-      "title": "Advancing voice intelligence with new models in the API",
-      "summary": "Explore new realtime voice models in the OpenAI API that can reason, translate, and transcribe speech, enabling more natural and intelligent voice experiences.",
-      "publishedAt": "2026-05-07T10:00:00.000Z",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "eed85cf61ed43c59d6f9ffa316a848faf6c9c41d",
-      "company": "OpenAI",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/simplex",
-      "title": "Simplex rethinks software development with Codex",
-      "summary": "Simplex boosts software development with ChatGPT Enterprise and Codex, reducing design, build, and testing time while scaling AI-driven workflows.",
-      "publishedAt": "2026-05-07T00:00:00.000Z",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "cb85d5cc4e125d6324f3216dd2893c77c004ec37",
-      "company": "Anthropic",
-      "sourceId": "anthropic-news",
-      "sourceLabel": "Anthropic News",
-      "homepageUrl": "https://www.anthropic.com/news",
-      "url": "https://www.anthropic.com/news/higher-limits-spacex",
-      "title": "Higher usage limits for Claude and a compute deal with SpaceX",
-      "summary": "",
-      "publishedAt": "2026-05-06T00:00:00.000Z",
-      "discoveryMethod": "anchor",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "d11e41bb8154f402fd3ee51112e48620ac7aa3cd",
-      "company": "Google",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag",
-      "title": "Gemini API File Search is now multimodal: build efficient, verifiable RAG",
-      "summary": "Updates to the Gemini API File Search tool makes building efficient, multimodal file retrieval systems easier for developers.",
-      "publishedAt": "2026-05-05T18:00:00.000Z",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "d4a46d4b932462361293acf3a7ee0a9734b5e298",
-      "company": "Google",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4",
-      "title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
-      "summary": "An overview of how Multi-Token Prediction (MTP) drafters are making Gemma 4 models up to 3x faster at inference.",
-      "publishedAt": "2026-05-05T16:00:00.000Z",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "215e90ab3fd871921ed6688133852cc0bf3735d5",
-      "company": "Meta",
-      "sourceId": "meta-newsroom",
-      "sourceLabel": "Meta Newsroom",
-      "homepageUrl": "https://about.fb.com/news/",
-      "url": "https://about.fb.com/news/2026/05/ai-age-assurance-teens",
-      "title": "New AI-Powered Age Assurance Measures to Place Teens in Age-Appropriate Experiences",
-      "summary": "We’re strengthening our underage enforcement measures with AI to ensure young people have safe experiences online. The post New AI-Powered Age Assurance Measures to Place Teens in Age-Appropriate Experiences",
-      "publishedAt": "2026-05-05T11:00:40.000Z",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "29276d540e65a68489352bf088f88dd4f49c49cc",
-      "company": "Anthropic",
-      "sourceId": "anthropic-news",
-      "sourceLabel": "Anthropic News",
-      "homepageUrl": "https://www.anthropic.com/news",
-      "url": "https://www.anthropic.com/news/finance-agents",
-      "title": "Agents for financial services",
-      "summary": "",
-      "publishedAt": "2026-05-05T00:00:00.000Z",
-      "discoveryMethod": "anchor",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "472f81f15ea1ffeac1ed48b7754731d374230d64",
-      "company": "Google",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks",
-      "title": "Reduce friction and latency for long-running jobs with Webhooks in Gemini API",
-      "summary": "Event-Driven Webhooks are a push-based notification system that eliminates the need for inefficient polling.",
-      "publishedAt": "2026-05-04T15:30:00.000Z",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "2f244068731d266de45c692c728414a9a572a13e",
-      "company": "Anthropic",
-      "sourceId": "anthropic-news",
-      "sourceLabel": "Anthropic News",
-      "homepageUrl": "https://www.anthropic.com/news",
-      "url": "https://www.anthropic.com/news/enterprise-ai-services-company",
-      "title": "Building a new enterprise AI services company with Blackstone, Hellman & Friedman, and Goldman Sachs",
-      "summary": "",
-      "publishedAt": "2026-05-04T00:00:00.000Z",
-      "discoveryMethod": "anchor",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "dea52d951227dccce7da82c237b9c77c20be7024",
-      "company": "Anthropic",
-      "sourceId": "anthropic-engineering",
-      "sourceLabel": "Anthropic Engineering",
-      "homepageUrl": "https://www.anthropic.com/engineering",
-      "url": "https://www.anthropic.com/engineering/april-23-postmortem",
-      "title": "Featured An update on recent Claude Code quality reports We traced recent reports of Claude Code quality issues to three separate changes. Here&#x27;s what happened and what we&#x27;re changing.",
-      "summary": "",
-      "publishedAt": null,
-      "discoveryMethod": "anchor",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "530bc8927d99446fe189bb18bf7ded7d8dc7dda4",
-      "company": "Google",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-impact-summit-2026-india",
-      "title": "AI Impact Summit 2026: How we’re partnering to make AI work for everyone An overview of Google’s new global partnerships and funding announcements at the AI Impact Summit in India.",
-      "summary": "",
-      "publishedAt": null,
-      "discoveryMethod": "anchor",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "4a07e653570fb61c178d1e91fa9cc72d3a5abd8e",
-      "company": "Meta",
-      "sourceId": "meta-newsroom",
-      "sourceLabel": "Meta Newsroom",
-      "homepageUrl": "https://about.fb.com/news/",
-      "url": "https://about.fb.com/news/tag/ray-ban-meta-glasses",
-      "title": "AI Glasses",
-      "summary": "",
-      "publishedAt": null,
-      "discoveryMethod": "anchor",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "a83a0dc0c875fd7eaa626e8c8eaf37f43cb365ea",
-      "company": "Meta",
-      "sourceId": "meta-newsroom",
-      "sourceLabel": "Meta Newsroom",
-      "homepageUrl": "https://about.fb.com/news/",
-      "url": "https://about.fb.com/news/2026/04/helping-parents-understand-conversations-their-teens-are-having-with-ai",
-      "title": "Helping Parents Understand the Conversations Their Teens Are Having With AI",
-      "summary": "",
-      "publishedAt": null,
-      "discoveryMethod": "anchor",
       "classification": {
         "bucket": "digest",
         "score": 1,
