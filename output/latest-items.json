@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-13T15:11:11.429Z",
+  "generatedAt": "2026-05-14T15:00:25.881Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -76,26 +76,64 @@
     }
   ],
   "totals": {
-    "fetched": 38,
+    "fetched": 39,
     "deduped": 24,
-    "new": 13,
+    "new": 11,
     "byKind": {
-      "official": 14,
-      "external": 10
+      "official": 15,
+      "external": 9
     }
   },
   "items": [
     {
-      "id": "fc8a6951b513d1f5f534974d3d44f9afbe819b52",
+      "id": "8fd3ebcd2f2f29bd94e5fad757ecb6c96a1b30ca",
+      "company": "Google",
+      "sourceKind": "external",
+      "sourceId": "external-google-major",
+      "sourceLabel": "Major External News - Google",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVi1vdGd6dDMtYzhoa0hfbGhKUlJ4N2NTeS1RZm1pcEw0YVYyeHNoMkdfbGxfOU1ncXdVQU9TSEx3V0k5X21NMElXMGFqTTg0dFBUQVhUd2RmLWF3elJwZ0hnZmMzRGo1NGR0LTBSN1k4aVNhSHlvV19sZzdmSjJmdUx3b0dRbXRrR0ZNblVHejZXS1pCNGRLT2FBelJKSzVlRVZyVlNlUjdoNkFod2JVVnYxbUU?oc=5",
+      "title": "Fanuc Shares Surge After Partnership With Google on Physical AI",
+      "summary": "",
+      "publishedAt": "2026-05-14T05:39:00.000Z",
+      "publisher": "Bloomberg.com",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "1cbe8789b99377a00c614edad559f7959bd551cd",
       "company": "OpenAI",
       "sourceKind": "external",
       "sourceId": "external-openai-major",
       "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQ3BkLTBvcFZFTlk2dGpKNXU1ZzFHNEpiMU14aW8tQWk2blZnb2h5T2hXYW9Kdm1IclBWaThJbVpoYlkwLW92LVh4RmdJamJoNFM2bnc1dUszR0RGdG9iSThVR1FJbjJUaE15VDlZOUwydUFUWk5Ma3JvRFlMTGp1cTg4UDdoZnRUZVRJT2tVN19OdE0?oc=5",
-      "title": "Musk vs. OpenAI trial week 3: Here's what to know",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYzJFRGRrWF84cWhuS0UtdnFqRUVISk1JTXpsbmpwM3RvWUVPSzFEeTE3TDhMVUNiUW9tTlFfMFRzeFF4cjJ4cU5ra2JjM19GN2hpbkVJVXZzSWhKMDg0UFRSN0lseGpEUFlEOC1iRWVBNXViSUloZGpXUmhMeFY1bQ?oc=5",
+      "title": "Musk flew to China near end of OpenAI trial, after judge warned he could be recalled",
       "summary": "",
-      "publishedAt": "2026-05-13T12:46:39.000Z",
+      "publishedAt": "2026-05-14T00:33:00.000Z",
+      "publisher": "Yahoo",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "a93156e023cfdafa4ad7390aaa0c41950d86a084",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYzRlYVRNSndodVREWlZZSW1leWFIQ0Q2Z24zREUySHNBeTYzNmdKcW4tUzhDZURLY1hRbHpsaGJkUmtNbkZrOHlnd0N5UkxrZ1JmT2Z1MFhKTlBqNEFvTG5JQlYtakxfYTVaYjFpUHg1TkFuQjBCblU2UE42WE5YbjdDRW1VeG1RNFhqaDhEekg0d1J6MnR0d29RYy0yUm9YSllmeG5IdzfSAa4BQVVfeXFMUHN1UU1TcFFLQmtrQzVleUNrVlVCQjRNSUNkTVVySlA3T3F6T1NpZ1lZMHdFZ3lTU203a3RIdlNmX3lOU2xsaWwwTUVkYnNvRXNZX1U4aWljTjAwSFVUTWNVREtHV3Y3XzFyVnVYNTYyaF9QdEhtUmZKZXUwOHZYN3JWTE5vUlQyMFhmQzVYV2FsLVNENFMzZ1ctdXBKcDRycC1qNUw1emRHak1hcjln?oc=5",
+      "title": "Microsoft feared being too dependent on OpenAI, Musk-Altman trial testimony reveals",
+      "summary": "",
+      "publishedAt": "2026-05-13T21:05:08.000Z",
       "publisher": "CNBC",
       "discoveryMethod": "feed",
       "classification": {
@@ -105,55 +143,17 @@
       }
     },
     {
-      "id": "88b54dcae07a9e9a42659abb1151ba95b681f071",
+      "id": "0ba3c301f4dc6b0c34957498ae47a993a2dd7c36",
       "company": "OpenAI",
       "sourceKind": "external",
       "sourceId": "external-openai-major",
       "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNc1ExcXl2SHRhclNHQnlFQ0FtVTVuSERVLXJUOFBoUFNlYnEyVjFTVXpEb2dpV2VjT3hkTjBPS0tHYWZwOVFOdnFwMmJ4YzNrMlZ6WndraWxQM0JRYkF6WFZoQjdnTEdrYUdyUG96dTlhTnNzMlpJa01qYjhvQTdHV0p5VWk1LWNwZXFDQVFJM3Q0dUhOM2VKLQ?oc=5",
-      "title": "OpenAI’s Altman under scrutiny amid trial, IPO plans",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeDUxQUx2TDdmSWNrbHFMd0pRQzJXZmd1RDJkNHFVWl9heHZLNE5ibVhYS3JhS0JkTjZHT2VEam9lWnprZkhLUEZiMnJLNjdyNDJxSHRvUzAwOWJvNTFFNEJWZTJhMERuNzFiSmpkaUk3M3BIVzlXMlhzYW1SSHZ0WEY2Nm5idnAwUlVVcV84NVR4RFJXanNaQV9qOVNkNUpOUWZhYzZXOE9FdEhSc1Q5YU1XZ21lVkdRT1NhSmJ0akQ5M0hGTHVsV0xB?oc=5",
+      "title": "OpenAI chief Altman has over $2 billion stake in companies that dealt with OpenAI, court filing shows",
       "summary": "",
-      "publishedAt": "2026-05-12T22:22:00.000Z",
-      "publisher": "Semafor",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "4c6676693ae399a1591447c44a5e7089a3bcb0a3",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWWlDX29DYm9TTEdFcTFmSUYxbEd2eFlxd2FPSHg3NmRHS1lERlVFOERPWTBmM3FVRzM3V2pxUkk1UmNxQmRoY1FUaEczbnJFY1ctUllsNmF6a1dxSDFGUmVqS09wNld3M1Z6Z1J2X0xWRlo4RVJSSkhyY0E0SkpsX1VISzA3aDlDaDlUa1NjMGNiSkVUbHdfd093M25aNVB4enBsaVNrcGNvMFBuWGc?oc=5",
-      "title": "OpenAI chief Sam Altman denies betraying Elon Musk, defends for-profit push at trial",
-      "summary": "",
-      "publishedAt": "2026-05-12T22:06:52.000Z",
+      "publishedAt": "2026-05-13T19:53:54.000Z",
       "publisher": "Reuters",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "293246afcf89a7e1318e7f6d1c8f8a4a5d62d5c7",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMzVMT2FIUXdhdWtkeW1HYzVrYVFEX1h1Rm5BV1lGUkFSZUs2WFMxTXZudU5tRXdiTFJEcml1d3R1bDJHdUIyeEtaYjUyZjU2YUFoSEliU3lWX2QzRzFMLWRFLUtQODlTang3VWdaU2x5QjNuOENNcmd2YkZhd2dtTkxBbjlVaXFNdzZYSA?oc=5",
-      "title": "OpenAI chief Sam Altman makes a high-stakes appearance in his court bout with Elon Musk",
-      "summary": "",
-      "publishedAt": "2026-05-12T21:57:00.000Z",
-      "publisher": "AP News",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -181,36 +181,17 @@
       }
     },
     {
-      "id": "8f017d4739387dd487afb936a6df96af877349a2",
-      "company": "Anthropic",
+      "id": "f346299e7911abb91e1328d8ae9a59831aa0b331",
+      "company": "OpenAI",
       "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcThyNEt6XzJ4TkQ5YmZMNTJPZ1ZLRG9zNExMX3J5ODFfM09iYlNMSzhSRW9Cc2ctbXgtUXlydUJtQ05WU3hoS3RVNEhsZ2tQME95Vk1TczNLWnRkbkx5WXZNVFFPeXpwU3JFd1FWTnRMY1JuYl9XajZsY0xrU2M5enQydVRab3dCbkdKbF9QM19OWmc3bFNya19taU1VS0I5aFRoeVlhVFl0bkU?oc=5",
-      "title": "Anthropic CEO on compute: 'We're going to acquire as much as we can'",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcW4yd2d2ZjRQMFZCdlZMajVDNFlSWmZqSVdPT29rdkw4NmJEdU83eHRFQjVOMUptczk2SzlSQ3pBUk9Oc0pVMEJYWVVOQWFncHNmNm5hUDJld3pvUG5uelVybmRNSzVxY0Q1ZzdCZXhfR2dEeHU1VXJmRkNpaHRGX0RzZjhyelVlZTNNQkRZa2ItZ1dBRjV0a1FXMGV1QmFhcG05ZUJ2NXd1NmhodWxCd0Q1V25Bb3dmUFRzWkZiQjlWZw?oc=5",
+      "title": "OpenAI says no user data breached after security issue with open-source library",
       "summary": "",
-      "publishedAt": "2026-05-07T16:05:00.000Z",
-      "publisher": "CNBC",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "e92398da05d12741d5c6b2aa259bc13c1daae026",
-      "company": "Google",
-      "sourceKind": "external",
-      "sourceId": "external-google-major",
-      "sourceLabel": "Major External News - Google",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPYnVCXzlFUmpoX2Q2aGtKYklDVXBRbTdFM0JvZXBiekctMkMxMlNjR2FDN3Jqenh5c28zRUxEM0dkd1hHTlJWU0JZQjQ1cDYyMi1hUnVVT2FheXU3dWJpTUJyNkhmTURCa3RlN0pUN0NtdzJlSlRfWlJaWXl0RmY0Skw4OXl1NHg0U0hIWW43bU53RXFiSWt5WXh6ZmFGUXJqZkVGeHhqYlJNdjZsZks0LWQzS2FZSXFuM0M1ejg0ck8wRkw1aDEtQnlvdGtOb2tIVU1mSHR5SFhrWnQ1T0hNNWZ4S01RX0tOdGfSAe8BQVVfeXFMTUgxUnR0OEJCUVA0Wl95ZFpIZXBTVGRSVUczUG5nQjRIaWpTSGVnWUpjNVlndHQ4RTFZVWdFdjJ5dS1TWGZ3akJSelg0Qndmd0Jwa1lyYzBpMWJvaWlISi15RlJMcjZocVNrcWtoQ0lKbE56VjI1dVh2Y3hWdmNfczQ2ZEZPSnVjMTJqSDBQSHVQNk9ydGdFNDJFSmIyZmd2SWdTSnBvWXJ5aVRRUVB0MmRwNWJWTzljZmRXOTRJYU1ycUVpTERHVldHbzNkRmtvZk1lZjVRTXlQSEIxVktnc0Y5Xy1OWDRJS1VPci1Zdm8?oc=5",
-      "title": "AI Watch: Anthropic security shift, Google Gemini rollout and Sam Altman testimony",
-      "summary": "",
-      "publishedAt": "2026-05-13T06:40:27.000Z",
-      "publisher": "CNBC TV18",
+      "publishedAt": "2026-05-14T04:51:00.000Z",
+      "publisher": "Reuters",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -238,41 +219,22 @@
       }
     },
     {
-      "id": "fe771eec13ba0ed86c0b2e312c4f3239aee40c7f",
-      "company": "Meta",
+      "id": "a9ef977b8a8403f8f6680faff2daffd6771bce54",
+      "company": "Anthropic",
       "sourceKind": "official",
-      "sourceId": "meta-newsroom",
-      "sourceLabel": "Meta Newsroom",
-      "homepageUrl": "https://about.fb.com/news/",
-      "url": "https://about.fb.com/news/2026/04/meta-partners-with-aws-on-graviton-chips-to-power-agentic-ai",
-      "title": "Meta Partners With AWS on Graviton Chips to Power Agentic AI",
+      "sourceId": "anthropic-news",
+      "sourceLabel": "Anthropic News",
+      "homepageUrl": "https://www.anthropic.com/news",
+      "url": "https://www.anthropic.com/news/claude-for-small-business",
+      "title": "Introducing Claude for Small Business",
       "summary": "",
-      "publishedAt": null,
+      "publishedAt": "2026-05-13T00:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "anchor",
       "classification": {
         "bucket": "critical",
         "score": 5,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "74ecd8f621f9064a092a642bc160597d204d12b3",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVnNkZGhGaEdvVTB1Rm9zclA1T1ZRazBDRXkzWTJHbnVNbmJkc3FhTWtucElBQWN5TFNTSE5NVkF4VVUxTVlITzdfS2VWelhZS1hnMGpCcHhuX2psbVBUTWZRVU5iMFM0R1NBa1E5VFB5RFFENUcwQ3lMSV94b2k5ZWI0U2NvOUhLX1V0NXdfckc4S1VzX3QtM2VJSE81UQ?oc=5",
-      "title": "Cerebras' Plum OpenAI Deal Is a Double-Edged Sword",
-      "summary": "",
-      "publishedAt": "2026-05-12T23:33:00.000Z",
-      "publisher": "The Information",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
+        "reason": "Flagship model or product launch"
       }
     },
     {
@@ -285,8 +247,27 @@
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVXlYUDFLdEJoaFFQTktLaFJiUkNtY3dLa3NMc2ktVmE5ODM4alJtd0lQd0VaSVM0UHBtNk03V3VobnBUM3lveV9oTnA5TXdBRTJTQ2M3cnplNlFaZEJtZ2tqa3pPWU1oenE5Q3E4LTEzUGRkVmd3ZTROVlFueC1RZ29qdGVSM1hGMDk2ZnJFWmNlQ3ZJ?oc=5",
       "title": "Anthropic in Talks to Raise Funding at a $950 Billion Valuation",
       "summary": "",
-      "publishedAt": "2026-05-12T23:32:19.000Z",
+      "publishedAt": "2026-05-13T21:55:00.000Z",
       "publisher": "The New York Times",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "96a14b94322493938bf6d845ec83bd9173c27c1c",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcnFmWEk5c0MwM240OFpoR1ZCNWdCYjdjcmNEelUxajRmTzF6R1JRYkFJUEp2OUhmbHY0aFdoX2h2WlhfNXE0d2g2aGlkZjBhN0xYZXFoUkNWcDhqam1BcVk2MlFRTWFMX01sT05INmRKNDlUVGJ3QzJSVHFWWWJjMi12S2h6QQ?oc=5",
+      "title": "Watch Anthropic Eyeing Over $900 Billion Valuation",
+      "summary": "",
+      "publishedAt": "2026-05-13T00:00:00.000Z",
+      "publisher": "Bloomberg.com",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -309,103 +290,8 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
-        "score": 4,
+        "score": 3,
         "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "68e94ee2f13a7ca6fb82338d6b2d30485314fe37",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/openai-launches-the-deployment-company",
-      "title": "OpenAI launches DeployCo to help businesses build around intelligence",
-      "summary": "OpenAI launches DeployCo, a new enterprise deployment company built to help organizations bring frontier AI into production and turn it into measurable business impact.",
-      "publishedAt": "2026-05-11T06:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "8a196e8c3ae2cd2beeba2779ac8ae2e46960327f",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/autoscout24",
-      "title": "AutoScout24 scales engineering with AI-powered workflows",
-      "summary": "Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption.",
-      "publishedAt": "2026-05-12T00:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Technical or research update"
-      }
-    },
-    {
-      "id": "6498bc3d305077cef694deadbbbac0e4d50695cf",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/nvidia",
-      "title": "How NVIDIA engineers and researchers build with Codex",
-      "summary": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
-      "publishedAt": "2026-05-12T00:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Technical or research update"
-      }
-    },
-    {
-      "id": "c31ba2e9026be78e6eac23b27750eae8525162ef",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/what-parameter-golf-taught-us",
-      "title": "What Parameter Golf taught us about AI-assisted research",
-      "summary": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
-      "publishedAt": "2026-05-12T00:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Technical or research update"
-      }
-    },
-    {
-      "id": "fcc95ff2628cdf07b18dfc0a2beef2d6597f42fe",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/digitize-notes-gemini-study-guide",
-      "title": "Digitize your paper notes with Gemini.",
-      "summary": "Gemini can turn hundreds of pages of notes into study guides or flashcards — or organize a semester’s worth of learning.",
-      "publishedAt": "2026-05-11T16:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Technical or research update"
       }
     },
     {
@@ -428,6 +314,63 @@
       }
     },
     {
+      "id": "1156914a55f54736798d853732a154e3695b1b73",
+      "company": "Microsoft",
+      "sourceKind": "official",
+      "sourceId": "microsoft-ai",
+      "sourceLabel": "Microsoft AI",
+      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
+      "url": "https://news.microsoft.com/source/latam/features/ai/costa-rica-dos-pinos-ai-agents-microsoft-copilot-en?lang=en",
+      "title": "Costa Rican dairy cooperative turns AI agents into coworkers",
+      "summary": "Costa Rican dairy cooperative turns AI agents into coworkers",
+      "publishedAt": "2026-05-14T13:01:18.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "7319dee715953477a9174750204ac60dae8ef7ec",
+      "company": "Meta",
+      "sourceKind": "official",
+      "sourceId": "meta-newsroom",
+      "sourceLabel": "Meta Newsroom",
+      "homepageUrl": "https://about.fb.com/news/",
+      "url": "https://about.fb.com/news/2026/05/from-scroll-to-chat-to-cart-trends-reshaping-how-india-shops",
+      "title": "From Scroll to Chat to Cart: Trends Reshaping How India Shops",
+      "summary": "On the sidelines of the 2026 Meta Marketing Summit E-Commerce edition, we are sharing key trends shaping the future of shopping in India — from the rise of AI-powered discovery and video-first commerce to the growing role of conversational messaging in driving transactions. The...",
+      "publishedAt": "2026-05-14T06:27:46.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "5502a50a46d6e39ecfd75d6a68024a0c3e1da821",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/building-codex-windows-sandbox",
+      "title": "Building a safe, effective sandbox to enable Codex on Windows",
+      "summary": "Learn how OpenAI built a secure sandbox for Codex on Windows, enabling safe, efficient coding agents with controlled file access and network restrictions.",
+      "publishedAt": "2026-05-13T11:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
+      }
+    },
+    {
       "id": "4fa7386e9e1952027be2ea97910b3c62df378502",
       "company": "Google",
       "sourceKind": "official",
@@ -447,22 +390,98 @@
       }
     },
     {
-      "id": "5c38abc3abbd858143fd633baf2af6afd67fab7d",
-      "company": "Google",
+      "id": "49432bd70e0887aa2f25ea4112a52128b12f6353",
+      "company": "OpenAI",
       "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/repliqa-quantum-computing-life-sciences",
-      "title": "Our new initiative to apply quantum science and AI to the life sciences",
-      "summary": "Google's REPLIQA program funds academic institutions to apply quantum science and AI to life sciences for scientific breakthroughs.",
-      "publishedAt": "2026-05-11T17:30:00.000Z",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack",
+      "title": "Our response to the TanStack npm supply chain attack",
+      "summary": "OpenAI details its response to the TanStack “Mini Shai-Hulud” supply chain attack, outlines protections taken to secure systems and signing certificates, and explains why macOS users must update OpenAI apps by June 12, 2026. Learn what happened, what was affected, and how OpenAI...",
+      "publishedAt": "2026-05-13T00:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "digest",
         "score": 2,
         "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "8a196e8c3ae2cd2beeba2779ac8ae2e46960327f",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/autoscout24",
+      "title": "AutoScout24 scales engineering with AI-powered workflows",
+      "summary": "Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption.",
+      "publishedAt": "2026-05-12T00:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Technical or research update"
+      }
+    },
+    {
+      "id": "6498bc3d305077cef694deadbbbac0e4d50695cf",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/nvidia",
+      "title": "How NVIDIA engineers and researchers build with Codex",
+      "summary": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
+      "publishedAt": "2026-05-12T00:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Technical or research update"
+      }
+    },
+    {
+      "id": "c31ba2e9026be78e6eac23b27750eae8525162ef",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/what-parameter-golf-taught-us",
+      "title": "What Parameter Golf taught us about AI-assisted research",
+      "summary": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
+      "publishedAt": "2026-05-12T00:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Technical or research update"
+      }
+    },
+    {
+      "id": "fcc95ff2628cdf07b18dfc0a2beef2d6597f42fe",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/digitize-notes-gemini-study-guide",
+      "title": "Digitize your paper notes with Gemini.",
+      "summary": "Gemini can turn hundreds of pages of notes into study guides or flashcards — or organize a semester’s worth of learning.",
+      "publishedAt": "2026-05-11T16:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Technical or research update"
       }
     },
     {
@@ -485,6 +504,25 @@
       }
     },
     {
+      "id": "5c38abc3abbd858143fd633baf2af6afd67fab7d",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/repliqa-quantum-computing-life-sciences",
+      "title": "Our new initiative to apply quantum science and AI to the life sciences",
+      "summary": "Google's REPLIQA program funds academic institutions to apply quantum science and AI to life sciences for scientific breakthroughs.",
+      "publishedAt": "2026-05-11T17:30:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 1,
+        "reason": "Routine official update"
+      }
+    },
+    {
       "id": "0dfb83764f63c3add19feb07c39ecfe80a7fc11d",
       "company": "Google",
       "sourceKind": "official",
@@ -502,58 +540,58 @@
         "score": 1,
         "reason": "Routine official update"
       }
-    },
-    {
-      "id": "ee5564e4d43f904019c895dd132e5533835a0bb7",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/openai-campus-network-student-club-interest-form",
-      "title": "OpenAI Campus Network: Student club interest form",
-      "summary": "Join the OpenAI Campus Network—connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.",
-      "publishedAt": "2026-05-11T10:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "bbe03a4cb01314fdb1e615ad5591c49be9dd3616",
-      "company": "Meta",
-      "sourceKind": "official",
-      "sourceId": "meta-newsroom",
-      "sourceLabel": "Meta Newsroom",
-      "homepageUrl": "https://about.fb.com/news/",
-      "url": "https://about.fb.com/news/2026/05/which-meta-ai-glasses-are-right-for-you",
-      "title": "Which AI Glasses Are Right For You?",
-      "summary": "From capturing hands-free content to tracking workouts and staying connected on the go, find the AI glasses that fit your lifestyle. The post Which AI Glasses Are Right For You?",
-      "publishedAt": "2026-05-08T19:00:21.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
     }
   ],
   "newItems": [
     {
-      "id": "fc8a6951b513d1f5f534974d3d44f9afbe819b52",
+      "id": "8fd3ebcd2f2f29bd94e5fad757ecb6c96a1b30ca",
+      "company": "Google",
+      "sourceKind": "external",
+      "sourceId": "external-google-major",
+      "sourceLabel": "Major External News - Google",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVi1vdGd6dDMtYzhoa0hfbGhKUlJ4N2NTeS1RZm1pcEw0YVYyeHNoMkdfbGxfOU1ncXdVQU9TSEx3V0k5X21NMElXMGFqTTg0dFBUQVhUd2RmLWF3elJwZ0hnZmMzRGo1NGR0LTBSN1k4aVNhSHlvV19sZzdmSjJmdUx3b0dRbXRrR0ZNblVHejZXS1pCNGRLT2FBelJKSzVlRVZyVlNlUjdoNkFod2JVVnYxbUU?oc=5",
+      "title": "Fanuc Shares Surge After Partnership With Google on Physical AI",
+      "summary": "",
+      "publishedAt": "2026-05-14T05:39:00.000Z",
+      "publisher": "Bloomberg.com",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "1cbe8789b99377a00c614edad559f7959bd551cd",
       "company": "OpenAI",
       "sourceKind": "external",
       "sourceId": "external-openai-major",
       "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQ3BkLTBvcFZFTlk2dGpKNXU1ZzFHNEpiMU14aW8tQWk2blZnb2h5T2hXYW9Kdm1IclBWaThJbVpoYlkwLW92LVh4RmdJamJoNFM2bnc1dUszR0RGdG9iSThVR1FJbjJUaE15VDlZOUwydUFUWk5Ma3JvRFlMTGp1cTg4UDdoZnRUZVRJT2tVN19OdE0?oc=5",
-      "title": "Musk vs. OpenAI trial week 3: Here's what to know",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYzJFRGRrWF84cWhuS0UtdnFqRUVISk1JTXpsbmpwM3RvWUVPSzFEeTE3TDhMVUNiUW9tTlFfMFRzeFF4cjJ4cU5ra2JjM19GN2hpbkVJVXZzSWhKMDg0UFRSN0lseGpEUFlEOC1iRWVBNXViSUloZGpXUmhMeFY1bQ?oc=5",
+      "title": "Musk flew to China near end of OpenAI trial, after judge warned he could be recalled",
       "summary": "",
-      "publishedAt": "2026-05-13T12:46:39.000Z",
+      "publishedAt": "2026-05-14T00:33:00.000Z",
+      "publisher": "Yahoo",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "a93156e023cfdafa4ad7390aaa0c41950d86a084",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYzRlYVRNSndodVREWlZZSW1leWFIQ0Q2Z24zREUySHNBeTYzNmdKcW4tUzhDZURLY1hRbHpsaGJkUmtNbkZrOHlnd0N5UkxrZ1JmT2Z1MFhKTlBqNEFvTG5JQlYtakxfYTVaYjFpUHg1TkFuQjBCblU2UE42WE5YbjdDRW1VeG1RNFhqaDhEekg0d1J6MnR0d29RYy0yUm9YSllmeG5IdzfSAa4BQVVfeXFMUHN1UU1TcFFLQmtrQzVleUNrVlVCQjRNSUNkTVVySlA3T3F6T1NpZ1lZMHdFZ3lTU203a3RIdlNmX3lOU2xsaWwwTUVkYnNvRXNZX1U4aWljTjAwSFVUTWNVREtHV3Y3XzFyVnVYNTYyaF9QdEhtUmZKZXUwOHZYN3JWTE5vUlQyMFhmQzVYV2FsLVNENFMzZ1ctdXBKcDRycC1qNUw1emRHak1hcjln?oc=5",
+      "title": "Microsoft feared being too dependent on OpenAI, Musk-Altman trial testimony reveals",
+      "summary": "",
+      "publishedAt": "2026-05-13T21:05:08.000Z",
       "publisher": "CNBC",
       "discoveryMethod": "feed",
       "classification": {
@@ -563,17 +601,17 @@
       }
     },
     {
-      "id": "88b54dcae07a9e9a42659abb1151ba95b681f071",
+      "id": "0ba3c301f4dc6b0c34957498ae47a993a2dd7c36",
       "company": "OpenAI",
       "sourceKind": "external",
       "sourceId": "external-openai-major",
       "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNc1ExcXl2SHRhclNHQnlFQ0FtVTVuSERVLXJUOFBoUFNlYnEyVjFTVXpEb2dpV2VjT3hkTjBPS0tHYWZwOVFOdnFwMmJ4YzNrMlZ6WndraWxQM0JRYkF6WFZoQjdnTEdrYUdyUG96dTlhTnNzMlpJa01qYjhvQTdHV0p5VWk1LWNwZXFDQVFJM3Q0dUhOM2VKLQ?oc=5",
-      "title": "OpenAI’s Altman under scrutiny amid trial, IPO plans",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeDUxQUx2TDdmSWNrbHFMd0pRQzJXZmd1RDJkNHFVWl9heHZLNE5ibVhYS3JhS0JkTjZHT2VEam9lWnprZkhLUEZiMnJLNjdyNDJxSHRvUzAwOWJvNTFFNEJWZTJhMERuNzFiSmpkaUk3M3BIVzlXMlhzYW1SSHZ0WEY2Nm5idnAwUlVVcV84NVR4RFJXanNaQV9qOVNkNUpOUWZhYzZXOE9FdEhSc1Q5YU1XZ21lVkdRT1NhSmJ0akQ5M0hGTHVsV0xB?oc=5",
+      "title": "OpenAI chief Altman has over $2 billion stake in companies that dealt with OpenAI, court filing shows",
       "summary": "",
-      "publishedAt": "2026-05-12T22:22:00.000Z",
-      "publisher": "Semafor",
+      "publishedAt": "2026-05-13T19:53:54.000Z",
+      "publisher": "Reuters",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -582,55 +620,17 @@
       }
     },
     {
-      "id": "293246afcf89a7e1318e7f6d1c8f8a4a5d62d5c7",
+      "id": "f346299e7911abb91e1328d8ae9a59831aa0b331",
       "company": "OpenAI",
       "sourceKind": "external",
       "sourceId": "external-openai-major",
       "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMzVMT2FIUXdhdWtkeW1HYzVrYVFEX1h1Rm5BV1lGUkFSZUs2WFMxTXZudU5tRXdiTFJEcml1d3R1bDJHdUIyeEtaYjUyZjU2YUFoSEliU3lWX2QzRzFMLWRFLUtQODlTang3VWdaU2x5QjNuOENNcmd2YkZhd2dtTkxBbjlVaXFNdzZYSA?oc=5",
-      "title": "OpenAI chief Sam Altman makes a high-stakes appearance in his court bout with Elon Musk",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcW4yd2d2ZjRQMFZCdlZMajVDNFlSWmZqSVdPT29rdkw4NmJEdU83eHRFQjVOMUptczk2SzlSQ3pBUk9Oc0pVMEJYWVVOQWFncHNmNm5hUDJld3pvUG5uelVybmRNSzVxY0Q1ZzdCZXhfR2dEeHU1VXJmRkNpaHRGX0RzZjhyelVlZTNNQkRZa2ItZ1dBRjV0a1FXMGV1QmFhcG05ZUJ2NXd1NmhodWxCd0Q1V25Bb3dmUFRzWkZiQjlWZw?oc=5",
+      "title": "OpenAI says no user data breached after security issue with open-source library",
       "summary": "",
-      "publishedAt": "2026-05-12T21:57:00.000Z",
-      "publisher": "AP News",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "4b272c854f206c3944cbbd771d49ffde06d73030",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQY1RLTU9kdkZ1bTBHMEc5ZUp0QUMxSjZsa0ZqaGhoZV9hNTRLQVBUZGlPNnhVN1UzMksyTkhhdXhvZzVhaUhoNl9fcGNPYzBmV2hKbTN2SGtKNlR4MnVwX3V4cW9VUjg5bEtlRGc3QzY1c1o5dlpGNTZoV0g1MHFLN3VsenF3UzYxU3VabzFnMklfYktGM1QyMUpVd0duRjRUQ3BlaWV1UmdXS2lUZ2dqMVBLdzd2a0U5VU9uX1hIMFdzbzRnLVZiVzkxWExobGxIQTVhV0ppVUgzQnZnWEE?oc=5",
-      "title": "Thomson Reuters and Anthropic Expand Partnership to Connect Claude with CoCounsel Legal",
-      "summary": "",
-      "publishedAt": "2026-05-12T17:22:55.000Z",
-      "publisher": "Thomson Reuters",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "e92398da05d12741d5c6b2aa259bc13c1daae026",
-      "company": "Google",
-      "sourceKind": "external",
-      "sourceId": "external-google-major",
-      "sourceLabel": "Major External News - Google",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPYnVCXzlFUmpoX2Q2aGtKYklDVXBRbTdFM0JvZXBiekctMkMxMlNjR2FDN3Jqenh5c28zRUxEM0dkd1hHTlJWU0JZQjQ1cDYyMi1hUnVVT2FheXU3dWJpTUJyNkhmTURCa3RlN0pUN0NtdzJlSlRfWlJaWXl0RmY0Skw4OXl1NHg0U0hIWW43bU53RXFiSWt5WXh6ZmFGUXJqZkVGeHhqYlJNdjZsZks0LWQzS2FZSXFuM0M1ejg0ck8wRkw1aDEtQnlvdGtOb2tIVU1mSHR5SFhrWnQ1T0hNNWZ4S01RX0tOdGfSAe8BQVVfeXFMTUgxUnR0OEJCUVA0Wl95ZFpIZXBTVGRSVUczUG5nQjRIaWpTSGVnWUpjNVlndHQ4RTFZVWdFdjJ5dS1TWGZ3akJSelg0Qndmd0Jwa1lyYzBpMWJvaWlISi15RlJMcjZocVNrcWtoQ0lKbE56VjI1dVh2Y3hWdmNfczQ2ZEZPSnVjMTJqSDBQSHVQNk9ydGdFNDJFSmIyZmd2SWdTSnBvWXJ5aVRRUVB0MmRwNWJWTzljZmRXOTRJYU1ycUVpTERHVldHbzNkRmtvZk1lZjVRTXlQSEIxVktnc0Y5Xy1OWDRJS1VPci1Zdm8?oc=5",
-      "title": "AI Watch: Anthropic security shift, Google Gemini rollout and Sam Altman testimony",
-      "summary": "",
-      "publishedAt": "2026-05-13T06:40:27.000Z",
-      "publisher": "CNBC TV18",
+      "publishedAt": "2026-05-14T04:51:00.000Z",
+      "publisher": "Reuters",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -639,18 +639,18 @@
       }
     },
     {
-      "id": "c94600d92e2ceb687edf4195f964336d164f1bdf",
-      "company": "Meta",
+      "id": "a9ef977b8a8403f8f6680faff2daffd6771bce54",
+      "company": "Anthropic",
       "sourceKind": "official",
-      "sourceId": "meta-newsroom",
-      "sourceLabel": "Meta Newsroom",
-      "homepageUrl": "https://about.fb.com/news/",
-      "url": "https://about.fb.com/news/2026/05/incognito-chat-whatsapp-meta-ai",
-      "title": "Introducing a Completely Private Way to Chat With AI",
-      "summary": "Incognito Chat lets you talk to Meta AI in a way that is invisible to anyone else. The post Introducing a Completely Private Way to Chat With AI",
-      "publishedAt": "2026-05-13T14:45:19.000Z",
+      "sourceId": "anthropic-news",
+      "sourceLabel": "Anthropic News",
+      "homepageUrl": "https://www.anthropic.com/news",
+      "url": "https://www.anthropic.com/news/claude-for-small-business",
+      "title": "Introducing Claude for Small Business",
+      "summary": "",
+      "publishedAt": "2026-05-13T00:00:00.000Z",
       "publisher": "",
-      "discoveryMethod": "feed",
+      "discoveryMethod": "anchor",
       "classification": {
         "bucket": "critical",
         "score": 5,
@@ -658,54 +658,16 @@
       }
     },
     {
-      "id": "74ecd8f621f9064a092a642bc160597d204d12b3",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVnNkZGhGaEdvVTB1Rm9zclA1T1ZRazBDRXkzWTJHbnVNbmJkc3FhTWtucElBQWN5TFNTSE5NVkF4VVUxTVlITzdfS2VWelhZS1hnMGpCcHhuX2psbVBUTWZRVU5iMFM0R1NBa1E5VFB5RFFENUcwQ3lMSV94b2k5ZWI0U2NvOUhLX1V0NXdfckc4S1VzX3QtM2VJSE81UQ?oc=5",
-      "title": "Cerebras' Plum OpenAI Deal Is a Double-Edged Sword",
-      "summary": "",
-      "publishedAt": "2026-05-12T23:33:00.000Z",
-      "publisher": "The Information",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "8fb6169ebe90f4a2f4d8d5c4441997cd6b40d090",
+      "id": "96a14b94322493938bf6d845ec83bd9173c27c1c",
       "company": "Anthropic",
       "sourceKind": "external",
       "sourceId": "external-anthropic-major",
       "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVXlYUDFLdEJoaFFQTktLaFJiUkNtY3dLa3NMc2ktVmE5ODM4alJtd0lQd0VaSVM0UHBtNk03V3VobnBUM3lveV9oTnA5TXdBRTJTQ2M3cnplNlFaZEJtZ2tqa3pPWU1oenE5Q3E4LTEzUGRkVmd3ZTROVlFueC1RZ29qdGVSM1hGMDk2ZnJFWmNlQ3ZJ?oc=5",
-      "title": "Anthropic in Talks to Raise Funding at a $950 Billion Valuation",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcnFmWEk5c0MwM240OFpoR1ZCNWdCYjdjcmNEelUxajRmTzF6R1JRYkFJUEp2OUhmbHY0aFdoX2h2WlhfNXE0d2g2aGlkZjBhN0xYZXFoUkNWcDhqam1BcVk2MlFRTWFMX01sT05INmRKNDlUVGJ3QzJSVHFWWWJjMi12S2h6QQ?oc=5",
+      "title": "Watch Anthropic Eyeing Over $900 Billion Valuation",
       "summary": "",
-      "publishedAt": "2026-05-12T23:32:19.000Z",
-      "publisher": "The New York Times",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "17531badb30a5e7d79d7c9bedc0d080e7ff356bd",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMUx1dS1PWVZ1dnlYNkFzNlEzLTNzMzhjRDNZeC0yTDB0OFlSODRPM3BVU2xONjZBck4tUVdCSmV4c1VxWnJRdHZER3k4dTVSWUxRTjBYYkJnZ29TZGNHa1hMNFpOMGJzUHVXai14QnRiWi1ON05lUFF6MEI2Y052UlpSb2pNVDBCakJVN3BNR2I5Y01NeEJrZDRlVzNTY3AxYjVwLTdHa1JFdWNB?oc=5",
-      "title": "Watch Anthropic in Talks to Raise $30 Billion in New Funding",
-      "summary": "",
-      "publishedAt": "2026-05-12T00:00:00.000Z",
+      "publishedAt": "2026-05-13T00:00:00.000Z",
       "publisher": "Bloomberg.com",
       "discoveryMethod": "feed",
       "classification": {
@@ -715,73 +677,73 @@
       }
     },
     {
-      "id": "8a196e8c3ae2cd2beeba2779ac8ae2e46960327f",
+      "id": "1156914a55f54736798d853732a154e3695b1b73",
+      "company": "Microsoft",
+      "sourceKind": "official",
+      "sourceId": "microsoft-ai",
+      "sourceLabel": "Microsoft AI",
+      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
+      "url": "https://news.microsoft.com/source/latam/features/ai/costa-rica-dos-pinos-ai-agents-microsoft-copilot-en?lang=en",
+      "title": "Costa Rican dairy cooperative turns AI agents into coworkers",
+      "summary": "Costa Rican dairy cooperative turns AI agents into coworkers",
+      "publishedAt": "2026-05-14T13:01:18.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "7319dee715953477a9174750204ac60dae8ef7ec",
+      "company": "Meta",
+      "sourceKind": "official",
+      "sourceId": "meta-newsroom",
+      "sourceLabel": "Meta Newsroom",
+      "homepageUrl": "https://about.fb.com/news/",
+      "url": "https://about.fb.com/news/2026/05/from-scroll-to-chat-to-cart-trends-reshaping-how-india-shops",
+      "title": "From Scroll to Chat to Cart: Trends Reshaping How India Shops",
+      "summary": "On the sidelines of the 2026 Meta Marketing Summit E-Commerce edition, we are sharing key trends shaping the future of shopping in India — from the rise of AI-powered discovery and video-first commerce to the growing role of conversational messaging in driving transactions. The...",
+      "publishedAt": "2026-05-14T06:27:46.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "5502a50a46d6e39ecfd75d6a68024a0c3e1da821",
       "company": "OpenAI",
       "sourceKind": "official",
       "sourceId": "openai-newsroom",
       "sourceLabel": "OpenAI Newsroom",
       "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/autoscout24",
-      "title": "AutoScout24 scales engineering with AI-powered workflows",
-      "summary": "Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption.",
-      "publishedAt": "2026-05-12T00:00:00.000Z",
+      "url": "https://openai.com/index/building-codex-windows-sandbox",
+      "title": "Building a safe, effective sandbox to enable Codex on Windows",
+      "summary": "Learn how OpenAI built a secure sandbox for Codex on Windows, enabling safe, efficient coding agents with controlled file access and network restrictions.",
+      "publishedAt": "2026-05-13T11:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Technical or research update"
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
       }
     },
     {
-      "id": "6498bc3d305077cef694deadbbbac0e4d50695cf",
+      "id": "49432bd70e0887aa2f25ea4112a52128b12f6353",
       "company": "OpenAI",
       "sourceKind": "official",
       "sourceId": "openai-newsroom",
       "sourceLabel": "OpenAI Newsroom",
       "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/nvidia",
-      "title": "How NVIDIA engineers and researchers build with Codex",
-      "summary": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
-      "publishedAt": "2026-05-12T00:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Technical or research update"
-      }
-    },
-    {
-      "id": "c31ba2e9026be78e6eac23b27750eae8525162ef",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/what-parameter-golf-taught-us",
-      "title": "What Parameter Golf taught us about AI-assisted research",
-      "summary": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
-      "publishedAt": "2026-05-12T00:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Technical or research update"
-      }
-    },
-    {
-      "id": "4fa7386e9e1952027be2ea97910b3c62df378502",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/technology/safety-security/scams-fraud-protection",
-      "title": "Our fight against fraud: 5 ways we’re keeping you safer",
-      "summary": "We’re committed to building AI-driven protections and collaborating with industry and governments to keep you safe from scams and fraud.",
-      "publishedAt": "2026-05-13T06:00:00.000Z",
+      "url": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack",
+      "title": "Our response to the TanStack npm supply chain attack",
+      "summary": "OpenAI details its response to the TanStack “Mini Shai-Hulud” supply chain attack, outlines protections taken to secure systems and signing certificates, and explains why macOS users must update OpenAI apps by June 12, 2026. Learn what happened, what was affected, and how OpenAI...",
+      "publishedAt": "2026-05-13T00:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {

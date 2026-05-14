@@ -1,111 +1,94 @@
 # AI Company Watch
 
-Generated: May 13, 2026, 8:11 AM PDT
+Generated: May 14, 2026, 8:00 AM PDT
 Lookback window: 7 day(s)
 Sources checked: 12
-Items fetched: 38
+Items fetched: 39
 Items kept: 24
-New items: 13
-External items kept: 10
-Official items kept: 14
+New items: 11
+External items kept: 9
+Official items kept: 15
 
 ## Critical External News
 
-### OpenAI - Musk vs. OpenAI trial week 3: Here's what to know
+### Google - Fanuc Shares Surge After Partnership With Google on Physical AI
+Source: Major External News - Google
+Publisher: Bloomberg.com
+Published: May 13, 2026
+Why it matters: Corporate move or major external event
+Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxOVi1vdGd6dDMtYzhoa0hfbGhKUlJ4N2NTeS1RZm1pcEw0YVYyeHNoMkdfbGxfOU1ncXdVQU9TSEx3V0k5X21NMElXMGFqTTg0dFBUQVhUd2RmLWF3elJwZ0hnZmMzRGo1NGR0LTBSN1k4aVNhSHlvV19sZzdmSjJmdUx3b0dRbXRrR0ZNblVHejZXS1pCNGRLT2FBelJKSzVlRVZyVlNlUjdoNkFod2JVVnYxbUU?oc=5
+
+### OpenAI - Musk flew to China near end of OpenAI trial, after judge warned he could be recalled
+Source: Major External News - OpenAI
+Publisher: Yahoo
+Published: May 13, 2026
+Why it matters: Corporate move or major external event
+Link: https://news.google.com/rss/articles/CBMigAFBVV95cUxNYzJFRGRrWF84cWhuS0UtdnFqRUVISk1JTXpsbmpwM3RvWUVPSzFEeTE3TDhMVUNiUW9tTlFfMFRzeFF4cjJ4cU5ra2JjM19GN2hpbkVJVXZzSWhKMDg0UFRSN0lseGpEUFlEOC1iRWVBNXViSUloZGpXUmhMeFY1bQ?oc=5
+
+### OpenAI - Microsoft feared being too dependent on OpenAI, Musk-Altman trial testimony reveals
 Source: Major External News - OpenAI
 Publisher: CNBC
 Published: May 13, 2026
 Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMikwFBVV95cUxOQ3BkLTBvcFZFTlk2dGpKNXU1ZzFHNEpiMU14aW8tQWk2blZnb2h5T2hXYW9Kdm1IclBWaThJbVpoYlkwLW92LVh4RmdJamJoNFM2bnc1dUszR0RGdG9iSThVR1FJbjJUaE15VDlZOUwydUFUWk5Ma3JvRFlMTGp1cTg4UDdoZnRUZVRJT2tVN19OdE0?oc=5
+Link: https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYzRlYVRNSndodVREWlZZSW1leWFIQ0Q2Z24zREUySHNBeTYzNmdKcW4tUzhDZURLY1hRbHpsaGJkUmtNbkZrOHlnd0N5UkxrZ1JmT2Z1MFhKTlBqNEFvTG5JQlYtakxfYTVaYjFpUHg1TkFuQjBCblU2UE42WE5YbjdDRW1VeG1RNFhqaDhEekg0d1J6MnR0d29RYy0yUm9YSllmeG5IdzfSAa4BQVVfeXFMUHN1UU1TcFFLQmtrQzVleUNrVlVCQjRNSUNkTVVySlA3T3F6T1NpZ1lZMHdFZ3lTU203a3RIdlNmX3lOU2xsaWwwTUVkYnNvRXNZX1U4aWljTjAwSFVUTWNVREtHV3Y3XzFyVnVYNTYyaF9QdEhtUmZKZXUwOHZYN3JWTE5vUlQyMFhmQzVYV2FsLVNENFMzZ1ctdXBKcDRycC1qNUw1emRHak1hcjln?oc=5
 
-### OpenAI - OpenAI’s Altman under scrutiny amid trial, IPO plans
+### OpenAI - OpenAI chief Altman has over $2 billion stake in companies that dealt with OpenAI, court filing shows
 Source: Major External News - OpenAI
-Publisher: Semafor
-Published: May 12, 2026
+Publisher: Reuters
+Published: May 13, 2026
 Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMimAFBVV95cUxNc1ExcXl2SHRhclNHQnlFQ0FtVTVuSERVLXJUOFBoUFNlYnEyVjFTVXpEb2dpV2VjT3hkTjBPS0tHYWZwOVFOdnFwMmJ4YzNrMlZ6WndraWxQM0JRYkF6WFZoQjdnTEdrYUdyUG96dTlhTnNzMlpJa01qYjhvQTdHV0p5VWk1LWNwZXFDQVFJM3Q0dUhOM2VKLQ?oc=5
+Link: https://news.google.com/rss/articles/CBMiygFBVV95cUxQeDUxQUx2TDdmSWNrbHFMd0pRQzJXZmd1RDJkNHFVWl9heHZLNE5ibVhYS3JhS0JkTjZHT2VEam9lWnprZkhLUEZiMnJLNjdyNDJxSHRvUzAwOWJvNTFFNEJWZTJhMERuNzFiSmpkaUk3M3BIVzlXMlhzYW1SSHZ0WEY2Nm5idnAwUlVVcV84NVR4RFJXanNaQV9qOVNkNUpOUWZhYzZXOE9FdEhSc1Q5YU1XZ21lVkdRT1NhSmJ0akQ5M0hGTHVsV0xB?oc=5
 
-### OpenAI - OpenAI chief Sam Altman makes a high-stakes appearance in his court bout with Elon Musk
+### OpenAI - OpenAI says no user data breached after security issue with open-source library
 Source: Major External News - OpenAI
-Publisher: AP News
-Published: May 12, 2026
-Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMijAFBVV95cUxOMzVMT2FIUXdhdWtkeW1HYzVrYVFEX1h1Rm5BV1lGUkFSZUs2WFMxTXZudU5tRXdiTFJEcml1d3R1bDJHdUIyeEtaYjUyZjU2YUFoSEliU3lWX2QzRzFMLWRFLUtQODlTang3VWdaU2x5QjNuOENNcmd2YkZhd2dtTkxBbjlVaXFNdzZYSA?oc=5
-
-### Anthropic - Thomson Reuters and Anthropic Expand Partnership to Connect Claude with CoCounsel Legal
-Source: Major External News - Anthropic
-Publisher: Thomson Reuters
-Published: May 12, 2026
-Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMi3gFBVV95cUxQY1RLTU9kdkZ1bTBHMEc5ZUp0QUMxSjZsa0ZqaGhoZV9hNTRLQVBUZGlPNnhVN1UzMksyTkhhdXhvZzVhaUhoNl9fcGNPYzBmV2hKbTN2SGtKNlR4MnVwX3V4cW9VUjg5bEtlRGc3QzY1c1o5dlpGNTZoV0g1MHFLN3VsenF3UzYxU3VabzFnMklfYktGM1QyMUpVd0duRjRUQ3BlaWV1UmdXS2lUZ2dqMVBLdzd2a0U5VU9uX1hIMFdzbzRnLVZiVzkxWExobGxIQTVhV0ppVUgzQnZnWEE?oc=5
-
-### Google - AI Watch: Anthropic security shift, Google Gemini rollout and Sam Altman testimony
-Source: Major External News - Google
-Publisher: CNBC TV18
-Published: May 12, 2026
+Publisher: Reuters
+Published: May 13, 2026
 Why it matters: Safety, security, or policy update
-Link: https://news.google.com/rss/articles/CBMi6gFBVV95cUxPYnVCXzlFUmpoX2Q2aGtKYklDVXBRbTdFM0JvZXBiekctMkMxMlNjR2FDN3Jqenh5c28zRUxEM0dkd1hHTlJWU0JZQjQ1cDYyMi1hUnVVT2FheXU3dWJpTUJyNkhmTURCa3RlN0pUN0NtdzJlSlRfWlJaWXl0RmY0Skw4OXl1NHg0U0hIWW43bU53RXFiSWt5WXh6ZmFGUXJqZkVGeHhqYlJNdjZsZks0LWQzS2FZSXFuM0M1ejg0ck8wRkw1aDEtQnlvdGtOb2tIVU1mSHR5SFhrWnQ1T0hNNWZ4S01RX0tOdGfSAe8BQVVfeXFMTUgxUnR0OEJCUVA0Wl95ZFpIZXBTVGRSVUczUG5nQjRIaWpTSGVnWUpjNVlndHQ4RTFZVWdFdjJ5dS1TWGZ3akJSelg0Qndmd0Jwa1lyYzBpMWJvaWlISi15RlJMcjZocVNrcWtoQ0lKbE56VjI1dVh2Y3hWdmNfczQ2ZEZPSnVjMTJqSDBQSHVQNk9ydGdFNDJFSmIyZmd2SWdTSnBvWXJ5aVRRUVB0MmRwNWJWTzljZmRXOTRJYU1ycUVpTERHVldHbzNkRmtvZk1lZjVRTXlQSEIxVktnc0Y5Xy1OWDRJS1VPci1Zdm8?oc=5
+Link: https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcW4yd2d2ZjRQMFZCdlZMajVDNFlSWmZqSVdPT29rdkw4NmJEdU83eHRFQjVOMUptczk2SzlSQ3pBUk9Oc0pVMEJYWVVOQWFncHNmNm5hUDJld3pvUG5uelVybmRNSzVxY0Q1ZzdCZXhfR2dEeHU1VXJmRkNpaHRGX0RzZjhyelVlZTNNQkRZa2ItZ1dBRjV0a1FXMGV1QmFhcG05ZUJ2NXd1NmhodWxCd0Q1V25Bb3dmUFRzWkZiQjlWZw?oc=5
 
 ## Important External News
 
-### Microsoft - Cerebras' Plum OpenAI Deal Is a Double-Edged Sword
-Source: Major External News - Microsoft
-Publisher: The Information
-Published: May 12, 2026
-Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMingFBVV95cUxNVnNkZGhGaEdvVTB1Rm9zclA1T1ZRazBDRXkzWTJHbnVNbmJkc3FhTWtucElBQWN5TFNTSE5NVkF4VVUxTVlITzdfS2VWelhZS1hnMGpCcHhuX2psbVBUTWZRVU5iMFM0R1NBa1E5VFB5RFFENUcwQ3lMSV94b2k5ZWI0U2NvOUhLX1V0NXdfckc4S1VzX3QtM2VJSE81UQ?oc=5
-
-### Anthropic - Anthropic in Talks to Raise Funding at a $950 Billion Valuation
-Source: Major External News - Anthropic
-Publisher: The New York Times
-Published: May 12, 2026
-Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMilAFBVV95cUxNVXlYUDFLdEJoaFFQTktLaFJiUkNtY3dLa3NMc2ktVmE5ODM4alJtd0lQd0VaSVM0UHBtNk03V3VobnBUM3lveV9oTnA5TXdBRTJTQ2M3cnplNlFaZEJtZ2tqa3pPWU1oenE5Q3E4LTEzUGRkVmd3ZTROVlFueC1RZ29qdGVSM1hGMDk2ZnJFWmNlQ3ZJ?oc=5
-
-### Anthropic - Watch Anthropic in Talks to Raise $30 Billion in New Funding
+### Anthropic - Watch Anthropic Eyeing Over $900 Billion Valuation
 Source: Major External News - Anthropic
 Publisher: Bloomberg.com
-Published: May 11, 2026
+Published: May 12, 2026
 Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMirAFBVV95cUxOMUx1dS1PWVZ1dnlYNkFzNlEzLTNzMzhjRDNZeC0yTDB0OFlSODRPM3BVU2xONjZBck4tUVdCSmV4c1VxWnJRdHZER3k4dTVSWUxRTjBYYkJnZ29TZGNHa1hMNFpOMGJzUHVXai14QnRiWi1ON05lUFF6MEI2Y052UlpSb2pNVDBCakJVN3BNR2I5Y01NeEJrZDRlVzNTY3AxYjVwLTdHa1JFdWNB?oc=5
+Link: https://news.google.com/rss/articles/CBMihgFBVV95cUxNcnFmWEk5c0MwM240OFpoR1ZCNWdCYjdjcmNEelUxajRmTzF6R1JRYkFJUEp2OUhmbHY0aFdoX2h2WlhfNXE0d2g2aGlkZjBhN0xYZXFoUkNWcDhqam1BcVk2MlFRTWFMX01sT05INmRKNDlUVGJ3QzJSVHFWWWJjMi12S2h6QQ?oc=5
 
 ## Critical Official Updates
 
-### Meta - Introducing a Completely Private Way to Chat With AI
-Source: Meta Newsroom
-Published: May 13, 2026
+### Anthropic - Introducing Claude for Small Business
+Source: Anthropic News
+Published: May 12, 2026
 Why it matters: Flagship model or product launch
-Summary: Incognito Chat lets you talk to Meta AI in a way that is invisible to anyone else. The post Introducing a Completely Private Way to Chat With AI
-Link: https://about.fb.com/news/2026/05/incognito-chat-whatsapp-meta-ai
-
-## Important Official Updates
-
-### OpenAI - AutoScout24 scales engineering with AI-powered workflows
-Source: OpenAI Newsroom
-Published: May 11, 2026
-Why it matters: Technical or research update
-Summary: Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption.
-Link: https://openai.com/index/autoscout24
-
-### OpenAI - How NVIDIA engineers and researchers build with Codex
-Source: OpenAI Newsroom
-Published: May 11, 2026
-Why it matters: Technical or research update
-Summary: Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.
-Link: https://openai.com/index/nvidia
-
-### OpenAI - What Parameter Golf taught us about AI-assisted research
-Source: OpenAI Newsroom
-Published: May 11, 2026
-Why it matters: Technical or research update
-Summary: Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.
-Link: https://openai.com/index/what-parameter-golf-taught-us
+Link: https://www.anthropic.com/news/claude-for-small-business
 
 ## Official Company Updates
 
-### Google - Our fight against fraud: 5 ways we’re keeping you safer
-Source: Google AI
+### Microsoft - Costa Rican dairy cooperative turns AI agents into coworkers
+Source: Microsoft AI
+Published: May 14, 2026
+Why it matters: Routine official update
+Summary: Costa Rican dairy cooperative turns AI agents into coworkers
+Link: https://news.microsoft.com/source/latam/features/ai/costa-rica-dos-pinos-ai-agents-microsoft-copilot-en?lang=en
+
+### Meta - From Scroll to Chat to Cart: Trends Reshaping How India Shops
+Source: Meta Newsroom
+Published: May 13, 2026
+Why it matters: Routine official update
+Summary: On the sidelines of the 2026 Meta Marketing Summit E-Commerce edition, we are sharing key trends shaping the future of shopping in India — from the rise of AI-powered discovery and video-first commerce to the growing role of conversational messaging in driving transactions. The...
+Link: https://about.fb.com/news/2026/05/from-scroll-to-chat-to-cart-trends-reshaping-how-india-shops
+
+### OpenAI - Building a safe, effective sandbox to enable Codex on Windows
+Source: OpenAI Newsroom
+Published: May 13, 2026
+Why it matters: Routine official update
+Summary: Learn how OpenAI built a secure sandbox for Codex on Windows, enabling safe, efficient coding agents with controlled file access and network restrictions.
+Link: https://openai.com/index/building-codex-windows-sandbox
+
+### OpenAI - Our response to the TanStack npm supply chain attack
+Source: OpenAI Newsroom
 Published: May 12, 2026
 Why it matters: Routine official update
-Summary: We’re committed to building AI-driven protections and collaborating with industry and governments to keep you safe from scams and fraud.
-Link: https://blog.google/innovation-and-ai/technology/safety-security/scams-fraud-protection
+Summary: OpenAI details its response to the TanStack “Mini Shai-Hulud” supply chain attack, outlines protections taken to secure systems and signing certificates, and explains why macOS users must update OpenAI apps by June 12, 2026. Learn what happened, what was affected, and how OpenAI...
+Link: https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack
