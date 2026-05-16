@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-15T14:57:38.583Z",
+  "generatedAt": "2026-05-16T14:35:13.734Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -76,26 +76,64 @@
     }
   ],
   "totals": {
-    "fetched": 43,
+    "fetched": 42,
     "deduped": 24,
-    "new": 17,
+    "new": 6,
     "byKind": {
-      "official": 11,
-      "external": 13
+      "official": 13,
+      "external": 11
     }
   },
   "items": [
     {
-      "id": "ef07097436de704c0328dec22397f50a84e37137",
+      "id": "d021b1d9251b11a5f57565af980f1666fd179df7",
       "company": "Microsoft",
       "sourceKind": "external",
       "sourceId": "external-microsoft-major",
       "sourceLabel": "Major External News - Microsoft",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNd3NHQUNTeDJpb1RRUjZ3OENMVDV1TGI0MkdnSW9tWUlhSkNlTG9mTDVsbXZoV1RVTFVtdDh3cUlCMVBCeWVVa0ZWVllTRzZ1c0ZJbzhOMmtLeXNhV2haU2VPYVlJU1NySEFoOWFXWTRFME4weWFTekNhdjFKVkxQNGppWDN3amRDNE5ERk9Xbm92TGdha2xsVmZwNFNhZE9NTmpHNnZn?oc=5",
-      "title": "Microsoft Antitrust Probe Tests AI Bundling And Boardroom Oversight",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNEk5enpnMFh6c3NGY05EYXJXejdMRmI5bHlZVFhNQmd2N28xMk1MeWVkSjJtOVJTdEFvUW5nenZlODEyU2dJZnE5YnFuMEtCeEhrbW1adWRaTE5yZlNoOGp0UmlSUDFWQXlaMjc3alBRQlg2eEZtSzU1NWFQVmhDVkhWR1VhLS1EVG5vTDdPYnUwdW5YcFFxcVJjWFg3ZHVsMXZfZUlrazJaZk0?oc=5",
+      "title": "Microsoft (MSFT) Expands Discord Partnership With Xbox",
       "summary": "",
-      "publishedAt": "2026-05-15T13:15:52.000Z",
+      "publishedAt": "2026-05-16T10:45:08.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "c30b585cc4a5fcc0fb0bab1c926c444d258ec4fe",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUkl4RVBpQ2JvdHZxbjl4aG9abGkxU2lGWGw3eG9pb1VSWHRxdkZ4ZTEwSEpfMW9jNHNJTHVxMlVhU0I0elU0Q2JKRUJtNno3eWhET1ZKWkNQM1pkZlNablZMdEs4SlZhMlQybU5rMnhBWWh0RXF1YV9FRG1YaV9CY3NsVW1CU0xo?oc=5",
+      "title": "‘Billionaires versus billionaires’: Inside the bizarre scenes of the OpenAI trial",
+      "summary": "",
+      "publishedAt": "2026-05-15T23:20:11.000Z",
+      "publisher": "NBC News",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "a5e81ca92f522e507caf4b057b46465aef5621a6",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZ2NTV1E5SlZvbkExLTBnVjd5X3cxNjc4YlYtY0UzLXZOeE1oUjV5a25MbWR2ZFFKR2RVQWxGaVNfWm4xY2JGY0NUU0xGV21Bam5LaGNuVi1RaFhHY2hINHliYzZlUVlxcnlXazhtSHlJd2prRDR0Wl9Ob196ZmRSU1JsazgyZ0FSZ21LN1NONnJwZ1J5WDdaNm1zYm5rX3RhR2pOcnB3?oc=5",
+      "title": "What’s at stake in the blockbuster Elon Musk, OpenAI trial?",
+      "summary": "",
+      "publishedAt": "2026-05-15T21:23:02.000Z",
       "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
@@ -114,7 +152,7 @@
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTUk1SkY5Smc2SVRtd1duRVlHVkxDRFpIY1Z6cHBpd0taN0ZBV2lKZ29yeEI2MzNhTTc3dVZRMkpVTk1GdWVlS010MUF1alhIVTZlMFpmRy1zb2F1RE5wVUZGdERheWxhMk1sUVBubW9SQzlIYk9pWENieUNSaU5ySkc0OG96VGM1XzRMQWo1VENvRndUdHBJd2pobExYZE8zbHJVbFNXVVc3WHUzdjBpMElxWlYwZ0RiS1l0aTg3ejdLN1VSaEUtYlBkQ0MwTjJIUGcw?oc=5",
       "title": "Billionaire investor Bill Ackman is suddenly bullish on OpenAI partner Microsoft",
       "summary": "",
-      "publishedAt": "2026-05-15T11:03:43.000Z",
+      "publishedAt": "2026-05-15T20:05:59.000Z",
       "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
@@ -124,17 +162,17 @@
       }
     },
     {
-      "id": "fab1a29c36166450058db05cf2bc04da7df250dc",
+      "id": "ef07097436de704c0328dec22397f50a84e37137",
       "company": "Microsoft",
       "sourceKind": "external",
       "sourceId": "external-microsoft-major",
       "sourceLabel": "Major External News - Microsoft",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPU0lBcVVDUUdFVFVjZFFBeXJRS05BUEJUWDczNTZFR1JFdGR6ZHZ2aGFBcW1UZzNISm9GOHBjWUpTMEJEbENfRTFDTXY3YzdKRUhOYl9wSTFCUk9DZzdCWURoUVN5RmYzcy1tTmRwdGRoZE4yTGpxQkhoaWJyRmVvX2xaNTFOYlVoanJOX1FOSGN1ckk2UDI2UzRkb0JjRW4zR25ZME1qYUlOb2N6QVZlMmNaaFQ1NDZUcFkxX0JsQ3lqQ0RSNmFvM1FKVktCZUdvOVF6My1nRHlBMjA5NlE?oc=5",
-      "title": "Lawyers for Elon Musk and OpenAI make their final case in a trial that could shape AI's future",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNd3NHQUNTeDJpb1RRUjZ3OENMVDV1TGI0MkdnSW9tWUlhSkNlTG9mTDVsbXZoV1RVTFVtdDh3cUlCMVBCeWVVa0ZWVllTRzZ1c0ZJbzhOMmtLeXNhV2haU2VPYVlJU1NySEFoOWFXWTRFME4weWFTekNhdjFKVkxQNGppWDN3amRDNE5ERk9Xbm92TGdha2xsVmZwNFNhZE9NTmpHNnZn?oc=5",
+      "title": "Microsoft Antitrust Probe Tests AI Bundling And Boardroom Oversight",
       "summary": "",
-      "publishedAt": "2026-05-15T05:02:16.000Z",
-      "publisher": "The Washington Post",
+      "publishedAt": "2026-05-15T13:15:52.000Z",
+      "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -162,63 +200,6 @@
       }
     },
     {
-      "id": "dc87e9ed85b7b45eea1cbcc8bec74d7001dea876",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdGxFcTBSUFI2VnZ4MTdmWXltekgtOHZndHR2WVRERTZZd1ZEN1VxUlJuaEVxSDJRSDV3WW5USW9KcHdMMUcxZF96T3hPWGdEdGo1cnlyekQ5SHFwbWFEZ0xJU1NKUWg0X21QdGdtdTdOOXFKWU5adngwN0RkYWtGQlZ5bTBHcnlBbUZlMDY5TUlMRmtTT1JVTTkzUWxlUHNwX2c?oc=5",
-      "title": "US judge considers Anthropic's $1.5 billion settlement of authors' lawsuit",
-      "summary": "",
-      "publishedAt": "2026-05-14T23:50:24.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "57a1b282337eed93bab2ba247033cf3548e0f259",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOU1g3eU5TWGVoR1RfRjh3UnNqamJMbjllbjlmM0dkTFpoTVlLdG0taHR0Wk9nTGRucXRJWC01aWhVZkFPVjl3dDJqX1lFTWFYWHBRU29hMmJDcmh3VF8zTWdzdFFRTXowVUUwSjlCUFh2dVVKWVBwYnZaSGZ4MDJPRnVhVmRsdFZrT05HUF9TM0h4eW14UzBfM29hc3pIY0JiYi1PbXRxR2N2UQ?oc=5",
-      "title": "Lawyers for Elon Musk and OpenAI make their final case in a trial that could shape AI's future",
-      "summary": "",
-      "publishedAt": "2026-05-14T22:00:00.000Z",
-      "publisher": "AP News",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "20ebfd399161077a0799f15e3975edc7a04ab692",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNmN3cFhLWjA4NEdOTnZaZ2htSlZDS2tVa0F5bzg2c1E3a2RhS0E4ZExMSWlKZWZZVXlsMUJTMGd0Wm4ycVYxZmluQlZ2dnZCMzBQX1hua3laeEljMTdoeDJmalM4WUpJZUVlVW90RFpnSno4ZlFNZjZId2ZyRjNDWlBNWjh5ZHdhckJCenJjVGI2NndaZGszVmF1cmx4eEdDUk5FZ3ExSQ?oc=5",
-      "title": "Elon Musk vs. OpenAI: A recap of the trial & closing remarks",
-      "summary": "",
-      "publishedAt": "2026-05-14T19:58:45.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
       "id": "8fd3ebcd2f2f29bd94e5fad757ecb6c96a1b30ca",
       "company": "Google",
       "sourceKind": "external",
@@ -233,46 +214,27 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "82ccf6abe5fcd41f9d35d38273d6b9cda37544e9",
-      "company": "Anthropic",
-      "sourceKind": "official",
-      "sourceId": "anthropic-news",
-      "sourceLabel": "Anthropic News",
-      "homepageUrl": "https://www.anthropic.com/news",
-      "url": "https://www.anthropic.com/news/gates-foundation-partnership",
-      "title": "Anthropic forms $200 million partnership with the Gates Foundation",
-      "summary": "",
-      "publishedAt": "2026-05-14T00:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "anchor",
-      "classification": {
-        "bucket": "critical",
         "score": 6,
         "reason": "Corporate move or major external event"
       }
     },
     {
-      "id": "52d4696812e4ece009777b65b42659670d5ff5df",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVmRIOUZPczFHRUJfMS1rTmVUb3kzY1dUWTM5a3FhWUY0OUFNbERKeGxXRUczZWI4RHpQRkktUWtnOGlVT05iWi0yTWpia0dDeklBV0V0VnUwaXFnZ0ZtNUZ6RjRGc0ZlVXlqeEp3bEhCcmQ4bTR4RFpnMDZLa1NLcHFpQTVMN3dZMFJlNUZBODVkT29tc2JLMU9mczMwb2lpMjlUN0M3aE83LU0?oc=5",
-      "title": "Concentric AI’s Industry-First Anthropic Compliance API Integration Strengthens Data Security Governance for Claude Platform Users",
-      "summary": "",
-      "publishedAt": "2026-05-15T12:00:00.000Z",
-      "publisher": "Yahoo Finance",
+      "id": "f0106247dee486f08fe9df68f9267636af19dafd",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/malta-chatgpt-plus-partnership",
+      "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
+      "summary": "OpenAI and Malta partner to expand AI access, offering ChatGPT Plus and training to help citizens build practical AI skills and use AI responsibly.",
+      "publishedAt": "2026-05-16T00:00:00.000Z",
+      "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 5,
-        "reason": "Safety, security, or policy update"
+        "score": 6,
+        "reason": "Corporate move or major external event"
       }
     },
     {
@@ -295,22 +257,60 @@
       }
     },
     {
-      "id": "9bea8b460d19c6dd84dc95224fb524442b8a5b87",
+      "id": "ada6c1425188ba3042003cce982408d07445854f",
       "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbkx5MGQxVXRRUzZrdTlMeElVVTJkdF9zaGpRZ244T0JGSmVrTUxoTklfVnR6TWRSalN6WHBTYjdNR3UwdVBSaDVCeUFzTmE5Q3lzOUVQeXpKbHhxOG90NG80WVZ6Sk94TWViMHlaQkxMbGcxTnE2V0o3X2RsY3lGWFExbDY0OHpLX3JHZVFVVVBTS3JpOW1yLVBjUEFkTmM?oc=5",
-      "title": "Will Microsoft’s (MSFT) Capped OpenAI Deal and New AI Alliances Change Its Platform Power Narrative?",
-      "summary": "",
-      "publishedAt": "2026-05-15T07:25:43.000Z",
-      "publisher": "Yahoo Finance",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/personal-finance-chatgpt",
+      "title": "A new personal finance experience in ChatGPT",
+      "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
+      "publishedAt": "2026-05-15T00:00:00.000Z",
+      "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "82ccf6abe5fcd41f9d35d38273d6b9cda37544e9",
+      "company": "Anthropic",
+      "sourceKind": "official",
+      "sourceId": "anthropic-news",
+      "sourceLabel": "Anthropic News",
+      "homepageUrl": "https://www.anthropic.com/news",
+      "url": "https://www.anthropic.com/news/gates-foundation-partnership",
+      "title": "Anthropic forms $200 million partnership with the Gates Foundation",
+      "summary": "",
+      "publishedAt": "2026-05-14T00:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "anchor",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "fe771eec13ba0ed86c0b2e312c4f3239aee40c7f",
+      "company": "Meta",
+      "sourceKind": "official",
+      "sourceId": "meta-newsroom",
+      "sourceLabel": "Meta Newsroom",
+      "homepageUrl": "https://about.fb.com/news/",
+      "url": "https://about.fb.com/news/2026/04/meta-partners-with-aws-on-graviton-chips-to-power-agentic-ai",
+      "title": "Meta Partners With AWS on Graviton Chips to Power Agentic AI",
+      "summary": "",
+      "publishedAt": null,
+      "publisher": "",
+      "discoveryMethod": "anchor",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Corporate move or major external event"
       }
     },
     {
@@ -349,25 +349,6 @@
         "bucket": "important",
         "score": 4,
         "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "fd608667e64cf7a52089cb161e421f057b2ee0de",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
-      "title": "Helping ChatGPT better recognize context in sensitive conversations",
-      "summary": "Learn how new ChatGPT safety updates improve context awareness in sensitive conversations, helping detect risk over time and respond more safely.",
-      "publishedAt": "2026-05-14T00:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Safety, security, or policy update"
       }
     },
     {
@@ -428,6 +409,44 @@
       }
     },
     {
+      "id": "17531badb30a5e7d79d7c9bedc0d080e7ff356bd",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMUx1dS1PWVZ1dnlYNkFzNlEzLTNzMzhjRDNZeC0yTDB0OFlSODRPM3BVU2xONjZBck4tUVdCSmV4c1VxWnJRdHZER3k4dTVSWUxRTjBYYkJnZ29TZGNHa1hMNFpOMGJzUHVXai14QnRiWi1ON05lUFF6MEI2Y052UlpSb2pNVDBCakJVN3BNR2I5Y01NeEJrZDRlVzNTY3AxYjVwLTdHa1JFdWNB?oc=5",
+      "title": "Watch Anthropic in Talks to Raise $30 Billion in New Funding",
+      "summary": "",
+      "publishedAt": "2026-05-12T00:00:00.000Z",
+      "publisher": "Bloomberg.com",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "c64312c3121cafd6f0efa8e62ac4a0e97e38333a",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/databricks",
+      "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
+      "summary": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
+      "publishedAt": "2026-05-15T00:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Technical or research update"
+      }
+    },
+    {
       "id": "ca03c8de33d6b9a62c8177a6b7c2130389bb05bb",
       "company": "OpenAI",
       "sourceKind": "official",
@@ -444,6 +463,25 @@
         "bucket": "important",
         "score": 3,
         "reason": "Technical or research update"
+      }
+    },
+    {
+      "id": "fd608667e64cf7a52089cb161e421f057b2ee0de",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
+      "title": "Helping ChatGPT better recognize context in sensitive conversations",
+      "summary": "Learn how new ChatGPT safety updates improve context awareness in sensitive conversations, helping detect risk over time and respond more safely.",
+      "publishedAt": "2026-05-14T00:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Safety, security, or policy update"
       }
     },
     {
@@ -485,75 +523,37 @@
       }
     },
     {
-      "id": "1156914a55f54736798d853732a154e3695b1b73",
-      "company": "Microsoft",
+      "id": "fcc95ff2628cdf07b18dfc0a2beef2d6597f42fe",
+      "company": "Google",
       "sourceKind": "official",
-      "sourceId": "microsoft-ai",
-      "sourceLabel": "Microsoft AI",
-      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
-      "url": "https://news.microsoft.com/source/latam/features/ai/costa-rica-dos-pinos-ai-agents-microsoft-copilot-en?lang=en",
-      "title": "Costa Rican dairy cooperative turns AI agents into coworkers",
-      "summary": "Costa Rican dairy cooperative turns AI agents into coworkers",
-      "publishedAt": "2026-05-14T13:01:18.000Z",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/digitize-notes-gemini-study-guide",
+      "title": "Digitize your paper notes with Gemini.",
+      "summary": "Gemini can turn hundreds of pages of notes into study guides or flashcards — or organize a semester’s worth of learning.",
+      "publishedAt": "2026-05-11T16:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "digest",
         "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "3e12c692082774f4849ddb2ea887d220fea9f0f8",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/work-with-codex-from-anywhere",
-      "title": "Work with Codex from anywhere",
-      "summary": "Use Codex anywhere with the ChatGPT mobile app. Monitor, steer, and approve coding tasks in real time across devices and remote environments.",
-      "publishedAt": "2026-05-14T13:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "7319dee715953477a9174750204ac60dae8ef7ec",
-      "company": "Meta",
-      "sourceKind": "official",
-      "sourceId": "meta-newsroom",
-      "sourceLabel": "Meta Newsroom",
-      "homepageUrl": "https://about.fb.com/news/",
-      "url": "https://about.fb.com/news/2026/05/from-scroll-to-chat-to-cart-trends-reshaping-how-india-shops",
-      "title": "From Scroll to Chat to Cart: Trends Reshaping How India Shops",
-      "summary": "On the sidelines of the 2026 Meta Marketing Summit E-Commerce edition, we are sharing key trends shaping the future of shopping in India — from the rise of AI-powered discovery and video-first commerce to the growing role of conversational messaging in driving transactions. The...",
-      "publishedAt": "2026-05-14T06:27:46.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
+        "reason": "Technical or research update"
       }
     }
   ],
   "newItems": [
     {
-      "id": "ef07097436de704c0328dec22397f50a84e37137",
+      "id": "d021b1d9251b11a5f57565af980f1666fd179df7",
       "company": "Microsoft",
       "sourceKind": "external",
       "sourceId": "external-microsoft-major",
       "sourceLabel": "Major External News - Microsoft",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNd3NHQUNTeDJpb1RRUjZ3OENMVDV1TGI0MkdnSW9tWUlhSkNlTG9mTDVsbXZoV1RVTFVtdDh3cUlCMVBCeWVVa0ZWVllTRzZ1c0ZJbzhOMmtLeXNhV2haU2VPYVlJU1NySEFoOWFXWTRFME4weWFTekNhdjFKVkxQNGppWDN3amRDNE5ERk9Xbm92TGdha2xsVmZwNFNhZE9NTmpHNnZn?oc=5",
-      "title": "Microsoft Antitrust Probe Tests AI Bundling And Boardroom Oversight",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNEk5enpnMFh6c3NGY05EYXJXejdMRmI5bHlZVFhNQmd2N28xMk1MeWVkSjJtOVJTdEFvUW5nenZlODEyU2dJZnE5YnFuMEtCeEhrbW1adWRaTE5yZlNoOGp0UmlSUDFWQXlaMjc3alBRQlg2eEZtSzU1NWFQVmhDVkhWR1VhLS1EVG5vTDdPYnUwdW5YcFFxcVJjWFg3ZHVsMXZfZUlrazJaZk0?oc=5",
+      "title": "Microsoft (MSFT) Expands Discord Partnership With Xbox",
       "summary": "",
-      "publishedAt": "2026-05-15T13:15:52.000Z",
+      "publishedAt": "2026-05-16T10:45:08.000Z",
       "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
@@ -563,17 +563,17 @@
       }
     },
     {
-      "id": "26b47e2f56abf102ec2eeb33f812ab368ac781cf",
+      "id": "c30b585cc4a5fcc0fb0bab1c926c444d258ec4fe",
       "company": "OpenAI",
       "sourceKind": "external",
       "sourceId": "external-openai-major",
       "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTUk1SkY5Smc2SVRtd1duRVlHVkxDRFpIY1Z6cHBpd0taN0ZBV2lKZ29yeEI2MzNhTTc3dVZRMkpVTk1GdWVlS010MUF1alhIVTZlMFpmRy1zb2F1RE5wVUZGdERheWxhMk1sUVBubW9SQzlIYk9pWENieUNSaU5ySkc0OG96VGM1XzRMQWo1VENvRndUdHBJd2pobExYZE8zbHJVbFNXVVc3WHUzdjBpMElxWlYwZ0RiS1l0aTg3ejdLN1VSaEUtYlBkQ0MwTjJIUGcw?oc=5",
-      "title": "Billionaire investor Bill Ackman is suddenly bullish on OpenAI partner Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUkl4RVBpQ2JvdHZxbjl4aG9abGkxU2lGWGw3eG9pb1VSWHRxdkZ4ZTEwSEpfMW9jNHNJTHVxMlVhU0I0elU0Q2JKRUJtNno3eWhET1ZKWkNQM1pkZlNablZMdEs4SlZhMlQybU5rMnhBWWh0RXF1YV9FRG1YaV9CY3NsVW1CU0xo?oc=5",
+      "title": "‘Billionaires versus billionaires’: Inside the bizarre scenes of the OpenAI trial",
       "summary": "",
-      "publishedAt": "2026-05-15T11:03:43.000Z",
-      "publisher": "Yahoo Finance",
+      "publishedAt": "2026-05-15T23:20:11.000Z",
+      "publisher": "NBC News",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -582,54 +582,16 @@
       }
     },
     {
-      "id": "fab1a29c36166450058db05cf2bc04da7df250dc",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPU0lBcVVDUUdFVFVjZFFBeXJRS05BUEJUWDczNTZFR1JFdGR6ZHZ2aGFBcW1UZzNISm9GOHBjWUpTMEJEbENfRTFDTXY3YzdKRUhOYl9wSTFCUk9DZzdCWURoUVN5RmYzcy1tTmRwdGRoZE4yTGpxQkhoaWJyRmVvX2xaNTFOYlVoanJOX1FOSGN1ckk2UDI2UzRkb0JjRW4zR25ZME1qYUlOb2N6QVZlMmNaaFQ1NDZUcFkxX0JsQ3lqQ0RSNmFvM1FKVktCZUdvOVF6My1nRHlBMjA5NlE?oc=5",
-      "title": "Lawyers for Elon Musk and OpenAI make their final case in a trial that could shape AI's future",
-      "summary": "",
-      "publishedAt": "2026-05-15T05:02:16.000Z",
-      "publisher": "The Washington Post",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "c3de980081fbd797b0cd4708c30b2ea264be16c8",
+      "id": "a5e81ca92f522e507caf4b057b46465aef5621a6",
       "company": "OpenAI",
       "sourceKind": "external",
       "sourceId": "external-openai-major",
       "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeTViQTVUTXhIX1ZWeTBHbmExSEpEZ3hzY0RBYzBGUWdnMU44clg4cnIxMlRWVGZuYnhjcUtUdG1sVkpDOGxZZUNRdjB2dVJHWnVscXhNQTBJWVV2bkw1TmJFRzlRSWJzUTk3V1ZJVDA0M013bzUtb19acVNoODJha3pMVEJaQkxkN1ZyVw?oc=5",
-      "title": "OpenAI Trial Heads to Jury After Closing Arguments in Musk vs. Altman Case",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZ2NTV1E5SlZvbkExLTBnVjd5X3cxNjc4YlYtY0UzLXZOeE1oUjV5a25MbWR2ZFFKR2RVQWxGaVNfWm4xY2JGY0NUU0xGV21Bam5LaGNuVi1RaFhHY2hINHliYzZlUVlxcnlXazhtSHlJd2prRDR0Wl9Ob196ZmRSU1JsazgyZ0FSZ21LN1NONnJwZ1J5WDdaNm1zYm5rX3RhR2pOcnB3?oc=5",
+      "title": "What’s at stake in the blockbuster Elon Musk, OpenAI trial?",
       "summary": "",
-      "publishedAt": "2026-05-15T00:12:36.000Z",
-      "publisher": "The New York Times",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "dc87e9ed85b7b45eea1cbcc8bec74d7001dea876",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdGxFcTBSUFI2VnZ4MTdmWXltekgtOHZndHR2WVRERTZZd1ZEN1VxUlJuaEVxSDJRSDV3WW5USW9KcHdMMUcxZF96T3hPWGdEdGo1cnlyekQ5SHFwbWFEZ0xJU1NKUWg0X21QdGdtdTdOOXFKWU5adngwN0RkYWtGQlZ5bTBHcnlBbUZlMDY5TUlMRmtTT1JVTTkzUWxlUHNwX2c?oc=5",
-      "title": "US judge considers Anthropic's $1.5 billion settlement of authors' lawsuit",
-      "summary": "",
-      "publishedAt": "2026-05-14T23:50:24.000Z",
+      "publishedAt": "2026-05-15T21:23:02.000Z",
       "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
@@ -639,56 +601,18 @@
       }
     },
     {
-      "id": "57a1b282337eed93bab2ba247033cf3548e0f259",
+      "id": "f0106247dee486f08fe9df68f9267636af19dafd",
       "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOU1g3eU5TWGVoR1RfRjh3UnNqamJMbjllbjlmM0dkTFpoTVlLdG0taHR0Wk9nTGRucXRJWC01aWhVZkFPVjl3dDJqX1lFTWFYWHBRU29hMmJDcmh3VF8zTWdzdFFRTXowVUUwSjlCUFh2dVVKWVBwYnZaSGZ4MDJPRnVhVmRsdFZrT05HUF9TM0h4eW14UzBfM29hc3pIY0JiYi1PbXRxR2N2UQ?oc=5",
-      "title": "Lawyers for Elon Musk and OpenAI make their final case in a trial that could shape AI's future",
-      "summary": "",
-      "publishedAt": "2026-05-14T22:00:00.000Z",
-      "publisher": "AP News",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "20ebfd399161077a0799f15e3975edc7a04ab692",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNmN3cFhLWjA4NEdOTnZaZ2htSlZDS2tVa0F5bzg2c1E3a2RhS0E4ZExMSWlKZWZZVXlsMUJTMGd0Wm4ycVYxZmluQlZ2dnZCMzBQX1hua3laeEljMTdoeDJmalM4WUpJZUVlVW90RFpnSno4ZlFNZjZId2ZyRjNDWlBNWjh5ZHdhckJCenJjVGI2NndaZGszVmF1cmx4eEdDUk5FZ3ExSQ?oc=5",
-      "title": "Elon Musk vs. OpenAI: A recap of the trial & closing remarks",
-      "summary": "",
-      "publishedAt": "2026-05-14T19:58:45.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "82ccf6abe5fcd41f9d35d38273d6b9cda37544e9",
-      "company": "Anthropic",
       "sourceKind": "official",
-      "sourceId": "anthropic-news",
-      "sourceLabel": "Anthropic News",
-      "homepageUrl": "https://www.anthropic.com/news",
-      "url": "https://www.anthropic.com/news/gates-foundation-partnership",
-      "title": "Anthropic forms $200 million partnership with the Gates Foundation",
-      "summary": "",
-      "publishedAt": "2026-05-14T00:00:00.000Z",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/malta-chatgpt-plus-partnership",
+      "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
+      "summary": "OpenAI and Malta partner to expand AI access, offering ChatGPT Plus and training to help citizens build practical AI skills and use AI responsibly.",
+      "publishedAt": "2026-05-16T00:00:00.000Z",
       "publisher": "",
-      "discoveryMethod": "anchor",
+      "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
         "score": 6,
@@ -696,35 +620,16 @@
       }
     },
     {
-      "id": "52d4696812e4ece009777b65b42659670d5ff5df",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVmRIOUZPczFHRUJfMS1rTmVUb3kzY1dUWTM5a3FhWUY0OUFNbERKeGxXRUczZWI4RHpQRkktUWtnOGlVT05iWi0yTWpia0dDeklBV0V0VnUwaXFnZ0ZtNUZ6RjRGc0ZlVXlqeEp3bEhCcmQ4bTR4RFpnMDZLa1NLcHFpQTVMN3dZMFJlNUZBODVkT29tc2JLMU9mczMwb2lpMjlUN0M3aE83LU0?oc=5",
-      "title": "Concentric AI’s Industry-First Anthropic Compliance API Integration Strengthens Data Security Governance for Claude Platform Users",
-      "summary": "",
-      "publishedAt": "2026-05-15T12:00:00.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "466887c600baf47edd17b7a45c2bfa9cd1430d90",
-      "company": "Meta",
+      "id": "ada6c1425188ba3042003cce982408d07445854f",
+      "company": "OpenAI",
       "sourceKind": "official",
-      "sourceId": "meta-newsroom",
-      "sourceLabel": "Meta Newsroom",
-      "homepageUrl": "https://about.fb.com/news/",
-      "url": "https://about.fb.com/news/2026/05/introducing-business-ai-on-whatsapp-for-small-businesses-in-india",
-      "title": "Introducing Business AI on WhatsApp for Small Businesses in India",
-      "summary": "To enable small businesses with AI-powered customer support directly into the WhatsApp Business app, we've launched Business AI in India. The post Introducing Business AI on WhatsApp for Small Businesses in India",
-      "publishedAt": "2026-05-15T04:59:51.000Z",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/personal-finance-chatgpt",
+      "title": "A new personal finance experience in ChatGPT",
+      "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
+      "publishedAt": "2026-05-15T00:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -734,136 +639,22 @@
       }
     },
     {
-      "id": "9bea8b460d19c6dd84dc95224fb524442b8a5b87",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbkx5MGQxVXRRUzZrdTlMeElVVTJkdF9zaGpRZ244T0JGSmVrTUxoTklfVnR6TWRSalN6WHBTYjdNR3UwdVBSaDVCeUFzTmE5Q3lzOUVQeXpKbHhxOG90NG80WVZ6Sk94TWViMHlaQkxMbGcxTnE2V0o3X2RsY3lGWFExbDY0OHpLX3JHZVFVVVBTS3JpOW1yLVBjUEFkTmM?oc=5",
-      "title": "Will Microsoft’s (MSFT) Capped OpenAI Deal and New AI Alliances Change Its Platform Power Narrative?",
-      "summary": "",
-      "publishedAt": "2026-05-15T07:25:43.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "3532691a45d6e3a3e40947ed574f6067b838dc11",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPX3BEd1hJcVowVnRIOE81QlBSTnVNMjlESEE3Ym1ycFZXbkRiek01SUQwV0t4VXlLYkxzd3g0eF8wWEUza0tCZFgtZUFzRWkyQVVzQm9GbzVIWnZFcjYwLWpKQmNVZm16RlVuSkVGaDlDTnZjWWE5VWhxVlJmTW16Q3V4NlYwTnd6QkRJOXlqN0x1Mm1adjM1Qnl3MHYxWjlHd0xR?oc=5",
-      "title": "Anthropic Picks Co-Leads for $900 Billion Valuation Funding Round",
-      "summary": "",
-      "publishedAt": "2026-05-15T00:51:00.000Z",
-      "publisher": "The Information",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "08ffa78aee959c003169267b255c8942d4194036",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQLTRIbVBTNjlITko4cGQ0dHJMUV9IUGZNUUFJMzlUWG1PNFVWVVBPaGVkYkYxbl8wVjhWZGJnWFJSTDRYYkRRWjV2QjBoTDhmTXBWYW5kbWVwczBYd0JxUkczNXNhZGFNTE53Mm9CQ1dxWV9ydjRnMEM1T21DSjljMXgtUQ?oc=5",
-      "title": "Meta's $10 billion Louisiana data center is getting $3.3 billion in tax breaks",
-      "summary": "",
-      "publishedAt": "2026-05-14T17:36:00.000Z",
-      "publisher": "Fortune",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "fd608667e64cf7a52089cb161e421f057b2ee0de",
+      "id": "c64312c3121cafd6f0efa8e62ac4a0e97e38333a",
       "company": "OpenAI",
       "sourceKind": "official",
       "sourceId": "openai-newsroom",
       "sourceLabel": "OpenAI Newsroom",
       "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
-      "title": "Helping ChatGPT better recognize context in sensitive conversations",
-      "summary": "Learn how new ChatGPT safety updates improve context awareness in sensitive conversations, helping detect risk over time and respond more safely.",
-      "publishedAt": "2026-05-14T00:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "ca03c8de33d6b9a62c8177a6b7c2130389bb05bb",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/sea-david-chen",
-      "title": "Sea's View on the Future of Agentic Software Development with Codex",
-      "summary": "Sea Limited's CPO explains why the company is deploying Codex across engineering teams to accelerate AI-native software development in Asia.",
-      "publishedAt": "2026-05-14T20:30:00.000Z",
+      "url": "https://openai.com/index/databricks",
+      "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
+      "summary": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
+      "publishedAt": "2026-05-15T00:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
         "score": 3,
         "reason": "Technical or research update"
-      }
-    },
-    {
-      "id": "dca6daaff604e07102cd9a4069b1c917fb0066df",
-      "company": "Microsoft",
-      "sourceKind": "official",
-      "sourceId": "microsoft-ai",
-      "sourceLabel": "Microsoft AI",
-      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
-      "url": "https://news.microsoft.com/source/asia/features/from-one-classroom-to-a-nationwide-movement-advancing-ai-skills-in-education",
-      "title": "From one classroom to a nationwide movement: Advancing AI skills in Thailand",
-      "summary": "From one classroom to a nationwide movement: Advancing AI skills in Thailand",
-      "publishedAt": "2026-05-15T13:16:12.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "3e12c692082774f4849ddb2ea887d220fea9f0f8",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/work-with-codex-from-anywhere",
-      "title": "Work with Codex from anywhere",
-      "summary": "Use Codex anywhere with the ChatGPT mobile app. Monitor, steer, and approve coding tasks in real time across devices and remote environments.",
-      "publishedAt": "2026-05-14T13:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
       }
     }
   ],
