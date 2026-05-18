@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-17T14:37:46.566Z",
+  "generatedAt": "2026-05-18T15:14:41.413Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -78,25 +78,63 @@
   "totals": {
     "fetched": 42,
     "deduped": 24,
-    "new": 5,
+    "new": 8,
     "byKind": {
-      "official": 12,
-      "external": 12
+      "official": 14,
+      "external": 10
     }
   },
   "items": [
     {
-      "id": "80b5f1737950f1dbc388eedb837c6075719a1ff2",
-      "company": "Microsoft",
+      "id": "03c38a41b0ae1198e4e3f04c595a739a7a0ec517",
+      "company": "Anthropic",
       "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWHk5N1c4N05Ib1k4UU5ZamVRRF85azJ2bHNEa3FVXzlSd0FnZ2VWeUxNN0hsYTVsT1ViV3FCdUk1dko0Mi1TZ2dXYmhsRU1WZDR4VTI2UTVLa0VZeWphVHVObU9DY1d1eUNJVTh5ZHJ2U1VQaXdTQmZPdy1EQWQtdUFKRzVPWUVLaXhmbTJCU3Vsd1hYTEZUdGNWYkpRRDhJZmVobw?oc=5",
-      "title": "OneStream (OS) Valuation Check After Expanded Microsoft AI Partnership News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQktDdXI0NEo3VnpIcTBMY3BMd0VoZE92cnhMSzBYMUdpU1dLRWFucVo0UDBVaUY2Z0JVRV96V1NadEpMQXhFcEJ3WEVrMXFZMUV2TzhyOVVROHM3aGI5N2d6QmxvTTJ6LW92WkRmSHZ5cXhEM2FhaWlDaUN5dEpEdC1IVlVFZ1hQaWdyaGJpMXFfRkRXY1BRLVJodHJGRkhqeDhMS25KSDFJMV9KQlE?oc=5",
+      "title": "SandboxAQ CEO Jack Hidary on why the Anthropic partnership matters",
       "summary": "",
-      "publishedAt": "2026-05-17T00:17:00.000Z",
-      "publisher": "Yahoo Finance",
+      "publishedAt": "2026-05-18T14:52:16.000Z",
+      "publisher": "CNBC",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "febf09ea24553cd7e7b05ff820bb977a076a94a5",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQTRrWjFIZ2JTd0g5Wjlyc29wN1hKRXRGRW9DdWc5SzI1LW9WLXlIVjFUMHM3aUVuREFaOS1OTWdCT0ZHM2tsZVNpaURPb0dIcndCcnZMeWJfQk1ORjFIRzJ1ek1XTy1TNHBIazVILWlIc2N4VjMydU04TUZodFMzNzczS091dlNtWlVxX1owUWtUY2lieUQxMFpheXo1TkZsTlZUMWNfLW1vdE9JUkVXV3VEc0I4NGNHZVZZeGp6VQ?oc=5",
+      "title": "OpenAI says ChatGPT is not a lawyer, asks court to toss insurer's lawsuit",
+      "summary": "",
+      "publishedAt": "2026-05-18T14:43:44.000Z",
+      "publisher": "Reuters",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "86d8eeb0caeeb17937c56f861b31382110ab6ffc",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOTdTUllONEtLM2hnVGNvVjBmejlwdVI0U0Q0RXM0YWdaVmpia3hnN3l4Q3daLVdVS2VkODlURWZYSXpMMWl5N3drWFk2VFBxLTBHcFcxTDVpMTc2c2JGMThmT3h6dFMzNGxHT0VmSDYxaF80QXdpSF9zb24yb09lVXpzc1ZEa1ZOLTB1U2hxYnUtcC1YRFBj?oc=5",
+      "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
+      "summary": "",
+      "publishedAt": "2026-05-17T19:46:34.000Z",
+      "publisher": "TechCrunch",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -119,103 +157,65 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 7,
+        "score": 6,
         "reason": "Corporate move or major external event"
       }
     },
     {
-      "id": "a5e81ca92f522e507caf4b057b46465aef5621a6",
-      "company": "OpenAI",
+      "id": "8fd3ebcd2f2f29bd94e5fad757ecb6c96a1b30ca",
+      "company": "Google",
       "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
+      "sourceId": "external-google-major",
+      "sourceLabel": "Major External News - Google",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZ2NTV1E5SlZvbkExLTBnVjd5X3cxNjc4YlYtY0UzLXZOeE1oUjV5a25MbWR2ZFFKR2RVQWxGaVNfWm4xY2JGY0NUU0xGV21Bam5LaGNuVi1RaFhHY2hINHliYzZlUVlxcnlXazhtSHlJd2prRDR0Wl9Ob196ZmRSU1JsazgyZ0FSZ21LN1NONnJwZ1J5WDdaNm1zYm5rX3RhR2pOcnB3?oc=5",
-      "title": "What’s at stake in the blockbuster Elon Musk, OpenAI trial?",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVi1vdGd6dDMtYzhoa0hfbGhKUlJ4N2NTeS1RZm1pcEw0YVYyeHNoMkdfbGxfOU1ncXdVQU9TSEx3V0k5X21NMElXMGFqTTg0dFBUQVhUd2RmLWF3elJwZ0hnZmMzRGo1NGR0LTBSN1k4aVNhSHlvV19sZzdmSjJmdUx3b0dRbXRrR0ZNblVHejZXS1pCNGRLT2FBelJKSzVlRVZyVlNlUjdoNkFod2JVVnYxbUU?oc=5",
+      "title": "Fanuc Shares Surge After Partnership With Google on Physical AI",
       "summary": "",
-      "publishedAt": "2026-05-15T21:23:02.000Z",
-      "publisher": "Yahoo Finance",
+      "publishedAt": "2026-05-14T05:39:00.000Z",
+      "publisher": "Bloomberg.com",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 7,
+        "score": 6,
         "reason": "Corporate move or major external event"
       }
     },
     {
-      "id": "26b47e2f56abf102ec2eeb33f812ab368ac781cf",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTUk1SkY5Smc2SVRtd1duRVlHVkxDRFpIY1Z6cHBpd0taN0ZBV2lKZ29yeEI2MzNhTTc3dVZRMkpVTk1GdWVlS010MUF1alhIVTZlMFpmRy1zb2F1RE5wVUZGdERheWxhMk1sUVBubW9SQzlIYk9pWENieUNSaU5ySkc0OG96VGM1XzRMQWo1VENvRndUdHBJd2pobExYZE8zbHJVbFNXVVc3WHUzdjBpMElxWlYwZ0RiS1l0aTg3ejdLN1VSaEUtYlBkQ0MwTjJIUGcw?oc=5",
-      "title": "Billionaire investor Bill Ackman is suddenly bullish on OpenAI partner Microsoft",
-      "summary": "",
-      "publishedAt": "2026-05-15T20:05:59.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "ef07097436de704c0328dec22397f50a84e37137",
+      "id": "9b7f68c509fb2a4478ee07e39495fc38a8ac17a7",
       "company": "Microsoft",
       "sourceKind": "external",
       "sourceId": "external-microsoft-major",
       "sourceLabel": "Major External News - Microsoft",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNd3NHQUNTeDJpb1RRUjZ3OENMVDV1TGI0MkdnSW9tWUlhSkNlTG9mTDVsbXZoV1RVTFVtdDh3cUlCMVBCeWVVa0ZWVllTRzZ1c0ZJbzhOMmtLeXNhV2haU2VPYVlJU1NySEFoOWFXWTRFME4weWFTekNhdjFKVkxQNGppWDN3amRDNE5ERk9Xbm92TGdha2xsVmZwNFNhZE9NTmpHNnZn?oc=5",
-      "title": "Microsoft Antitrust Probe Tests AI Bundling And Boardroom Oversight",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZ3VmYTAwTUpCdWxEVEdDT1AtdnhveXAxVEVWTjhLeV9PV2tKOE9tQkZtX0Y0QVlTaDNocWhCRHhrUndBUElpTmE1QWsyeE1yb3lrZTRSa3JBLS1ZcWp5aXdMc0V1MnppQkV0enVuTWRBbThjTERieXI3elFqMXJDa0I3cWJpVFJqZFhJZ2owNC1rLXp5Q1ctQ2VBV2Vfam9tRmtaVGNFSkpOa010MXJwSw?oc=5",
+      "title": "Versa Joins the Microsoft Intelligent Security Association",
       "summary": "",
-      "publishedAt": "2026-05-15T13:15:52.000Z",
+      "publishedAt": "2026-05-18T13:00:00.000Z",
       "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
+        "score": 5,
+        "reason": "Safety, security, or policy update"
       }
     },
     {
-      "id": "af1a9b59b3a2f36d06297688dd23442feb5167ab",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9IdDJYUzROVkt1LTdlc2xrekdPRWMwR3dFMGUyQXFTLUN2c0VvNVRqRnZLLVBEbkxEZEZMR0NFTk9DSEU5YnFNNTAybUNzcC1URk1FeEdpaUhXQkZoa0VHQVJpSnBsRl8wRldHelVlcW9ndmVleUc2Zg?oc=5",
-      "title": "Musk lawyers accuse OpenAI of deception in close of mega-trial",
-      "summary": "",
-      "publishedAt": "2026-05-14T22:13:55.000Z",
-      "publisher": "Axios",
+      "id": "e8b83e4c838a257101fb8565d9bf47cc4022e4b9",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/accelerator-ai-for-the-planet",
+      "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks.",
+      "summary": "The Asia-Pacific region is a global engine for economic growth, but it's also highly vulnerable to climate change. While green technologies are gaining momentum, a recen…",
+      "publishedAt": "2026-05-17T18:00:00.000Z",
+      "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "28693f000cb16b414a53c48fb92192e03750e0b5",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTmdoNlhxZTBSN2pLX0d5NEV0emNEbVpBOUNTUk1qcFVwcnR4X255b0E3b3l4cm00N2JMejczOEZQUXdJajFFZmhSMUR3SmNVZkhaU2tGalJiTHJtQWVEbm11TzVwemlOOXN4M0RfbnVuUEdVdmVNdzRyUTBVRTYwY0JsMWZKR0h5WV8wQ2F2YTd3X1ZBcUM0WjhnYzY3Unp6TzJtdDVmTk1JNHNya2VORl9mSQ?oc=5",
-      "title": "Thomson Reuters and Anthropic Expand Partnership to Connect Claude with CoCounsel Legal",
-      "summary": "",
-      "publishedAt": "2026-05-12T17:00:00.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
+        "score": 5,
+        "reason": "Flagship model or product launch"
       }
     },
     {
@@ -233,46 +233,8 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 6,
+        "score": 5,
         "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "f0d7ecb8dbed6c7fcd8a09568cf2d174f54dcf1e",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQjZTc2xkZ3lNdzNLZ1Z2VE5PV21KWWZiTDRGdW1TNEN1RFV6TkpBdzhLbE93alc3WUdwWjA5NTZuSkliZ0N2RDAyQTVaTHU5TVZXYnQtZHRCd3B2RERPU0FCYldnYUVYUG8tTk5GeTZ6blR0bEFtNUp5cUJ1bW8wSHYyRktNaXN0TkRsby1OdV9pTlhWRVN4NFJNY0RvY3pQLWtxRQ?oc=5",
-      "title": "BitLocker trust is now the real target in Microsoft’s latest security fight",
-      "summary": "",
-      "publishedAt": "2026-05-17T13:57:40.000Z",
-      "publisher": "Startup Fortune",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "f363613b0f611227f7f1312d6812f9d99c846ab1",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZndhZEZiV1pyQWMzNWF5cnl1LUl0azdOOElNcUlRRzNmYk11Z0dvYjF6X3pmT01la0RCZWd1NFNBT0NialRpdFJRZnB4R2doMXZOdEtGbzRhY0lFcEgwZDVoNnIyOE1sa0x3Y1ZLZzdQLVlrdGZPekJkVHZkeFNDNk5BMEpNT1NPeExZ?oc=5",
-      "title": "Anthropic’s AI just helped crack Apple’s M5 security wall",
-      "summary": "",
-      "publishedAt": "2026-05-16T21:31:08.000Z",
-      "publisher": "Startup Fortune",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Safety, security, or policy update"
       }
     },
     {
@@ -295,22 +257,22 @@
       }
     },
     {
-      "id": "fe771eec13ba0ed86c0b2e312c4f3239aee40c7f",
+      "id": "62dd7593dbcae75acb4c9fd73f3dd23fbab4ff02",
       "company": "Meta",
-      "sourceKind": "official",
-      "sourceId": "meta-newsroom",
-      "sourceLabel": "Meta Newsroom",
-      "homepageUrl": "https://about.fb.com/news/",
-      "url": "https://about.fb.com/news/2026/04/meta-partners-with-aws-on-graviton-chips-to-power-agentic-ai",
-      "title": "Meta Partners With AWS on Graviton Chips to Power Agentic AI",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMzd3MzlaQUlQTUNnZk94WlJBZWxRZjdZaV9KYkhTVnRWTXpNRkE1YkhiZ29DUUtld1lEM2Ywb3hKcWROb0JiWmh5Vk02V2pydzFFdl9UbWdobmlrTkxqeEd5WlhnUTRVT20zWWtRT1JULVVGX0RPcVZJQ2g5Yzd1RVJVQ0NQRFU5XzBFTk8wdlZVbXotOXRBYlgwWlJGbDlj?oc=5",
+      "title": "Amazon, Meta And Microsoft's AI Data Center Push Faces Strong Revolt— Seven In 10 Americans Don't Want Hubs Near Them",
       "summary": "",
-      "publishedAt": null,
-      "publisher": "",
-      "discoveryMethod": "anchor",
+      "publishedAt": "2026-05-17T15:01:18.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
       "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Corporate move or major external event"
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
       }
     },
     {
@@ -390,6 +352,25 @@
       }
     },
     {
+      "id": "b2fdd74ccdedaa9670623e3b6593d68066040d96",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPc2FfNVN5cmZ5SWF4WFBlOWluNFRfdEpkdVVwNXpKZUNyanhWN3RvZURrQkVNWFFILWptTzlkVGFpSlg2V1FKbWZIUlhGSXdJc3g4TmdQUEM1QkpsM2ctVjFWTjUxcUhvTS0teFFxekE0YnhhQ0tLZWNwNUdZZTQ5VFB2cF96STV0ZWQ2N2ladko0N1NXbzVLRWlHMnFQdHlheXlfVDJDUDE?oc=5",
+      "title": "OpenAI seals deal in Malta to give all Maltese access to ChatGPT Plus",
+      "summary": "",
+      "publishedAt": "2026-05-16T10:31:40.000Z",
+      "publisher": "Reuters",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
       "id": "3532691a45d6e3a3e40947ed574f6067b838dc11",
       "company": "Anthropic",
       "sourceKind": "external",
@@ -420,25 +401,6 @@
       "summary": "",
       "publishedAt": "2026-05-14T17:36:00.000Z",
       "publisher": "Fortune",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "17531badb30a5e7d79d7c9bedc0d080e7ff356bd",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMUx1dS1PWVZ1dnlYNkFzNlEzLTNzMzhjRDNZeC0yTDB0OFlSODRPM3BVU2xONjZBck4tUVdCSmV4c1VxWnJRdHZER3k4dTVSWUxRTjBYYkJnZ29TZGNHa1hMNFpOMGJzUHVXai14QnRiWi1ON05lUFF6MEI2Y052UlpSb2pNVDBCakJVN3BNR2I5Y01NeEJrZDRlVzNTY3AxYjVwLTdHa1JFdWNB?oc=5",
-      "title": "Watch Anthropic in Talks to Raise $30 Billion in New Funding",
-      "summary": "",
-      "publishedAt": "2026-05-12T00:00:00.000Z",
-      "publisher": "Bloomberg.com",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -482,6 +444,25 @@
         "bucket": "important",
         "score": 3,
         "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "4939f468236f0130c56a44d6a8fa105c84731e05",
+      "company": "Meta",
+      "sourceKind": "official",
+      "sourceId": "meta-newsroom",
+      "sourceLabel": "Meta Newsroom",
+      "homepageUrl": "https://about.fb.com/news/",
+      "url": "https://about.fb.com/news/2026/05/meta-ai-wearables-changing-the-game-for-disabled-people",
+      "title": "Our AI Wearables Are “Changing the Game” for Disabled People",
+      "summary": "We're rolling out new features on our AI glasses that make the technology more accessible to people with disabilities. The post Our AI Wearables Are “Changing the Game” for Disabled People",
+      "publishedAt": "2026-05-18T14:35:42.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
       }
     },
     {
@@ -540,21 +521,40 @@
         "score": 2,
         "reason": "Technical or research update"
       }
+    },
+    {
+      "id": "dca6daaff604e07102cd9a4069b1c917fb0066df",
+      "company": "Microsoft",
+      "sourceKind": "official",
+      "sourceId": "microsoft-ai",
+      "sourceLabel": "Microsoft AI",
+      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
+      "url": "https://news.microsoft.com/source/asia/features/from-one-classroom-to-a-nationwide-movement-advancing-ai-skills-in-education",
+      "title": "From one classroom to a nationwide movement: Advancing AI skills in Thailand",
+      "summary": "From one classroom to a nationwide movement: Advancing AI skills in Thailand",
+      "publishedAt": "2026-05-15T13:16:12.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 1,
+        "reason": "Routine official update"
+      }
     }
   ],
   "newItems": [
     {
-      "id": "80b5f1737950f1dbc388eedb837c6075719a1ff2",
-      "company": "Microsoft",
+      "id": "03c38a41b0ae1198e4e3f04c595a739a7a0ec517",
+      "company": "Anthropic",
       "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWHk5N1c4N05Ib1k4UU5ZamVRRF85azJ2bHNEa3FVXzlSd0FnZ2VWeUxNN0hsYTVsT1ViV3FCdUk1dko0Mi1TZ2dXYmhsRU1WZDR4VTI2UTVLa0VZeWphVHVObU9DY1d1eUNJVTh5ZHJ2U1VQaXdTQmZPdy1EQWQtdUFKRzVPWUVLaXhmbTJCU3Vsd1hYTEZUdGNWYkpRRDhJZmVobw?oc=5",
-      "title": "OneStream (OS) Valuation Check After Expanded Microsoft AI Partnership News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQktDdXI0NEo3VnpIcTBMY3BMd0VoZE92cnhMSzBYMUdpU1dLRWFucVo0UDBVaUY2Z0JVRV96V1NadEpMQXhFcEJ3WEVrMXFZMUV2TzhyOVVROHM3aGI5N2d6QmxvTTJ6LW92WkRmSHZ5cXhEM2FhaWlDaUN5dEpEdC1IVlVFZ1hQaWdyaGJpMXFfRkRXY1BRLVJodHJGRkhqeDhMS25KSDFJMV9KQlE?oc=5",
+      "title": "SandboxAQ CEO Jack Hidary on why the Anthropic partnership matters",
       "summary": "",
-      "publishedAt": "2026-05-17T00:17:00.000Z",
-      "publisher": "Yahoo Finance",
+      "publishedAt": "2026-05-18T14:52:16.000Z",
+      "publisher": "CNBC",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -563,55 +563,55 @@
       }
     },
     {
-      "id": "af1a9b59b3a2f36d06297688dd23442feb5167ab",
+      "id": "febf09ea24553cd7e7b05ff820bb977a076a94a5",
       "company": "OpenAI",
       "sourceKind": "external",
       "sourceId": "external-openai-major",
       "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9IdDJYUzROVkt1LTdlc2xrekdPRWMwR3dFMGUyQXFTLUN2c0VvNVRqRnZLLVBEbkxEZEZMR0NFTk9DSEU5YnFNNTAybUNzcC1URk1FeEdpaUhXQkZoa0VHQVJpSnBsRl8wRldHelVlcW9ndmVleUc2Zg?oc=5",
-      "title": "Musk lawyers accuse OpenAI of deception in close of mega-trial",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQTRrWjFIZ2JTd0g5Wjlyc29wN1hKRXRGRW9DdWc5SzI1LW9WLXlIVjFUMHM3aUVuREFaOS1OTWdCT0ZHM2tsZVNpaURPb0dIcndCcnZMeWJfQk1ORjFIRzJ1ek1XTy1TNHBIazVILWlIc2N4VjMydU04TUZodFMzNzczS091dlNtWlVxX1owUWtUY2lieUQxMFpheXo1TkZsTlZUMWNfLW1vdE9JUkVXV3VEc0I4NGNHZVZZeGp6VQ?oc=5",
+      "title": "OpenAI says ChatGPT is not a lawyer, asks court to toss insurer's lawsuit",
       "summary": "",
-      "publishedAt": "2026-05-14T22:13:55.000Z",
-      "publisher": "Axios",
+      "publishedAt": "2026-05-18T14:43:44.000Z",
+      "publisher": "Reuters",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 6,
+        "score": 7,
         "reason": "Corporate move or major external event"
       }
     },
     {
-      "id": "28693f000cb16b414a53c48fb92192e03750e0b5",
-      "company": "Anthropic",
+      "id": "86d8eeb0caeeb17937c56f861b31382110ab6ffc",
+      "company": "OpenAI",
       "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTmdoNlhxZTBSN2pLX0d5NEV0emNEbVpBOUNTUk1qcFVwcnR4X255b0E3b3l4cm00N2JMejczOEZQUXdJajFFZmhSMUR3SmNVZkhaU2tGalJiTHJtQWVEbm11TzVwemlOOXN4M0RfbnVuUEdVdmVNdzRyUTBVRTYwY0JsMWZKR0h5WV8wQ2F2YTd3X1ZBcUM0WjhnYzY3Unp6TzJtdDVmTk1JNHNya2VORl9mSQ?oc=5",
-      "title": "Thomson Reuters and Anthropic Expand Partnership to Connect Claude with CoCounsel Legal",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOTdTUllONEtLM2hnVGNvVjBmejlwdVI0U0Q0RXM0YWdaVmpia3hnN3l4Q3daLVdVS2VkODlURWZYSXpMMWl5N3drWFk2VFBxLTBHcFcxTDVpMTc2c2JGMThmT3h6dFMzNGxHT0VmSDYxaF80QXdpSF9zb24yb09lVXpzc1ZEa1ZOLTB1U2hxYnUtcC1YRFBj?oc=5",
+      "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
       "summary": "",
-      "publishedAt": "2026-05-12T17:00:00.000Z",
-      "publisher": "Yahoo Finance",
+      "publishedAt": "2026-05-17T19:46:34.000Z",
+      "publisher": "TechCrunch",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 6,
+        "score": 7,
         "reason": "Corporate move or major external event"
       }
     },
     {
-      "id": "f0d7ecb8dbed6c7fcd8a09568cf2d174f54dcf1e",
+      "id": "9b7f68c509fb2a4478ee07e39495fc38a8ac17a7",
       "company": "Microsoft",
       "sourceKind": "external",
       "sourceId": "external-microsoft-major",
       "sourceLabel": "Major External News - Microsoft",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQjZTc2xkZ3lNdzNLZ1Z2VE5PV21KWWZiTDRGdW1TNEN1RFV6TkpBdzhLbE93alc3WUdwWjA5NTZuSkliZ0N2RDAyQTVaTHU5TVZXYnQtZHRCd3B2RERPU0FCYldnYUVYUG8tTk5GeTZ6blR0bEFtNUp5cUJ1bW8wSHYyRktNaXN0TkRsby1OdV9pTlhWRVN4NFJNY0RvY3pQLWtxRQ?oc=5",
-      "title": "BitLocker trust is now the real target in Microsoft’s latest security fight",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZ3VmYTAwTUpCdWxEVEdDT1AtdnhveXAxVEVWTjhLeV9PV2tKOE9tQkZtX0Y0QVlTaDNocWhCRHhrUndBUElpTmE1QWsyeE1yb3lrZTRSa3JBLS1ZcWp5aXdMc0V1MnppQkV0enVuTWRBbThjTERieXI3elFqMXJDa0I3cWJpVFJqZFhJZ2owNC1rLXp5Q1ctQ2VBV2Vfam9tRmtaVGNFSkpOa010MXJwSw?oc=5",
+      "title": "Versa Joins the Microsoft Intelligent Security Association",
       "summary": "",
-      "publishedAt": "2026-05-17T13:57:40.000Z",
-      "publisher": "Startup Fortune",
+      "publishedAt": "2026-05-18T13:00:00.000Z",
+      "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -620,22 +620,79 @@
       }
     },
     {
-      "id": "f363613b0f611227f7f1312d6812f9d99c846ab1",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZndhZEZiV1pyQWMzNWF5cnl1LUl0azdOOElNcUlRRzNmYk11Z0dvYjF6X3pmT01la0RCZWd1NFNBT0NialRpdFJRZnB4R2doMXZOdEtGbzRhY0lFcEgwZDVoNnIyOE1sa0x3Y1ZLZzdQLVlrdGZPekJkVHZkeFNDNk5BMEpNT1NPeExZ?oc=5",
-      "title": "Anthropic’s AI just helped crack Apple’s M5 security wall",
-      "summary": "",
-      "publishedAt": "2026-05-16T21:31:08.000Z",
-      "publisher": "Startup Fortune",
+      "id": "e8b83e4c838a257101fb8565d9bf47cc4022e4b9",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/accelerator-ai-for-the-planet",
+      "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks.",
+      "summary": "The Asia-Pacific region is a global engine for economic growth, but it's also highly vulnerable to climate change. While green technologies are gaining momentum, a recen…",
+      "publishedAt": "2026-05-17T18:00:00.000Z",
+      "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
         "score": 5,
-        "reason": "Safety, security, or policy update"
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "62dd7593dbcae75acb4c9fd73f3dd23fbab4ff02",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMzd3MzlaQUlQTUNnZk94WlJBZWxRZjdZaV9KYkhTVnRWTXpNRkE1YkhiZ29DUUtld1lEM2Ywb3hKcWROb0JiWmh5Vk02V2pydzFFdl9UbWdobmlrTkxqeEd5WlhnUTRVT20zWWtRT1JULVVGX0RPcVZJQ2g5Yzd1RVJVQ0NQRFU5XzBFTk8wdlZVbXotOXRBYlgwWlJGbDlj?oc=5",
+      "title": "Amazon, Meta And Microsoft's AI Data Center Push Faces Strong Revolt— Seven In 10 Americans Don't Want Hubs Near Them",
+      "summary": "",
+      "publishedAt": "2026-05-17T15:01:18.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "b2fdd74ccdedaa9670623e3b6593d68066040d96",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPc2FfNVN5cmZ5SWF4WFBlOWluNFRfdEpkdVVwNXpKZUNyanhWN3RvZURrQkVNWFFILWptTzlkVGFpSlg2V1FKbWZIUlhGSXdJc3g4TmdQUEM1QkpsM2ctVjFWTjUxcUhvTS0teFFxekE0YnhhQ0tLZWNwNUdZZTQ5VFB2cF96STV0ZWQ2N2ladko0N1NXbzVLRWlHMnFQdHlheXlfVDJDUDE?oc=5",
+      "title": "OpenAI seals deal in Malta to give all Maltese access to ChatGPT Plus",
+      "summary": "",
+      "publishedAt": "2026-05-16T10:31:40.000Z",
+      "publisher": "Reuters",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "4939f468236f0130c56a44d6a8fa105c84731e05",
+      "company": "Meta",
+      "sourceKind": "official",
+      "sourceId": "meta-newsroom",
+      "sourceLabel": "Meta Newsroom",
+      "homepageUrl": "https://about.fb.com/news/",
+      "url": "https://about.fb.com/news/2026/05/meta-ai-wearables-changing-the-game-for-disabled-people",
+      "title": "Our AI Wearables Are “Changing the Game” for Disabled People",
+      "summary": "We're rolling out new features on our AI glasses that make the technology more accessible to people with disabilities. The post Our AI Wearables Are “Changing the Game” for Disabled People",
+      "publishedAt": "2026-05-18T14:35:42.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
       }
     }
   ],
