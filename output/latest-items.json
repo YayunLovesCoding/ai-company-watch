@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-19T15:17:04.753Z",
+  "generatedAt": "2026-05-20T15:14:55.173Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -76,27 +76,46 @@
     }
   ],
   "totals": {
-    "fetched": 47,
+    "fetched": 48,
     "deduped": 24,
-    "new": 16,
+    "new": 14,
     "byKind": {
-      "official": 11,
-      "external": 13
+      "official": 12,
+      "external": 12
     }
   },
   "items": [
     {
-      "id": "81ff2571a4c8cc50ba8bd944e295f71f6d862b54",
+      "id": "112b112028968efebe635d7eec4daa642b4ac06b",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1SSnlMZW5oUGZseE1MZDljVnJ4ZkZnUnAzc3I0QlktNWVuZG01SVFpZmY5WlpFQjZhN0JRQm9vRExsNTJSR0ZFNHlmS0tERWd0VTFhOF8za1laUjBiYjM4dGp0OUxkSHNa?oc=5",
+      "title": "Elon Musk AKA Phony Stark Takes An L In Court Trying To Stop OpenAI",
+      "summary": "",
+      "publishedAt": "2026-05-20T13:55:15.000Z",
+      "publisher": "Hip-Hop Wired",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "c8d279d0e4748cee8bb2b5827236ea3adfc4bb3b",
       "company": "Anthropic",
       "sourceKind": "external",
       "sourceId": "external-anthropic-major",
       "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQalZ4dGNDM19pd0lERTU5TFprWklfUmlUa0kxZXpxaDk3Z1lLMVRJM1ZvWHl3S1RIN1JxbjJ3X1QycHNxVS1halRCRVMzM0xGV2pLdmNDbnRvUGIwSi1KSW04dUFyTG80LWdFaC0wUjZ4Z0ktZ1lwNGdqd3BIQTVXM3h4TDZ5bFFzNDFTbGtpRTZkYnduX2JIR2xzZXFtR0VYM2Y0Rk53bUFCN1FuZjBKaXI5dGtTdw?oc=5",
-      "title": "Anthropic and Pentagon face off in court over blacklisting of AI company",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMXYtelpNVFN4UnJzY2wwNlVjZzdOcnhMblNvcUl5TWJoLVFla3hYdWtwMWZ4R3ZKSVByeGZteFR6c0FwUEh2N25JbHpYem9hWEY2Z21XODNTOWlEcWYtMkE5bXJaWEd2eWYxb3pMNUFHa2FJZ1ZsVnh3MWk1dzEtUWJDQnJWMWJPY2JncjBkTGtlSlBCSEVjRWxYOU1xWkZXWkl6RQ?oc=5",
+      "title": "IBM Expands AI Security With Anthropic Partnership And Open Source Focus",
       "summary": "",
-      "publishedAt": "2026-05-19T14:59:55.000Z",
-      "publisher": "CNBC",
+      "publishedAt": "2026-05-20T13:26:58.000Z",
+      "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -114,7 +133,7 @@
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObXNuQ2V6WndSRFJ5QURnaUpudHRZYUREU0VTU1BPeTVPdEo2NVdZcHRyUXhjX3pVOXl6Z1MxQTlWa3Q4bDZhSXhqMm9vaVd6N1l1bWV0RlBiSGZta3JhcS1QS0JKWkVHMnlZVlQxanJxVF84SzluVE9Fdy1FenZ5TUJjVDBQQ01ZUklJcGx0b1FFQjJDTEVEeWZQVmxVTFFUNkxHaGxLZGhvbGlMNmVPcTFjbkVHM241WFBBMF8wTFlYMVJUa0E?oc=5",
       "title": "Musk's failed court attack on OpenAI could leave lasting scars on Altman's reputation",
       "summary": "",
-      "publishedAt": "2026-05-19T14:28:32.000Z",
+      "publishedAt": "2026-05-19T19:55:59.000Z",
       "publisher": "Reuters",
       "discoveryMethod": "feed",
       "classification": {
@@ -124,73 +143,16 @@
       }
     },
     {
-      "id": "4f7bf41be35ea8bfeabc95139fdaf7414af843ca",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYkhQa3RndHRaS01zQnU3Q2tVVUhEUDA0S3JhUlJsM0I4VEQ2TC03VU9KT3REcG1FeEFzMldNWGZVdzJpZERyaDUta0pfWUdPTV9YVEc1U1dIN3FHTFFhMDd6U29CQy1RQmRCY0tOZW1FYl9EeENDTnRxTU1IRzZQdHpXZDdQeWpXY3Y4MXFHblA2YVpvT2E3SFVkY3dBcWFqSFFRRGNlaC1ZaXNuWHNNV1lxWXFRU2phMWl3WF9yMUFWLTlnbVlkVWg1Zw?oc=5",
-      "title": "Musk-OpenAI Trial Previews How Antitrust Will Steer AI’s Future",
-      "summary": "",
-      "publishedAt": "2026-05-19T14:10:00.000Z",
-      "publisher": "Bloomberg Law News",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "0cc7bfee51b75c78373b66cbc5b999d65eebad83",
+      "id": "1145c0f3b53d27e5aa1ed41ee665cc3032a602c0",
       "company": "Anthropic",
       "sourceKind": "external",
       "sourceId": "external-anthropic-major",
       "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUXFxWmNpcENWMDNIdkFTUGtWVWo2b0p3ZGg2cGJ5SkhveXZYNTJ5dFhlVFhwT0N2ZDd2bDFnV210SllGX2huUjZKU3B3by1oSVI4VzJteTliYTF3b1poM0FpN3I2ZmxKUnptQmxzZldMUFh4czlPaFU3Sl9DcnF1U19pOFppbUp5YzRYUVhQTklxeFhna0lHTURJNWpZMVBzdms0NkFZZnU2d2JzVUVvc3hpdnkzU2RlVkNiRnVOMA?oc=5",
-      "title": "Anthropic, Pentagon face off in court over government blacklisting of AI company",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQR0lnNnNUTWhrZUV1OEN6Ml96SzBVNlh4bUtyWEswSHhjajBpUmtmajAtQURFd0xISWJreXh3TzdxcHpWbjVvdUhuV3NWYkV5RmxDcmVqTUxDMmY4TFFIbXoyN1pTNFBDT0c2N2N0NXRjckgySzNjZU81UG5DaWJhWXMtbjdlOC16anZOMHJSQQ?oc=5",
+      "title": "Appeals court judges appear to be divided over Pentagon's legal dispute with AI company Anthropic",
       "summary": "",
-      "publishedAt": "2026-05-19T13:59:04.000Z",
-      "publisher": "CNBC",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "1a518e02490c1a9075c8568185e5ace1b116eb75",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSnB0ZkFYX0pwdjU0UUFqc1BUcF9QTzBhSEpjaW0xX19tX3pDV1hGaHJHU0RwR1hpcHl4aVRKcGJfME4ySzg3YzNBajQ2ZTJfc2xsSHVfbXVWX1p6aUhzcF9Ga1dEa3dpYWVVUERpYThWYTFWZjl3Z3A2ejRUOG0yUVNPd0RRUQ?oc=5",
-      "title": "As OpenAI Celebrates Court Win Against Musk, Other Challenges Lie Ahead",
-      "summary": "",
-      "publishedAt": "2026-05-19T13:32:35.000Z",
-      "publisher": "The New York Times",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "bcb844ae5399d85500cd78209e591b5f19c7f021",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMUozU25kWHB1aFk3aGViNnc2ZUk0UDJvcU1SeUpaQUFPZnpSXzFzSzJkUlpzNGY4RXl5enVwclY1MVNxUTJrVExpb1NYMG1KN3djVzhCSW5vSmR1cV93aEhVTkRUVmY3dDFzZzJHdGRXMnl0N19JcXpLeVBMWUdVcHFBQ3VLaHk4ckE?oc=5",
-      "title": "Jury dismisses Elon Musk's lawsuit against OpenAI and Sam Altman",
-      "summary": "",
-      "publishedAt": "2026-05-19T11:29:22.000Z",
+      "publishedAt": "2026-05-19T17:55:15.000Z",
       "publisher": "Yahoo",
       "discoveryMethod": "feed",
       "classification": {
@@ -200,17 +162,17 @@
       }
     },
     {
-      "id": "20e68291f52b6f199c008d0f1efeafda82e655a1",
-      "company": "Microsoft",
+      "id": "71e21d8e1b4d44c8e01051c03eb8d30e195335e4",
+      "company": "OpenAI",
       "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZHVkS3c2MHBuS0UzNmgyRW1OWmdnRE8yNWlCcVhDUldXY01wVDJ1em9BWl9nSlloREp1djFIeTNnMDE2MHQ4UmFpTW1hWjF0YmN3bUp2elBlMk9ubEs3WEw4b09OdjlzeXhkYXowUDV4clNRMmtiWkh5bkp0TFJHN0FyN29ndw?oc=5",
-      "title": "Elon Musk loses OpenAI court case after jury finds he waited too long to sue",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNU0xblk2LWE3YkhwMHhuT3hmeDhqUTljcWdoSU9jRUtJREFfaERRRWY0ZmFOY0l5VE4xdGczcGJZQjRQSkszSHFhY3l5UmNna1F2Z2Jld0dIbUtUX0NKYzRBcjBEOVZsY0loZXJmOHBLOHJwb2I1VFpfS1ZMRTVDLVk4WGdCaElFcHFhTEZuR2VBUWtjVVF0UXkxQlNvWDBtVWRj?oc=5",
+      "title": "Musk Loses OpenAI Trial on a Calendar Technicality",
       "summary": "",
-      "publishedAt": "2026-05-19T10:50:26.000Z",
-      "publisher": "Yahoo",
+      "publishedAt": "2026-05-19T16:49:19.000Z",
+      "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -219,60 +181,98 @@
       }
     },
     {
-      "id": "b15fd5727d53feee1ad7bde40051381eaa47a822",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPa1RvNFhEWGt0RFRjUnlGRlUtRDFTWmIzbWRtcDhxWlV6ZU1tVXQ3aEk2ZDkxOU9wdDg4OVBCSWtla2lKYjZHY05QVmExQTJQVUgwZ2NpZVdMdHpIeDd3VnY2YmN1Tm0xQ2tqVHFDd1dRaVZLaXRNeDdWN1RQLVdIbHJib0xYZXBOSWZledIBkgFBVV95cUxQakwzbmRrT0lheTNfV2dkdXFxUXVHMkpXWWJKTk9SRVRXLVh1UWdPbUx6YjdmVHJPMWljZXJCMV9TRjdpWXd5ejE1U2NpcW9oMGZlWHM4d0xLekV6NVM2RWkwTE0wOTF6Q2lDYzdTSUswOFdCd19TZ0VNR0tYY2lJS21GX3FnLU1zRUhhSHdQNnJHdw?oc=5",
-      "title": "Anthropic and U.S. government to face off in DC court over blacklisting of AI company",
-      "summary": "",
-      "publishedAt": "2026-05-19T10:00:01.000Z",
-      "publisher": "CNBC",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "2c4e5ccd671e67dfbcdaf093794eac02cec5a061",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRlpFQURrZkZvSy1Ja0tFVm5tQ1cxMmk4ZF9UeHRyMC1lcnhPc1MwWUpSUDdqUDRpLVBEb1VIZVVZeHhzMm1pMWM5SHFvSkNDeC10c2lqV3ZkdVM2MGw0RWlFZHBOWkV3U0Nla1pOTU1fZ0RUclRwTEtOd0hGNHBPSldDOG1ZbzhHOENSeTNtXzhoYzBHaTZRUUU0WFJOU3ZFOHNBOEd5dmhNYzJPcTdtS24wQ3hCT2s?oc=5",
-      "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
-      "summary": "",
-      "publishedAt": "2026-05-18T19:27:52.000Z",
-      "publisher": "TechCrunch",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "9a9bccdefd37def10aa39b9a11181104cdb4d633",
-      "company": "Google",
+      "id": "e0640ad0320ce67f7a7e6f657d5dbfb77b706e9b",
+      "company": "OpenAI",
       "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/blackstone-tpu-cloud",
-      "title": "Blackstone will create a new TPU cloud in a joint venture with Google.",
-      "summary": "Blackstone announced a joint venture with Google to create a new TPU cloud.",
-      "publishedAt": "2026-05-19T01:00:00.000Z",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/introducing-openai-for-singapore",
+      "title": "Introducing OpenAI for Singapore",
+      "summary": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI.",
+      "publishedAt": "2026-05-19T20:30:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
         "score": 6,
         "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "8f2a2f04cd73e1c3500351a6378a5c719ed7bfac",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-ai-studio-io-2026",
+      "title": "Bring any idea to life: Google AI Studio at I/O 2026",
+      "summary": "We're introducing native Android vibe coding support, Google Workspace integrations, an AI Studio mobile app and more.",
+      "publishedAt": "2026-05-19T17:45:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "7cbd2d5a86f8be1a219aa7ba49e04ae581457bd4",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-developer-highlights",
+      "title": "Building the agentic future: Developer highlights from I/O 2026",
+      "summary": "We're introducing new tools to take your ideas from a prompt to a production-ready application, including updates to Google Antigravity, an enhanced Gemini API and nativ…",
+      "publishedAt": "2026-05-19T17:45:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "037aba4678d338b51a3949cd62bdb9eefa3b5c5b",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5",
+      "title": "Gemini 3.5: frontier intelligence with action",
+      "summary": "At Google I/O we released Gemini 3.5, our latest series of models combining frontier intelligence with action.",
+      "publishedAt": "2026-05-19T17:45:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "6d51bfddb5e8b88e2efd008279143bdacf66c12e",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection",
+      "title": "I/O 2026",
+      "summary": "At Google I/O 2026, we shared how we’re making AI more helpful for everyone. See everything we announced.",
+      "publishedAt": "2026-05-19T17:45:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Flagship model or product launch"
       }
     },
     {
@@ -290,7 +290,7 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 6,
+        "score": 5,
         "reason": "Corporate move or major external event"
       }
     },
@@ -309,27 +309,8 @@
       "discoveryMethod": "anchor",
       "classification": {
         "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "e8b83e4c838a257101fb8565d9bf47cc4022e4b9",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/accelerator-ai-for-the-planet",
-      "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks.",
-      "summary": "The Asia-Pacific region is a global engine for economic growth, but it's also highly vulnerable to climate change. While green technologies are gaining momentum, a recen…",
-      "publishedAt": "2026-05-17T18:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
         "score": 5,
-        "reason": "Flagship model or product launch"
+        "reason": "Corporate move or major external event"
       }
     },
     {
@@ -371,6 +352,44 @@
       }
     },
     {
+      "id": "2511c3d2c21dae1761f8ca11522d2d1b28a52ab9",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdWVnOUptZVRLZldyeWI0cW15MXNzWlZkYjlyVHRpOU1UZC14TWxiQ1VKSGVoaUYtdVVxVkdRNEl0UHRMWFBTMktiRkF4bUNPbFIxSERqZGx1bVNDMXFVcVFfT29iaDktRGJkamU5SVQ2aUM5ajdtQUJhUDBUZFRrOWd1dG5sZWgwcUhjMHVJVlA0SzExWHpKU25tdDRCTUdTamhZZllNYVhmNnEzdl9HR1dhTEdmd3VzSWNqSW9HTQ?oc=5",
+      "title": "SoftBank Founder’s Starstruck Bet on OpenAI Raises Concern",
+      "summary": "",
+      "publishedAt": "2026-05-20T03:22:00.000Z",
+      "publisher": "Bloomberg.com",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "3974a68fcbee6b6028cb095d7237036048f85f1c",
+      "company": "Google",
+      "sourceKind": "external",
+      "sourceId": "external-google-major",
+      "sourceLabel": "Major External News - Google",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOX2lPb0JoR1lpbXJ5M3U3ZXFDVkRVY0dOamc1VEFVUmdyS19fVHRiaWViSDdGUGZtaTBWNkxwYkZuZmNCWXlXLVY0M05XU3NLS2VvUGwxNVBZcmJZYTJ3UGp0WjdRT1JZNWxjWTJMRjdkQnhlNlk1TjkzUGRFWVcxU3J0Ym1FTFNBdHhuMGwxWTNVaXRUTjkydUNmUWg5R09ZUHpUaTl3UHZuUjZYNnlaTlNTOXdzNXNxLTZEMXVBU3ZGVGE2WkFmR2tMd18?oc=5",
+      "title": "Google DeepMind hires staff from Contextual AI in licensing deal, source says",
+      "summary": "",
+      "publishedAt": "2026-05-19T23:24:25.000Z",
+      "publisher": "Reuters",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
       "id": "d83cc2ed1d69d7ce14c6c3dce746cbe90a6fa5c1",
       "company": "Meta",
       "sourceKind": "external",
@@ -380,8 +399,46 @@
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU3BINHB0aVZtRWhrUDZnRTFqWkdudUtrbTA3Vlc4RWpuTElrVjZfYS0wNEF6Q2JhM3BGRXJPVzhkckxjbDRtYjZIZVVFX3psZjNrN2lZV2IxelY4YXdyUU9SXzZqMUlkdUZ5OGk0RHFEWEx0dHpVZVpwN2JhdHJxajdDZm1xeFBjWGlndU5NajdycmJuc29rTXU5Nl9YYUhrbVhkQlB6TVN2anFtSjMwUzRYVTduZzNSWkRjYWhhbUZSWUl0SFE?oc=5",
       "title": "Meta Bets $200 Billion It Can Show Massive AI Data Center Will Pay Off",
       "summary": "",
-      "publishedAt": "2026-05-19T14:02:48.000Z",
+      "publishedAt": "2026-05-19T23:02:53.000Z",
       "publisher": "Bloomberg.com",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "2bf5beaffb7199538d55cd551287885fff0cec4c",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNX3BaX2VoOXUxLXdIWm4tNWVHTmdob2NKeFpXeUR4dV9WNlZSc0pYeFZ4RlpyZHpOSnlheTV0WlVzRjUtYWVsU3VJNzdrdnUzdEI2NGhwT1gwaEZsRXpxQ1gyRVNvQ0JNUDlvNjdudHoxcmdIa0w4U1VkeHZrUWNMbUNteUZqV0xJZVZfeHNWdVhoOGxmSmI5aDU5VUxaOERFUTdibW1SS0RJd9IBrwFBVV95cUxOaUFIT1FQWlBnMXBYRHZZR1puZ0xGVUFUMzJWbU85dGdueDIzZU5rSGd5ZkRtbnNSRUVfZXM4ak9NcVZLclA5U2UwVFRQQUNNVnhwOEpYUmhsYl81NWpIX0QtdlRNVzdjQloxckRmNFhPNG1EMFhwUk9BeTF6c0t1VkhydFNIZVFrX2hrWjBtbmxWeFdpdklqX1JBUjc0b1laQkg1WDNfQzJLVzN5TjBv?oc=5",
+      "title": "Anthropic hires OpenAI co-founder Andrej Karpathy, former Tesla AI leader",
+      "summary": "",
+      "publishedAt": "2026-05-19T16:31:08.000Z",
+      "publisher": "CNBC",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "9f290c97b96c09d9629b6f4b6556c3d5e29c9a33",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaF9JTmlDUzMtSlNFM3lhWVdTNFVjMjJtQXlYNXpUUVFOU3N6SWFUbW5wUGpoYVI3SWhuNDctQ2ljaWJjb0RRQ0pYMzZFNmFSdXF5UXFxUVowZTdMUm9HNlM3dk1OOEotR2FIQkIxMkNrdy1UOEZ4ZFRxQTNpbVJjNl9leGVQUFF5dndSU3BVdTd4RFlJLXZmOXRJT2c5aGYtNXFBeFBB?oc=5",
+      "title": "OpenAI co-founder Andrej Karpathy joins Anthropic’s pre-training team",
+      "summary": "",
+      "publishedAt": "2026-05-19T15:43:04.000Z",
+      "publisher": "TechCrunch",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -428,22 +485,22 @@
       }
     },
     {
-      "id": "c6cc42856895f0d13aed400511ae72f16de65112",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWS1jUlh4N0N3TThxMDZLb0hnVGtpcnBRY280UGN0bDJlODJCWFk4Tk5HcTNNdEZWY2VVblJEaGxiUmNyNzBZYkJfNkJ5dWpkalZ4WnBnUkV3V2Zac002UnUtcHFqVUxQM3A0THFHWEI4c2JyWHBaMmp5bTFCZ3ZKaWpzd1RrTUdqdk1zbVJyRTRnSENfVU04a2x3OXVCVVB1cUE?oc=5",
-      "title": "Watch Inside Meta’s $200 Billion Louisiana Data Center Bet",
-      "summary": "",
-      "publishedAt": "2026-05-18T00:00:00.000Z",
-      "publisher": "Bloomberg.com",
+      "id": "4f1431164463c27111bb3f4a171ff2b78ccae942",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/advancing-content-provenance",
+      "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
+      "summary": "OpenAI advances AI content provenance with Content Credentials, SynthID, and a verification tool to help people identify and trust AI-generated media.",
+      "publishedAt": "2026-05-19T10:45:00.000Z",
+      "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
         "score": 4,
-        "reason": "Trusted external coverage"
+        "reason": "Safety, security, or policy update"
       }
     },
     {
@@ -483,78 +540,40 @@
         "score": 4,
         "reason": "Flagship model or product launch"
       }
-    },
-    {
-      "id": "c94600d92e2ceb687edf4195f964336d164f1bdf",
-      "company": "Meta",
-      "sourceKind": "official",
-      "sourceId": "meta-newsroom",
-      "sourceLabel": "Meta Newsroom",
-      "homepageUrl": "https://about.fb.com/news/",
-      "url": "https://about.fb.com/news/2026/05/incognito-chat-whatsapp-meta-ai",
-      "title": "Introducing a Completely Private Way to Chat With AI",
-      "summary": "Incognito Chat lets you talk to Meta AI in a way that is invisible to anyone else. The post Introducing a Completely Private Way to Chat With AI",
-      "publishedAt": "2026-05-13T14:45:19.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "a9ef977b8a8403f8f6680faff2daffd6771bce54",
-      "company": "Anthropic",
-      "sourceKind": "official",
-      "sourceId": "anthropic-news",
-      "sourceLabel": "Anthropic News",
-      "homepageUrl": "https://www.anthropic.com/news",
-      "url": "https://www.anthropic.com/news/claude-for-small-business",
-      "title": "Introducing Claude for Small Business",
-      "summary": "",
-      "publishedAt": "2026-05-13T00:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "anchor",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "3a0b4572422c1a8cbc95ae7fb7158fc8dc49f9d0",
-      "company": "Anthropic",
-      "sourceKind": "official",
-      "sourceId": "anthropic-news",
-      "sourceLabel": "Anthropic News",
-      "homepageUrl": "https://www.anthropic.com/news",
-      "url": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy",
-      "title": "Responsible Scaling Policy",
-      "summary": "",
-      "publishedAt": null,
-      "publisher": "",
-      "discoveryMethod": "anchor",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Safety, security, or policy update"
-      }
     }
   ],
   "newItems": [
     {
-      "id": "81ff2571a4c8cc50ba8bd944e295f71f6d862b54",
+      "id": "112b112028968efebe635d7eec4daa642b4ac06b",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1SSnlMZW5oUGZseE1MZDljVnJ4ZkZnUnAzc3I0QlktNWVuZG01SVFpZmY5WlpFQjZhN0JRQm9vRExsNTJSR0ZFNHlmS0tERWd0VTFhOF8za1laUjBiYjM4dGp0OUxkSHNa?oc=5",
+      "title": "Elon Musk AKA Phony Stark Takes An L In Court Trying To Stop OpenAI",
+      "summary": "",
+      "publishedAt": "2026-05-20T13:55:15.000Z",
+      "publisher": "Hip-Hop Wired",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "c8d279d0e4748cee8bb2b5827236ea3adfc4bb3b",
       "company": "Anthropic",
       "sourceKind": "external",
       "sourceId": "external-anthropic-major",
       "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQalZ4dGNDM19pd0lERTU5TFprWklfUmlUa0kxZXpxaDk3Z1lLMVRJM1ZvWHl3S1RIN1JxbjJ3X1QycHNxVS1halRCRVMzM0xGV2pLdmNDbnRvUGIwSi1KSW04dUFyTG80LWdFaC0wUjZ4Z0ktZ1lwNGdqd3BIQTVXM3h4TDZ5bFFzNDFTbGtpRTZkYnduX2JIR2xzZXFtR0VYM2Y0Rk53bUFCN1FuZjBKaXI5dGtTdw?oc=5",
-      "title": "Anthropic and Pentagon face off in court over blacklisting of AI company",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMXYtelpNVFN4UnJzY2wwNlVjZzdOcnhMblNvcUl5TWJoLVFla3hYdWtwMWZ4R3ZKSVByeGZteFR6c0FwUEh2N25JbHpYem9hWEY2Z21XODNTOWlEcWYtMkE5bXJaWEd2eWYxb3pMNUFHa2FJZ1ZsVnh3MWk1dzEtUWJDQnJWMWJPY2JncjBkTGtlSlBCSEVjRWxYOU1xWkZXWkl6RQ?oc=5",
+      "title": "IBM Expands AI Security With Anthropic Partnership And Open Source Focus",
       "summary": "",
-      "publishedAt": "2026-05-19T14:59:55.000Z",
-      "publisher": "CNBC",
+      "publishedAt": "2026-05-20T13:26:58.000Z",
+      "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -563,92 +582,16 @@
       }
     },
     {
-      "id": "444e50da236ad565e37f583f383bf5a46ef7ba32",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObXNuQ2V6WndSRFJ5QURnaUpudHRZYUREU0VTU1BPeTVPdEo2NVdZcHRyUXhjX3pVOXl6Z1MxQTlWa3Q4bDZhSXhqMm9vaVd6N1l1bWV0RlBiSGZta3JhcS1QS0JKWkVHMnlZVlQxanJxVF84SzluVE9Fdy1FenZ5TUJjVDBQQ01ZUklJcGx0b1FFQjJDTEVEeWZQVmxVTFFUNkxHaGxLZGhvbGlMNmVPcTFjbkVHM241WFBBMF8wTFlYMVJUa0E?oc=5",
-      "title": "Musk's failed court attack on OpenAI could leave lasting scars on Altman's reputation",
-      "summary": "",
-      "publishedAt": "2026-05-19T14:28:32.000Z",
-      "publisher": "Reuters",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "4f7bf41be35ea8bfeabc95139fdaf7414af843ca",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYkhQa3RndHRaS01zQnU3Q2tVVUhEUDA0S3JhUlJsM0I4VEQ2TC03VU9KT3REcG1FeEFzMldNWGZVdzJpZERyaDUta0pfWUdPTV9YVEc1U1dIN3FHTFFhMDd6U29CQy1RQmRCY0tOZW1FYl9EeENDTnRxTU1IRzZQdHpXZDdQeWpXY3Y4MXFHblA2YVpvT2E3SFVkY3dBcWFqSFFRRGNlaC1ZaXNuWHNNV1lxWXFRU2phMWl3WF9yMUFWLTlnbVlkVWg1Zw?oc=5",
-      "title": "Musk-OpenAI Trial Previews How Antitrust Will Steer AI’s Future",
-      "summary": "",
-      "publishedAt": "2026-05-19T14:10:00.000Z",
-      "publisher": "Bloomberg Law News",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "0cc7bfee51b75c78373b66cbc5b999d65eebad83",
+      "id": "1145c0f3b53d27e5aa1ed41ee665cc3032a602c0",
       "company": "Anthropic",
       "sourceKind": "external",
       "sourceId": "external-anthropic-major",
       "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUXFxWmNpcENWMDNIdkFTUGtWVWo2b0p3ZGg2cGJ5SkhveXZYNTJ5dFhlVFhwT0N2ZDd2bDFnV210SllGX2huUjZKU3B3by1oSVI4VzJteTliYTF3b1poM0FpN3I2ZmxKUnptQmxzZldMUFh4czlPaFU3Sl9DcnF1U19pOFppbUp5YzRYUVhQTklxeFhna0lHTURJNWpZMVBzdms0NkFZZnU2d2JzVUVvc3hpdnkzU2RlVkNiRnVOMA?oc=5",
-      "title": "Anthropic, Pentagon face off in court over government blacklisting of AI company",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQR0lnNnNUTWhrZUV1OEN6Ml96SzBVNlh4bUtyWEswSHhjajBpUmtmajAtQURFd0xISWJreXh3TzdxcHpWbjVvdUhuV3NWYkV5RmxDcmVqTUxDMmY4TFFIbXoyN1pTNFBDT0c2N2N0NXRjckgySzNjZU81UG5DaWJhWXMtbjdlOC16anZOMHJSQQ?oc=5",
+      "title": "Appeals court judges appear to be divided over Pentagon's legal dispute with AI company Anthropic",
       "summary": "",
-      "publishedAt": "2026-05-19T13:59:04.000Z",
-      "publisher": "CNBC",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "1a518e02490c1a9075c8568185e5ace1b116eb75",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSnB0ZkFYX0pwdjU0UUFqc1BUcF9QTzBhSEpjaW0xX19tX3pDV1hGaHJHU0RwR1hpcHl4aVRKcGJfME4ySzg3YzNBajQ2ZTJfc2xsSHVfbXVWX1p6aUhzcF9Ga1dEa3dpYWVVUERpYThWYTFWZjl3Z3A2ejRUOG0yUVNPd0RRUQ?oc=5",
-      "title": "As OpenAI Celebrates Court Win Against Musk, Other Challenges Lie Ahead",
-      "summary": "",
-      "publishedAt": "2026-05-19T13:32:35.000Z",
-      "publisher": "The New York Times",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "bcb844ae5399d85500cd78209e591b5f19c7f021",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMUozU25kWHB1aFk3aGViNnc2ZUk0UDJvcU1SeUpaQUFPZnpSXzFzSzJkUlpzNGY4RXl5enVwclY1MVNxUTJrVExpb1NYMG1KN3djVzhCSW5vSmR1cV93aEhVTkRUVmY3dDFzZzJHdGRXMnl0N19JcXpLeVBMWUdVcHFBQ3VLaHk4ckE?oc=5",
-      "title": "Jury dismisses Elon Musk's lawsuit against OpenAI and Sam Altman",
-      "summary": "",
-      "publishedAt": "2026-05-19T11:29:22.000Z",
+      "publishedAt": "2026-05-19T17:55:15.000Z",
       "publisher": "Yahoo",
       "discoveryMethod": "feed",
       "classification": {
@@ -658,17 +601,17 @@
       }
     },
     {
-      "id": "20e68291f52b6f199c008d0f1efeafda82e655a1",
-      "company": "Microsoft",
+      "id": "71e21d8e1b4d44c8e01051c03eb8d30e195335e4",
+      "company": "OpenAI",
       "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZHVkS3c2MHBuS0UzNmgyRW1OWmdnRE8yNWlCcVhDUldXY01wVDJ1em9BWl9nSlloREp1djFIeTNnMDE2MHQ4UmFpTW1hWjF0YmN3bUp2elBlMk9ubEs3WEw4b09OdjlzeXhkYXowUDV4clNRMmtiWkh5bkp0TFJHN0FyN29ndw?oc=5",
-      "title": "Elon Musk loses OpenAI court case after jury finds he waited too long to sue",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNU0xblk2LWE3YkhwMHhuT3hmeDhqUTljcWdoSU9jRUtJREFfaERRRWY0ZmFOY0l5VE4xdGczcGJZQjRQSkszSHFhY3l5UmNna1F2Z2Jld0dIbUtUX0NKYzRBcjBEOVZsY0loZXJmOHBLOHJwb2I1VFpfS1ZMRTVDLVk4WGdCaElFcHFhTEZuR2VBUWtjVVF0UXkxQlNvWDBtVWRj?oc=5",
+      "title": "Musk Loses OpenAI Trial on a Calendar Technicality",
       "summary": "",
-      "publishedAt": "2026-05-19T10:50:26.000Z",
-      "publisher": "Yahoo",
+      "publishedAt": "2026-05-19T16:49:19.000Z",
+      "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -677,73 +620,16 @@
       }
     },
     {
-      "id": "b15fd5727d53feee1ad7bde40051381eaa47a822",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPa1RvNFhEWGt0RFRjUnlGRlUtRDFTWmIzbWRtcDhxWlV6ZU1tVXQ3aEk2ZDkxOU9wdDg4OVBCSWtla2lKYjZHY05QVmExQTJQVUgwZ2NpZVdMdHpIeDd3VnY2YmN1Tm0xQ2tqVHFDd1dRaVZLaXRNeDdWN1RQLVdIbHJib0xYZXBOSWZledIBkgFBVV95cUxQakwzbmRrT0lheTNfV2dkdXFxUXVHMkpXWWJKTk9SRVRXLVh1UWdPbUx6YjdmVHJPMWljZXJCMV9TRjdpWXd5ejE1U2NpcW9oMGZlWHM4d0xLekV6NVM2RWkwTE0wOTF6Q2lDYzdTSUswOFdCd19TZ0VNR0tYY2lJS21GX3FnLU1zRUhhSHdQNnJHdw?oc=5",
-      "title": "Anthropic and U.S. government to face off in DC court over blacklisting of AI company",
-      "summary": "",
-      "publishedAt": "2026-05-19T10:00:01.000Z",
-      "publisher": "CNBC",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "2c4e5ccd671e67dfbcdaf093794eac02cec5a061",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRlpFQURrZkZvSy1Ja0tFVm5tQ1cxMmk4ZF9UeHRyMC1lcnhPc1MwWUpSUDdqUDRpLVBEb1VIZVVZeHhzMm1pMWM5SHFvSkNDeC10c2lqV3ZkdVM2MGw0RWlFZHBOWkV3U0Nla1pOTU1fZ0RUclRwTEtOd0hGNHBPSldDOG1ZbzhHOENSeTNtXzhoYzBHaTZRUUU0WFJOU3ZFOHNBOEd5dmhNYzJPcTdtS24wQ3hCT2s?oc=5",
-      "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
-      "summary": "",
-      "publishedAt": "2026-05-18T19:27:52.000Z",
-      "publisher": "TechCrunch",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "9a9bccdefd37def10aa39b9a11181104cdb4d633",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/blackstone-tpu-cloud",
-      "title": "Blackstone will create a new TPU cloud in a joint venture with Google.",
-      "summary": "Blackstone announced a joint venture with Google to create a new TPU cloud.",
-      "publishedAt": "2026-05-19T01:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "210c7a7c782649817dd4aeca264d17520b72e965",
+      "id": "e0640ad0320ce67f7a7e6f657d5dbfb77b706e9b",
       "company": "OpenAI",
       "sourceKind": "official",
       "sourceId": "openai-newsroom",
       "sourceLabel": "OpenAI Newsroom",
       "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/dell-codex-enterprise-partnership",
-      "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
-      "summary": "OpenAI and Dell partner to bring Codex to hybrid and on-premise environments, helping enterprises deploy AI coding agents securely across data and workflows.",
-      "publishedAt": "2026-05-18T10:00:00.000Z",
+      "url": "https://openai.com/index/introducing-openai-for-singapore",
+      "title": "Introducing OpenAI for Singapore",
+      "summary": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI.",
+      "publishedAt": "2026-05-19T20:30:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -753,35 +639,92 @@
       }
     },
     {
-      "id": "9c0ddb2d59a6955e6d0b9d71ceb662580c97c120",
-      "company": "Anthropic",
+      "id": "8f2a2f04cd73e1c3500351a6378a5c719ed7bfac",
+      "company": "Google",
       "sourceKind": "official",
-      "sourceId": "anthropic-news",
-      "sourceLabel": "Anthropic News",
-      "homepageUrl": "https://www.anthropic.com/news",
-      "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
-      "title": "Anthropic acquires Stainless",
-      "summary": "",
-      "publishedAt": "2026-05-18T00:00:00.000Z",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-ai-studio-io-2026",
+      "title": "Bring any idea to life: Google AI Studio at I/O 2026",
+      "summary": "We're introducing native Android vibe coding support, Google Workspace integrations, an AI Studio mobile app and more.",
+      "publishedAt": "2026-05-19T17:45:00.000Z",
       "publisher": "",
-      "discoveryMethod": "anchor",
+      "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
+        "score": 5,
+        "reason": "Flagship model or product launch"
       }
     },
     {
-      "id": "d83cc2ed1d69d7ce14c6c3dce746cbe90a6fa5c1",
-      "company": "Meta",
+      "id": "7cbd2d5a86f8be1a219aa7ba49e04ae581457bd4",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-developer-highlights",
+      "title": "Building the agentic future: Developer highlights from I/O 2026",
+      "summary": "We're introducing new tools to take your ideas from a prompt to a production-ready application, including updates to Google Antigravity, an enhanced Gemini API and nativ…",
+      "publishedAt": "2026-05-19T17:45:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "037aba4678d338b51a3949cd62bdb9eefa3b5c5b",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5",
+      "title": "Gemini 3.5: frontier intelligence with action",
+      "summary": "At Google I/O we released Gemini 3.5, our latest series of models combining frontier intelligence with action.",
+      "publishedAt": "2026-05-19T17:45:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "6d51bfddb5e8b88e2efd008279143bdacf66c12e",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection",
+      "title": "I/O 2026",
+      "summary": "At Google I/O 2026, we shared how we’re making AI more helpful for everyone. See everything we announced.",
+      "publishedAt": "2026-05-19T17:45:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "2511c3d2c21dae1761f8ca11522d2d1b28a52ab9",
+      "company": "OpenAI",
       "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU3BINHB0aVZtRWhrUDZnRTFqWkdudUtrbTA3Vlc4RWpuTElrVjZfYS0wNEF6Q2JhM3BGRXJPVzhkckxjbDRtYjZIZVVFX3psZjNrN2lZV2IxelY4YXdyUU9SXzZqMUlkdUZ5OGk0RHFEWEx0dHpVZVpwN2JhdHJxajdDZm1xeFBjWGlndU5NajdycmJuc29rTXU5Nl9YYUhrbVhkQlB6TVN2anFtSjMwUzRYVTduZzNSWkRjYWhhbUZSWUl0SFE?oc=5",
-      "title": "Meta Bets $200 Billion It Can Show Massive AI Data Center Will Pay Off",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdWVnOUptZVRLZldyeWI0cW15MXNzWlZkYjlyVHRpOU1UZC14TWxiQ1VKSGVoaUYtdVVxVkdRNEl0UHRMWFBTMktiRkF4bUNPbFIxSERqZGx1bVNDMXFVcVFfT29iaDktRGJkamU5SVQ2aUM5ajdtQUJhUDBUZFRrOWd1dG5sZWgwcUhjMHVJVlA0SzExWHpKU25tdDRCTUdTamhZZllNYVhmNnEzdl9HR1dhTEdmd3VzSWNqSW9HTQ?oc=5",
+      "title": "SoftBank Founder’s Starstruck Bet on OpenAI Raises Concern",
       "summary": "",
-      "publishedAt": "2026-05-19T14:02:48.000Z",
+      "publishedAt": "2026-05-20T03:22:00.000Z",
       "publisher": "Bloomberg.com",
       "discoveryMethod": "feed",
       "classification": {
@@ -791,17 +734,17 @@
       }
     },
     {
-      "id": "a46d7d2d22b5e9c52b9387520fdf1db462a78a9b",
-      "company": "Meta",
+      "id": "3974a68fcbee6b6028cb095d7237036048f85f1c",
+      "company": "Google",
       "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
+      "sourceId": "external-google-major",
+      "sourceLabel": "Major External News - Google",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbHptdk80bTNBd1d0RHVSdE8tWk5QaElFX1pWOVVZYTUzMXZ4ZlJmc2t0UHlMdUsydEY5cnR5UnpyZEJxQ0ZNWDRPemZ6MjBVVFlCdFpUcUZSRk5kVVhtZlc3bFprV0V0N1psQkM1ems0WU52ZzBQX1daLVBJclE0dmln?oc=5",
-      "title": "Tech Weekly: data center deals, Meta's major job cuts",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOX2lPb0JoR1lpbXJ5M3U3ZXFDVkRVY0dOamc1VEFVUmdyS19fVHRiaWViSDdGUGZtaTBWNkxwYkZuZmNCWXlXLVY0M05XU3NLS2VvUGwxNVBZcmJZYTJ3UGp0WjdRT1JZNWxjWTJMRjdkQnhlNlk1TjkzUGRFWVcxU3J0Ym1FTFNBdHhuMGwxWTNVaXRUTjkydUNmUWg5R09ZUHpUaTl3UHZuUjZYNnlaTlNTOXdzNXNxLTZEMXVBU3ZGVGE2WkFmR2tMd18?oc=5",
+      "title": "Google DeepMind hires staff from Contextual AI in licensing deal, source says",
       "summary": "",
-      "publishedAt": "2026-05-19T12:59:37.000Z",
-      "publisher": "Yahoo Finance",
+      "publishedAt": "2026-05-19T23:24:25.000Z",
+      "publisher": "Reuters",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -810,17 +753,17 @@
       }
     },
     {
-      "id": "cdab5fbf0b03a2168a21f7e0380fa6ec05a48365",
-      "company": "Meta",
+      "id": "2bf5beaffb7199538d55cd551287885fff0cec4c",
+      "company": "Anthropic",
       "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRFBfZktZYmFuZWJkNV9pcTM5b004dllfaUNTel9aakZ5NVhUYkRIZnF0eXJKVEpEcFNvNmM0WTVvNll5c2o1elZURmdHdXkwaTVSUEh1Wm9peGVyRkdUbi03T3cxY3NKXzFEeEFWNWtORnAtOGhjRnlwV1ZreFUxVjczQ2FZQQ?oc=5",
-      "title": "Meta Is Transforming Rural Louisiana With a $200 Billion Data Center",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNX3BaX2VoOXUxLXdIWm4tNWVHTmdob2NKeFpXeUR4dV9WNlZSc0pYeFZ4RlpyZHpOSnlheTV0WlVzRjUtYWVsU3VJNzdrdnUzdEI2NGhwT1gwaEZsRXpxQ1gyRVNvQ0JNUDlvNjdudHoxcmdIa0w4U1VkeHZrUWNMbUNteUZqV0xJZVZfeHNWdVhoOGxmSmI5aDU5VUxaOERFUTdibW1SS0RJd9IBrwFBVV95cUxOaUFIT1FQWlBnMXBYRHZZR1puZ0xGVUFUMzJWbU85dGdueDIzZU5rSGd5ZkRtbnNSRUVfZXM4ak9NcVZLclA5U2UwVFRQQUNNVnhwOEpYUmhsYl81NWpIX0QtdlRNVzdjQloxckRmNFhPNG1EMFhwUk9BeTF6c0t1VkhydFNIZVFrX2hrWjBtbmxWeFdpdklqX1JBUjc0b1laQkg1WDNfQzJLVzN5TjBv?oc=5",
+      "title": "Anthropic hires OpenAI co-founder Andrej Karpathy, former Tesla AI leader",
       "summary": "",
-      "publishedAt": "2026-05-18T21:00:00.000Z",
-      "publisher": "Bloomberg.com",
+      "publishedAt": "2026-05-19T16:31:08.000Z",
+      "publisher": "CNBC",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -829,22 +772,41 @@
       }
     },
     {
-      "id": "c6cc42856895f0d13aed400511ae72f16de65112",
-      "company": "Meta",
+      "id": "9f290c97b96c09d9629b6f4b6556c3d5e29c9a33",
+      "company": "Anthropic",
       "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWS1jUlh4N0N3TThxMDZLb0hnVGtpcnBRY280UGN0bDJlODJCWFk4Tk5HcTNNdEZWY2VVblJEaGxiUmNyNzBZYkJfNkJ5dWpkalZ4WnBnUkV3V2Zac002UnUtcHFqVUxQM3A0THFHWEI4c2JyWHBaMmp5bTFCZ3ZKaWpzd1RrTUdqdk1zbVJyRTRnSENfVU04a2x3OXVCVVB1cUE?oc=5",
-      "title": "Watch Inside Meta’s $200 Billion Louisiana Data Center Bet",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaF9JTmlDUzMtSlNFM3lhWVdTNFVjMjJtQXlYNXpUUVFOU3N6SWFUbW5wUGpoYVI3SWhuNDctQ2ljaWJjb0RRQ0pYMzZFNmFSdXF5UXFxUVowZTdMUm9HNlM3dk1OOEotR2FIQkIxMkNrdy1UOEZ4ZFRxQTNpbVJjNl9leGVQUFF5dndSU3BVdTd4RFlJLXZmOXRJT2c5aGYtNXFBeFBB?oc=5",
+      "title": "OpenAI co-founder Andrej Karpathy joins Anthropic’s pre-training team",
       "summary": "",
-      "publishedAt": "2026-05-18T00:00:00.000Z",
-      "publisher": "Bloomberg.com",
+      "publishedAt": "2026-05-19T15:43:04.000Z",
+      "publisher": "TechCrunch",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
         "score": 4,
         "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "4f1431164463c27111bb3f4a171ff2b78ccae942",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/advancing-content-provenance",
+      "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
+      "summary": "OpenAI advances AI content provenance with Content Credentials, SynthID, and a verification tool to help people identify and trust AI-generated media.",
+      "publishedAt": "2026-05-19T10:45:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Safety, security, or policy update"
       }
     }
   ],
