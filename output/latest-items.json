@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-21T15:16:49.151Z",
+  "generatedAt": "2026-05-22T15:13:04.010Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -76,15 +76,34 @@
     }
   ],
   "totals": {
-    "fetched": 47,
+    "fetched": 46,
     "deduped": 24,
-    "new": 9,
+    "new": 5,
     "byKind": {
-      "official": 11,
-      "external": 13
+      "official": 10,
+      "external": 14
     }
   },
   "items": [
+    {
+      "id": "6280846c047aa2a9259949f8bab44d439ca2d9be",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBOZW94UC1ldWpHLTQ1UXFUQzdkbEVFRTk2cVNQV3RLNlplWHRRLTRRRllUZndWOE9kbXdHTWJacl9DSEJla2psZTBxNmFtMmFGeVhKcldYVDBJbzBaMUE2MWVpNlkyclRtSmozOGowOHhoMm0tblVtYkswSDJ4UdIBgwFBVV95cUxPUXpFQk9PWVBtWE8xeW9SZUNBS1JJc25GOG05RmEtUExRTjhWRS1XYXdYMDZHRDhZOERUREZHYXlLVVpNQXplTHRIcEVmX05IWTNlUGZRcThQYlc2bjhBSzlUNk1QdnV2V1dvdTZmdExoV1UwWFhxWjBUM3NadDA5YmQzMA?oc=5",
+      "title": "Anthropic, Microsoft in talks for AI chip deal after $5 billion investment",
+      "summary": "",
+      "publishedAt": "2026-05-21T18:02:33.000Z",
+      "publisher": "CNBC",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
     {
       "id": "7a822a4af627b95d72197e5e63cba0e565c7076a",
       "company": "Anthropic",
@@ -162,54 +181,16 @@
       }
     },
     {
-      "id": "444e50da236ad565e37f583f383bf5a46ef7ba32",
-      "company": "OpenAI",
+      "id": "ad9b8f7a40b995786d2bff1809497239c0744ffe",
+      "company": "Anthropic",
       "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObXNuQ2V6WndSRFJ5QURnaUpudHRZYUREU0VTU1BPeTVPdEo2NVdZcHRyUXhjX3pVOXl6Z1MxQTlWa3Q4bDZhSXhqMm9vaVd6N1l1bWV0RlBiSGZta3JhcS1QS0JKWkVHMnlZVlQxanJxVF84SzluVE9Fdy1FenZ5TUJjVDBQQ01ZUklJcGx0b1FFQjJDTEVEeWZQVmxVTFFUNkxHaGxLZGhvbGlMNmVPcTFjbkVHM241WFBBMF8wTFlYMVJUa0E?oc=5",
-      "title": "Musk's failed court attack on OpenAI could leave lasting scars on Altman's reputation",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPejJlMUVtekdGcEtUMVhxMzF1Q2ttMmV4UFE1TWZ2dFJJVlBYVFh3NmpwMWV5RktWWGdTU2ZtNnJKSjRKWDFiT1ZweVBsVnhXbEU0WFN1ckRmQTRMRmlwY2k2WXRUUXpvSkRzeGpSS0t0YjlTUV9ybG5IcjQtenczUmdSZ25Sc2RUUklURmtLQllJdDdwV1hvc1AtSngyc1V5TzBfQ1dqdmM?oc=5",
+      "title": "Cyera Extends AI Security to Anthropic's Claude Enterprise",
       "summary": "",
-      "publishedAt": "2026-05-19T19:55:59.000Z",
-      "publisher": "Reuters",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "e0640ad0320ce67f7a7e6f657d5dbfb77b706e9b",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/introducing-openai-for-singapore",
-      "title": "Introducing OpenAI for Singapore",
-      "summary": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI.",
-      "publishedAt": "2026-05-19T20:30:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "4202968d5c5472d680a5decc3e9752f83a025cfd",
-      "company": "Google",
-      "sourceKind": "external",
-      "sourceId": "external-google-major",
-      "sourceLabel": "Major External News - Google",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRGxib2dyUGNqSTcyaWZYTEVPTll6aGQ3Xy1NTTE4WGRBd09SdmlhRTA2dloxYVhJcUwzY0FwMnRSVFVvQURlLVc1cmtWQWx2TkdEQkp6US0wQ3B1bzFzMHNQNF9JRXdmTjlsVUU0RFh5SHppMFp3eG5zLVM0QUJtSElGQVpSQmVaUlduYWdVU0VtWlUtOGVWUng3dUZGSkszNldJOTg1MVdoYmtSQXRJ?oc=5",
-      "title": "Google DeepMind Features Hirundo’s Security-Hardened Gemma 4 Model – Outperforms LLMs 170x Its Size on Security",
-      "summary": "",
-      "publishedAt": "2026-05-21T14:23:00.000Z",
+      "publishedAt": "2026-05-21T17:00:00.000Z",
       "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
@@ -257,73 +238,16 @@
       }
     },
     {
-      "id": "037aba4678d338b51a3949cd62bdb9eefa3b5c5b",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5",
-      "title": "Gemini 3.5: frontier intelligence with action",
-      "summary": "At Google I/O we released Gemini 3.5, our latest series of models combining frontier intelligence with action.",
-      "publishedAt": "2026-05-19T17:45:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "6d51bfddb5e8b88e2efd008279143bdacf66c12e",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection",
-      "title": "I/O 2026",
-      "summary": "At Google I/O 2026, we shared how we’re making AI more helpful for everyone. See everything we announced.",
-      "publishedAt": "2026-05-19T17:45:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "545334b90f6f29ba65b555830e9fc3423e780039",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni",
-      "title": "Introducing Gemini Omni",
-      "summary": "Introducing Gemini Omni, which allows you to create anything from any input and edit naturally using conversational language.",
-      "publishedAt": "2026-05-19T17:45:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "210c7a7c782649817dd4aeca264d17520b72e965",
+      "id": "e0640ad0320ce67f7a7e6f657d5dbfb77b706e9b",
       "company": "OpenAI",
       "sourceKind": "official",
       "sourceId": "openai-newsroom",
       "sourceLabel": "OpenAI Newsroom",
       "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/dell-codex-enterprise-partnership",
-      "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
-      "summary": "OpenAI and Dell partner to bring Codex to hybrid and on-premise environments, helping enterprises deploy AI coding agents securely across data and workflows.",
-      "publishedAt": "2026-05-18T10:00:00.000Z",
+      "url": "https://openai.com/index/introducing-openai-for-singapore",
+      "title": "Introducing OpenAI for Singapore",
+      "summary": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI.",
+      "publishedAt": "2026-05-19T20:30:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -371,36 +295,17 @@
       }
     },
     {
-      "id": "da790e1d404eb22bbd10294b8c3ad29931d2558d",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9UcWNHT21RRk15dzlSTTRBOGlOdmE2RHVFUndyS3lfcXpJV1lQQ2ZoTXF5VFlSZk9QLUJxNDJTQUM0c2RDLS1BQ3B6WXdiNUp1aDJEdXRGX25jQi1zdDVvVFprNG1iWWNLNGJpUzZuSFF5a3liUkZOSEt2dWY?oc=5",
-      "title": "OpenAI co-founder Andrej Karpathy joins Anthropic",
-      "summary": "",
-      "publishedAt": "2026-05-20T10:55:49.000Z",
-      "publisher": "Axios",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "2511c3d2c21dae1761f8ca11522d2d1b28a52ab9",
+      "id": "c5fd8731a189fbc6f7169dfe6994b104fc73cc50",
       "company": "OpenAI",
       "sourceKind": "external",
       "sourceId": "external-openai-major",
       "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdWVnOUptZVRLZldyeWI0cW15MXNzWlZkYjlyVHRpOU1UZC14TWxiQ1VKSGVoaUYtdVVxVkdRNEl0UHRMWFBTMktiRkF4bUNPbFIxSERqZGx1bVNDMXFVcVFfT29iaDktRGJkamU5SVQ2aUM5ajdtQUJhUDBUZFRrOWd1dG5sZWgwcUhjMHVJVlA0SzExWHpKU25tdDRCTUdTamhZZllNYVhmNnEzdl9HR1dhTEdmd3VzSWNqSW9HTQ?oc=5",
-      "title": "SoftBank Founder’s Starstruck Bet on OpenAI Raises Concern",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNGYxbmZUWWZxeHZrc1FOU3FOS3lyakxqNUd5N2hnRG1CTHphSXRVZzBxSTdiMFVRYzFsN3h0S3JqaGFnVFFMSEthX3Y0Z3FlWXlCNHlENDdWT1lDcEp1ZWFuUkNFd3FERkxPTUdiNEppSmFyOWFBNWZTM05lS2VQM0tHYmIxR2s3RU1oODFSQ1dKek90ZmZyQmdVbnNMcW8?oc=5",
+      "title": "OpenAI Generated Nearly $6 Billion in Revenue in First Quarter, Boosted by Codex",
       "summary": "",
-      "publishedAt": "2026-05-20T03:22:00.000Z",
-      "publisher": "Bloomberg.com",
+      "publishedAt": "2026-05-21T18:26:00.000Z",
+      "publisher": "The Information",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -409,73 +314,73 @@
       }
     },
     {
-      "id": "3974a68fcbee6b6028cb095d7237036048f85f1c",
-      "company": "Google",
-      "sourceKind": "external",
-      "sourceId": "external-google-major",
-      "sourceLabel": "Major External News - Google",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOX2lPb0JoR1lpbXJ5M3U3ZXFDVkRVY0dOamc1VEFVUmdyS19fVHRiaWViSDdGUGZtaTBWNkxwYkZuZmNCWXlXLVY0M05XU3NLS2VvUGwxNVBZcmJZYTJ3UGp0WjdRT1JZNWxjWTJMRjdkQnhlNlk1TjkzUGRFWVcxU3J0Ym1FTFNBdHhuMGwxWTNVaXRUTjkydUNmUWg5R09ZUHpUaTl3UHZuUjZYNnlaTlNTOXdzNXNxLTZEMXVBU3ZGVGE2WkFmR2tMd18?oc=5",
-      "title": "Google DeepMind hires staff from Contextual AI in licensing deal, source says",
-      "summary": "",
-      "publishedAt": "2026-05-19T23:24:25.000Z",
-      "publisher": "Reuters",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "2bf5beaffb7199538d55cd551287885fff0cec4c",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNX3BaX2VoOXUxLXdIWm4tNWVHTmdob2NKeFpXeUR4dV9WNlZSc0pYeFZ4RlpyZHpOSnlheTV0WlVzRjUtYWVsU3VJNzdrdnUzdEI2NGhwT1gwaEZsRXpxQ1gyRVNvQ0JNUDlvNjdudHoxcmdIa0w4U1VkeHZrUWNMbUNteUZqV0xJZVZfeHNWdVhoOGxmSmI5aDU5VUxaOERFUTdibW1SS0RJd9IBrwFBVV95cUxOaUFIT1FQWlBnMXBYRHZZR1puZ0xGVUFUMzJWbU85dGdueDIzZU5rSGd5ZkRtbnNSRUVfZXM4ak9NcVZLclA5U2UwVFRQQUNNVnhwOEpYUmhsYl81NWpIX0QtdlRNVzdjQloxckRmNFhPNG1EMFhwUk9BeTF6c0t1VkhydFNIZVFrX2hrWjBtbmxWeFdpdklqX1JBUjc0b1laQkg1WDNfQzJLVzN5TjBv?oc=5",
-      "title": "Anthropic hires OpenAI co-founder Andrej Karpathy, former Tesla AI leader",
-      "summary": "",
-      "publishedAt": "2026-05-19T16:31:08.000Z",
-      "publisher": "CNBC",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "9f290c97b96c09d9629b6f4b6556c3d5e29c9a33",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaF9JTmlDUzMtSlNFM3lhWVdTNFVjMjJtQXlYNXpUUVFOU3N6SWFUbW5wUGpoYVI3SWhuNDctQ2ljaWJjb0RRQ0pYMzZFNmFSdXF5UXFxUVowZTdMUm9HNlM3dk1OOEotR2FIQkIxMkNrdy1UOEZ4ZFRxQTNpbVJjNl9leGVQUFF5dndSU3BVdTd4RFlJLXZmOXRJT2c5aGYtNXFBeFBB?oc=5",
-      "title": "OpenAI co-founder Andrej Karpathy joins Anthropic’s pre-training team",
-      "summary": "",
-      "publishedAt": "2026-05-19T15:43:04.000Z",
-      "publisher": "TechCrunch",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "466887c600baf47edd17b7a45c2bfa9cd1430d90",
+      "id": "aa108b028fc62041f200e2f7b05d464a3675e02a",
       "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSzV5UG56ZEZmTkJ3UVF4aTEtRjBFbkl2RW9wRmRHZ3pDcWxPWm5yUW5xcm5ma2xTSGMzb1ZNcnN6cmNNMGo5MVR3dno3bGxZUld5czNjZzhtRWdFajFEUFdNYWp5N3RheldJYW9jNnFoQVZWVEVHbW5FS1BzajNBamo2VUlwM0tN?oc=5",
+      "title": "EPA Water Chief Pledges Review as Rural Georgia Faces Brown Water Near Meta Data Center",
+      "summary": "",
+      "publishedAt": "2026-05-21T15:12:49.000Z",
+      "publisher": "Yahoo",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "037aba4678d338b51a3949cd62bdb9eefa3b5c5b",
+      "company": "Google",
       "sourceKind": "official",
-      "sourceId": "meta-newsroom",
-      "sourceLabel": "Meta Newsroom",
-      "homepageUrl": "https://about.fb.com/news/",
-      "url": "https://about.fb.com/news/2026/05/introducing-business-ai-on-whatsapp-for-small-businesses-in-india",
-      "title": "Introducing Business AI on WhatsApp for Small Businesses in India",
-      "summary": "To enable small businesses with AI-powered customer support directly into the WhatsApp Business app, we've launched Business AI in India. The post Introducing Business AI on WhatsApp for Small Businesses in India",
-      "publishedAt": "2026-05-15T04:59:51.000Z",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5",
+      "title": "Gemini 3.5: frontier intelligence with action",
+      "summary": "At Google I/O we released Gemini 3.5, our latest series of models combining frontier intelligence with action.",
+      "publishedAt": "2026-05-19T17:45:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "6d51bfddb5e8b88e2efd008279143bdacf66c12e",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection",
+      "title": "I/O 2026",
+      "summary": "At Google I/O 2026, we shared how we’re making AI more helpful for everyone. See everything we announced.",
+      "publishedAt": "2026-05-19T17:45:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "545334b90f6f29ba65b555830e9fc3423e780039",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni",
+      "title": "Introducing Gemini Omni",
+      "summary": "Introducing Gemini Omni, which allows you to create anything from any input and edit naturally using conversational language.",
+      "publishedAt": "2026-05-19T17:45:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -504,17 +409,93 @@
       }
     },
     {
-      "id": "a46d7d2d22b5e9c52b9387520fdf1db462a78a9b",
+      "id": "466887c600baf47edd17b7a45c2bfa9cd1430d90",
+      "company": "Meta",
+      "sourceKind": "official",
+      "sourceId": "meta-newsroom",
+      "sourceLabel": "Meta Newsroom",
+      "homepageUrl": "https://about.fb.com/news/",
+      "url": "https://about.fb.com/news/2026/05/introducing-business-ai-on-whatsapp-for-small-businesses-in-india",
+      "title": "Introducing Business AI on WhatsApp for Small Businesses in India",
+      "summary": "",
+      "publishedAt": null,
+      "publisher": "",
+      "discoveryMethod": "anchor",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "da790e1d404eb22bbd10294b8c3ad29931d2558d",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9UcWNHT21RRk15dzlSTTRBOGlOdmE2RHVFUndyS3lfcXpJV1lQQ2ZoTXF5VFlSZk9QLUJxNDJTQUM0c2RDLS1BQ3B6WXdiNUp1aDJEdXRGX25jQi1zdDVvVFprNG1iWWNLNGJpUzZuSFF5a3liUkZOSEt2dWY?oc=5",
+      "title": "OpenAI co-founder Andrej Karpathy joins Anthropic",
+      "summary": "",
+      "publishedAt": "2026-05-20T10:55:49.000Z",
+      "publisher": "Axios",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "2511c3d2c21dae1761f8ca11522d2d1b28a52ab9",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdWVnOUptZVRLZldyeWI0cW15MXNzWlZkYjlyVHRpOU1UZC14TWxiQ1VKSGVoaUYtdVVxVkdRNEl0UHRMWFBTMktiRkF4bUNPbFIxSERqZGx1bVNDMXFVcVFfT29iaDktRGJkamU5SVQ2aUM5ajdtQUJhUDBUZFRrOWd1dG5sZWgwcUhjMHVJVlA0SzExWHpKU25tdDRCTUdTamhZZllNYVhmNnEzdl9HR1dhTEdmd3VzSWNqSW9HTQ?oc=5",
+      "title": "SoftBank Founder’s Starstruck Bet on OpenAI Raises Concern",
+      "summary": "",
+      "publishedAt": "2026-05-20T03:22:00.000Z",
+      "publisher": "Bloomberg.com",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "3974a68fcbee6b6028cb095d7237036048f85f1c",
+      "company": "Google",
+      "sourceKind": "external",
+      "sourceId": "external-google-major",
+      "sourceLabel": "Major External News - Google",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOX2lPb0JoR1lpbXJ5M3U3ZXFDVkRVY0dOamc1VEFVUmdyS19fVHRiaWViSDdGUGZtaTBWNkxwYkZuZmNCWXlXLVY0M05XU3NLS2VvUGwxNVBZcmJZYTJ3UGp0WjdRT1JZNWxjWTJMRjdkQnhlNlk1TjkzUGRFWVcxU3J0Ym1FTFNBdHhuMGwxWTNVaXRUTjkydUNmUWg5R09ZUHpUaTl3UHZuUjZYNnlaTlNTOXdzNXNxLTZEMXVBU3ZGVGE2WkFmR2tMd18?oc=5",
+      "title": "Google DeepMind hires staff from Contextual AI in licensing deal, source says",
+      "summary": "",
+      "publishedAt": "2026-05-19T23:24:25.000Z",
+      "publisher": "Reuters",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "1edd56ff4a6d1f4d52f51d1f30f3b0b66ca2aac5",
       "company": "Meta",
       "sourceKind": "external",
       "sourceId": "external-meta-major",
       "sourceLabel": "Major External News - Meta",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbHptdk80bTNBd1d0RHVSdE8tWk5QaElFX1pWOVVZYTUzMXZ4ZlJmc2t0UHlMdUsydEY5cnR5UnpyZEJxQ0ZNWDRPemZ6MjBVVFlCdFpUcUZSRk5kVVhtZlc3bFprV0V0N1psQkM1ems0WU52ZzBQX1daLVBJclE0dmln?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1TTG1MSDZ4WV8tN3QyRlVjSGFxWDlYOU1XX1dHTjVIVVE3bDJwdUFTSVRLVm5hRGJSZC1oMXB5VWwyRXhpTHVJTm56bndQTDBudzN6VEdJdjZLQVRaTjJUVy04eHYtNkE?oc=5",
       "title": "Tech Weekly: data center deals, Meta's major job cuts",
       "summary": "",
-      "publishedAt": "2026-05-19T12:59:37.000Z",
-      "publisher": "Yahoo Finance",
+      "publishedAt": "2026-05-19T11:44:02.000Z",
+      "publisher": "Reuters",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -540,21 +521,40 @@
         "score": 3,
         "reason": "Trusted external coverage"
       }
+    },
+    {
+      "id": "cdab5fbf0b03a2168a21f7e0380fa6ec05a48365",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRFBfZktZYmFuZWJkNV9pcTM5b004dllfaUNTel9aakZ5NVhUYkRIZnF0eXJKVEpEcFNvNmM0WTVvNll5c2o1elZURmdHdXkwaTVSUEh1Wm9peGVyRkdUbi03T3cxY3NKXzFEeEFWNWtORnAtOGhjRnlwV1ZreFUxVjczQ2FZQQ?oc=5",
+      "title": "Meta Is Transforming Rural Louisiana With a $200 Billion Data Center",
+      "summary": "",
+      "publishedAt": "2026-05-18T21:00:00.000Z",
+      "publisher": "Bloomberg.com",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
     }
   ],
   "newItems": [
     {
-      "id": "7a822a4af627b95d72197e5e63cba0e565c7076a",
+      "id": "6280846c047aa2a9259949f8bab44d439ca2d9be",
       "company": "Anthropic",
       "sourceKind": "external",
       "sourceId": "external-anthropic-major",
       "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZWtWRkhsemJEc2xFdTZvZWpIYTAwZlVrbzd5blZTcGg2bFZUM0MwT0NvSVowY0MxdUZLaXlrVm1ZTUhneWw1Y19JOVBhVVR0RFpqbWhUQ0F2Rldlb0RYYm5VNXZ5NGYzbzA1MjI4VWRlMWNjbmVORmx6V2Y1Tmxvd05qSGJlVV81c3liX0RRUW9yWllvX0tOb2dsVGhQRkxWLTdhbFlud2pBQjU1NDBzNldDbw?oc=5",
-      "title": "Anthropic’s New Consulting Venture Makes Its First Acquisition",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBOZW94UC1ldWpHLTQ1UXFUQzdkbEVFRTk2cVNQV3RLNlplWHRRLTRRRllUZndWOE9kbXdHTWJacl9DSEJla2psZTBxNmFtMmFGeVhKcldYVDBJbzBaMUE2MWVpNlkyclRtSmozOGowOHhoMm0tblVtYkswSDJ4UdIBgwFBVV95cUxPUXpFQk9PWVBtWE8xeW9SZUNBS1JJc25GOG05RmEtUExRTjhWRS1XYXdYMDZHRDhZOERUREZHYXlLVVpNQXplTHRIcEVmX05IWTNlUGZRcThQYlc2bjhBSzlUNk1QdnV2V1dvdTZmdExoV1UwWFhxWjBUM3NadDA5YmQzMA?oc=5",
+      "title": "Anthropic, Microsoft in talks for AI chip deal after $5 billion investment",
       "summary": "",
-      "publishedAt": "2026-05-21T12:00:00.000Z",
-      "publisher": "Bloomberg.com",
+      "publishedAt": "2026-05-21T18:02:33.000Z",
+      "publisher": "CNBC",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -563,73 +563,16 @@
       }
     },
     {
-      "id": "b27d64caaa09352502dd010e6bf9e10c9ed481ce",
-      "company": "Microsoft",
+      "id": "ad9b8f7a40b995786d2bff1809497239c0744ffe",
+      "company": "Anthropic",
       "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOM3BvWDhpb2FWZ0NkVTFrQXlnUHc3X2pZYkRMb0NKQnlSTDlqbDJxUzBIay05NFYxcFJ2Tkx4ZGd3WEZlYmFaZHhNdlhKWk1Sb0ZHdm11THVROEZQaTEzclJHWmpUYzRXZVhISWRYSTh5ZnFmcVNSSEgwM3l0c2Nydi1UUTZraTY0ZFd1WDZkUEhrTGJPTVNKSzdOTTVOQ0F1X2VzZTZ6MDB2YTQyRnpEVnh2bTU0WEJNNnpZ?oc=5",
-      "title": "Microsoft And OneStream Partnership Highlights Growing AI Role In Finance",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPejJlMUVtekdGcEtUMVhxMzF1Q2ttMmV4UFE1TWZ2dFJJVlBYVFh3NmpwMWV5RktWWGdTU2ZtNnJKSjRKWDFiT1ZweVBsVnhXbEU0WFN1ckRmQTRMRmlwY2k2WXRUUXpvSkRzeGpSS0t0YjlTUV9ybG5IcjQtenczUmdSZ25Sc2RUUklURmtLQllJdDdwV1hvc1AtSngyc1V5TzBfQ1dqdmM?oc=5",
+      "title": "Cyera Extends AI Security to Anthropic's Claude Enterprise",
       "summary": "",
-      "publishedAt": "2026-05-21T11:11:39.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "64bb451286fe5b19885c071aae94b42f0d6f9067",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQejlzQmlhd3lna0d4T0EzYWdlaHNVN29WS21aamd0U2dDSDdqRW53S09NUkdLVGtEcjlZRzh3N2RleGV0UzE5R2o5N1hkMGF2dHU4Y3Y0c2llR1BCalFOMVNGNUxWbTVFdzJUdFR0d0xxQ19LOEVHVVlCd1AxUmQxb1FfM2lzc1dpUVI0WFpoekhGLVgtT1dBV3FLUVMyeU9NZktfbjd4b2gwc3AtRTNR?oc=5",
-      "title": "OpenAI Faces IPO Challenges Even After Court Victory Over Musk",
-      "summary": "",
-      "publishedAt": "2026-05-20T22:21:28.000Z",
-      "publisher": "Bloomberg.com",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "d646f59b9303ed0263b9d5d333026db8e47a0e13",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOVhMcVpRSDlwb01jaXROdktuTGdFSGRfcEc3dzhXX1hDMUFUQjBmNkcwakw4ZFhiQzdHXy04aGxKMzZyaTl0YnFMdmV4cGlmX0NYMENhQU41aFdPVmk1bVRDMWphZUItZE1IWTQ1OGZ5c3FtNHBFRlhZbzVaNmtuNjVHblhrOHlGZ0pBMG5INkdGQlpFbTdRdXc3dXdlQzhlNXBMQmdkbDNBdw?oc=5",
-      "title": "Wedbush Views Microsoft (MSFT)’s Restructured OpenAI Partnership As Net Positive Rather Than Strategic Failure",
-      "summary": "",
-      "publishedAt": "2026-05-20T17:07:54.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "4202968d5c5472d680a5decc3e9752f83a025cfd",
-      "company": "Google",
-      "sourceKind": "external",
-      "sourceId": "external-google-major",
-      "sourceLabel": "Major External News - Google",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRGxib2dyUGNqSTcyaWZYTEVPTll6aGQ3Xy1NTTE4WGRBd09SdmlhRTA2dloxYVhJcUwzY0FwMnRSVFVvQURlLVc1cmtWQWx2TkdEQkp6US0wQ3B1bzFzMHNQNF9JRXdmTjlsVUU0RFh5SHppMFp3eG5zLVM0QUJtSElGQVpSQmVaUlduYWdVU0VtWlUtOGVWUng3dUZGSkszNldJOTg1MVdoYmtSQXRJ?oc=5",
-      "title": "Google DeepMind Features Hirundo’s Security-Hardened Gemma 4 Model – Outperforms LLMs 170x Its Size on Security",
-      "summary": "",
-      "publishedAt": "2026-05-21T14:23:00.000Z",
+      "publishedAt": "2026-05-21T17:00:00.000Z",
       "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
@@ -639,78 +582,59 @@
       }
     },
     {
-      "id": "cf1eadd4fa1264cb2554e1b049026d49939412cc",
-      "company": "Microsoft",
-      "sourceKind": "official",
-      "sourceId": "microsoft-ai",
-      "sourceLabel": "Microsoft AI",
-      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
-      "url": "https://news.microsoft.com/source/2026/05/21/ey-and-microsoft-announce-global-initiative-to-help-clients-scale-ai-enterprisewide-value-creation-and-move-beyond-experimentation",
-      "title": "EY and Microsoft announce global initiative to help clients scale AI enterprisewide value creation and move beyond experimentation",
-      "summary": "EY and Microsoft announce global initiative to help clients scale AI enterprisewide value creation and move beyond experimentation",
-      "publishedAt": "2026-05-21T11:00:07.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "e60b5229c9cfbc331c2f3da10462c64de001f646",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements",
-      "title": "100 things we announced at I/O 2026",
-      "summary": "This year at Google I/O 2026, we announced Gemini Omni, Google Antigravity, Universal Cart and so much more. Here are the highlights.",
-      "publishedAt": "2026-05-20T19:30:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "545334b90f6f29ba65b555830e9fc3423e780039",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni",
-      "title": "Introducing Gemini Omni",
-      "summary": "Introducing Gemini Omni, which allows you to create anything from any input and edit naturally using conversational language.",
-      "publishedAt": "2026-05-19T17:45:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "da790e1d404eb22bbd10294b8c3ad29931d2558d",
-      "company": "Anthropic",
+      "id": "c5fd8731a189fbc6f7169dfe6994b104fc73cc50",
+      "company": "OpenAI",
       "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9UcWNHT21RRk15dzlSTTRBOGlOdmE2RHVFUndyS3lfcXpJV1lQQ2ZoTXF5VFlSZk9QLUJxNDJTQUM0c2RDLS1BQ3B6WXdiNUp1aDJEdXRGX25jQi1zdDVvVFprNG1iWWNLNGJpUzZuSFF5a3liUkZOSEt2dWY?oc=5",
-      "title": "OpenAI co-founder Andrej Karpathy joins Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNGYxbmZUWWZxeHZrc1FOU3FOS3lyakxqNUd5N2hnRG1CTHphSXRVZzBxSTdiMFVRYzFsN3h0S3JqaGFnVFFMSEthX3Y0Z3FlWXlCNHlENDdWT1lDcEp1ZWFuUkNFd3FERkxPTUdiNEppSmFyOWFBNWZTM05lS2VQM0tHYmIxR2s3RU1oODFSQ1dKek90ZmZyQmdVbnNMcW8?oc=5",
+      "title": "OpenAI Generated Nearly $6 Billion in Revenue in First Quarter, Boosted by Codex",
       "summary": "",
-      "publishedAt": "2026-05-20T10:55:49.000Z",
-      "publisher": "Axios",
+      "publishedAt": "2026-05-21T18:26:00.000Z",
+      "publisher": "The Information",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
         "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "aa108b028fc62041f200e2f7b05d464a3675e02a",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSzV5UG56ZEZmTkJ3UVF4aTEtRjBFbkl2RW9wRmRHZ3pDcWxPWm5yUW5xcm5ma2xTSGMzb1ZNcnN6cmNNMGo5MVR3dno3bGxZUld5czNjZzhtRWdFajFEUFdNYWp5N3RheldJYW9jNnFoQVZWVEVHbW5FS1BzajNBamo2VUlwM0tN?oc=5",
+      "title": "EPA Water Chief Pledges Review as Rural Georgia Faces Brown Water Near Meta Data Center",
+      "summary": "",
+      "publishedAt": "2026-05-21T15:12:49.000Z",
+      "publisher": "Yahoo",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "1edd56ff4a6d1f4d52f51d1f30f3b0b66ca2aac5",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1TTG1MSDZ4WV8tN3QyRlVjSGFxWDlYOU1XX1dHTjVIVVE3bDJwdUFTSVRLVm5hRGJSZC1oMXB5VWwyRXhpTHVJTm56bndQTDBudzN6VEdJdjZLQVRaTjJUVy04eHYtNkE?oc=5",
+      "title": "Tech Weekly: data center deals, Meta's major job cuts",
+      "summary": "",
+      "publishedAt": "2026-05-19T11:44:02.000Z",
+      "publisher": "Reuters",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
         "reason": "Trusted external coverage"
       }
     }
