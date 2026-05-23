@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-22T15:13:04.010Z",
+  "generatedAt": "2026-05-23T14:39:22.835Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -80,11 +80,68 @@
     "deduped": 24,
     "new": 5,
     "byKind": {
-      "official": 10,
-      "external": 14
+      "official": 9,
+      "external": 15
     }
   },
   "items": [
+    {
+      "id": "6c6aa17bb00b679a303fb966437449e30e0bb691",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMGFFTXE2U0lfOTFVRi1wakFKWUp6UUw0eDV3ZXVFTUVTTE1BWHNjdTBPZk9pZy00Q2pQOW4tbVhJR09EZWcxLVhKaVJhMXozUDlSYXZ6dzlyZGx6YlhpQnoybGpjcU9nbmJtYzFwUXhMRzdoS0dwcW5uN3VPRmtSdk5aN001cHhMSllTc1NuT3pXZlZhNUYyUmF0Z0NmMWRDUlpnX2JvT0xDSVpEOFRCeTNB?oc=5",
+      "title": "Verizon Communications (VZ) Announces Partnership with Anthropic",
+      "summary": "",
+      "publishedAt": "2026-05-23T11:56:40.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "15238f7a468bc3fee7dfed07568ca8cc83a4a5f1",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZnA5dFUzVXFFd25TR0xzMUswanZXQXVPWXRDYVFKcHBUVVRORlk5V2lpcU1ublc5MHpRVmJTTkVwN0FlaWJILVBzNmg2OTRUTy12YzRSVjN0OEY1Y3lFa0hNLUdXSmdoTlpDUlRPUV9NMkdFelVPTGV0UVU3Z3FnMVg1VExaQzhXR1VOOUJpYy1xYUhreUlKREhhZk92WVM1RVF4S000c2tRbHZOa1g1cQ?oc=5",
+      "title": "Klaviyo (KVYO) Expands Anthropic Partnership to Bring Agentic Marketing Workflows to Claude",
+      "summary": "",
+      "publishedAt": "2026-05-23T11:23:16.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "5a7198f0ccc0842824ad0848609e908a90319b51",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPd3dzMERseTJxQTlIdUZ1Skd5aks2Rkl0Nzh1LWVlbVhOVTJRdXB6dkFRaUJTR3pBRXhvVnpKUDBrU2dCaVlnMmJ0VE9ZQ3BQRHhzeURBd3piU0Z4R3JZNllGaF9WeGF0Yl9xNDBtN0NSWE9KNXRtUjVEemM3MnZHUk4wQTN4dFRUUE5CYlktZkZMWjRNTkFBa2otUkE1YTlXaExyS3c2NW5oVzN5dmJGRlVjWDlBcjB0YkdJcy01eDdCVGdtYmc?oc=5",
+      "title": "Activision shareholders reach $250 million settlement over Microsoft buyout",
+      "summary": "",
+      "publishedAt": "2026-05-22T17:19:48.000Z",
+      "publisher": "Reuters",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
     {
       "id": "6280846c047aa2a9259949f8bab44d439ca2d9be",
       "company": "Anthropic",
@@ -97,44 +154,6 @@
       "summary": "",
       "publishedAt": "2026-05-21T18:02:33.000Z",
       "publisher": "CNBC",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "7a822a4af627b95d72197e5e63cba0e565c7076a",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZWtWRkhsemJEc2xFdTZvZWpIYTAwZlVrbzd5blZTcGg2bFZUM0MwT0NvSVowY0MxdUZLaXlrVm1ZTUhneWw1Y19JOVBhVVR0RFpqbWhUQ0F2Rldlb0RYYm5VNXZ5NGYzbzA1MjI4VWRlMWNjbmVORmx6V2Y1Tmxvd05qSGJlVV81c3liX0RRUW9yWllvX0tOb2dsVGhQRkxWLTdhbFlud2pBQjU1NDBzNldDbw?oc=5",
-      "title": "Anthropic’s New Consulting Venture Makes Its First Acquisition",
-      "summary": "",
-      "publishedAt": "2026-05-21T12:00:00.000Z",
-      "publisher": "Bloomberg.com",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "b27d64caaa09352502dd010e6bf9e10c9ed481ce",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOM3BvWDhpb2FWZ0NkVTFrQXlnUHc3X2pZYkRMb0NKQnlSTDlqbDJxUzBIay05NFYxcFJ2Tkx4ZGd3WEZlYmFaZHhNdlhKWk1Sb0ZHdm11THVROEZQaTEzclJHWmpUYzRXZVhISWRYSTh5ZnFmcVNSSEgwM3l0c2Nydi1UUTZraTY0ZFd1WDZkUEhrTGJPTVNKSzdOTTVOQ0F1X2VzZTZ6MDB2YTQyRnpEVnh2bTU0WEJNNnpZ?oc=5",
-      "title": "Microsoft And OneStream Partnership Highlights Growing AI Role In Finance",
-      "summary": "",
-      "publishedAt": "2026-05-21T11:11:39.000Z",
-      "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -157,16 +176,16 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 7,
+        "score": 6,
         "reason": "Corporate move or major external event"
       }
     },
     {
       "id": "d646f59b9303ed0263b9d5d333026db8e47a0e13",
-      "company": "OpenAI",
+      "company": "Microsoft",
       "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
       "homepageUrl": "https://news.google.com/",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOVhMcVpRSDlwb01jaXROdktuTGdFSGRfcEc3dzhXX1hDMUFUQjBmNkcwakw4ZFhiQzdHXy04aGxKMzZyaTl0YnFMdmV4cGlmX0NYMENhQU41aFdPVmk1bVRDMWphZUItZE1IWTQ1OGZ5c3FtNHBFRlhZbzVaNmtuNjVHblhrOHlGZ0pBMG5INkdGQlpFbTdRdXc3dXdlQzhlNXBMQmdkbDNBdw?oc=5",
       "title": "Wedbush Views Microsoft (MSFT)’s Restructured OpenAI Partnership As Net Positive Rather Than Strategic Failure",
@@ -176,7 +195,45 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 7,
+        "score": 6,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "4f7bf41be35ea8bfeabc95139fdaf7414af843ca",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYkhQa3RndHRaS01zQnU3Q2tVVUhEUDA0S3JhUlJsM0I4VEQ2TC03VU9KT3REcG1FeEFzMldNWGZVdzJpZERyaDUta0pfWUdPTV9YVEc1U1dIN3FHTFFhMDd6U29CQy1RQmRCY0tOZW1FYl9EeENDTnRxTU1IRzZQdHpXZDdQeWpXY3Y4MXFHblA2YVpvT2E3SFVkY3dBcWFqSFFRRGNlaC1ZaXNuWHNNV1lxWXFRU2phMWl3WF9yMUFWLTlnbVlkVWg1Zw?oc=5",
+      "title": "Musk-OpenAI Trial Previews How Antitrust Will Steer AI’s Future",
+      "summary": "",
+      "publishedAt": "2026-05-19T14:10:00.000Z",
+      "publisher": "Bloomberg Law News",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "cbcb279fb22fec02120cd6b3c4f21e56fea72775",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOVJld3Z1STU2SmRKM21Ea215djhhOEs4c1pMQ2p6YWdSeFl2OWluUWdLcDByeTI2cE1sSTd1ZkY2cUtuXzZJSW1xdDlSd3BpTGZsXzlRME9kUVpkQzZneVFLLXFnMjA2dGVQU0wtaXZ2Q0l5Rm0tUTZRbDNHcC1oTTFyR1ZPTTczamFLWDBsaFpUMkZVeVJBVzExa2pnTm5mYVNn?oc=5",
+      "title": "OpenAI prevails in Musk's lawsuit, paving the way for IPO",
+      "summary": "",
+      "publishedAt": "2026-05-19T14:08:19.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
         "reason": "Corporate move or major external event"
       }
     },
@@ -197,63 +254,6 @@
         "bucket": "critical",
         "score": 5,
         "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "cf1eadd4fa1264cb2554e1b049026d49939412cc",
-      "company": "Microsoft",
-      "sourceKind": "official",
-      "sourceId": "microsoft-ai",
-      "sourceLabel": "Microsoft AI",
-      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
-      "url": "https://news.microsoft.com/source/2026/05/21/ey-and-microsoft-announce-global-initiative-to-help-clients-scale-ai-enterprisewide-value-creation-and-move-beyond-experimentation",
-      "title": "EY and Microsoft announce global initiative to help clients scale AI enterprisewide value creation and move beyond experimentation",
-      "summary": "EY and Microsoft announce global initiative to help clients scale AI enterprisewide value creation and move beyond experimentation",
-      "publishedAt": "2026-05-21T11:00:07.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "e60b5229c9cfbc331c2f3da10462c64de001f646",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements",
-      "title": "100 things we announced at I/O 2026",
-      "summary": "This year at Google I/O 2026, we announced Gemini Omni, Google Antigravity, Universal Cart and so much more. Here are the highlights.",
-      "publishedAt": "2026-05-20T19:30:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "e0640ad0320ce67f7a7e6f657d5dbfb77b706e9b",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/introducing-openai-for-singapore",
-      "title": "Introducing OpenAI for Singapore",
-      "summary": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI.",
-      "publishedAt": "2026-05-19T20:30:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Corporate move or major external event"
       }
     },
     {
@@ -295,25 +295,6 @@
       }
     },
     {
-      "id": "c5fd8731a189fbc6f7169dfe6994b104fc73cc50",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNGYxbmZUWWZxeHZrc1FOU3FOS3lyakxqNUd5N2hnRG1CTHphSXRVZzBxSTdiMFVRYzFsN3h0S3JqaGFnVFFMSEthX3Y0Z3FlWXlCNHlENDdWT1lDcEp1ZWFuUkNFd3FERkxPTUdiNEppSmFyOWFBNWZTM05lS2VQM0tHYmIxR2s3RU1oODFSQ1dKek90ZmZyQmdVbnNMcW8?oc=5",
-      "title": "OpenAI Generated Nearly $6 Billion in Revenue in First Quarter, Boosted by Codex",
-      "summary": "",
-      "publishedAt": "2026-05-21T18:26:00.000Z",
-      "publisher": "The Information",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
       "id": "aa108b028fc62041f200e2f7b05d464a3675e02a",
       "company": "Meta",
       "sourceKind": "external",
@@ -330,6 +311,44 @@
         "bucket": "important",
         "score": 4,
         "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "cf1eadd4fa1264cb2554e1b049026d49939412cc",
+      "company": "Microsoft",
+      "sourceKind": "official",
+      "sourceId": "microsoft-ai",
+      "sourceLabel": "Microsoft AI",
+      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
+      "url": "https://news.microsoft.com/source/2026/05/21/ey-and-microsoft-announce-global-initiative-to-help-clients-scale-ai-enterprisewide-value-creation-and-move-beyond-experimentation",
+      "title": "EY and Microsoft announce global initiative to help clients scale AI enterprisewide value creation and move beyond experimentation",
+      "summary": "EY and Microsoft announce global initiative to help clients scale AI enterprisewide value creation and move beyond experimentation",
+      "publishedAt": "2026-05-21T11:00:07.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "e60b5229c9cfbc331c2f3da10462c64de001f646",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements",
+      "title": "100 things we announced at I/O 2026",
+      "summary": "This year at Google I/O 2026, we announced Gemini Omni, Google Antigravity, Universal Cart and so much more. Here are the highlights.",
+      "publishedAt": "2026-05-20T19:30:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Flagship model or product launch"
       }
     },
     {
@@ -361,25 +380,6 @@
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection",
       "title": "I/O 2026",
       "summary": "At Google I/O 2026, we shared how we’re making AI more helpful for everyone. See everything we announced.",
-      "publishedAt": "2026-05-19T17:45:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "545334b90f6f29ba65b555830e9fc3423e780039",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni",
-      "title": "Introducing Gemini Omni",
-      "summary": "Introducing Gemini Omni, which allows you to create anything from any input and edit naturally using conversational language.",
       "publishedAt": "2026-05-19T17:45:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
@@ -428,17 +428,17 @@
       }
     },
     {
-      "id": "da790e1d404eb22bbd10294b8c3ad29931d2558d",
-      "company": "Anthropic",
+      "id": "5086b9cf1371f1dfd973e0f71e6ca15a077a099a",
+      "company": "Meta",
       "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9UcWNHT21RRk15dzlSTTRBOGlOdmE2RHVFUndyS3lfcXpJV1lQQ2ZoTXF5VFlSZk9QLUJxNDJTQUM0c2RDLS1BQ3B6WXdiNUp1aDJEdXRGX25jQi1zdDVvVFprNG1iWWNLNGJpUzZuSFF5a3liUkZOSEt2dWY?oc=5",
-      "title": "OpenAI co-founder Andrej Karpathy joins Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQci15UF96SzROVHhzVEMtT0swb3FnUnNyb1JRRjZ6cU84bllUZlNENXY0OGRLQmpCeU1EZW0tNzhWUWc0YVQwa2RhOURmTnY4ZlJHSk1jc2pUX245RUs2QW14RTNzSEZfRWVReXFxeVpWRW9zaURVZ2N2bWhfamFJdVRQUGRyWWRNbktDOUQxbHcyUQ?oc=5",
+      "title": "Louisiana senator helped secure Meta's largest data center. Then he sold the land beside it.",
       "summary": "",
-      "publishedAt": "2026-05-20T10:55:49.000Z",
-      "publisher": "Axios",
+      "publishedAt": "2026-05-21T10:59:32.000Z",
+      "publisher": "Yahoo",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -485,17 +485,17 @@
       }
     },
     {
-      "id": "1edd56ff4a6d1f4d52f51d1f30f3b0b66ca2aac5",
+      "id": "a46d7d2d22b5e9c52b9387520fdf1db462a78a9b",
       "company": "Meta",
       "sourceKind": "external",
       "sourceId": "external-meta-major",
       "sourceLabel": "Major External News - Meta",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1TTG1MSDZ4WV8tN3QyRlVjSGFxWDlYOU1XX1dHTjVIVVE3bDJwdUFTSVRLVm5hRGJSZC1oMXB5VWwyRXhpTHVJTm56bndQTDBudzN6VEdJdjZLQVRaTjJUVy04eHYtNkE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbHptdk80bTNBd1d0RHVSdE8tWk5QaElFX1pWOVVZYTUzMXZ4ZlJmc2t0UHlMdUsydEY5cnR5UnpyZEJxQ0ZNWDRPemZ6MjBVVFlCdFpUcUZSRk5kVVhtZlc3bFprV0V0N1psQkM1ems0WU52ZzBQX1daLVBJclE0dmln?oc=5",
       "title": "Tech Weekly: data center deals, Meta's major job cuts",
       "summary": "",
-      "publishedAt": "2026-05-19T11:44:02.000Z",
-      "publisher": "Reuters",
+      "publishedAt": "2026-05-19T12:59:37.000Z",
+      "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -523,38 +523,38 @@
       }
     },
     {
-      "id": "cdab5fbf0b03a2168a21f7e0380fa6ec05a48365",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRFBfZktZYmFuZWJkNV9pcTM5b004dllfaUNTel9aakZ5NVhUYkRIZnF0eXJKVEpEcFNvNmM0WTVvNll5c2o1elZURmdHdXkwaTVSUEh1Wm9peGVyRkdUbi03T3cxY3NKXzFEeEFWNWtORnAtOGhjRnlwV1ZreFUxVjczQ2FZQQ?oc=5",
-      "title": "Meta Is Transforming Rural Louisiana With a $200 Billion Data Center",
+      "id": "3a0b4572422c1a8cbc95ae7fb7158fc8dc49f9d0",
+      "company": "Anthropic",
+      "sourceKind": "official",
+      "sourceId": "anthropic-news",
+      "sourceLabel": "Anthropic News",
+      "homepageUrl": "https://www.anthropic.com/news",
+      "url": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy",
+      "title": "Responsible Scaling Policy",
       "summary": "",
-      "publishedAt": "2026-05-18T21:00:00.000Z",
-      "publisher": "Bloomberg.com",
-      "discoveryMethod": "feed",
+      "publishedAt": null,
+      "publisher": "",
+      "discoveryMethod": "anchor",
       "classification": {
         "bucket": "important",
         "score": 3,
-        "reason": "Trusted external coverage"
+        "reason": "Safety, security, or policy update"
       }
     }
   ],
   "newItems": [
     {
-      "id": "6280846c047aa2a9259949f8bab44d439ca2d9be",
+      "id": "6c6aa17bb00b679a303fb966437449e30e0bb691",
       "company": "Anthropic",
       "sourceKind": "external",
       "sourceId": "external-anthropic-major",
       "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBOZW94UC1ldWpHLTQ1UXFUQzdkbEVFRTk2cVNQV3RLNlplWHRRLTRRRllUZndWOE9kbXdHTWJacl9DSEJla2psZTBxNmFtMmFGeVhKcldYVDBJbzBaMUE2MWVpNlkyclRtSmozOGowOHhoMm0tblVtYkswSDJ4UdIBgwFBVV95cUxPUXpFQk9PWVBtWE8xeW9SZUNBS1JJc25GOG05RmEtUExRTjhWRS1XYXdYMDZHRDhZOERUREZHYXlLVVpNQXplTHRIcEVmX05IWTNlUGZRcThQYlc2bjhBSzlUNk1QdnV2V1dvdTZmdExoV1UwWFhxWjBUM3NadDA5YmQzMA?oc=5",
-      "title": "Anthropic, Microsoft in talks for AI chip deal after $5 billion investment",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMGFFTXE2U0lfOTFVRi1wakFKWUp6UUw0eDV3ZXVFTUVTTE1BWHNjdTBPZk9pZy00Q2pQOW4tbVhJR09EZWcxLVhKaVJhMXozUDlSYXZ6dzlyZGx6YlhpQnoybGpjcU9nbmJtYzFwUXhMRzdoS0dwcW5uN3VPRmtSdk5aN001cHhMSllTc1NuT3pXZlZhNUYyUmF0Z0NmMWRDUlpnX2JvT0xDSVpEOFRCeTNB?oc=5",
+      "title": "Verizon Communications (VZ) Announces Partnership with Anthropic",
       "summary": "",
-      "publishedAt": "2026-05-21T18:02:33.000Z",
-      "publisher": "CNBC",
+      "publishedAt": "2026-05-23T11:56:40.000Z",
+      "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -563,74 +563,74 @@
       }
     },
     {
-      "id": "ad9b8f7a40b995786d2bff1809497239c0744ffe",
+      "id": "15238f7a468bc3fee7dfed07568ca8cc83a4a5f1",
       "company": "Anthropic",
       "sourceKind": "external",
       "sourceId": "external-anthropic-major",
       "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPejJlMUVtekdGcEtUMVhxMzF1Q2ttMmV4UFE1TWZ2dFJJVlBYVFh3NmpwMWV5RktWWGdTU2ZtNnJKSjRKWDFiT1ZweVBsVnhXbEU0WFN1ckRmQTRMRmlwY2k2WXRUUXpvSkRzeGpSS0t0YjlTUV9ybG5IcjQtenczUmdSZ25Sc2RUUklURmtLQllJdDdwV1hvc1AtSngyc1V5TzBfQ1dqdmM?oc=5",
-      "title": "Cyera Extends AI Security to Anthropic's Claude Enterprise",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZnA5dFUzVXFFd25TR0xzMUswanZXQXVPWXRDYVFKcHBUVVRORlk5V2lpcU1ublc5MHpRVmJTTkVwN0FlaWJILVBzNmg2OTRUTy12YzRSVjN0OEY1Y3lFa0hNLUdXSmdoTlpDUlRPUV9NMkdFelVPTGV0UVU3Z3FnMVg1VExaQzhXR1VOOUJpYy1xYUhreUlKREhhZk92WVM1RVF4S000c2tRbHZOa1g1cQ?oc=5",
+      "title": "Klaviyo (KVYO) Expands Anthropic Partnership to Bring Agentic Marketing Workflows to Claude",
       "summary": "",
-      "publishedAt": "2026-05-21T17:00:00.000Z",
+      "publishedAt": "2026-05-23T11:23:16.000Z",
       "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 5,
-        "reason": "Safety, security, or policy update"
+        "score": 7,
+        "reason": "Corporate move or major external event"
       }
     },
     {
-      "id": "c5fd8731a189fbc6f7169dfe6994b104fc73cc50",
+      "id": "5a7198f0ccc0842824ad0848609e908a90319b51",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPd3dzMERseTJxQTlIdUZ1Skd5aks2Rkl0Nzh1LWVlbVhOVTJRdXB6dkFRaUJTR3pBRXhvVnpKUDBrU2dCaVlnMmJ0VE9ZQ3BQRHhzeURBd3piU0Z4R3JZNllGaF9WeGF0Yl9xNDBtN0NSWE9KNXRtUjVEemM3MnZHUk4wQTN4dFRUUE5CYlktZkZMWjRNTkFBa2otUkE1YTlXaExyS3c2NW5oVzN5dmJGRlVjWDlBcjB0YkdJcy01eDdCVGdtYmc?oc=5",
+      "title": "Activision shareholders reach $250 million settlement over Microsoft buyout",
+      "summary": "",
+      "publishedAt": "2026-05-22T17:19:48.000Z",
+      "publisher": "Reuters",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "cbcb279fb22fec02120cd6b3c4f21e56fea72775",
       "company": "OpenAI",
       "sourceKind": "external",
       "sourceId": "external-openai-major",
       "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNGYxbmZUWWZxeHZrc1FOU3FOS3lyakxqNUd5N2hnRG1CTHphSXRVZzBxSTdiMFVRYzFsN3h0S3JqaGFnVFFMSEthX3Y0Z3FlWXlCNHlENDdWT1lDcEp1ZWFuUkNFd3FERkxPTUdiNEppSmFyOWFBNWZTM05lS2VQM0tHYmIxR2s3RU1oODFSQ1dKek90ZmZyQmdVbnNMcW8?oc=5",
-      "title": "OpenAI Generated Nearly $6 Billion in Revenue in First Quarter, Boosted by Codex",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOVJld3Z1STU2SmRKM21Ea215djhhOEs4c1pMQ2p6YWdSeFl2OWluUWdLcDByeTI2cE1sSTd1ZkY2cUtuXzZJSW1xdDlSd3BpTGZsXzlRME9kUVpkQzZneVFLLXFnMjA2dGVQU0wtaXZ2Q0l5Rm0tUTZRbDNHcC1oTTFyR1ZPTTczamFLWDBsaFpUMkZVeVJBVzExa2pnTm5mYVNn?oc=5",
+      "title": "OpenAI prevails in Musk's lawsuit, paving the way for IPO",
       "summary": "",
-      "publishedAt": "2026-05-21T18:26:00.000Z",
-      "publisher": "The Information",
+      "publishedAt": "2026-05-19T14:08:19.000Z",
+      "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Corporate move or major external event"
       }
     },
     {
-      "id": "aa108b028fc62041f200e2f7b05d464a3675e02a",
+      "id": "5086b9cf1371f1dfd973e0f71e6ca15a077a099a",
       "company": "Meta",
       "sourceKind": "external",
       "sourceId": "external-meta-major",
       "sourceLabel": "Major External News - Meta",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSzV5UG56ZEZmTkJ3UVF4aTEtRjBFbkl2RW9wRmRHZ3pDcWxPWm5yUW5xcm5ma2xTSGMzb1ZNcnN6cmNNMGo5MVR3dno3bGxZUld5czNjZzhtRWdFajFEUFdNYWp5N3RheldJYW9jNnFoQVZWVEVHbW5FS1BzajNBamo2VUlwM0tN?oc=5",
-      "title": "EPA Water Chief Pledges Review as Rural Georgia Faces Brown Water Near Meta Data Center",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQci15UF96SzROVHhzVEMtT0swb3FnUnNyb1JRRjZ6cU84bllUZlNENXY0OGRLQmpCeU1EZW0tNzhWUWc0YVQwa2RhOURmTnY4ZlJHSk1jc2pUX245RUs2QW14RTNzSEZfRWVReXFxeVpWRW9zaURVZ2N2bWhfamFJdVRQUGRyWWRNbktDOUQxbHcyUQ?oc=5",
+      "title": "Louisiana senator helped secure Meta's largest data center. Then he sold the land beside it.",
       "summary": "",
-      "publishedAt": "2026-05-21T15:12:49.000Z",
+      "publishedAt": "2026-05-21T10:59:32.000Z",
       "publisher": "Yahoo",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "1edd56ff4a6d1f4d52f51d1f30f3b0b66ca2aac5",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1TTG1MSDZ4WV8tN3QyRlVjSGFxWDlYOU1XX1dHTjVIVVE3bDJwdUFTSVRLVm5hRGJSZC1oMXB5VWwyRXhpTHVJTm56bndQTDBudzN6VEdJdjZLQVRaTjJUVy04eHYtNkE?oc=5",
-      "title": "Tech Weekly: data center deals, Meta's major job cuts",
-      "summary": "",
-      "publishedAt": "2026-05-19T11:44:02.000Z",
-      "publisher": "Reuters",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
