@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-24T14:39:04.958Z",
+  "generatedAt": "2026-05-25T15:13:37.675Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -76,15 +76,53 @@
     }
   ],
   "totals": {
-    "fetched": 46,
+    "fetched": 43,
     "deduped": 24,
-    "new": 3,
+    "new": 7,
     "byKind": {
       "official": 10,
       "external": 14
     }
   },
   "items": [
+    {
+      "id": "45c4fa0cc1e7384b5101dc14be5dfea4aca9a339",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZFNVcGlkUU5HX25UbzZDU1ZjbjJfXzBOZ01oMi1BR2dnenVadGpiWEtQdVFBZ2lGd0ZDWXNqaF9YdjViOGt6Q2YwX2pORFRFYlBRTkQ3QXd6c2h3YUkyV0JRLVRHSEFwU29OZkYtS1llUXV5RFRNeXZwWk9kd1BJMDMwZy01VU42ZGxHRHkwajlVZnlUN1E?oc=5",
+      "title": "AOC Demands EPA Probe After Residents Near Meta Data Center In Georgia Complain Of Murky Drinking Water: Cannot 'Take For Granted'",
+      "summary": "",
+      "publishedAt": "2026-05-24T16:31:37.000Z",
+      "publisher": "Yahoo",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "377028c75db46ce490c6dcecf41ef1451fe89fb2",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONnphd3h5Yk43cTY4ZWlQNnpVOXlJV3FiZ3hkOG84dGFsbjF4UGNhVm5WMzFIY0pxUmNDbWRlQkhaQTlTcXdhbUk4Uld1a1FsZmszNm9fdmZPajQtclptZTktS1VGRWpuOUpBRldWOFhpX251VVJhSjVySFR3UnJCZkhTWGN1ZGthMHQ4SldBLUFuRjVE?oc=5",
+      "title": "AOC holds up jar of brown water at EPA hearing, says Meta's Georgia data center is destroying local drinking supply",
+      "summary": "",
+      "publishedAt": "2026-05-24T15:15:00.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
     {
       "id": "62a5241b225bcb02db846267758a4b2d081d3fab",
       "company": "OpenAI",
@@ -96,25 +134,6 @@
       "title": "Microsoft Settlement And OpenAI Shift Reframe Growth And Valuation Story",
       "summary": "",
       "publishedAt": "2026-05-24T14:12:28.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "15238f7a468bc3fee7dfed07568ca8cc83a4a5f1",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZnA5dFUzVXFFd25TR0xzMUswanZXQXVPWXRDYVFKcHBUVVRORlk5V2lpcU1ublc5MHpRVmJTTkVwN0FlaWJILVBzNmg2OTRUTy12YzRSVjN0OEY1Y3lFa0hNLUdXSmdoTlpDUlRPUV9NMkdFelVPTGV0UVU3Z3FnMVg1VExaQzhXR1VOOUJpYy1xYUhreUlKREhhZk92WVM1RVF4S000c2tRbHZOa1g1cQ?oc=5",
-      "title": "Klaviyo (KVYO) Expands Anthropic Partnership to Bring Agentic Marketing Workflows to Claude",
-      "summary": "",
-      "publishedAt": "2026-05-23T11:23:16.000Z",
       "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
@@ -143,11 +162,30 @@
       }
     },
     {
-      "id": "6280846c047aa2a9259949f8bab44d439ca2d9be",
+      "id": "15238f7a468bc3fee7dfed07568ca8cc83a4a5f1",
       "company": "Anthropic",
       "sourceKind": "external",
       "sourceId": "external-anthropic-major",
       "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZnA5dFUzVXFFd25TR0xzMUswanZXQXVPWXRDYVFKcHBUVVRORlk5V2lpcU1ublc5MHpRVmJTTkVwN0FlaWJILVBzNmg2OTRUTy12YzRSVjN0OEY1Y3lFa0hNLUdXSmdoTlpDUlRPUV9NMkdFelVPTGV0UVU3Z3FnMVg1VExaQzhXR1VOOUJpYy1xYUhreUlKREhhZk92WVM1RVF4S000c2tRbHZOa1g1cQ?oc=5",
+      "title": "Klaviyo (KVYO) Expands Anthropic Partnership to Bring Agentic Marketing Workflows to Claude",
+      "summary": "",
+      "publishedAt": "2026-05-23T11:23:16.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "6280846c047aa2a9259949f8bab44d439ca2d9be",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
       "homepageUrl": "https://news.google.com/",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBOZW94UC1ldWpHLTQ1UXFUQzdkbEVFRTk2cVNQV3RLNlplWHRRLTRRRllUZndWOE9kbXdHTWJacl9DSEJla2psZTBxNmFtMmFGeVhKcldYVDBJbzBaMUE2MWVpNlkyclRtSmozOGowOHhoMm0tblVtYkswSDJ4UdIBgwFBVV95cUxPUXpFQk9PWVBtWE8xeW9SZUNBS1JJc25GOG05RmEtUExRTjhWRS1XYXdYMDZHRDhZOERUREZHYXlLVVpNQXplTHRIcEVmX05IWTNlUGZRcThQYlc2bjhBSzlUNk1QdnV2V1dvdTZmdExoV1UwWFhxWjBUM3NadDA5YmQzMA?oc=5",
       "title": "Anthropic, Microsoft in talks for AI chip deal after $5 billion investment",
@@ -162,36 +200,17 @@
       }
     },
     {
-      "id": "7a822a4af627b95d72197e5e63cba0e565c7076a",
-      "company": "Anthropic",
+      "id": "b27d64caaa09352502dd010e6bf9e10c9ed481ce",
+      "company": "Microsoft",
       "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZWtWRkhsemJEc2xFdTZvZWpIYTAwZlVrbzd5blZTcGg2bFZUM0MwT0NvSVowY0MxdUZLaXlrVm1ZTUhneWw1Y19JOVBhVVR0RFpqbWhUQ0F2Rldlb0RYYm5VNXZ5NGYzbzA1MjI4VWRlMWNjbmVORmx6V2Y1Tmxvd05qSGJlVV81c3liX0RRUW9yWllvX0tOb2dsVGhQRkxWLTdhbFlud2pBQjU1NDBzNldDbw?oc=5",
-      "title": "Anthropic’s New Consulting Venture Makes Its First Acquisition",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOM3BvWDhpb2FWZ0NkVTFrQXlnUHc3X2pZYkRMb0NKQnlSTDlqbDJxUzBIay05NFYxcFJ2Tkx4ZGd3WEZlYmFaZHhNdlhKWk1Sb0ZHdm11THVROEZQaTEzclJHWmpUYzRXZVhISWRYSTh5ZnFmcVNSSEgwM3l0c2Nydi1UUTZraTY0ZFd1WDZkUEhrTGJPTVNKSzdOTTVOQ0F1X2VzZTZ6MDB2YTQyRnpEVnh2bTU0WEJNNnpZ?oc=5",
+      "title": "Microsoft And OneStream Partnership Highlights Growing AI Role In Finance",
       "summary": "",
-      "publishedAt": "2026-05-21T12:00:00.000Z",
-      "publisher": "Bloomberg.com",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "64bb451286fe5b19885c071aae94b42f0d6f9067",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQejlzQmlhd3lna0d4T0EzYWdlaHNVN29WS21aamd0U2dDSDdqRW53S09NUkdLVGtEcjlZRzh3N2RleGV0UzE5R2o5N1hkMGF2dHU4Y3Y0c2llR1BCalFOMVNGNUxWbTVFdzJUdFR0d0xxQ19LOEVHVVlCd1AxUmQxb1FfM2lzc1dpUVI0WFpoekhGLVgtT1dBV3FLUVMyeU9NZktfbjd4b2gwc3AtRTNR?oc=5",
-      "title": "OpenAI Faces IPO Challenges Even After Court Victory Over Musk",
-      "summary": "",
-      "publishedAt": "2026-05-21T07:10:20.000Z",
-      "publisher": "Bloomberg.com",
+      "publishedAt": "2026-05-21T11:11:39.000Z",
+      "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -219,17 +238,17 @@
       }
     },
     {
-      "id": "cbcb279fb22fec02120cd6b3c4f21e56fea72775",
-      "company": "OpenAI",
+      "id": "c424eaf676169133d0b9fea74777ac48e88b87c8",
+      "company": "Anthropic",
       "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOVJld3Z1STU2SmRKM21Ea215djhhOEs4c1pMQ2p6YWdSeFl2OWluUWdLcDByeTI2cE1sSTd1ZkY2cUtuXzZJSW1xdDlSd3BpTGZsXzlRME9kUVpkQzZneVFLLXFnMjA2dGVQU0wtaXZ2Q0l5Rm0tUTZRbDNHcC1oTTFyR1ZPTTczamFLWDBsaFpUMkZVeVJBVzExa2pnTm5mYVNn?oc=5",
-      "title": "OpenAI prevails in Musk's lawsuit, paving the way for IPO",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTHk4TFJnajZTRkRxb2pCV1hSSk5IREo5S1E0eWFkWEQydDhTWU9oeVY3NnFEYWZLWnhCeWlCNjdSeEV2amxkeDNIN3J1MVRueE1zR3AxSnYwUjJXRHliQzBFRVd1NDJqX2hTVDZpM29YUHRFNWpmRi1RbzdFdlBRUlJ3QzVGWW9aU2xsVmo3YTRkeVdkWGF3?oc=5",
+      "title": "Appeals court judges appear to be divided over Pentagon's legal dispute with AI company Anthropic",
       "summary": "",
-      "publishedAt": "2026-05-19T14:08:19.000Z",
-      "publisher": "Yahoo Finance",
+      "publishedAt": "2026-05-19T18:07:05.000Z",
+      "publisher": "AP News",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -238,21 +257,40 @@
       }
     },
     {
-      "id": "9c0ddb2d59a6955e6d0b9d71ceb662580c97c120",
-      "company": "Anthropic",
-      "sourceKind": "official",
-      "sourceId": "anthropic-news",
-      "sourceLabel": "Anthropic News",
-      "homepageUrl": "https://www.anthropic.com/news",
-      "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
-      "title": "Anthropic acquires Stainless",
+      "id": "2bc0ac68e18aed810dbbaf765f1ac1d223fe9325",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOX1JGS21oLXl0SGFkV0ZWRDBmWVltQzZwdmhTb0JnaVNyeVM4SzgzdjRTMFNEX1lBZVRtakFBOXV0SkVQSzQ0VlVLS1RWSExjZ0UtVjhUOGpwUkJ5UFFnVllDNTBsakNrbmpqWXVpTjZyMm5yX0dnMVIxZEs1VGhtTDYwb3BXWjdaOFZIVGY2a1FCODhJT3FZ?oc=5",
+      "title": "OpenAI avoided a costly court loss to Elon Musk, but neither side is unscathed",
       "summary": "",
-      "publishedAt": "2026-05-18T00:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "anchor",
+      "publishedAt": "2026-05-19T10:35:00.000Z",
+      "publisher": "AP News",
+      "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 5,
+        "score": 6,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "b64f4be06b6b048a0bca7bace98838086b0b3348",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWEFVUkYzVHp0LTJWSW13Yk1fMzY2clk4dld1aldIZEcxejFJMXdfbU5zSHZ3Tnk0VlFvUEVuRTNOUW5HSkplX3RlTXg2MkYtMF85bnQyR2lFZVF4Z3RhMXVtWHJ5SVhBY2RydEYwaFIxUzhaYlplRG5tWUNNRTQ2UXJkRDdkdTdLMVMzYkdtQ24xR19relo1R3l5SFZFdw?oc=5",
+      "title": "Musk's failed court attack on OpenAI could leave lasting scars on Altman's reputation",
+      "summary": "",
+      "publishedAt": "2026-05-19T10:03:51.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
         "reason": "Corporate move or major external event"
       }
     },
@@ -276,22 +314,22 @@
       }
     },
     {
-      "id": "ad9b8f7a40b995786d2bff1809497239c0744ffe",
+      "id": "73043048671d6ad037e1c7f88043dfeafb1cb470",
       "company": "Anthropic",
       "sourceKind": "external",
       "sourceId": "external-anthropic-major",
       "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPejJlMUVtekdGcEtUMVhxMzF1Q2ttMmV4UFE1TWZ2dFJJVlBYVFh3NmpwMWV5RktWWGdTU2ZtNnJKSjRKWDFiT1ZweVBsVnhXbEU0WFN1ckRmQTRMRmlwY2k2WXRUUXpvSkRzeGpSS0t0YjlTUV9ybG5IcjQtenczUmdSZ25Sc2RUUklURmtLQllJdDdwV1hvc1AtSngyc1V5TzBfQ1dqdmM?oc=5",
-      "title": "Cyera Extends AI Security to Anthropic's Claude Enterprise",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYVF2TGQ3ZFh4NGttVWtTTXhQeERoRnlmcENNT1ZLcjhmNnVwam81MHNxVVRkemRsVFBaWXFVSnJuNXhrZkxSSmxvZkllckJvdHRQTENuSzFvNFJhMGExNzdnMmxEb3FYYXRaS2lJRWFXVGxXU0lwMEJiQllYSFgxQ0FfRDNjU2taWGtBWXhIQXY?oc=5",
+      "title": "Pope Leo will take on AI alongside an Anthropic co-founder",
       "summary": "",
-      "publishedAt": "2026-05-21T17:00:00.000Z",
-      "publisher": "Yahoo Finance",
+      "publishedAt": "2026-05-24T12:00:41.000Z",
+      "publisher": "NBC News",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
         "score": 4,
-        "reason": "Safety, security, or policy update"
+        "reason": "Trusted external coverage"
       }
     },
     {
@@ -428,25 +466,6 @@
       }
     },
     {
-      "id": "aa108b028fc62041f200e2f7b05d464a3675e02a",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSzV5UG56ZEZmTkJ3UVF4aTEtRjBFbkl2RW9wRmRHZ3pDcWxPWm5yUW5xcm5ma2xTSGMzb1ZNcnN6cmNNMGo5MVR3dno3bGxZUld5czNjZzhtRWdFajFEUFdNYWp5N3RheldJYW9jNnFoQVZWVEVHbW5FS1BzajNBamo2VUlwM0tN?oc=5",
-      "title": "EPA Water Chief Pledges Review as Rural Georgia Faces Brown Water Near Meta Data Center",
-      "summary": "",
-      "publishedAt": "2026-05-21T15:12:49.000Z",
-      "publisher": "Yahoo",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
       "id": "5086b9cf1371f1dfd973e0f71e6ca15a077a099a",
       "company": "Meta",
       "sourceKind": "external",
@@ -458,44 +477,6 @@
       "summary": "",
       "publishedAt": "2026-05-21T10:59:32.000Z",
       "publisher": "Yahoo",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "3974a68fcbee6b6028cb095d7237036048f85f1c",
-      "company": "Google",
-      "sourceKind": "external",
-      "sourceId": "external-google-major",
-      "sourceLabel": "Major External News - Google",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOX2lPb0JoR1lpbXJ5M3U3ZXFDVkRVY0dOamc1VEFVUmdyS19fVHRiaWViSDdGUGZtaTBWNkxwYkZuZmNCWXlXLVY0M05XU3NLS2VvUGwxNVBZcmJZYTJ3UGp0WjdRT1JZNWxjWTJMRjdkQnhlNlk1TjkzUGRFWVcxU3J0Ym1FTFNBdHhuMGwxWTNVaXRUTjkydUNmUWg5R09ZUHpUaTl3UHZuUjZYNnlaTlNTOXdzNXNxLTZEMXVBU3ZGVGE2WkFmR2tMd18?oc=5",
-      "title": "Google DeepMind hires staff from Contextual AI in licensing deal, source says",
-      "summary": "",
-      "publishedAt": "2026-05-19T23:24:25.000Z",
-      "publisher": "Reuters",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "d83cc2ed1d69d7ce14c6c3dce746cbe90a6fa5c1",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU3BINHB0aVZtRWhrUDZnRTFqWkdudUtrbTA3Vlc4RWpuTElrVjZfYS0wNEF6Q2JhM3BGRXJPVzhkckxjbDRtYjZIZVVFX3psZjNrN2lZV2IxelY4YXdyUU9SXzZqMUlkdUZ5OGk0RHFEWEx0dHpVZVpwN2JhdHJxajdDZm1xeFBjWGlndU5NajdycmJuc29rTXU5Nl9YYUhrbVhkQlB6TVN2anFtSjMwUzRYVTduZzNSWkRjYWhhbUZSWUl0SFE?oc=5",
-      "title": "Meta Bets $200 Billion It Can Show Massive AI Data Center Will Pay Off",
-      "summary": "",
-      "publishedAt": "2026-05-19T11:02:00.000Z",
-      "publisher": "Bloomberg.com",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -537,23 +518,61 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "digest",
-        "score": 2,
+        "score": 1,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "4ce39150a4dcc4b87dd2b9ddd690794935837766",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/virgin-atlantic",
+      "title": "How Virgin Atlantic ships faster with Codex",
+      "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
+      "publishedAt": "2026-05-22T00:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 1,
         "reason": "Routine official update"
       }
     }
   ],
   "newItems": [
     {
-      "id": "62a5241b225bcb02db846267758a4b2d081d3fab",
-      "company": "OpenAI",
+      "id": "45c4fa0cc1e7384b5101dc14be5dfea4aca9a339",
+      "company": "Meta",
       "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeC05N0dBN0N6bmNzYzF3UXh1blBxcEJvbkNMTGF1N2ZOZEdOd0lQUkRwUFJOTV9xMGVvRENzVGxYWVN6am9vbTJnZDN5RWZnR1UyRzQ0WFI2b01tZ2VoYmR4cmxvUDUyM2ZOanIzN3VtMlhjdlNmN1VwWkVIcXZpbmZ4ZlgyYzBPaVJGc2t1TktZN1hrUUQ4c3FnRzNQbi1xSEVBR2w2Q3lPdw?oc=5",
-      "title": "Microsoft Settlement And OpenAI Shift Reframe Growth And Valuation Story",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZFNVcGlkUU5HX25UbzZDU1ZjbjJfXzBOZ01oMi1BR2dnenVadGpiWEtQdVFBZ2lGd0ZDWXNqaF9YdjViOGt6Q2YwX2pORFRFYlBRTkQ3QXd6c2h3YUkyV0JRLVRHSEFwU29OZkYtS1llUXV5RFRNeXZwWk9kd1BJMDMwZy01VU42ZGxHRHkwajlVZnlUN1E?oc=5",
+      "title": "AOC Demands EPA Probe After Residents Near Meta Data Center In Georgia Complain Of Murky Drinking Water: Cannot 'Take For Granted'",
       "summary": "",
-      "publishedAt": "2026-05-24T14:12:28.000Z",
+      "publishedAt": "2026-05-24T16:31:37.000Z",
+      "publisher": "Yahoo",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "377028c75db46ce490c6dcecf41ef1451fe89fb2",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONnphd3h5Yk43cTY4ZWlQNnpVOXlJV3FiZ3hkOG84dGFsbjF4UGNhVm5WMzFIY0pxUmNDbWRlQkhaQTlTcXdhbUk4Uld1a1FsZmszNm9fdmZPajQtclptZTktS1VGRWpuOUpBRldWOFhpX251VVJhSjVySFR3UnJCZkhTWGN1ZGthMHQ4SldBLUFuRjVE?oc=5",
+      "title": "AOC holds up jar of brown water at EPA hearing, says Meta's Georgia data center is destroying local drinking supply",
+      "summary": "",
+      "publishedAt": "2026-05-24T15:15:00.000Z",
       "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
@@ -563,40 +582,97 @@
       }
     },
     {
-      "id": "9bf3291fa719861f1c04ed2dd3d6fdbe84317686",
-      "company": "Meta",
+      "id": "c424eaf676169133d0b9fea74777ac48e88b87c8",
+      "company": "Anthropic",
       "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPN2JKUE1zNnlZd2ZyWFI3QVktMjhpMl8tblA2T2NoSlBDTXl5WmYzMFp5cmd3eTFpZ0IxR3BiTkdhM19FYkVWTWMwOWkxT3BvcU5tSGwzSDVfbmlYVUNfWFpKMDItUmlpVWJ2OTRkT3lWVk1CYU02a2RrbU1mbDhRdGZLeWcwZXBSR09sZzlibklFVGRISlJBOVE3T3hVamdSb0E?oc=5",
-      "title": "Meta, Broadcom And Others Launch $125 Million UCLA AI Chip Hub",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTHk4TFJnajZTRkRxb2pCV1hSSk5IREo5S1E0eWFkWEQydDhTWU9oeVY3NnFEYWZLWnhCeWlCNjdSeEV2amxkeDNIN3J1MVRueE1zR3AxSnYwUjJXRHliQzBFRVd1NDJqX2hTVDZpM29YUHRFNWpmRi1RbzdFdlBRUlJ3QzVGWW9aU2xsVmo3YTRkeVdkWGF3?oc=5",
+      "title": "Appeals court judges appear to be divided over Pentagon's legal dispute with AI company Anthropic",
       "summary": "",
-      "publishedAt": "2026-05-24T00:31:00.000Z",
+      "publishedAt": "2026-05-19T18:07:05.000Z",
+      "publisher": "AP News",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "2bc0ac68e18aed810dbbaf765f1ac1d223fe9325",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOX1JGS21oLXl0SGFkV0ZWRDBmWVltQzZwdmhTb0JnaVNyeVM4SzgzdjRTMFNEX1lBZVRtakFBOXV0SkVQSzQ0VlVLS1RWSExjZ0UtVjhUOGpwUkJ5UFFnVllDNTBsakNrbmpqWXVpTjZyMm5yX0dnMVIxZEs1VGhtTDYwb3BXWjdaOFZIVGY2a1FCODhJT3FZ?oc=5",
+      "title": "OpenAI avoided a costly court loss to Elon Musk, but neither side is unscathed",
+      "summary": "",
+      "publishedAt": "2026-05-19T10:35:00.000Z",
+      "publisher": "AP News",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "b64f4be06b6b048a0bca7bace98838086b0b3348",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWEFVUkYzVHp0LTJWSW13Yk1fMzY2clk4dld1aldIZEcxejFJMXdfbU5zSHZ3Tnk0VlFvUEVuRTNOUW5HSkplX3RlTXg2MkYtMF85bnQyR2lFZVF4Z3RhMXVtWHJ5SVhBY2RydEYwaFIxUzhaYlplRG5tWUNNRTQ2UXJkRDdkdTdLMVMzYkdtQ24xR19relo1R3l5SFZFdw?oc=5",
+      "title": "Musk's failed court attack on OpenAI could leave lasting scars on Altman's reputation",
+      "summary": "",
+      "publishedAt": "2026-05-19T10:03:51.000Z",
       "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
         "score": 6,
-        "reason": "Flagship model or product launch"
+        "reason": "Corporate move or major external event"
       }
     },
     {
-      "id": "4f4b568871d2d6579ee39873ba5cdd865b6dac65",
-      "company": "Google",
+      "id": "73043048671d6ad037e1c7f88043dfeafb1cb470",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYVF2TGQ3ZFh4NGttVWtTTXhQeERoRnlmcENNT1ZLcjhmNnVwam81MHNxVVRkemRsVFBaWXFVSnJuNXhrZkxSSmxvZkllckJvdHRQTENuSzFvNFJhMGExNzdnMmxEb3FYYXRaS2lJRWFXVGxXU0lwMEJiQllYSFgxQ0FfRDNjU2taWGtBWXhIQXY?oc=5",
+      "title": "Pope Leo will take on AI alongside an Anthropic co-founder",
+      "summary": "",
+      "publishedAt": "2026-05-24T12:00:41.000Z",
+      "publisher": "NBC News",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "4ce39150a4dcc4b87dd2b9ddd690794935837766",
+      "company": "OpenAI",
       "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap",
-      "title": "Catch up on the Dialogues stage at Google I/O 2026.",
-      "summary": "A recap of the 2026 I/O Dialogues, where leaders discuss the future of AI, quantum computing, robotics and creativity.",
-      "publishedAt": "2026-05-22T18:00:00.000Z",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/virgin-atlantic",
+      "title": "How Virgin Atlantic ships faster with Codex",
+      "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
+      "publishedAt": "2026-05-22T00:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "digest",
-        "score": 2,
+        "score": 1,
         "reason": "Routine official update"
       }
     }
