@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-25T15:13:37.675Z",
+  "generatedAt": "2026-05-26T15:16:14.093Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -76,12 +76,12 @@
     }
   ],
   "totals": {
-    "fetched": 43,
+    "fetched": 36,
     "deduped": 24,
-    "new": 7,
+    "new": 9,
     "byKind": {
-      "official": 10,
-      "external": 14
+      "official": 16,
+      "external": 8
     }
   },
   "items": [
@@ -119,7 +119,7 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 7,
+        "score": 6,
         "reason": "Corporate move or major external event"
       }
     },
@@ -138,27 +138,8 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "9bf3291fa719861f1c04ed2dd3d6fdbe84317686",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPN2JKUE1zNnlZd2ZyWFI3QVktMjhpMl8tblA2T2NoSlBDTXl5WmYzMFp5cmd3eTFpZ0IxR3BiTkdhM19FYkVWTWMwOWkxT3BvcU5tSGwzSDVfbmlYVUNfWFpKMDItUmlpVWJ2OTRkT3lWVk1CYU02a2RrbU1mbDhRdGZLeWcwZXBSR09sZzlibklFVGRISlJBOVE3T3hVamdSb0E?oc=5",
-      "title": "Meta, Broadcom And Others Launch $125 Million UCLA AI Chip Hub",
-      "summary": "",
-      "publishedAt": "2026-05-24T00:31:00.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
         "score": 6,
-        "reason": "Flagship model or product launch"
+        "reason": "Corporate move or major external event"
       }
     },
     {
@@ -181,35 +162,16 @@
       }
     },
     {
-      "id": "6280846c047aa2a9259949f8bab44d439ca2d9be",
-      "company": "Microsoft",
+      "id": "14d480bd607e49fda18c3348fd15223cac74455b",
+      "company": "Google",
       "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
+      "sourceId": "external-google-major",
+      "sourceLabel": "Major External News - Google",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBOZW94UC1ldWpHLTQ1UXFUQzdkbEVFRTk2cVNQV3RLNlplWHRRLTRRRllUZndWOE9kbXdHTWJacl9DSEJla2psZTBxNmFtMmFGeVhKcldYVDBJbzBaMUE2MWVpNlkyclRtSmozOGowOHhoMm0tblVtYkswSDJ4UdIBgwFBVV95cUxPUXpFQk9PWVBtWE8xeW9SZUNBS1JJc25GOG05RmEtUExRTjhWRS1XYXdYMDZHRDhZOERUREZHYXlLVVpNQXplTHRIcEVmX05IWTNlUGZRcThQYlc2bjhBSzlUNk1QdnV2V1dvdTZmdExoV1UwWFhxWjBUM3NadDA5YmQzMA?oc=5",
-      "title": "Anthropic, Microsoft in talks for AI chip deal after $5 billion investment",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeFJpWDcyc2pYWl9oZFBGRkxyZGZBandhVEl0d2Y1RXFndEYwUHhKNDl2QkZhVjhaZldxNkpHWnBXOVV0Y2pOdlBpY0xtWkxpbHJfUEpMQU1VcXBwQzZneEVHNmFWWWN0M3dlcTkzOUFwSVBPQjMwWU9UZWs2dFpORUFFZFBoUWtsUDdmUDZqVEM5QURxSkVhLXZIS2thZWppem51UQ?oc=5",
+      "title": "Alphabet Inc. (GOOGL) Expands Gemini Enterprise Agent Marketplace with Amdocs Partnership",
       "summary": "",
-      "publishedAt": "2026-05-21T18:02:33.000Z",
-      "publisher": "CNBC",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "b27d64caaa09352502dd010e6bf9e10c9ed481ce",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOM3BvWDhpb2FWZ0NkVTFrQXlnUHc3X2pZYkRMb0NKQnlSTDlqbDJxUzBIay05NFYxcFJ2Tkx4ZGd3WEZlYmFaZHhNdlhKWk1Sb0ZHdm11THVROEZQaTEzclJHWmpUYzRXZVhISWRYSTh5ZnFmcVNSSEgwM3l0c2Nydi1UUTZraTY0ZFd1WDZkUEhrTGJPTVNKSzdOTTVOQ0F1X2VzZTZ6MDB2YTQyRnpEVnh2bTU0WEJNNnpZ?oc=5",
-      "title": "Microsoft And OneStream Partnership Highlights Growing AI Role In Finance",
-      "summary": "",
-      "publishedAt": "2026-05-21T11:11:39.000Z",
+      "publishedAt": "2026-05-21T08:41:43.000Z",
       "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
@@ -219,17 +181,36 @@
       }
     },
     {
-      "id": "d646f59b9303ed0263b9d5d333026db8e47a0e13",
+      "id": "444e50da236ad565e37f583f383bf5a46ef7ba32",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObXNuQ2V6WndSRFJ5QURnaUpudHRZYUREU0VTU1BPeTVPdEo2NVdZcHRyUXhjX3pVOXl6Z1MxQTlWa3Q4bDZhSXhqMm9vaVd6N1l1bWV0RlBiSGZta3JhcS1QS0JKWkVHMnlZVlQxanJxVF84SzluVE9Fdy1FenZ5TUJjVDBQQ01ZUklJcGx0b1FFQjJDTEVEeWZQVmxVTFFUNkxHaGxLZGhvbGlMNmVPcTFjbkVHM241WFBBMF8wTFlYMVJUa0E?oc=5",
+      "title": "Musk's failed court attack on OpenAI could leave lasting scars on Altman's reputation",
+      "summary": "",
+      "publishedAt": "2026-05-19T19:55:59.000Z",
+      "publisher": "Reuters",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "2958e44acb3bbf9966c36cddf894c809a05a1d02",
       "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOVhMcVpRSDlwb01jaXROdktuTGdFSGRfcEc3dzhXX1hDMUFUQjBmNkcwakw4ZFhiQzdHXy04aGxKMzZyaTl0YnFMdmV4cGlmX0NYMENhQU41aFdPVmk1bVRDMWphZUItZE1IWTQ1OGZ5c3FtNHBFRlhZbzVaNmtuNjVHblhrOHlGZ0pBMG5INkdGQlpFbTdRdXc3dXdlQzhlNXBMQmdkbDNBdw?oc=5",
-      "title": "Wedbush Views Microsoft (MSFT)’s Restructured OpenAI Partnership As Net Positive Rather Than Strategic Failure",
-      "summary": "",
-      "publishedAt": "2026-05-20T17:07:54.000Z",
-      "publisher": "Yahoo Finance",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
+      "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
+      "summary": "OpenAI partners with Grupo Folha and Grupo UOL to bring trusted Brazilian journalism to ChatGPT, expanding access to news with attribution and transparency.",
+      "publishedAt": "2026-05-25T00:00:00.000Z",
+      "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -238,60 +219,41 @@
       }
     },
     {
-      "id": "c424eaf676169133d0b9fea74777ac48e88b87c8",
+      "id": "7d78c0629c60d0b8a503bc69f8a810dbf5cb297d",
       "company": "Anthropic",
       "sourceKind": "external",
       "sourceId": "external-anthropic-major",
       "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTHk4TFJnajZTRkRxb2pCV1hSSk5IREo5S1E0eWFkWEQydDhTWU9oeVY3NnFEYWZLWnhCeWlCNjdSeEV2amxkeDNIN3J1MVRueE1zR3AxSnYwUjJXRHliQzBFRVd1NDJqX2hTVDZpM29YUHRFNWpmRi1RbzdFdlBRUlJ3QzVGWW9aU2xsVmo3YTRkeVdkWGF3?oc=5",
-      "title": "Appeals court judges appear to be divided over Pentagon's legal dispute with AI company Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNLTdNUXNNTG9TWVp5Q1E3aTNCUUdwUzhIRDAtbGRTdXNxZzgwR2lsaHdhcktpZVI1cTNraG9ZVGlfdXI4V0lvQTFheUt0bk12Vy04VU5tRzdhcFIxUEdiMVZXaXNkbUZRRVFyRk9EeW5pX0V1WVlfa25nVkJqaUpLLUJIdFdMNlBTaFZUUmYycw?oc=5",
+      "title": "Wiz brings Claude compliance into the cloud security stack",
       "summary": "",
-      "publishedAt": "2026-05-19T18:07:05.000Z",
-      "publisher": "AP News",
+      "publishedAt": "2026-05-26T05:26:30.000Z",
+      "publisher": "Startup Fortune",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
+        "score": 5,
+        "reason": "Safety, security, or policy update"
       }
     },
     {
-      "id": "2bc0ac68e18aed810dbbaf765f1ac1d223fe9325",
-      "company": "OpenAI",
+      "id": "9bf3291fa719861f1c04ed2dd3d6fdbe84317686",
+      "company": "Meta",
       "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOX1JGS21oLXl0SGFkV0ZWRDBmWVltQzZwdmhTb0JnaVNyeVM4SzgzdjRTMFNEX1lBZVRtakFBOXV0SkVQSzQ0VlVLS1RWSExjZ0UtVjhUOGpwUkJ5UFFnVllDNTBsakNrbmpqWXVpTjZyMm5yX0dnMVIxZEs1VGhtTDYwb3BXWjdaOFZIVGY2a1FCODhJT3FZ?oc=5",
-      "title": "OpenAI avoided a costly court loss to Elon Musk, but neither side is unscathed",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPN2JKUE1zNnlZd2ZyWFI3QVktMjhpMl8tblA2T2NoSlBDTXl5WmYzMFp5cmd3eTFpZ0IxR3BiTkdhM19FYkVWTWMwOWkxT3BvcU5tSGwzSDVfbmlYVUNfWFpKMDItUmlpVWJ2OTRkT3lWVk1CYU02a2RrbU1mbDhRdGZLeWcwZXBSR09sZzlibklFVGRISlJBOVE3T3hVamdSb0E?oc=5",
+      "title": "Meta, Broadcom And Others Launch $125 Million UCLA AI Chip Hub",
       "summary": "",
-      "publishedAt": "2026-05-19T10:35:00.000Z",
-      "publisher": "AP News",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "b64f4be06b6b048a0bca7bace98838086b0b3348",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWEFVUkYzVHp0LTJWSW13Yk1fMzY2clk4dld1aldIZEcxejFJMXdfbU5zSHZ3Tnk0VlFvUEVuRTNOUW5HSkplX3RlTXg2MkYtMF85bnQyR2lFZVF4Z3RhMXVtWHJ5SVhBY2RydEYwaFIxUzhaYlplRG5tWUNNRTQ2UXJkRDdkdTdLMVMzYkdtQ24xR19relo1R3l5SFZFdw?oc=5",
-      "title": "Musk's failed court attack on OpenAI could leave lasting scars on Altman's reputation",
-      "summary": "",
-      "publishedAt": "2026-05-19T10:03:51.000Z",
+      "publishedAt": "2026-05-24T00:31:00.000Z",
       "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
+        "score": 5,
+        "reason": "Flagship model or product launch"
       }
     },
     {
@@ -314,25 +276,6 @@
       }
     },
     {
-      "id": "73043048671d6ad037e1c7f88043dfeafb1cb470",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYVF2TGQ3ZFh4NGttVWtTTXhQeERoRnlmcENNT1ZLcjhmNnVwam81MHNxVVRkemRsVFBaWXFVSnJuNXhrZkxSSmxvZkllckJvdHRQTENuSzFvNFJhMGExNzdnMmxEb3FYYXRaS2lJRWFXVGxXU0lwMEJiQllYSFgxQ0FfRDNjU2taWGtBWXhIQXY?oc=5",
-      "title": "Pope Leo will take on AI alongside an Anthropic co-founder",
-      "summary": "",
-      "publishedAt": "2026-05-24T12:00:41.000Z",
-      "publisher": "NBC News",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
       "id": "cf1eadd4fa1264cb2554e1b049026d49939412cc",
       "company": "Microsoft",
       "sourceKind": "official",
@@ -343,25 +286,6 @@
       "title": "EY and Microsoft announce global initiative to help clients scale AI enterprisewide value creation and move beyond experimentation",
       "summary": "EY and Microsoft announce global initiative to help clients scale AI enterprisewide value creation and move beyond experimentation",
       "publishedAt": "2026-05-21T11:00:07.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "e60b5229c9cfbc331c2f3da10462c64de001f646",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements",
-      "title": "100 things we announced at I/O 2026",
-      "summary": "This year at Google I/O 2026, we announced Gemini Omni, Google Antigravity, Universal Cart and so much more. Here are the highlights.",
-      "publishedAt": "2026-05-20T19:30:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -447,44 +371,6 @@
       }
     },
     {
-      "id": "c5fd8731a189fbc6f7169dfe6994b104fc73cc50",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNGYxbmZUWWZxeHZrc1FOU3FOS3lyakxqNUd5N2hnRG1CTHphSXRVZzBxSTdiMFVRYzFsN3h0S3JqaGFnVFFMSEthX3Y0Z3FlWXlCNHlENDdWT1lDcEp1ZWFuUkNFd3FERkxPTUdiNEppSmFyOWFBNWZTM05lS2VQM0tHYmIxR2s3RU1oODFSQ1dKek90ZmZyQmdVbnNMcW8?oc=5",
-      "title": "OpenAI Generated Nearly $6 Billion in Revenue in First Quarter, Boosted by Codex",
-      "summary": "",
-      "publishedAt": "2026-05-21T18:26:00.000Z",
-      "publisher": "The Information",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "5086b9cf1371f1dfd973e0f71e6ca15a077a099a",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQci15UF96SzROVHhzVEMtT0swb3FnUnNyb1JRRjZ6cU84bllUZlNENXY0OGRLQmpCeU1EZW0tNzhWUWc0YVQwa2RhOURmTnY4ZlJHSk1jc2pUX245RUs2QW14RTNzSEZfRWVReXFxeVpWRW9zaURVZ2N2bWhfamFJdVRQUGRyWWRNbktDOUQxbHcyUQ?oc=5",
-      "title": "Louisiana senator helped secure Meta's largest data center. Then he sold the land beside it.",
-      "summary": "",
-      "publishedAt": "2026-05-21T10:59:32.000Z",
-      "publisher": "Yahoo",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
       "id": "3a0b4572422c1a8cbc95ae7fb7158fc8dc49f9d0",
       "company": "Anthropic",
       "sourceKind": "official",
@@ -501,6 +387,44 @@
         "bucket": "important",
         "score": 3,
         "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "410d670232c653276a1563bcb66c295f2258c248",
+      "company": "Microsoft",
+      "sourceKind": "official",
+      "sourceId": "microsoft-ai",
+      "sourceLabel": "Microsoft AI",
+      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
+      "url": "https://news.microsoft.com/source/asia/2026/05/26/india-and-ais-inflection-point",
+      "title": "EVP Jay Parikh on India and AI’s inflection point",
+      "summary": "EVP Jay Parikh on India and AI’s inflection point",
+      "publishedAt": "2026-05-26T12:58:57.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "aaee48ad131bf7f1daa81cdd95ef4ad3ec7ec273",
+      "company": "Anthropic",
+      "sourceKind": "official",
+      "sourceId": "anthropic-news",
+      "sourceLabel": "Anthropic News",
+      "homepageUrl": "https://www.anthropic.com/news",
+      "url": "https://www.anthropic.com/news/chris-olah-pope-leo-encyclical",
+      "title": "Anthropic co-founder Chris Olah&#x27;s remarks on Pope Leo XIV&#x27;s encyclical \"Magnifica humanitas\"",
+      "summary": "",
+      "publishedAt": "2026-05-25T00:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "anchor",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
       }
     },
     {
@@ -540,134 +464,248 @@
         "score": 1,
         "reason": "Routine official update"
       }
-    }
-  ],
-  "newItems": [
-    {
-      "id": "45c4fa0cc1e7384b5101dc14be5dfea4aca9a339",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZFNVcGlkUU5HX25UbzZDU1ZjbjJfXzBOZ01oMi1BR2dnenVadGpiWEtQdVFBZ2lGd0ZDWXNqaF9YdjViOGt6Q2YwX2pORFRFYlBRTkQ3QXd6c2h3YUkyV0JRLVRHSEFwU29OZkYtS1llUXV5RFRNeXZwWk9kd1BJMDMwZy01VU42ZGxHRHkwajlVZnlUN1E?oc=5",
-      "title": "AOC Demands EPA Probe After Residents Near Meta Data Center In Georgia Complain Of Murky Drinking Water: Cannot 'Take For Granted'",
-      "summary": "",
-      "publishedAt": "2026-05-24T16:31:37.000Z",
-      "publisher": "Yahoo",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
     },
     {
-      "id": "377028c75db46ce490c6dcecf41ef1451fe89fb2",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONnphd3h5Yk43cTY4ZWlQNnpVOXlJV3FiZ3hkOG84dGFsbjF4UGNhVm5WMzFIY0pxUmNDbWRlQkhaQTlTcXdhbUk4Uld1a1FsZmszNm9fdmZPajQtclptZTktS1VGRWpuOUpBRldWOFhpX251VVJhSjVySFR3UnJCZkhTWGN1ZGthMHQ4SldBLUFuRjVE?oc=5",
-      "title": "AOC holds up jar of brown water at EPA hearing, says Meta's Georgia data center is destroying local drinking supply",
-      "summary": "",
-      "publishedAt": "2026-05-24T15:15:00.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "c424eaf676169133d0b9fea74777ac48e88b87c8",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTHk4TFJnajZTRkRxb2pCV1hSSk5IREo5S1E0eWFkWEQydDhTWU9oeVY3NnFEYWZLWnhCeWlCNjdSeEV2amxkeDNIN3J1MVRueE1zR3AxSnYwUjJXRHliQzBFRVd1NDJqX2hTVDZpM29YUHRFNWpmRi1RbzdFdlBRUlJ3QzVGWW9aU2xsVmo3YTRkeVdkWGF3?oc=5",
-      "title": "Appeals court judges appear to be divided over Pentagon's legal dispute with AI company Anthropic",
-      "summary": "",
-      "publishedAt": "2026-05-19T18:07:05.000Z",
-      "publisher": "AP News",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "2bc0ac68e18aed810dbbaf765f1ac1d223fe9325",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOX1JGS21oLXl0SGFkV0ZWRDBmWVltQzZwdmhTb0JnaVNyeVM4SzgzdjRTMFNEX1lBZVRtakFBOXV0SkVQSzQ0VlVLS1RWSExjZ0UtVjhUOGpwUkJ5UFFnVllDNTBsakNrbmpqWXVpTjZyMm5yX0dnMVIxZEs1VGhtTDYwb3BXWjdaOFZIVGY2a1FCODhJT3FZ?oc=5",
-      "title": "OpenAI avoided a costly court loss to Elon Musk, but neither side is unscathed",
-      "summary": "",
-      "publishedAt": "2026-05-19T10:35:00.000Z",
-      "publisher": "AP News",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "b64f4be06b6b048a0bca7bace98838086b0b3348",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWEFVUkYzVHp0LTJWSW13Yk1fMzY2clk4dld1aldIZEcxejFJMXdfbU5zSHZ3Tnk0VlFvUEVuRTNOUW5HSkplX3RlTXg2MkYtMF85bnQyR2lFZVF4Z3RhMXVtWHJ5SVhBY2RydEYwaFIxUzhaYlplRG5tWUNNRTQ2UXJkRDdkdTdLMVMzYkdtQ24xR19relo1R3l5SFZFdw?oc=5",
-      "title": "Musk's failed court attack on OpenAI could leave lasting scars on Altman's reputation",
-      "summary": "",
-      "publishedAt": "2026-05-19T10:03:51.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "73043048671d6ad037e1c7f88043dfeafb1cb470",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYVF2TGQ3ZFh4NGttVWtTTXhQeERoRnlmcENNT1ZLcjhmNnVwam81MHNxVVRkemRsVFBaWXFVSnJuNXhrZkxSSmxvZkllckJvdHRQTENuSzFvNFJhMGExNzdnMmxEb3FYYXRaS2lJRWFXVGxXU0lwMEJiQllYSFgxQ0FfRDNjU2taWGtBWXhIQXY?oc=5",
-      "title": "Pope Leo will take on AI alongside an Anthropic co-founder",
-      "summary": "",
-      "publishedAt": "2026-05-24T12:00:41.000Z",
-      "publisher": "NBC News",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "4ce39150a4dcc4b87dd2b9ddd690794935837766",
+      "id": "ef1db9edff97d09f04e4f9d3a8af8eb897715e1e",
       "company": "OpenAI",
       "sourceKind": "official",
       "sourceId": "openai-newsroom",
       "sourceLabel": "OpenAI Newsroom",
       "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/virgin-atlantic",
-      "title": "How Virgin Atlantic ships faster with Codex",
-      "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
+      "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+      "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
+      "summary": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
       "publishedAt": "2026-05-22T00:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 1,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "85a3fdb43c804c3bf0ce64e51ee68240dd6aca7c",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/adventhealth",
+      "title": "AdventHealth advances whole-person care with OpenAI",
+      "summary": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care.",
+      "publishedAt": "2026-05-21T12:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 1,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "9f93c7d7935756acc27c2242aeb5a97ba69cb2b1",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/running-guide-agent",
+      "title": "Running Guide agent: A step towards running unbounded",
+      "summary": "Running Guide agent is an AI agent that provides real-time audio navigation and obstacle detection to help BLV athletes run independently.",
+      "publishedAt": "2026-05-20T00:01:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 1,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "7f625f66633806e06a2fdd63667d912b6933e6a6",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
+      "publishedAt": "2026-05-20T00:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 1,
+        "reason": "Routine official update"
+      }
+    }
+  ],
+  "newItems": [
+    {
+      "id": "14d480bd607e49fda18c3348fd15223cac74455b",
+      "company": "Google",
+      "sourceKind": "external",
+      "sourceId": "external-google-major",
+      "sourceLabel": "Major External News - Google",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeFJpWDcyc2pYWl9oZFBGRkxyZGZBandhVEl0d2Y1RXFndEYwUHhKNDl2QkZhVjhaZldxNkpHWnBXOVV0Y2pOdlBpY0xtWkxpbHJfUEpMQU1VcXBwQzZneEVHNmFWWWN0M3dlcTkzOUFwSVBPQjMwWU9UZWs2dFpORUFFZFBoUWtsUDdmUDZqVEM5QURxSkVhLXZIS2thZWppem51UQ?oc=5",
+      "title": "Alphabet Inc. (GOOGL) Expands Gemini Enterprise Agent Marketplace with Amdocs Partnership",
+      "summary": "",
+      "publishedAt": "2026-05-21T08:41:43.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "2958e44acb3bbf9966c36cddf894c809a05a1d02",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
+      "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
+      "summary": "OpenAI partners with Grupo Folha and Grupo UOL to bring trusted Brazilian journalism to ChatGPT, expanding access to news with attribution and transparency.",
+      "publishedAt": "2026-05-25T00:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "7d78c0629c60d0b8a503bc69f8a810dbf5cb297d",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNLTdNUXNNTG9TWVp5Q1E3aTNCUUdwUzhIRDAtbGRTdXNxZzgwR2lsaHdhcktpZVI1cTNraG9ZVGlfdXI4V0lvQTFheUt0bk12Vy04VU5tRzdhcFIxUEdiMVZXaXNkbUZRRVFyRk9EeW5pX0V1WVlfa25nVkJqaUpLLUJIdFdMNlBTaFZUUmYycw?oc=5",
+      "title": "Wiz brings Claude compliance into the cloud security stack",
+      "summary": "",
+      "publishedAt": "2026-05-26T05:26:30.000Z",
+      "publisher": "Startup Fortune",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "410d670232c653276a1563bcb66c295f2258c248",
+      "company": "Microsoft",
+      "sourceKind": "official",
+      "sourceId": "microsoft-ai",
+      "sourceLabel": "Microsoft AI",
+      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
+      "url": "https://news.microsoft.com/source/asia/2026/05/26/india-and-ais-inflection-point",
+      "title": "EVP Jay Parikh on India and AI’s inflection point",
+      "summary": "EVP Jay Parikh on India and AI’s inflection point",
+      "publishedAt": "2026-05-26T12:58:57.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "aaee48ad131bf7f1daa81cdd95ef4ad3ec7ec273",
+      "company": "Anthropic",
+      "sourceKind": "official",
+      "sourceId": "anthropic-news",
+      "sourceLabel": "Anthropic News",
+      "homepageUrl": "https://www.anthropic.com/news",
+      "url": "https://www.anthropic.com/news/chris-olah-pope-leo-encyclical",
+      "title": "Anthropic co-founder Chris Olah&#x27;s remarks on Pope Leo XIV&#x27;s encyclical \"Magnifica humanitas\"",
+      "summary": "",
+      "publishedAt": "2026-05-25T00:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "anchor",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "ef1db9edff97d09f04e4f9d3a8af8eb897715e1e",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+      "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
+      "summary": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
+      "publishedAt": "2026-05-22T00:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 1,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "85a3fdb43c804c3bf0ce64e51ee68240dd6aca7c",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/adventhealth",
+      "title": "AdventHealth advances whole-person care with OpenAI",
+      "summary": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care.",
+      "publishedAt": "2026-05-21T12:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 1,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "9f93c7d7935756acc27c2242aeb5a97ba69cb2b1",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/running-guide-agent",
+      "title": "Running Guide agent: A step towards running unbounded",
+      "summary": "Running Guide agent is an AI agent that provides real-time audio navigation and obstacle detection to help BLV athletes run independently.",
+      "publishedAt": "2026-05-20T00:01:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 1,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "7f625f66633806e06a2fdd63667d912b6933e6a6",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
+      "publishedAt": "2026-05-20T00:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {

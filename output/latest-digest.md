@@ -1,65 +1,78 @@
 # AI Company Watch
 
-Generated: May 25, 2026, 8:13 AM PDT
+Generated: May 26, 2026, 8:16 AM PDT
 Lookback window: 7 day(s)
 Sources checked: 12
-Items fetched: 43
+Items fetched: 36
 Items kept: 24
-New items: 7
-External items kept: 14
-Official items kept: 10
+New items: 9
+External items kept: 8
+Official items kept: 16
 
 ## Critical External News
 
-### Meta - AOC Demands EPA Probe After Residents Near Meta Data Center In Georgia Complain Of Murky Drinking Water: Cannot 'Take For Granted'
-Source: Major External News - Meta
-Publisher: Yahoo
-Published: May 24, 2026
-Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMilgFBVV95cUxQZFNVcGlkUU5HX25UbzZDU1ZjbjJfXzBOZ01oMi1BR2dnenVadGpiWEtQdVFBZ2lGd0ZDWXNqaF9YdjViOGt6Q2YwX2pORFRFYlBRTkQ3QXd6c2h3YUkyV0JRLVRHSEFwU29OZkYtS1llUXV5RFRNeXZwWk9kd1BJMDMwZy01VU42ZGxHRHkwajlVZnlUN1E?oc=5
-
-### Meta - AOC holds up jar of brown water at EPA hearing, says Meta's Georgia data center is destroying local drinking supply
-Source: Major External News - Meta
+### Google - Alphabet Inc. (GOOGL) Expands Gemini Enterprise Agent Marketplace with Amdocs Partnership
+Source: Major External News - Google
 Publisher: Yahoo Finance
+Published: May 21, 2026
+Why it matters: Corporate move or major external event
+Link: https://news.google.com/rss/articles/CBMipAFBVV95cUxPeFJpWDcyc2pYWl9oZFBGRkxyZGZBandhVEl0d2Y1RXFndEYwUHhKNDl2QkZhVjhaZldxNkpHWnBXOVV0Y2pOdlBpY0xtWkxpbHJfUEpMQU1VcXBwQzZneEVHNmFWWWN0M3dlcTkzOUFwSVBPQjMwWU9UZWs2dFpORUFFZFBoUWtsUDdmUDZqVEM5QURxSkVhLXZIS2thZWppem51UQ?oc=5
+
+### Anthropic - Wiz brings Claude compliance into the cloud security stack
+Source: Major External News - Anthropic
+Publisher: Startup Fortune
+Published: May 25, 2026
+Why it matters: Safety, security, or policy update
+Link: https://news.google.com/rss/articles/CBMijwFBVV95cUxNLTdNUXNNTG9TWVp5Q1E3aTNCUUdwUzhIRDAtbGRTdXNxZzgwR2lsaHdhcktpZVI1cTNraG9ZVGlfdXI4V0lvQTFheUt0bk12Vy04VU5tRzdhcFIxUEdiMVZXaXNkbUZRRVFyRk9EeW5pX0V1WVlfa25nVkJqaUpLLUJIdFdMNlBTaFZUUmYycw?oc=5
+
+## Critical Official Updates
+
+### OpenAI - OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership
+Source: OpenAI Newsroom
 Published: May 24, 2026
 Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMilAFBVV95cUxONnphd3h5Yk43cTY4ZWlQNnpVOXlJV3FiZ3hkOG84dGFsbjF4UGNhVm5WMzFIY0pxUmNDbWRlQkhaQTlTcXdhbUk4Uld1a1FsZmszNm9fdmZPajQtclptZTktS1VGRWpuOUpBRldWOFhpX251VVJhSjVySFR3UnJCZkhTWGN1ZGthMHQ4SldBLUFuRjVE?oc=5
-
-### Anthropic - Appeals court judges appear to be divided over Pentagon's legal dispute with AI company Anthropic
-Source: Major External News - Anthropic
-Publisher: AP News
-Published: May 19, 2026
-Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMilwFBVV95cUxNTHk4TFJnajZTRkRxb2pCV1hSSk5IREo5S1E0eWFkWEQydDhTWU9oeVY3NnFEYWZLWnhCeWlCNjdSeEV2amxkeDNIN3J1MVRueE1zR3AxSnYwUjJXRHliQzBFRVd1NDJqX2hTVDZpM29YUHRFNWpmRi1RbzdFdlBRUlJ3QzVGWW9aU2xsVmo3YTRkeVdkWGF3?oc=5
-
-### OpenAI - OpenAI avoided a costly court loss to Elon Musk, but neither side is unscathed
-Source: Major External News - OpenAI
-Publisher: AP News
-Published: May 19, 2026
-Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMilwFBVV95cUxOX1JGS21oLXl0SGFkV0ZWRDBmWVltQzZwdmhTb0JnaVNyeVM4SzgzdjRTMFNEX1lBZVRtakFBOXV0SkVQSzQ0VlVLS1RWSExjZ0UtVjhUOGpwUkJ5UFFnVllDNTBsakNrbmpqWXVpTjZyMm5yX0dnMVIxZEs1VGhtTDYwb3BXWjdaOFZIVGY2a1FCODhJT3FZ?oc=5
-
-### OpenAI - Musk's failed court attack on OpenAI could leave lasting scars on Altman's reputation
-Source: Major External News - OpenAI
-Publisher: Yahoo Finance
-Published: May 19, 2026
-Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMingFBVV95cUxOWEFVUkYzVHp0LTJWSW13Yk1fMzY2clk4dld1aldIZEcxejFJMXdfbU5zSHZ3Tnk0VlFvUEVuRTNOUW5HSkplX3RlTXg2MkYtMF85bnQyR2lFZVF4Z3RhMXVtWHJ5SVhBY2RydEYwaFIxUzhaYlplRG5tWUNNRTQ2UXJkRDdkdTdLMVMzYkdtQ24xR19relo1R3l5SFZFdw?oc=5
-
-## Important External News
-
-### Anthropic - Pope Leo will take on AI alongside an Anthropic co-founder
-Source: Major External News - Anthropic
-Publisher: NBC News
-Published: May 24, 2026
-Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMikAFBVV95cUxOYVF2TGQ3ZFh4NGttVWtTTXhQeERoRnlmcENNT1ZLcjhmNnVwam81MHNxVVRkemRsVFBaWXFVSnJuNXhrZkxSSmxvZkllckJvdHRQTENuSzFvNFJhMGExNzdnMmxEb3FYYXRaS2lJRWFXVGxXU0lwMEJiQllYSFgxQ0FfRDNjU2taWGtBWXhIQXY?oc=5
+Summary: OpenAI partners with Grupo Folha and Grupo UOL to bring trusted Brazilian journalism to ChatGPT, expanding access to news with attribution and transparency.
+Link: https://openai.com/index/grupo-folha-grupo-uol-partnership
 
 ## Official Company Updates
 
-### OpenAI - How Virgin Atlantic ships faster with Codex
+### Microsoft - EVP Jay Parikh on India and AI’s inflection point
+Source: Microsoft AI
+Published: May 26, 2026
+Why it matters: Routine official update
+Summary: EVP Jay Parikh on India and AI’s inflection point
+Link: https://news.microsoft.com/source/asia/2026/05/26/india-and-ais-inflection-point
+
+### Anthropic - Anthropic co-founder Chris Olah&#x27;s remarks on Pope Leo XIV&#x27;s encyclical "Magnifica humanitas"
+Source: Anthropic News
+Published: May 24, 2026
+Why it matters: Routine official update
+Link: https://www.anthropic.com/news/chris-olah-pope-leo-encyclical
+
+### OpenAI - OpenAI named a Leader in enterprise coding agents by Gartner
 Source: OpenAI Newsroom
 Published: May 21, 2026
 Why it matters: Routine official update
-Summary: How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.
-Link: https://openai.com/index/virgin-atlantic
+Summary: OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.
+Link: https://openai.com/index/gartner-2026-agentic-coding-leader
+
+### OpenAI - AdventHealth advances whole-person care with OpenAI
+Source: OpenAI Newsroom
+Published: May 21, 2026
+Why it matters: Routine official update
+Summary: AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care.
+Link: https://openai.com/index/adventhealth
+
+### Google - Running Guide agent: A step towards running unbounded
+Source: Google AI
+Published: May 19, 2026
+Why it matters: Routine official update
+Summary: Running Guide agent is an AI agent that provides real-time audio navigation and obstacle detection to help BLV athletes run independently.
+Link: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/running-guide-agent
+
+### OpenAI - An OpenAI model has disproved a central conjecture in discrete geometry
+Source: OpenAI Newsroom
+Published: May 19, 2026
+Why it matters: Routine official update
+Summary: An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.
+Link: https://openai.com/index/model-disproves-discrete-geometry-conjecture
