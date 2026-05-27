@@ -1,78 +1,63 @@
 # AI Company Watch
 
-Generated: May 26, 2026, 8:16 AM PDT
+Generated: May 27, 2026, 8:19 AM PDT
 Lookback window: 7 day(s)
 Sources checked: 12
-Items fetched: 36
+Items fetched: 37
 Items kept: 24
-New items: 9
-External items kept: 8
-Official items kept: 16
+New items: 7
+External items kept: 9
+Official items kept: 15
 
 ## Critical External News
 
-### Google - Alphabet Inc. (GOOGL) Expands Gemini Enterprise Agent Marketplace with Amdocs Partnership
-Source: Major External News - Google
-Publisher: Yahoo Finance
-Published: May 21, 2026
-Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMipAFBVV95cUxPeFJpWDcyc2pYWl9oZFBGRkxyZGZBandhVEl0d2Y1RXFndEYwUHhKNDl2QkZhVjhaZldxNkpHWnBXOVV0Y2pOdlBpY0xtWkxpbHJfUEpMQU1VcXBwQzZneEVHNmFWWWN0M3dlcTkzOUFwSVBPQjMwWU9UZWs2dFpORUFFZFBoUWtsUDdmUDZqVEM5QURxSkVhLXZIS2thZWppem51UQ?oc=5
-
-### Anthropic - Wiz brings Claude compliance into the cloud security stack
+### Anthropic - Cloudflare (NET) Valuation Check After Anthropic Claude Agent Partnership Expands AI Infrastructure Role
 Source: Major External News - Anthropic
-Publisher: Startup Fortune
-Published: May 25, 2026
-Why it matters: Safety, security, or policy update
-Link: https://news.google.com/rss/articles/CBMijwFBVV95cUxNLTdNUXNNTG9TWVp5Q1E3aTNCUUdwUzhIRDAtbGRTdXNxZzgwR2lsaHdhcktpZVI1cTNraG9ZVGlfdXI4V0lvQTFheUt0bk12Vy04VU5tRzdhcFIxUEdiMVZXaXNkbUZRRVFyRk9EeW5pX0V1WVlfa25nVkJqaUpLLUJIdFdMNlBTaFZUUmYycw?oc=5
-
-## Critical Official Updates
-
-### OpenAI - OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership
-Source: OpenAI Newsroom
-Published: May 24, 2026
+Publisher: Yahoo Finance
+Published: May 27, 2026
 Why it matters: Corporate move or major external event
-Summary: OpenAI partners with Grupo Folha and Grupo UOL to bring trusted Brazilian journalism to ChatGPT, expanding access to news with attribution and transparency.
-Link: https://openai.com/index/grupo-folha-grupo-uol-partnership
+Link: https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZ0dCY013aURBZmowTEZkUTRid2kzWms1cXFvdzRLZmZ0MFBMTXg3bUVmZEwtWjVBWFlLU2VVNmoxeUZxeHFHX0Z0UXBlNURYLUtTbWUtbkNxTWt0V2hrTkJNLWRIUHg0NldyZWlzZnd0bWh2UUVQeE42RUtHZ3ROZTVsT1JtT2FZYmxQNVRZXzA4OEFPUllzdnpSaDFWSHo0MlJPUVFNcTY?oc=5
+
+### Meta - Elemental Impact Launches the Data Center Innovation Initiative with Amazon, Google, Meta, and Microsoft
+Source: Major External News - Meta
+Publisher: Yahoo Finance Singapore
+Published: May 27, 2026
+Why it matters: Flagship model or product launch
+Link: https://news.google.com/rss/articles/CBMijwFBVV95cUxQUlNaU0RYSzRlMXJsUEg5XzZYUGtKMC04empTalk5REQzTVNNNDVrR0gzck1GUGxMUkhzRFdNbE5JVXBLbzlpbVFXQjVkZEdFLThzVzRtLTBPdDVVSXRrQlZPaGFWWk5OSEJBUy1fc3FNT0FCZ01zYzZJWi1JOENFcVBFdW1oV2E2Nk5VLW1vcw?oc=5
+
+## Important External News
+
+### Anthropic - Anthropic Is Likely Generating at Least 35% More Revenue Than OpenAI
+Source: Major External News - Anthropic
+Publisher: The Information
+Published: May 26, 2026
+Why it matters: Trusted external coverage
+Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxQU1J6ZGhQeVdUUklFVXZxXzJpUWVkeVBuZzh2blhPc1JyMDBwVXJoMmQxZXZkcDNHanpRT19zdS10SDlIdG9QYnl5ZUtpWHViUlQ5WGhSdnBFT1pSdUtvVFhrOVFVZmFINjhkb1BzMERIaFNfYjRQd2ZrWUgxUDlwMVNTYjBTeUVubEtXYTJQcE1PNEoxUGk3YUZjS05mV0lmSzFwdC1pQi1sRnc?oc=5
+
+### Meta - Louisiana senator backed Meta's giant data center while cutting land deals nearby, ethics experts warn
+Source: Major External News - Meta
+Publisher: Yahoo
+Published: May 22, 2026
+Why it matters: Trusted external coverage
+Link: https://news.google.com/rss/articles/CBMinAFBVV95cUxPWjBHdEtzcEJDT2NNMVpnMnQ4VV8tNXM0VzZTLU9fdTVNOWV0dGRuWnh0NFNwSUN3TmRpcjZTOU1yZnJaUzVITHRTd3djTEo1UFQ1UlBFRWUyMVpvelRrLUlaanBFVkJ1dnRVM2FiN3dkQ0hEMGZkems1b2ZKUHJvS3QtWTZqWXNIZjlralcwbE14Rzd5M3RPQjhCT2E?oc=5
 
 ## Official Company Updates
 
-### Microsoft - EVP Jay Parikh on India and AI’s inflection point
-Source: Microsoft AI
-Published: May 26, 2026
+### OpenAI - Building self-improving tax agents with Codex
+Source: OpenAI Newsroom
+Published: May 27, 2026
 Why it matters: Routine official update
-Summary: EVP Jay Parikh on India and AI’s inflection point
-Link: https://news.microsoft.com/source/asia/2026/05/26/india-and-ais-inflection-point
+Summary: See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows.
+Link: https://openai.com/index/building-self-improving-tax-agents-with-codex
 
-### Anthropic - Anthropic co-founder Chris Olah&#x27;s remarks on Pope Leo XIV&#x27;s encyclical "Magnifica humanitas"
+### Anthropic - Anthropic appoints KiYoung Choi as Representative Director of Korea ahead of Seoul office opening
 Source: Anthropic News
-Published: May 24, 2026
+Published: May 25, 2026
 Why it matters: Routine official update
-Link: https://www.anthropic.com/news/chris-olah-pope-leo-encyclical
+Link: https://www.anthropic.com/news/kiyoung-choi-representative-director-anthropic-korea
 
-### OpenAI - OpenAI named a Leader in enterprise coding agents by Gartner
-Source: OpenAI Newsroom
-Published: May 21, 2026
-Why it matters: Routine official update
-Summary: OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.
-Link: https://openai.com/index/gartner-2026-agentic-coding-leader
-
-### OpenAI - AdventHealth advances whole-person care with OpenAI
-Source: OpenAI Newsroom
-Published: May 21, 2026
-Why it matters: Routine official update
-Summary: AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care.
-Link: https://openai.com/index/adventhealth
-
-### Google - Running Guide agent: A step towards running unbounded
-Source: Google AI
-Published: May 19, 2026
-Why it matters: Routine official update
-Summary: Running Guide agent is an AI agent that provides real-time audio navigation and obstacle detection to help BLV athletes run independently.
-Link: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/running-guide-agent
-
-### OpenAI - An OpenAI model has disproved a central conjecture in discrete geometry
-Source: OpenAI Newsroom
-Published: May 19, 2026
-Why it matters: Routine official update
-Summary: An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.
-Link: https://openai.com/index/model-disproves-discrete-geometry-conjecture
+### Anthropic - Featured How we contain Claude across products As agents grow more capable, so does their potential blast radius. The engineering question is how to cap it. Here’s what we’ve learned building containment for claude.ai, Claude Code, and Cowork.
+Source: Anthropic Engineering
+Published: Unknown
+Why it matters: Technical or research update
+Link: https://www.anthropic.com/engineering/how-we-contain-claude

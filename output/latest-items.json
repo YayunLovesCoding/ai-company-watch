@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-26T15:16:14.093Z",
+  "generatedAt": "2026-05-27T15:19:37.257Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -76,15 +76,53 @@
     }
   ],
   "totals": {
-    "fetched": 36,
+    "fetched": 37,
     "deduped": 24,
-    "new": 9,
+    "new": 7,
     "byKind": {
-      "official": 16,
-      "external": 8
+      "official": 15,
+      "external": 9
     }
   },
   "items": [
+    {
+      "id": "47e0e7093af965cff2edbf181574d6b79750b077",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZ0dCY013aURBZmowTEZkUTRid2kzWms1cXFvdzRLZmZ0MFBMTXg3bUVmZEwtWjVBWFlLU2VVNmoxeUZxeHFHX0Z0UXBlNURYLUtTbWUtbkNxTWt0V2hrTkJNLWRIUHg0NldyZWlzZnd0bWh2UUVQeE42RUtHZ3ROZTVsT1JtT2FZYmxQNVRZXzA4OEFPUllzdnpSaDFWSHo0MlJPUVFNcTY?oc=5",
+      "title": "Cloudflare (NET) Valuation Check After Anthropic Claude Agent Partnership Expands AI Infrastructure Role",
+      "summary": "",
+      "publishedAt": "2026-05-27T15:06:34.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "888336fa5b94b0e1d4e8780178cf87735ffd6a74",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUlNaU0RYSzRlMXJsUEg5XzZYUGtKMC04empTalk5REQzTVNNNDVrR0gzck1GUGxMUkhzRFdNbE5JVXBLbzlpbVFXQjVkZEdFLThzVzRtLTBPdDVVSXRrQlZPaGFWWk5OSEJBUy1fc3FNT0FCZ01zYzZJWi1JOENFcVBFdW1oV2E2Nk5VLW1vcw?oc=5",
+      "title": "Elemental Impact Launches the Data Center Innovation Initiative with Amazon, Google, Meta, and Microsoft",
+      "summary": "",
+      "publishedAt": "2026-05-27T09:30:00.000Z",
+      "publisher": "Yahoo Finance Singapore",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Flagship model or product launch"
+      }
+    },
     {
       "id": "45c4fa0cc1e7384b5101dc14be5dfea4aca9a339",
       "company": "Meta",
@@ -100,7 +138,7 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 7,
+        "score": 6,
         "reason": "Corporate move or major external event"
       }
     },
@@ -162,63 +200,6 @@
       }
     },
     {
-      "id": "14d480bd607e49fda18c3348fd15223cac74455b",
-      "company": "Google",
-      "sourceKind": "external",
-      "sourceId": "external-google-major",
-      "sourceLabel": "Major External News - Google",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeFJpWDcyc2pYWl9oZFBGRkxyZGZBandhVEl0d2Y1RXFndEYwUHhKNDl2QkZhVjhaZldxNkpHWnBXOVV0Y2pOdlBpY0xtWkxpbHJfUEpMQU1VcXBwQzZneEVHNmFWWWN0M3dlcTkzOUFwSVBPQjMwWU9UZWs2dFpORUFFZFBoUWtsUDdmUDZqVEM5QURxSkVhLXZIS2thZWppem51UQ?oc=5",
-      "title": "Alphabet Inc. (GOOGL) Expands Gemini Enterprise Agent Marketplace with Amdocs Partnership",
-      "summary": "",
-      "publishedAt": "2026-05-21T08:41:43.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "444e50da236ad565e37f583f383bf5a46ef7ba32",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObXNuQ2V6WndSRFJ5QURnaUpudHRZYUREU0VTU1BPeTVPdEo2NVdZcHRyUXhjX3pVOXl6Z1MxQTlWa3Q4bDZhSXhqMm9vaVd6N1l1bWV0RlBiSGZta3JhcS1QS0JKWkVHMnlZVlQxanJxVF84SzluVE9Fdy1FenZ5TUJjVDBQQ01ZUklJcGx0b1FFQjJDTEVEeWZQVmxVTFFUNkxHaGxLZGhvbGlMNmVPcTFjbkVHM241WFBBMF8wTFlYMVJUa0E?oc=5",
-      "title": "Musk's failed court attack on OpenAI could leave lasting scars on Altman's reputation",
-      "summary": "",
-      "publishedAt": "2026-05-19T19:55:59.000Z",
-      "publisher": "Reuters",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "2958e44acb3bbf9966c36cddf894c809a05a1d02",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
-      "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
-      "summary": "OpenAI partners with Grupo Folha and Grupo UOL to bring trusted Brazilian journalism to ChatGPT, expanding access to news with attribution and transparency.",
-      "publishedAt": "2026-05-25T00:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
       "id": "7d78c0629c60d0b8a503bc69f8a810dbf5cb297d",
       "company": "Anthropic",
       "sourceKind": "external",
@@ -238,22 +219,22 @@
       }
     },
     {
-      "id": "9bf3291fa719861f1c04ed2dd3d6fdbe84317686",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPN2JKUE1zNnlZd2ZyWFI3QVktMjhpMl8tblA2T2NoSlBDTXl5WmYzMFp5cmd3eTFpZ0IxR3BiTkdhM19FYkVWTWMwOWkxT3BvcU5tSGwzSDVfbmlYVUNfWFpKMDItUmlpVWJ2OTRkT3lWVk1CYU02a2RrbU1mbDhRdGZLeWcwZXBSR09sZzlibklFVGRISlJBOVE3T3hVamdSb0E?oc=5",
-      "title": "Meta, Broadcom And Others Launch $125 Million UCLA AI Chip Hub",
-      "summary": "",
-      "publishedAt": "2026-05-24T00:31:00.000Z",
-      "publisher": "Yahoo Finance",
+      "id": "2958e44acb3bbf9966c36cddf894c809a05a1d02",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
+      "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
+      "summary": "OpenAI partners with Grupo Folha and Grupo UOL to bring trusted Brazilian journalism to ChatGPT, expanding access to news with attribution and transparency.",
+      "publishedAt": "2026-05-25T00:00:00.000Z",
+      "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
         "score": 5,
-        "reason": "Flagship model or product launch"
+        "reason": "Corporate move or major external event"
       }
     },
     {
@@ -276,60 +257,22 @@
       }
     },
     {
-      "id": "cf1eadd4fa1264cb2554e1b049026d49939412cc",
-      "company": "Microsoft",
-      "sourceKind": "official",
-      "sourceId": "microsoft-ai",
-      "sourceLabel": "Microsoft AI",
-      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
-      "url": "https://news.microsoft.com/source/2026/05/21/ey-and-microsoft-announce-global-initiative-to-help-clients-scale-ai-enterprisewide-value-creation-and-move-beyond-experimentation",
-      "title": "EY and Microsoft announce global initiative to help clients scale AI enterprisewide value creation and move beyond experimentation",
-      "summary": "EY and Microsoft announce global initiative to help clients scale AI enterprisewide value creation and move beyond experimentation",
-      "publishedAt": "2026-05-21T11:00:07.000Z",
-      "publisher": "",
+      "id": "0bcf150bc4debf50228d8a4377e6828f9391fe9f",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQU1J6ZGhQeVdUUklFVXZxXzJpUWVkeVBuZzh2blhPc1JyMDBwVXJoMmQxZXZkcDNHanpRT19zdS10SDlIdG9QYnl5ZUtpWHViUlQ5WGhSdnBFT1pSdUtvVFhrOVFVZmFINjhkb1BzMERIaFNfYjRQd2ZrWUgxUDlwMVNTYjBTeUVubEtXYTJQcE1PNEoxUGk3YUZjS05mV0lmSzFwdC1pQi1sRnc?oc=5",
+      "title": "Anthropic Is Likely Generating at Least 35% More Revenue Than OpenAI",
+      "summary": "",
+      "publishedAt": "2026-05-27T01:04:00.000Z",
+      "publisher": "The Information",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
         "score": 4,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "037aba4678d338b51a3949cd62bdb9eefa3b5c5b",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5",
-      "title": "Gemini 3.5: frontier intelligence with action",
-      "summary": "At Google I/O we released Gemini 3.5, our latest series of models combining frontier intelligence with action.",
-      "publishedAt": "2026-05-19T17:45:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "6d51bfddb5e8b88e2efd008279143bdacf66c12e",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection",
-      "title": "I/O 2026",
-      "summary": "At Google I/O 2026, we shared how we’re making AI more helpful for everyone. See everything we announced.",
-      "publishedAt": "2026-05-19T17:45:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Flagship model or product launch"
+        "reason": "Trusted external coverage"
       }
     },
     {
@@ -371,6 +314,25 @@
       }
     },
     {
+      "id": "24ef9659250fa357d897caf9cf01f9ee57bf4a77",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWjBHdEtzcEJDT2NNMVpnMnQ4VV8tNXM0VzZTLU9fdTVNOWV0dGRuWnh0NFNwSUN3TmRpcjZTOU1yZnJaUzVITHRTd3djTEo1UFQ1UlBFRWUyMVpvelRrLUlaanBFVkJ1dnRVM2FiN3dkQ0hEMGZkems1b2ZKUHJvS3QtWTZqWXNIZjlralcwbE14Rzd5M3RPQjhCT2E?oc=5",
+      "title": "Louisiana senator backed Meta's giant data center while cutting land deals nearby, ethics experts warn",
+      "summary": "",
+      "publishedAt": "2026-05-22T21:30:00.000Z",
+      "publisher": "Yahoo",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
       "id": "3a0b4572422c1a8cbc95ae7fb7158fc8dc49f9d0",
       "company": "Anthropic",
       "sourceKind": "official",
@@ -387,6 +349,25 @@
         "bucket": "important",
         "score": 3,
         "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "9da64821c60f866d060ae1a73d59870c63ddbad9",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
+      "title": "Building self-improving tax agents with Codex",
+      "summary": "See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows.",
+      "publishedAt": "2026-05-27T07:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
       }
     },
     {
@@ -409,6 +390,63 @@
       }
     },
     {
+      "id": "94fc63d517ddd187fc3f45bfbd39fa549cdf751b",
+      "company": "Anthropic",
+      "sourceKind": "official",
+      "sourceId": "anthropic-news",
+      "sourceLabel": "Anthropic News",
+      "homepageUrl": "https://www.anthropic.com/news",
+      "url": "https://www.anthropic.com/news/kiyoung-choi-representative-director-anthropic-korea",
+      "title": "Anthropic appoints KiYoung Choi as Representative Director of Korea ahead of Seoul office opening",
+      "summary": "",
+      "publishedAt": "2026-05-26T00:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "anchor",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "97cd97d27d220f15f9bc8a69f1f4b5eea602a9e8",
+      "company": "Anthropic",
+      "sourceKind": "official",
+      "sourceId": "anthropic-engineering",
+      "sourceLabel": "Anthropic Engineering",
+      "homepageUrl": "https://www.anthropic.com/engineering",
+      "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
+      "title": "Featured How we contain Claude across products As agents grow more capable, so does their potential blast radius. The engineering question is how to cap it. Here’s what we’ve learned building containment for claude.ai, Claude Code, and Cowork.",
+      "summary": "",
+      "publishedAt": null,
+      "publisher": "",
+      "discoveryMethod": "anchor",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Technical or research update"
+      }
+    },
+    {
+      "id": "fcc95ff2628cdf07b18dfc0a2beef2d6597f42fe",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/digitize-notes-gemini-study-guide",
+      "title": "Digitize your paper notes with Gemini.",
+      "summary": "",
+      "publishedAt": null,
+      "publisher": "",
+      "discoveryMethod": "anchor",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Technical or research update"
+      }
+    },
+    {
       "id": "aaee48ad131bf7f1daa81cdd95ef4ad3ec7ec273",
       "company": "Anthropic",
       "sourceKind": "official",
@@ -423,7 +461,7 @@
       "discoveryMethod": "anchor",
       "classification": {
         "bucket": "digest",
-        "score": 2,
+        "score": 1,
         "reason": "Routine official update"
       }
     },
@@ -502,115 +540,96 @@
         "score": 1,
         "reason": "Routine official update"
       }
-    },
-    {
-      "id": "9f93c7d7935756acc27c2242aeb5a97ba69cb2b1",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/running-guide-agent",
-      "title": "Running Guide agent: A step towards running unbounded",
-      "summary": "Running Guide agent is an AI agent that provides real-time audio navigation and obstacle detection to help BLV athletes run independently.",
-      "publishedAt": "2026-05-20T00:01:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "7f625f66633806e06a2fdd63667d912b6933e6a6",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
-      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-      "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
-      "publishedAt": "2026-05-20T00:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
     }
   ],
   "newItems": [
     {
-      "id": "14d480bd607e49fda18c3348fd15223cac74455b",
-      "company": "Google",
-      "sourceKind": "external",
-      "sourceId": "external-google-major",
-      "sourceLabel": "Major External News - Google",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeFJpWDcyc2pYWl9oZFBGRkxyZGZBandhVEl0d2Y1RXFndEYwUHhKNDl2QkZhVjhaZldxNkpHWnBXOVV0Y2pOdlBpY0xtWkxpbHJfUEpMQU1VcXBwQzZneEVHNmFWWWN0M3dlcTkzOUFwSVBPQjMwWU9UZWs2dFpORUFFZFBoUWtsUDdmUDZqVEM5QURxSkVhLXZIS2thZWppem51UQ?oc=5",
-      "title": "Alphabet Inc. (GOOGL) Expands Gemini Enterprise Agent Marketplace with Amdocs Partnership",
-      "summary": "",
-      "publishedAt": "2026-05-21T08:41:43.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "2958e44acb3bbf9966c36cddf894c809a05a1d02",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
-      "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
-      "summary": "OpenAI partners with Grupo Folha and Grupo UOL to bring trusted Brazilian journalism to ChatGPT, expanding access to news with attribution and transparency.",
-      "publishedAt": "2026-05-25T00:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "7d78c0629c60d0b8a503bc69f8a810dbf5cb297d",
+      "id": "47e0e7093af965cff2edbf181574d6b79750b077",
       "company": "Anthropic",
       "sourceKind": "external",
       "sourceId": "external-anthropic-major",
       "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNLTdNUXNNTG9TWVp5Q1E3aTNCUUdwUzhIRDAtbGRTdXNxZzgwR2lsaHdhcktpZVI1cTNraG9ZVGlfdXI4V0lvQTFheUt0bk12Vy04VU5tRzdhcFIxUEdiMVZXaXNkbUZRRVFyRk9EeW5pX0V1WVlfa25nVkJqaUpLLUJIdFdMNlBTaFZUUmYycw?oc=5",
-      "title": "Wiz brings Claude compliance into the cloud security stack",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZ0dCY013aURBZmowTEZkUTRid2kzWms1cXFvdzRLZmZ0MFBMTXg3bUVmZEwtWjVBWFlLU2VVNmoxeUZxeHFHX0Z0UXBlNURYLUtTbWUtbkNxTWt0V2hrTkJNLWRIUHg0NldyZWlzZnd0bWh2UUVQeE42RUtHZ3ROZTVsT1JtT2FZYmxQNVRZXzA4OEFPUllzdnpSaDFWSHo0MlJPUVFNcTY?oc=5",
+      "title": "Cloudflare (NET) Valuation Check After Anthropic Claude Agent Partnership Expands AI Infrastructure Role",
       "summary": "",
-      "publishedAt": "2026-05-26T05:26:30.000Z",
-      "publisher": "Startup Fortune",
+      "publishedAt": "2026-05-27T15:06:34.000Z",
+      "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 5,
-        "reason": "Safety, security, or policy update"
+        "score": 7,
+        "reason": "Corporate move or major external event"
       }
     },
     {
-      "id": "410d670232c653276a1563bcb66c295f2258c248",
-      "company": "Microsoft",
+      "id": "888336fa5b94b0e1d4e8780178cf87735ffd6a74",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUlNaU0RYSzRlMXJsUEg5XzZYUGtKMC04empTalk5REQzTVNNNDVrR0gzck1GUGxMUkhzRFdNbE5JVXBLbzlpbVFXQjVkZEdFLThzVzRtLTBPdDVVSXRrQlZPaGFWWk5OSEJBUy1fc3FNT0FCZ01zYzZJWi1JOENFcVBFdW1oV2E2Nk5VLW1vcw?oc=5",
+      "title": "Elemental Impact Launches the Data Center Innovation Initiative with Amazon, Google, Meta, and Microsoft",
+      "summary": "",
+      "publishedAt": "2026-05-27T09:30:00.000Z",
+      "publisher": "Yahoo Finance Singapore",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "0bcf150bc4debf50228d8a4377e6828f9391fe9f",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQU1J6ZGhQeVdUUklFVXZxXzJpUWVkeVBuZzh2blhPc1JyMDBwVXJoMmQxZXZkcDNHanpRT19zdS10SDlIdG9QYnl5ZUtpWHViUlQ5WGhSdnBFT1pSdUtvVFhrOVFVZmFINjhkb1BzMERIaFNfYjRQd2ZrWUgxUDlwMVNTYjBTeUVubEtXYTJQcE1PNEoxUGk3YUZjS05mV0lmSzFwdC1pQi1sRnc?oc=5",
+      "title": "Anthropic Is Likely Generating at Least 35% More Revenue Than OpenAI",
+      "summary": "",
+      "publishedAt": "2026-05-27T01:04:00.000Z",
+      "publisher": "The Information",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "24ef9659250fa357d897caf9cf01f9ee57bf4a77",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWjBHdEtzcEJDT2NNMVpnMnQ4VV8tNXM0VzZTLU9fdTVNOWV0dGRuWnh0NFNwSUN3TmRpcjZTOU1yZnJaUzVITHRTd3djTEo1UFQ1UlBFRWUyMVpvelRrLUlaanBFVkJ1dnRVM2FiN3dkQ0hEMGZkems1b2ZKUHJvS3QtWTZqWXNIZjlralcwbE14Rzd5M3RPQjhCT2E?oc=5",
+      "title": "Louisiana senator backed Meta's giant data center while cutting land deals nearby, ethics experts warn",
+      "summary": "",
+      "publishedAt": "2026-05-22T21:30:00.000Z",
+      "publisher": "Yahoo",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "9da64821c60f866d060ae1a73d59870c63ddbad9",
+      "company": "OpenAI",
       "sourceKind": "official",
-      "sourceId": "microsoft-ai",
-      "sourceLabel": "Microsoft AI",
-      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
-      "url": "https://news.microsoft.com/source/asia/2026/05/26/india-and-ais-inflection-point",
-      "title": "EVP Jay Parikh on India and AI’s inflection point",
-      "summary": "EVP Jay Parikh on India and AI’s inflection point",
-      "publishedAt": "2026-05-26T12:58:57.000Z",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
+      "title": "Building self-improving tax agents with Codex",
+      "summary": "See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows.",
+      "publishedAt": "2026-05-27T07:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -620,16 +639,16 @@
       }
     },
     {
-      "id": "aaee48ad131bf7f1daa81cdd95ef4ad3ec7ec273",
+      "id": "94fc63d517ddd187fc3f45bfbd39fa549cdf751b",
       "company": "Anthropic",
       "sourceKind": "official",
       "sourceId": "anthropic-news",
       "sourceLabel": "Anthropic News",
       "homepageUrl": "https://www.anthropic.com/news",
-      "url": "https://www.anthropic.com/news/chris-olah-pope-leo-encyclical",
-      "title": "Anthropic co-founder Chris Olah&#x27;s remarks on Pope Leo XIV&#x27;s encyclical \"Magnifica humanitas\"",
+      "url": "https://www.anthropic.com/news/kiyoung-choi-representative-director-anthropic-korea",
+      "title": "Anthropic appoints KiYoung Choi as Representative Director of Korea ahead of Seoul office opening",
       "summary": "",
-      "publishedAt": "2026-05-25T00:00:00.000Z",
+      "publishedAt": "2026-05-26T00:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "anchor",
       "classification": {
@@ -639,79 +658,22 @@
       }
     },
     {
-      "id": "ef1db9edff97d09f04e4f9d3a8af8eb897715e1e",
-      "company": "OpenAI",
+      "id": "97cd97d27d220f15f9bc8a69f1f4b5eea602a9e8",
+      "company": "Anthropic",
       "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
-      "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
-      "summary": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
-      "publishedAt": "2026-05-22T00:00:00.000Z",
+      "sourceId": "anthropic-engineering",
+      "sourceLabel": "Anthropic Engineering",
+      "homepageUrl": "https://www.anthropic.com/engineering",
+      "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
+      "title": "Featured How we contain Claude across products As agents grow more capable, so does their potential blast radius. The engineering question is how to cap it. Here’s what we’ve learned building containment for claude.ai, Claude Code, and Cowork.",
+      "summary": "",
+      "publishedAt": null,
       "publisher": "",
-      "discoveryMethod": "feed",
+      "discoveryMethod": "anchor",
       "classification": {
         "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "85a3fdb43c804c3bf0ce64e51ee68240dd6aca7c",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/adventhealth",
-      "title": "AdventHealth advances whole-person care with OpenAI",
-      "summary": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care.",
-      "publishedAt": "2026-05-21T12:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "9f93c7d7935756acc27c2242aeb5a97ba69cb2b1",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/running-guide-agent",
-      "title": "Running Guide agent: A step towards running unbounded",
-      "summary": "Running Guide agent is an AI agent that provides real-time audio navigation and obstacle detection to help BLV athletes run independently.",
-      "publishedAt": "2026-05-20T00:01:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "7f625f66633806e06a2fdd63667d912b6933e6a6",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
-      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-      "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
-      "publishedAt": "2026-05-20T00:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
+        "score": 2,
+        "reason": "Technical or research update"
       }
     }
   ],
