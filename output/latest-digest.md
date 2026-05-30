@@ -1,115 +1,95 @@
 # AI Company Watch
 
-Generated: May 29, 2026, 8:19 AM PDT
+Generated: May 30, 2026, 7:39 AM PDT
 Lookback window: 7 day(s)
 Sources checked: 12
-Items fetched: 46
+Items fetched: 44
 Items kept: 24
-New items: 14
-External items kept: 14
-Official items kept: 10
+New items: 11
+External items kept: 12
+Official items kept: 12
+
+## Critical External News
+
+### Microsoft - Microsoft under fire for threatening security researcher with criminal investigation
+Source: Major External News - Microsoft
+Publisher: TechCrunch
+Published: May 29, 2026
+Why it matters: Corporate move or major external event
+Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTzR4eWYxQURNS0luRXRha2tSWXMzZTkzdVRBZUx5MTVQSHBFTnRrZ0Y1Z1NjWjdlWFBhWk5nN2xCTXcyT05hcmk4eEpsX1lRQlJtSG4xaXkzOTVyY2x2aTNhbjA0d2UxbENQMTVWTEE3ZGJ5TXRPRFBwVFR4ZC1rUDdjSWZybEhwYWxiS2taNTI3SHZ1Y3VDaTJfTVhFUjhZZ0hxXy1GeDl6ZUdSbHZEcjhZanNkc2dsaHZJ?oc=5
 
 ## Important External News
 
+### Anthropic - Anthropic becomes most valuable AI firm after $65bn funding round
+Source: Major External News - Anthropic
+Publisher: Yahoo Finance
+Published: May 29, 2026
+Why it matters: Trusted external coverage
+Link: https://news.google.com/rss/articles/CBMipgFBVV95cUxNQWZDMlhiWjQ2MERWd0xqaXlRdEV3UHR4U3BqLTk2Zm5jMzA0NEszRC1VbU5KNzhiZ0dtOF9waURYTmtSWFJRRXZEOHh4cVotMnpXZEpnWW5yLUlVNDlPcFJjS3Z5Q1o1YTJ5T1JyTmJLbzVPR3Rub2F6eW1XVElVTVNJWTFya1U4cWs5VVJoZXRoaWFIUVNEb1FfNVp0My1Ud295N2hB?oc=5
+
+### Anthropic - Anthropic leapfrogs OpenAI with a record $965 billion valuation and says its ‘Mythos’ AI model is coming soon
+Source: Major External News - Anthropic
+Publisher: Fortune
+Published: May 29, 2026
+Why it matters: Trusted external coverage
+Link: https://news.google.com/rss/articles/CBMigwJBVV95cUxOcFEtdXBqZTVzYmttUEV0QkRlRnBVbnRPSEczVVcxWUtIdGxCY3EzQ3F0ZkRZcGJ0X01tblF0T3JoUENiSDhXWW5IcGJnMHpwZDJoT0R4Z3pzWlo1aWZ2VV9fcDJPWHJralVLbVA3d1B6YmlDb1BOOGc1Y2lINUxuV213QWZMNUtES0E4am1DNFN0X0x5RUQwTmF3dkt4aWRCbURBQTRmOXloQXFzVlllMzFlVDRUaGxkRXd6djdtZkJlRmNHbnpwYlAtemYtVndEU2lhVHVwVlJ1czRVNzNoX3YtSXppOG16SEd6ZzVvTkROMFFxcGUwT3owNG5TNmdnWkk4?oc=5
+
 ### Anthropic - Anthropic Co-Founders Worth $8 Billion Each After Funding Round
 Source: Major External News - Anthropic
-Publisher: Bloomberg Law News
-Published: May 29, 2026
-Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxQR21vZE8xMFNrMUhMbHJKakVEajBLQkJCWHBLSTNHRXdkRlpHWVRWby1qa2pLeTFKV0NtN05TQzZpcXVPWUFqQlJxOVVySC1uYkQwZFJlaUx1Z3h3TTk2Q2xyczJUMVJaWmlCcDVsSFMwTXlvRVFPWlRNTHV0dmdfbUwyUzRYSXd4T1dMdm5UODFURlJkWUNTTU5udzFqSWxJVm9RYlpvck9MOUJfSHFxSUxBQWo?oc=5
-
-### OpenAI - Anthropic raises $65 billion in latest funding round, making it more valuable than OpenAI
-Source: Major External News - OpenAI
-Publisher: Yahoo Finance
-Published: May 29, 2026
-Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMi3AFBVV95cUxNaU9Zbl84ZnRYa29kel9qQ3RrU2QyaXp1VkJZNTBfTkxjMFVzdlpkWVNBMDhCRjV1b3NfVTBmeUY5Rk5vMU5iaEw0WS1acW53dGpJQVRCTlFzeGZFQ01Yd293VlhVUmZIZXBhT3MxSTY4V0hIVnAwb0VESy10eDhuTWVBSDFKZVZrTU01VUh6Q3N4bmZpX0w4dHp0bXFtOFRucWM2V1NMUDBCQXNXSG53cUprY2VsTEs5Qm45RE1aQlBnZG15aTA1WTlkVWMtcTZyMExoeEJGTVVack81?oc=5
-
-### OpenAI - Anthropic reaches $965 billion valuation after fresh funding round, overtaking OpenAI
-Source: Major External News - OpenAI
-Publisher: Yahoo Finance
-Published: May 29, 2026
-Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMirAFBVV95cUxOVG16bENNdUJJOVNhSjhFVDZhS25JMUM3T25udndfYkh5aUpISTZSTFNqTF9nbllyZU9LT25rUXhSYXVQVHJTdU5pRWpwQTNGcUdLTFZ1eFNKamhETmZSN2doZ0k5bVJ2MDVPR2ViTUJzV2xvVVdoUFI5R0YzeUdsVG5jWjVsOWs1WkFSNy1Hbm9LcmRkZDJ1R05BS2Nmc2I1b0hzUFVaaGxIaGFS?oc=5
-
-### Anthropic - Anthropic hits $965 billion valuation, surpassing OpenAI
-Source: Major External News - Anthropic
-Publisher: Semafor
-Published: May 28, 2026
-Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMingFBVV95cUxQSEtmWEwxellyclo1UkNQb25XTENLNWdIMS1qMEJrVElfOS1nMFFuZTdFaVlvLUhZcGN6ZHJ4OWZyWmd0dmtTQ1VkZlRrNTk1ckRySGJyUG1xT0xZa0MwUEoySFRVSUdDWXZmRFBCUWhzYmNLcWxZNm1nQXEtRnMwTFV2MU1faHhIUkc0Y2tab1h0STlTeTA3dWNoT2Rtdw?oc=5
-
-### Anthropic - Apollo Shops $36 Billion Debt Deal to Buy Google Chips for Anthropic
-Source: Major External News - Anthropic
 Publisher: Bloomberg.com
-Published: May 28, 2026
+Published: May 29, 2026
 Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxQV3hEMFBxb3MwT210SW9FYS0xR1Q3dEtGcHZta1B3cWdXZklObmtZSEh1VjNIOXhrRnA2bjVRWTRmYnFmS2lRWTFnVFBBRkhlMmxqLWc5RzNmYl9wQ0pVVWtEUjJWbzdaSE9TVmtxNGNLZVFlQlFZNm9ObzdXaEVtMUN1dklOZVZjUHBzanRCa0NjelBxSnlicFUwMTFaUlgtSHV6dnNwZmV1X0tLTFJBTmg0bWNad05uRXc?oc=5
+Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxOVWNPakpCUk95c01zWTE0U2hsUk80MGZiTjhPcG10Rnh1cUJ3Qldac2haWmk0LXdtbTdYc3d0Umt0QkxvWEpwWmdKWVdEYkFDSGpLRTlub05waXF4MXZUMFBsbE5hRzM5d21VREM1R0ZNbF9hRTRZa29fRHpxOC1NREFRNHBaX0dMYUxsd2FPT2c1eGtWc1pmc0hVdjEzREVpRXZWQkRLQVZ2bzM3cldzN2N4bw?oc=5
 
-### OpenAI - Anthropic Eclipses OpenAI With Valuation of $965 Billion
+### OpenAI - Watch Anthropic Raises at $965 Billion Valuation, Eclipsing OpenAI
 Source: Major External News - OpenAI
 Publisher: Bloomberg.com
 Published: May 28, 2026
 Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMirgFBVV95cUxNN1h0UGx5bEhpRDl2aFRVWWNQX2xHQjFfX2hXQWp3MzFkYUJmbzlESzBvN2hhQzZJb2xjRFFOd2FBTnppejg4a3ZqS3FOSi1idEF1c2ExZm9UNnh6WFY2ZXZQcXV3aFUtNGJVM29NUWpJSG1sb3ZhNFF5MG5TZllCQ2pUZWYxeXRCWkNuUkMwajZiN0lETmpjMVY1SXZEck1QcUdyVm1xLWJsQ2UyLVE?oc=5
+Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWExOcE1aRUk4NzI1YjNHUFkyUlBkZnhmNDJDcWVuZUx2SFVfSVNFT1cyaWJ3Q081RjQ0ZGJqbG9LYUVaeTBQeDdGUC1pVUh4VEUxNUdvdXctX25fZDA4eXVWcGVscm4wcjE4ZmZCeE5oOG1NbzBMeVlVUjJYb3VwclJFSi1BUGtwdWV5TkgweGdyaHRiRVhMcUVQSW1UT01RQUpHX3FCSnhlQQ?oc=5
 
-### OpenAI - Anthropic's valuation surges to $965 billion, surpassing OpenAI
-Source: Major External News - OpenAI
-Publisher: Reuters
+### Meta - BABA vs. META: Which AI Data Center Giant Is the Better Bet?
+Source: Major External News - Meta
+Publisher: Yahoo Finance
 Published: May 28, 2026
 Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMimwFBVV95cUxQRUpjZXd5MTl2S0ZtVWhmelZRdXBNaEM1UU1KQkppbVoxOG9hWkRlSEp1cjZGZV94TG1uVi1vTHhJXzdpYUZ5ZHlTcm1qWUgtd0RGRWl4WlFTVGUxU2k5WkFwaXp4ZkVFcWF6eWhvaFVVQkwzVHZTWlllRV9iSTMtTWRmSmt0RXBJenVtbjFQU0RqQ0h6a0V2eFhrQQ?oc=5
-
-### Microsoft - Microsoft’s Defense Deal And Clean Energy Push Reframe Long-Term Valuation
-Source: Major External News - Microsoft
-Publisher: Yahoo Finance
-Published: May 27, 2026
-Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMiogFBVV95cUxPUk5HblRiejZzOGNGQmxWLUpMNFpxY09IeE80LWNhZ0VSUmQxMHExUktYVi1pUXk1TkM4V05TbEpHQU9fVUtKVjk5Qmltd0xJbnpIUlhkTU9XMnUwZlhoeUE0a3dLSHpjQzVjS2RVYVJLNEpDVnA2NE9ObU80QlFzYlJPdmtWUmNIc0dDMmEyZjlNdFN6S0FvQVhONThLVnFvSlE?oc=5
+Link: https://news.google.com/rss/articles/CBMijgFBVV95cUxOZ2tscnByWHl1WmctTzZ1bXZtekZ2U1k5cDl1alUzZ1lqa3M5dGNzTFRjMzVhdnN0SVJhdWZrR1JhbFZRbTE0MGpBYTNpU095NzdEMU5lR2FjSlBlbXI1ZWljbHNwdVZXRjRZa1ZYMkJVNVdvYVNwU0M1LS03NmpsaThWZGJQSXJLU3dUc3JB?oc=5
 
 ## Critical Official Updates
 
-### OpenAI - Strengthening societal resilience with Rosalind Biodefense
-Source: OpenAI Newsroom
-Published: May 28, 2026
-Why it matters: Corporate move or major external event
-Summary: OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through frontier AI.
-Link: https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense
-
-### Anthropic - Introducing Claude Opus 4.8 Product An upgrade to our Opus class of models, with stronger performance across coding, agentic tasks, and professional work, and the consistency to handle long-running work.
-Source: Anthropic News
-Published: May 27, 2026
+### Google - 9 demos of Gemini Omni and Gemini 3.5 in action
+Source: Google AI
+Published: May 29, 2026
 Why it matters: Flagship model or product launch
-Link: https://www.anthropic.com/news/claude-opus-4-8
-
-## Important Official Updates
-
-### OpenAI - OpenAI’s Frontier Governance Framework
-Source: OpenAI Newsroom
-Published: May 27, 2026
-Why it matters: Safety, security, or policy update
-Summary: Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.
-Link: https://openai.com/index/openai-frontier-governance-framework
+Summary: Watch 9 videos showing the capabilities of Gemini Omni and Gemini 3.5, announced at Google I/O 2026.
+Link: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos
 
 ## Official Company Updates
 
-### Google - Check out real-life AI prototypes from the Futures Lab.
+### Google - Take our I/O 2026 quiz, vibe coded in Google AI Studio.
 Source: Google AI
 Published: May 29, 2026
 Why it matters: Routine official update
-Summary: University of Waterloo students develop AI prototypes like sign language tutors to reshape the future of education and work.
-Link: https://blog.google/innovation-and-ai/technology/ai/university-waterloo-labs
+Summary: We used Google AI Studio to vibe code a quiz about our top I/O 2026 announcements.
+Link: https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz
 
-### Google - Catch up on 12 major I/O 2026 moments
-Source: Google AI
-Published: May 28, 2026
+### OpenAI - Boston Children’s uses AI to unlock new diagnoses
+Source: OpenAI Newsroom
+Published: May 29, 2026
 Why it matters: Routine official update
-Summary: Here are 12 of the biggest Google I/O 2026 keynote moments, including news about Gemini Omni, Gemini 3.5 Flash and more.
-Link: https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos
+Summary: Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases.
+Link: https://openai.com/index/boston-childrens-hospital
 
-### OpenAI - How Endava builds an agentic organization with Codex
+### OpenAI - How Braintrust turns customer requests into code with Codex
+Source: OpenAI Newsroom
+Published: May 29, 2026
+Why it matters: Routine official update
+Summary: How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster.
+Link: https://openai.com/index/braintrust
+
+### OpenAI - A shared playbook for trustworthy third party evaluations
 Source: OpenAI Newsroom
 Published: May 28, 2026
 Why it matters: Routine official update
-Summary: Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours.
-Link: https://openai.com/index/endava
+Summary: OpenAI shares guidance on third-party AI evaluations, covering how to assess model capabilities, safeguards, and validity for frontier systems.
+Link: https://openai.com/index/trustworthy-third-party-evaluations-foundations
