@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T14:40:32.597Z",
+  "generatedAt": "2026-06-01T16:08:37.224Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -76,27 +76,65 @@
     }
   ],
   "totals": {
-    "fetched": 45,
+    "fetched": 46,
     "deduped": 24,
-    "new": 1,
+    "new": 9,
     "byKind": {
-      "official": 11,
-      "external": 13
+      "official": 12,
+      "external": 12
     }
   },
   "items": [
     {
-      "id": "3f671da91d69cfdeaa08975d1379b57c7f355bc4",
+      "id": "435923d7f00ed3ffe683f13220cd1da8433a74f0",
       "company": "Microsoft",
       "sourceKind": "external",
       "sourceId": "external-microsoft-major",
       "sourceLabel": "Major External News - Microsoft",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTzR4eWYxQURNS0luRXRha2tSWXMzZTkzdVRBZUx5MTVQSHBFTnRrZ0Y1Z1NjWjdlWFBhWk5nN2xCTXcyT05hcmk4eEpsX1lRQlJtSG4xaXkzOTVyY2x2aTNhbjA0d2UxbENQMTVWTEE3ZGJ5TXRPRFBwVFR4ZC1rUDdjSWZybEhwYWxiS2taNTI3SHZ1Y3VDaTJfTVhFUjhZZ0hxXy1GeDl6ZUdSbHZEcjhZanNkc2dsaHZJ?oc=5",
-      "title": "Microsoft under fire for threatening security researcher with criminal investigation",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdy1EZkgtQnBvVW5YSDVyWVZiODhQVXZaSHFsYVFMMENZMy1YMTBIM0pSS0VqSzBxUDFGSS04VGExYzhzY21iYkxrWXU1blJpenU1NEtBd2NjSzE1X0xsVFFOOEdoOVJETThGSkxROWlRZWdCR1E3RG9Nd0U5WkkybGd4VEJKZ3l3REZFd0xCTTBpOW1NZGgwQ3djeURIV04wUlMyTlV1Szd4TlU?oc=5",
+      "title": "Yubico Partners with OpenAI to Support Passkey Mandate for its Trusted Access for Cyber (TAC) Program Users",
       "summary": "",
-      "publishedAt": "2026-05-29T17:03:39.000Z",
-      "publisher": "TechCrunch",
+      "publishedAt": "2026-06-01T15:00:00.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "b74307f5d225695d908dbef70cdd6f4c6073dbe9",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNnJ5c3Zzd0pzOUJiMFJUSGVCaW1abFN0T1d5WUpKMWctM1hadW1PZ1Rqb3lyQ1RXSFgyS2NybjRYd3V3cXBDMnhUa19SLXE0dlJfUUdqUy1RNU02VzdaaHhBRlp3aDc4YkJlLUJWOHVCZ0dVdWZxX0VuZ09naGpSb1h0ZWNGcU5tS2xKRFhzQnBYM2Z3SVpsR252Vm1vQjI1UUtTZWoxdWM?oc=5",
+      "title": "Florida sues OpenAI and CEO Sam Altman, accusing them of putting profit over safety",
+      "summary": "",
+      "publishedAt": "2026-06-01T14:33:16.000Z",
+      "publisher": "NBC News",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "baef34137e709f38acc02f8d1977310a71fad79f",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSk1SRzB2cm9SdUowOTFycDhpQnl5el9IN1BPU2drOVltQWljNW1kX1NRTmpGNDJxNWhjeV9ZWm5aN1lHSUl0T3pFSUYxWmh5NjNIRU9zUUh0eGlNRzNWVXRpRHF4RFd3eWJPRVFGWGpHTVN4OXZTdThEbTFlMGNDYmdScDhpNEJNemdvN3hB?oc=5",
+      "title": "Microsoft could be the next Big Tech antitrust target",
+      "summary": "",
+      "publishedAt": "2026-06-01T13:23:39.000Z",
+      "publisher": "The Verge",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -124,79 +162,22 @@
       }
     },
     {
-      "id": "18152e636b3928c12cc07764e3018fe391d73cd0",
-      "company": "Google",
+      "id": "da4dec12b6adbd646c520958905148b04c4568f1",
+      "company": "Anthropic",
       "sourceKind": "external",
-      "sourceId": "external-google-major",
-      "sourceLabel": "Major External News - Google",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYzBMZWt0NU8xcjFkNkwyN1BZc3BFNkdTNS1OSGVHRXdaRjRrUWk4eEk2U3FaU2tmRXhWZF9CUEdWeG45RUNxdGtxT1RuTWxxSHlCYmV5N3YzX0Y4R1dWTFhEYmdJNXBjenlJNW5fMDlaRGRXellMLTN5WEVxV2NCaEJuYWFVZlVYTzE3TFFCVXBhS3ZEMkVkRU1B?oc=5",
-      "title": "CFTC, Gemini File Joint Motion to Reverse $5M Settlement",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcEVNVkZEUDM2am1YbW1Pa2FjT280VGJuck5yYUZKV3pxcVlrRk9kcFpuWklGYXBGWmE1SFdpS0t3S21HOUt5QXRwcEo0QjRDcXlFRk1GVGlfV0YyUjNONEtmTWF2c3VxTjZLeDduaHNCbEx0aHg5cDBKR25OTHhpSHpobk5GdTRFNkUzbGVITzdjUG5hb3c?oc=5",
+      "title": "Anthropic’s Mythos Is a Security Powerhouse. It’s Also a Budget Buster",
       "summary": "",
-      "publishedAt": "2026-05-28T09:47:27.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "8556e155f04c882f6655030689159bde462c6a7c",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQenUxNUVMbUFhVE5BODVEQURmajU5SUdJRW5Za2RyQkJsQ0NkbzlfT1dfY1dwcFBfOEtlbHhWbmE4NndRWGQ2Skw0emZDU2RnazR0YTVHeWU3bUNVclYtdWFNRVFVY1Q0MWFZMTluNVNFYkd5eFpMakFKTzA1bGNpU1NYTGN3ckdQOVh3QTVSUWZrdw?oc=5",
-      "title": "Supreme Court lets Vermont’s Meta lawsuit proceed, opening door to 50-state legal wave",
-      "summary": "",
-      "publishedAt": "2026-05-27T14:12:00.000Z",
-      "publisher": "Fortune",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "45c4fa0cc1e7384b5101dc14be5dfea4aca9a339",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZFNVcGlkUU5HX25UbzZDU1ZjbjJfXzBOZ01oMi1BR2dnenVadGpiWEtQdVFBZ2lGd0ZDWXNqaF9YdjViOGt6Q2YwX2pORFRFYlBRTkQ3QXd6c2h3YUkyV0JRLVRHSEFwU29OZkYtS1llUXV5RFRNeXZwWk9kd1BJMDMwZy01VU42ZGxHRHkwajlVZnlUN1E?oc=5",
-      "title": "AOC Demands EPA Probe After Residents Near Meta Data Center In Georgia Complain Of Murky Drinking Water: Cannot 'Take For Granted'",
-      "summary": "",
-      "publishedAt": "2026-05-24T16:31:37.000Z",
-      "publisher": "Yahoo",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "5a93c5b9d88d8ada36f7b7c384b651607e6d11b0",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos",
-      "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
-      "summary": "Watch 9 videos showing the capabilities of Gemini Omni and Gemini 3.5, announced at Google I/O 2026.",
-      "publishedAt": "2026-05-29T17:30:00.000Z",
-      "publisher": "",
+      "publishedAt": "2026-06-01T13:00:00.000Z",
+      "publisher": "The Information",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
         "score": 5,
-        "reason": "Flagship model or product launch"
+        "reason": "Safety, security, or policy update"
       }
     },
     {
@@ -238,16 +219,16 @@
       }
     },
     {
-      "id": "f8a57568b0625a9f565827c25e1d0a5c0806f5b8",
-      "company": "Anthropic",
+      "id": "4dcbb188385799256a5e88ffef8fd83238d770f4",
+      "company": "OpenAI",
       "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeEYweUhONDZuY3lWbG1FUnFITTR2UkI3UFlLY2h6c3ZwYUl2QkFDSEtmSUItVU1tN3RYZ2dpdHRFaC1EZXcyZS0tYU1aVG9ubHNwem1UdUFHTm5Dd3RveTJBbkNzVlA4akp5ZnktM2ZzVFpMYm9hZHM3N08wTEF6YndwRlJySDI0UGk0U0cxeUxvZFFKVVZBaXAtNW5sVXZKdWN2RzRJRjFOQQ?oc=5",
-      "title": "Anthropic leapfrogs OpenAI with a record $965 billion valuation and says its ‘Mythos’ AI model is coming soon",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTFZYMWgwNEJVVDRtM2lnc2kyaDJ5cGQyb0x3RGhlMmRELTBPa0duc2FmY1FOOFEtNW44eGxhWlM1VnY1Zi13ZEJsazBtYW5rYTRPUHVrUmVkWFNNeS1GLVo5bFdtVlp5cUk4QXZhVk1JSUhDdGZsN3pXVEdWYTV2TmY0b1M4ckRNNE40VHg0MkNVeC1QekZ1Zjh6UWROMmZTRUZR?oc=5",
+      "title": "Anthropic Hits $965 Billion Valuation In Latest Funding Round, Surpassing OpenAI",
       "summary": "",
-      "publishedAt": "2026-05-29T16:34:54.000Z",
+      "publishedAt": "2026-06-01T10:46:26.000Z",
       "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
@@ -257,22 +238,41 @@
       }
     },
     {
-      "id": "a4936269c6dca359a18affe183c66f2b8c368192",
-      "company": "Anthropic",
+      "id": "cc816d4bb211d1ba1fe7acaf96b092cb3a661be9",
+      "company": "Microsoft",
       "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVWNPakpCUk95c01zWTE0U2hsUk80MGZiTjhPcG10Rnh1cUJ3Qldac2haWmk0LXdtbTdYc3d0Umt0QkxvWEpwWmdKWVdEYkFDSGpLRTlub05waXF4MXZUMFBsbE5hRzM5d21VREM1R0ZNbF9hRTRZa29fRHpxOC1NREFRNHBaX0dMYUxsd2FPT2c1eGtWc1pmc0hVdjEzREVpRXZWQkRLQVZ2bzM3cldzN2N4bw?oc=5",
-      "title": "Anthropic Co-Founders Worth $8 Billion Each After Funding Round",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLVJaamxDSHI5cUZZTUdnZ2NQMFpxTVp3Y1NxWDhuLUQzRGZKU0pyYXdPLWlvREptZUE4WjlDWk5yVk00bF81R21UZ0VFeDIzMHFGRDE2MU9lTEUwR042VUFMUUlIeXdUV3RVV2s3REVJaGdjVGhzY21yR3Y3SWM5TGhsemVsUFZvemJzaWJoSnVuR19jOU11TlBXejQzanhaRklYV0VR0gGrAUFVX3lxTE9xV1dNSU1vblpSbndLWUJhdTNTaS0zNkRMbkxDd0xwVWdKNU8zWVhwaWd2XzVUMVFhd0ljTG1TQV9GSHFVN2FHd0MxZzg5akYtN1RVSDNoazV5TnRsY2t0UEtPOHBCRUVkYjZXbnBrOVd0TGluUFRodWJ6d3VralI1UjRVeGIyZWdVY0pHX216bmlOelhZSHMtcmtnOTJSUVZmXzN0ZGR5ZkRSaw?oc=5",
+      "title": "Nvidia jumps into PCs with new Arm-based chip debuting in laptops from Microsoft, Dell, HP",
       "summary": "",
-      "publishedAt": "2026-05-29T14:59:32.000Z",
-      "publisher": "Bloomberg.com",
+      "publishedAt": "2026-06-01T04:36:29.000Z",
+      "publisher": "CNBC",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
         "score": 4,
         "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "5a93c5b9d88d8ada36f7b7c384b651607e6d11b0",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos",
+      "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
+      "summary": "Watch 9 videos showing the capabilities of Gemini Omni and Gemini 3.5, announced at Google I/O 2026.",
+      "publishedAt": "2026-05-29T17:30:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Flagship model or product launch"
       }
     },
     {
@@ -333,6 +333,44 @@
       }
     },
     {
+      "id": "db3e6e9703fe8da364209203901d58c79b67c02a",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUmJGSjI5ZEctVHRLUGhFQW1qcVRJajVmMTZRcmdkRWR2OWdKOVFhMG9HVVQwTjk2bUZPNFlLanJ6TWFCUVhmSkJnYVhpamluLVVLNnh6NUJnSlc2MGc2WkhkeTliUHQzUHVkeDJ0YWoyYWRKMXZ0UXBWOTBpVGJIeUUxZldmSl8zYlZ5djlfVDhQbHRoWUE?oc=5",
+      "title": "OpenAI’s Revenue Chief Barnstorms for Business Customers",
+      "summary": "",
+      "publishedAt": "2026-05-30T13:00:00.000Z",
+      "publisher": "The Information",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "a4936269c6dca359a18affe183c66f2b8c368192",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVWNPakpCUk95c01zWTE0U2hsUk80MGZiTjhPcG10Rnh1cUJ3Qldac2haWmk0LXdtbTdYc3d0Umt0QkxvWEpwWmdKWVdEYkFDSGpLRTlub05waXF4MXZUMFBsbE5hRzM5d21VREM1R0ZNbF9hRTRZa29fRHpxOC1NREFRNHBaX0dMYUxsd2FPT2c1eGtWc1pmc0hVdjEzREVpRXZWQkRLQVZ2bzM3cldzN2N4bw?oc=5",
+      "title": "Anthropic Co-Founders Worth $8 Billion Each After Funding Round",
+      "summary": "",
+      "publishedAt": "2026-05-29T14:59:32.000Z",
+      "publisher": "Bloomberg.com",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
       "id": "d49697a60fb665002e102ba34ab9a7e4206526bf",
       "company": "OpenAI",
       "sourceKind": "external",
@@ -352,82 +390,6 @@
       }
     },
     {
-      "id": "e4f175d65695c3344550d705d6944530e384c978",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVG16bENNdUJJOVNhSjhFVDZhS25JMUM3T25udndfYkh5aUpISTZSTFNqTF9nbllyZU9LT25rUXhSYXVQVHJTdU5pRWpwQTNGcUdLTFZ1eFNKamhETmZSN2doZ0k5bVJ2MDVPR2ViTUJzV2xvVVdoUFI5R0YzeUdsVG5jWjVsOWs1WkFSNy1Hbm9LcmRkZDJ1R05BS2Nmc2I1b0hzUFVaaGxIaGFS?oc=5",
-      "title": "Anthropic reaches $965 billion valuation after fresh funding round, overtaking OpenAI",
-      "summary": "",
-      "publishedAt": "2026-05-29T11:07:50.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "98cc04cf8ce03d4f24c4b9c95f32690dc3ef0af2",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRUpjZXd5MTl2S0ZtVWhmelZRdXBNaEM1UU1KQkppbVoxOG9hWkRlSEp1cjZGZV94TG1uVi1vTHhJXzdpYUZ5ZHlTcm1qWUgtd0RGRWl4WlFTVGUxU2k5WkFwaXp4ZkVFcWF6eWhvaFVVQkwzVHZTWlllRV9iSTMtTWRmSmt0RXBJenVtbjFQU0RqQ0h6a0V2eFhrQQ?oc=5",
-      "title": "Anthropic's valuation surges to $965 billion, surpassing OpenAI",
-      "summary": "",
-      "publishedAt": "2026-05-29T01:25:20.000Z",
-      "publisher": "Reuters",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "32b7c27d227ff1e07fa69fb046399e0281306930",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWExOcE1aRUk4NzI1YjNHUFkyUlBkZnhmNDJDcWVuZUx2SFVfSVNFT1cyaWJ3Q081RjQ0ZGJqbG9LYUVaeTBQeDdGUC1pVUh4VEUxNUdvdXctX25fZDA4eXVWcGVscm4wcjE4ZmZCeE5oOG1NbzBMeVlVUjJYb3VwclJFSi1BUGtwdWV5TkgweGdyaHRiRVhMcUVQSW1UT01RQUpHX3FCSnhlQQ?oc=5",
-      "title": "Watch Anthropic Raises at $965 Billion Valuation, Eclipsing OpenAI",
-      "summary": "",
-      "publishedAt": "2026-05-29T00:00:00.000Z",
-      "publisher": "Bloomberg.com",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "ffff9e8d086f80017e080b4d62328cbf9b2b5871",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNN1h0UGx5bEhpRDl2aFRVWWNQX2xHQjFfX2hXQWp3MzFkYUJmbzlESzBvN2hhQzZJb2xjRFFOd2FBTnppejg4a3ZqS3FOSi1idEF1c2ExZm9UNnh6WFY2ZXZQcXV3aFUtNGJVM29NUWpJSG1sb3ZhNFF5MG5TZllCQ2pUZWYxeXRCWkNuUkMwajZiN0lETmpjMVY1SXZEck1QcUdyVm1xLWJsQ2UyLVE?oc=5",
-      "title": "Anthropic Eclipses OpenAI With Valuation of $965 Billion",
-      "summary": "",
-      "publishedAt": "2026-05-28T20:05:34.000Z",
-      "publisher": "Bloomberg.com",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
       "id": "f5bd6c98ab646536f6519d978443a502f2d3d87b",
       "company": "Meta",
       "sourceKind": "external",
@@ -438,6 +400,25 @@
       "title": "BABA vs. META: Which AI Data Center Giant Is the Better Bet?",
       "summary": "",
       "publishedAt": "2026-05-28T14:47:00.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "a4250e60e9252ab36cfe776c53365b68f99303fb",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTUt6ZWlraWFCT1BNTWlDZkMydkxZdFFkY1pWZzBoWFlMdE9IbTBOb1RsLXpSZVEwZDE5VnhSdnRzbko1RVpZNGR4SElDcDJ2OTZlc05WVTRIcFh5NjFRaVBiTWRvWVA3eTdnR0tmSkZYSkdQck4wZEtKbVg2VmtDTFZ0TmRGWEtpRGtWYmRrNTZiVUh3S2NHUE90WEYyQUdqZEJHQQ?oc=5",
+      "title": "Amazon, Google, Meta, Microsoft back data center clean-tech fund",
+      "summary": "",
+      "publishedAt": "2026-05-27T17:28:33.000Z",
       "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
@@ -466,18 +447,18 @@
       }
     },
     {
-      "id": "62c816ddc9f99971237ab492ef010591eb6238b9",
-      "company": "Google",
+      "id": "ea58427a703f714ff1a0b1f2ef528c677465776a",
+      "company": "Anthropic",
       "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz",
-      "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
-      "summary": "We used Google AI Studio to vibe code a quiz about our top I/O 2026 announcements.",
-      "publishedAt": "2026-05-29T19:00:00.000Z",
+      "sourceId": "anthropic-news",
+      "sourceLabel": "Anthropic News",
+      "homepageUrl": "https://www.anthropic.com/news",
+      "url": "https://www.anthropic.com/news/confidential-draft-s1-sec",
+      "title": "Anthropic confidentially submits draft S-1 to the SEC",
+      "summary": "",
+      "publishedAt": "2026-06-01T00:00:00.000Z",
       "publisher": "",
-      "discoveryMethod": "feed",
+      "discoveryMethod": "anchor",
       "classification": {
         "bucket": "digest",
         "score": 2,
@@ -523,6 +504,25 @@
       }
     },
     {
+      "id": "62c816ddc9f99971237ab492ef010591eb6238b9",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz",
+      "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
+      "summary": "We used Google AI Studio to vibe code a quiz about our top I/O 2026 announcements.",
+      "publishedAt": "2026-05-29T19:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 1,
+        "reason": "Routine official update"
+      }
+    },
+    {
       "id": "a37c51f31f95cb44b1380e40db22ab3cbcadb102",
       "company": "Google",
       "sourceKind": "official",
@@ -544,22 +544,174 @@
   ],
   "newItems": [
     {
-      "id": "f8a57568b0625a9f565827c25e1d0a5c0806f5b8",
+      "id": "435923d7f00ed3ffe683f13220cd1da8433a74f0",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdy1EZkgtQnBvVW5YSDVyWVZiODhQVXZaSHFsYVFMMENZMy1YMTBIM0pSS0VqSzBxUDFGSS04VGExYzhzY21iYkxrWXU1blJpenU1NEtBd2NjSzE1X0xsVFFOOEdoOVJETThGSkxROWlRZWdCR1E3RG9Nd0U5WkkybGd4VEJKZ3l3REZFd0xCTTBpOW1NZGgwQ3djeURIV04wUlMyTlV1Szd4TlU?oc=5",
+      "title": "Yubico Partners with OpenAI to Support Passkey Mandate for its Trusted Access for Cyber (TAC) Program Users",
+      "summary": "",
+      "publishedAt": "2026-06-01T15:00:00.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "b74307f5d225695d908dbef70cdd6f4c6073dbe9",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNnJ5c3Zzd0pzOUJiMFJUSGVCaW1abFN0T1d5WUpKMWctM1hadW1PZ1Rqb3lyQ1RXSFgyS2NybjRYd3V3cXBDMnhUa19SLXE0dlJfUUdqUy1RNU02VzdaaHhBRlp3aDc4YkJlLUJWOHVCZ0dVdWZxX0VuZ09naGpSb1h0ZWNGcU5tS2xKRFhzQnBYM2Z3SVpsR252Vm1vQjI1UUtTZWoxdWM?oc=5",
+      "title": "Florida sues OpenAI and CEO Sam Altman, accusing them of putting profit over safety",
+      "summary": "",
+      "publishedAt": "2026-06-01T14:33:16.000Z",
+      "publisher": "NBC News",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "baef34137e709f38acc02f8d1977310a71fad79f",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSk1SRzB2cm9SdUowOTFycDhpQnl5el9IN1BPU2drOVltQWljNW1kX1NRTmpGNDJxNWhjeV9ZWm5aN1lHSUl0T3pFSUYxWmh5NjNIRU9zUUh0eGlNRzNWVXRpRHF4RFd3eWJPRVFGWGpHTVN4OXZTdThEbTFlMGNDYmdScDhpNEJNemdvN3hB?oc=5",
+      "title": "Microsoft could be the next Big Tech antitrust target",
+      "summary": "",
+      "publishedAt": "2026-06-01T13:23:39.000Z",
+      "publisher": "The Verge",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "da4dec12b6adbd646c520958905148b04c4568f1",
       "company": "Anthropic",
       "sourceKind": "external",
       "sourceId": "external-anthropic-major",
       "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeEYweUhONDZuY3lWbG1FUnFITTR2UkI3UFlLY2h6c3ZwYUl2QkFDSEtmSUItVU1tN3RYZ2dpdHRFaC1EZXcyZS0tYU1aVG9ubHNwem1UdUFHTm5Dd3RveTJBbkNzVlA4akp5ZnktM2ZzVFpMYm9hZHM3N08wTEF6YndwRlJySDI0UGk0U0cxeUxvZFFKVVZBaXAtNW5sVXZKdWN2RzRJRjFOQQ?oc=5",
-      "title": "Anthropic leapfrogs OpenAI with a record $965 billion valuation and says its ‘Mythos’ AI model is coming soon",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcEVNVkZEUDM2am1YbW1Pa2FjT280VGJuck5yYUZKV3pxcVlrRk9kcFpuWklGYXBGWmE1SFdpS0t3S21HOUt5QXRwcEo0QjRDcXlFRk1GVGlfV0YyUjNONEtmTWF2c3VxTjZLeDduaHNCbEx0aHg5cDBKR25OTHhpSHpobk5GdTRFNkUzbGVITzdjUG5hb3c?oc=5",
+      "title": "Anthropic’s Mythos Is a Security Powerhouse. It’s Also a Budget Buster",
       "summary": "",
-      "publishedAt": "2026-05-29T16:34:54.000Z",
+      "publishedAt": "2026-06-01T13:00:00.000Z",
+      "publisher": "The Information",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "4dcbb188385799256a5e88ffef8fd83238d770f4",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTFZYMWgwNEJVVDRtM2lnc2kyaDJ5cGQyb0x3RGhlMmRELTBPa0duc2FmY1FOOFEtNW44eGxhWlM1VnY1Zi13ZEJsazBtYW5rYTRPUHVrUmVkWFNNeS1GLVo5bFdtVlp5cUk4QXZhVk1JSUhDdGZsN3pXVEdWYTV2TmY0b1M4ckRNNE40VHg0MkNVeC1QekZ1Zjh6UWROMmZTRUZR?oc=5",
+      "title": "Anthropic Hits $965 Billion Valuation In Latest Funding Round, Surpassing OpenAI",
+      "summary": "",
+      "publishedAt": "2026-06-01T10:46:26.000Z",
       "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
         "score": 4,
         "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "cc816d4bb211d1ba1fe7acaf96b092cb3a661be9",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLVJaamxDSHI5cUZZTUdnZ2NQMFpxTVp3Y1NxWDhuLUQzRGZKU0pyYXdPLWlvREptZUE4WjlDWk5yVk00bF81R21UZ0VFeDIzMHFGRDE2MU9lTEUwR042VUFMUUlIeXdUV3RVV2s3REVJaGdjVGhzY21yR3Y3SWM5TGhsemVsUFZvemJzaWJoSnVuR19jOU11TlBXejQzanhaRklYV0VR0gGrAUFVX3lxTE9xV1dNSU1vblpSbndLWUJhdTNTaS0zNkRMbkxDd0xwVWdKNU8zWVhwaWd2XzVUMVFhd0ljTG1TQV9GSHFVN2FHd0MxZzg5akYtN1RVSDNoazV5TnRsY2t0UEtPOHBCRUVkYjZXbnBrOVd0TGluUFRodWJ6d3VralI1UjRVeGIyZWdVY0pHX216bmlOelhZSHMtcmtnOTJSUVZmXzN0ZGR5ZkRSaw?oc=5",
+      "title": "Nvidia jumps into PCs with new Arm-based chip debuting in laptops from Microsoft, Dell, HP",
+      "summary": "",
+      "publishedAt": "2026-06-01T04:36:29.000Z",
+      "publisher": "CNBC",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "db3e6e9703fe8da364209203901d58c79b67c02a",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUmJGSjI5ZEctVHRLUGhFQW1qcVRJajVmMTZRcmdkRWR2OWdKOVFhMG9HVVQwTjk2bUZPNFlLanJ6TWFCUVhmSkJnYVhpamluLVVLNnh6NUJnSlc2MGc2WkhkeTliUHQzUHVkeDJ0YWoyYWRKMXZ0UXBWOTBpVGJIeUUxZldmSl8zYlZ5djlfVDhQbHRoWUE?oc=5",
+      "title": "OpenAI’s Revenue Chief Barnstorms for Business Customers",
+      "summary": "",
+      "publishedAt": "2026-05-30T13:00:00.000Z",
+      "publisher": "The Information",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "a4250e60e9252ab36cfe776c53365b68f99303fb",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTUt6ZWlraWFCT1BNTWlDZkMydkxZdFFkY1pWZzBoWFlMdE9IbTBOb1RsLXpSZVEwZDE5VnhSdnRzbko1RVpZNGR4SElDcDJ2OTZlc05WVTRIcFh5NjFRaVBiTWRvWVA3eTdnR0tmSkZYSkdQck4wZEtKbVg2VmtDTFZ0TmRGWEtpRGtWYmRrNTZiVUh3S2NHUE90WEYyQUdqZEJHQQ?oc=5",
+      "title": "Amazon, Google, Meta, Microsoft back data center clean-tech fund",
+      "summary": "",
+      "publishedAt": "2026-05-27T17:28:33.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "ea58427a703f714ff1a0b1f2ef528c677465776a",
+      "company": "Anthropic",
+      "sourceKind": "official",
+      "sourceId": "anthropic-news",
+      "sourceLabel": "Anthropic News",
+      "homepageUrl": "https://www.anthropic.com/news",
+      "url": "https://www.anthropic.com/news/confidential-draft-s1-sec",
+      "title": "Anthropic confidentially submits draft S-1 to the SEC",
+      "summary": "",
+      "publishedAt": "2026-06-01T00:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "anchor",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
       }
     }
   ],
