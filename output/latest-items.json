@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-03T15:45:50.396Z",
+  "generatedAt": "2026-06-04T15:12:42.241Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -76,27 +76,46 @@
     }
   ],
   "totals": {
-    "fetched": 44,
+    "fetched": 43,
     "deduped": 24,
-    "new": 6,
+    "new": 11,
     "byKind": {
-      "official": 13,
-      "external": 11
+      "official": 12,
+      "external": 12
     }
   },
   "items": [
     {
-      "id": "a560a3d0cb58d193721a14cf444895c2ef666c9a",
-      "company": "Microsoft",
+      "id": "e5260a15a6f923f3d3fb65a8fba8afc4dc248523",
+      "company": "Anthropic",
       "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcnByd3ktSEMtR2dlVkZsQkRxRkUtRVJGcF9hcTNsRDN2ODdycUJWdUItZjA4cnpDR19lcklLWlo5TmdXWHYzYkNYeXd1RkpZVXZvSlFkbXpIX3JtZ0lYbDRwTVRNZzZmZ0xkamUxa3pyY2FpUUZNZkI1X0U0R01venNaWQ?oc=5",
-      "title": "Florida sues OpenAI and CEO over ChatGBT",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeHRXeVNFQlU4Z25NeGhMdWNjSVV5UUp3d3h6cS1ZaXdkeEJ4VHRnNFZIMTNOTFJ0WEIxa1EwUmt5aDJFRkJmdHJ1Tk53dTFXVldNdC1CaklQUzAyamdHeVY1RHJmUzg4dkp3UmFYTVozVTFfSTNwb0FUTEo4NWV2VDlKVjF5aVExWE9ZYTNyeENXYjk1ZUFQVkxMZUI5WUxwb3dBSA?oc=5",
+      "title": "EPAM Systems (EPAM), Anthropic Forge Multi-Year Partnership to Accelerate Enterprise AI Transformation",
       "summary": "",
-      "publishedAt": "2026-06-03T11:08:00.000Z",
-      "publisher": "Yahoo",
+      "publishedAt": "2026-06-04T09:06:59.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "f0786155d6ec471471c47f06d1fbab3e9a957c47",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZXUwSTVVLUtJbktZay1PNjVEaXBHOG45Ykd6U0JHTmlwSU12dE0tMVgtYUZXN2dQR0hmMW8wb2swRmlQX0gyanpmM3UtX3FENkRIRV9xem4yOHFYQkRKbjljc0lrb0NHQ3BGREtVUmlocGJJeXEyOHZqaXR4VE5IMUFPb3BsOEpKYnoweHZUd0I2ZzFSUDhVcmZRcDNRdklYcFE5UWdlQTFZZw?oc=5",
+      "title": "Wolters Kluwer Deepens OpenAI Partnership As Shares Come Under Pressure",
+      "summary": "",
+      "publishedAt": "2026-06-04T03:16:00.000Z",
+      "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -119,7 +138,7 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 7,
+        "score": 6,
         "reason": "Corporate move or major external event"
       }
     },
@@ -138,16 +157,16 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 7,
+        "score": 6,
         "reason": "Corporate move or major external event"
       }
     },
     {
       "id": "f989c469de53eb8933e7943e8d33e8cc55f76c2e",
-      "company": "OpenAI",
+      "company": "Microsoft",
       "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
       "homepageUrl": "https://news.google.com/",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcGlob3lFNDdEa0xBaXlBQWh4U1JBWmVuZy1XTVU0a0xqUUpnWnRlckRMbEVNM3k3S01DVE8teUQxX0lJOWVvQXZMc3pFWmpfNFVVcUNUbDBqNnZpN1kyNHJ6NVBhZHIwMGxNMWtjaWtFTFhuN2V2QkJpSTk5aXBsTl9iT2paUnNSYVNTZURqdlNFMzhWVzZFcw?oc=5",
       "title": "Florida sues OpenAI and CEO Sam Altman, claiming company concealed serious risks of ChatGPT",
@@ -157,16 +176,16 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 7,
+        "score": 6,
         "reason": "Corporate move or major external event"
       }
     },
     {
       "id": "eef0857a23133d0a4f825ad01e9ffd0ecc63a849",
-      "company": "OpenAI",
+      "company": "Microsoft",
       "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
       "homepageUrl": "https://news.google.com/",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSFY5RUl2cThBUmxXVXI0S0RZZW9RNjdWVnpmRThIeUp3Y3dNbklGaDBmbTN3bjFJT1BNckdJS3dXUDN0aHg5SmZ0UXF1TFptSTREVEhPMDJZc3RjUXQ2MU5hMkVSV2pDNGJwWmJ1OUhYSm9uWGRwaEVUUElkWU8yZmo2YzFtU3Vnd3ZIZThHaw?oc=5",
       "title": "Florida sues OpenAI and CEO Sam Altman over ChatGPT",
@@ -176,26 +195,7 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "994c724a90faf6b0eac971bbf5ee31287f388113",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQa0hyNGRfbjMybWROU1RXc2dTX2wyQzJHekNyUi1qYTRWMnBGR2xxQ1NBTVM2eFJYZnJPZ2V0Yk80N2dnX1VWQ2ZEdG9aaURQZlk3aHhfcnhodlE2MUR1X1g4R3ZOV0hPbWR4ZjQ4amEtV1lNel9raUkycXFJOUp4OV9yYks3NndIRjR6T0NUMjJla2ZpWVJFcF9wQzJyN0lqMHVLRjJheW5RcG0wUVBSYUJiUDE1VE5J?oc=5",
-      "title": "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents",
-      "summary": "",
-      "publishedAt": "2026-06-01T20:03:40.000Z",
-      "publisher": "TechCrunch",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
+        "score": 6,
         "reason": "Corporate move or major external event"
       }
     },
@@ -214,7 +214,45 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 7,
+        "score": 6,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "148a3109b0895316d8662aa2c443f72ecab9abef",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObkxyNURrcHRpU2oxSjB0bnZKMjBSSGFzN05fQkExTEFiZjdtQk5YZlR3QUNEZUw2V1RfRThNNDZpWlJ0Y21UY1daUGsxdmVQZFlzMEpuR3N1eFRLMzl4OC1KTGJDdmk2VEZqa0thRlpnMGlzN0lyenNJc3NaWG5ENEV1MEtlaU5SV2c?oc=5",
+      "title": "Florida sues OpenAI, alleging it’s unsafe for children",
+      "summary": "",
+      "publishedAt": "2026-06-01T17:39:19.000Z",
+      "publisher": "CNN",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "b14b31080628de04515a55e9c6a7f16fa40863b3",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Hc0hORnBNMmo2NGdJWUQ1eDV4Tk4taTczdEwzRHZEbHF3SE43QlpkUkRpLWI0YURYSFdqYk43ZjRYYVJDQV8taE9PZGRRWWMySURnN1ZaWUlaLWVjRG1RTXc2bUtOSklIUEppaWRVS01tczZZYXNRNjN30gF_QVVfeXFMUGw0czhVbWhUOTZmUnpHWkR0bVVBVU1ZWUV3N3kzVkpXQW42WTR0ejExN0gtV1hGd2o2b2RjR0V1bmJINFBGMXZGRnVMenA3VVFRSDA1Q1FZV2VmejNPcXhKdmk3OVpteF9OeV9xbExYb3c2NzlNM2MxOHNya2dkRQ?oc=5",
+      "title": "Florida AG sues OpenAI, seeks to hold CEO Altman personally liable for alleged harms",
+      "summary": "",
+      "publishedAt": "2026-06-01T17:08:48.000Z",
+      "publisher": "CNBC",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
         "reason": "Corporate move or major external event"
       }
     },
@@ -229,7 +267,7 @@
       "title": "CFTC Moves to Undo Settlement That Had Gemini Paying $5 Million",
       "summary": "",
       "publishedAt": "2026-05-28T16:52:50.000Z",
-      "publisher": "Bloomberg.com",
+      "publisher": "bloomberg.com",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -257,6 +295,63 @@
       }
     },
     {
+      "id": "a5e2c2c6cdff2c4d07589f03bbed1919fd87ca7c",
+      "company": "Meta",
+      "sourceKind": "official",
+      "sourceId": "meta-newsroom",
+      "sourceLabel": "Meta Newsroom",
+      "homepageUrl": "https://about.fb.com/news/",
+      "url": "https://about.fb.com/news/2026/06/creator-assistant-more-languages-for-ai-translations-on-facebook",
+      "title": "Introducing Creator Assistant, Plus More Languages For AI Translations on Facebook",
+      "summary": "Creator assistant understands each creator's unique presence and helps them take action to grow. The post Introducing Creator Assistant, Plus More Languages For AI Translations on Facebook",
+      "publishedAt": "2026-06-04T15:00:34.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "38b6d7c4a0689075f27b0c6314e8e88670dd298d",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b",
+      "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
+      "summary": "An overview of Gemma 4 12B, a model designed to bring high-performance multimodal intelligence directly to your laptop.",
+      "publishedAt": "2026-06-03T16:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "bfb45dcad644b624d2132c3bfa3c4c35a56c6afc",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
+      "title": "Introducing new capabilities to GPT-Rosalind",
+      "summary": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities.",
+      "publishedAt": "2026-06-03T13:15:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
       "id": "45ac77bf5452f355784bafc588e32bad6b20174e",
       "company": "Google",
       "sourceKind": "official",
@@ -271,59 +366,40 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "fe771eec13ba0ed86c0b2e312c4f3239aee40c7f",
-      "company": "Meta",
-      "sourceKind": "official",
-      "sourceId": "meta-newsroom",
-      "sourceLabel": "Meta Newsroom",
-      "homepageUrl": "https://about.fb.com/news/",
-      "url": "https://about.fb.com/news/2026/04/meta-partners-with-aws-on-graviton-chips-to-power-agentic-ai",
-      "title": "Meta Partners With AWS on Graviton Chips to Power Agentic AI",
-      "summary": "",
-      "publishedAt": null,
-      "publisher": "",
-      "discoveryMethod": "anchor",
-      "classification": {
-        "bucket": "critical",
         "score": 5,
         "reason": "Corporate move or major external event"
       }
     },
     {
-      "id": "147a267a4c9a865900bb2ae2cd7702a2abd99ced",
+      "id": "da4dec12b6adbd646c520958905148b04c4568f1",
       "company": "Anthropic",
       "sourceKind": "external",
       "sourceId": "external-anthropic-major",
       "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBxQTZJNkYtaEJXdG55ZE82bUI0RzQwY19pWXdmUjhnQ2hUN2ExczY5X09JM2RwaXRYSVYzQVVZMVpndm9fN2JKbFlleTk5TnVKaWp2M01QRjRib08zcWliLWw3T2txTU5qS3JLa0Y1TGRaQdIBd0FVX3lxTE1mODdtYV9uNHVENzgxNVJhcnFjNGxraEpNNW5wMTkwdXVLZWQ0ZU5RUTFRYnBjREhrQUU2M2gwdjMzeVd0UkVGMFZQaDVURXF2S1pjcWRyYWlmTDd2R0FmSXpCRDBkSG5tTTBHbWlSM1Mwd2lobTkw?oc=5",
-      "title": "Anthropic confidentially files IPO prospectus with SEC, prepping Wall Street for landmark AI deal",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcEVNVkZEUDM2am1YbW1Pa2FjT280VGJuck5yYUZKV3pxcVlrRk9kcFpuWklGYXBGWmE1SFdpS0t3S21HOUt5QXRwcEo0QjRDcXlFRk1GVGlfV0YyUjNONEtmTWF2c3VxTjZLeDduaHNCbEx0aHg5cDBKR25OTHhpSHpobk5GdTRFNkUzbGVITzdjUG5hb3c?oc=5",
+      "title": "Anthropic’s Mythos Is a Security Powerhouse. It’s Also a Budget Buster",
       "summary": "",
-      "publishedAt": "2026-06-01T16:04:44.000Z",
-      "publisher": "CNBC",
+      "publishedAt": "2026-06-01T13:00:00.000Z",
+      "publisher": "The Information",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
         "score": 4,
-        "reason": "Trusted external coverage"
+        "reason": "Safety, security, or policy update"
       }
     },
     {
-      "id": "00e733aa1592981948ee43cbdb0a5c04db7b6508",
+      "id": "fae173f5fba9c3cb268b09d2b6d457bb0d125e4e",
       "company": "OpenAI",
       "sourceKind": "official",
       "sourceId": "openai-newsroom",
       "sourceLabel": "OpenAI Newsroom",
       "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
-      "title": "Advancing youth safety and opportunity through global leadership",
-      "summary": "OpenAI calls for global action on youth AI safety, proposing an international institute to strengthen safeguards, standards, and opportunities for young people.",
-      "publishedAt": "2026-06-02T07:00:00.000Z",
+      "url": "https://openai.com/index/frontier-safety-blueprint",
+      "title": "A blueprint for democratic governance of frontier AI",
+      "summary": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
+      "publishedAt": "2026-06-03T10:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -333,60 +409,22 @@
       }
     },
     {
-      "id": "c8b9a6b007c10efde1067972ceb42aa5d9c137c9",
+      "id": "0a440e310365f4669c7115914db9d7696b79367f",
       "company": "OpenAI",
       "sourceKind": "official",
       "sourceId": "openai-newsroom",
       "sourceLabel": "OpenAI Newsroom",
       "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
-      "title": "Our views on AI policy and political advocacy",
-      "summary": "Our approach to AI policy and political advocacy, transparency, support for thoughtful regulation and AI safety, and that no outside political group speaks on the company’s behalf.",
-      "publishedAt": "2026-06-01T17:00:00.000Z",
+      "url": "https://openai.com/index/public-policy-agenda",
+      "title": "OpenAI public policy agenda",
+      "summary": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
+      "publishedAt": "2026-06-03T10:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
         "score": 4,
         "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "5a93c5b9d88d8ada36f7b7c384b651607e6d11b0",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos",
-      "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
-      "summary": "Watch 9 videos showing the capabilities of Gemini Omni and Gemini 3.5, announced at Google I/O 2026.",
-      "publishedAt": "2026-05-29T17:30:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "918121c45d596b702d7db6a79b3cf3f534385372",
-      "company": "Anthropic",
-      "sourceKind": "official",
-      "sourceId": "anthropic-news",
-      "sourceLabel": "Anthropic News",
-      "homepageUrl": "https://www.anthropic.com/news",
-      "url": "https://www.anthropic.com/news/claude-opus-4-8",
-      "title": "Introducing Claude Opus 4.8 Product An upgrade to our Opus class of models, with stronger performance across coding, agentic tasks, and professional work, and the consistency to handle long-running work.",
-      "summary": "",
-      "publishedAt": "2026-05-28T00:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "anchor",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Flagship model or product launch"
       }
     },
     {
@@ -438,7 +476,7 @@
       "title": "Anthropic Co-Founders Worth $8 Billion Each After Funding Round",
       "summary": "",
       "publishedAt": "2026-05-29T14:59:32.000Z",
-      "publisher": "Bloomberg.com",
+      "publisher": "bloomberg.com",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -447,35 +485,16 @@
       }
     },
     {
-      "id": "f5bd6c98ab646536f6519d978443a502f2d3d87b",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZ2tscnByWHl1WmctTzZ1bXZtekZ2U1k5cDl1alUzZ1lqa3M5dGNzTFRjMzVhdnN0SVJhdWZrR1JhbFZRbTE0MGpBYTNpU095NzdEMU5lR2FjSlBlbXI1ZWljbHNwdVZXRjRZa1ZYMkJVNVdvYVNwU0M1LS03NmpsaThWZGJQSXJLU3dUc3JB?oc=5",
-      "title": "BABA vs. META: Which AI Data Center Giant Is the Better Bet?",
-      "summary": "",
-      "publishedAt": "2026-05-28T14:47:00.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "8c810ea5d0c79d2f8080dd29e5f917b3c10dcc3c",
-      "company": "OpenAI",
+      "id": "594a6d5e98c290a215a636bd3515350759a66a3d",
+      "company": "Google",
       "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/codex-for-knowledge-work",
-      "title": "Codex is becoming a productivity tool for everyone",
-      "summary": "The Next Era of Knowledge Work report explores how Codex is transforming productivity through AI-powered research, data analysis, workflow automation, and content creation.",
-      "publishedAt": "2026-06-02T02:00:00.000Z",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/meitner-energy-center",
+      "title": "We’re announcing a new data center and energy investments in Gray and Roberts Counties, Texas.",
+      "summary": "Google and Intersect are announcing construction of the Meitner Energy Center, a new data center and new energy generation in Texas.",
+      "publishedAt": "2026-06-04T13:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -485,54 +504,35 @@
       }
     },
     {
-      "id": "7fe6917bd9f17b7273e19bac9a3c0c483dd9ba9b",
-      "company": "Meta",
-      "sourceKind": "official",
-      "sourceId": "meta-newsroom",
-      "sourceLabel": "Meta Newsroom",
-      "homepageUrl": "https://about.fb.com/news/",
-      "url": "https://about.fb.com/news/2026/06/meta-business-agent",
-      "title": "Be There for Every Customer With Meta Business Agent",
-      "summary": "Meta Business Agent is AI that lets every business show up for every customer, as if they had an infinite team behind them. The post Be There for Every Customer With Meta Business Agent",
-      "publishedAt": "2026-06-03T13:40:12.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "efcb57008e76d431356919bfbd519cd495c82d04",
+      "id": "3a0b4572422c1a8cbc95ae7fb7158fc8dc49f9d0",
       "company": "Anthropic",
       "sourceKind": "official",
       "sourceId": "anthropic-news",
       "sourceLabel": "Anthropic News",
       "homepageUrl": "https://www.anthropic.com/news",
-      "url": "https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack",
-      "title": "What we learned mapping a year’s worth of AI-enabled cyber threats",
+      "url": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy",
+      "title": "Responsible Scaling Policy",
       "summary": "",
-      "publishedAt": "2026-06-03T00:00:00.000Z",
+      "publishedAt": null,
       "publisher": "",
       "discoveryMethod": "anchor",
       "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
+        "bucket": "important",
+        "score": 3,
+        "reason": "Safety, security, or policy update"
       }
     },
     {
-      "id": "5219317a29dec185fe04e25773813197492a4ee5",
-      "company": "Microsoft",
+      "id": "d0841d29a3627d472a5a50040b4c8b044228c3d2",
+      "company": "OpenAI",
       "sourceKind": "official",
-      "sourceId": "microsoft-ai",
-      "sourceLabel": "Microsoft AI",
-      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
-      "url": "https://news.microsoft.com/source/2026/06/02/mayo-clinic-and-microsoft-collaborate-to-develop-a-frontier-ai-model-for-healthcare",
-      "title": "Mayo Clinic and Microsoft collaborate to develop a frontier AI model for healthcare",
-      "summary": "Mayo Clinic and Microsoft collaborate to develop a frontier AI model for healthcare",
-      "publishedAt": "2026-06-02T18:30:03.000Z",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/endava-frontiers",
+      "title": "How Endava is redesigning software delivery around AI agents",
+      "summary": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.",
+      "publishedAt": "2026-06-04T12:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -544,17 +544,17 @@
   ],
   "newItems": [
     {
-      "id": "a560a3d0cb58d193721a14cf444895c2ef666c9a",
-      "company": "Microsoft",
+      "id": "e5260a15a6f923f3d3fb65a8fba8afc4dc248523",
+      "company": "Anthropic",
       "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcnByd3ktSEMtR2dlVkZsQkRxRkUtRVJGcF9hcTNsRDN2ODdycUJWdUItZjA4cnpDR19lcklLWlo5TmdXWHYzYkNYeXd1RkpZVXZvSlFkbXpIX3JtZ0lYbDRwTVRNZzZmZ0xkamUxa3pyY2FpUUZNZkI1X0U0R01venNaWQ?oc=5",
-      "title": "Florida sues OpenAI and CEO over ChatGBT",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeHRXeVNFQlU4Z25NeGhMdWNjSVV5UUp3d3h6cS1ZaXdkeEJ4VHRnNFZIMTNOTFJ0WEIxa1EwUmt5aDJFRkJmdHJ1Tk53dTFXVldNdC1CaklQUzAyamdHeVY1RHJmUzg4dkp3UmFYTVozVTFfSTNwb0FUTEo4NWV2VDlKVjF5aVExWE9ZYTNyeENXYjk1ZUFQVkxMZUI5WUxwb3dBSA?oc=5",
+      "title": "EPAM Systems (EPAM), Anthropic Forge Multi-Year Partnership to Accelerate Enterprise AI Transformation",
       "summary": "",
-      "publishedAt": "2026-06-03T11:08:00.000Z",
-      "publisher": "Yahoo",
+      "publishedAt": "2026-06-04T09:06:59.000Z",
+      "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -563,17 +563,17 @@
       }
     },
     {
-      "id": "f989c469de53eb8933e7943e8d33e8cc55f76c2e",
+      "id": "f0786155d6ec471471c47f06d1fbab3e9a957c47",
       "company": "OpenAI",
       "sourceKind": "external",
       "sourceId": "external-openai-major",
       "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcGlob3lFNDdEa0xBaXlBQWh4U1JBWmVuZy1XTVU0a0xqUUpnWnRlckRMbEVNM3k3S01DVE8teUQxX0lJOWVvQXZMc3pFWmpfNFVVcUNUbDBqNnZpN1kyNHJ6NVBhZHIwMGxNMWtjaWtFTFhuN2V2QkJpSTk5aXBsTl9iT2paUnNSYVNTZURqdlNFMzhWVzZFcw?oc=5",
-      "title": "Florida sues OpenAI and CEO Sam Altman, claiming company concealed serious risks of ChatGPT",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZXUwSTVVLUtJbktZay1PNjVEaXBHOG45Ykd6U0JHTmlwSU12dE0tMVgtYUZXN2dQR0hmMW8wb2swRmlQX0gyanpmM3UtX3FENkRIRV9xem4yOHFYQkRKbjljc0lrb0NHQ3BGREtVUmlocGJJeXEyOHZqaXR4VE5IMUFPb3BsOEpKYnoweHZUd0I2ZzFSUDhVcmZRcDNRdklYcFE5UWdlQTFZZw?oc=5",
+      "title": "Wolters Kluwer Deepens OpenAI Partnership As Shares Come Under Pressure",
       "summary": "",
-      "publishedAt": "2026-06-01T21:37:00.000Z",
-      "publisher": "AP News",
+      "publishedAt": "2026-06-04T03:16:00.000Z",
+      "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -582,18 +582,18 @@
       }
     },
     {
-      "id": "49f44c80e766fb4b6d58d772ab220855d6058638",
-      "company": "Anthropic",
-      "sourceKind": "official",
-      "sourceId": "anthropic-news",
-      "sourceLabel": "Anthropic News",
-      "homepageUrl": "https://www.anthropic.com/news",
-      "url": "https://www.anthropic.com/news/services-track-partner-hub",
-      "title": "Introducing the Services Track and Partner Hub of the Claude Partner Network",
+      "id": "148a3109b0895316d8662aa2c443f72ecab9abef",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObkxyNURrcHRpU2oxSjB0bnZKMjBSSGFzN05fQkExTEFiZjdtQk5YZlR3QUNEZUw2V1RfRThNNDZpWlJ0Y21UY1daUGsxdmVQZFlzMEpuR3N1eFRLMzl4OC1KTGJDdmk2VEZqa0thRlpnMGlzN0lyenNJc3NaWG5ENEV1MEtlaU5SV2c?oc=5",
+      "title": "Florida sues OpenAI, alleging it’s unsafe for children",
       "summary": "",
-      "publishedAt": "2026-06-03T00:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "anchor",
+      "publishedAt": "2026-06-01T17:39:19.000Z",
+      "publisher": "CNN",
+      "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
         "score": 6,
@@ -601,54 +601,149 @@
       }
     },
     {
-      "id": "7fe6917bd9f17b7273e19bac9a3c0c483dd9ba9b",
+      "id": "b14b31080628de04515a55e9c6a7f16fa40863b3",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Hc0hORnBNMmo2NGdJWUQ1eDV4Tk4taTczdEwzRHZEbHF3SE43QlpkUkRpLWI0YURYSFdqYk43ZjRYYVJDQV8taE9PZGRRWWMySURnN1ZaWUlaLWVjRG1RTXc2bUtOSklIUEppaWRVS01tczZZYXNRNjN30gF_QVVfeXFMUGw0czhVbWhUOTZmUnpHWkR0bVVBVU1ZWUV3N3kzVkpXQW42WTR0ejExN0gtV1hGd2o2b2RjR0V1bmJINFBGMXZGRnVMenA3VVFRSDA1Q1FZV2VmejNPcXhKdmk3OVpteF9OeV9xbExYb3c2NzlNM2MxOHNya2dkRQ?oc=5",
+      "title": "Florida AG sues OpenAI, seeks to hold CEO Altman personally liable for alleged harms",
+      "summary": "",
+      "publishedAt": "2026-06-01T17:08:48.000Z",
+      "publisher": "CNBC",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "a5e2c2c6cdff2c4d07589f03bbed1919fd87ca7c",
       "company": "Meta",
       "sourceKind": "official",
       "sourceId": "meta-newsroom",
       "sourceLabel": "Meta Newsroom",
       "homepageUrl": "https://about.fb.com/news/",
-      "url": "https://about.fb.com/news/2026/06/meta-business-agent",
-      "title": "Be There for Every Customer With Meta Business Agent",
-      "summary": "Meta Business Agent is AI that lets every business show up for every customer, as if they had an infinite team behind them. The post Be There for Every Customer With Meta Business Agent",
-      "publishedAt": "2026-06-03T13:40:12.000Z",
+      "url": "https://about.fb.com/news/2026/06/creator-assistant-more-languages-for-ai-translations-on-facebook",
+      "title": "Introducing Creator Assistant, Plus More Languages For AI Translations on Facebook",
+      "summary": "Creator assistant understands each creator's unique presence and helps them take action to grow. The post Introducing Creator Assistant, Plus More Languages For AI Translations on Facebook",
+      "publishedAt": "2026-06-04T15:00:34.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Flagship model or product launch"
       }
     },
     {
-      "id": "efcb57008e76d431356919bfbd519cd495c82d04",
-      "company": "Anthropic",
+      "id": "38b6d7c4a0689075f27b0c6314e8e88670dd298d",
+      "company": "Google",
       "sourceKind": "official",
-      "sourceId": "anthropic-news",
-      "sourceLabel": "Anthropic News",
-      "homepageUrl": "https://www.anthropic.com/news",
-      "url": "https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack",
-      "title": "What we learned mapping a year’s worth of AI-enabled cyber threats",
-      "summary": "",
-      "publishedAt": "2026-06-03T00:00:00.000Z",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b",
+      "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
+      "summary": "An overview of Gemma 4 12B, a model designed to bring high-performance multimodal intelligence directly to your laptop.",
+      "publishedAt": "2026-06-03T16:00:00.000Z",
       "publisher": "",
-      "discoveryMethod": "anchor",
+      "discoveryMethod": "feed",
       "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Flagship model or product launch"
       }
     },
     {
-      "id": "5219317a29dec185fe04e25773813197492a4ee5",
-      "company": "Microsoft",
+      "id": "bfb45dcad644b624d2132c3bfa3c4c35a56c6afc",
+      "company": "OpenAI",
       "sourceKind": "official",
-      "sourceId": "microsoft-ai",
-      "sourceLabel": "Microsoft AI",
-      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
-      "url": "https://news.microsoft.com/source/2026/06/02/mayo-clinic-and-microsoft-collaborate-to-develop-a-frontier-ai-model-for-healthcare",
-      "title": "Mayo Clinic and Microsoft collaborate to develop a frontier AI model for healthcare",
-      "summary": "Mayo Clinic and Microsoft collaborate to develop a frontier AI model for healthcare",
-      "publishedAt": "2026-06-02T18:30:03.000Z",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
+      "title": "Introducing new capabilities to GPT-Rosalind",
+      "summary": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities.",
+      "publishedAt": "2026-06-03T13:15:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "fae173f5fba9c3cb268b09d2b6d457bb0d125e4e",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/frontier-safety-blueprint",
+      "title": "A blueprint for democratic governance of frontier AI",
+      "summary": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
+      "publishedAt": "2026-06-03T10:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "0a440e310365f4669c7115914db9d7696b79367f",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/public-policy-agenda",
+      "title": "OpenAI public policy agenda",
+      "summary": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
+      "publishedAt": "2026-06-03T10:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "594a6d5e98c290a215a636bd3515350759a66a3d",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/meitner-energy-center",
+      "title": "We’re announcing a new data center and energy investments in Gray and Roberts Counties, Texas.",
+      "summary": "Google and Intersect are announcing construction of the Meitner Energy Center, a new data center and new energy generation in Texas.",
+      "publishedAt": "2026-06-04T13:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Technical or research update"
+      }
+    },
+    {
+      "id": "d0841d29a3627d472a5a50040b4c8b044228c3d2",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/endava-frontiers",
+      "title": "How Endava is redesigning software delivery around AI agents",
+      "summary": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.",
+      "publishedAt": "2026-06-04T12:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
