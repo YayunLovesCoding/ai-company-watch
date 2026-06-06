@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T15:11:30.874Z",
+  "generatedAt": "2026-06-06T14:39:47.350Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -76,12 +76,12 @@
     }
   ],
   "totals": {
-    "fetched": 40,
+    "fetched": 36,
     "deduped": 24,
-    "new": 7,
+    "new": 3,
     "byKind": {
-      "official": 16,
-      "external": 8
+      "official": 20,
+      "external": 4
     }
   },
   "items": [
@@ -119,25 +119,6 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "fb56ddc245b5033bbc2919dc207e0ced7af91c5a",
-      "company": "Google",
-      "sourceKind": "external",
-      "sourceId": "external-google-major",
-      "sourceLabel": "Major External News - Google",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdDI2M3VMOHFpMi1mam1UOVZvR0cxa2tBTnRqRGtSMjVvbDllWVZGUzlxMUdXcXk1cXl5MExZbl9qOVRrUlJPcjVtOXdITTlaREJXT0hEQWV0RllTRUtNUURRM3JpLWoxZ1kyRlhtd1ppa25KUGYzM1J4NklKX09fN1psdl9UeXQxZ05Udk9lN184bDJpT25iWDUzNWhWNnAwN1dsT1FB0gGrAUFVX3lxTE1WX04xeXExcUwzeWFTdnF0ODh1bnJEdGRob20yc2FsX0ZpaUh4N3VOd3ZGQVZTWF9wLW5FeFFIX3NLaGtiMXhGYXdtVEpjMWNMb19VOC00WFJ1ZjBhQlNvLU9DbDVVc0c3eG1SZHBFTHIzQm02NlhHMnJfOGthaEJPa2ZOcFVHZFVhSE5CLUp2VktlaU1ac3dKRllJYUhXZ01GWXlDck5VSVJNVQ?oc=5",
-      "title": "Commodities regulator alleges Winklevosses' Gemini crypto exchange was politically targeted",
-      "summary": "",
-      "publishedAt": "2026-06-02T14:08:14.000Z",
-      "publisher": "CNBC",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
         "score": 6,
         "reason": "Corporate move or major external event"
       }
@@ -159,82 +140,6 @@
         "bucket": "critical",
         "score": 6,
         "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "dea69a1c7a7940ac82f86d5930abf81c50dc1228",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNa1RxMnp2ak1OekQtTWRjdXR1QjBsX1poVlRjVklwSWotT3FfUDNsdUFIdVhYa1A0ZlFHS3NSSlZrOWt4bEU2MzFEaENuWG1CZFkyNkZ5al9HU1o0VmQtRDJhUzIwOVBRQThldTNUdmZUeVdvN0dmdFVLa2NDZHFxb0ZIWVRxcHpyTk9GOVUweUV4bXdvYkNtamotMm5oYW5LRnQxZ1c2S1QwWEhldnhTMnhuVG5kUQ?oc=5",
-      "title": "Florida becomes first state to sue OpenAI over child safety risks",
-      "summary": "",
-      "publishedAt": "2026-06-01T21:08:06.000Z",
-      "publisher": "Reuters",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "148a3109b0895316d8662aa2c443f72ecab9abef",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObkxyNURrcHRpU2oxSjB0bnZKMjBSSGFzN05fQkExTEFiZjdtQk5YZlR3QUNEZUw2V1RfRThNNDZpWlJ0Y21UY1daUGsxdmVQZFlzMEpuR3N1eFRLMzl4OC1KTGJDdmk2VEZqa0thRlpnMGlzN0lyenNJc3NaWG5ENEV1MEtlaU5SV2c?oc=5",
-      "title": "Florida sues OpenAI, alleging it’s unsafe for children",
-      "summary": "",
-      "publishedAt": "2026-06-01T17:39:19.000Z",
-      "publisher": "CNN",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "b14b31080628de04515a55e9c6a7f16fa40863b3",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Hc0hORnBNMmo2NGdJWUQ1eDV4Tk4taTczdEwzRHZEbHF3SE43QlpkUkRpLWI0YURYSFdqYk43ZjRYYVJDQV8taE9PZGRRWWMySURnN1ZaWUlaLWVjRG1RTXc2bUtOSklIUEppaWRVS01tczZZYXNRNjN30gF_QVVfeXFMUGw0czhVbWhUOTZmUnpHWkR0bVVBVU1ZWUV3N3kzVkpXQW42WTR0ejExN0gtV1hGd2o2b2RjR0V1bmJINFBGMXZGRnVMenA3VVFRSDA1Q1FZV2VmejNPcXhKdmk3OVpteF9OeV9xbExYb3c2NzlNM2MxOHNya2dkRQ?oc=5",
-      "title": "Florida AG sues OpenAI, seeks to hold CEO Altman personally liable for alleged harms",
-      "summary": "",
-      "publishedAt": "2026-06-01T17:08:48.000Z",
-      "publisher": "CNBC",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "9fb1f039e888e93a3ed4f3779c4246022cfe7064",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQ3ROZzJOWUFlbV9NU1ZuUzlEV3BicXZXSWtvYTQ2WkIxQmhXVGdUS1NoRVNPdVFxUnpGdkZ1OElXZmNveHVtUzZuUkIybWw2ZnRnTTMwQ2RqaERCQjYtRnlZTHVVUHRxY3AzRjlEZzR1V1lWMHpSQTFzZVBmcTVUeXB4SWc?oc=5",
-      "title": "US National Security Agency using Anthropic’s Mythos for cyber attacks",
-      "summary": "",
-      "publishedAt": "2026-06-04T18:48:31.000Z",
-      "publisher": "Financial Times",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Safety, security, or policy update"
       }
     },
     {
@@ -295,25 +200,6 @@
       }
     },
     {
-      "id": "38b6d7c4a0689075f27b0c6314e8e88670dd298d",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b",
-      "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
-      "summary": "An overview of Gemma 4 12B, a model designed to bring high-performance multimodal intelligence directly to your laptop.",
-      "publishedAt": "2026-06-03T16:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
       "id": "49f44c80e766fb4b6d58d772ab220855d6058638",
       "company": "Anthropic",
       "sourceKind": "official",
@@ -333,22 +219,41 @@
       }
     },
     {
-      "id": "45ac77bf5452f355784bafc588e32bad6b20174e",
+      "id": "28a89d278f254079d7fef8f2f377b0672a77c0f2",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQS29zRjF4cHUxQlRPRnRoU3ptM1FQYW9xN1ZzemlsYlFlaXg3WldkLUgwQWgwdDJ5aXBiRjUweTdlY1o5UGFpeVJFUldJYTctZlNpd3ZQbVF2NC1rai1uNTdjTWhJbGJldmp1UDNvMDZFekh5c0V6VVZsWE9odk1LQXk0d2FsQkV0VjI3anNEd2stVkU4aTRNNnlIV0N5SXZLOHJvSHUxTXdVd9IBrwFBVV95cUxOdWl4dWdmQm9OY09BdjZES2pvWU5Tb3d5Y0hrT0gtRGlCVXQ4aU9KTWg1SndTeGlSMWJQWTBpYWNzQXFSckt6RndRNTAtbWpsVHFkbmY1MVBhMVhCRWt6R294WV9Yc25STHRYWThlX2xQSTI1amFybjJkMlVJVzZ3Z2YxUHlKNmpUcUdfNlV6Yi1EbUZPcll4Zzl0bzRucTJDUlpmS3hMM2xZWElyNGRF?oc=5",
+      "title": "LinkedIn co-founder Reid Hoffman is leaving Microsoft's board after almost a decade",
+      "summary": "",
+      "publishedAt": "2026-06-05T15:40:26.000Z",
+      "publisher": "CNBC",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "38b6d7c4a0689075f27b0c6314e8e88670dd298d",
       "company": "Google",
       "sourceKind": "official",
       "sourceId": "google-ai",
       "sourceLabel": "Google AI",
       "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/blue-yellow-and-green-google-invests-in-its-first-data-center-in-sweden",
-      "title": "Blue, yellow and green: Google invests in its new data center in Sweden.",
-      "summary": "Today, we broke ground on a new data center in Horndal, Sweden, to help meet the growing demand for the Google services people and businesses use every day, including Se…",
-      "publishedAt": "2026-06-02T09:45:00.000Z",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b",
+      "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
+      "summary": "An overview of Gemma 4 12B, a model designed to bring high-performance multimodal intelligence directly to your laptop.",
+      "publishedAt": "2026-06-03T16:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Corporate move or major external event"
+        "bucket": "important",
+        "score": 4,
+        "reason": "Flagship model or product launch"
       }
     },
     {
@@ -409,25 +314,6 @@
       }
     },
     {
-      "id": "594a6d5e98c290a215a636bd3515350759a66a3d",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/meitner-energy-center",
-      "title": "We’re announcing a new data center and energy investments in Gray and Roberts Counties, Texas.",
-      "summary": "Google and Intersect are announcing construction of the Meitner Energy Center, a new data center and new energy generation in Texas.",
-      "publishedAt": "2026-06-04T13:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Technical or research update"
-      }
-    },
-    {
       "id": "fae173f5fba9c3cb268b09d2b6d457bb0d125e4e",
       "company": "OpenAI",
       "sourceKind": "official",
@@ -466,6 +352,63 @@
       }
     },
     {
+      "id": "24b146d66f87312744fad81cc0695f03aa12e688",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4",
+      "title": "Gemma 4 QAT models: Optimizing model compression for mobile and laptop efficiency",
+      "summary": "We’re releasing Gemma 4 quantization-aware training checkpoints, reducing memory requirements and improving on-device performance.",
+      "publishedAt": "2026-06-05T16:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "594a6d5e98c290a215a636bd3515350759a66a3d",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/meitner-energy-center",
+      "title": "We’re announcing a new data center and energy investments in Gray and Roberts Counties, Texas.",
+      "summary": "Google and Intersect are announcing construction of the Meitner Energy Center, a new data center and new energy generation in Texas.",
+      "publishedAt": "2026-06-04T13:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Technical or research update"
+      }
+    },
+    {
+      "id": "97cd97d27d220f15f9bc8a69f1f4b5eea602a9e8",
+      "company": "Anthropic",
+      "sourceKind": "official",
+      "sourceId": "anthropic-engineering",
+      "sourceLabel": "Anthropic Engineering",
+      "homepageUrl": "https://www.anthropic.com/engineering",
+      "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
+      "title": "Featured How we contain Claude across products As agents grow more capable, so does their potential blast radius. The engineering question is how to cap it. Here’s what we’ve learned building containment for claude.ai, Claude Code, and Cowork.",
+      "summary": "",
+      "publishedAt": null,
+      "publisher": "",
+      "discoveryMethod": "anchor",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Technical or research update"
+      }
+    },
+    {
       "id": "d0841d29a3627d472a5a50040b4c8b044228c3d2",
       "company": "OpenAI",
       "sourceKind": "official",
@@ -480,7 +423,7 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "digest",
-        "score": 2,
+        "score": 1,
         "reason": "Routine official update"
       }
     },
@@ -499,7 +442,7 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "digest",
-        "score": 2,
+        "score": 1,
         "reason": "Routine official update"
       }
     },
@@ -518,7 +461,7 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "digest",
-        "score": 2,
+        "score": 1,
         "reason": "Routine official update"
       }
     },
@@ -537,99 +480,99 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "digest",
-        "score": 2,
+        "score": 1,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "7fe6917bd9f17b7273e19bac9a3c0c483dd9ba9b",
+      "company": "Meta",
+      "sourceKind": "official",
+      "sourceId": "meta-newsroom",
+      "sourceLabel": "Meta Newsroom",
+      "homepageUrl": "https://about.fb.com/news/",
+      "url": "https://about.fb.com/news/2026/06/meta-business-agent",
+      "title": "Be There for Every Customer With Meta Business Agent",
+      "summary": "Meta Business Agent is AI that lets every business show up for every customer, as if they had an infinite team behind them. The post Be There for Every Customer With Meta Business Agent",
+      "publishedAt": "2026-06-03T13:40:12.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 1,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "8929ed18dbbc30cf39ae3651bf7fb3d12d00f7e7",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/wasmer",
+      "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
+      "summary": "See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months.",
+      "publishedAt": "2026-06-03T12:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 1,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "efcb57008e76d431356919bfbd519cd495c82d04",
+      "company": "Anthropic",
+      "sourceKind": "official",
+      "sourceId": "anthropic-news",
+      "sourceLabel": "Anthropic News",
+      "homepageUrl": "https://www.anthropic.com/news",
+      "url": "https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack",
+      "title": "What we learned mapping a year’s worth of AI-enabled cyber threats",
+      "summary": "",
+      "publishedAt": "2026-06-03T00:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "anchor",
+      "classification": {
+        "bucket": "digest",
+        "score": 1,
         "reason": "Routine official update"
       }
     }
   ],
   "newItems": [
     {
-      "id": "39622398efcad944dbcc8cf9365c46b688647381",
-      "company": "OpenAI",
+      "id": "28a89d278f254079d7fef8f2f377b0672a77c0f2",
+      "company": "Microsoft",
       "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcVN0aW1tS1JUdkYtdUFXS3ItX1NsMnNoQXB0YUZwSzlZTjhLZ1RVOFVUT0tON0E2R2RRcHc5R2M5UXZjOENjdy1qWnozLVBBWE1RQklKTjV1VGtRNHFHNFFHajlfU2ZhWF9GeGFOeHRlSEVIOGFscE1XOGVNRnhuMmluMDdCNm96cmc5OE00U00yM01uWVZjeVB3?oc=5",
-      "title": "How Microsoft, OpenAI went from partnership to 'situationship'",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQS29zRjF4cHUxQlRPRnRoU3ptM1FQYW9xN1ZzemlsYlFlaXg3WldkLUgwQWgwdDJ5aXBiRjUweTdlY1o5UGFpeVJFUldJYTctZlNpd3ZQbVF2NC1rai1uNTdjTWhJbGJldmp1UDNvMDZFekh5c0V6VVZsWE9odk1LQXk0d2FsQkV0VjI3anNEd2stVkU4aTRNNnlIV0N5SXZLOHJvSHUxTXdVd9IBrwFBVV95cUxOdWl4dWdmQm9OY09BdjZES2pvWU5Tb3d5Y0hrT0gtRGlCVXQ4aU9KTWg1SndTeGlSMWJQWTBpYWNzQXFSckt6RndRNTAtbWpsVHFkbmY1MVBhMVhCRWt6R294WV9Yc25STHRYWThlX2xQSTI1amFybjJkMlVJVzZ3Z2YxUHlKNmpUcUdfNlV6Yi1EbUZPcll4Zzl0bzRucTJDUlpmS3hMM2xZWElyNGRF?oc=5",
+      "title": "LinkedIn co-founder Reid Hoffman is leaving Microsoft's board after almost a decade",
       "summary": "",
-      "publishedAt": "2026-06-04T20:20:32.000Z",
-      "publisher": "Yahoo Finance",
+      "publishedAt": "2026-06-05T15:40:26.000Z",
+      "publisher": "CNBC",
       "discoveryMethod": "feed",
       "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
       }
     },
     {
-      "id": "9fb1f039e888e93a3ed4f3779c4246022cfe7064",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQ3ROZzJOWUFlbV9NU1ZuUzlEV3BicXZXSWtvYTQ2WkIxQmhXVGdUS1NoRVNPdVFxUnpGdkZ1OElXZmNveHVtUzZuUkIybWw2ZnRnTTMwQ2RqaERCQjYtRnlZTHVVUHRxY3AzRjlEZzR1V1lWMHpSQTFzZVBmcTVUeXB4SWc?oc=5",
-      "title": "US National Security Agency using Anthropic’s Mythos for cyber attacks",
-      "summary": "",
-      "publishedAt": "2026-06-04T18:48:31.000Z",
-      "publisher": "Financial Times",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "2a40516d266b20093fd60a262ad7e1b157ffde24",
+      "id": "24b146d66f87312744fad81cc0695f03aa12e688",
       "company": "Google",
       "sourceKind": "official",
       "sourceId": "google-ai",
       "sourceLabel": "Google AI",
       "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026",
-      "title": "The latest AI news we announced in May 2026",
-      "summary": "Here are Google’s latest AI updates from May 2026",
-      "publishedAt": "2026-06-05T14:45:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "02855199684e01fc770a7da81bf40cd09de8dd95",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-kaggle--benchmarks-locally",
-      "title": "Kaggle is making AI benchmark creation effortless",
-      "summary": "Today, we’re launching local development for Kaggle Benchmarks.",
-      "publishedAt": "2026-06-04T16:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "58a72a3a66c9437ce97a1580a0862228e09a52e8",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/chatgpt-memory-dreaming",
-      "title": "Dreaming: Better memory for a more helpful ChatGPT",
-      "summary": "ChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations.",
-      "publishedAt": "2026-06-04T09:00:00.000Z",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4",
+      "title": "Gemma 4 QAT models: Optimizing model compression for mobile and laptop efficiency",
+      "summary": "We’re releasing Gemma 4 quantization-aware training checkpoints, reducing memory requirements and improving on-device performance.",
+      "publishedAt": "2026-06-05T16:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -639,40 +582,21 @@
       }
     },
     {
-      "id": "dbb39445d06ec7b943ef16400b4e7427c98c1836",
+      "id": "8929ed18dbbc30cf39ae3651bf7fb3d12d00f7e7",
       "company": "OpenAI",
       "sourceKind": "official",
       "sourceId": "openai-newsroom",
       "sourceLabel": "OpenAI Newsroom",
       "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/biodefense-in-the-intelligence-age",
-      "title": "Biodefense in the Intelligence Age",
-      "summary": "An action plan for AI-powered biological resilience",
-      "publishedAt": "2026-06-04T00:00:00.000Z",
+      "url": "https://openai.com/index/wasmer",
+      "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
+      "summary": "See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months.",
+      "publishedAt": "2026-06-03T12:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "4d9e001e2e532bb89a334b095afcd06bd60978e8",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/dreambeans",
-      "title": "Meet Dreambeans, an app that connects you with what matters",
-      "summary": "Dreambeans uses Google’s latest AI capabilities to proactively curate daily stories that connect you with what matters most.",
-      "publishedAt": "2026-06-03T16:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
+        "score": 1,
         "reason": "Routine official update"
       }
     }

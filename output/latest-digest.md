@@ -1,65 +1,35 @@
 # AI Company Watch
 
-Generated: Jun 5, 2026, 8:11 AM PDT
+Generated: Jun 6, 2026, 7:39 AM PDT
 Lookback window: 7 day(s)
 Sources checked: 12
-Items fetched: 40
+Items fetched: 36
 Items kept: 24
-New items: 7
-External items kept: 8
-Official items kept: 16
+New items: 3
+External items kept: 4
+Official items kept: 20
 
-## Critical External News
+## Important External News
 
-### OpenAI - How Microsoft, OpenAI went from partnership to 'situationship'
-Source: Major External News - OpenAI
-Publisher: Yahoo Finance
-Published: Jun 4, 2026
-Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMimgFBVV95cUxPcVN0aW1tS1JUdkYtdUFXS3ItX1NsMnNoQXB0YUZwSzlZTjhLZ1RVOFVUT0tON0E2R2RRcHc5R2M5UXZjOENjdy1qWnozLVBBWE1RQklKTjV1VGtRNHFHNFFHajlfU2ZhWF9GeGFOeHRlSEVIOGFscE1XOGVNRnhuMmluMDdCNm96cmc5OE00U00yM01uWVZjeVB3?oc=5
-
-### Anthropic - US National Security Agency using Anthropic’s Mythos for cyber attacks
-Source: Major External News - Anthropic
-Publisher: Financial Times
-Published: Jun 4, 2026
-Why it matters: Safety, security, or policy update
-Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxNQ3ROZzJOWUFlbV9NU1ZuUzlEV3BicXZXSWtvYTQ2WkIxQmhXVGdUS1NoRVNPdVFxUnpGdkZ1OElXZmNveHVtUzZuUkIybWw2ZnRnTTMwQ2RqaERCQjYtRnlZTHVVUHRxY3AzRjlEZzR1V1lWMHpSQTFzZVBmcTVUeXB4SWc?oc=5
-
-## Critical Official Updates
-
-### Google - The latest AI news we announced in May 2026
-Source: Google AI
+### Microsoft - LinkedIn co-founder Reid Hoffman is leaving Microsoft's board after almost a decade
+Source: Major External News - Microsoft
+Publisher: CNBC
 Published: Jun 5, 2026
-Why it matters: Flagship model or product launch
-Summary: Here are Google’s latest AI updates from May 2026
-Link: https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026
-
-### Google - Kaggle is making AI benchmark creation effortless
-Source: Google AI
-Published: Jun 4, 2026
-Why it matters: Flagship model or product launch
-Summary: Today, we’re launching local development for Kaggle Benchmarks.
-Link: https://blog.google/innovation-and-ai/technology/developers-tools/build-kaggle--benchmarks-locally
+Why it matters: Trusted external coverage
+Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxQS29zRjF4cHUxQlRPRnRoU3ptM1FQYW9xN1ZzemlsYlFlaXg3WldkLUgwQWgwdDJ5aXBiRjUweTdlY1o5UGFpeVJFUldJYTctZlNpd3ZQbVF2NC1rai1uNTdjTWhJbGJldmp1UDNvMDZFekh5c0V6VVZsWE9odk1LQXk0d2FsQkV0VjI3anNEd2stVkU4aTRNNnlIV0N5SXZLOHJvSHUxTXdVd9IBrwFBVV95cUxOdWl4dWdmQm9OY09BdjZES2pvWU5Tb3d5Y0hrT0gtRGlCVXQ4aU9KTWg1SndTeGlSMWJQWTBpYWNzQXFSckt6RndRNTAtbWpsVHFkbmY1MVBhMVhCRWt6R294WV9Yc25STHRYWThlX2xQSTI1amFybjJkMlVJVzZ3Z2YxUHlKNmpUcUdfNlV6Yi1EbUZPcll4Zzl0bzRucTJDUlpmS3hMM2xZWElyNGRF?oc=5
 
 ## Official Company Updates
 
-### OpenAI - Dreaming: Better memory for a more helpful ChatGPT
-Source: OpenAI Newsroom
-Published: Jun 4, 2026
-Why it matters: Routine official update
-Summary: ChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations.
-Link: https://openai.com/index/chatgpt-memory-dreaming
-
-### OpenAI - Biodefense in the Intelligence Age
-Source: OpenAI Newsroom
-Published: Jun 3, 2026
-Why it matters: Routine official update
-Summary: An action plan for AI-powered biological resilience
-Link: https://openai.com/index/biodefense-in-the-intelligence-age
-
-### Google - Meet Dreambeans, an app that connects you with what matters
+### Google - Gemma 4 QAT models: Optimizing model compression for mobile and laptop efficiency
 Source: Google AI
+Published: Jun 5, 2026
+Why it matters: Routine official update
+Summary: We’re releasing Gemma 4 quantization-aware training checkpoints, reducing memory requirements and improving on-device performance.
+Link: https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4
+
+### OpenAI - How Wasmer used Codex to build a Node.js runtime for the edge
+Source: OpenAI Newsroom
 Published: Jun 3, 2026
 Why it matters: Routine official update
-Summary: Dreambeans uses Google’s latest AI capabilities to proactively curate daily stories that connect you with what matters most.
-Link: https://blog.google/innovation-and-ai/models-and-research/google-labs/dreambeans
+Summary: See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months.
+Link: https://openai.com/index/wasmer
