@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-06T14:39:47.350Z",
+  "generatedAt": "2026-06-07T14:42:39.569Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -76,12 +76,12 @@
     }
   ],
   "totals": {
-    "fetched": 36,
+    "fetched": 39,
     "deduped": 24,
-    "new": 3,
+    "new": 4,
     "byKind": {
-      "official": 20,
-      "external": 4
+      "official": 16,
+      "external": 8
     }
   },
   "items": [
@@ -100,7 +100,26 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 7,
+        "score": 6,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "e6731a8d89b80067c12bb42d40418f786898c175",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTHNtWHRrWUdfejVXb2YzSGFqdVlHbFJkX05sNTlMOHc4dEFtTHRwWnJ6ZzdfSFBhLTd2V0hkUDBfcTdfaXBwQ1BaYjRKbFRCS2twTTRLZk1qWjFKOWpBTE9aZ3NBaXpGMEtIVFJHRHJvWElwNFRuU0ZxOEZzVHhBUlNFeW9vaDZTUGROYTl2d29XMXVYZ2tBdktpYm1MYWdlVjk1Wk1XUTBiQXlo?oc=5",
+      "title": "Alphabet and Anthropic's Partnership Could Be a Major Boost",
+      "summary": "",
+      "publishedAt": "2026-06-04T07:35:00.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
         "reason": "Corporate move or major external event"
       }
     },
@@ -124,25 +143,6 @@
       }
     },
     {
-      "id": "42164fea74de9fb59f9ef0a70d009c532f32067f",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQnRneFRWckpKelZ1MXlBdm04NzNVXzA3aWw2QWF2YXdfWWpaRVBFWnEyc0w4R2ZmNUNMcndOVlcyUWxTQk11eTRvd3lmUXdaWV8zdjBjbnBSZ3dQXzlwYXRsV1c4TlU1MFVkUXJtb1hja2t0VWNQU2V4RUZrWU5wZS1hNlJoT1VfUDBnZWZ4d3UtakNrX21CYjFFZ1B6TGthUExzS2FrOVowSGV6bzFicU9Jd25WY1c0V0t4dw?oc=5",
-      "title": "Florida lawsuit accuses OpenAI and CEO Sam Altman of endangering children",
-      "summary": "",
-      "publishedAt": "2026-06-01T23:42:36.000Z",
-      "publisher": "The Washington Post",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
       "id": "2a40516d266b20093fd60a262ad7e1b157ffde24",
       "company": "Google",
       "sourceKind": "official",
@@ -153,44 +153,6 @@
       "title": "The latest AI news we announced in May 2026",
       "summary": "Here are Google’s latest AI updates from May 2026",
       "publishedAt": "2026-06-05T14:45:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "02855199684e01fc770a7da81bf40cd09de8dd95",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-kaggle--benchmarks-locally",
-      "title": "Kaggle is making AI benchmark creation effortless",
-      "summary": "Today, we’re launching local development for Kaggle Benchmarks.",
-      "publishedAt": "2026-06-04T16:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "a5e2c2c6cdff2c4d07589f03bbed1919fd87ca7c",
-      "company": "Meta",
-      "sourceKind": "official",
-      "sourceId": "meta-newsroom",
-      "sourceLabel": "Meta Newsroom",
-      "homepageUrl": "https://about.fb.com/news/",
-      "url": "https://about.fb.com/news/2026/06/creator-assistant-more-languages-for-ai-translations-on-facebook",
-      "title": "Introducing Creator Assistant, Plus More Languages For AI Translations on Facebook",
-      "summary": "Creator assistant understands each creator's unique presence and helps them take action to grow. The post Introducing Creator Assistant, Plus More Languages For AI Translations on Facebook",
-      "publishedAt": "2026-06-04T15:00:34.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -219,6 +181,44 @@
       }
     },
     {
+      "id": "6b157c5f6b9488120b95e0bb9a9071f5931661bf",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSDJxQzA2WFNCSXJ6dmdiRlhrLU1yZnkyZUV0ajlpOFFWcVZxdkxOSFVjUzhNVExhcDJMdXU1WjVSeWFxcXlUSUd4SHRWd2h1TWFmaUxhUVRjUXM2N01Wc3RzNU9nb3laVDRJTHhmN0NmRm9GMkgxS0xNYVFHRGxJZzF2bmc5bk5MSHhHME5DMXE4bUU1c1hqc1hUOTFXQmlvWEVGejgtcHkwNlZEV1p1MzJXUQ?oc=5",
+      "title": "Reid Hoffman is leaving Microsoft’s board to go ‘founder mode’ with startup Manus",
+      "summary": "",
+      "publishedAt": "2026-06-05T22:35:01.000Z",
+      "publisher": "TechCrunch",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "e23913b2834e0607518868502c7668f3b983fea0",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUmJaWjFuRkZ4dWpWN2RkYnU4S3FpZ1FEOHFNa09HVnZ0ODdrTzBFMm0wcjQ4SWhTb1l4ZHBlVmNobGNhVG56LWRQQVdJc3poTjBMN2RxeFBVY0xDSXdNRkRJaFpaMHJzZHdqZnFDMmRCbTZPTkQ1bVlYdWpWNmk1X0QxM3BKczRQcjRfVUVhLWYyVU5FLUZmTjVB?oc=5",
+      "title": "SpaceX lands Google AI compute deal after Anthropic pact ahead of IPO",
+      "summary": "",
+      "publishedAt": "2026-06-05T18:54:00.000Z",
+      "publisher": "Reuters",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
       "id": "28a89d278f254079d7fef8f2f377b0672a77c0f2",
       "company": "Microsoft",
       "sourceKind": "external",
@@ -235,6 +235,63 @@
         "bucket": "important",
         "score": 4,
         "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "9fb1f039e888e93a3ed4f3779c4246022cfe7064",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQ3ROZzJOWUFlbV9NU1ZuUzlEV3BicXZXSWtvYTQ2WkIxQmhXVGdUS1NoRVNPdVFxUnpGdkZ1OElXZmNveHVtUzZuUkIybWw2ZnRnTTMwQ2RqaERCQjYtRnlZTHVVUHRxY3AzRjlEZzR1V1lWMHpSQTFzZVBmcTVUeXB4SWc?oc=5",
+      "title": "US National Security Agency using Anthropic’s Mythos for cyber attacks",
+      "summary": "",
+      "publishedAt": "2026-06-04T18:48:31.000Z",
+      "publisher": "Financial Times",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "02855199684e01fc770a7da81bf40cd09de8dd95",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-kaggle--benchmarks-locally",
+      "title": "Kaggle is making AI benchmark creation effortless",
+      "summary": "Today, we’re launching local development for Kaggle Benchmarks.",
+      "publishedAt": "2026-06-04T16:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "a5e2c2c6cdff2c4d07589f03bbed1919fd87ca7c",
+      "company": "Meta",
+      "sourceKind": "official",
+      "sourceId": "meta-newsroom",
+      "sourceLabel": "Meta Newsroom",
+      "homepageUrl": "https://about.fb.com/news/",
+      "url": "https://about.fb.com/news/2026/06/creator-assistant-more-languages-for-ai-translations-on-facebook",
+      "title": "Introducing Creator Assistant, Plus More Languages For AI Translations on Facebook",
+      "summary": "Creator assistant understands each creator's unique presence and helps them take action to grow. The post Introducing Creator Assistant, Plus More Languages For AI Translations on Facebook",
+      "publishedAt": "2026-06-04T15:00:34.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Flagship model or product launch"
       }
     },
     {
@@ -311,6 +368,25 @@
         "bucket": "important",
         "score": 4,
         "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "7af90836c63a3c3a3f516778ca7e71109c1d0cd3",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaGozMFBNSGVKMGx1S3lvQTdJQUxCVl96VlY2dHlWOWRHcF9ILVFyUEpXVEVNRVNWV2NWSlN1WmR6NmFvZ2xzQ2dvQVQtb0lnZWt5Z3g0Q0I3VmF0TXItZmJyZmFLajJzN2NaeUlweVYwU1RaZ050aVViWWF0RU43VVVJNGxEeGdZQW5hZV9laDRyNW10UWpZ?oc=5",
+      "title": "Escobar calls for local control as Meta Data Center concerns grow",
+      "summary": "",
+      "publishedAt": "2026-06-04T17:57:50.000Z",
+      "publisher": "Yahoo",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
       }
     },
     {
@@ -464,97 +540,40 @@
         "score": 1,
         "reason": "Routine official update"
       }
-    },
-    {
-      "id": "4d9e001e2e532bb89a334b095afcd06bd60978e8",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/dreambeans",
-      "title": "Meet Dreambeans, an app that connects you with what matters",
-      "summary": "Dreambeans uses Google’s latest AI capabilities to proactively curate daily stories that connect you with what matters most.",
-      "publishedAt": "2026-06-03T16:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "7fe6917bd9f17b7273e19bac9a3c0c483dd9ba9b",
-      "company": "Meta",
-      "sourceKind": "official",
-      "sourceId": "meta-newsroom",
-      "sourceLabel": "Meta Newsroom",
-      "homepageUrl": "https://about.fb.com/news/",
-      "url": "https://about.fb.com/news/2026/06/meta-business-agent",
-      "title": "Be There for Every Customer With Meta Business Agent",
-      "summary": "Meta Business Agent is AI that lets every business show up for every customer, as if they had an infinite team behind them. The post Be There for Every Customer With Meta Business Agent",
-      "publishedAt": "2026-06-03T13:40:12.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "8929ed18dbbc30cf39ae3651bf7fb3d12d00f7e7",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/wasmer",
-      "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
-      "summary": "See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months.",
-      "publishedAt": "2026-06-03T12:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "efcb57008e76d431356919bfbd519cd495c82d04",
-      "company": "Anthropic",
-      "sourceKind": "official",
-      "sourceId": "anthropic-news",
-      "sourceLabel": "Anthropic News",
-      "homepageUrl": "https://www.anthropic.com/news",
-      "url": "https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack",
-      "title": "What we learned mapping a year’s worth of AI-enabled cyber threats",
-      "summary": "",
-      "publishedAt": "2026-06-03T00:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "anchor",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
     }
   ],
   "newItems": [
     {
-      "id": "28a89d278f254079d7fef8f2f377b0672a77c0f2",
+      "id": "e6731a8d89b80067c12bb42d40418f786898c175",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTHNtWHRrWUdfejVXb2YzSGFqdVlHbFJkX05sNTlMOHc4dEFtTHRwWnJ6ZzdfSFBhLTd2V0hkUDBfcTdfaXBwQ1BaYjRKbFRCS2twTTRLZk1qWjFKOWpBTE9aZ3NBaXpGMEtIVFJHRHJvWElwNFRuU0ZxOEZzVHhBUlNFeW9vaDZTUGROYTl2d29XMXVYZ2tBdktpYm1MYWdlVjk1Wk1XUTBiQXlo?oc=5",
+      "title": "Alphabet and Anthropic's Partnership Could Be a Major Boost",
+      "summary": "",
+      "publishedAt": "2026-06-04T07:35:00.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "6b157c5f6b9488120b95e0bb9a9071f5931661bf",
       "company": "Microsoft",
       "sourceKind": "external",
       "sourceId": "external-microsoft-major",
       "sourceLabel": "Major External News - Microsoft",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQS29zRjF4cHUxQlRPRnRoU3ptM1FQYW9xN1ZzemlsYlFlaXg3WldkLUgwQWgwdDJ5aXBiRjUweTdlY1o5UGFpeVJFUldJYTctZlNpd3ZQbVF2NC1rai1uNTdjTWhJbGJldmp1UDNvMDZFekh5c0V6VVZsWE9odk1LQXk0d2FsQkV0VjI3anNEd2stVkU4aTRNNnlIV0N5SXZLOHJvSHUxTXdVd9IBrwFBVV95cUxOdWl4dWdmQm9OY09BdjZES2pvWU5Tb3d5Y0hrT0gtRGlCVXQ4aU9KTWg1SndTeGlSMWJQWTBpYWNzQXFSckt6RndRNTAtbWpsVHFkbmY1MVBhMVhCRWt6R294WV9Yc25STHRYWThlX2xQSTI1amFybjJkMlVJVzZ3Z2YxUHlKNmpUcUdfNlV6Yi1EbUZPcll4Zzl0bzRucTJDUlpmS3hMM2xZWElyNGRF?oc=5",
-      "title": "LinkedIn co-founder Reid Hoffman is leaving Microsoft's board after almost a decade",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSDJxQzA2WFNCSXJ6dmdiRlhrLU1yZnkyZUV0ajlpOFFWcVZxdkxOSFVjUzhNVExhcDJMdXU1WjVSeWFxcXlUSUd4SHRWd2h1TWFmaUxhUVRjUXM2N01Wc3RzNU9nb3laVDRJTHhmN0NmRm9GMkgxS0xNYVFHRGxJZzF2bmc5bk5MSHhHME5DMXE4bUU1c1hqc1hUOTFXQmlvWEVGejgtcHkwNlZEV1p1MzJXUQ?oc=5",
+      "title": "Reid Hoffman is leaving Microsoft’s board to go ‘founder mode’ with startup Manus",
       "summary": "",
-      "publishedAt": "2026-06-05T15:40:26.000Z",
-      "publisher": "CNBC",
+      "publishedAt": "2026-06-05T22:35:01.000Z",
+      "publisher": "TechCrunch",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -563,41 +582,41 @@
       }
     },
     {
-      "id": "24b146d66f87312744fad81cc0695f03aa12e688",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4",
-      "title": "Gemma 4 QAT models: Optimizing model compression for mobile and laptop efficiency",
-      "summary": "We’re releasing Gemma 4 quantization-aware training checkpoints, reducing memory requirements and improving on-device performance.",
-      "publishedAt": "2026-06-05T16:00:00.000Z",
-      "publisher": "",
+      "id": "e23913b2834e0607518868502c7668f3b983fea0",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUmJaWjFuRkZ4dWpWN2RkYnU4S3FpZ1FEOHFNa09HVnZ0ODdrTzBFMm0wcjQ4SWhTb1l4ZHBlVmNobGNhVG56LWRQQVdJc3poTjBMN2RxeFBVY0xDSXdNRkRJaFpaMHJzZHdqZnFDMmRCbTZPTkQ1bVlYdWpWNmk1X0QxM3BKczRQcjRfVUVhLWYyVU5FLUZmTjVB?oc=5",
+      "title": "SpaceX lands Google AI compute deal after Anthropic pact ahead of IPO",
+      "summary": "",
+      "publishedAt": "2026-06-05T18:54:00.000Z",
+      "publisher": "Reuters",
       "discoveryMethod": "feed",
       "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
       }
     },
     {
-      "id": "8929ed18dbbc30cf39ae3651bf7fb3d12d00f7e7",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/wasmer",
-      "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
-      "summary": "See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months.",
-      "publishedAt": "2026-06-03T12:00:00.000Z",
-      "publisher": "",
+      "id": "7af90836c63a3c3a3f516778ca7e71109c1d0cd3",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaGozMFBNSGVKMGx1S3lvQTdJQUxCVl96VlY2dHlWOWRHcF9ILVFyUEpXVEVNRVNWV2NWSlN1WmR6NmFvZ2xzQ2dvQVQtb0lnZWt5Z3g0Q0I3VmF0TXItZmJyZmFLajJzN2NaeUlweVYwU1RaZ050aVViWWF0RU43VVVJNGxEeGdZQW5hZV9laDRyNW10UWpZ?oc=5",
+      "title": "Escobar calls for local control as Meta Data Center concerns grow",
+      "summary": "",
+      "publishedAt": "2026-06-04T17:57:50.000Z",
+      "publisher": "Yahoo",
       "discoveryMethod": "feed",
       "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
       }
     }
   ],

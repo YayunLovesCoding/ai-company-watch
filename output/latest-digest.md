@@ -1,35 +1,42 @@
 # AI Company Watch
 
-Generated: Jun 6, 2026, 7:39 AM PDT
+Generated: Jun 7, 2026, 7:42 AM PDT
 Lookback window: 7 day(s)
 Sources checked: 12
-Items fetched: 36
+Items fetched: 39
 Items kept: 24
-New items: 3
-External items kept: 4
-Official items kept: 20
+New items: 4
+External items kept: 8
+Official items kept: 16
+
+## Critical External News
+
+### Anthropic - Alphabet and Anthropic's Partnership Could Be a Major Boost
+Source: Major External News - Anthropic
+Publisher: Yahoo Finance
+Published: Jun 4, 2026
+Why it matters: Corporate move or major external event
+Link: https://news.google.com/rss/articles/CBMirAFBVV95cUxPTHNtWHRrWUdfejVXb2YzSGFqdVlHbFJkX05sNTlMOHc4dEFtTHRwWnJ6ZzdfSFBhLTd2V0hkUDBfcTdfaXBwQ1BaYjRKbFRCS2twTTRLZk1qWjFKOWpBTE9aZ3NBaXpGMEtIVFJHRHJvWElwNFRuU0ZxOEZzVHhBUlNFeW9vaDZTUGROYTl2d29XMXVYZ2tBdktpYm1MYWdlVjk1Wk1XUTBiQXlo?oc=5
 
 ## Important External News
 
-### Microsoft - LinkedIn co-founder Reid Hoffman is leaving Microsoft's board after almost a decade
+### Microsoft - Reid Hoffman is leaving Microsoft’s board to go ‘founder mode’ with startup Manus
 Source: Major External News - Microsoft
-Publisher: CNBC
+Publisher: TechCrunch
 Published: Jun 5, 2026
 Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxQS29zRjF4cHUxQlRPRnRoU3ptM1FQYW9xN1ZzemlsYlFlaXg3WldkLUgwQWgwdDJ5aXBiRjUweTdlY1o5UGFpeVJFUldJYTctZlNpd3ZQbVF2NC1rai1uNTdjTWhJbGJldmp1UDNvMDZFekh5c0V6VVZsWE9odk1LQXk0d2FsQkV0VjI3anNEd2stVkU4aTRNNnlIV0N5SXZLOHJvSHUxTXdVd9IBrwFBVV95cUxOdWl4dWdmQm9OY09BdjZES2pvWU5Tb3d5Y0hrT0gtRGlCVXQ4aU9KTWg1SndTeGlSMWJQWTBpYWNzQXFSckt6RndRNTAtbWpsVHFkbmY1MVBhMVhCRWt6R294WV9Yc25STHRYWThlX2xQSTI1amFybjJkMlVJVzZ3Z2YxUHlKNmpUcUdfNlV6Yi1EbUZPcll4Zzl0bzRucTJDUlpmS3hMM2xZWElyNGRF?oc=5
+Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxNSDJxQzA2WFNCSXJ6dmdiRlhrLU1yZnkyZUV0ajlpOFFWcVZxdkxOSFVjUzhNVExhcDJMdXU1WjVSeWFxcXlUSUd4SHRWd2h1TWFmaUxhUVRjUXM2N01Wc3RzNU9nb3laVDRJTHhmN0NmRm9GMkgxS0xNYVFHRGxJZzF2bmc5bk5MSHhHME5DMXE4bUU1c1hqc1hUOTFXQmlvWEVGejgtcHkwNlZEV1p1MzJXUQ?oc=5
 
-## Official Company Updates
-
-### Google - Gemma 4 QAT models: Optimizing model compression for mobile and laptop efficiency
-Source: Google AI
+### Anthropic - SpaceX lands Google AI compute deal after Anthropic pact ahead of IPO
+Source: Major External News - Anthropic
+Publisher: Reuters
 Published: Jun 5, 2026
-Why it matters: Routine official update
-Summary: We’re releasing Gemma 4 quantization-aware training checkpoints, reducing memory requirements and improving on-device performance.
-Link: https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4
+Why it matters: Trusted external coverage
+Link: https://news.google.com/rss/articles/CBMimgFBVV95cUxOUmJaWjFuRkZ4dWpWN2RkYnU4S3FpZ1FEOHFNa09HVnZ0ODdrTzBFMm0wcjQ4SWhTb1l4ZHBlVmNobGNhVG56LWRQQVdJc3poTjBMN2RxeFBVY0xDSXdNRkRJaFpaMHJzZHdqZnFDMmRCbTZPTkQ1bVlYdWpWNmk1X0QxM3BKczRQcjRfVUVhLWYyVU5FLUZmTjVB?oc=5
 
-### OpenAI - How Wasmer used Codex to build a Node.js runtime for the edge
-Source: OpenAI Newsroom
-Published: Jun 3, 2026
-Why it matters: Routine official update
-Summary: See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months.
-Link: https://openai.com/index/wasmer
+### Meta - Escobar calls for local control as Meta Data Center concerns grow
+Source: Major External News - Meta
+Publisher: Yahoo
+Published: Jun 4, 2026
+Why it matters: Trusted external coverage
+Link: https://news.google.com/rss/articles/CBMilwFBVV95cUxOaGozMFBNSGVKMGx1S3lvQTdJQUxCVl96VlY2dHlWOWRHcF9ILVFyUEpXVEVNRVNWV2NWSlN1WmR6NmFvZ2xzQ2dvQVQtb0lnZWt5Z3g0Q0I3VmF0TXItZmJyZmFLajJzN2NaeUlweVYwU1RaZ050aVViWWF0RU43VVVJNGxEeGdZQW5hZV9laDRyNW10UWpZ?oc=5
