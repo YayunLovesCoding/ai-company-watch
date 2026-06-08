@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-07T14:42:39.569Z",
+  "generatedAt": "2026-06-08T15:20:36.722Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -76,12 +76,12 @@
     }
   ],
   "totals": {
-    "fetched": 39,
+    "fetched": 37,
     "deduped": 24,
-    "new": 4,
+    "new": 2,
     "byKind": {
-      "official": 16,
-      "external": 8
+      "official": 18,
+      "external": 6
     }
   },
   "items": [
@@ -96,25 +96,6 @@
       "title": "How Microsoft, OpenAI went from partnership to 'situationship'",
       "summary": "",
       "publishedAt": "2026-06-04T20:20:32.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "e6731a8d89b80067c12bb42d40418f786898c175",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTHNtWHRrWUdfejVXb2YzSGFqdVlHbFJkX05sNTlMOHc4dEFtTHRwWnJ6ZzdfSFBhLTd2V0hkUDBfcTdfaXBwQ1BaYjRKbFRCS2twTTRLZk1qWjFKOWpBTE9aZ3NBaXpGMEtIVFJHRHJvWElwNFRuU0ZxOEZzVHhBUlNFeW9vaDZTUGROYTl2d29XMXVYZ2tBdktpYm1MYWdlVjk1Wk1XUTBiQXlo?oc=5",
-      "title": "Alphabet and Anthropic's Partnership Could Be a Major Boost",
-      "summary": "",
-      "publishedAt": "2026-06-04T07:35:00.000Z",
       "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
@@ -143,22 +124,22 @@
       }
     },
     {
-      "id": "2a40516d266b20093fd60a262ad7e1b157ffde24",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026",
-      "title": "The latest AI news we announced in May 2026",
-      "summary": "Here are Google’s latest AI updates from May 2026",
-      "publishedAt": "2026-06-05T14:45:00.000Z",
-      "publisher": "",
+      "id": "79f059d65f3bce5cb43a8698ac3e690699fd072a",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTFdQXzRWYzRKbk1yR0hoSUQ2ajhGT0Z6UWtyc2h1eVF2S1pPOVQ2ZUpHZlV1b3FlSWNEcUVyX0M3MkpzN3lXbEM5SDg5Mi0tMTFnSnVWWmJMbnlMX0luTGNaT3QzR1hHeEs5aHhCX1VyRWUtRDdfQ3FOWXdidjNQdjhDMHVPM2pwelhwV3Bkc25lWTdHRW5kYm5xcWNPRzE5MHc?oc=5",
+      "title": "OpenAI is bringing Lockdown Mode to ChatGPT users as security risks grow",
+      "summary": "",
+      "publishedAt": "2026-06-07T01:23:39.000Z",
+      "publisher": "Startup Fortune",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
         "score": 5,
-        "reason": "Flagship model or product launch"
+        "reason": "Safety, security, or policy update"
       }
     },
     {
@@ -181,63 +162,6 @@
       }
     },
     {
-      "id": "6b157c5f6b9488120b95e0bb9a9071f5931661bf",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSDJxQzA2WFNCSXJ6dmdiRlhrLU1yZnkyZUV0ajlpOFFWcVZxdkxOSFVjUzhNVExhcDJMdXU1WjVSeWFxcXlUSUd4SHRWd2h1TWFmaUxhUVRjUXM2N01Wc3RzNU9nb3laVDRJTHhmN0NmRm9GMkgxS0xNYVFHRGxJZzF2bmc5bk5MSHhHME5DMXE4bUU1c1hqc1hUOTFXQmlvWEVGejgtcHkwNlZEV1p1MzJXUQ?oc=5",
-      "title": "Reid Hoffman is leaving Microsoft’s board to go ‘founder mode’ with startup Manus",
-      "summary": "",
-      "publishedAt": "2026-06-05T22:35:01.000Z",
-      "publisher": "TechCrunch",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "e23913b2834e0607518868502c7668f3b983fea0",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUmJaWjFuRkZ4dWpWN2RkYnU4S3FpZ1FEOHFNa09HVnZ0ODdrTzBFMm0wcjQ4SWhTb1l4ZHBlVmNobGNhVG56LWRQQVdJc3poTjBMN2RxeFBVY0xDSXdNRkRJaFpaMHJzZHdqZnFDMmRCbTZPTkQ1bVlYdWpWNmk1X0QxM3BKczRQcjRfVUVhLWYyVU5FLUZmTjVB?oc=5",
-      "title": "SpaceX lands Google AI compute deal after Anthropic pact ahead of IPO",
-      "summary": "",
-      "publishedAt": "2026-06-05T18:54:00.000Z",
-      "publisher": "Reuters",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "28a89d278f254079d7fef8f2f377b0672a77c0f2",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQS29zRjF4cHUxQlRPRnRoU3ptM1FQYW9xN1ZzemlsYlFlaXg3WldkLUgwQWgwdDJ5aXBiRjUweTdlY1o5UGFpeVJFUldJYTctZlNpd3ZQbVF2NC1rai1uNTdjTWhJbGJldmp1UDNvMDZFekh5c0V6VVZsWE9odk1LQXk0d2FsQkV0VjI3anNEd2stVkU4aTRNNnlIV0N5SXZLOHJvSHUxTXdVd9IBrwFBVV95cUxOdWl4dWdmQm9OY09BdjZES2pvWU5Tb3d5Y0hrT0gtRGlCVXQ4aU9KTWg1SndTeGlSMWJQWTBpYWNzQXFSckt6RndRNTAtbWpsVHFkbmY1MVBhMVhCRWt6R294WV9Yc25STHRYWThlX2xQSTI1amFybjJkMlVJVzZ3Z2YxUHlKNmpUcUdfNlV6Yi1EbUZPcll4Zzl0bzRucTJDUlpmS3hMM2xZWElyNGRF?oc=5",
-      "title": "LinkedIn co-founder Reid Hoffman is leaving Microsoft's board after almost a decade",
-      "summary": "",
-      "publishedAt": "2026-06-05T15:40:26.000Z",
-      "publisher": "CNBC",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
       "id": "9fb1f039e888e93a3ed4f3779c4246022cfe7064",
       "company": "Anthropic",
       "sourceKind": "external",
@@ -254,6 +178,25 @@
         "bucket": "important",
         "score": 4,
         "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "2a40516d266b20093fd60a262ad7e1b157ffde24",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026",
+      "title": "The latest AI news we announced in May 2026",
+      "summary": "Here are Google’s latest AI updates from May 2026",
+      "publishedAt": "2026-06-05T14:45:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Flagship model or product launch"
       }
     },
     {
@@ -371,6 +314,25 @@
       }
     },
     {
+      "id": "28a89d278f254079d7fef8f2f377b0672a77c0f2",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQS29zRjF4cHUxQlRPRnRoU3ptM1FQYW9xN1ZzemlsYlFlaXg3WldkLUgwQWgwdDJ5aXBiRjUweTdlY1o5UGFpeVJFUldJYTctZlNpd3ZQbVF2NC1rai1uNTdjTWhJbGJldmp1UDNvMDZFekh5c0V6VVZsWE9odk1LQXk0d2FsQkV0VjI3anNEd2stVkU4aTRNNnlIV0N5SXZLOHJvSHUxTXdVd9IBrwFBVV95cUxOdWl4dWdmQm9OY09BdjZES2pvWU5Tb3d5Y0hrT0gtRGlCVXQ4aU9KTWg1SndTeGlSMWJQWTBpYWNzQXFSckt6RndRNTAtbWpsVHFkbmY1MVBhMVhCRWt6R294WV9Yc25STHRYWThlX2xQSTI1amFybjJkMlVJVzZ3Z2YxUHlKNmpUcUdfNlV6Yi1EbUZPcll4Zzl0bzRucTJDUlpmS3hMM2xZWElyNGRF?oc=5",
+      "title": "LinkedIn co-founder Reid Hoffman is leaving Microsoft's board after almost a decade",
+      "summary": "",
+      "publishedAt": "2026-06-05T15:40:26.000Z",
+      "publisher": "CNBC",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
       "id": "7af90836c63a3c3a3f516778ca7e71109c1d0cd3",
       "company": "Meta",
       "sourceKind": "external",
@@ -428,16 +390,16 @@
       }
     },
     {
-      "id": "24b146d66f87312744fad81cc0695f03aa12e688",
-      "company": "Google",
+      "id": "7bf87ed87e559839101e95b633499ad19e91f234",
+      "company": "Microsoft",
       "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4",
-      "title": "Gemma 4 QAT models: Optimizing model compression for mobile and laptop efficiency",
-      "summary": "We’re releasing Gemma 4 quantization-aware training checkpoints, reducing memory requirements and improving on-device performance.",
-      "publishedAt": "2026-06-05T16:00:00.000Z",
+      "sourceId": "microsoft-ai",
+      "sourceLabel": "Microsoft AI",
+      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
+      "url": "https://news.microsoft.com/source/2026/06/08/nhs-england-accelerates-ai-adoption-with-microsoft-365-copilot-to-improve-service-delivery-reduce-costs-and-create-more-time-for-care",
+      "title": "NHS England accelerates AI adoption with Microsoft 365 Copilot to improve service delivery, reduce costs and create more time for care",
+      "summary": "NHS England accelerates AI adoption with Microsoft 365 Copilot to improve service delivery, reduce costs and create more time for care",
+      "publishedAt": "2026-06-08T12:00:55.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -482,6 +444,25 @@
         "bucket": "digest",
         "score": 2,
         "reason": "Technical or research update"
+      }
+    },
+    {
+      "id": "24b146d66f87312744fad81cc0695f03aa12e688",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4",
+      "title": "Gemma 4 QAT models: Optimizing model compression for mobile and laptop efficiency",
+      "summary": "We’re releasing Gemma 4 quantization-aware training checkpoints, reducing memory requirements and improving on-device performance.",
+      "publishedAt": "2026-06-05T16:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 1,
+        "reason": "Routine official update"
       }
     },
     {
@@ -540,83 +521,64 @@
         "score": 1,
         "reason": "Routine official update"
       }
+    },
+    {
+      "id": "4d9e001e2e532bb89a334b095afcd06bd60978e8",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/dreambeans",
+      "title": "Meet Dreambeans, an app that connects you with what matters",
+      "summary": "Dreambeans uses Google’s latest AI capabilities to proactively curate daily stories that connect you with what matters most.",
+      "publishedAt": "2026-06-03T16:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 1,
+        "reason": "Routine official update"
+      }
     }
   ],
   "newItems": [
     {
-      "id": "e6731a8d89b80067c12bb42d40418f786898c175",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTHNtWHRrWUdfejVXb2YzSGFqdVlHbFJkX05sNTlMOHc4dEFtTHRwWnJ6ZzdfSFBhLTd2V0hkUDBfcTdfaXBwQ1BaYjRKbFRCS2twTTRLZk1qWjFKOWpBTE9aZ3NBaXpGMEtIVFJHRHJvWElwNFRuU0ZxOEZzVHhBUlNFeW9vaDZTUGROYTl2d29XMXVYZ2tBdktpYm1MYWdlVjk1Wk1XUTBiQXlo?oc=5",
-      "title": "Alphabet and Anthropic's Partnership Could Be a Major Boost",
-      "summary": "",
-      "publishedAt": "2026-06-04T07:35:00.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "6b157c5f6b9488120b95e0bb9a9071f5931661bf",
+      "id": "79f059d65f3bce5cb43a8698ac3e690699fd072a",
       "company": "Microsoft",
       "sourceKind": "external",
       "sourceId": "external-microsoft-major",
       "sourceLabel": "Major External News - Microsoft",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSDJxQzA2WFNCSXJ6dmdiRlhrLU1yZnkyZUV0ajlpOFFWcVZxdkxOSFVjUzhNVExhcDJMdXU1WjVSeWFxcXlUSUd4SHRWd2h1TWFmaUxhUVRjUXM2N01Wc3RzNU9nb3laVDRJTHhmN0NmRm9GMkgxS0xNYVFHRGxJZzF2bmc5bk5MSHhHME5DMXE4bUU1c1hqc1hUOTFXQmlvWEVGejgtcHkwNlZEV1p1MzJXUQ?oc=5",
-      "title": "Reid Hoffman is leaving Microsoft’s board to go ‘founder mode’ with startup Manus",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTFdQXzRWYzRKbk1yR0hoSUQ2ajhGT0Z6UWtyc2h1eVF2S1pPOVQ2ZUpHZlV1b3FlSWNEcUVyX0M3MkpzN3lXbEM5SDg5Mi0tMTFnSnVWWmJMbnlMX0luTGNaT3QzR1hHeEs5aHhCX1VyRWUtRDdfQ3FOWXdidjNQdjhDMHVPM2pwelhwV3Bkc25lWTdHRW5kYm5xcWNPRzE5MHc?oc=5",
+      "title": "OpenAI is bringing Lockdown Mode to ChatGPT users as security risks grow",
       "summary": "",
-      "publishedAt": "2026-06-05T22:35:01.000Z",
-      "publisher": "TechCrunch",
+      "publishedAt": "2026-06-07T01:23:39.000Z",
+      "publisher": "Startup Fortune",
       "discoveryMethod": "feed",
       "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Safety, security, or policy update"
       }
     },
     {
-      "id": "e23913b2834e0607518868502c7668f3b983fea0",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUmJaWjFuRkZ4dWpWN2RkYnU4S3FpZ1FEOHFNa09HVnZ0ODdrTzBFMm0wcjQ4SWhTb1l4ZHBlVmNobGNhVG56LWRQQVdJc3poTjBMN2RxeFBVY0xDSXdNRkRJaFpaMHJzZHdqZnFDMmRCbTZPTkQ1bVlYdWpWNmk1X0QxM3BKczRQcjRfVUVhLWYyVU5FLUZmTjVB?oc=5",
-      "title": "SpaceX lands Google AI compute deal after Anthropic pact ahead of IPO",
-      "summary": "",
-      "publishedAt": "2026-06-05T18:54:00.000Z",
-      "publisher": "Reuters",
+      "id": "7bf87ed87e559839101e95b633499ad19e91f234",
+      "company": "Microsoft",
+      "sourceKind": "official",
+      "sourceId": "microsoft-ai",
+      "sourceLabel": "Microsoft AI",
+      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
+      "url": "https://news.microsoft.com/source/2026/06/08/nhs-england-accelerates-ai-adoption-with-microsoft-365-copilot-to-improve-service-delivery-reduce-costs-and-create-more-time-for-care",
+      "title": "NHS England accelerates AI adoption with Microsoft 365 Copilot to improve service delivery, reduce costs and create more time for care",
+      "summary": "NHS England accelerates AI adoption with Microsoft 365 Copilot to improve service delivery, reduce costs and create more time for care",
+      "publishedAt": "2026-06-08T12:00:55.000Z",
+      "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "7af90836c63a3c3a3f516778ca7e71109c1d0cd3",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaGozMFBNSGVKMGx1S3lvQTdJQUxCVl96VlY2dHlWOWRHcF9ILVFyUEpXVEVNRVNWV2NWSlN1WmR6NmFvZ2xzQ2dvQVQtb0lnZWt5Z3g0Q0I3VmF0TXItZmJyZmFLajJzN2NaeUlweVYwU1RaZ050aVViWWF0RU43VVVJNGxEeGdZQW5hZV9laDRyNW10UWpZ?oc=5",
-      "title": "Escobar calls for local control as Meta Data Center concerns grow",
-      "summary": "",
-      "publishedAt": "2026-06-04T17:57:50.000Z",
-      "publisher": "Yahoo",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Trusted external coverage"
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
       }
     }
   ],
