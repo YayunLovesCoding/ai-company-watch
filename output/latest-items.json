@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-09T15:15:30.406Z",
+  "generatedAt": "2026-06-10T15:17:03.256Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -76,21 +76,78 @@
     }
   ],
   "totals": {
-    "fetched": 39,
+    "fetched": 40,
     "deduped": 24,
-    "new": 13,
+    "new": 15,
     "byKind": {
-      "official": 14,
-      "external": 10
+      "official": 11,
+      "external": 13
     }
   },
   "items": [
     {
-      "id": "f0786155d6ec471471c47f06d1fbab3e9a957c47",
-      "company": "OpenAI",
+      "id": "4f369fa656694448e63d654101796c37dd353e36",
+      "company": "Meta",
       "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOREtROTZDNlBKNzlXTXBIbElFRF9pZWdDZHRIcU1hY0k1Q3k4eXZ1LVdPQk9sX0xHZFVhSHBZLVdyX09xSkczVzNOOVZZSXcyeXdEWnB2dWxyODgzZUpjeWR0U3ctcldyM2ktZkw2ZTlreHhodjkyUTBhbzJpLWd2N0ZUWGNiQnlfT1JRbl9hUE50TkUtT0lnNGhVaFpqc1IwWHdubUhpNkdRUWl4YXpWWTF6OVZVdw?oc=5",
+      "title": "Meta Partners With Reliance on First India AI Data Center",
+      "summary": "",
+      "publishedAt": "2026-06-10T04:57:00.000Z",
+      "publisher": "Bloomberg.com",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "5a2090a10f98ed370816d97cf4c986379f8135bb",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE01NlNSNW5rY1ZZUGtFRElnZmV3SFhZYVUza0Nva3dJS2QxMUR5ay1uLWlFV1Q2NXFnM05PX25ORTU2QnhJM2lKT3FpVUtDVllVVk92ZkNfLVpTUURHUF9ZWEprTTN2MlZCejQ3Mg?oc=5",
+      "title": "Watch Blackstone's Brand on IPO Returns, Anthropic Partnership",
+      "summary": "",
+      "publishedAt": "2026-06-10T00:00:00.000Z",
+      "publisher": "Bloomberg.com",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "505abaa58e5888b9c193c825a59cf31d1163e795",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOS3oxTDdzSHI0b0JLWG5kS1BTUjllZjkwd0ptUkl6bmRfRlVFd19FWEN2eHhYWkpvOXYyUUJEV1JWVWJTVmJjWF9qUDltMHB0VG9DTU9IWVdOQTdRclZnazVKNnZJejNMYnZvR3JsbzhMZE5ueFNoV05qMVZndEVRNUxwWkNMQ3g2eWhQaFg5aEtfZU9kR2V5VnJlSmpqa3Fo?oc=5",
+      "title": "Anthropic, Nvidia Sway Judge to Split Authors’ AI Copyright Suit",
+      "summary": "",
+      "publishedAt": "2026-06-09T18:58:00.000Z",
+      "publisher": "Bloomberg Law News",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "f0786155d6ec471471c47f06d1fbab3e9a957c47",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
       "homepageUrl": "https://news.google.com/",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZXUwSTVVLUtJbktZay1PNjVEaXBHOG45Ykd6U0JHTmlwSU12dE0tMVgtYUZXN2dQR0hmMW8wb2swRmlQX0gyanpmM3UtX3FENkRIRV9xem4yOHFYQkRKbjljc0lrb0NHQ3BGREtVUmlocGJJeXEyOHZqaXR4VE5IMUFPb3BsOEpKYnoweHZUd0I2ZzFSUDhVcmZRcDNRdklYcFE5UWdlQTFZZw?oc=5",
       "title": "Wolters Kluwer Deepens OpenAI Partnership As Shares Come Under Pressure",
@@ -105,17 +162,36 @@
       }
     },
     {
-      "id": "bb7a5d5506441cda3edb8b80b5e4583c1a586ac1",
+      "id": "c8dd9b8d0b2b6aac90369f48b78830522edf2e4c",
+      "company": "Meta",
+      "sourceKind": "official",
+      "sourceId": "meta-newsroom",
+      "sourceLabel": "Meta Newsroom",
+      "homepageUrl": "https://about.fb.com/news/",
+      "url": "https://about.fb.com/news/2026/06/meta-partners-with-reliance-on-ai-enabled-data-center-in-india-2",
+      "title": "Meta Partners With Reliance on AI-Enabled Data Center in India",
+      "summary": "Meta and Reliance Industries today announced a significant expansion of our strategic partnership with an agreement for an AI-enabled data center in India. The post Meta Partners With Reliance on AI-Enabled Data Center in India",
+      "publishedAt": "2026-06-10T02:32:32.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "d706722ffcf702dd8cb6088c525b04c1c3884077",
       "company": "Anthropic",
       "sourceKind": "external",
       "sourceId": "external-anthropic-major",
       "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMWk3TUZpRkpvT0dvdjNTZnNIYTljZVhYWGpyTmJkcUdHc2t5UjZzTzgzVUVVRzlfUjJBYlE2RC1hcEhCek5DUkpRc3R0Zk1jeDM4bVo3VU9VSUtJdkpaSl9ITDl4SDlfNXRZNnB0MFVsNVdNS2dGc3ZsTWFocFZmOXo0c1lLOUhPckRLWGhnNjhSQktybC1HSDJ2M05EVTQ?oc=5",
-      "title": "Anthropic is turning Claude Mythos into a controlled security business",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOFFWblJvN1EwNUdzaUtydGQwSFE3VVRodURDZVV4WlR4RGdRYTBPc0pfQXRJV3Jtd2pOV05KeC05alotMDNDZkRwMmh0ajhqQm9MRlpMcGt1Q1lQSUJKeF9PMXhXa0xaN3plR1FFTU5wcFVnMnBwVzdYeUNSNkxhOU9RVEF6TS10QjNrMkVKQ3RDOWFsWXI2Sy10UFZDbndpLVhRdVVJNmNjU0E?oc=5",
+      "title": "JFrog and Anthropic Bring Enterprise-Grade Software Supply Chain Governance and Security to Claude Code",
       "summary": "",
-      "publishedAt": "2026-06-08T05:24:00.000Z",
-      "publisher": "Startup Fortune",
+      "publishedAt": "2026-06-10T13:15:00.000Z",
+      "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -124,16 +200,16 @@
       }
     },
     {
-      "id": "63685f806399b4accaf62d55cce87127e58769c7",
+      "id": "2be94cf799401d49b9baefb58f927b8e71ceca15",
       "company": "OpenAI",
       "sourceKind": "official",
       "sourceId": "openai-newsroom",
       "sourceLabel": "OpenAI Newsroom",
       "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/economic-research-exchange",
-      "title": "Introducing the OpenAI Economic Research Exchange",
-      "summary": "OpenAI launches the Economic Research Exchange to study AI’s impact on jobs, productivity, and the economy. Applications are now open for selected research projects.",
-      "publishedAt": "2026-06-08T00:00:00.000Z",
+      "url": "https://openai.com/index/lseg",
+      "title": "From data to decisions: how LSEG is scaling trusted AI",
+      "summary": "See how LSEG uses OpenAI to scale trusted AI across its global business, accelerating insights, shrinking release cycles, and empowering 4,000 employees.",
+      "publishedAt": "2026-06-10T00:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -143,35 +219,35 @@
       }
     },
     {
-      "id": "49f44c80e766fb4b6d58d772ab220855d6058638",
-      "company": "Anthropic",
-      "sourceKind": "official",
-      "sourceId": "anthropic-news",
-      "sourceLabel": "Anthropic News",
-      "homepageUrl": "https://www.anthropic.com/news",
-      "url": "https://www.anthropic.com/news/services-track-partner-hub",
-      "title": "Introducing the Services Track and Partner Hub of the Claude Partner Network",
-      "summary": "",
-      "publishedAt": "2026-06-03T00:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "anchor",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "f209aaa4e6e9943a99e9a89a1e5830a319781d4c",
+      "id": "f33673e04ec395e88e870ecdd7f6b72589460e62",
       "company": "Meta",
       "sourceKind": "external",
       "sourceId": "external-meta-major",
       "sourceLabel": "Major External News - Meta",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRFR5VnF0VUJWeloxS3ZpYVVGY1Q2R2V3T01oMDJRT1I3LVRiTW9DQlJNRzBsd3cxR2k5MkVfcVcyT0d6Y3VqdmZOUEhSdGotV1pMNFM4WFJ4MENJc05yOWlFZzNZWGlacV9XUHZHRFR1dFBJeVFVU3RXNjFQTEd2MWNwNGtjamZ5SVJvWXlNNERqbUc5UU1zT1I2dFJsUURWMkRB?oc=5",
-      "title": "Meta Platforms (META) In Talks with CleanSpark for Data Center Facility Lease",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTm84RnM5cXpFMWI3Y0NVemtrWkNTSU1YTjFDTU9SLWN2X2ZJMERUQjFZWWI1M0p6aC0xM0tSbEhXOUJKaWJoVU1Pc3hnMlRWLWJCZjl0eHgtUkhFSVE5cWxNVW9xV3BIN3Z5LWIwaGx5WW9iVERObGIzV2dUREg0WEVONWFGYkFOcGFwYmVWNnc5OTREUHBzUG9SNHMwWHlXOUHSAacBQVVfeXFMT0ZMTFRIUG1BUFJWRUFxNVZ5NWN2REF1dzRVVy1mUGZSc3FNSzlYa1N4RGh0N0FldjhXN0tLeDhqQkk3V19qVzBsbWpUam1wdVQzYlJ3SmtfQVk3U2FZSHhvb1NBRVdPY1lGZDZjWTMzMFFWaGhIdy1NdEU0TUJSQ0dZUlRQNXdyTUcwSE55VHM0X0gyUlpYTldsVGRRdzNQSlRNY0p2Tnc?oc=5",
+      "title": "Meta agrees to Indian AI data center deal as hyperscaler bolsters its infrastructure",
       "summary": "",
-      "publishedAt": "2026-06-09T13:39:14.000Z",
+      "publishedAt": "2026-06-10T09:24:53.000Z",
+      "publisher": "CNBC",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "0f5041324b6460a9455d8a27aee919d1b1f4e45d",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSmkza0hOX2VrRDhVZFB4OWhINHF4UmU1ZDdqYzJVUHN4c1dERlU4U1h1clJzMmloN0FzcFZFWEJzdWJndWthSzZsWHIyRWdvS2VzWjBDZVVOSzVZT29sMTE0dzBxanNuempISk5hSGNKUmVzeWZ6UGVhVVNDVktaZXV5NUo2N01COWJoOFJFZk5TMlJVZHozMTVJeDI?oc=5",
+      "title": "Meta Turns to Reliance as AI Data Center Race Reaches India",
+      "summary": "",
+      "publishedAt": "2026-06-10T08:34:12.000Z",
       "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
@@ -181,17 +257,17 @@
       }
     },
     {
-      "id": "4712b671b80e1097f8ac62cf26aafeee3932398f",
+      "id": "7cc5c91cf7c1f100c5ad225fa4a8d4cbe175c0f4",
       "company": "Meta",
       "sourceKind": "external",
       "sourceId": "external-meta-major",
       "sourceLabel": "Major External News - Meta",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeWVGblVwS2ZEdElVUGsyX2N1X0hQS0lQMmI4Q20zZkJ5cHhTWnBFYkJzOXVFakhVZHBfajFBY1BaTXBJOGxMaDYzRUZkZnBUUEJabWVuaXplUlI1UWt2ZWpaY29qWE9iYmJmNE12bEVHTGhjSUxob2ZSZXltcG9meVI3Q0dMSGtY?oc=5",
-      "title": "Meta builds its AI data center worker pipeline",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUmFUaW1pRGhMUVR0RWFKRUdmVnVHMFFNVkNzZTluYjJvVkltMkhHQTIwaDJKdVZQVm5oNXlLTFRKb3NUWFpIYlZqNTE2MHNIeExsNFpSY2VaVGJUMF9lQlVhRi1UdldYTGJHMWpYSzZVbkZUcHdSaHBhUTlpZkljOXlSdnhYazJPM3VqWFA1MjZLSVZRblg2OS1R?oc=5",
+      "title": "Meta signs first AI data center deal in India with Reliance",
       "summary": "",
-      "publishedAt": "2026-06-09T09:47:03.000Z",
-      "publisher": "Axios",
+      "publishedAt": "2026-06-10T07:05:26.000Z",
+      "publisher": "TechCrunch",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -200,17 +276,55 @@
       }
     },
     {
-      "id": "1779265b1c1e22d080bf04c16af90d2ed900e9e1",
+      "id": "a58921cd33b38352b15ac99c91f0e080b5f5235f",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTXFHZWEyekM0M1o2QzFzbDdnVWJlS2FGX2p0djlDR2FJdHRlT2RMMGtVOEJTa3R1THQ3YlRkenpGOEZWYlZLdTRnSEluZGJ0dWdxTVdFLTRsUHhBbGtkUjFHSFVMYm9yWi14OUlKZkYtOFB1ZlhpNXlNdk9NYUhiaWNtcVdFS0hSZ0xYUEhFVzhEcnJVTmV0eU9GVTlycHR3ZzQwcg?oc=5",
+      "title": "OpenAI in Talks to Lease 10 Gigawatt Ohio Data Center with Backing From Nvidia",
+      "summary": "",
+      "publishedAt": "2026-06-10T02:07:00.000Z",
+      "publisher": "The Information",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "9fad1f4b5270410d81db3d1e65da588b29cced44",
       "company": "Anthropic",
       "sourceKind": "external",
       "sourceId": "external-anthropic-major",
       "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOTBGSExqSGEzcFlST05vbW5wcXZGVHJ0dTlEa1VwbXAxSXVvY2lkUjJpY3ZvZURURWFVWHB5VG5Ic0xpbDQtMlp1YWpuYWdfd092UExCYnc0c3RhNWVLazFrMTZrTGI2SU5BYm1YTklRYVhOc3ZhV0pSRWJXanFOYnpBdGc?oc=5",
-      "title": "Apollo and Blackstone raise $35bn in chip financing deal for Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVHRTLWJ4UkZiWGlFZm02WnQ5c0N2b1JfY3hOY0NvVzB6LXZ1dk1xYlp3YmZ2UG0tcVg4dFd1M1RvZEZZLXIzd0tmVm9DOFU3TzV4YnRjbGdwa2NzQ21NSVk5d18wWGlEUndNazFRZ2hHbi1NTUZvazI4UUxkcW1JNm5GTHZXWXRnYThnd1JVbS1zbzZDb1llUnJBWHlwdFpqUVBFcWstcm1vYzlSVEE?oc=5",
+      "title": "Watch Google's Backstops Underpin $35 Billion Anthropic Chip Deal",
       "summary": "",
-      "publishedAt": "2026-06-08T23:50:11.000Z",
-      "publisher": "Financial Times",
+      "publishedAt": "2026-06-10T00:00:00.000Z",
+      "publisher": "Bloomberg.com",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "94acac03e485ae4dfd2a99a80f57e4934b37ca97",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcHVGaUxUM0RlNWFGN05sR1dPR2N1TlZLbGNXZENrN2FzS1N5bm04UVhMN0FiVmFWb1dZMklqRDhoTHhzUndUcVV6SWpRS29tbDFfWkcyYVZjal9GdXVCVm5WbTZ2NTVTUkFjUzJ0TGo4bGYtWV9ib0wweFYweEFnbXhqR0VRdHdjdEZlbmlCR2dNNVhFZkxtOF81c3UwUzVaLVpzNjdn?oc=5",
+      "title": "Sam Altman’s OpenAI Confidentially Files for IPO, Eyes $850+ Billion Valuation",
+      "summary": "",
+      "publishedAt": "2026-06-09T16:43:05.000Z",
+      "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -238,54 +352,16 @@
       }
     },
     {
-      "id": "6a57970bc789987b8be45f0890adecb6a8f8f3ae",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWTdiRzZ4djNxVkJLOUVKTW9sMzR5MjVxQ2dIakk2X0d2Tjh5a0RnMEh1NmU0QW9nWW4yVTZtelhBb1d3Q1RnMkRLVUFLV3lRUG0teldiTm1rY3NOa3VITU1TbmlHZmZZWW5CNnJYQWMwQmNoWFhzeGFJQ3gwS0hGa3ZWbzVYTm1FeWw5MTJnSS0xMjJRcFJvTmRZLXd6QUlVSzhHdVlONlFuY0k?oc=5",
-      "title": "Meta funds skilled trades jobs program for AI data center buildout",
-      "summary": "",
-      "publishedAt": "2026-06-08T21:21:55.000Z",
-      "publisher": "Reuters",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "79f059d65f3bce5cb43a8698ac3e690699fd072a",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTFdQXzRWYzRKbk1yR0hoSUQ2ajhGT0Z6UWtyc2h1eVF2S1pPOVQ2ZUpHZlV1b3FlSWNEcUVyX0M3MkpzN3lXbEM5SDg5Mi0tMTFnSnVWWmJMbnlMX0luTGNaT3QzR1hHeEs5aHhCX1VyRWUtRDdfQ3FOWXdidjNQdjhDMHVPM2pwelhwV3Bkc25lWTdHRW5kYm5xcWNPRzE5MHc?oc=5",
-      "title": "OpenAI is bringing Lockdown Mode to ChatGPT users as security risks grow",
-      "summary": "",
-      "publishedAt": "2026-06-07T01:23:39.000Z",
-      "publisher": "Startup Fortune",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "e26a6d525948de9bc3c3270a2a788199de021308",
+      "id": "31f4bff2af385a2c6ac953aeba84020eb05276fe",
       "company": "OpenAI",
       "sourceKind": "official",
       "sourceId": "openai-newsroom",
       "sourceLabel": "OpenAI Newsroom",
       "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/built-to-benefit-everyone-our-plan",
-      "title": "Built to benefit everyone: our plan",
-      "summary": "A vision for the future of AI, focusing on access, safety, and shared prosperity as OpenAI works to ensure AGI benefits everyone.",
-      "publishedAt": "2026-06-08T01:30:00.000Z",
+      "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
+      "title": "Industrial policy for the Intelligence Age",
+      "summary": "Explore our ambitious, people-first industrial policy ideas for the AI era—focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves.",
+      "publishedAt": "2026-06-09T00:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -305,25 +381,6 @@
       "title": "The latest AI news we announced in May 2026",
       "summary": "Here are Google’s latest AI updates from May 2026",
       "publishedAt": "2026-06-05T14:45:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "02855199684e01fc770a7da81bf40cd09de8dd95",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-kaggle--benchmarks-locally",
-      "title": "Kaggle is making AI benchmark creation effortless",
-      "summary": "Today, we’re launching local development for Kaggle Benchmarks.",
-      "publishedAt": "2026-06-04T16:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -371,44 +428,6 @@
       }
     },
     {
-      "id": "466887c600baf47edd17b7a45c2bfa9cd1430d90",
-      "company": "Meta",
-      "sourceKind": "official",
-      "sourceId": "meta-newsroom",
-      "sourceLabel": "Meta Newsroom",
-      "homepageUrl": "https://about.fb.com/news/",
-      "url": "https://about.fb.com/news/2026/05/introducing-business-ai-on-whatsapp-for-small-businesses-in-india",
-      "title": "Introducing Business AI on WhatsApp for Small Businesses in India",
-      "summary": "",
-      "publishedAt": null,
-      "publisher": "",
-      "discoveryMethod": "anchor",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "6b157c5f6b9488120b95e0bb9a9071f5931661bf",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSDJxQzA2WFNCSXJ6dmdiRlhrLU1yZnkyZUV0ajlpOFFWcVZxdkxOSFVjUzhNVExhcDJMdXU1WjVSeWFxcXlUSUd4SHRWd2h1TWFmaUxhUVRjUXM2N01Wc3RzNU9nb3laVDRJTHhmN0NmRm9GMkgxS0xNYVFHRGxJZzF2bmc5bk5MSHhHME5DMXE4bUU1c1hqc1hUOTFXQmlvWEVGejgtcHkwNlZEV1p1MzJXUQ?oc=5",
-      "title": "Reid Hoffman is leaving Microsoft’s board to go ‘founder mode’ with startup Manas",
-      "summary": "",
-      "publishedAt": "2026-06-05T22:35:01.000Z",
-      "publisher": "TechCrunch",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
       "id": "28a89d278f254079d7fef8f2f377b0672a77c0f2",
       "company": "Microsoft",
       "sourceKind": "external",
@@ -428,6 +447,44 @@
       }
     },
     {
+      "id": "7ee0693dd3ce103ef57cffa7fece5f236bc87576",
+      "company": "Meta",
+      "sourceKind": "official",
+      "sourceId": "meta-newsroom",
+      "sourceLabel": "Meta Newsroom",
+      "homepageUrl": "https://about.fb.com/news/",
+      "url": "https://about.fb.com/news/2026/06/what-is-compute-power-meta-ai-infrastructure",
+      "title": "Infrastructure Explained: Compute Power",
+      "summary": "We're explaining what compute power is and how GPUs, CPUs, and MTIA custom silicon help us meet our AI innovation and computing needs. The post Infrastructure Explained: Compute Power",
+      "publishedAt": "2026-06-10T14:30:04.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Technical or research update"
+      }
+    },
+    {
+      "id": "e8e11bcb3ae640363b88c6cfb5e731ab942c62f6",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/notion",
+      "title": "What Codex unlocks for Notion",
+      "summary": "How Notion uses Codex to one-shot specs, build AI Voice Input for the web, and multiply engineering power across small teams.",
+      "publishedAt": "2026-06-09T10:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Technical or research update"
+      }
+    },
+    {
       "id": "752b4b1354bb908dfaddb30b7ab67e12803d7ccd",
       "company": "Google",
       "sourceKind": "official",
@@ -444,6 +501,25 @@
         "bucket": "important",
         "score": 3,
         "reason": "Technical or research update"
+      }
+    },
+    {
+      "id": "e26a6d525948de9bc3c3270a2a788199de021308",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/built-to-benefit-everyone-our-plan",
+      "title": "Built to benefit everyone: our plan",
+      "summary": "A vision for the future of AI, focusing on access, safety, and shared prosperity as OpenAI works to ensure AGI benefits everyone.",
+      "publishedAt": "2026-06-08T01:30:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Safety, security, or policy update"
       }
     },
     {
@@ -464,97 +540,97 @@
         "score": 3,
         "reason": "Safety, security, or policy update"
       }
-    },
-    {
-      "id": "a9d56e9681a7fa00d0d9b50b194c1e79f1ea4d7c",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-live-3-5-translate",
-      "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
-      "summary": "Gemini 3.5 Live Translate brings near real-time, natural speech translation to Google AI Studio, Google Translate and Google Meet.",
-      "publishedAt": "2026-06-09T15:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "f7397b690256295cc7a6162eb3cbe09bd9724c0b",
-      "company": "Microsoft",
-      "sourceKind": "official",
-      "sourceId": "microsoft-ai",
-      "sourceLabel": "Microsoft AI",
-      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
-      "url": "https://news.microsoft.com/source/2026/06/09/kpmg-and-microsoft-scale-trusted-enterprise-ai-agents-globally-through-deployment-of-agent-365-and-copilot",
-      "title": "KPMG and Microsoft scale trusted, enterprise AI agents globally through deployment of Agent 365 and Copilot",
-      "summary": "KPMG and Microsoft scale trusted, enterprise AI agents globally through deployment of Agent 365 and Copilot",
-      "publishedAt": "2026-06-09T13:12:20.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "585b1281939f91e462d52751550ff0f013c0e6a5",
-      "company": "Microsoft",
-      "sourceKind": "official",
-      "sourceId": "microsoft-ai",
-      "sourceLabel": "Microsoft AI",
-      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
-      "url": "https://news.microsoft.com/source/2026/06/09/atos-group-and-microsoft-expand-strategic-collaboration-to-scale-secure-agentic-ai-across-atos-group-workforce-and-clients",
-      "title": "Atos Group and Microsoft expand strategic collaboration to scale secure agentic AI across Atos Group workforce and clients",
-      "summary": "Atos Group and Microsoft expand strategic collaboration to scale secure agentic AI across Atos Group workforce and clients",
-      "publishedAt": "2026-06-09T12:00:10.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "f498349af01301cb6c3687523f5f19f8c133dcf8",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/bringing-gemini-models-to-apple-developers",
-      "title": "Bringing the latest Gemini models to Apple developers",
-      "summary": "Apple developers can now securely call cloud-hosted Gemini models using the Foundation Models framework, and access Gemini in Xcode.",
-      "publishedAt": "2026-06-08T23:45:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
     }
   ],
   "newItems": [
     {
-      "id": "bb7a5d5506441cda3edb8b80b5e4583c1a586ac1",
+      "id": "4f369fa656694448e63d654101796c37dd353e36",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOREtROTZDNlBKNzlXTXBIbElFRF9pZWdDZHRIcU1hY0k1Q3k4eXZ1LVdPQk9sX0xHZFVhSHBZLVdyX09xSkczVzNOOVZZSXcyeXdEWnB2dWxyODgzZUpjeWR0U3ctcldyM2ktZkw2ZTlreHhodjkyUTBhbzJpLWd2N0ZUWGNiQnlfT1JRbl9hUE50TkUtT0lnNGhVaFpqc1IwWHdubUhpNkdRUWl4YXpWWTF6OVZVdw?oc=5",
+      "title": "Meta Partners With Reliance on First India AI Data Center",
+      "summary": "",
+      "publishedAt": "2026-06-10T04:57:00.000Z",
+      "publisher": "Bloomberg.com",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "5a2090a10f98ed370816d97cf4c986379f8135bb",
       "company": "Anthropic",
       "sourceKind": "external",
       "sourceId": "external-anthropic-major",
       "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMWk3TUZpRkpvT0dvdjNTZnNIYTljZVhYWGpyTmJkcUdHc2t5UjZzTzgzVUVVRzlfUjJBYlE2RC1hcEhCek5DUkpRc3R0Zk1jeDM4bVo3VU9VSUtJdkpaSl9ITDl4SDlfNXRZNnB0MFVsNVdNS2dGc3ZsTWFocFZmOXo0c1lLOUhPckRLWGhnNjhSQktybC1HSDJ2M05EVTQ?oc=5",
-      "title": "Anthropic is turning Claude Mythos into a controlled security business",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE01NlNSNW5rY1ZZUGtFRElnZmV3SFhZYVUza0Nva3dJS2QxMUR5ay1uLWlFV1Q2NXFnM05PX25ORTU2QnhJM2lKT3FpVUtDVllVVk92ZkNfLVpTUURHUF9ZWEprTTN2MlZCejQ3Mg?oc=5",
+      "title": "Watch Blackstone's Brand on IPO Returns, Anthropic Partnership",
       "summary": "",
-      "publishedAt": "2026-06-08T05:24:00.000Z",
-      "publisher": "Startup Fortune",
+      "publishedAt": "2026-06-10T00:00:00.000Z",
+      "publisher": "Bloomberg.com",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "505abaa58e5888b9c193c825a59cf31d1163e795",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOS3oxTDdzSHI0b0JLWG5kS1BTUjllZjkwd0ptUkl6bmRfRlVFd19FWEN2eHhYWkpvOXYyUUJEV1JWVWJTVmJjWF9qUDltMHB0VG9DTU9IWVdOQTdRclZnazVKNnZJejNMYnZvR3JsbzhMZE5ueFNoV05qMVZndEVRNUxwWkNMQ3g2eWhQaFg5aEtfZU9kR2V5VnJlSmpqa3Fo?oc=5",
+      "title": "Anthropic, Nvidia Sway Judge to Split Authors’ AI Copyright Suit",
+      "summary": "",
+      "publishedAt": "2026-06-09T18:58:00.000Z",
+      "publisher": "Bloomberg Law News",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "c8dd9b8d0b2b6aac90369f48b78830522edf2e4c",
+      "company": "Meta",
+      "sourceKind": "official",
+      "sourceId": "meta-newsroom",
+      "sourceLabel": "Meta Newsroom",
+      "homepageUrl": "https://about.fb.com/news/",
+      "url": "https://about.fb.com/news/2026/06/meta-partners-with-reliance-on-ai-enabled-data-center-in-india-2",
+      "title": "Meta Partners With Reliance on AI-Enabled Data Center in India",
+      "summary": "Meta and Reliance Industries today announced a significant expansion of our strategic partnership with an agreement for an AI-enabled data center in India. The post Meta Partners With Reliance on AI-Enabled Data Center in India",
+      "publishedAt": "2026-06-10T02:32:32.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "d706722ffcf702dd8cb6088c525b04c1c3884077",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOFFWblJvN1EwNUdzaUtydGQwSFE3VVRodURDZVV4WlR4RGdRYTBPc0pfQXRJV3Jtd2pOV05KeC05alotMDNDZkRwMmh0ajhqQm9MRlpMcGt1Q1lQSUJKeF9PMXhXa0xaN3plR1FFTU5wcFVnMnBwVzdYeUNSNkxhOU9RVEF6TS10QjNrMkVKQ3RDOWFsWXI2Sy10UFZDbndpLVhRdVVJNmNjU0E?oc=5",
+      "title": "JFrog and Anthropic Bring Enterprise-Grade Software Supply Chain Governance and Security to Claude Code",
+      "summary": "",
+      "publishedAt": "2026-06-10T13:15:00.000Z",
+      "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -563,16 +639,16 @@
       }
     },
     {
-      "id": "63685f806399b4accaf62d55cce87127e58769c7",
+      "id": "2be94cf799401d49b9baefb58f927b8e71ceca15",
       "company": "OpenAI",
       "sourceKind": "official",
       "sourceId": "openai-newsroom",
       "sourceLabel": "OpenAI Newsroom",
       "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/economic-research-exchange",
-      "title": "Introducing the OpenAI Economic Research Exchange",
-      "summary": "OpenAI launches the Economic Research Exchange to study AI’s impact on jobs, productivity, and the economy. Applications are now open for selected research projects.",
-      "publishedAt": "2026-06-08T00:00:00.000Z",
+      "url": "https://openai.com/index/lseg",
+      "title": "From data to decisions: how LSEG is scaling trusted AI",
+      "summary": "See how LSEG uses OpenAI to scale trusted AI across its global business, accelerating insights, shrinking release cycles, and empowering 4,000 employees.",
+      "publishedAt": "2026-06-10T00:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -582,16 +658,35 @@
       }
     },
     {
-      "id": "f209aaa4e6e9943a99e9a89a1e5830a319781d4c",
+      "id": "f33673e04ec395e88e870ecdd7f6b72589460e62",
       "company": "Meta",
       "sourceKind": "external",
       "sourceId": "external-meta-major",
       "sourceLabel": "Major External News - Meta",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRFR5VnF0VUJWeloxS3ZpYVVGY1Q2R2V3T01oMDJRT1I3LVRiTW9DQlJNRzBsd3cxR2k5MkVfcVcyT0d6Y3VqdmZOUEhSdGotV1pMNFM4WFJ4MENJc05yOWlFZzNZWGlacV9XUHZHRFR1dFBJeVFVU3RXNjFQTEd2MWNwNGtjamZ5SVJvWXlNNERqbUc5UU1zT1I2dFJsUURWMkRB?oc=5",
-      "title": "Meta Platforms (META) In Talks with CleanSpark for Data Center Facility Lease",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTm84RnM5cXpFMWI3Y0NVemtrWkNTSU1YTjFDTU9SLWN2X2ZJMERUQjFZWWI1M0p6aC0xM0tSbEhXOUJKaWJoVU1Pc3hnMlRWLWJCZjl0eHgtUkhFSVE5cWxNVW9xV3BIN3Z5LWIwaGx5WW9iVERObGIzV2dUREg0WEVONWFGYkFOcGFwYmVWNnc5OTREUHBzUG9SNHMwWHlXOUHSAacBQVVfeXFMT0ZMTFRIUG1BUFJWRUFxNVZ5NWN2REF1dzRVVy1mUGZSc3FNSzlYa1N4RGh0N0FldjhXN0tLeDhqQkk3V19qVzBsbWpUam1wdVQzYlJ3SmtfQVk3U2FZSHhvb1NBRVdPY1lGZDZjWTMzMFFWaGhIdy1NdEU0TUJSQ0dZUlRQNXdyTUcwSE55VHM0X0gyUlpYTldsVGRRdzNQSlRNY0p2Tnc?oc=5",
+      "title": "Meta agrees to Indian AI data center deal as hyperscaler bolsters its infrastructure",
       "summary": "",
-      "publishedAt": "2026-06-09T13:39:14.000Z",
+      "publishedAt": "2026-06-10T09:24:53.000Z",
+      "publisher": "CNBC",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "0f5041324b6460a9455d8a27aee919d1b1f4e45d",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSmkza0hOX2VrRDhVZFB4OWhINHF4UmU1ZDdqYzJVUHN4c1dERlU4U1h1clJzMmloN0FzcFZFWEJzdWJndWthSzZsWHIyRWdvS2VzWjBDZVVOSzVZT29sMTE0dzBxanNuempISk5hSGNKUmVzeWZ6UGVhVVNDVktaZXV5NUo2N01COWJoOFJFZk5TMlJVZHozMTVJeDI?oc=5",
+      "title": "Meta Turns to Reliance as AI Data Center Race Reaches India",
+      "summary": "",
+      "publishedAt": "2026-06-10T08:34:12.000Z",
       "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
@@ -601,17 +696,17 @@
       }
     },
     {
-      "id": "4712b671b80e1097f8ac62cf26aafeee3932398f",
+      "id": "7cc5c91cf7c1f100c5ad225fa4a8d4cbe175c0f4",
       "company": "Meta",
       "sourceKind": "external",
       "sourceId": "external-meta-major",
       "sourceLabel": "Major External News - Meta",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeWVGblVwS2ZEdElVUGsyX2N1X0hQS0lQMmI4Q20zZkJ5cHhTWnBFYkJzOXVFakhVZHBfajFBY1BaTXBJOGxMaDYzRUZkZnBUUEJabWVuaXplUlI1UWt2ZWpaY29qWE9iYmJmNE12bEVHTGhjSUxob2ZSZXltcG9meVI3Q0dMSGtY?oc=5",
-      "title": "Meta builds its AI data center worker pipeline",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUmFUaW1pRGhMUVR0RWFKRUdmVnVHMFFNVkNzZTluYjJvVkltMkhHQTIwaDJKdVZQVm5oNXlLTFRKb3NUWFpIYlZqNTE2MHNIeExsNFpSY2VaVGJUMF9lQlVhRi1UdldYTGJHMWpYSzZVbkZUcHdSaHBhUTlpZkljOXlSdnhYazJPM3VqWFA1MjZLSVZRblg2OS1R?oc=5",
+      "title": "Meta signs first AI data center deal in India with Reliance",
       "summary": "",
-      "publishedAt": "2026-06-09T09:47:03.000Z",
-      "publisher": "Axios",
+      "publishedAt": "2026-06-10T07:05:26.000Z",
+      "publisher": "TechCrunch",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -620,17 +715,36 @@
       }
     },
     {
-      "id": "1779265b1c1e22d080bf04c16af90d2ed900e9e1",
+      "id": "a58921cd33b38352b15ac99c91f0e080b5f5235f",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTXFHZWEyekM0M1o2QzFzbDdnVWJlS2FGX2p0djlDR2FJdHRlT2RMMGtVOEJTa3R1THQ3YlRkenpGOEZWYlZLdTRnSEluZGJ0dWdxTVdFLTRsUHhBbGtkUjFHSFVMYm9yWi14OUlKZkYtOFB1ZlhpNXlNdk9NYUhiaWNtcVdFS0hSZ0xYUEhFVzhEcnJVTmV0eU9GVTlycHR3ZzQwcg?oc=5",
+      "title": "OpenAI in Talks to Lease 10 Gigawatt Ohio Data Center with Backing From Nvidia",
+      "summary": "",
+      "publishedAt": "2026-06-10T02:07:00.000Z",
+      "publisher": "The Information",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "9fad1f4b5270410d81db3d1e65da588b29cced44",
       "company": "Anthropic",
       "sourceKind": "external",
       "sourceId": "external-anthropic-major",
       "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOTBGSExqSGEzcFlST05vbW5wcXZGVHJ0dTlEa1VwbXAxSXVvY2lkUjJpY3ZvZURURWFVWHB5VG5Ic0xpbDQtMlp1YWpuYWdfd092UExCYnc0c3RhNWVLazFrMTZrTGI2SU5BYm1YTklRYVhOc3ZhV0pSRWJXanFOYnpBdGc?oc=5",
-      "title": "Apollo and Blackstone raise $35bn in chip financing deal for Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVHRTLWJ4UkZiWGlFZm02WnQ5c0N2b1JfY3hOY0NvVzB6LXZ1dk1xYlp3YmZ2UG0tcVg4dFd1M1RvZEZZLXIzd0tmVm9DOFU3TzV4YnRjbGdwa2NzQ21NSVk5d18wWGlEUndNazFRZ2hHbi1NTUZvazI4UUxkcW1JNm5GTHZXWXRnYThnd1JVbS1zbzZDb1llUnJBWHlwdFpqUVBFcWstcm1vYzlSVEE?oc=5",
+      "title": "Watch Google's Backstops Underpin $35 Billion Anthropic Chip Deal",
       "summary": "",
-      "publishedAt": "2026-06-08T23:50:11.000Z",
-      "publisher": "Financial Times",
+      "publishedAt": "2026-06-10T00:00:00.000Z",
+      "publisher": "Bloomberg.com",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -639,16 +753,16 @@
       }
     },
     {
-      "id": "a2554fc89830cb0a308f404b4a4e83d6f66d93c3",
-      "company": "Google",
+      "id": "94acac03e485ae4dfd2a99a80f57e4934b37ca97",
+      "company": "OpenAI",
       "sourceKind": "external",
-      "sourceId": "external-google-major",
-      "sourceLabel": "Major External News - Google",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSk9nakJ0YkNUMnVRQVcwX2xGdnRCMWVYeVZBaU81MUVVb3B5ZHZtbVhlek03MUlGUU85bExxMzdNWGN1Z0ZMYlVQYmdId1RaU3BNNnJiUGc4ZGRmNWQ1TG8tOFRlbU1pRG9vREVLSlZfWExpTm1ybWI4MkFOT2RBYkRtZzhYMi1lempOcHd4X3gwZFMz?oc=5",
-      "title": "Stock Market Today, June 8: Intel Surges on Reported Google AI Chip Foundry Order",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcHVGaUxUM0RlNWFGN05sR1dPR2N1TlZLbGNXZENrN2FzS1N5bm04UVhMN0FiVmFWb1dZMklqRDhoTHhzUndUcVV6SWpRS29tbDFfWkcyYVZjal9GdXVCVm5WbTZ2NTVTUkFjUzJ0TGo4bGYtWV9ib0wweFYweEFnbXhqR0VRdHdjdEZlbmlCR2dNNVhFZkxtOF81c3UwUzVaLVpzNjdn?oc=5",
+      "title": "Sam Altman’s OpenAI Confidentially Files for IPO, Eyes $850+ Billion Valuation",
       "summary": "",
-      "publishedAt": "2026-06-08T21:23:45.000Z",
+      "publishedAt": "2026-06-09T16:43:05.000Z",
       "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
@@ -658,35 +772,16 @@
       }
     },
     {
-      "id": "6a57970bc789987b8be45f0890adecb6a8f8f3ae",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWTdiRzZ4djNxVkJLOUVKTW9sMzR5MjVxQ2dIakk2X0d2Tjh5a0RnMEh1NmU0QW9nWW4yVTZtelhBb1d3Q1RnMkRLVUFLV3lRUG0teldiTm1rY3NOa3VITU1TbmlHZmZZWW5CNnJYQWMwQmNoWFhzeGFJQ3gwS0hGa3ZWbzVYTm1FeWw5MTJnSS0xMjJRcFJvTmRZLXd6QUlVSzhHdVlONlFuY0k?oc=5",
-      "title": "Meta funds skilled trades jobs program for AI data center buildout",
-      "summary": "",
-      "publishedAt": "2026-06-08T21:21:55.000Z",
-      "publisher": "Reuters",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "e26a6d525948de9bc3c3270a2a788199de021308",
+      "id": "31f4bff2af385a2c6ac953aeba84020eb05276fe",
       "company": "OpenAI",
       "sourceKind": "official",
       "sourceId": "openai-newsroom",
       "sourceLabel": "OpenAI Newsroom",
       "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/built-to-benefit-everyone-our-plan",
-      "title": "Built to benefit everyone: our plan",
-      "summary": "A vision for the future of AI, focusing on access, safety, and shared prosperity as OpenAI works to ensure AGI benefits everyone.",
-      "publishedAt": "2026-06-08T01:30:00.000Z",
+      "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
+      "title": "Industrial policy for the Intelligence Age",
+      "summary": "Explore our ambitious, people-first industrial policy ideas for the AI era—focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves.",
+      "publishedAt": "2026-06-09T00:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -696,16 +791,16 @@
       }
     },
     {
-      "id": "752b4b1354bb908dfaddb30b7ab67e12803d7ccd",
-      "company": "Google",
+      "id": "7ee0693dd3ce103ef57cffa7fece5f236bc87576",
+      "company": "Meta",
       "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/products/notebooklm/better-research-notebooklm",
-      "title": "Do better research with NotebookLM",
-      "summary": "NotebookLM’s latest upgrades deliver new agentic capabilities and more advanced reasoning to tackle complex research projects.",
-      "publishedAt": "2026-06-08T16:00:00.000Z",
+      "sourceId": "meta-newsroom",
+      "sourceLabel": "Meta Newsroom",
+      "homepageUrl": "https://about.fb.com/news/",
+      "url": "https://about.fb.com/news/2026/06/what-is-compute-power-meta-ai-infrastructure",
+      "title": "Infrastructure Explained: Compute Power",
+      "summary": "We're explaining what compute power is and how GPUs, CPUs, and MTIA custom silicon help us meet our AI innovation and computing needs. The post Infrastructure Explained: Compute Power",
+      "publishedAt": "2026-06-10T14:30:04.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -715,79 +810,22 @@
       }
     },
     {
-      "id": "a9d56e9681a7fa00d0d9b50b194c1e79f1ea4d7c",
-      "company": "Google",
+      "id": "e8e11bcb3ae640363b88c6cfb5e731ab942c62f6",
+      "company": "OpenAI",
       "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-live-3-5-translate",
-      "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
-      "summary": "Gemini 3.5 Live Translate brings near real-time, natural speech translation to Google AI Studio, Google Translate and Google Meet.",
-      "publishedAt": "2026-06-09T15:00:00.000Z",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/notion",
+      "title": "What Codex unlocks for Notion",
+      "summary": "How Notion uses Codex to one-shot specs, build AI Voice Input for the web, and multiply engineering power across small teams.",
+      "publishedAt": "2026-06-09T10:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "f7397b690256295cc7a6162eb3cbe09bd9724c0b",
-      "company": "Microsoft",
-      "sourceKind": "official",
-      "sourceId": "microsoft-ai",
-      "sourceLabel": "Microsoft AI",
-      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
-      "url": "https://news.microsoft.com/source/2026/06/09/kpmg-and-microsoft-scale-trusted-enterprise-ai-agents-globally-through-deployment-of-agent-365-and-copilot",
-      "title": "KPMG and Microsoft scale trusted, enterprise AI agents globally through deployment of Agent 365 and Copilot",
-      "summary": "KPMG and Microsoft scale trusted, enterprise AI agents globally through deployment of Agent 365 and Copilot",
-      "publishedAt": "2026-06-09T13:12:20.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "585b1281939f91e462d52751550ff0f013c0e6a5",
-      "company": "Microsoft",
-      "sourceKind": "official",
-      "sourceId": "microsoft-ai",
-      "sourceLabel": "Microsoft AI",
-      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
-      "url": "https://news.microsoft.com/source/2026/06/09/atos-group-and-microsoft-expand-strategic-collaboration-to-scale-secure-agentic-ai-across-atos-group-workforce-and-clients",
-      "title": "Atos Group and Microsoft expand strategic collaboration to scale secure agentic AI across Atos Group workforce and clients",
-      "summary": "Atos Group and Microsoft expand strategic collaboration to scale secure agentic AI across Atos Group workforce and clients",
-      "publishedAt": "2026-06-09T12:00:10.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "f498349af01301cb6c3687523f5f19f8c133dcf8",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/bringing-gemini-models-to-apple-developers",
-      "title": "Bringing the latest Gemini models to Apple developers",
-      "summary": "Apple developers can now securely call cloud-hosted Gemini models using the Foundation Models framework, and access Gemini in Xcode.",
-      "publishedAt": "2026-06-08T23:45:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
+        "bucket": "important",
+        "score": 3,
+        "reason": "Technical or research update"
       }
     }
   ],

@@ -1,111 +1,123 @@
 # AI Company Watch
 
-Generated: Jun 9, 2026, 8:15 AM PDT
+Generated: Jun 10, 2026, 8:17 AM PDT
 Lookback window: 7 day(s)
 Sources checked: 12
-Items fetched: 39
+Items fetched: 40
 Items kept: 24
-New items: 13
-External items kept: 10
-Official items kept: 14
+New items: 15
+External items kept: 13
+Official items kept: 11
 
 ## Critical External News
 
-### Anthropic - Anthropic is turning Claude Mythos into a controlled security business
+### Meta - Meta Partners With Reliance on First India AI Data Center
+Source: Major External News - Meta
+Publisher: Bloomberg.com
+Published: Jun 9, 2026
+Why it matters: Corporate move or major external event
+Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxOREtROTZDNlBKNzlXTXBIbElFRF9pZWdDZHRIcU1hY0k1Q3k4eXZ1LVdPQk9sX0xHZFVhSHBZLVdyX09xSkczVzNOOVZZSXcyeXdEWnB2dWxyODgzZUpjeWR0U3ctcldyM2ktZkw2ZTlreHhodjkyUTBhbzJpLWd2N0ZUWGNiQnlfT1JRbl9hUE50TkUtT0lnNGhVaFpqc1IwWHdubUhpNkdRUWl4YXpWWTF6OVZVdw?oc=5
+
+### Anthropic - Watch Blackstone's Brand on IPO Returns, Anthropic Partnership
 Source: Major External News - Anthropic
-Publisher: Startup Fortune
-Published: Jun 7, 2026
+Publisher: Bloomberg.com
+Published: Jun 9, 2026
+Why it matters: Corporate move or major external event
+Link: https://news.google.com/rss/articles/CBMibEFVX3lxTE01NlNSNW5rY1ZZUGtFRElnZmV3SFhZYVUza0Nva3dJS2QxMUR5ay1uLWlFV1Q2NXFnM05PX25ORTU2QnhJM2lKT3FpVUtDVllVVk92ZkNfLVpTUURHUF9ZWEprTTN2MlZCejQ3Mg?oc=5
+
+### Anthropic - Anthropic, Nvidia Sway Judge to Split Authors’ AI Copyright Suit
+Source: Major External News - Anthropic
+Publisher: Bloomberg Law News
+Published: Jun 9, 2026
+Why it matters: Corporate move or major external event
+Link: https://news.google.com/rss/articles/CBMioAFBVV95cUxOS3oxTDdzSHI0b0JLWG5kS1BTUjllZjkwd0ptUkl6bmRfRlVFd19FWEN2eHhYWkpvOXYyUUJEV1JWVWJTVmJjWF9qUDltMHB0VG9DTU9IWVdOQTdRclZnazVKNnZJejNMYnZvR3JsbzhMZE5ueFNoV05qMVZndEVRNUxwWkNMQ3g2eWhQaFg5aEtfZU9kR2V5VnJlSmpqa3Fo?oc=5
+
+### Anthropic - JFrog and Anthropic Bring Enterprise-Grade Software Supply Chain Governance and Security to Claude Code
+Source: Major External News - Anthropic
+Publisher: Yahoo Finance
+Published: Jun 10, 2026
 Why it matters: Safety, security, or policy update
-Link: https://news.google.com/rss/articles/CBMinwFBVV95cUxPMWk3TUZpRkpvT0dvdjNTZnNIYTljZVhYWGpyTmJkcUdHc2t5UjZzTzgzVUVVRzlfUjJBYlE2RC1hcEhCek5DUkpRc3R0Zk1jeDM4bVo3VU9VSUtJdkpaSl9ITDl4SDlfNXRZNnB0MFVsNVdNS2dGc3ZsTWFocFZmOXo0c1lLOUhPckRLWGhnNjhSQktybC1HSDJ2M05EVTQ?oc=5
+Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOFFWblJvN1EwNUdzaUtydGQwSFE3VVRodURDZVV4WlR4RGdRYTBPc0pfQXRJV3Jtd2pOV05KeC05alotMDNDZkRwMmh0ajhqQm9MRlpMcGt1Q1lQSUJKeF9PMXhXa0xaN3plR1FFTU5wcFVnMnBwVzdYeUNSNkxhOU9RVEF6TS10QjNrMkVKQ3RDOWFsWXI2Sy10UFZDbndpLVhRdVVJNmNjU0E?oc=5
 
 ## Important External News
 
-### Meta - Meta Platforms (META) In Talks with CleanSpark for Data Center Facility Lease
+### Meta - Meta agrees to Indian AI data center deal as hyperscaler bolsters its infrastructure
+Source: Major External News - Meta
+Publisher: CNBC
+Published: Jun 10, 2026
+Why it matters: Trusted external coverage
+Link: https://news.google.com/rss/articles/CBMiogFBVV95cUxNTm84RnM5cXpFMWI3Y0NVemtrWkNTSU1YTjFDTU9SLWN2X2ZJMERUQjFZWWI1M0p6aC0xM0tSbEhXOUJKaWJoVU1Pc3hnMlRWLWJCZjl0eHgtUkhFSVE5cWxNVW9xV3BIN3Z5LWIwaGx5WW9iVERObGIzV2dUREg0WEVONWFGYkFOcGFwYmVWNnc5OTREUHBzUG9SNHMwWHlXOUHSAacBQVVfeXFMT0ZMTFRIUG1BUFJWRUFxNVZ5NWN2REF1dzRVVy1mUGZSc3FNSzlYa1N4RGh0N0FldjhXN0tLeDhqQkk3V19qVzBsbWpUam1wdVQzYlJ3SmtfQVk3U2FZSHhvb1NBRVdPY1lGZDZjWTMzMFFWaGhIdy1NdEU0TUJSQ0dZUlRQNXdyTUcwSE55VHM0X0gyUlpYTldsVGRRdzNQSlRNY0p2Tnc?oc=5
+
+### Meta - Meta Turns to Reliance as AI Data Center Race Reaches India
 Source: Major External News - Meta
 Publisher: Yahoo Finance
-Published: Jun 9, 2026
+Published: Jun 10, 2026
 Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMiowFBVV95cUxNRFR5VnF0VUJWeloxS3ZpYVVGY1Q2R2V3T01oMDJRT1I3LVRiTW9DQlJNRzBsd3cxR2k5MkVfcVcyT0d6Y3VqdmZOUEhSdGotV1pMNFM4WFJ4MENJc05yOWlFZzNZWGlacV9XUHZHRFR1dFBJeVFVU3RXNjFQTEd2MWNwNGtjamZ5SVJvWXlNNERqbUc5UU1zT1I2dFJsUURWMkRB?oc=5
+Link: https://news.google.com/rss/articles/CBMinAFBVV95cUxNSmkza0hOX2VrRDhVZFB4OWhINHF4UmU1ZDdqYzJVUHN4c1dERlU4U1h1clJzMmloN0FzcFZFWEJzdWJndWthSzZsWHIyRWdvS2VzWjBDZVVOSzVZT29sMTE0dzBxanNuempISk5hSGNKUmVzeWZ6UGVhVVNDVktaZXV5NUo2N01COWJoOFJFZk5TMlJVZHozMTVJeDI?oc=5
 
-### Meta - Meta builds its AI data center worker pipeline
+### Meta - Meta signs first AI data center deal in India with Reliance
 Source: Major External News - Meta
-Publisher: Axios
+Publisher: TechCrunch
+Published: Jun 10, 2026
+Why it matters: Trusted external coverage
+Link: https://news.google.com/rss/articles/CBMimgFBVV95cUxPUmFUaW1pRGhMUVR0RWFKRUdmVnVHMFFNVkNzZTluYjJvVkltMkhHQTIwaDJKdVZQVm5oNXlLTFRKb3NUWFpIYlZqNTE2MHNIeExsNFpSY2VaVGJUMF9lQlVhRi1UdldYTGJHMWpYSzZVbkZUcHdSaHBhUTlpZkljOXlSdnhYazJPM3VqWFA1MjZLSVZRblg2OS1R?oc=5
+
+### OpenAI - OpenAI in Talks to Lease 10 Gigawatt Ohio Data Center with Backing From Nvidia
+Source: Major External News - OpenAI
+Publisher: The Information
 Published: Jun 9, 2026
 Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeWVGblVwS2ZEdElVUGsyX2N1X0hQS0lQMmI4Q20zZkJ5cHhTWnBFYkJzOXVFakhVZHBfajFBY1BaTXBJOGxMaDYzRUZkZnBUUEJabWVuaXplUlI1UWt2ZWpaY29qWE9iYmJmNE12bEVHTGhjSUxob2ZSZXltcG9meVI3Q0dMSGtY?oc=5
+Link: https://news.google.com/rss/articles/CBMipAFBVV95cUxNTXFHZWEyekM0M1o2QzFzbDdnVWJlS2FGX2p0djlDR2FJdHRlT2RMMGtVOEJTa3R1THQ3YlRkenpGOEZWYlZLdTRnSEluZGJ0dWdxTVdFLTRsUHhBbGtkUjFHSFVMYm9yWi14OUlKZkYtOFB1ZlhpNXlNdk9NYUhiaWNtcVdFS0hSZ0xYUEhFVzhEcnJVTmV0eU9GVTlycHR3ZzQwcg?oc=5
 
-### Anthropic - Apollo and Blackstone raise $35bn in chip financing deal for Anthropic
+### Anthropic - Watch Google's Backstops Underpin $35 Billion Anthropic Chip Deal
 Source: Major External News - Anthropic
-Publisher: Financial Times
-Published: Jun 8, 2026
+Publisher: Bloomberg.com
+Published: Jun 9, 2026
 Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxQOTBGSExqSGEzcFlST05vbW5wcXZGVHJ0dTlEa1VwbXAxSXVvY2lkUjJpY3ZvZURURWFVWHB5VG5Ic0xpbDQtMlp1YWpuYWdfd092UExCYnc0c3RhNWVLazFrMTZrTGI2SU5BYm1YTklRYVhOc3ZhV0pSRWJXanFOYnpBdGc?oc=5
+Link: https://news.google.com/rss/articles/CBMirgFBVV95cUxNVHRTLWJ4UkZiWGlFZm02WnQ5c0N2b1JfY3hOY0NvVzB6LXZ1dk1xYlp3YmZ2UG0tcVg4dFd1M1RvZEZZLXIzd0tmVm9DOFU3TzV4YnRjbGdwa2NzQ21NSVk5d18wWGlEUndNazFRZ2hHbi1NTUZvazI4UUxkcW1JNm5GTHZXWXRnYThnd1JVbS1zbzZDb1llUnJBWHlwdFpqUVBFcWstcm1vYzlSVEE?oc=5
 
-### Google - Stock Market Today, June 8: Intel Surges on Reported Google AI Chip Foundry Order
-Source: Major External News - Google
+### OpenAI - Sam Altman’s OpenAI Confidentially Files for IPO, Eyes $850+ Billion Valuation
+Source: Major External News - OpenAI
 Publisher: Yahoo Finance
-Published: Jun 8, 2026
+Published: Jun 9, 2026
 Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMilAFBVV95cUxOSk9nakJ0YkNUMnVRQVcwX2xGdnRCMWVYeVZBaU81MUVVb3B5ZHZtbVhlek03MUlGUU85bExxMzdNWGN1Z0ZMYlVQYmdId1RaU3BNNnJiUGc4ZGRmNWQ1TG8tOFRlbU1pRG9vREVLSlZfWExpTm1ybWI4MkFOT2RBYkRtZzhYMi1lempOcHd4X3gwZFMz?oc=5
-
-### Meta - Meta funds skilled trades jobs program for AI data center buildout
-Source: Major External News - Meta
-Publisher: Reuters
-Published: Jun 8, 2026
-Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWTdiRzZ4djNxVkJLOUVKTW9sMzR5MjVxQ2dIakk2X0d2Tjh5a0RnMEh1NmU0QW9nWW4yVTZtelhBb1d3Q1RnMkRLVUFLV3lRUG0teldiTm1rY3NOa3VITU1TbmlHZmZZWW5CNnJYQWMwQmNoWFhzeGFJQ3gwS0hGa3ZWbzVYTm1FeWw5MTJnSS0xMjJRcFJvTmRZLXd6QUlVSzhHdVlONlFuY0k?oc=5
+Link: https://news.google.com/rss/articles/CBMipgFBVV95cUxOcHVGaUxUM0RlNWFGN05sR1dPR2N1TlZLbGNXZENrN2FzS1N5bm04UVhMN0FiVmFWb1dZMklqRDhoTHhzUndUcVV6SWpRS29tbDFfWkcyYVZjal9GdXVCVm5WbTZ2NTVTUkFjUzJ0TGo4bGYtWV9ib0wweFYweEFnbXhqR0VRdHdjdEZlbmlCR2dNNVhFZkxtOF81c3UwUzVaLVpzNjdn?oc=5
 
 ## Critical Official Updates
 
-### OpenAI - Introducing the OpenAI Economic Research Exchange
+### Meta - Meta Partners With Reliance on AI-Enabled Data Center in India
+Source: Meta Newsroom
+Published: Jun 9, 2026
+Why it matters: Corporate move or major external event
+Summary: Meta and Reliance Industries today announced a significant expansion of our strategic partnership with an agreement for an AI-enabled data center in India. The post Meta Partners With Reliance on AI-Enabled Data Center in India
+Link: https://about.fb.com/news/2026/06/meta-partners-with-reliance-on-ai-enabled-data-center-in-india-2
+
+### OpenAI - From data to decisions: how LSEG is scaling trusted AI
 Source: OpenAI Newsroom
-Published: Jun 7, 2026
+Published: Jun 9, 2026
 Why it matters: Flagship model or product launch
-Summary: OpenAI launches the Economic Research Exchange to study AI’s impact on jobs, productivity, and the economy. Applications are now open for selected research projects.
-Link: https://openai.com/index/economic-research-exchange
+Summary: See how LSEG uses OpenAI to scale trusted AI across its global business, accelerating insights, shrinking release cycles, and empowering 4,000 employees.
+Link: https://openai.com/index/lseg
 
 ## Important Official Updates
 
-### OpenAI - Built to benefit everyone: our plan
+### OpenAI - Industrial policy for the Intelligence Age
 Source: OpenAI Newsroom
-Published: Jun 7, 2026
+Published: Jun 8, 2026
 Why it matters: Safety, security, or policy update
-Summary: A vision for the future of AI, focusing on access, safety, and shared prosperity as OpenAI works to ensure AGI benefits everyone.
-Link: https://openai.com/index/built-to-benefit-everyone-our-plan
+Summary: Explore our ambitious, people-first industrial policy ideas for the AI era—focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves.
+Link: https://openai.com/index/industrial-policy-for-the-intelligence-age
 
-### Google - Do better research with NotebookLM
-Source: Google AI
-Published: Jun 8, 2026
+### Meta - Infrastructure Explained: Compute Power
+Source: Meta Newsroom
+Published: Jun 10, 2026
 Why it matters: Technical or research update
-Summary: NotebookLM’s latest upgrades deliver new agentic capabilities and more advanced reasoning to tackle complex research projects.
-Link: https://blog.google/innovation-and-ai/products/notebooklm/better-research-notebooklm
+Summary: We're explaining what compute power is and how GPUs, CPUs, and MTIA custom silicon help us meet our AI innovation and computing needs. The post Infrastructure Explained: Compute Power
+Link: https://about.fb.com/news/2026/06/what-is-compute-power-meta-ai-infrastructure
 
-## Official Company Updates
-
-### Google - Fluid, natural voice translation with Gemini 3.5 Live Translate
-Source: Google AI
+### OpenAI - What Codex unlocks for Notion
+Source: OpenAI Newsroom
 Published: Jun 9, 2026
-Why it matters: Routine official update
-Summary: Gemini 3.5 Live Translate brings near real-time, natural speech translation to Google AI Studio, Google Translate and Google Meet.
-Link: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-live-3-5-translate
-
-### Microsoft - KPMG and Microsoft scale trusted, enterprise AI agents globally through deployment of Agent 365 and Copilot
-Source: Microsoft AI
-Published: Jun 9, 2026
-Why it matters: Routine official update
-Summary: KPMG and Microsoft scale trusted, enterprise AI agents globally through deployment of Agent 365 and Copilot
-Link: https://news.microsoft.com/source/2026/06/09/kpmg-and-microsoft-scale-trusted-enterprise-ai-agents-globally-through-deployment-of-agent-365-and-copilot
-
-### Microsoft - Atos Group and Microsoft expand strategic collaboration to scale secure agentic AI across Atos Group workforce and clients
-Source: Microsoft AI
-Published: Jun 9, 2026
-Why it matters: Routine official update
-Summary: Atos Group and Microsoft expand strategic collaboration to scale secure agentic AI across Atos Group workforce and clients
-Link: https://news.microsoft.com/source/2026/06/09/atos-group-and-microsoft-expand-strategic-collaboration-to-scale-secure-agentic-ai-across-atos-group-workforce-and-clients
-
-### Google - Bringing the latest Gemini models to Apple developers
-Source: Google AI
-Published: Jun 8, 2026
-Why it matters: Routine official update
-Summary: Apple developers can now securely call cloud-hosted Gemini models using the Foundation Models framework, and access Gemini in Xcode.
-Link: https://blog.google/innovation-and-ai/technology/developers-tools/bringing-gemini-models-to-apple-developers
+Why it matters: Technical or research update
+Summary: How Notion uses Codex to one-shot specs, build AI Voice Input for the web, and multiply engineering power across small teams.
+Link: https://openai.com/index/notion
