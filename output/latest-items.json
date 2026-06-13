@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T15:13:34.395Z",
+  "generatedAt": "2026-06-13T14:51:14.759Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -76,15 +76,53 @@
     }
   ],
   "totals": {
-    "fetched": 47,
+    "fetched": 45,
     "deduped": 24,
-    "new": 15,
+    "new": 8,
     "byKind": {
-      "official": 9,
-      "external": 15
+      "official": 11,
+      "external": 13
     }
   },
   "items": [
+    {
+      "id": "77b8f6a42f0cc1984aa3797d3a8b2027fcc062a6",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUjMzTkNENUJuSV8xTWhZN2VHZzJqSWt2VExlemdseTZOb1VkYTlJX0JjOUxGWEJxZk91Q3NKcDdHaDFwS05wUzVNd0VFb29nalVjNDRBNW1EU24ybEl5ZGwxdUUwMnlTZ0RUbHd2SnRzT3EwY1dXYkV1M3hBOHpDNlROaXBYQWJkUzUwOXlCQi1zWUl0RU1MV3JJUENJUElHWm40Umw2SEtmaUh1bWdoVg?oc=5",
+      "title": "OpenAI under investigation by coalition of state attorneys general, WSJ reports",
+      "summary": "",
+      "publishedAt": "2026-06-12T23:30:09.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "152f21309b7e65f3533e0404c65d853bb3b434ab",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOX0VNSkhmX3pnRzR1NWdCaW1iS3lCQ0dOdDREb3BSV2pNV2tTUVRBbGdMcjVtcW96Nm9rN1lkdkhQQmo1ZEgtU042TklUUUI1STFxS1F1LWE5RHVjdFJyRlRZcmU1eVl0UGxGWjJyX2dkNDlaWFlTYW50TEl5dWt0ZTA5YnozZlZva2JPOXcwREtXeU9RbE1JMUM5TEdDYWpSVlBLdTd6UVEwZ1p0X0FFS1k3eWdwRnpIRGM5UA?oc=5",
+      "title": "OpenAI under investigation by group of state attorneys general, source says",
+      "summary": "",
+      "publishedAt": "2026-06-12T23:30:00.000Z",
+      "publisher": "Reuters",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
     {
       "id": "751046a341a2598cbb2bb275ca0aa82ef5e70ad7",
       "company": "Microsoft",
@@ -105,17 +143,17 @@
       }
     },
     {
-      "id": "3ada87623d21abb3a44f0b4aa04a08ff33820664",
-      "company": "Anthropic",
+      "id": "7187e087693dac27241704850c687af97ea4895d",
+      "company": "Google",
       "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
+      "sourceId": "external-google-major",
+      "sourceLabel": "Major External News - Google",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZFd5RENQSG5HcURocGQ4RFh6UXVtQ3dWX0lDTFBGMW50NG5UUTFJdDVwdHVwNGd4dHFBcEI1eEE3T3lDa2YxSGdkVlRTZnVwc2c4WnVQeERIN195SzFHRm1UMWFsTm9BQktPUnh3b3VzNDJnUFdmVWVfUUpJU0VWV3NUWjE?oc=5",
-      "title": "Anthropic Blindsides Its Business Partners",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeEtwOXpZY1ZmQS1wbEVreF82U2FVcmxHTzdlX1Y3VzljaV94VE84TzJPMDBKaVcwa0g2cEVETmR0Zm5zdjBDWHJsbGg1WmlxT2hrbnNhcWRZZi1LeTJrVl85cVJaOUY0UDVZcjJzajEzek4tSVljQ3Y4QVdmTmxjYWhyNjN2TVk?oc=5",
+      "title": "Google Sues to Stop Chinese Cybercrime Group from Using Its A.I.",
       "summary": "",
-      "publishedAt": "2026-06-11T21:23:00.000Z",
-      "publisher": "The Information",
+      "publishedAt": "2026-06-12T09:10:32.000Z",
+      "publisher": "The New York Times",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -143,25 +181,6 @@
       }
     },
     {
-      "id": "2d35fb47ff24b95425448170057c910142169676",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORGdkLUZycHlHbmFxajdoelpWT2FsWVRPeERTOG9zeElkSU5rbHQ2NldYOFBfU2ZxNGVXWV9iMy00MjY5N1B5OUkwajhQNHA5RENFcUFyV05RRkRZRS0zTEtlem5Qc2tFVVlycGlnVHpWbDBYcURSQ2pQb2Y1Z3hWY3lBVzBnV1J4N1VwdXhIWHE0ZUYxazJoZndzOGlnVDEtdllHSA?oc=5",
-      "title": "OpenAI acquires Ona cloud startup to boost Codex AI coding tool",
-      "summary": "",
-      "publishedAt": "2026-06-11T17:25:04.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
       "id": "cf5c421a6cfbc95b2e73c502822fa3abc6ffff44",
       "company": "OpenAI",
       "sourceKind": "external",
@@ -173,25 +192,6 @@
       "summary": "",
       "publishedAt": "2026-06-11T16:26:10.000Z",
       "publisher": "CNBC",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "fb6b7a8fafb2eb006510fa9bb50d4207854677ce",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOemNKNW0wM3Jkcm5Ja2JmNTMwemdQUkJXdzM0Y1hQN0hqX1FoTFBMOTNWTGdGcjI1R2U2RTdQMlk1TWprekR1WFpwMHJuU0N2YlZFSmJiRXFrcHltVmtycng0N2s2ME94Z29mY2RiUzZLRzhHLVF3enk3ang4SDRETmk5NTQ5Zm1URUN5OFZWREwwWS1kT1E?oc=5",
-      "title": "Visa Unveils Payment Integration Partnership with OpenAI for Next Gen Commerce",
-      "summary": "",
-      "publishedAt": "2026-06-11T16:10:59.000Z",
-      "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -214,27 +214,8 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "526659fc162c695cb289dfcc8498d62fb0f39b45",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQ1NpTzMyOHBzYjRnNUlXUk1Xa0h0a0RES2owMkNUUVk5ejFEbWRxbWtEcXBwSXdsMFJmZ3QtUjFiaEI5a1BOd3c2eTZLY3ljTklNTE1vVE5xNGV2SlBzYWpnbDlNb0hqRmg0YXVseGN4TTZ3TzZaNzM3cjVFa0ZHeVVjOElHRTlwTHF2eWFHcWE0SmVaOUNVaXZGUGR5UnpZMHNlTkdRMXU?oc=5",
-      "title": "Meta launches data center job guarantee program in Houston",
-      "summary": "",
-      "publishedAt": "2026-06-10T18:21:03.000Z",
-      "publisher": "Axios",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
         "score": 6,
-        "reason": "Flagship model or product launch"
+        "reason": "Corporate move or major external event"
       }
     },
     {
@@ -295,37 +276,18 @@
       }
     },
     {
-      "id": "a9f0898c4190e00181d150cb0120eb6b1701e571",
-      "company": "OpenAI",
+      "id": "c63ebd83a0f1aeb21999c31a8230735e0c5a5e98",
+      "company": "Anthropic",
       "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/bbva",
-      "title": "BBVA puts AI at the core of banking with OpenAI",
-      "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
-      "publishedAt": "2026-06-11T00:00:00.000Z",
+      "sourceId": "anthropic-news",
+      "sourceLabel": "Anthropic News",
+      "homepageUrl": "https://www.anthropic.com/news",
+      "url": "https://www.anthropic.com/news/tcs-anthropic-partnership",
+      "title": "TCS and Anthropic partner to bring Claude to regulated industries",
+      "summary": "",
+      "publishedAt": "2026-06-12T00:00:00.000Z",
       "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "6600f3e4b9646c4be91a018bd20503396fdc167a",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/openai-to-acquire-ona",
-      "title": "OpenAI to acquire Ona",
-      "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
-      "publishedAt": "2026-06-11T00:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
+      "discoveryMethod": "anchor",
       "classification": {
         "bucket": "critical",
         "score": 6,
@@ -352,22 +314,41 @@
       }
     },
     {
-      "id": "e1ca2354b2dc9935c6baf02ab11dcdab80386fae",
-      "company": "Anthropic",
+      "id": "a9f0898c4190e00181d150cb0120eb6b1701e571",
+      "company": "OpenAI",
       "sourceKind": "official",
-      "sourceId": "anthropic-news",
-      "sourceLabel": "Anthropic News",
-      "homepageUrl": "https://www.anthropic.com/news",
-      "url": "https://www.anthropic.com/news/claude-corps",
-      "title": "Introducing Claude Corps We’re launching Claude Corps, a national fellowship program for people early in their careers who are passionate about extending the benefits of AI to communities across America.",
-      "summary": "",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/bbva",
+      "title": "BBVA puts AI at the core of banking with OpenAI",
+      "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
       "publishedAt": "2026-06-11T00:00:00.000Z",
       "publisher": "",
-      "discoveryMethod": "anchor",
+      "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
         "score": 5,
-        "reason": "Flagship model or product launch"
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "6600f3e4b9646c4be91a018bd20503396fdc167a",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/openai-to-acquire-ona",
+      "title": "OpenAI to acquire Ona",
+      "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
+      "publishedAt": "2026-06-11T00:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Corporate move or major external event"
       }
     },
     {
@@ -390,16 +371,16 @@
       }
     },
     {
-      "id": "2d39395f3dd5b7cc0aa598017745e6d41c7911bd",
+      "id": "0a5a2921f14c51b6b314a9a618a21d37779ee083",
       "company": "Meta",
       "sourceKind": "external",
       "sourceId": "external-meta-major",
       "sourceLabel": "Major External News - Meta",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYnBJVmF1NjRwbEVxMGhNUU41Z1FielpCaVVybUpRbDNtZUhQSVJ4c0pZdWUzWkdHNjBIYlNSVlYtbDRMbzI3N0N3V1hlSk5jMzFidldhTDhEQ0lBdWpJakNjc0NQRER3ZDA4SFpBREVnODRxRGZUdkUyQW5IVzk1VmFqQXRjbTRxNEtqdE5iN3JRTjluMU0xdkN5Q0d5VTJmMG5n?oc=5",
-      "title": "Meta Starts Unwinding Manus Deal by Splitting Operations, Data",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSmw4T3NsQ3plRVM4Y0ExSGtGT0xWeHZQSWR5V3JDRDJsV2pPOTNvUGVWZ0kzXzM0WkdNSm4xaTRyN0cxeGtmMi02RkxxSFFjNEhaRC12aVlUYVBBeFRzZWpEYWw1bGRXbnN3eXRidG81TzBhUzBNeDlZcGZrcXlvbGxlTkVJTXZPcDYza2RwUnU1eHc5bW54Q2tR?oc=5",
+      "title": "Is Meta (META) Quietly Building an AI Labor Moat With Its India Data Center and Training Push?",
       "summary": "",
-      "publishedAt": "2026-06-11T07:58:15.000Z",
+      "publishedAt": "2026-06-12T17:07:21.000Z",
       "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
@@ -409,17 +390,17 @@
       }
     },
     {
-      "id": "d6c16f5e3c27a7a90a7ba6995f8aaba8958d2fc6",
+      "id": "c3975e24915a557477852298bee65a348b8017da",
       "company": "Google",
       "sourceKind": "external",
       "sourceId": "external-google-major",
       "sourceLabel": "Major External News - Google",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbmdGalhSQ3RIOWY4OU5GV0M3Mmk1M2RnX0IxQzdXeTNXVFplOC0wLWJUSlAyV2xiU0M3b3ViQXc0Vk1zQkF1Z1kwbzREWlhLVnJ4by01eHNYT1ZRQmo1dmxmUEhqejVYQ28zUE5yVU9OSEhaSkxVVXF6dW5LWkdPdWtyNjc5VXZYMnFTMzAwTHZrV28?oc=5",
-      "title": "Intel’s Google AI Chip Win Tests Foundry Turnaround And Nvidia Trials",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVUY3NTh1QmdLRmNLMTc1TElTRzVtSWh0ZWJkV3gyaUFDNEg2bGg5dHBVNHpwYWh4MXdYUnZkbTJfM1NHdWxuYWltUi1LenM4OEJNY1dUZDhPVmJGbkdQTXYyYmRNOW9pZUdGZ0RWSGtMYk9XbGtrN0pKRVRJMHhvSkxzLTF4WS1xWnB1bkEyOGJJTWhVSEpYcS1YVy10cGpuMXE2dWdycjBHaThUTzRaSjV5SGI5bXEx?oc=5",
+      "title": "A Google AI project delay may have hurt chip stocks. But data center buildout remains on track",
       "summary": "",
-      "publishedAt": "2026-06-10T18:11:23.000Z",
-      "publisher": "Yahoo Finance",
+      "publishedAt": "2026-06-12T16:04:04.000Z",
+      "publisher": "CNBC",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -428,60 +409,22 @@
       }
     },
     {
-      "id": "0bd0aa9a51490cd484ed3bf78f23e0528254ccb5",
+      "id": "e1ca2354b2dc9935c6baf02ab11dcdab80386fae",
       "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1BekgxT29XU2tHZW42UklJbU9KQlU1S2JEVVh0bXBFWE1yOVZ4R1pNRDIycUE3VHJ4WEU5ZlMwS1NGZ2VPelA4ZWd1SEZVTzdNYjdYUUNKVWM1N21MTTlkUmI2VFVsenowSFFiSnpfd19qOTQ5RmNLeQ?oc=5",
-      "title": "Apollo leads $35 billion debt deal for Anthropic's compute",
-      "summary": "",
-      "publishedAt": "2026-06-10T16:11:29.000Z",
-      "publisher": "Axios",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "6ef9092d6229034fd6b177e6320e7c728fcb4c7d",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWmtSeUozNEhXOTdNVWx2UlUzdVF1VGJLZUVOX3g5M2dmVmdiQUVDUnh6MXM3QWU3TjZoZ1kwRWpqNmVYWkxSbWpER005MWtUd3FHWGh2ekh4ZDRyOC12OGtyQnppU3VHbFd3SWdkN1pOd2o3RVp0S3ZGU2RYS3NxdjVRdko0UmlfRFI2UWZyWlY?oc=5",
-      "title": "JFrog and Anthropic Bring Enterprise-Grade Software Supply Chain Governance and Security to Claude Code",
-      "summary": "",
-      "publishedAt": "2026-06-10T13:15:00.000Z",
-      "publisher": "Yahoo Finance Singapore",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "4600462b11c1a928d9c79ee019bba42c6203b5d2",
-      "company": "OpenAI",
       "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/openai-on-oracle-cloud",
-      "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
-      "summary": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
-      "publishedAt": "2026-06-10T20:00:00.000Z",
+      "sourceId": "anthropic-news",
+      "sourceLabel": "Anthropic News",
+      "homepageUrl": "https://www.anthropic.com/news",
+      "url": "https://www.anthropic.com/news/claude-corps",
+      "title": "Introducing Claude Corps We’re launching Claude Corps, a national fellowship program for people early in their careers who are passionate about extending the benefits of AI to communities across America.",
+      "summary": "",
+      "publishedAt": "2026-06-11T00:00:00.000Z",
       "publisher": "",
-      "discoveryMethod": "feed",
+      "discoveryMethod": "anchor",
       "classification": {
         "bucket": "important",
         "score": 4,
-        "reason": "Safety, security, or policy update"
+        "reason": "Flagship model or product launch"
       }
     },
     {
@@ -504,6 +447,44 @@
       }
     },
     {
+      "id": "2d39395f3dd5b7cc0aa598017745e6d41c7911bd",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYnBJVmF1NjRwbEVxMGhNUU41Z1FielpCaVVybUpRbDNtZUhQSVJ4c0pZdWUzWkdHNjBIYlNSVlYtbDRMbzI3N0N3V1hlSk5jMzFidldhTDhEQ0lBdWpJakNjc0NQRER3ZDA4SFpBREVnODRxRGZUdkUyQW5IVzk1VmFqQXRjbTRxNEtqdE5iN3JRTjluMU0xdkN5Q0d5VTJmMG5n?oc=5",
+      "title": "Meta Starts Unwinding Manus Deal by Splitting Operations, Data",
+      "summary": "",
+      "publishedAt": "2026-06-11T07:58:15.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "d6c16f5e3c27a7a90a7ba6995f8aaba8958d2fc6",
+      "company": "Google",
+      "sourceKind": "external",
+      "sourceId": "external-google-major",
+      "sourceLabel": "Major External News - Google",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbmdGalhSQ3RIOWY4OU5GV0M3Mmk1M2RnX0IxQzdXeTNXVFplOC0wLWJUSlAyV2xiU0M3b3ViQXc0Vk1zQkF1Z1kwbzREWlhLVnJ4by01eHNYT1ZRQmo1dmxmUEhqejVYQ28zUE5yVU9OSEhaSkxVVXF6dW5LWkdPdWtyNjc5VXZYMnFTMzAwTHZrV28?oc=5",
+      "title": "Intel’s Google AI Chip Win Tests Foundry Turnaround And Nvidia Trials",
+      "summary": "",
+      "publishedAt": "2026-06-10T18:11:23.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
       "id": "f33673e04ec395e88e870ecdd7f6b72589460e62",
       "company": "Meta",
       "sourceKind": "external",
@@ -523,37 +504,56 @@
       }
     },
     {
-      "id": "a2554fc89830cb0a308f404b4a4e83d6f66d93c3",
-      "company": "Google",
-      "sourceKind": "external",
-      "sourceId": "external-google-major",
-      "sourceLabel": "Major External News - Google",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSk9nakJ0YkNUMnVRQVcwX2xGdnRCMWVYeVZBaU81MUVVb3B5ZHZtbVhlek03MUlGUU85bExxMzdNWGN1Z0ZMYlVQYmdId1RaU3BNNnJiUGc4ZGRmNWQ1TG8tOFRlbU1pRG9vREVLSlZfWExpTm1ybWI4MkFOT2RBYkRtZzhYMi1lempOcHd4X3gwZFMz?oc=5",
-      "title": "Stock Market Today, June 8: Intel Surges on Reported Google AI Chip Foundry Order",
-      "summary": "",
-      "publishedAt": "2026-06-08T21:23:45.000Z",
-      "publisher": "Yahoo Finance",
+      "id": "e17db83823d25ce6b2aee3f0fc1889b6d434a137",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
+      "title": "New OpenAI Academy courses for the next era of work",
+      "summary": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
+      "publishedAt": "2026-06-12T10:00:00.000Z",
+      "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Trusted external coverage"
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "23b315c3d1918ad0b55ef368eac762cfb888f63e",
+      "company": "Anthropic",
+      "sourceKind": "official",
+      "sourceId": "anthropic-news",
+      "sourceLabel": "Anthropic News",
+      "homepageUrl": "https://www.anthropic.com/news",
+      "url": "https://www.anthropic.com/news/anthropic-public-record",
+      "title": "Results from the first Anthropic Public Record",
+      "summary": "",
+      "publishedAt": "2026-06-12T00:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "anchor",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
       }
     }
   ],
   "newItems": [
     {
-      "id": "751046a341a2598cbb2bb275ca0aa82ef5e70ad7",
-      "company": "Microsoft",
+      "id": "77b8f6a42f0cc1984aa3797d3a8b2027fcc062a6",
+      "company": "OpenAI",
       "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcWMxbVdNSlZDd1NPNWlfeHUtSHk4NFpJbjRlcVM3ckxUaVo5aGJ1aFNDZjhieEEwQnNhQWtTaXdfM0x0QVlLR0FtWU5tLWFFcmFLS09wY1o5NHNOS2VHTU1zczI1ZnZtVkRKRXJOZmZ3SXhTdk9UVlNnNW9qdTdEcExTQ0h3TDJ3SGR0cnI2Uk16REwwUGZJeVNkVC0?oc=5",
-      "title": "Latest News In Cloud AI - Akamai Strengthens Cloud Security With Microsoft Partnership",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUjMzTkNENUJuSV8xTWhZN2VHZzJqSWt2VExlemdseTZOb1VkYTlJX0JjOUxGWEJxZk91Q3NKcDdHaDFwS05wUzVNd0VFb29nalVjNDRBNW1EU24ybEl5ZGwxdUUwMnlTZ0RUbHd2SnRzT3EwY1dXYkV1M3hBOHpDNlROaXBYQWJkUzUwOXlCQi1zWUl0RU1MV3JJUENJUElHWm40Umw2SEtmaUh1bWdoVg?oc=5",
+      "title": "OpenAI under investigation by coalition of state attorneys general, WSJ reports",
       "summary": "",
-      "publishedAt": "2026-06-12T12:37:54.000Z",
+      "publishedAt": "2026-06-12T23:30:09.000Z",
       "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
@@ -563,244 +563,73 @@
       }
     },
     {
-      "id": "3ada87623d21abb3a44f0b4aa04a08ff33820664",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZFd5RENQSG5HcURocGQ4RFh6UXVtQ3dWX0lDTFBGMW50NG5UUTFJdDVwdHVwNGd4dHFBcEI1eEE3T3lDa2YxSGdkVlRTZnVwc2c4WnVQeERIN195SzFHRm1UMWFsTm9BQktPUnh3b3VzNDJnUFdmVWVfUUpJU0VWV3NUWjE?oc=5",
-      "title": "Anthropic Blindsides Its Business Partners",
-      "summary": "",
-      "publishedAt": "2026-06-11T21:23:00.000Z",
-      "publisher": "The Information",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "2d35fb47ff24b95425448170057c910142169676",
+      "id": "152f21309b7e65f3533e0404c65d853bb3b434ab",
       "company": "OpenAI",
       "sourceKind": "external",
       "sourceId": "external-openai-major",
       "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORGdkLUZycHlHbmFxajdoelpWT2FsWVRPeERTOG9zeElkSU5rbHQ2NldYOFBfU2ZxNGVXWV9iMy00MjY5N1B5OUkwajhQNHA5RENFcUFyV05RRkRZRS0zTEtlem5Qc2tFVVlycGlnVHpWbDBYcURSQ2pQb2Y1Z3hWY3lBVzBnV1J4N1VwdXhIWHE0ZUYxazJoZndzOGlnVDEtdllHSA?oc=5",
-      "title": "OpenAI acquires Ona cloud startup to boost Codex AI coding tool",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOX0VNSkhmX3pnRzR1NWdCaW1iS3lCQ0dOdDREb3BSV2pNV2tTUVRBbGdMcjVtcW96Nm9rN1lkdkhQQmo1ZEgtU042TklUUUI1STFxS1F1LWE5RHVjdFJyRlRZcmU1eVl0UGxGWjJyX2dkNDlaWFlTYW50TEl5dWt0ZTA5YnozZlZva2JPOXcwREtXeU9RbE1JMUM5TEdDYWpSVlBLdTd6UVEwZ1p0X0FFS1k3eWdwRnpIRGM5UA?oc=5",
+      "title": "OpenAI under investigation by group of state attorneys general, source says",
       "summary": "",
-      "publishedAt": "2026-06-11T17:25:04.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "cf5c421a6cfbc95b2e73c502822fa3abc6ffff44",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE55b0NuQ2NnRUxsRnl1MlBBX2pFNUIzSll5WEVHN3V0TzRIT01RQ0dEbDlGLWVaWXdaaHRybmJjb25URHB6cDl1bmlOcTA4dGg2c2xqSjhHaVZSMXFKSTRvR0hacWNkeFN0aWNzVVl6Z0V2d0Np0gF6QVVfeXFMTXBKWlVVckZnRFlrcE42SWlkTnROWTBwSnpRRjZHTnU3WktnbkQwZ1VIekNXVmVINE8yR3VWNzh1cVFxdGRtNnNETG1WZF84elJLTUNrc2ZFNWN1dXlpcUN6LTV2dFFHdVZJZXltQ0stRTZwOXBzdEl2cFE?oc=5",
-      "title": "OpenAI to acquire Ona to support its AI coding assistant, Codex",
-      "summary": "",
-      "publishedAt": "2026-06-11T16:26:10.000Z",
-      "publisher": "CNBC",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "fb6b7a8fafb2eb006510fa9bb50d4207854677ce",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOemNKNW0wM3Jkcm5Ja2JmNTMwemdQUkJXdzM0Y1hQN0hqX1FoTFBMOTNWTGdGcjI1R2U2RTdQMlk1TWprekR1WFpwMHJuU0N2YlZFSmJiRXFrcHltVmtycng0N2s2ME94Z29mY2RiUzZLRzhHLVF3enk3ang4SDRETmk5NTQ5Zm1URUN5OFZWREwwWS1kT1E?oc=5",
-      "title": "Visa Unveils Payment Integration Partnership with OpenAI for Next Gen Commerce",
-      "summary": "",
-      "publishedAt": "2026-06-11T16:10:59.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "526659fc162c695cb289dfcc8498d62fb0f39b45",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQ1NpTzMyOHBzYjRnNUlXUk1Xa0h0a0RES2owMkNUUVk5ejFEbWRxbWtEcXBwSXdsMFJmZ3QtUjFiaEI5a1BOd3c2eTZLY3ljTklNTE1vVE5xNGV2SlBzYWpnbDlNb0hqRmg0YXVseGN4TTZ3TzZaNzM3cjVFa0ZHeVVjOElHRTlwTHF2eWFHcWE0SmVaOUNVaXZGUGR5UnpZMHNlTkdRMXU?oc=5",
-      "title": "Meta launches data center job guarantee program in Houston",
-      "summary": "",
-      "publishedAt": "2026-06-10T18:21:03.000Z",
-      "publisher": "Axios",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "a39f05960ca94fc9d7cad4f9c21ea9794039bf3c",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSlc2aGhiaC03Vk4xMTA0MHcwd0JoWEFQTHdlLUhYbTJJN1NqeEpycTU5eUZQSHY2akt1LVE1MVMzaUxmLUVuQWU5SHpZMW9RWjB0ZWlxZE41czdzdkdDS3F2OE05UktOckZhNHhEdTFlakpCTUN1dE5seGc0U25oSE1vcjhfdDJZcS1JSmlfZkI2OTFHSFpVcURxOFkwZ0RIeFphdUpB?oc=5",
-      "title": "Meta deepens partnership with Ambani's Reliance with AI data centre",
-      "summary": "",
-      "publishedAt": "2026-06-10T11:56:21.000Z",
+      "publishedAt": "2026-06-12T23:30:00.000Z",
       "publisher": "Reuters",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 6,
+        "score": 7,
         "reason": "Corporate move or major external event"
       }
     },
     {
-      "id": "ae2bea9b25f37e843f6c56d2cd5d1705a86833d4",
-      "company": "Meta",
-      "sourceKind": "official",
-      "sourceId": "meta-newsroom",
-      "sourceLabel": "Meta Newsroom",
-      "homepageUrl": "https://about.fb.com/news/",
-      "url": "https://about.fb.com/news/2026/06/free-ai-glasses-for-every-blind-veteran",
-      "title": "The Future Is for Everyone: Free AI Glasses for Every Blind Veteran in America",
-      "summary": "We're donating Ray-Ban Meta glasses to every blind veteran in America, giving them transformative AI technology. The post The Future Is for Everyone: Free AI Glasses for Every Blind Veteran in America",
-      "publishedAt": "2026-06-12T12:33:26.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "c0e7934cf8e163718804496db5a853c96f5130d6",
+      "id": "7187e087693dac27241704850c687af97ea4895d",
       "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/technology/safety-security/combatting-ai-scams",
-      "title": "How we're combatting AI scams with security, legislation and more",
-      "summary": "Learn how Google is fighting scammers on all fronts with industry-leading security, lawsuits and law enforcement and industry partners.",
-      "publishedAt": "2026-06-12T09:00:00.000Z",
-      "publisher": "",
+      "sourceKind": "external",
+      "sourceId": "external-google-major",
+      "sourceLabel": "Major External News - Google",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeEtwOXpZY1ZmQS1wbEVreF82U2FVcmxHTzdlX1Y3VzljaV94VE84TzJPMDBKaVcwa0g2cEVETmR0Zm5zdjBDWHJsbGg1WmlxT2hrbnNhcWRZZi1LeTJrVl85cVJaOUY0UDVZcjJzajEzek4tSVljQ3Y4QVdmTmxjYWhyNjN2TVk?oc=5",
+      "title": "Google Sues to Stop Chinese Cybercrime Group from Using Its A.I.",
+      "summary": "",
+      "publishedAt": "2026-06-12T09:10:32.000Z",
+      "publisher": "The New York Times",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 6,
+        "score": 7,
         "reason": "Corporate move or major external event"
       }
     },
     {
-      "id": "a9f0898c4190e00181d150cb0120eb6b1701e571",
-      "company": "OpenAI",
+      "id": "c63ebd83a0f1aeb21999c31a8230735e0c5a5e98",
+      "company": "Anthropic",
       "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/bbva",
-      "title": "BBVA puts AI at the core of banking with OpenAI",
-      "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
-      "publishedAt": "2026-06-11T00:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "6600f3e4b9646c4be91a018bd20503396fdc167a",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/openai-to-acquire-ona",
-      "title": "OpenAI to acquire Ona",
-      "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
-      "publishedAt": "2026-06-11T00:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "dcc2fd07a9e824262e00178f630f3e3a6b89415a",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/preply",
-      "title": "How Preply combines AI and human tutors to personalize learning",
-      "summary": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
+      "sourceId": "anthropic-news",
+      "sourceLabel": "Anthropic News",
+      "homepageUrl": "https://www.anthropic.com/news",
+      "url": "https://www.anthropic.com/news/tcs-anthropic-partnership",
+      "title": "TCS and Anthropic partner to bring Claude to regulated industries",
+      "summary": "",
       "publishedAt": "2026-06-12T00:00:00.000Z",
       "publisher": "",
-      "discoveryMethod": "feed",
+      "discoveryMethod": "anchor",
       "classification": {
         "bucket": "critical",
-        "score": 5,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "3aa4a85fa76c2b7ad519d525a8c2abe63286f86c",
-      "company": "Meta",
-      "sourceKind": "official",
-      "sourceId": "meta-newsroom",
-      "sourceLabel": "Meta Newsroom",
-      "homepageUrl": "https://about.fb.com/news/",
-      "url": "https://about.fb.com/news/2026/06/meta-partners-with-reliance-on-ai-enabled-data-center-in-india",
-      "title": "Meta Partners With Reliance on AI-Enabled Data Center in India",
-      "summary": "We've enetered an agreement with Reliance Industries to lease our first ever AI-enabled data center in India. The post Meta Partners With Reliance on AI-Enabled Data Center in India",
-      "publishedAt": "2026-06-10T02:30:40.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
+        "score": 6,
         "reason": "Corporate move or major external event"
       }
     },
     {
-      "id": "2d39395f3dd5b7cc0aa598017745e6d41c7911bd",
+      "id": "0a5a2921f14c51b6b314a9a618a21d37779ee083",
       "company": "Meta",
       "sourceKind": "external",
       "sourceId": "external-meta-major",
       "sourceLabel": "Major External News - Meta",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYnBJVmF1NjRwbEVxMGhNUU41Z1FielpCaVVybUpRbDNtZUhQSVJ4c0pZdWUzWkdHNjBIYlNSVlYtbDRMbzI3N0N3V1hlSk5jMzFidldhTDhEQ0lBdWpJakNjc0NQRER3ZDA4SFpBREVnODRxRGZUdkUyQW5IVzk1VmFqQXRjbTRxNEtqdE5iN3JRTjluMU0xdkN5Q0d5VTJmMG5n?oc=5",
-      "title": "Meta Starts Unwinding Manus Deal by Splitting Operations, Data",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSmw4T3NsQ3plRVM4Y0ExSGtGT0xWeHZQSWR5V3JDRDJsV2pPOTNvUGVWZ0kzXzM0WkdNSm4xaTRyN0cxeGtmMi02RkxxSFFjNEhaRC12aVlUYVBBeFRzZWpEYWw1bGRXbnN3eXRidG81TzBhUzBNeDlZcGZrcXlvbGxlTkVJTXZPcDYza2RwUnU1eHc5bW54Q2tR?oc=5",
+      "title": "Is Meta (META) Quietly Building an AI Labor Moat With Its India Data Center and Training Push?",
       "summary": "",
-      "publishedAt": "2026-06-11T07:58:15.000Z",
+      "publishedAt": "2026-06-12T17:07:21.000Z",
       "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
@@ -810,22 +639,60 @@
       }
     },
     {
-      "id": "6ef9092d6229034fd6b177e6320e7c728fcb4c7d",
-      "company": "Anthropic",
+      "id": "c3975e24915a557477852298bee65a348b8017da",
+      "company": "Google",
       "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
+      "sourceId": "external-google-major",
+      "sourceLabel": "Major External News - Google",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWmtSeUozNEhXOTdNVWx2UlUzdVF1VGJLZUVOX3g5M2dmVmdiQUVDUnh6MXM3QWU3TjZoZ1kwRWpqNmVYWkxSbWpER005MWtUd3FHWGh2ekh4ZDRyOC12OGtyQnppU3VHbFd3SWdkN1pOd2o3RVp0S3ZGU2RYS3NxdjVRdko0UmlfRFI2UWZyWlY?oc=5",
-      "title": "JFrog and Anthropic Bring Enterprise-Grade Software Supply Chain Governance and Security to Claude Code",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVUY3NTh1QmdLRmNLMTc1TElTRzVtSWh0ZWJkV3gyaUFDNEg2bGg5dHBVNHpwYWh4MXdYUnZkbTJfM1NHdWxuYWltUi1LenM4OEJNY1dUZDhPVmJGbkdQTXYyYmRNOW9pZUdGZ0RWSGtMYk9XbGtrN0pKRVRJMHhvSkxzLTF4WS1xWnB1bkEyOGJJTWhVSEpYcS1YVy10cGpuMXE2dWdycjBHaThUTzRaSjV5SGI5bXEx?oc=5",
+      "title": "A Google AI project delay may have hurt chip stocks. But data center buildout remains on track",
       "summary": "",
-      "publishedAt": "2026-06-10T13:15:00.000Z",
-      "publisher": "Yahoo Finance Singapore",
+      "publishedAt": "2026-06-12T16:04:04.000Z",
+      "publisher": "CNBC",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
         "score": 4,
-        "reason": "Safety, security, or policy update"
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "e17db83823d25ce6b2aee3f0fc1889b6d434a137",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
+      "title": "New OpenAI Academy courses for the next era of work",
+      "summary": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
+      "publishedAt": "2026-06-12T10:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "23b315c3d1918ad0b55ef368eac762cfb888f63e",
+      "company": "Anthropic",
+      "sourceKind": "official",
+      "sourceId": "anthropic-news",
+      "sourceLabel": "Anthropic News",
+      "homepageUrl": "https://www.anthropic.com/news",
+      "url": "https://www.anthropic.com/news/anthropic-public-record",
+      "title": "Results from the first Anthropic Public Record",
+      "summary": "",
+      "publishedAt": "2026-06-12T00:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "anchor",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
       }
     }
   ],

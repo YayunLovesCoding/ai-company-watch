@@ -1,121 +1,72 @@
 # AI Company Watch
 
-Generated: Jun 12, 2026, 8:13 AM PDT
+Generated: Jun 13, 2026, 7:51 AM PDT
 Lookback window: 7 day(s)
 Sources checked: 12
-Items fetched: 47
+Items fetched: 45
 Items kept: 24
-New items: 15
-External items kept: 15
-Official items kept: 9
+New items: 8
+External items kept: 13
+Official items kept: 11
 
 ## Critical External News
 
-### Microsoft - Latest News In Cloud AI - Akamai Strengthens Cloud Security With Microsoft Partnership
-Source: Major External News - Microsoft
+### OpenAI - OpenAI under investigation by coalition of state attorneys general, WSJ reports
+Source: Major External News - OpenAI
 Publisher: Yahoo Finance
 Published: Jun 12, 2026
 Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMinAFBVV95cUxPcWMxbVdNSlZDd1NPNWlfeHUtSHk4NFpJbjRlcVM3ckxUaVo5aGJ1aFNDZjhieEEwQnNhQWtTaXdfM0x0QVlLR0FtWU5tLWFFcmFLS09wY1o5NHNOS2VHTU1zczI1ZnZtVkRKRXJOZmZ3SXhTdk9UVlNnNW9qdTdEcExTQ0h3TDJ3SGR0cnI2Uk16REwwUGZJeVNkVC0?oc=5
+Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxOUjMzTkNENUJuSV8xTWhZN2VHZzJqSWt2VExlemdseTZOb1VkYTlJX0JjOUxGWEJxZk91Q3NKcDdHaDFwS05wUzVNd0VFb29nalVjNDRBNW1EU24ybEl5ZGwxdUUwMnlTZ0RUbHd2SnRzT3EwY1dXYkV1M3hBOHpDNlROaXBYQWJkUzUwOXlCQi1zWUl0RU1MV3JJUENJUElHWm40Umw2SEtmaUh1bWdoVg?oc=5
 
-### Anthropic - Anthropic Blindsides Its Business Partners
-Source: Major External News - Anthropic
-Publisher: The Information
-Published: Jun 11, 2026
-Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxNZFd5RENQSG5HcURocGQ4RFh6UXVtQ3dWX0lDTFBGMW50NG5UUTFJdDVwdHVwNGd4dHFBcEI1eEE3T3lDa2YxSGdkVlRTZnVwc2c4WnVQeERIN195SzFHRm1UMWFsTm9BQktPUnh3b3VzNDJnUFdmVWVfUUpJU0VWV3NUWjE?oc=5
-
-### OpenAI - OpenAI acquires Ona cloud startup to boost Codex AI coding tool
+### OpenAI - OpenAI under investigation by group of state attorneys general, source says
 Source: Major External News - OpenAI
-Publisher: Yahoo Finance
-Published: Jun 11, 2026
-Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMipAFBVV95cUxORGdkLUZycHlHbmFxajdoelpWT2FsWVRPeERTOG9zeElkSU5rbHQ2NldYOFBfU2ZxNGVXWV9iMy00MjY5N1B5OUkwajhQNHA5RENFcUFyV05RRkRZRS0zTEtlem5Qc2tFVVlycGlnVHpWbDBYcURSQ2pQb2Y1Z3hWY3lBVzBnV1J4N1VwdXhIWHE0ZUYxazJoZndzOGlnVDEtdllHSA?oc=5
-
-### OpenAI - OpenAI to acquire Ona to support its AI coding assistant, Codex
-Source: Major External News - OpenAI
-Publisher: CNBC
-Published: Jun 11, 2026
-Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMidEFVX3lxTE55b0NuQ2NnRUxsRnl1MlBBX2pFNUIzSll5WEVHN3V0TzRIT01RQ0dEbDlGLWVaWXdaaHRybmJjb25URHB6cDl1bmlOcTA4dGg2c2xqSjhHaVZSMXFKSTRvR0hacWNkeFN0aWNzVVl6Z0V2d0Np0gF6QVVfeXFMTXBKWlVVckZnRFlrcE42SWlkTnROWTBwSnpRRjZHTnU3WktnbkQwZ1VIekNXVmVINE8yR3VWNzh1cVFxdGRtNnNETG1WZF84elJLTUNrc2ZFNWN1dXlpcUN6LTV2dFFHdVZJZXltQ0stRTZwOXBzdEl2cFE?oc=5
-
-### OpenAI - Visa Unveils Payment Integration Partnership with OpenAI for Next Gen Commerce
-Source: Major External News - OpenAI
-Publisher: Yahoo Finance
-Published: Jun 11, 2026
-Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMilgFBVV95cUxOemNKNW0wM3Jkcm5Ja2JmNTMwemdQUkJXdzM0Y1hQN0hqX1FoTFBMOTNWTGdGcjI1R2U2RTdQMlk1TWprekR1WFpwMHJuU0N2YlZFSmJiRXFrcHltVmtycng0N2s2ME94Z29mY2RiUzZLRzhHLVF3enk3ang4SDRETmk5NTQ5Zm1URUN5OFZWREwwWS1kT1E?oc=5
-
-### Meta - Meta launches data center job guarantee program in Houston
-Source: Major External News - Meta
-Publisher: Axios
-Published: Jun 10, 2026
-Why it matters: Flagship model or product launch
-Link: https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQ1NpTzMyOHBzYjRnNUlXUk1Xa0h0a0RES2owMkNUUVk5ejFEbWRxbWtEcXBwSXdsMFJmZ3QtUjFiaEI5a1BOd3c2eTZLY3ljTklNTE1vVE5xNGV2SlBzYWpnbDlNb0hqRmg0YXVseGN4TTZ3TzZaNzM3cjVFa0ZHeVVjOElHRTlwTHF2eWFHcWE0SmVaOUNVaXZGUGR5UnpZMHNlTkdRMXU?oc=5
-
-### Meta - Meta deepens partnership with Ambani's Reliance with AI data centre
-Source: Major External News - Meta
 Publisher: Reuters
-Published: Jun 10, 2026
+Published: Jun 12, 2026
 Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMipgFBVV95cUxPSlc2aGhiaC03Vk4xMTA0MHcwd0JoWEFQTHdlLUhYbTJJN1NqeEpycTU5eUZQSHY2akt1LVE1MVMzaUxmLUVuQWU5SHpZMW9RWjB0ZWlxZE41czdzdkdDS3F2OE05UktOckZhNHhEdTFlakpCTUN1dE5seGc0U25oSE1vcjhfdDJZcS1JSmlfZkI2OTFHSFpVcURxOFkwZ0RIeFphdUpB?oc=5
+Link: https://news.google.com/rss/articles/CBMivAFBVV95cUxOX0VNSkhmX3pnRzR1NWdCaW1iS3lCQ0dOdDREb3BSV2pNV2tTUVRBbGdMcjVtcW96Nm9rN1lkdkhQQmo1ZEgtU042TklUUUI1STFxS1F1LWE5RHVjdFJyRlRZcmU1eVl0UGxGWjJyX2dkNDlaWFlTYW50TEl5dWt0ZTA5YnozZlZva2JPOXcwREtXeU9RbE1JMUM5TEdDYWpSVlBLdTd6UVEwZ1p0X0FFS1k3eWdwRnpIRGM5UA?oc=5
+
+### Google - Google Sues to Stop Chinese Cybercrime Group from Using Its A.I.
+Source: Major External News - Google
+Publisher: The New York Times
+Published: Jun 12, 2026
+Why it matters: Corporate move or major external event
+Link: https://news.google.com/rss/articles/CBMihwFBVV95cUxOeEtwOXpZY1ZmQS1wbEVreF82U2FVcmxHTzdlX1Y3VzljaV94VE84TzJPMDBKaVcwa0g2cEVETmR0Zm5zdjBDWHJsbGg1WmlxT2hrbnNhcWRZZi1LeTJrVl85cVJaOUY0UDVZcjJzajEzek4tSVljQ3Y4QVdmTmxjYWhyNjN2TVk?oc=5
 
 ## Important External News
 
-### Meta - Meta Starts Unwinding Manus Deal by Splitting Operations, Data
+### Meta - Is Meta (META) Quietly Building an AI Labor Moat With Its India Data Center and Training Push?
 Source: Major External News - Meta
 Publisher: Yahoo Finance
-Published: Jun 11, 2026
+Published: Jun 12, 2026
 Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMiowFBVV95cUxNYnBJVmF1NjRwbEVxMGhNUU41Z1FielpCaVVybUpRbDNtZUhQSVJ4c0pZdWUzWkdHNjBIYlNSVlYtbDRMbzI3N0N3V1hlSk5jMzFidldhTDhEQ0lBdWpJakNjc0NQRER3ZDA4SFpBREVnODRxRGZUdkUyQW5IVzk1VmFqQXRjbTRxNEtqdE5iN3JRTjluMU0xdkN5Q0d5VTJmMG5n?oc=5
+Link: https://news.google.com/rss/articles/CBMimgFBVV95cUxQSmw4T3NsQ3plRVM4Y0ExSGtGT0xWeHZQSWR5V3JDRDJsV2pPOTNvUGVWZ0kzXzM0WkdNSm4xaTRyN0cxeGtmMi02RkxxSFFjNEhaRC12aVlUYVBBeFRzZWpEYWw1bGRXbnN3eXRidG81TzBhUzBNeDlZcGZrcXlvbGxlTkVJTXZPcDYza2RwUnU1eHc5bW54Q2tR?oc=5
 
-### Anthropic - JFrog and Anthropic Bring Enterprise-Grade Software Supply Chain Governance and Security to Claude Code
-Source: Major External News - Anthropic
-Publisher: Yahoo Finance Singapore
-Published: Jun 10, 2026
-Why it matters: Safety, security, or policy update
-Link: https://news.google.com/rss/articles/CBMikAFBVV95cUxOWmtSeUozNEhXOTdNVWx2UlUzdVF1VGJLZUVOX3g5M2dmVmdiQUVDUnh6MXM3QWU3TjZoZ1kwRWpqNmVYWkxSbWpER005MWtUd3FHWGh2ekh4ZDRyOC12OGtyQnppU3VHbFd3SWdkN1pOd2o3RVp0S3ZGU2RYS3NxdjVRdko0UmlfRFI2UWZyWlY?oc=5
+### Google - A Google AI project delay may have hurt chip stocks. But data center buildout remains on track
+Source: Major External News - Google
+Publisher: CNBC
+Published: Jun 12, 2026
+Why it matters: Trusted external coverage
+Link: https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVUY3NTh1QmdLRmNLMTc1TElTRzVtSWh0ZWJkV3gyaUFDNEg2bGg5dHBVNHpwYWh4MXdYUnZkbTJfM1NHdWxuYWltUi1LenM4OEJNY1dUZDhPVmJGbkdQTXYyYmRNOW9pZUdGZ0RWSGtMYk9XbGtrN0pKRVRJMHhvSkxzLTF4WS1xWnB1bkEyOGJJTWhVSEpYcS1YVy10cGpuMXE2dWdycjBHaThUTzRaSjV5SGI5bXEx?oc=5
 
 ## Critical Official Updates
 
-### Meta - The Future Is for Everyone: Free AI Glasses for Every Blind Veteran in America
-Source: Meta Newsroom
-Published: Jun 12, 2026
-Why it matters: Corporate move or major external event
-Summary: We're donating Ray-Ban Meta glasses to every blind veteran in America, giving them transformative AI technology. The post The Future Is for Everyone: Free AI Glasses for Every Blind Veteran in America
-Link: https://about.fb.com/news/2026/06/free-ai-glasses-for-every-blind-veteran
-
-### Google - How we're combatting AI scams with security, legislation and more
-Source: Google AI
-Published: Jun 12, 2026
-Why it matters: Corporate move or major external event
-Summary: Learn how Google is fighting scammers on all fronts with industry-leading security, lawsuits and law enforcement and industry partners.
-Link: https://blog.google/innovation-and-ai/technology/safety-security/combatting-ai-scams
-
-### OpenAI - BBVA puts AI at the core of banking with OpenAI
-Source: OpenAI Newsroom
-Published: Jun 10, 2026
-Why it matters: Corporate move or major external event
-Summary: Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.
-Link: https://openai.com/index/bbva
-
-### OpenAI - OpenAI to acquire Ona
-Source: OpenAI Newsroom
-Published: Jun 10, 2026
-Why it matters: Corporate move or major external event
-Summary: OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.
-Link: https://openai.com/index/openai-to-acquire-ona
-
-### OpenAI - How Preply combines AI and human tutors to personalize learning
-Source: OpenAI Newsroom
+### Anthropic - TCS and Anthropic partner to bring Claude to regulated industries
+Source: Anthropic News
 Published: Jun 11, 2026
-Why it matters: Flagship model or product launch
-Summary: Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.
-Link: https://openai.com/index/preply
-
-### Meta - Meta Partners With Reliance on AI-Enabled Data Center in India
-Source: Meta Newsroom
-Published: Jun 9, 2026
 Why it matters: Corporate move or major external event
-Summary: We've enetered an agreement with Reliance Industries to lease our first ever AI-enabled data center in India. The post Meta Partners With Reliance on AI-Enabled Data Center in India
-Link: https://about.fb.com/news/2026/06/meta-partners-with-reliance-on-ai-enabled-data-center-in-india
+Link: https://www.anthropic.com/news/tcs-anthropic-partnership
+
+## Official Company Updates
+
+### OpenAI - New OpenAI Academy courses for the next era of work
+Source: OpenAI Newsroom
+Published: Jun 12, 2026
+Why it matters: Routine official update
+Summary: OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.
+Link: https://openai.com/index/academy-courses-applying-ai-at-work
+
+### Anthropic - Results from the first Anthropic Public Record
+Source: Anthropic News
+Published: Jun 11, 2026
+Why it matters: Routine official update
+Link: https://www.anthropic.com/news/anthropic-public-record
