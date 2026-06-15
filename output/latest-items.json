@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-14T14:53:28.644Z",
+  "generatedAt": "2026-06-15T16:04:34.485Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -76,15 +76,34 @@
     }
   ],
   "totals": {
-    "fetched": 45,
+    "fetched": 43,
     "deduped": 24,
-    "new": 2,
+    "new": 7,
     "byKind": {
       "official": 11,
       "external": 13
     }
   },
   "items": [
+    {
+      "id": "c99d0c322801ca5d274aba1f90643355ea125001",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTjI5TFljaGFyWUJMSjZRNHg3WWFkcm02R2dtbzRhYXBtdmw4Rmptc1JraTgwdWc2V1F5b21wQmlGaExzdlh6eExTNkVSUHkzQWx6Z3BUT1hNTnluSEd0Z2JHLVY5cXViM3lZN3B1UldWOEFJRFRHNWVLQ29oc2xxN2VSSmsxT1h1dUZMX3FiTkFpVUpKR2luUGdjclhid3JOREZFbTB3YXVjUDN6?oc=5",
+      "title": "OpenAI wins dismissal of trade secret lawsuit by Musk's xAI",
+      "summary": "",
+      "publishedAt": "2026-06-15T15:57:47.000Z",
+      "publisher": "Reuters",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
     {
       "id": "52952a8eac07fe3ee18fffd4da1ba637267a8ae6",
       "company": "OpenAI",
@@ -105,6 +124,25 @@
       }
     },
     {
+      "id": "152f21309b7e65f3533e0404c65d853bb3b434ab",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOX0VNSkhmX3pnRzR1NWdCaW1iS3lCQ0dOdDREb3BSV2pNV2tTUVRBbGdMcjVtcW96Nm9rN1lkdkhQQmo1ZEgtU042TklUUUI1STFxS1F1LWE5RHVjdFJyRlRZcmU1eVl0UGxGWjJyX2dkNDlaWFlTYW50TEl5dWt0ZTA5YnozZlZva2JPOXcwREtXeU9RbE1JMUM5TEdDYWpSVlBLdTd6UVEwZ1p0X0FFS1k3eWdwRnpIRGM5UA?oc=5",
+      "title": "OpenAI under investigation by group of state attorneys general, source says",
+      "summary": "",
+      "publishedAt": "2026-06-13T02:45:18.000Z",
+      "publisher": "Reuters",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
       "id": "77b8f6a42f0cc1984aa3797d3a8b2027fcc062a6",
       "company": "OpenAI",
       "sourceKind": "external",
@@ -119,78 +157,21 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "152f21309b7e65f3533e0404c65d853bb3b434ab",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOX0VNSkhmX3pnRzR1NWdCaW1iS3lCQ0dOdDREb3BSV2pNV2tTUVRBbGdMcjVtcW96Nm9rN1lkdkhQQmo1ZEgtU042TklUUUI1STFxS1F1LWE5RHVjdFJyRlRZcmU1eVl0UGxGWjJyX2dkNDlaWFlTYW50TEl5dWt0ZTA5YnozZlZva2JPOXcwREtXeU9RbE1JMUM5TEdDYWpSVlBLdTd6UVEwZ1p0X0FFS1k3eWdwRnpIRGM5UA?oc=5",
-      "title": "OpenAI under investigation by group of state attorneys general, source says",
-      "summary": "",
-      "publishedAt": "2026-06-12T23:30:00.000Z",
-      "publisher": "Reuters",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "7187e087693dac27241704850c687af97ea4895d",
-      "company": "Google",
-      "sourceKind": "external",
-      "sourceId": "external-google-major",
-      "sourceLabel": "Major External News - Google",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeEtwOXpZY1ZmQS1wbEVreF82U2FVcmxHTzdlX1Y3VzljaV94VE84TzJPMDBKaVcwa0g2cEVETmR0Zm5zdjBDWHJsbGg1WmlxT2hrbnNhcWRZZi1LeTJrVl85cVJaOUY0UDVZcjJzajEzek4tSVljQ3Y4QVdmTmxjYWhyNjN2TVk?oc=5",
-      "title": "Google Sues to Stop Chinese Cybercrime Group from Using Its A.I.",
-      "summary": "",
-      "publishedAt": "2026-06-12T09:10:32.000Z",
-      "publisher": "The New York Times",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
         "score": 6,
         "reason": "Corporate move or major external event"
       }
     },
     {
-      "id": "3943fd8ab7de7d4ffca96151ec38611932075a90",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSjNjZUhmYmpJdFNHcjh5MDV1SHNudjNfMEtNRkZlZ1ZqZThjZzhhbkFXQW9uZ0t2Rl9SN3lTQTB4WXFBalphQWRTbmI1N3pxY25OeXR4d1EtVUNFV3lmNkFOdEdEUkN1emVKNEhIb1JLUkFpYk9GWWZONXlDUlNPWWtJYzBfWThsdXVPLUR5enJtNlZ6dGNRZzZJX3g5TVFISlRsMWFNUjFqMTctTnl2bU9IWjZ6MnM2?oc=5",
-      "title": "Mother sues OpenAI, alleging ChatGPT encouraged daughter's suicide",
-      "summary": "",
-      "publishedAt": "2026-06-11T19:28:50.000Z",
-      "publisher": "Reuters",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "2d35fb47ff24b95425448170057c910142169676",
+      "id": "751046a341a2598cbb2bb275ca0aa82ef5e70ad7",
       "company": "Microsoft",
       "sourceKind": "external",
       "sourceId": "external-microsoft-major",
       "sourceLabel": "Major External News - Microsoft",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORGdkLUZycHlHbmFxajdoelpWT2FsWVRPeERTOG9zeElkSU5rbHQ2NldYOFBfU2ZxNGVXWV9iMy00MjY5N1B5OUkwajhQNHA5RENFcUFyV05RRkRZRS0zTEtlem5Qc2tFVVlycGlnVHpWbDBYcURSQ2pQb2Y1Z3hWY3lBVzBnV1J4N1VwdXhIWHE0ZUYxazJoZndzOGlnVDEtdllHSA?oc=5",
-      "title": "OpenAI acquires Ona cloud startup to boost Codex AI coding tool",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcWMxbVdNSlZDd1NPNWlfeHUtSHk4NFpJbjRlcVM3ckxUaVo5aGJ1aFNDZjhieEEwQnNhQWtTaXdfM0x0QVlLR0FtWU5tLWFFcmFLS09wY1o5NHNOS2VHTU1zczI1ZnZtVkRKRXJOZmZ3SXhTdk9UVlNnNW9qdTdEcExTQ0h3TDJ3SGR0cnI2Uk16REwwUGZJeVNkVC0?oc=5",
+      "title": "Latest News In Cloud AI - Akamai Strengthens Cloud Security With Microsoft Partnership",
       "summary": "",
-      "publishedAt": "2026-06-11T17:25:04.000Z",
+      "publishedAt": "2026-06-12T12:37:54.000Z",
       "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
@@ -216,6 +197,82 @@
         "bucket": "critical",
         "score": 6,
         "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "8e877dc24aca55245b798809a1229c4583fae252",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026",
+      "title": "We’re strengthening our presence in Alabama through new investments and community support.",
+      "summary": "Google has announced a $1.5 billion investment for 2026 and 2027 to expand its data center campus in Jackson County, Alabama. Operating since 2019 on a repurposed former…",
+      "publishedAt": "2026-06-15T15:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "888bd1de6f406f7ac40c7e80760e4adf81cc22c4",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/introducing-openai-partner-network",
+      "title": "Introducing the OpenAI Partner Network",
+      "summary": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
+      "publishedAt": "2026-06-14T17:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "4187f99a7b09a75e0cdee72eaaaaf5d8c21f1b16",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdFc1a1RQMWpoMUlWQm9YXzdtdmpNbDhld0tici1yNFJLNXNJb2g4TmtqczNBSGlVanlVTDFDU0k4SlVhcGhiWGhUQ3JBZXlRLTdxQzBKUXpXMUVGYnVzdUFQQmRrWWxTcXZxV01QUUdrZ2dValQwZjRLVE8xR0RQbXBCUlZxdFltZVJOYlI2SUhIMXVjMFoteDhaZ29wbTN6Rk92eFRwdHp6MWVuVnlKc2JR?oc=5",
+      "title": "Cyber leaders urge US to lift curbs on Anthropic's security models",
+      "summary": "",
+      "publishedAt": "2026-06-15T12:09:18.000Z",
+      "publisher": "Reuters",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "192be59ddacd6412f02c6f59a78cb071acb5c8cb",
+      "company": "Meta",
+      "sourceKind": "official",
+      "sourceId": "meta-newsroom",
+      "sourceLabel": "Meta Newsroom",
+      "homepageUrl": "https://about.fb.com/news/",
+      "url": "https://about.fb.com/news/2026/06/new-ai-tools-to-help-you-make-things-happen-on-facebook",
+      "title": "New AI Tools to Help You Make Things Happen on Facebook",
+      "summary": "We’re introducing new AI-powered Facebook features to help you connect, create, and find what you’re looking for. The post New AI Tools to Help You Make Things Happen on Facebook",
+      "publishedAt": "2026-06-15T16:00:23.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Flagship model or product launch"
       }
     },
     {
@@ -333,6 +390,25 @@
       }
     },
     {
+      "id": "7c4b94700212d1c8b0dfd9cd7c25a641b9345964",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcTVZdFRfX3k3X3FtOGotVWk0YWxBcVFqRGRTTkkxVlloengwdzlSczZoOGc1Xy1hOEthc0xjU0x2U3RnZGQ2MEVtNGNQNTU5MU5OWU1VaHlsLTl6dFJKdTlrNDdtS21XMmRpRUQ5ODNVVW1MRW9BOWd5ZmRpQ2p3YlV1UHZkMVE?oc=5",
+      "title": "Richland Parish teachers get $50,000 bonuses from Meta's data center — while home prices nearly triple",
+      "summary": "",
+      "publishedAt": "2026-06-14T20:45:00.000Z",
+      "publisher": "Yahoo Finance Singapore",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
       "id": "6e7e57659a97c582237cd469cac2a2f113a3fb3c",
       "company": "Meta",
       "sourceKind": "external",
@@ -344,44 +420,6 @@
       "summary": "",
       "publishedAt": "2026-06-14T03:09:00.000Z",
       "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "0a5a2921f14c51b6b314a9a618a21d37779ee083",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSmw4T3NsQ3plRVM4Y0ExSGtGT0xWeHZQSWR5V3JDRDJsV2pPOTNvUGVWZ0kzXzM0WkdNSm4xaTRyN0cxeGtmMi02RkxxSFFjNEhaRC12aVlUYVBBeFRzZWpEYWw1bGRXbnN3eXRidG81TzBhUzBNeDlZcGZrcXlvbGxlTkVJTXZPcDYza2RwUnU1eHc5bW54Q2tR?oc=5",
-      "title": "Is Meta (META) Quietly Building an AI Labor Moat With Its India Data Center and Training Push?",
-      "summary": "",
-      "publishedAt": "2026-06-12T17:07:21.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "c3975e24915a557477852298bee65a348b8017da",
-      "company": "Google",
-      "sourceKind": "external",
-      "sourceId": "external-google-major",
-      "sourceLabel": "Major External News - Google",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVUY3NTh1QmdLRmNLMTc1TElTRzVtSWh0ZWJkV3gyaUFDNEg2bGg5dHBVNHpwYWh4MXdYUnZkbTJfM1NHdWxuYWltUi1LenM4OEJNY1dUZDhPVmJGbkdQTXYyYmRNOW9pZUdGZ0RWSGtMYk9XbGtrN0pKRVRJMHhvSkxzLTF4WS1xWnB1bkEyOGJJTWhVSEpYcS1YVy10cGpuMXE2dWdycjBHaThUTzRaSjV5SGI5bXEx?oc=5",
-      "title": "A Google AI project delay may have hurt chip stocks. But data center buildout remains on track",
-      "summary": "",
-      "publishedAt": "2026-06-12T16:04:04.000Z",
-      "publisher": "CNBC",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -428,36 +466,36 @@
       }
     },
     {
-      "id": "466887c600baf47edd17b7a45c2bfa9cd1430d90",
-      "company": "Meta",
-      "sourceKind": "official",
-      "sourceId": "meta-newsroom",
-      "sourceLabel": "Meta Newsroom",
-      "homepageUrl": "https://about.fb.com/news/",
-      "url": "https://about.fb.com/news/2026/05/introducing-business-ai-on-whatsapp-for-small-businesses-in-india",
-      "title": "Introducing Business AI on WhatsApp for Small Businesses in India",
-      "summary": "",
-      "publishedAt": null,
-      "publisher": "",
-      "discoveryMethod": "anchor",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "2d39395f3dd5b7cc0aa598017745e6d41c7911bd",
+      "id": "0a5a2921f14c51b6b314a9a618a21d37779ee083",
       "company": "Meta",
       "sourceKind": "external",
       "sourceId": "external-meta-major",
       "sourceLabel": "Major External News - Meta",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYnBJVmF1NjRwbEVxMGhNUU41Z1FielpCaVVybUpRbDNtZUhQSVJ4c0pZdWUzWkdHNjBIYlNSVlYtbDRMbzI3N0N3V1hlSk5jMzFidldhTDhEQ0lBdWpJakNjc0NQRER3ZDA4SFpBREVnODRxRGZUdkUyQW5IVzk1VmFqQXRjbTRxNEtqdE5iN3JRTjluMU0xdkN5Q0d5VTJmMG5n?oc=5",
-      "title": "Meta Starts Unwinding Manus Deal by Splitting Operations, Data",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSmw4T3NsQ3plRVM4Y0ExSGtGT0xWeHZQSWR5V3JDRDJsV2pPOTNvUGVWZ0kzXzM0WkdNSm4xaTRyN0cxeGtmMi02RkxxSFFjNEhaRC12aVlUYVBBeFRzZWpEYWw1bGRXbnN3eXRidG81TzBhUzBNeDlZcGZrcXlvbGxlTkVJTXZPcDYza2RwUnU1eHc5bW54Q2tR?oc=5",
+      "title": "Is Meta (META) Quietly Building an AI Labor Moat With Its India Data Center and Training Push?",
       "summary": "",
-      "publishedAt": "2026-06-11T07:58:15.000Z",
+      "publishedAt": "2026-06-12T17:07:21.000Z",
       "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "c3975e24915a557477852298bee65a348b8017da",
+      "company": "Google",
+      "sourceKind": "external",
+      "sourceId": "external-google-major",
+      "sourceLabel": "Major External News - Google",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVUY3NTh1QmdLRmNLMTc1TElTRzVtSWh0ZWJkV3gyaUFDNEg2bGg5dHBVNHpwYWh4MXdYUnZkbTJfM1NHdWxuYWltUi1LenM4OEJNY1dUZDhPVmJGbkdQTXYyYmRNOW9pZUdGZ0RWSGtMYk9XbGtrN0pKRVRJMHhvSkxzLTF4WS1xWnB1bkEyOGJJTWhVSEpYcS1YVy10cGpuMXE2dWdycjBHaThUTzRaSjV5SGI5bXEx?oc=5",
+      "title": "A Google AI project delay may have hurt chip stocks. But data center buildout remains on track",
+      "summary": "",
+      "publishedAt": "2026-06-12T16:04:04.000Z",
+      "publisher": "CNBC",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -485,76 +523,38 @@
       }
     },
     {
-      "id": "f33673e04ec395e88e870ecdd7f6b72589460e62",
+      "id": "d016b741b6e2fb349fa218f14edd8eb6d73fde63",
       "company": "Meta",
       "sourceKind": "external",
       "sourceId": "external-meta-major",
       "sourceLabel": "Major External News - Meta",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTm84RnM5cXpFMWI3Y0NVemtrWkNTSU1YTjFDTU9SLWN2X2ZJMERUQjFZWWI1M0p6aC0xM0tSbEhXOUJKaWJoVU1Pc3hnMlRWLWJCZjl0eHgtUkhFSVE5cWxNVW9xV3BIN3Z5LWIwaGx5WW9iVERObGIzV2dUREg0WEVONWFGYkFOcGFwYmVWNnc5OTREUHBzUG9SNHMwWHlXOUHSAacBQVVfeXFMT0ZMTFRIUG1BUFJWRUFxNVZ5NWN2REF1dzRVVy1mUGZSc3FNSzlYa1N4RGh0N0FldjhXN0tLeDhqQkk3V19qVzBsbWpUam1wdVQzYlJ3SmtfQVk3U2FZSHhvb1NBRVdPY1lGZDZjWTMzMFFWaGhIdy1NdEU0TUJSQ0dZUlRQNXdyTUcwSE55VHM0X0gyUlpYTldsVGRRdzNQSlRNY0p2Tnc?oc=5",
-      "title": "Meta agrees to Indian AI data center deal as hyperscaler bolsters its infrastructure",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObGxNbWNBLWJFZVZ6U1VHSWVRQXUyRDhEMGhabTEyQUhhbk1BNXNFa0F1TW4zWm1pc1pLbkFJTGpZZUQtbll6SDBpZFJ3bzZvMXE4RUtraE5PcU9QN2JWSlVYb0RreEF1d0VZanVmdE5jbHVaQlFnV2o5NUJyUkI1cEFta1NzUlNzeWNWU3VTMUNhVDE1NnpXWW9R?oc=5",
+      "title": "Meta leases first AI data center in India from Reliance",
       "summary": "",
-      "publishedAt": "2026-06-10T09:24:53.000Z",
-      "publisher": "CNBC",
+      "publishedAt": "2026-06-10T11:15:49.000Z",
+      "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
         "score": 3,
         "reason": "Trusted external coverage"
       }
-    },
-    {
-      "id": "436a674e3bf2eef7f208ea290d40459b3526cda7",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
-      "title": "How an astrophysicist uses Codex to help simulate black holes",
-      "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
-      "publishedAt": "2026-06-11T00:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Technical or research update"
-      }
-    },
-    {
-      "id": "7ee0693dd3ce103ef57cffa7fece5f236bc87576",
-      "company": "Meta",
-      "sourceKind": "official",
-      "sourceId": "meta-newsroom",
-      "sourceLabel": "Meta Newsroom",
-      "homepageUrl": "https://about.fb.com/news/",
-      "url": "https://about.fb.com/news/2026/06/what-is-compute-power-meta-ai-infrastructure",
-      "title": "Infrastructure Explained: Compute Power",
-      "summary": "We're explaining what compute power is and how GPUs, CPUs, and MTIA custom silicon help us meet our AI innovation and computing needs. The post Infrastructure Explained: Compute Power",
-      "publishedAt": "2026-06-10T14:30:04.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Technical or research update"
-      }
     }
   ],
   "newItems": [
     {
-      "id": "52952a8eac07fe3ee18fffd4da1ba637267a8ae6",
+      "id": "c99d0c322801ca5d274aba1f90643355ea125001",
       "company": "OpenAI",
       "sourceKind": "external",
       "sourceId": "external-openai-major",
       "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNDRYZW1PWUNBbUJuMWVSUlpUb191cVRVZ1FfbFhoSmFhWURockw1R3hPUlVkQld6OUJqdWNhOURhb1JMdXpGT3JkRmZRNlVsQVR6UFdvaFlIWmF0T1VrVWpVaVJ4YnAyQlNWSDVxNWdMbEM2RzZtRGxJVGgzZGNCT3RxWGNRVGFjeGd0bmZRTFRYeERT?oc=5",
-      "title": "OpenAI faces investigation from state attorneys general",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTjI5TFljaGFyWUJMSjZRNHg3WWFkcm02R2dtbzRhYXBtdmw4Rmptc1JraTgwdWc2V1F5b21wQmlGaExzdlh6eExTNkVSUHkzQWx6Z3BUT1hNTnluSEd0Z2JHLVY5cXViM3lZN3B1UldWOEFJRFRHNWVLQ29oc2xxN2VSSmsxT1h1dUZMX3FiTkFpVUpKR2luUGdjclhid3JOREZFbTB3YXVjUDN6?oc=5",
+      "title": "OpenAI wins dismissal of trade secret lawsuit by Musk's xAI",
       "summary": "",
-      "publishedAt": "2026-06-13T16:47:18.000Z",
-      "publisher": "TechCrunch",
+      "publishedAt": "2026-06-15T15:57:47.000Z",
+      "publisher": "Reuters",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -563,21 +563,116 @@
       }
     },
     {
-      "id": "6e7e57659a97c582237cd469cac2a2f113a3fb3c",
+      "id": "8e877dc24aca55245b798809a1229c4583fae252",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026",
+      "title": "We’re strengthening our presence in Alabama through new investments and community support.",
+      "summary": "Google has announced a $1.5 billion investment for 2026 and 2027 to expand its data center campus in Jackson County, Alabama. Operating since 2019 on a repurposed former…",
+      "publishedAt": "2026-06-15T15:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "888bd1de6f406f7ac40c7e80760e4adf81cc22c4",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/introducing-openai-partner-network",
+      "title": "Introducing the OpenAI Partner Network",
+      "summary": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
+      "publishedAt": "2026-06-14T17:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "4187f99a7b09a75e0cdee72eaaaaf5d8c21f1b16",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdFc1a1RQMWpoMUlWQm9YXzdtdmpNbDhld0tici1yNFJLNXNJb2g4TmtqczNBSGlVanlVTDFDU0k4SlVhcGhiWGhUQ3JBZXlRLTdxQzBKUXpXMUVGYnVzdUFQQmRrWWxTcXZxV01QUUdrZ2dValQwZjRLVE8xR0RQbXBCUlZxdFltZVJOYlI2SUhIMXVjMFoteDhaZ29wbTN6Rk92eFRwdHp6MWVuVnlKc2JR?oc=5",
+      "title": "Cyber leaders urge US to lift curbs on Anthropic's security models",
+      "summary": "",
+      "publishedAt": "2026-06-15T12:09:18.000Z",
+      "publisher": "Reuters",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "192be59ddacd6412f02c6f59a78cb071acb5c8cb",
+      "company": "Meta",
+      "sourceKind": "official",
+      "sourceId": "meta-newsroom",
+      "sourceLabel": "Meta Newsroom",
+      "homepageUrl": "https://about.fb.com/news/",
+      "url": "https://about.fb.com/news/2026/06/new-ai-tools-to-help-you-make-things-happen-on-facebook",
+      "title": "New AI Tools to Help You Make Things Happen on Facebook",
+      "summary": "We’re introducing new AI-powered Facebook features to help you connect, create, and find what you’re looking for. The post New AI Tools to Help You Make Things Happen on Facebook",
+      "publishedAt": "2026-06-15T16:00:23.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "7c4b94700212d1c8b0dfd9cd7c25a641b9345964",
       "company": "Meta",
       "sourceKind": "external",
       "sourceId": "external-meta-major",
       "sourceLabel": "Major External News - Meta",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVmpjek5CR3dXVGRhSFBtYmRiOTYxV0JNeXpyWUVKTmpWcjBBTzQyN1poSi0wYjRBTV8xNHJYV2VMTUViSl9WTjgzNlZnZTJIZVNQYUdQNTQ4OWR3NXFiVzQ4YW93bWFpRnJfSDNLODVma09HTUpfQ2YzMFZNU1BRS1ppa3l1ZHo0NjdBMEJlUQ?oc=5",
-      "title": "AMD Meta AI Chip Pact Puts Data Center Growth And Valuation In Focus",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcTVZdFRfX3k3X3FtOGotVWk0YWxBcVFqRGRTTkkxVlloengwdzlSczZoOGc1Xy1hOEthc0xjU0x2U3RnZGQ2MEVtNGNQNTU5MU5OWU1VaHlsLTl6dFJKdTlrNDdtS21XMmRpRUQ5ODNVVW1MRW9BOWd5ZmRpQ2p3YlV1UHZkMVE?oc=5",
+      "title": "Richland Parish teachers get $50,000 bonuses from Meta's data center — while home prices nearly triple",
       "summary": "",
-      "publishedAt": "2026-06-14T03:09:00.000Z",
-      "publisher": "Yahoo Finance",
+      "publishedAt": "2026-06-14T20:45:00.000Z",
+      "publisher": "Yahoo Finance Singapore",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
         "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "d016b741b6e2fb349fa218f14edd8eb6d73fde63",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObGxNbWNBLWJFZVZ6U1VHSWVRQXUyRDhEMGhabTEyQUhhbk1BNXNFa0F1TW4zWm1pc1pLbkFJTGpZZUQtbll6SDBpZFJ3bzZvMXE4RUtraE5PcU9QN2JWSlVYb0RreEF1d0VZanVmdE5jbHVaQlFnV2o5NUJyUkI1cEFta1NzUlNzeWNWU3VTMUNhVDE1NnpXWW9R?oc=5",
+      "title": "Meta leases first AI data center in India from Reliance",
+      "summary": "",
+      "publishedAt": "2026-06-10T11:15:49.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
         "reason": "Trusted external coverage"
       }
     }
