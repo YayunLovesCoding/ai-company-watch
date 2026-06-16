@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-15T16:04:34.485Z",
+  "generatedAt": "2026-06-16T15:45:47.900Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -78,13 +78,32 @@
   "totals": {
     "fetched": 43,
     "deduped": 24,
-    "new": 7,
+    "new": 5,
     "byKind": {
       "official": 11,
       "external": 13
     }
   },
   "items": [
+    {
+      "id": "613c842221c8ac861dc36b4799b7a751fa2a9755",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQ3VhejFPSW5ZNk9hT0ZGLWVMSFRKVEFDNmNZQVhEU3ZocllvdVNMMkV3LTlud3FTdlNzaUY2MUNrNjFaQXl2N3lDa3dycFhSMEFzQkNUdXBNVWd0ZzRSUjhoSkZTVFJyZGJGOGt4WkZXRUxMd1JfRGFsU3FSSy1jbjFTMjNDQzV1YlNfaVFFMkxTRzJucW1oTHRRcw?oc=5",
+      "title": "Cerebras (CBRS) Lands OpenAI Deal And Amazon Partnership In AI Infrastructure",
+      "summary": "",
+      "publishedAt": "2026-06-16T08:11:27.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
     {
       "id": "c99d0c322801ca5d274aba1f90643355ea125001",
       "company": "OpenAI",
@@ -93,9 +112,9 @@
       "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTjI5TFljaGFyWUJMSjZRNHg3WWFkcm02R2dtbzRhYXBtdmw4Rmptc1JraTgwdWc2V1F5b21wQmlGaExzdlh6eExTNkVSUHkzQWx6Z3BUT1hNTnluSEd0Z2JHLVY5cXViM3lZN3B1UldWOEFJRFRHNWVLQ29oc2xxN2VSSmsxT1h1dUZMX3FiTkFpVUpKR2luUGdjclhid3JOREZFbTB3YXVjUDN6?oc=5",
-      "title": "OpenAI wins dismissal of trade secret lawsuit by Musk's xAI",
+      "title": "US judge dismisses Musk's xAI trade secret lawsuit against OpenAI",
       "summary": "",
-      "publishedAt": "2026-06-15T15:57:47.000Z",
+      "publishedAt": "2026-06-15T20:28:10.000Z",
       "publisher": "Reuters",
       "discoveryMethod": "feed",
       "classification": {
@@ -105,36 +124,17 @@
       }
     },
     {
-      "id": "52952a8eac07fe3ee18fffd4da1ba637267a8ae6",
+      "id": "781c8ab85c048560f9d8a818b2f5216b1c8c1740",
       "company": "OpenAI",
       "sourceKind": "external",
       "sourceId": "external-openai-major",
       "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNDRYZW1PWUNBbUJuMWVSUlpUb191cVRVZ1FfbFhoSmFhWURockw1R3hPUlVkQld6OUJqdWNhOURhb1JMdXpGT3JkRmZRNlVsQVR6UFdvaFlIWmF0T1VrVWpVaVJ4YnAyQlNWSDVxNWdMbEM2RzZtRGxJVGgzZGNCT3RxWGNRVGFjeGd0bmZRTFRYeERT?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeEFEYWJmZzd4S0ZCbHVmOXlHUjgzYmg4Y082dmNBT3MwUUZqLUZWUW5lVXdBeXFaTFRxMHdwdTg5ZWhvbjdoT0tDRExjZDBLcGRKQ0tHS0ZpcVlEQ2M1VXJGZzlnQzJMUVNsckNFWFRsUTVtMmxEMzQ3UHdjTmNNOW1sWjJzeDA5TktJUzJrcTFHcFNCNUNVeWZ4RDM3VGtLcTgxbU9VNllNdmZQNEdqVA?oc=5",
       "title": "OpenAI faces investigation from state attorneys general",
       "summary": "",
       "publishedAt": "2026-06-13T16:47:18.000Z",
-      "publisher": "TechCrunch",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "152f21309b7e65f3533e0404c65d853bb3b434ab",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOX0VNSkhmX3pnRzR1NWdCaW1iS3lCQ0dOdDREb3BSV2pNV2tTUVRBbGdMcjVtcW96Nm9rN1lkdkhQQmo1ZEgtU042TklUUUI1STFxS1F1LWE5RHVjdFJyRlRZcmU1eVl0UGxGWjJyX2dkNDlaWFlTYW50TEl5dWt0ZTA5YnozZlZva2JPOXcwREtXeU9RbE1JMUM5TEdDYWpSVlBLdTd6UVEwZ1p0X0FFS1k3eWdwRnpIRGM5UA?oc=5",
-      "title": "OpenAI under investigation by group of state attorneys general, source says",
-      "summary": "",
-      "publishedAt": "2026-06-13T02:45:18.000Z",
-      "publisher": "Reuters",
+      "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -162,36 +162,17 @@
       }
     },
     {
-      "id": "751046a341a2598cbb2bb275ca0aa82ef5e70ad7",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcWMxbVdNSlZDd1NPNWlfeHUtSHk4NFpJbjRlcVM3ckxUaVo5aGJ1aFNDZjhieEEwQnNhQWtTaXdfM0x0QVlLR0FtWU5tLWFFcmFLS09wY1o5NHNOS2VHTU1zczI1ZnZtVkRKRXJOZmZ3SXhTdk9UVlNnNW9qdTdEcExTQ0h3TDJ3SGR0cnI2Uk16REwwUGZJeVNkVC0?oc=5",
-      "title": "Latest News In Cloud AI - Akamai Strengthens Cloud Security With Microsoft Partnership",
-      "summary": "",
-      "publishedAt": "2026-06-12T12:37:54.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "4585083c1bdad3ef997183924ebd5449ac4dad25",
+      "id": "5b88567671dcb10e5b9b54c6866224107199b246",
       "company": "Google",
       "sourceKind": "external",
       "sourceId": "external-google-major",
       "sourceLabel": "Major External News - Google",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWlZNQ0NWY2JUQ2QtTHIzbzBTa0twOGVYQW1oZFQxbjRPOU9kTTdSdlZRMFA5dmx1RXBXem1jWlVWQmtuWDhhMl9pa0NlNWdiYmw4TnNWa0pKUUJZbTEtOXFNaERTZG9OT1Q5V0hjSUJCVERoUVRTelZLSHFBbE90SEd0TW1XQTVLSERFVQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxON3hoVU9mZXFqcjRMd2x3S08ySXZZTFZfc3g1MHJuQmZ0NV9DdU9TZEpXODFrUHpDbVJRQkl5MzA1bW9mZWFRem80VkFSZ28yeE54YUsyekpFYV8wVll6WU1RTmRaNlJodUFGSUtfdFQ5dGRzU2ZPYXJNYThRMkN0bU13ZFAyZkNqQVlrVDJtX3hKQ01sMzdXTVR0WEZEQQ?oc=5",
       "title": "German court rules on Google AI liability",
       "summary": "",
-      "publishedAt": "2026-06-11T11:17:00.000Z",
-      "publisher": "Semafor",
+      "publishedAt": "2026-06-11T11:17:40.000Z",
+      "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -247,7 +228,26 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdFc1a1RQMWpoMUlWQm9YXzdtdmpNbDhld0tici1yNFJLNXNJb2g4TmtqczNBSGlVanlVTDFDU0k4SlVhcGhiWGhUQ3JBZXlRLTdxQzBKUXpXMUVGYnVzdUFQQmRrWWxTcXZxV01QUUdrZ2dValQwZjRLVE8xR0RQbXBCUlZxdFltZVJOYlI2SUhIMXVjMFoteDhaZ29wbTN6Rk92eFRwdHp6MWVuVnlKc2JR?oc=5",
       "title": "Cyber leaders urge US to lift curbs on Anthropic's security models",
       "summary": "",
-      "publishedAt": "2026-06-15T12:09:18.000Z",
+      "publishedAt": "2026-06-15T16:30:54.000Z",
+      "publisher": "Reuters",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "1fe8fe8dd06a11ac1f035c5634ff27f6888947c8",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZ2lIMTU5TnZBOUVFUTVGeXd6OXJLQ0tCSU5FREdYcVBtMll2SzVVckFpYU5hNEljQU45dmozMTBwM2JtWFJFVTRfbDFYdVJSbTZSbEtMazRLNnZuM194VEhlTmxQRS1IX0lJTlJXaVpFbHhvTkt1Q3pvdW0yNVVXNTlobUNScUhabklSNlRoOGJwN0w1d0FSV1lwVGRmWTRDQ05IZnRPUjlWTF9sRVNwU3JkTU9xN2ZuRnc?oc=5",
+      "title": "US saw risk of Anthropic models being diverted to foreign military intelligence",
+      "summary": "",
+      "publishedAt": "2026-06-15T15:20:00.000Z",
       "publisher": "Reuters",
       "discoveryMethod": "feed",
       "classification": {
@@ -390,6 +390,25 @@
       }
     },
     {
+      "id": "a1bee36be47a20060d0e30fa77309dc370dca52d",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZUoyR01CMk9fc3gtVWhURmZvRlRlVmRJU2JDRjl1bDlrTkRza1lTX1g5QlhOZ3loUlB6cHVTZUkwdk96aE5wMEVudV9zaFJiNERMb0RMN3VOWFNDWG1IeUpfNnAzZUd6TWFhY0ZDRHV6NFV4Q2t6MEFwMWVlUng2ekFDS2E?oc=5",
+      "title": "OpenAI’s financials have leaked, showing $21 billion in losses against $13 billion in revenue",
+      "summary": "",
+      "publishedAt": "2026-06-16T10:06:00.000Z",
+      "publisher": "Fortune",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
       "id": "7c4b94700212d1c8b0dfd9cd7c25a641b9345964",
       "company": "Meta",
       "sourceKind": "external",
@@ -401,25 +420,6 @@
       "summary": "",
       "publishedAt": "2026-06-14T20:45:00.000Z",
       "publisher": "Yahoo Finance Singapore",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "6e7e57659a97c582237cd469cac2a2f113a3fb3c",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVmpjek5CR3dXVGRhSFBtYmRiOTYxV0JNeXpyWUVKTmpWcjBBTzQyN1poSi0wYjRBTV8xNHJYV2VMTUViSl9WTjgzNlZnZTJIZVNQYUdQNTQ4OWR3NXFiVzQ4YW93bWFpRnJfSDNLODVma09HTUpfQ2YzMFZNU1BRS1ppa3l1ZHo0NjdBMEJlUQ?oc=5",
-      "title": "AMD Meta AI Chip Pact Puts Data Center Growth And Valuation In Focus",
-      "summary": "",
-      "publishedAt": "2026-06-14T03:09:00.000Z",
-      "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -463,6 +463,25 @@
         "bucket": "important",
         "score": 4,
         "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "6e7e57659a97c582237cd469cac2a2f113a3fb3c",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVmpjek5CR3dXVGRhSFBtYmRiOTYxV0JNeXpyWUVKTmpWcjBBTzQyN1poSi0wYjRBTV8xNHJYV2VMTUViSl9WTjgzNlZnZTJIZVNQYUdQNTQ4OWR3NXFiVzQ4YW93bWFpRnJfSDNLODVma09HTUpfQ2YzMFZNU1BRS1ppa3l1ZHo0NjdBMEJlUQ?oc=5",
+      "title": "AMD Meta AI Chip Pact Puts Data Center Growth And Valuation In Focus",
+      "summary": "",
+      "publishedAt": "2026-06-14T03:09:00.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
       }
     },
     {
@@ -521,40 +540,21 @@
         "score": 3,
         "reason": "Trusted external coverage"
       }
-    },
-    {
-      "id": "d016b741b6e2fb349fa218f14edd8eb6d73fde63",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObGxNbWNBLWJFZVZ6U1VHSWVRQXUyRDhEMGhabTEyQUhhbk1BNXNFa0F1TW4zWm1pc1pLbkFJTGpZZUQtbll6SDBpZFJ3bzZvMXE4RUtraE5PcU9QN2JWSlVYb0RreEF1d0VZanVmdE5jbHVaQlFnV2o5NUJyUkI1cEFta1NzUlNzeWNWU3VTMUNhVDE1NnpXWW9R?oc=5",
-      "title": "Meta leases first AI data center in India from Reliance",
-      "summary": "",
-      "publishedAt": "2026-06-10T11:15:49.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Trusted external coverage"
-      }
     }
   ],
   "newItems": [
     {
-      "id": "c99d0c322801ca5d274aba1f90643355ea125001",
+      "id": "613c842221c8ac861dc36b4799b7a751fa2a9755",
       "company": "OpenAI",
       "sourceKind": "external",
       "sourceId": "external-openai-major",
       "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTjI5TFljaGFyWUJMSjZRNHg3WWFkcm02R2dtbzRhYXBtdmw4Rmptc1JraTgwdWc2V1F5b21wQmlGaExzdlh6eExTNkVSUHkzQWx6Z3BUT1hNTnluSEd0Z2JHLVY5cXViM3lZN3B1UldWOEFJRFRHNWVLQ29oc2xxN2VSSmsxT1h1dUZMX3FiTkFpVUpKR2luUGdjclhid3JOREZFbTB3YXVjUDN6?oc=5",
-      "title": "OpenAI wins dismissal of trade secret lawsuit by Musk's xAI",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQ3VhejFPSW5ZNk9hT0ZGLWVMSFRKVEFDNmNZQVhEU3ZocllvdVNMMkV3LTlud3FTdlNzaUY2MUNrNjFaQXl2N3lDa3dycFhSMEFzQkNUdXBNVWd0ZzRSUjhoSkZTVFJyZGJGOGt4WkZXRUxMd1JfRGFsU3FSSy1jbjFTMjNDQzV1YlNfaVFFMkxTRzJucW1oTHRRcw?oc=5",
+      "title": "Cerebras (CBRS) Lands OpenAI Deal And Amazon Partnership In AI Infrastructure",
       "summary": "",
-      "publishedAt": "2026-06-15T15:57:47.000Z",
-      "publisher": "Reuters",
+      "publishedAt": "2026-06-16T08:11:27.000Z",
+      "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -563,36 +563,17 @@
       }
     },
     {
-      "id": "8e877dc24aca55245b798809a1229c4583fae252",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026",
-      "title": "We’re strengthening our presence in Alabama through new investments and community support.",
-      "summary": "Google has announced a $1.5 billion investment for 2026 and 2027 to expand its data center campus in Jackson County, Alabama. Operating since 2019 on a repurposed former…",
-      "publishedAt": "2026-06-15T15:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "888bd1de6f406f7ac40c7e80760e4adf81cc22c4",
+      "id": "781c8ab85c048560f9d8a818b2f5216b1c8c1740",
       "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/introducing-openai-partner-network",
-      "title": "Introducing the OpenAI Partner Network",
-      "summary": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
-      "publishedAt": "2026-06-14T17:00:00.000Z",
-      "publisher": "",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeEFEYWJmZzd4S0ZCbHVmOXlHUjgzYmg4Y082dmNBT3MwUUZqLUZWUW5lVXdBeXFaTFRxMHdwdTg5ZWhvbjdoT0tDRExjZDBLcGRKQ0tHS0ZpcVlEQ2M1VXJGZzlnQzJMUVNsckNFWFRsUTVtMmxEMzQ3UHdjTmNNOW1sWjJzeDA5TktJUzJrcTFHcFNCNUNVeWZ4RDM3VGtLcTgxbU9VNllNdmZQNEdqVA?oc=5",
+      "title": "OpenAI faces investigation from state attorneys general",
+      "summary": "",
+      "publishedAt": "2026-06-13T16:47:18.000Z",
+      "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -601,16 +582,35 @@
       }
     },
     {
-      "id": "4187f99a7b09a75e0cdee72eaaaaf5d8c21f1b16",
+      "id": "5b88567671dcb10e5b9b54c6866224107199b246",
+      "company": "Google",
+      "sourceKind": "external",
+      "sourceId": "external-google-major",
+      "sourceLabel": "Major External News - Google",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxON3hoVU9mZXFqcjRMd2x3S08ySXZZTFZfc3g1MHJuQmZ0NV9DdU9TZEpXODFrUHpDbVJRQkl5MzA1bW9mZWFRem80VkFSZ28yeE54YUsyekpFYV8wVll6WU1RTmRaNlJodUFGSUtfdFQ5dGRzU2ZPYXJNYThRMkN0bU13ZFAyZkNqQVlrVDJtX3hKQ01sMzdXTVR0WEZEQQ?oc=5",
+      "title": "German court rules on Google AI liability",
+      "summary": "",
+      "publishedAt": "2026-06-11T11:17:40.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "1fe8fe8dd06a11ac1f035c5634ff27f6888947c8",
       "company": "Anthropic",
       "sourceKind": "external",
       "sourceId": "external-anthropic-major",
       "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdFc1a1RQMWpoMUlWQm9YXzdtdmpNbDhld0tici1yNFJLNXNJb2g4TmtqczNBSGlVanlVTDFDU0k4SlVhcGhiWGhUQ3JBZXlRLTdxQzBKUXpXMUVGYnVzdUFQQmRrWWxTcXZxV01QUUdrZ2dValQwZjRLVE8xR0RQbXBCUlZxdFltZVJOYlI2SUhIMXVjMFoteDhaZ29wbTN6Rk92eFRwdHp6MWVuVnlKc2JR?oc=5",
-      "title": "Cyber leaders urge US to lift curbs on Anthropic's security models",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZ2lIMTU5TnZBOUVFUTVGeXd6OXJLQ0tCSU5FREdYcVBtMll2SzVVckFpYU5hNEljQU45dmozMTBwM2JtWFJFVTRfbDFYdVJSbTZSbEtMazRLNnZuM194VEhlTmxQRS1IX0lJTlJXaVpFbHhvTkt1Q3pvdW0yNVVXNTlobUNScUhabklSNlRoOGJwN0w1d0FSV1lwVGRmWTRDQ05IZnRPUjlWTF9sRVNwU3JkTU9xN2ZuRnc?oc=5",
+      "title": "US saw risk of Anthropic models being diverted to foreign military intelligence",
       "summary": "",
-      "publishedAt": "2026-06-15T12:09:18.000Z",
+      "publishedAt": "2026-06-15T15:20:00.000Z",
       "publisher": "Reuters",
       "discoveryMethod": "feed",
       "classification": {
@@ -620,59 +620,21 @@
       }
     },
     {
-      "id": "192be59ddacd6412f02c6f59a78cb071acb5c8cb",
-      "company": "Meta",
-      "sourceKind": "official",
-      "sourceId": "meta-newsroom",
-      "sourceLabel": "Meta Newsroom",
-      "homepageUrl": "https://about.fb.com/news/",
-      "url": "https://about.fb.com/news/2026/06/new-ai-tools-to-help-you-make-things-happen-on-facebook",
-      "title": "New AI Tools to Help You Make Things Happen on Facebook",
-      "summary": "We’re introducing new AI-powered Facebook features to help you connect, create, and find what you’re looking for. The post New AI Tools to Help You Make Things Happen on Facebook",
-      "publishedAt": "2026-06-15T16:00:23.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "7c4b94700212d1c8b0dfd9cd7c25a641b9345964",
-      "company": "Meta",
+      "id": "a1bee36be47a20060d0e30fa77309dc370dca52d",
+      "company": "Microsoft",
       "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcTVZdFRfX3k3X3FtOGotVWk0YWxBcVFqRGRTTkkxVlloengwdzlSczZoOGc1Xy1hOEthc0xjU0x2U3RnZGQ2MEVtNGNQNTU5MU5OWU1VaHlsLTl6dFJKdTlrNDdtS21XMmRpRUQ5ODNVVW1MRW9BOWd5ZmRpQ2p3YlV1UHZkMVE?oc=5",
-      "title": "Richland Parish teachers get $50,000 bonuses from Meta's data center — while home prices nearly triple",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZUoyR01CMk9fc3gtVWhURmZvRlRlVmRJU2JDRjl1bDlrTkRza1lTX1g5QlhOZ3loUlB6cHVTZUkwdk96aE5wMEVudV9zaFJiNERMb0RMN3VOWFNDWG1IeUpfNnAzZUd6TWFhY0ZDRHV6NFV4Q2t6MEFwMWVlUng2ekFDS2E?oc=5",
+      "title": "OpenAI’s financials have leaked, showing $21 billion in losses against $13 billion in revenue",
       "summary": "",
-      "publishedAt": "2026-06-14T20:45:00.000Z",
-      "publisher": "Yahoo Finance Singapore",
+      "publishedAt": "2026-06-16T10:06:00.000Z",
+      "publisher": "Fortune",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
         "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "d016b741b6e2fb349fa218f14edd8eb6d73fde63",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObGxNbWNBLWJFZVZ6U1VHSWVRQXUyRDhEMGhabTEyQUhhbk1BNXNFa0F1TW4zWm1pc1pLbkFJTGpZZUQtbll6SDBpZFJ3bzZvMXE4RUtraE5PcU9QN2JWSlVYb0RreEF1d0VZanVmdE5jbHVaQlFnV2o5NUJyUkI1cEFta1NzUlNzeWNWU3VTMUNhVDE1NnpXWW9R?oc=5",
-      "title": "Meta leases first AI data center in India from Reliance",
-      "summary": "",
-      "publishedAt": "2026-06-10T11:15:49.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
         "reason": "Trusted external coverage"
       }
     }
