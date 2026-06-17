@@ -1,49 +1,41 @@
 # AI Company Watch
 
-Generated: Jun 16, 2026, 8:45 AM PDT
+Generated: Jun 17, 2026, 8:12 AM PDT
 Lookback window: 7 day(s)
 Sources checked: 12
-Items fetched: 43
+Items fetched: 41
 Items kept: 24
-New items: 5
-External items kept: 13
-Official items kept: 11
+New items: 4
+External items kept: 11
+Official items kept: 13
 
 ## Critical External News
 
-### OpenAI - Cerebras (CBRS) Lands OpenAI Deal And Amazon Partnership In AI Infrastructure
-Source: Major External News - OpenAI
-Publisher: Yahoo Finance
-Published: Jun 16, 2026
-Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMimwFBVV95cUxOQ3VhejFPSW5ZNk9hT0ZGLWVMSFRKVEFDNmNZQVhEU3ZocllvdVNMMkV3LTlud3FTdlNzaUY2MUNrNjFaQXl2N3lDa3dycFhSMEFzQkNUdXBNVWd0ZzRSUjhoSkZTVFJyZGJGOGt4WkZXRUxMd1JfRGFsU3FSSy1jbjFTMjNDQzV1YlNfaVFFMkxTRzJucW1oTHRRcw?oc=5
-
-### OpenAI - OpenAI faces investigation from state attorneys general
-Source: Major External News - OpenAI
-Publisher: Yahoo Finance
-Published: Jun 13, 2026
-Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxPeEFEYWJmZzd4S0ZCbHVmOXlHUjgzYmg4Y082dmNBT3MwUUZqLUZWUW5lVXdBeXFaTFRxMHdwdTg5ZWhvbjdoT0tDRExjZDBLcGRKQ0tHS0ZpcVlEQ2M1VXJGZzlnQzJMUVNsckNFWFRsUTVtMmxEMzQ3UHdjTmNNOW1sWjJzeDA5TktJUzJrcTFHcFNCNUNVeWZ4RDM3VGtLcTgxbU9VNllNdmZQNEdqVA?oc=5
-
-### Google - German court rules on Google AI liability
+### Google - HSBC, Google AI Partnership Set to Add Over $100 Million Gains
 Source: Major External News - Google
-Publisher: Yahoo Finance
-Published: Jun 11, 2026
-Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMingFBVV95cUxON3hoVU9mZXFqcjRMd2x3S08ySXZZTFZfc3g1MHJuQmZ0NV9DdU9TZEpXODFrUHpDbVJRQkl5MzA1bW9mZWFRem80VkFSZ28yeE54YUsyekpFYV8wVll6WU1RTmRaNlJodUFGSUtfdFQ5dGRzU2ZPYXJNYThRMkN0bU13ZFAyZkNqQVlrVDJtX3hKQ01sMzdXTVR0WEZEQQ?oc=5
-
-### Anthropic - US saw risk of Anthropic models being diverted to foreign military intelligence
-Source: Major External News - Anthropic
-Publisher: Reuters
-Published: Jun 15, 2026
-Why it matters: Safety, security, or policy update
-Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxQZ2lIMTU5TnZBOUVFUTVGeXd6OXJLQ0tCSU5FREdYcVBtMll2SzVVckFpYU5hNEljQU45dmozMTBwM2JtWFJFVTRfbDFYdVJSbTZSbEtMazRLNnZuM194VEhlTmxQRS1IX0lJTlJXaVpFbHhvTkt1Q3pvdW0yNVVXNTlobUNScUhabklSNlRoOGJwN0w1d0FSV1lwVGRmWTRDQ05IZnRPUjlWTF9sRVNwU3JkTU9xN2ZuRnc?oc=5
-
-## Important External News
-
-### Microsoft - OpenAI’s financials have leaked, showing $21 billion in losses against $13 billion in revenue
-Source: Major External News - Microsoft
-Publisher: Fortune
+Publisher: Bloomberg
 Published: Jun 16, 2026
-Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxNZUoyR01CMk9fc3gtVWhURmZvRlRlVmRJU2JDRjl1bDlrTkRza1lTX1g5QlhOZ3loUlB6cHVTZUkwdk96aE5wMEVudV9zaFJiNERMb0RMN3VOWFNDWG1IeUpfNnAzZUd6TWFhY0ZDRHV6NFV4Q2t6MEFwMWVlUng2ekFDS2E?oc=5
+Why it matters: Corporate move or major external event
+Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxQTkhUVHZVOTBIWFlWUkZPOE4yTV9VVWRSR0V6QjB4eENpUDRabWswS2g4d2t0R1I1UHltVlptZnJYc1g3WV9mYm9Qc3FEeWE4SC1oaGVuS3hXdmdiZy1nQmt5ZUFPdzUxdTYwMDNnNUs2MmJwZkVGb2RXUXBxUFNIRFJFelgyNjlqdmNSd3RmWFlDUU5SUjJZdWM5dkRyc0VDd3ZxVUg2bWNXMUVteS1qRQ?oc=5
+
+### Microsoft - S. Korea becomes 4th country to forge AI security alliance with OpenAI
+Source: Major External News - Microsoft
+Publisher: Yonhap News Agency
+Published: Jun 16, 2026
+Why it matters: Safety, security, or policy update
+Link: https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TOVZnZHRwRjY1b2E0MUVUN3VJWk9ydG9zYTZVNVJUa3dkNWNET3IwZGpZdE8tR2FVMWtoLXd2U3FjV1NFWlJobktKSnpQTXYyczJxNGxQZVVLdw?oc=5
+
+## Critical Official Updates
+
+### Anthropic - Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem
+Source: Anthropic News
+Published: Jun 16, 2026
+Why it matters: Flagship model or product launch
+Link: https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem
+
+### OpenAI - Predicting model behavior before release by simulating deployment
+Source: OpenAI Newsroom
+Published: Jun 15, 2026
+Why it matters: Flagship model or product launch
+Summary: OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.
+Link: https://openai.com/index/deployment-simulation
