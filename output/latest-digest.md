@@ -1,41 +1,67 @@
 # AI Company Watch
 
-Generated: Jun 17, 2026, 8:12 AM PDT
+Generated: Jun 18, 2026, 8:15 AM PDT
 Lookback window: 7 day(s)
 Sources checked: 12
-Items fetched: 41
+Items fetched: 36
 Items kept: 24
-New items: 4
-External items kept: 11
-Official items kept: 13
+New items: 7
+External items kept: 9
+Official items kept: 15
 
 ## Critical External News
 
-### Google - HSBC, Google AI Partnership Set to Add Over $100 Million Gains
-Source: Major External News - Google
-Publisher: Bloomberg
-Published: Jun 16, 2026
-Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxQTkhUVHZVOTBIWFlWUkZPOE4yTV9VVWRSR0V6QjB4eENpUDRabWswS2g4d2t0R1I1UHltVlptZnJYc1g3WV9mYm9Qc3FEeWE4SC1oaGVuS3hXdmdiZy1nQmt5ZUFPdzUxdTYwMDNnNUs2MmJwZkVGb2RXUXBxUFNIRFJFelgyNjlqdmNSd3RmWFlDUU5SUjJZdWM5dkRyc0VDd3ZxVUg2bWNXMUVteS1qRQ?oc=5
-
-### Microsoft - S. Korea becomes 4th country to forge AI security alliance with OpenAI
+### Microsoft - Microsoft, Amazon Cloud Services Face Tough EU Antitrust Law
 Source: Major External News - Microsoft
-Publisher: Yonhap News Agency
-Published: Jun 16, 2026
-Why it matters: Safety, security, or policy update
-Link: https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TOVZnZHRwRjY1b2E0MUVUN3VJWk9ydG9zYTZVNVJUa3dkNWNET3IwZGpZdE8tR2FVMWtoLXd2U3FjV1NFWlJobktKSnpQTXYyczJxNGxQZVVLdw?oc=5
+Publisher: Bloomberg.com
+Published: Jun 18, 2026
+Why it matters: Corporate move or major external event
+Link: https://news.google.com/rss/articles/CBMirwFBVV95cUxPUjU5REVCWFZmM0JMYlkyM3hyWll0cmdEMnZMajBGLVpVaHVGM1JmZWpnOEYwbHp6cjZHd2liUDBiUl94NHkyYzRGMTVkRXJ5MmxTaGpsX3kzMllObmNERjRsdzd0YnFCWFl2ZlZ4V0ZucTNjQ1pHYU9vWGFIcEZ5ZDR3cS14cURuVEE0aHhoMlVLbWNydWRCcUZoak9qZzhuSlMzU2o2RGxvMXlRRTBz?oc=5
+
+### OpenAI - SpaceX acquires Anthropic and OpenAI rival in $60B deal
+Source: Major External News - OpenAI
+Publisher: Yahoo Finance Australia
+Published: Jun 17, 2026
+Why it matters: Corporate move or major external event
+Link: https://news.google.com/rss/articles/CBMikAFBVV95cUxOR0ZsUENkWHA5cGpWdGd2OFZyRlNUUFV0MTk3UjQ1cWJKNzB5SFNHS2laYXI0WDhRTXI2d0VmMjNUN3lLSl9wRW85Y2ZBcFV0LXVHSF93RldGWDRNeV9DT3c2RTkzdkJqejN0amplN21JSjZfdld4WTVrWGNpX3kxVF92cnR5LVhGU2ttTlc4RkU?oc=5
+
+## Important External News
+
+### Anthropic - Big Tech-backed coalition for carbon removal increases funding by $915 million, adds Anthropic
+Source: Major External News - Anthropic
+Publisher: Reuters
+Published: Jun 17, 2026
+Why it matters: Trusted external coverage
+Link: https://news.google.com/rss/articles/CBMizgFBVV95cUxOdHJsbGszRVpXNzdlLTFDdEI2bTEwM2FIcmtaelg1UDNlUzNobFJLMXVaSS1zbThJejZFSGtKcjN2Q2V4YXdXWGxlSXVCbVFlRkI2bThxeE9TUjY5QmVvWnQxNFBnTXlsREJxMFNtWjRISV9ob0FaVjJZQUhRWDhpOU43WU9fNnQweUxpanZOVmZJdHk4VDJiUzM2UDItcW13SUlrbGNZTk1qRF9GZ1dLMXVUUkFIem04eVhUYW9LUXVXeW5ldU15SnVkMC1UZw?oc=5
 
 ## Critical Official Updates
 
-### Anthropic - Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem
-Source: Anthropic News
+### OpenAI - Introducing LifeSciBench
+Source: OpenAI Newsroom
 Published: Jun 16, 2026
 Why it matters: Flagship model or product launch
-Link: https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem
+Summary: Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.
+Link: https://openai.com/index/introducing-life-sci-bench
 
-### OpenAI - Predicting model behavior before release by simulating deployment
-Source: OpenAI Newsroom
-Published: Jun 15, 2026
+### Microsoft - Australian AI platform for educators drives global impact following launch on Microsoft’s global marketplace
+Source: Microsoft AI
+Published: Jun 16, 2026
 Why it matters: Flagship model or product launch
-Summary: OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.
-Link: https://openai.com/index/deployment-simulation
+Summary: Australian AI platform for educators drives global impact following launch on Microsoft’s global marketplace
+Link: https://news.microsoft.com/source/asia/2026/06/16/usyd-takes-cogniti-global
+
+## Important Official Updates
+
+### Google - New research shows how AMIE, our medical AI, could help manage health conditions.
+Source: Google AI
+Published: Jun 17, 2026
+Why it matters: Technical or research update
+Summary: Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management.
+Link: https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature
+
+### OpenAI - A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry
+Source: OpenAI Newsroom
+Published: Jun 17, 2026
+Why it matters: Technical or research update
+Summary: OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.
+Link: https://openai.com/index/ai-chemist-improves-reaction

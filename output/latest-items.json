@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-17T15:12:12.774Z",
+  "generatedAt": "2026-06-18T15:15:17.735Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -76,15 +76,53 @@
     }
   ],
   "totals": {
-    "fetched": 41,
+    "fetched": 36,
     "deduped": 24,
-    "new": 4,
+    "new": 7,
     "byKind": {
-      "official": 13,
-      "external": 11
+      "official": 15,
+      "external": 9
     }
   },
   "items": [
+    {
+      "id": "c8f06a710006f181e633d29ead35531cdcfe789f",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUjU5REVCWFZmM0JMYlkyM3hyWll0cmdEMnZMajBGLVpVaHVGM1JmZWpnOEYwbHp6cjZHd2liUDBiUl94NHkyYzRGMTVkRXJ5MmxTaGpsX3kzMllObmNERjRsdzd0YnFCWFl2ZlZ4V0ZucTNjQ1pHYU9vWGFIcEZ5ZDR3cS14cURuVEE0aHhoMlVLbWNydWRCcUZoak9qZzhuSlMzU2o2RGxvMXlRRTBz?oc=5",
+      "title": "Microsoft, Amazon Cloud Services Face Tough EU Antitrust Law",
+      "summary": "",
+      "publishedAt": "2026-06-18T12:51:42.000Z",
+      "publisher": "Bloomberg.com",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "c22922a1097fd3c7e37a05ac7db2497cf9e00aa0",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOR0ZsUENkWHA5cGpWdGd2OFZyRlNUUFV0MTk3UjQ1cWJKNzB5SFNHS2laYXI0WDhRTXI2d0VmMjNUN3lLSl9wRW85Y2ZBcFV0LXVHSF93RldGWDRNeV9DT3c2RTkzdkJqejN0amplN21JSjZfdld4WTVrWGNpX3kxVF92cnR5LVhGU2ttTlc4RkU?oc=5",
+      "title": "SpaceX acquires Anthropic and OpenAI rival in $60B deal",
+      "summary": "",
+      "publishedAt": "2026-06-17T17:47:00.000Z",
+      "publisher": "Yahoo Finance Australia",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
     {
       "id": "864ade9ee271e81142fb56c5284da4d3ec5ddcea",
       "company": "Google",
@@ -96,7 +134,7 @@
       "title": "HSBC, Google AI Partnership Set to Add Over $100 Million Gains",
       "summary": "",
       "publishedAt": "2026-06-17T00:52:00.000Z",
-      "publisher": "Bloomberg",
+      "publisher": "Bloomberg.com",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -119,122 +157,8 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "77b8f6a42f0cc1984aa3797d3a8b2027fcc062a6",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUjMzTkNENUJuSV8xTWhZN2VHZzJqSWt2VExlemdseTZOb1VkYTlJX0JjOUxGWEJxZk91Q3NKcDdHaDFwS05wUzVNd0VFb29nalVjNDRBNW1EU24ybEl5ZGwxdUUwMnlTZ0RUbHd2SnRzT3EwY1dXYkV1M3hBOHpDNlROaXBYQWJkUzUwOXlCQi1zWUl0RU1MV3JJUENJUElHWm40Umw2SEtmaUh1bWdoVg?oc=5",
-      "title": "OpenAI under investigation by coalition of state attorneys general, WSJ reports",
-      "summary": "",
-      "publishedAt": "2026-06-12T23:30:09.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
         "score": 6,
         "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "751046a341a2598cbb2bb275ca0aa82ef5e70ad7",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcWMxbVdNSlZDd1NPNWlfeHUtSHk4NFpJbjRlcVM3ckxUaVo5aGJ1aFNDZjhieEEwQnNhQWtTaXdfM0x0QVlLR0FtWU5tLWFFcmFLS09wY1o5NHNOS2VHTU1zczI1ZnZtVkRKRXJOZmZ3SXhTdk9UVlNnNW9qdTdEcExTQ0h3TDJ3SGR0cnI2Uk16REwwUGZJeVNkVC0?oc=5",
-      "title": "Latest News In Cloud AI - Akamai Strengthens Cloud Security With Microsoft Partnership",
-      "summary": "",
-      "publishedAt": "2026-06-12T12:37:54.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "5b88567671dcb10e5b9b54c6866224107199b246",
-      "company": "Google",
-      "sourceKind": "external",
-      "sourceId": "external-google-major",
-      "sourceLabel": "Major External News - Google",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxON3hoVU9mZXFqcjRMd2x3S08ySXZZTFZfc3g1MHJuQmZ0NV9DdU9TZEpXODFrUHpDbVJRQkl5MzA1bW9mZWFRem80VkFSZ28yeE54YUsyekpFYV8wVll6WU1RTmRaNlJodUFGSUtfdFQ5dGRzU2ZPYXJNYThRMkN0bU13ZFAyZkNqQVlrVDJtX3hKQ01sMzdXTVR0WEZEQQ?oc=5",
-      "title": "German court rules on Google AI liability",
-      "summary": "",
-      "publishedAt": "2026-06-11T11:17:40.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "4a68d0265e186d59f538f4773da3aa60bf31aecd",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TOVZnZHRwRjY1b2E0MUVUN3VJWk9ydG9zYTZVNVJUa3dkNWNET3IwZGpZdE8tR2FVMWtoLXd2U3FjV1NFWlJobktKSnpQTXYyczJxNGxQZVVLdw?oc=5",
-      "title": "S. Korea becomes 4th country to forge AI security alliance with OpenAI",
-      "summary": "",
-      "publishedAt": "2026-06-17T02:49:31.000Z",
-      "publisher": "Yonhap News Agency",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "1fe8fe8dd06a11ac1f035c5634ff27f6888947c8",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZ2lIMTU5TnZBOUVFUTVGeXd6OXJLQ0tCSU5FREdYcVBtMll2SzVVckFpYU5hNEljQU45dmozMTBwM2JtWFJFVTRfbDFYdVJSbTZSbEtMazRLNnZuM194VEhlTmxQRS1IX0lJTlJXaVpFbHhvTkt1Q3pvdW0yNVVXNTlobUNScUhabklSNlRoOGJwN0w1d0FSV1lwVGRmWTRDQ05IZnRPUjlWTF9sRVNwU3JkTU9xN2ZuRnc?oc=5",
-      "title": "US saw risk of Anthropic models being diverted to foreign military intelligence",
-      "summary": "",
-      "publishedAt": "2026-06-16T07:02:12.000Z",
-      "publisher": "Reuters",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "4187f99a7b09a75e0cdee72eaaaaf5d8c21f1b16",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdFc1a1RQMWpoMUlWQm9YXzdtdmpNbDhld0tici1yNFJLNXNJb2g4TmtqczNBSGlVanlVTDFDU0k4SlVhcGhiWGhUQ3JBZXlRLTdxQzBKUXpXMUVGYnVzdUFQQmRrWWxTcXZxV01QUUdrZ2dValQwZjRLVE8xR0RQbXBCUlZxdFltZVJOYlI2SUhIMXVjMFoteDhaZ29wbTN6Rk92eFRwdHp6MWVuVnlKc2JR?oc=5",
-      "title": "Cyber leaders urge US to lift curbs on Anthropic's security models",
-      "summary": "",
-      "publishedAt": "2026-06-15T16:30:54.000Z",
-      "publisher": "Reuters",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Safety, security, or policy update"
       }
     },
     {
@@ -257,16 +181,16 @@
       }
     },
     {
-      "id": "b387731f4f83720dfe4394e2dac385ef5730d12b",
+      "id": "0088b66458750462eef8031a7d9cc39402b4ef89",
       "company": "OpenAI",
       "sourceKind": "official",
       "sourceId": "openai-newsroom",
       "sourceLabel": "OpenAI Newsroom",
       "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/deployment-simulation",
-      "title": "Predicting model behavior before release by simulating deployment",
-      "summary": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
-      "publishedAt": "2026-06-16T00:00:00.000Z",
+      "url": "https://openai.com/index/introducing-life-sci-bench",
+      "title": "Introducing LifeSciBench",
+      "summary": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.",
+      "publishedAt": "2026-06-17T00:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -276,16 +200,16 @@
       }
     },
     {
-      "id": "192be59ddacd6412f02c6f59a78cb071acb5c8cb",
-      "company": "Meta",
+      "id": "3ff5b2bbb0ad065d8a974bf1bac9a44c62cf90bb",
+      "company": "Microsoft",
       "sourceKind": "official",
-      "sourceId": "meta-newsroom",
-      "sourceLabel": "Meta Newsroom",
-      "homepageUrl": "https://about.fb.com/news/",
-      "url": "https://about.fb.com/news/2026/06/new-ai-tools-to-help-you-make-things-happen-on-facebook",
-      "title": "New AI Tools to Help You Make Things Happen on Facebook",
-      "summary": "We’re introducing new AI-powered Facebook features to help you connect, create, and find what you’re looking for. The post New AI Tools to Help You Make Things Happen on Facebook",
-      "publishedAt": "2026-06-15T16:00:23.000Z",
+      "sourceId": "microsoft-ai",
+      "sourceLabel": "Microsoft AI",
+      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
+      "url": "https://news.microsoft.com/source/asia/2026/06/16/usyd-takes-cogniti-global",
+      "title": "Australian AI platform for educators drives global impact following launch on Microsoft’s global marketplace",
+      "summary": "Australian AI platform for educators drives global impact following launch on Microsoft’s global marketplace",
+      "publishedAt": "2026-06-16T23:49:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -390,18 +314,18 @@
       }
     },
     {
-      "id": "a9f0898c4190e00181d150cb0120eb6b1701e571",
-      "company": "OpenAI",
+      "id": "3aa4a85fa76c2b7ad519d525a8c2abe63286f86c",
+      "company": "Meta",
       "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/bbva",
-      "title": "BBVA puts AI at the core of banking with OpenAI",
-      "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
-      "publishedAt": "2026-06-11T00:00:00.000Z",
+      "sourceId": "meta-newsroom",
+      "sourceLabel": "Meta Newsroom",
+      "homepageUrl": "https://about.fb.com/news/",
+      "url": "https://about.fb.com/news/2026/06/meta-partners-with-reliance-on-ai-enabled-data-center-in-india",
+      "title": "Meta Partners With Reliance on AI-Enabled Data Center in India",
+      "summary": "",
+      "publishedAt": null,
       "publisher": "",
-      "discoveryMethod": "feed",
+      "discoveryMethod": "anchor",
       "classification": {
         "bucket": "critical",
         "score": 5,
@@ -409,17 +333,17 @@
       }
     },
     {
-      "id": "a1bee36be47a20060d0e30fa77309dc370dca52d",
-      "company": "OpenAI",
+      "id": "53e43954b3f8829edd4a6b587b538127a0e2e86e",
+      "company": "Anthropic",
       "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZUoyR01CMk9fc3gtVWhURmZvRlRlVmRJU2JDRjl1bDlrTkRza1lTX1g5QlhOZ3loUlB6cHVTZUkwdk96aE5wMEVudV9zaFJiNERMb0RMN3VOWFNDWG1IeUpfNnAzZUd6TWFhY0ZDRHV6NFV4Q2t6MEFwMWVlUng2ekFDS2E?oc=5",
-      "title": "OpenAI’s financials have leaked, showing $21 billion in losses against $13 billion in revenue",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdHJsbGszRVpXNzdlLTFDdEI2bTEwM2FIcmtaelg1UDNlUzNobFJLMXVaSS1zbThJejZFSGtKcjN2Q2V4YXdXWGxlSXVCbVFlRkI2bThxeE9TUjY5QmVvWnQxNFBnTXlsREJxMFNtWjRISV9ob0FaVjJZQUhRWDhpOU43WU9fNnQweUxpanZOVmZJdHk4VDJiUzM2UDItcW13SUlrbGNZTk1qRF9GZ1dLMXVUUkFIem04eVhUYW9LUXVXeW5ldU15SnVkMC1UZw?oc=5",
+      "title": "Big Tech-backed coalition for carbon removal increases funding by $915 million, adds Anthropic",
       "summary": "",
-      "publishedAt": "2026-06-16T10:06:00.000Z",
-      "publisher": "Fortune",
+      "publishedAt": "2026-06-17T22:12:38.000Z",
+      "publisher": "Reuters",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -428,16 +352,35 @@
       }
     },
     {
-      "id": "dcc2fd07a9e824262e00178f630f3e3a6b89415a",
+      "id": "4187f99a7b09a75e0cdee72eaaaaf5d8c21f1b16",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdFc1a1RQMWpoMUlWQm9YXzdtdmpNbDhld0tici1yNFJLNXNJb2g4TmtqczNBSGlVanlVTDFDU0k4SlVhcGhiWGhUQ3JBZXlRLTdxQzBKUXpXMUVGYnVzdUFQQmRrWWxTcXZxV01QUUdrZ2dValQwZjRLVE8xR0RQbXBCUlZxdFltZVJOYlI2SUhIMXVjMFoteDhaZ29wbTN6Rk92eFRwdHp6MWVuVnlKc2JR?oc=5",
+      "title": "Cyber leaders urge US to lift curbs on Anthropic's security models",
+      "summary": "",
+      "publishedAt": "2026-06-15T16:30:54.000Z",
+      "publisher": "Reuters",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "b387731f4f83720dfe4394e2dac385ef5730d12b",
       "company": "OpenAI",
       "sourceKind": "official",
       "sourceId": "openai-newsroom",
       "sourceLabel": "OpenAI Newsroom",
       "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/preply",
-      "title": "How Preply combines AI and human tutors to personalize learning",
-      "summary": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
-      "publishedAt": "2026-06-12T00:00:00.000Z",
+      "url": "https://openai.com/index/deployment-simulation",
+      "title": "Predicting model behavior before release by simulating deployment",
+      "summary": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
+      "publishedAt": "2026-06-16T00:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -447,37 +390,18 @@
       }
     },
     {
-      "id": "e1ca2354b2dc9935c6baf02ab11dcdab80386fae",
-      "company": "Anthropic",
-      "sourceKind": "official",
-      "sourceId": "anthropic-news",
-      "sourceLabel": "Anthropic News",
-      "homepageUrl": "https://www.anthropic.com/news",
-      "url": "https://www.anthropic.com/news/claude-corps",
-      "title": "Introducing Claude Corps We’re launching Claude Corps, a national fellowship program for people early in their careers who are passionate about extending the benefits of AI to communities across America.",
-      "summary": "",
-      "publishedAt": "2026-06-11T00:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "anchor",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "466887c600baf47edd17b7a45c2bfa9cd1430d90",
+      "id": "192be59ddacd6412f02c6f59a78cb071acb5c8cb",
       "company": "Meta",
       "sourceKind": "official",
       "sourceId": "meta-newsroom",
       "sourceLabel": "Meta Newsroom",
       "homepageUrl": "https://about.fb.com/news/",
-      "url": "https://about.fb.com/news/2026/05/introducing-business-ai-on-whatsapp-for-small-businesses-in-india",
-      "title": "Introducing Business AI on WhatsApp for Small Businesses in India",
-      "summary": "",
-      "publishedAt": null,
+      "url": "https://about.fb.com/news/2026/06/new-ai-tools-to-help-you-make-things-happen-on-facebook",
+      "title": "New AI Tools to Help You Make Things Happen on Facebook",
+      "summary": "We’re introducing new AI-powered Facebook features to help you connect, create, and find what you’re looking for. The post New AI Tools to Help You Make Things Happen on Facebook",
+      "publishedAt": "2026-06-15T16:00:23.000Z",
       "publisher": "",
-      "discoveryMethod": "anchor",
+      "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
         "score": 4,
@@ -504,17 +428,17 @@
       }
     },
     {
-      "id": "7c4b94700212d1c8b0dfd9cd7c25a641b9345964",
-      "company": "Meta",
+      "id": "a1bee36be47a20060d0e30fa77309dc370dca52d",
+      "company": "OpenAI",
       "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcTVZdFRfX3k3X3FtOGotVWk0YWxBcVFqRGRTTkkxVlloengwdzlSczZoOGc1Xy1hOEthc0xjU0x2U3RnZGQ2MEVtNGNQNTU5MU5OWU1VaHlsLTl6dFJKdTlrNDdtS21XMmRpRUQ5ODNVVW1MRW9BOWd5ZmRpQ2p3YlV1UHZkMVE?oc=5",
-      "title": "Richland Parish teachers get $50,000 bonuses from Meta's data center — while home prices nearly triple",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZUoyR01CMk9fc3gtVWhURmZvRlRlVmRJU2JDRjl1bDlrTkRza1lTX1g5QlhOZ3loUlB6cHVTZUkwdk96aE5wMEVudV9zaFJiNERMb0RMN3VOWFNDWG1IeUpfNnAzZUd6TWFhY0ZDRHV6NFV4Q2t6MEFwMWVlUng2ekFDS2E?oc=5",
+      "title": "OpenAI’s financials have leaked, showing $21 billion in losses against $13 billion in revenue",
       "summary": "",
-      "publishedAt": "2026-06-14T20:45:00.000Z",
-      "publisher": "Yahoo Finance Singapore",
+      "publishedAt": "2026-06-16T10:06:00.000Z",
+      "publisher": "Fortune",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -540,21 +464,97 @@
         "score": 3,
         "reason": "Trusted external coverage"
       }
-    }
-  ],
-  "newItems": [
+    },
     {
-      "id": "864ade9ee271e81142fb56c5284da4d3ec5ddcea",
+      "id": "c3975e24915a557477852298bee65a348b8017da",
       "company": "Google",
       "sourceKind": "external",
       "sourceId": "external-google-major",
       "sourceLabel": "Major External News - Google",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTkhUVHZVOTBIWFlWUkZPOE4yTV9VVWRSR0V6QjB4eENpUDRabWswS2g4d2t0R1I1UHltVlptZnJYc1g3WV9mYm9Qc3FEeWE4SC1oaGVuS3hXdmdiZy1nQmt5ZUFPdzUxdTYwMDNnNUs2MmJwZkVGb2RXUXBxUFNIRFJFelgyNjlqdmNSd3RmWFlDUU5SUjJZdWM5dkRyc0VDd3ZxVUg2bWNXMUVteS1qRQ?oc=5",
-      "title": "HSBC, Google AI Partnership Set to Add Over $100 Million Gains",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVUY3NTh1QmdLRmNLMTc1TElTRzVtSWh0ZWJkV3gyaUFDNEg2bGg5dHBVNHpwYWh4MXdYUnZkbTJfM1NHdWxuYWltUi1LenM4OEJNY1dUZDhPVmJGbkdQTXYyYmRNOW9pZUdGZ0RWSGtMYk9XbGtrN0pKRVRJMHhvSkxzLTF4WS1xWnB1bkEyOGJJTWhVSEpYcS1YVy10cGpuMXE2dWdycjBHaThUTzRaSjV5SGI5bXEx?oc=5",
+      "title": "A Google AI project delay may have hurt chip stocks. But data center buildout remains on track",
       "summary": "",
-      "publishedAt": "2026-06-17T00:52:00.000Z",
-      "publisher": "Bloomberg",
+      "publishedAt": "2026-06-12T16:04:04.000Z",
+      "publisher": "CNBC",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "5ccccd1bac3fd8d1574d9499250c769cac2a628a",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature",
+      "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
+      "summary": "Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management.",
+      "publishedAt": "2026-06-17T15:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Technical or research update"
+      }
+    },
+    {
+      "id": "1a8cd099cf1eaeb62d3609e3631aa9bdf0f19deb",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/ai-chemist-improves-reaction",
+      "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+      "summary": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
+      "publishedAt": "2026-06-17T10:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Technical or research update"
+      }
+    },
+    {
+      "id": "3a0b4572422c1a8cbc95ae7fb7158fc8dc49f9d0",
+      "company": "Anthropic",
+      "sourceKind": "official",
+      "sourceId": "anthropic-news",
+      "sourceLabel": "Anthropic News",
+      "homepageUrl": "https://www.anthropic.com/news",
+      "url": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy",
+      "title": "Responsible Scaling Policy",
+      "summary": "",
+      "publishedAt": null,
+      "publisher": "",
+      "discoveryMethod": "anchor",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Safety, security, or policy update"
+      }
+    }
+  ],
+  "newItems": [
+    {
+      "id": "c8f06a710006f181e633d29ead35531cdcfe789f",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUjU5REVCWFZmM0JMYlkyM3hyWll0cmdEMnZMajBGLVpVaHVGM1JmZWpnOEYwbHp6cjZHd2liUDBiUl94NHkyYzRGMTVkRXJ5MmxTaGpsX3kzMllObmNERjRsdzd0YnFCWFl2ZlZ4V0ZucTNjQ1pHYU9vWGFIcEZ5ZDR3cS14cURuVEE0aHhoMlVLbWNydWRCcUZoak9qZzhuSlMzU2o2RGxvMXlRRTBz?oc=5",
+      "title": "Microsoft, Amazon Cloud Services Face Tough EU Antitrust Law",
+      "summary": "",
+      "publishedAt": "2026-06-18T12:51:42.000Z",
+      "publisher": "Bloomberg.com",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -563,60 +563,117 @@
       }
     },
     {
-      "id": "4a68d0265e186d59f538f4773da3aa60bf31aecd",
-      "company": "Microsoft",
+      "id": "c22922a1097fd3c7e37a05ac7db2497cf9e00aa0",
+      "company": "OpenAI",
       "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TOVZnZHRwRjY1b2E0MUVUN3VJWk9ydG9zYTZVNVJUa3dkNWNET3IwZGpZdE8tR2FVMWtoLXd2U3FjV1NFWlJobktKSnpQTXYyczJxNGxQZVVLdw?oc=5",
-      "title": "S. Korea becomes 4th country to forge AI security alliance with OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOR0ZsUENkWHA5cGpWdGd2OFZyRlNUUFV0MTk3UjQ1cWJKNzB5SFNHS2laYXI0WDhRTXI2d0VmMjNUN3lLSl9wRW85Y2ZBcFV0LXVHSF93RldGWDRNeV9DT3c2RTkzdkJqejN0amplN21JSjZfdld4WTVrWGNpX3kxVF92cnR5LVhGU2ttTlc4RkU?oc=5",
+      "title": "SpaceX acquires Anthropic and OpenAI rival in $60B deal",
       "summary": "",
-      "publishedAt": "2026-06-17T02:49:31.000Z",
-      "publisher": "Yonhap News Agency",
+      "publishedAt": "2026-06-17T17:47:00.000Z",
+      "publisher": "Yahoo Finance Australia",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 5,
-        "reason": "Safety, security, or policy update"
+        "score": 7,
+        "reason": "Corporate move or major external event"
       }
     },
     {
-      "id": "6a1e7f2894c3810f814c3fd7c6db1fbf2ec5972a",
-      "company": "Anthropic",
-      "sourceKind": "official",
-      "sourceId": "anthropic-news",
-      "sourceLabel": "Anthropic News",
-      "homepageUrl": "https://www.anthropic.com/news",
-      "url": "https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem",
-      "title": "Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem",
-      "summary": "",
-      "publishedAt": "2026-06-17T00:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "anchor",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "b387731f4f83720dfe4394e2dac385ef5730d12b",
+      "id": "0088b66458750462eef8031a7d9cc39402b4ef89",
       "company": "OpenAI",
       "sourceKind": "official",
       "sourceId": "openai-newsroom",
       "sourceLabel": "OpenAI Newsroom",
       "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/deployment-simulation",
-      "title": "Predicting model behavior before release by simulating deployment",
-      "summary": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
-      "publishedAt": "2026-06-16T00:00:00.000Z",
+      "url": "https://openai.com/index/introducing-life-sci-bench",
+      "title": "Introducing LifeSciBench",
+      "summary": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.",
+      "publishedAt": "2026-06-17T00:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
         "score": 5,
         "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "3ff5b2bbb0ad065d8a974bf1bac9a44c62cf90bb",
+      "company": "Microsoft",
+      "sourceKind": "official",
+      "sourceId": "microsoft-ai",
+      "sourceLabel": "Microsoft AI",
+      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
+      "url": "https://news.microsoft.com/source/asia/2026/06/16/usyd-takes-cogniti-global",
+      "title": "Australian AI platform for educators drives global impact following launch on Microsoft’s global marketplace",
+      "summary": "Australian AI platform for educators drives global impact following launch on Microsoft’s global marketplace",
+      "publishedAt": "2026-06-16T23:49:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "53e43954b3f8829edd4a6b587b538127a0e2e86e",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdHJsbGszRVpXNzdlLTFDdEI2bTEwM2FIcmtaelg1UDNlUzNobFJLMXVaSS1zbThJejZFSGtKcjN2Q2V4YXdXWGxlSXVCbVFlRkI2bThxeE9TUjY5QmVvWnQxNFBnTXlsREJxMFNtWjRISV9ob0FaVjJZQUhRWDhpOU43WU9fNnQweUxpanZOVmZJdHk4VDJiUzM2UDItcW13SUlrbGNZTk1qRF9GZ1dLMXVUUkFIem04eVhUYW9LUXVXeW5ldU15SnVkMC1UZw?oc=5",
+      "title": "Big Tech-backed coalition for carbon removal increases funding by $915 million, adds Anthropic",
+      "summary": "",
+      "publishedAt": "2026-06-17T22:12:38.000Z",
+      "publisher": "Reuters",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "5ccccd1bac3fd8d1574d9499250c769cac2a628a",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature",
+      "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
+      "summary": "Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management.",
+      "publishedAt": "2026-06-17T15:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Technical or research update"
+      }
+    },
+    {
+      "id": "1a8cd099cf1eaeb62d3609e3631aa9bdf0f19deb",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/ai-chemist-improves-reaction",
+      "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+      "summary": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
+      "publishedAt": "2026-06-17T10:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Technical or research update"
       }
     }
   ],
