@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T15:15:17.735Z",
+  "generatedAt": "2026-06-19T15:09:11.830Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -76,12 +76,12 @@
     }
   ],
   "totals": {
-    "fetched": 36,
+    "fetched": 39,
     "deduped": 24,
-    "new": 7,
+    "new": 6,
     "byKind": {
-      "official": 15,
-      "external": 9
+      "official": 10,
+      "external": 14
     }
   },
   "items": [
@@ -138,7 +138,7 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 7,
+        "score": 6,
         "reason": "Corporate move or major external event"
       }
     },
@@ -162,63 +162,6 @@
       }
     },
     {
-      "id": "6a1e7f2894c3810f814c3fd7c6db1fbf2ec5972a",
-      "company": "Anthropic",
-      "sourceKind": "official",
-      "sourceId": "anthropic-news",
-      "sourceLabel": "Anthropic News",
-      "homepageUrl": "https://www.anthropic.com/news",
-      "url": "https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem",
-      "title": "Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem",
-      "summary": "",
-      "publishedAt": "2026-06-17T00:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "anchor",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "0088b66458750462eef8031a7d9cc39402b4ef89",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/introducing-life-sci-bench",
-      "title": "Introducing LifeSciBench",
-      "summary": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.",
-      "publishedAt": "2026-06-17T00:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "3ff5b2bbb0ad065d8a974bf1bac9a44c62cf90bb",
-      "company": "Microsoft",
-      "sourceKind": "official",
-      "sourceId": "microsoft-ai",
-      "sourceLabel": "Microsoft AI",
-      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
-      "url": "https://news.microsoft.com/source/asia/2026/06/16/usyd-takes-cogniti-global",
-      "title": "Australian AI platform for educators drives global impact following launch on Microsoft’s global marketplace",
-      "summary": "Australian AI platform for educators drives global impact following launch on Microsoft’s global marketplace",
-      "publishedAt": "2026-06-16T23:49:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
       "id": "8e877dc24aca55245b798809a1229c4583fae252",
       "company": "Google",
       "sourceKind": "official",
@@ -231,82 +174,6 @@
       "publishedAt": "2026-06-15T15:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "888bd1de6f406f7ac40c7e80760e4adf81cc22c4",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/introducing-openai-partner-network",
-      "title": "Introducing the OpenAI Partner Network",
-      "summary": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
-      "publishedAt": "2026-06-14T17:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "ae2bea9b25f37e843f6c56d2cd5d1705a86833d4",
-      "company": "Meta",
-      "sourceKind": "official",
-      "sourceId": "meta-newsroom",
-      "sourceLabel": "Meta Newsroom",
-      "homepageUrl": "https://about.fb.com/news/",
-      "url": "https://about.fb.com/news/2026/06/free-ai-glasses-for-every-blind-veteran",
-      "title": "The Future Is for Everyone: Free AI Glasses for Every Blind Veteran in America",
-      "summary": "We're donating Ray-Ban Meta glasses to every blind veteran in America, giving them transformative AI technology. The post The Future Is for Everyone: Free AI Glasses for Every Blind Veteran in America",
-      "publishedAt": "2026-06-12T12:33:26.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "c0e7934cf8e163718804496db5a853c96f5130d6",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/technology/safety-security/combatting-ai-scams",
-      "title": "How we're combatting AI scams with security, legislation and more",
-      "summary": "Learn how Google is fighting scammers on all fronts with industry-leading security, lawsuits and law enforcement and industry partners.",
-      "publishedAt": "2026-06-12T09:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "c63ebd83a0f1aeb21999c31a8230735e0c5a5e98",
-      "company": "Anthropic",
-      "sourceKind": "official",
-      "sourceId": "anthropic-news",
-      "sourceLabel": "Anthropic News",
-      "homepageUrl": "https://www.anthropic.com/news",
-      "url": "https://www.anthropic.com/news/tcs-anthropic-partnership",
-      "title": "TCS and Anthropic partner to bring Claude to regulated industries",
-      "summary": "",
-      "publishedAt": "2026-06-12T00:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "anchor",
       "classification": {
         "bucket": "critical",
         "score": 5,
@@ -333,6 +200,63 @@
       }
     },
     {
+      "id": "07e14eb01f19663877fa77a48bbb2c0a4c94f898",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNY2hGMmJVYWZybndVbUpRZWtXdzlOdlpWQmZWTjd1Z1RIT3JLZEc5aFJSLXNjR0xVeXlybzFrTGpDclZOV043cEtkR1RaOGtDYzhrNWVaQmdTeFctUmtsV2NDcnBNNDZiLVJITHF2RDg0V0RTQlc4dGIxMEJrdUlUb0Ztd0RVeF9NWXJyVEZmMy05UkF5QVpzTTBqbVJKSVIwaXNFbnpsMGNtS3FzdVRnWEFnYWVlQjZpR1Vrc1pEZw?oc=5",
+      "title": "Meta signs new AI computing deals with data center firm Crusoe, Bloomberg News reports",
+      "summary": "",
+      "publishedAt": "2026-06-18T21:27:56.000Z",
+      "publisher": "Reuters",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "86cbec850396b313883e3ca5c54e1fb9ee83b55b",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMkVNUTk2aWYyQk1wLWlUengxWHg4M1g1ZmdBZTcwSkN6cHlxQmpmNkhwTjhFYXZwZldrOXlYMDU0YkFXYVdTNzdsUUR1VnRQbEdjSC1PSjZPbV9DTGVfOG5CdWF5ZnNDSmlWSTRBZk5zZ0tjVzFrNHVlQkdxTjBGRldQb1BNdkRNVUloR0dZLWlmMnJJSDJ1VUpiaEVPQTlJNnE1R1RycjViNFZ2QzlTdmpDbjVWZw?oc=5",
+      "title": "Meta Strikes New AI Computing Deals With Data Center Firm Crusoe",
+      "summary": "",
+      "publishedAt": "2026-06-18T20:13:46.000Z",
+      "publisher": "Bloomberg.com",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "af590c7e2e8ea2e7fb373b694208922928cf024a",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaVFiQlF1aDNqN3EtSkF4YzB1WEhvdVBVbWNvZV9JSUtUMkcxSUNNM1BMT2puMjVrQjBFZ2Q4M19wTTdfUlF6Y2p5N01jbGhwRkJpRWJQMXo0SVptaEVjMnVjMDlPWTF5VW5FNi1hWmpnMDl1UGNhQ3lhbXhKLV95cVlUR0VRVWtYZkF0dWpNeG8?oc=5",
+      "title": "Louisiana teachers could see life-changing bonuses from Meta data center project as residents debate trade-offs",
+      "summary": "",
+      "publishedAt": "2026-06-18T00:44:00.000Z",
+      "publisher": "Yahoo",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
       "id": "53e43954b3f8829edd4a6b587b538127a0e2e86e",
       "company": "Anthropic",
       "sourceKind": "external",
@@ -352,6 +276,25 @@
       }
     },
     {
+      "id": "4a68d0265e186d59f538f4773da3aa60bf31aecd",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TOVZnZHRwRjY1b2E0MUVUN3VJWk9ydG9zYTZVNVJUa3dkNWNET3IwZGpZdE8tR2FVMWtoLXd2U3FjV1NFWlJobktKSnpQTXYyczJxNGxQZVVLdw?oc=5",
+      "title": "S. Korea becomes 4th country to forge AI security alliance with OpenAI",
+      "summary": "",
+      "publishedAt": "2026-06-17T02:49:31.000Z",
+      "publisher": "Yonhap News Agency",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
       "id": "4187f99a7b09a75e0cdee72eaaaaf5d8c21f1b16",
       "company": "Anthropic",
       "sourceKind": "external",
@@ -368,6 +311,63 @@
         "bucket": "important",
         "score": 4,
         "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "6a1e7f2894c3810f814c3fd7c6db1fbf2ec5972a",
+      "company": "Anthropic",
+      "sourceKind": "official",
+      "sourceId": "anthropic-news",
+      "sourceLabel": "Anthropic News",
+      "homepageUrl": "https://www.anthropic.com/news",
+      "url": "https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem",
+      "title": "Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem",
+      "summary": "",
+      "publishedAt": "2026-06-17T00:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "anchor",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "0088b66458750462eef8031a7d9cc39402b4ef89",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/introducing-life-sci-bench",
+      "title": "Introducing LifeSciBench",
+      "summary": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.",
+      "publishedAt": "2026-06-17T00:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "3ff5b2bbb0ad065d8a974bf1bac9a44c62cf90bb",
+      "company": "Microsoft",
+      "sourceKind": "official",
+      "sourceId": "microsoft-ai",
+      "sourceLabel": "Microsoft AI",
+      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
+      "url": "https://news.microsoft.com/source/asia/2026/06/16/usyd-takes-cogniti-global",
+      "title": "Australian AI platform for educators drives global impact following launch on Microsoft’s global marketplace",
+      "summary": "Australian AI platform for educators drives global impact following launch on Microsoft’s global marketplace",
+      "publishedAt": "2026-06-16T23:49:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Flagship model or product launch"
       }
     },
     {
@@ -428,11 +428,30 @@
       }
     },
     {
-      "id": "a1bee36be47a20060d0e30fa77309dc370dca52d",
-      "company": "OpenAI",
+      "id": "fd0e5a7b9f8cdca85969531d35298c6dd8cefff7",
+      "company": "Microsoft",
       "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaUgyOXptSWFSQnB6X2piVmtGbDZuX0h5UGY1bThuWHRaeG5RTGpLSjJtczY0a2Y1NHFqR29Hay1sM0VXMXYzNXlqRGpTWnQzNF9lc2t2UDY0a2RPMWtzbzc1cW10WkZaWVZCTXRGR3FLNGVjWkxiT296QkpneGU3amt5blRrTWgxenJnVDg3RTc1UW9kaDhVeVNJZDROcThFS3NlNDJrSXlUV001RnJheExYMGFDbVNRNzRGWXNRcw?oc=5",
+      "title": "Oracle says details in report of failed Microsoft cloud deal talks 'inaccurate'",
+      "summary": "",
+      "publishedAt": "2026-06-16T22:09:41.000Z",
+      "publisher": "Reuters",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "a1bee36be47a20060d0e30fa77309dc370dca52d",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
       "homepageUrl": "https://news.google.com/",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZUoyR01CMk9fc3gtVWhURmZvRlRlVmRJU2JDRjl1bDlrTkRza1lTX1g5QlhOZ3loUlB6cHVTZUkwdk96aE5wMEVudV9zaFJiNERMb0RMN3VOWFNDWG1IeUpfNnAzZUd6TWFhY0ZDRHV6NFV4Q2t6MEFwMWVlUng2ekFDS2E?oc=5",
       "title": "OpenAI’s financials have leaked, showing $21 billion in losses against $13 billion in revenue",
@@ -447,17 +466,17 @@
       }
     },
     {
-      "id": "6e7e57659a97c582237cd469cac2a2f113a3fb3c",
+      "id": "678e41ed4deb8ea73c71e546b4ef374fd3e7bfc0",
       "company": "Meta",
       "sourceKind": "external",
       "sourceId": "external-meta-major",
       "sourceLabel": "Major External News - Meta",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVmpjek5CR3dXVGRhSFBtYmRiOTYxV0JNeXpyWUVKTmpWcjBBTzQyN1poSi0wYjRBTV8xNHJYV2VMTUViSl9WTjgzNlZnZTJIZVNQYUdQNTQ4OWR3NXFiVzQ4YW93bWFpRnJfSDNLODVma09HTUpfQ2YzMFZNU1BRS1ppa3l1ZHo0NjdBMEJlUQ?oc=5",
-      "title": "AMD Meta AI Chip Pact Puts Data Center Growth And Valuation In Focus",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYV92MGFwWDQwc0Yyd2lObHY0NVVCVHl3aW1HWFNBREFOUVhRdXJua083N3FwcDhIbjFwNFhDRVhCcTlWWndVbXVxTGVhYXNGcFBvNGpKdnd4Y0RmeEpRb3Z3RXZ2SXNHczlfb0hhaEdBRkpKQ1ptUURIeTJSMXZYeG1NY3ByRnc?oc=5",
+      "title": "Richland Parish teachers get $50,000 bonuses from Meta's data center — while home prices nearly triple",
       "summary": "",
-      "publishedAt": "2026-06-14T03:09:00.000Z",
-      "publisher": "Yahoo Finance",
+      "publishedAt": "2026-06-14T20:45:00.000Z",
+      "publisher": "Yahoo Finance UK",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -485,44 +504,6 @@
       }
     },
     {
-      "id": "5ccccd1bac3fd8d1574d9499250c769cac2a628a",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature",
-      "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
-      "summary": "Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management.",
-      "publishedAt": "2026-06-17T15:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Technical or research update"
-      }
-    },
-    {
-      "id": "1a8cd099cf1eaeb62d3609e3631aa9bdf0f19deb",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/ai-chemist-improves-reaction",
-      "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
-      "summary": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
-      "publishedAt": "2026-06-17T10:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Technical or research update"
-      }
-    },
-    {
       "id": "3a0b4572422c1a8cbc95ae7fb7158fc8dc49f9d0",
       "company": "Anthropic",
       "sourceKind": "official",
@@ -540,96 +521,39 @@
         "score": 3,
         "reason": "Safety, security, or policy update"
       }
-    }
-  ],
-  "newItems": [
-    {
-      "id": "c8f06a710006f181e633d29ead35531cdcfe789f",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUjU5REVCWFZmM0JMYlkyM3hyWll0cmdEMnZMajBGLVpVaHVGM1JmZWpnOEYwbHp6cjZHd2liUDBiUl94NHkyYzRGMTVkRXJ5MmxTaGpsX3kzMllObmNERjRsdzd0YnFCWFl2ZlZ4V0ZucTNjQ1pHYU9vWGFIcEZ5ZDR3cS14cURuVEE0aHhoMlVLbWNydWRCcUZoak9qZzhuSlMzU2o2RGxvMXlRRTBz?oc=5",
-      "title": "Microsoft, Amazon Cloud Services Face Tough EU Antitrust Law",
-      "summary": "",
-      "publishedAt": "2026-06-18T12:51:42.000Z",
-      "publisher": "Bloomberg.com",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
     },
     {
-      "id": "c22922a1097fd3c7e37a05ac7db2497cf9e00aa0",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOR0ZsUENkWHA5cGpWdGd2OFZyRlNUUFV0MTk3UjQ1cWJKNzB5SFNHS2laYXI0WDhRTXI2d0VmMjNUN3lLSl9wRW85Y2ZBcFV0LXVHSF93RldGWDRNeV9DT3c2RTkzdkJqejN0amplN21JSjZfdld4WTVrWGNpX3kxVF92cnR5LVhGU2ttTlc4RkU?oc=5",
-      "title": "SpaceX acquires Anthropic and OpenAI rival in $60B deal",
-      "summary": "",
-      "publishedAt": "2026-06-17T17:47:00.000Z",
-      "publisher": "Yahoo Finance Australia",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "0088b66458750462eef8031a7d9cc39402b4ef89",
+      "id": "217d8a1a56f1c727215c9735021178e79bd82d96",
       "company": "OpenAI",
       "sourceKind": "official",
       "sourceId": "openai-newsroom",
       "sourceLabel": "OpenAI Newsroom",
       "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/introducing-life-sci-bench",
-      "title": "Introducing LifeSciBench",
-      "summary": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.",
-      "publishedAt": "2026-06-17T00:00:00.000Z",
+      "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+      "title": "New usage analytics and updated spend controls for enterprises",
+      "summary": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
+      "publishedAt": "2026-06-18T17:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Flagship model or product launch"
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
       }
-    },
+    }
+  ],
+  "newItems": [
     {
-      "id": "3ff5b2bbb0ad065d8a974bf1bac9a44c62cf90bb",
-      "company": "Microsoft",
-      "sourceKind": "official",
-      "sourceId": "microsoft-ai",
-      "sourceLabel": "Microsoft AI",
-      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
-      "url": "https://news.microsoft.com/source/asia/2026/06/16/usyd-takes-cogniti-global",
-      "title": "Australian AI platform for educators drives global impact following launch on Microsoft’s global marketplace",
-      "summary": "Australian AI platform for educators drives global impact following launch on Microsoft’s global marketplace",
-      "publishedAt": "2026-06-16T23:49:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "53e43954b3f8829edd4a6b587b538127a0e2e86e",
-      "company": "Anthropic",
+      "id": "07e14eb01f19663877fa77a48bbb2c0a4c94f898",
+      "company": "Meta",
       "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdHJsbGszRVpXNzdlLTFDdEI2bTEwM2FIcmtaelg1UDNlUzNobFJLMXVaSS1zbThJejZFSGtKcjN2Q2V4YXdXWGxlSXVCbVFlRkI2bThxeE9TUjY5QmVvWnQxNFBnTXlsREJxMFNtWjRISV9ob0FaVjJZQUhRWDhpOU43WU9fNnQweUxpanZOVmZJdHk4VDJiUzM2UDItcW13SUlrbGNZTk1qRF9GZ1dLMXVUUkFIem04eVhUYW9LUXVXeW5ldU15SnVkMC1UZw?oc=5",
-      "title": "Big Tech-backed coalition for carbon removal increases funding by $915 million, adds Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNY2hGMmJVYWZybndVbUpRZWtXdzlOdlpWQmZWTjd1Z1RIT3JLZEc5aFJSLXNjR0xVeXlybzFrTGpDclZOV043cEtkR1RaOGtDYzhrNWVaQmdTeFctUmtsV2NDcnBNNDZiLVJITHF2RDg0V0RTQlc4dGIxMEJrdUlUb0Ztd0RVeF9NWXJyVEZmMy05UkF5QVpzTTBqbVJKSVIwaXNFbnpsMGNtS3FzdVRnWEFnYWVlQjZpR1Vrc1pEZw?oc=5",
+      "title": "Meta signs new AI computing deals with data center firm Crusoe, Bloomberg News reports",
       "summary": "",
-      "publishedAt": "2026-06-17T22:12:38.000Z",
+      "publishedAt": "2026-06-18T21:27:56.000Z",
       "publisher": "Reuters",
       "discoveryMethod": "feed",
       "classification": {
@@ -639,41 +563,98 @@
       }
     },
     {
-      "id": "5ccccd1bac3fd8d1574d9499250c769cac2a628a",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature",
-      "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
-      "summary": "Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management.",
-      "publishedAt": "2026-06-17T15:00:00.000Z",
-      "publisher": "",
+      "id": "86cbec850396b313883e3ca5c54e1fb9ee83b55b",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMkVNUTk2aWYyQk1wLWlUengxWHg4M1g1ZmdBZTcwSkN6cHlxQmpmNkhwTjhFYXZwZldrOXlYMDU0YkFXYVdTNzdsUUR1VnRQbEdjSC1PSjZPbV9DTGVfOG5CdWF5ZnNDSmlWSTRBZk5zZ0tjVzFrNHVlQkdxTjBGRldQb1BNdkRNVUloR0dZLWlmMnJJSDJ1VUpiaEVPQTlJNnE1R1RycjViNFZ2QzlTdmpDbjVWZw?oc=5",
+      "title": "Meta Strikes New AI Computing Deals With Data Center Firm Crusoe",
+      "summary": "",
+      "publishedAt": "2026-06-18T20:13:46.000Z",
+      "publisher": "Bloomberg.com",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "af590c7e2e8ea2e7fb373b694208922928cf024a",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaVFiQlF1aDNqN3EtSkF4YzB1WEhvdVBVbWNvZV9JSUtUMkcxSUNNM1BMT2puMjVrQjBFZ2Q4M19wTTdfUlF6Y2p5N01jbGhwRkJpRWJQMXo0SVptaEVjMnVjMDlPWTF5VW5FNi1hWmpnMDl1UGNhQ3lhbXhKLV95cVlUR0VRVWtYZkF0dWpNeG8?oc=5",
+      "title": "Louisiana teachers could see life-changing bonuses from Meta data center project as residents debate trade-offs",
+      "summary": "",
+      "publishedAt": "2026-06-18T00:44:00.000Z",
+      "publisher": "Yahoo",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "fd0e5a7b9f8cdca85969531d35298c6dd8cefff7",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaUgyOXptSWFSQnB6X2piVmtGbDZuX0h5UGY1bThuWHRaeG5RTGpLSjJtczY0a2Y1NHFqR29Hay1sM0VXMXYzNXlqRGpTWnQzNF9lc2t2UDY0a2RPMWtzbzc1cW10WkZaWVZCTXRGR3FLNGVjWkxiT296QkpneGU3amt5blRrTWgxenJnVDg3RTc1UW9kaDhVeVNJZDROcThFS3NlNDJrSXlUV001RnJheExYMGFDbVNRNzRGWXNRcw?oc=5",
+      "title": "Oracle says details in report of failed Microsoft cloud deal talks 'inaccurate'",
+      "summary": "",
+      "publishedAt": "2026-06-16T22:09:41.000Z",
+      "publisher": "Reuters",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
         "score": 3,
-        "reason": "Technical or research update"
+        "reason": "Trusted external coverage"
       }
     },
     {
-      "id": "1a8cd099cf1eaeb62d3609e3631aa9bdf0f19deb",
+      "id": "678e41ed4deb8ea73c71e546b4ef374fd3e7bfc0",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYV92MGFwWDQwc0Yyd2lObHY0NVVCVHl3aW1HWFNBREFOUVhRdXJua083N3FwcDhIbjFwNFhDRVhCcTlWWndVbXVxTGVhYXNGcFBvNGpKdnd4Y0RmeEpRb3Z3RXZ2SXNHczlfb0hhaEdBRkpKQ1ptUURIeTJSMXZYeG1NY3ByRnc?oc=5",
+      "title": "Richland Parish teachers get $50,000 bonuses from Meta's data center — while home prices nearly triple",
+      "summary": "",
+      "publishedAt": "2026-06-14T20:45:00.000Z",
+      "publisher": "Yahoo Finance UK",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "217d8a1a56f1c727215c9735021178e79bd82d96",
       "company": "OpenAI",
       "sourceKind": "official",
       "sourceId": "openai-newsroom",
       "sourceLabel": "OpenAI Newsroom",
       "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/ai-chemist-improves-reaction",
-      "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
-      "summary": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
-      "publishedAt": "2026-06-17T10:00:00.000Z",
+      "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+      "title": "New usage analytics and updated spend controls for enterprises",
+      "summary": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
+      "publishedAt": "2026-06-18T17:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Technical or research update"
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
       }
     }
   ],
