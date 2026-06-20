@@ -1,56 +1,56 @@
 # AI Company Watch
 
-Generated: Jun 19, 2026, 8:09 AM PDT
+Generated: Jun 20, 2026, 7:53 AM PDT
 Lookback window: 7 day(s)
 Sources checked: 12
-Items fetched: 39
+Items fetched: 38
 Items kept: 24
 New items: 6
-External items kept: 14
-Official items kept: 10
+External items kept: 13
+Official items kept: 11
+
+## Critical External News
+
+### Microsoft - Y Combinator, Microsoft (MSFT) Expand Partnership to Provide Startups Deeper Access to Azure and Foundry
+Source: Major External News - Microsoft
+Publisher: Yahoo Finance
+Published: Jun 19, 2026
+Why it matters: Corporate move or major external event
+Link: https://news.google.com/rss/articles/CBMinwFBVV95cUxPN3QyMmVJWTJtZVYtTGlZMVNPOXFCdnEzMVBoNC1ESFpKVTRxYlg4eEFUQUMxejFLU29NM2FURm9xdEY2Ukt2MkZDR24xT0o5dld1UFNkVTJERkRTUnlFTmJTSmszRC15T25pZjAyWkhlZXo4S3pfa2VQckhTNF9mM2Y2Y0FUNnNsTkJxTTNHSWVPXzA4Z1c1cllzVEhmYVk?oc=5
+
+### Anthropic - Exclusive: Trump tells "The Axios Show" that Anthropic was a national security threat
+Source: Major External News - Anthropic
+Publisher: Axios
+Published: Jun 19, 2026
+Why it matters: Safety, security, or policy update
+Link: https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQlpxMEdaWUgyVGRQc2VUY2ZPajRndVU0UGxEcFBtaGlOM0NRU2ZLdFJfamhLUVVuRHNCaFlxS2JXdVlZZ2xYS0E1enJzaUR5M0JrQk50Wm84NTJ6cFR6eW9rTy1ndlJXaFBQRnVwbElySHJYWXRBUEZwTTY2LUlsdVpQNUpCb2FW?oc=5
+
+### Anthropic - Trump tells Axios he no longer views Anthropic as national security threat
+Source: Major External News - Anthropic
+Publisher: Reuters
+Published: Jun 19, 2026
+Why it matters: Safety, security, or policy update
+Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxPRzlsZDZoSlNFS3NKdk1pblgwRGRDNzMwNXRmZjJzR1M1SmlBMWU1aWY1cFoxSG5uQkpib1VyZ29mdC1lSWNfdHBTVGxJeXZkc2Y2bUUzUktqd0ZjSEdxTHJMTy1ZWHExQ3dnT1NBMlA2dzJCc0hwSjEzdE83UHA5eTE1anFqeERoM3lQeTIzZ2EwVzIzYzE0Rmtrbm96elZCa01rYTJ2dDh4b3VoWmhNNE9PZklzRE0?oc=5
+
+### Anthropic - Trump Tells Axios He Doesn’t See Anthropic as US Security Threat
+Source: Major External News - Anthropic
+Publisher: Bloomberg.com
+Published: Jun 19, 2026
+Why it matters: Safety, security, or policy update
+Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxNa2JZRG5wY0g4WGZmOFZ3cGJuck5qUURoU3c3REUxN3p3MlVtNjJ4bzlnaTdOYWxCel83VTBqLVYwMjIyNE53VnZaMDNKbHRaZ1QwcWlqekdSRFpvc2dnYndxR2RMWlN2V3dNQTN3QWJOLWxYLU96eC10OHkxX0lKekVaTXFhUG1UZERXblRNTExST3NfQWQ2dExLOXVvNGt1UllZMkZkaTlBNksyV05POUpxUEkyQQ?oc=5
 
 ## Important External News
 
-### Meta - Meta signs new AI computing deals with data center firm Crusoe, Bloomberg News reports
-Source: Major External News - Meta
-Publisher: Reuters
-Published: Jun 18, 2026
-Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMivwFBVV95cUxNY2hGMmJVYWZybndVbUpRZWtXdzlOdlpWQmZWTjd1Z1RIT3JLZEc5aFJSLXNjR0xVeXlybzFrTGpDclZOV043cEtkR1RaOGtDYzhrNWVaQmdTeFctUmtsV2NDcnBNNDZiLVJITHF2RDg0V0RTQlc4dGIxMEJrdUlUb0Ztd0RVeF9NWXJyVEZmMy05UkF5QVpzTTBqbVJKSVIwaXNFbnpsMGNtS3FzdVRnWEFnYWVlQjZpR1Vrc1pEZw?oc=5
-
-### Meta - Meta Strikes New AI Computing Deals With Data Center Firm Crusoe
-Source: Major External News - Meta
-Publisher: Bloomberg.com
-Published: Jun 18, 2026
-Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxOMkVNUTk2aWYyQk1wLWlUengxWHg4M1g1ZmdBZTcwSkN6cHlxQmpmNkhwTjhFYXZwZldrOXlYMDU0YkFXYVdTNzdsUUR1VnRQbEdjSC1PSjZPbV9DTGVfOG5CdWF5ZnNDSmlWSTRBZk5zZ0tjVzFrNHVlQkdxTjBGRldQb1BNdkRNVUloR0dZLWlmMnJJSDJ1VUpiaEVPQTlJNnE1R1RycjViNFZ2QzlTdmpDbjVWZw?oc=5
-
-### Meta - Louisiana teachers could see life-changing bonuses from Meta data center project as residents debate trade-offs
-Source: Major External News - Meta
-Publisher: Yahoo
-Published: Jun 17, 2026
-Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMikAFBVV95cUxPaVFiQlF1aDNqN3EtSkF4YzB1WEhvdVBVbWNvZV9JSUtUMkcxSUNNM1BMT2puMjVrQjBFZ2Q4M19wTTdfUlF6Y2p5N01jbGhwRkJpRWJQMXo0SVptaEVjMnVjMDlPWTF5VW5FNi1hWmpnMDl1UGNhQ3lhbXhKLV95cVlUR0VRVWtYZkF0dWpNeG8?oc=5
-
-### Microsoft - Oracle says details in report of failed Microsoft cloud deal talks 'inaccurate'
+### Microsoft - Oracle (ORCL) And Microsoft Cloud Deal Reportedly Fell Apart Over Security Rules
 Source: Major External News - Microsoft
-Publisher: Reuters
-Published: Jun 16, 2026
-Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMivwFBVV95cUxQaUgyOXptSWFSQnB6X2piVmtGbDZuX0h5UGY1bThuWHRaeG5RTGpLSjJtczY0a2Y1NHFqR29Hay1sM0VXMXYzNXlqRGpTWnQzNF9lc2t2UDY0a2RPMWtzbzc1cW10WkZaWVZCTXRGR3FLNGVjWkxiT296QkpneGU3amt5blRrTWgxenJnVDg3RTc1UW9kaDhVeVNJZDROcThFS3NlNDJrSXlUV001RnJheExYMGFDbVNRNzRGWXNRcw?oc=5
+Publisher: Yahoo Finance
+Published: Jun 18, 2026
+Why it matters: Safety, security, or policy update
+Link: https://news.google.com/rss/articles/CBMingFBVV95cUxPVTBwTE80RVBYd0ItQkZSN2liTGR6LUJLbXpHSXZ5OEd4czNqM011cnVHeXhwTW5VQ0FGdzljZVdKU0UyNVkzenkyMXd1Z2xMWWFxYTItRlJhWC1uQUo5S3FRRkY1d1BIYlZsUXpnUEJnRXpMTTZ0WnRfTUd3MGkzdGU2bVpPbXl6dHZVNE82WXI0bUtySmdhNmVndTJ3dw?oc=5
 
 ### Meta - Richland Parish teachers get $50,000 bonuses from Meta's data center — while home prices nearly triple
 Source: Major External News - Meta
-Publisher: Yahoo Finance UK
+Publisher: Yahoo Finance
 Published: Jun 14, 2026
 Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMihwFBVV95cUxPYV92MGFwWDQwc0Yyd2lObHY0NVVCVHl3aW1HWFNBREFOUVhRdXJua083N3FwcDhIbjFwNFhDRVhCcTlWWndVbXVxTGVhYXNGcFBvNGpKdnd4Y0RmeEpRb3Z3RXZ2SXNHczlfb0hhaEdBRkpKQ1ptUURIeTJSMXZYeG1NY3ByRnc?oc=5
-
-## Official Company Updates
-
-### OpenAI - New usage analytics and updated spend controls for enterprises
-Source: OpenAI Newsroom
-Published: Jun 18, 2026
-Why it matters: Routine official update
-Summary: OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.
-Link: https://openai.com/index/chatgpt-enterprise-spend-controls
+Link: https://news.google.com/rss/articles/CBMinAFBVV95cUxQY1loU0l2OU56QW1uMS1jTzNXemdiRjZCc1FxT3Q2QlhYc1l6TDlKcE5ENzVMc2Nmd3JnR2oyQnA0R2c5d1h2UnpTM0hUVnBIY3ozSFpFNDJWM0kzSk1PR0wxQWl5UnZqbnA5R25jTC0yNkZFVlhjQWRhaUlaYUFBX2pVbVJQTDFnU2QtdzJmYXZ0T1Q1Q1RzbFM3cTQ?oc=5
