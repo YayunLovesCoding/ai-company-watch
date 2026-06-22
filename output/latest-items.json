@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-21T14:54:34.249Z",
+  "generatedAt": "2026-06-22T15:47:46.255Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -76,15 +76,34 @@
     }
   ],
   "totals": {
-    "fetched": 30,
+    "fetched": 32,
     "deduped": 24,
-    "new": 4,
+    "new": 5,
     "byKind": {
-      "official": 18,
-      "external": 6
+      "official": 16,
+      "external": 8
     }
   },
   "items": [
+    {
+      "id": "ea469c009ccdf555f8c3eaf43a21575a441f569d",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPU1p3eXMzVFVHaDVCcjhidlgyMnN3YU9UV19FeXMxODc2ZFM5dlhqcWZFR3dkYzRnYWVXeXBTc3lRMW1Cc205M3czTGpURXdqNVAwWkdXUW8wTTlGWUYzakl2ZGhfLUo3Z09HRm1ZblFqSVIwZE9aYW1QMTVkNzBIVUhsZlkwRGltTFBOa2lEb1ByU3hackE?oc=5",
+      "title": "Micron announces new Anthropic partnership ahead of Q3 earnings",
+      "summary": "",
+      "publishedAt": "2026-06-22T15:20:00.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
     {
       "id": "ad4c35a9cf9c5148db329c52e97330b23b28042a",
       "company": "Microsoft",
@@ -100,83 +119,26 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "864ade9ee271e81142fb56c5284da4d3ec5ddcea",
-      "company": "Google",
-      "sourceKind": "external",
-      "sourceId": "external-google-major",
-      "sourceLabel": "Major External News - Google",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTkhUVHZVOTBIWFlWUkZPOE4yTV9VVWRSR0V6QjB4eENpUDRabWswS2g4d2t0R1I1UHltVlptZnJYc1g3WV9mYm9Qc3FEeWE4SC1oaGVuS3hXdmdiZy1nQmt5ZUFPdzUxdTYwMDNnNUs2MmJwZkVGb2RXUXBxUFNIRFJFelgyNjlqdmNSd3RmWFlDUU5SUjJZdWM5dkRyc0VDd3ZxVUg2bWNXMUVteS1qRQ?oc=5",
-      "title": "HSBC, Google AI Partnership Set to Add Over $100 Million Gains",
-      "summary": "",
-      "publishedAt": "2026-06-17T00:52:00.000Z",
-      "publisher": "Bloomberg.com",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
         "score": 6,
         "reason": "Corporate move or major external event"
       }
     },
     {
-      "id": "b578275c1861e8df1593f3a460e23d96ec1ed36a",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRzlsZDZoSlNFS3NKdk1pblgwRGRDNzMwNXRmZjJzR1M1SmlBMWU1aWY1cFoxSG5uQkpib1VyZ29mdC1lSWNfdHBTVGxJeXZkc2Y2bUUzUktqd0ZjSEdxTHJMTy1ZWHExQ3dnT1NBMlA2dzJCc0hwSjEzdE83UHA5eTE1anFqeERoM3lQeTIzZ2EwVzIzYzE0Rmtrbm96elZCa01rYTJ2dDh4b3VoWmhNNE9PZklzRE0?oc=5",
-      "title": "Trump tells Axios he no longer views Anthropic as national security threat",
-      "summary": "",
-      "publishedAt": "2026-06-21T04:11:44.000Z",
-      "publisher": "Reuters",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "10d584889e579c7c175eee4fb8cc7f3901b359b8",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQlpxMEdaWUgyVGRQc2VUY2ZPajRndVU0UGxEcFBtaGlOM0NRU2ZLdFJfamhLUVVuRHNCaFlxS2JXdVlZZ2xYS0E1enJzaUR5M0JrQk50Wm84NTJ6cFR6eW9rTy1ndlJXaFBQRnVwbElySHJYWXRBUEZwTTY2LUlsdVpQNUpCb2FW?oc=5",
-      "title": "Exclusive: Trump tells \"The Axios Show\" that Anthropic was a national security threat",
-      "summary": "",
-      "publishedAt": "2026-06-20T06:02:38.000Z",
-      "publisher": "Axios",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "8e877dc24aca55245b798809a1229c4583fae252",
+      "id": "ea69a85984bf042e18cea8cf60760f8f440211d2",
       "company": "Google",
       "sourceKind": "official",
       "sourceId": "google-ai",
       "sourceLabel": "Google AI",
       "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026",
-      "title": "We’re strengthening our presence in Alabama through new investments and community support.",
-      "summary": "Google has announced a $1.5 billion investment for 2026 and 2027 to expand its data center campus in Jackson County, Alabama. Operating since 2019 on a repurposed former…",
-      "publishedAt": "2026-06-15T15:00:00.000Z",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/deepmind-a24-research-partnership",
+      "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
+      "summary": "Today, Google DeepMind and A24 are announcing a first-of-its-kind partnership focused on research. The collaboration pairs a world-leading research lab with the industry…",
+      "publishedAt": "2026-06-22T14:30:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 5,
+        "score": 6,
         "reason": "Corporate move or major external event"
       }
     },
@@ -200,17 +162,17 @@
       }
     },
     {
-      "id": "6384c9b7179ebeeec6bd779f7f8910189c87d401",
-      "company": "Anthropic",
+      "id": "d4224beec3238823c6779d3c562c2d4f1d4b578d",
+      "company": "Microsoft",
       "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNLUd5d0U4YnQ4U3B3Q0d1cGdzbGs1Vm9PUE5mTHFCVHNoOEx6ZE9jckVSVjZ0a2NKc1hwOF9vblVob2h4Wmtyb1BJSHFJVnYzMHExZjl0dUhfd2VnYzNTcDZpMnFsODY3VzZEc2V4SDdaSUNHSURjRkM5bndwU2xmR3J1b3BxY1N2eU1wYTN6ZmJ2THpzVGhGNEF4VQ?oc=5",
-      "title": "Ubisoft's co-founder Claude Guillemot dies in plane crash",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNXV3WDNkY0tpSjlfQnUtbGN4SHRZTVZZTndPMVY5NmJ0NGZCYmotak1XREN1Qmc5SkhXZjJmcU5uWGg1dVlZZlc0Q3VzZFc5N3FlUDhfQ2hMbHhTZ2Zfb2RLdkEwOHhicmt4cWg2RHpfMGhreFU3eVJXX21ETGN2VDJuWHBIY2d5bklwM3hWRTbSAZYBQVVfeXFMTjdJcE9TVk8zcW9nMzdTLTJYTlpCSW9Hcmo0eV9WaDRlX0thLVJHMmR4Y0xWOGZFdTZ0Ri1qaWs0emtUWFNpWS1zT0xkNlRlOFpjbkJkczBtdTE2aW9oUzVtM1pYOHlQd2gtQzVwTlUxaHF6VzV3bWxTdnljVE1ZaWRpTC1JMGNpME5oeUVzOFRlYTAxTXFB?oc=5",
+      "title": "Chevron to fuel massive Microsoft data center in Texas using natural gas",
       "summary": "",
-      "publishedAt": "2026-06-20T18:13:25.000Z",
-      "publisher": "Reuters",
+      "publishedAt": "2026-06-22T11:59:47.000Z",
+      "publisher": "CNBC",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -219,17 +181,36 @@
       }
     },
     {
-      "id": "4187f99a7b09a75e0cdee72eaaaaf5d8c21f1b16",
+      "id": "43ff9d77ef310fc2d5c4d9bb3fc3d2cd1fc078e4",
       "company": "Anthropic",
       "sourceKind": "external",
       "sourceId": "external-anthropic-major",
       "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdFc1a1RQMWpoMUlWQm9YXzdtdmpNbDhld0tici1yNFJLNXNJb2g4TmtqczNBSGlVanlVTDFDU0k4SlVhcGhiWGhUQ3JBZXlRLTdxQzBKUXpXMUVGYnVzdUFQQmRrWWxTcXZxV01QUUdrZ2dValQwZjRLVE8xR0RQbXBCUlZxdFltZVJOYlI2SUhIMXVjMFoteDhaZ29wbTN6Rk92eFRwdHp6MWVuVnlKc2JR?oc=5",
-      "title": "Cyber leaders urge US to lift curbs on Anthropic's security models",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZWREUk9KWlo4NThRbnl0TGQzeGpZWENMbGQ1TWpndlZPc0JYOW5VYWd5XzFZazl1UEt5OFY3YVg3Skhsa0tseGVhejd0MEQ5alNubnRiVkJaSGR3VlA4bHNOUmpWQWszRHFpdFZTU19HVWpEWUdvNU1HMHhRSzZQRHFBZ09mNlVzdVd6LUNPZVhXRk8t?oc=5",
+      "title": "Ubisoft co-founder Claude Guillemot dies in plane crash",
       "summary": "",
-      "publishedAt": "2026-06-15T16:30:54.000Z",
-      "publisher": "Reuters",
+      "publishedAt": "2026-06-21T18:34:31.000Z",
+      "publisher": "TechCrunch",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "10d584889e579c7c175eee4fb8cc7f3901b359b8",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQlpxMEdaWUgyVGRQc2VUY2ZPajRndVU0UGxEcFBtaGlOM0NRU2ZLdFJfamhLUVVuRHNCaFlxS2JXdVlZZ2xYS0E1enJzaUR5M0JrQk50Wm84NTJ6cFR6eW9rTy1ndlJXaFBQRnVwbElySHJYWXRBUEZwTTY2LUlsdVpQNUpCb2FW?oc=5",
+      "title": "Exclusive: Trump tells \"The Axios Show\" that Anthropic was a national security threat",
+      "summary": "",
+      "publishedAt": "2026-06-20T06:02:38.000Z",
+      "publisher": "Axios",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -295,25 +276,6 @@
       }
     },
     {
-      "id": "b387731f4f83720dfe4394e2dac385ef5730d12b",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/deployment-simulation",
-      "title": "Predicting model behavior before release by simulating deployment",
-      "summary": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
-      "publishedAt": "2026-06-16T00:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
       "id": "192be59ddacd6412f02c6f59a78cb071acb5c8cb",
       "company": "Meta",
       "sourceKind": "official",
@@ -352,6 +314,63 @@
       }
     },
     {
+      "id": "6384c9b7179ebeeec6bd779f7f8910189c87d401",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNLUd5d0U4YnQ4U3B3Q0d1cGdzbGs1Vm9PUE5mTHFCVHNoOEx6ZE9jckVSVjZ0a2NKc1hwOF9vblVob2h4Wmtyb1BJSHFJVnYzMHExZjl0dUhfd2VnYzNTcDZpMnFsODY3VzZEc2V4SDdaSUNHSURjRkM5bndwU2xmR3J1b3BxY1N2eU1wYTN6ZmJ2THpzVGhGNEF4VQ?oc=5",
+      "title": "Ubisoft's co-founder Claude Guillemot dies in plane crash",
+      "summary": "",
+      "publishedAt": "2026-06-20T14:33:00.000Z",
+      "publisher": "Reuters",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "07e14eb01f19663877fa77a48bbb2c0a4c94f898",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNY2hGMmJVYWZybndVbUpRZWtXdzlOdlpWQmZWTjd1Z1RIT3JLZEc5aFJSLXNjR0xVeXlybzFrTGpDclZOV043cEtkR1RaOGtDYzhrNWVaQmdTeFctUmtsV2NDcnBNNDZiLVJITHF2RDg0V0RTQlc4dGIxMEJrdUlUb0Ztd0RVeF9NWXJyVEZmMy05UkF5QVpzTTBqbVJKSVIwaXNFbnpsMGNtS3FzdVRnWEFnYWVlQjZpR1Vrc1pEZw?oc=5",
+      "title": "Meta signs new AI computing deals with data center firm Crusoe, Bloomberg News reports",
+      "summary": "",
+      "publishedAt": "2026-06-18T21:27:56.000Z",
+      "publisher": "Reuters",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "86cbec850396b313883e3ca5c54e1fb9ee83b55b",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMkVNUTk2aWYyQk1wLWlUengxWHg4M1g1ZmdBZTcwSkN6cHlxQmpmNkhwTjhFYXZwZldrOXlYMDU0YkFXYVdTNzdsUUR1VnRQbEdjSC1PSjZPbV9DTGVfOG5CdWF5ZnNDSmlWSTRBZk5zZ0tjVzFrNHVlQkdxTjBGRldQb1BNdkRNVUloR0dZLWlmMnJJSDJ1VUpiaEVPQTlJNnE1R1RycjViNFZ2QzlTdmpDbjVWZw?oc=5",
+      "title": "Meta Strikes New AI Computing Deals With Data Center Firm Crusoe",
+      "summary": "",
+      "publishedAt": "2026-06-18T20:13:46.000Z",
+      "publisher": "Bloomberg.com",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
       "id": "3a0b4572422c1a8cbc95ae7fb7158fc8dc49f9d0",
       "company": "Anthropic",
       "sourceKind": "official",
@@ -368,6 +387,25 @@
         "bucket": "important",
         "score": 3,
         "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "eebdb7f63bb5dd4fde85f96add4f98bd295d3124",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+      "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+      "summary": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
+      "publishedAt": "2026-06-21T23:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
       }
     },
     {
@@ -502,59 +540,59 @@
         "score": 1,
         "reason": "Routine official update"
       }
-    },
-    {
-      "id": "f498349af01301cb6c3687523f5f19f8c133dcf8",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/bringing-gemini-models-to-apple-developers",
-      "title": "Bringing the latest Gemini models to Apple developers",
-      "summary": "",
-      "publishedAt": null,
-      "publisher": "",
-      "discoveryMethod": "anchor",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "b0d59d0ca7b39045f2d1ffda0415bcc4338380c0",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app",
-      "title": "Gemini app",
-      "summary": "",
-      "publishedAt": null,
-      "publisher": "",
-      "discoveryMethod": "anchor",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
     }
   ],
   "newItems": [
     {
-      "id": "6384c9b7179ebeeec6bd779f7f8910189c87d401",
+      "id": "ea469c009ccdf555f8c3eaf43a21575a441f569d",
       "company": "Anthropic",
       "sourceKind": "external",
       "sourceId": "external-anthropic-major",
       "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNLUd5d0U4YnQ4U3B3Q0d1cGdzbGs1Vm9PUE5mTHFCVHNoOEx6ZE9jckVSVjZ0a2NKc1hwOF9vblVob2h4Wmtyb1BJSHFJVnYzMHExZjl0dUhfd2VnYzNTcDZpMnFsODY3VzZEc2V4SDdaSUNHSURjRkM5bndwU2xmR3J1b3BxY1N2eU1wYTN6ZmJ2THpzVGhGNEF4VQ?oc=5",
-      "title": "Ubisoft's co-founder Claude Guillemot dies in plane crash",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPU1p3eXMzVFVHaDVCcjhidlgyMnN3YU9UV19FeXMxODc2ZFM5dlhqcWZFR3dkYzRnYWVXeXBTc3lRMW1Cc205M3czTGpURXdqNVAwWkdXUW8wTTlGWUYzakl2ZGhfLUo3Z09HRm1ZblFqSVIwZE9aYW1QMTVkNzBIVUhsZlkwRGltTFBOa2lEb1ByU3hackE?oc=5",
+      "title": "Micron announces new Anthropic partnership ahead of Q3 earnings",
       "summary": "",
-      "publishedAt": "2026-06-20T18:13:25.000Z",
-      "publisher": "Reuters",
+      "publishedAt": "2026-06-22T15:20:00.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "ea69a85984bf042e18cea8cf60760f8f440211d2",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/deepmind-a24-research-partnership",
+      "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
+      "summary": "Today, Google DeepMind and A24 are announcing a first-of-its-kind partnership focused on research. The collaboration pairs a world-leading research lab with the industry…",
+      "publishedAt": "2026-06-22T14:30:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "d4224beec3238823c6779d3c562c2d4f1d4b578d",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNXV3WDNkY0tpSjlfQnUtbGN4SHRZTVZZTndPMVY5NmJ0NGZCYmotak1XREN1Qmc5SkhXZjJmcU5uWGg1dVlZZlc0Q3VzZFc5N3FlUDhfQ2hMbHhTZ2Zfb2RLdkEwOHhicmt4cWg2RHpfMGhreFU3eVJXX21ETGN2VDJuWHBIY2d5bklwM3hWRTbSAZYBQVVfeXFMTjdJcE9TVk8zcW9nMzdTLTJYTlpCSW9Hcmo0eV9WaDRlX0thLVJHMmR4Y0xWOGZFdTZ0Ri1qaWs0emtUWFNpWS1zT0xkNlRlOFpjbkJkczBtdTE2aW9oUzVtM1pYOHlQd2gtQzVwTlUxaHF6VzV3bWxTdnljVE1ZaWRpTC1JMGNpME5oeUVzOFRlYTAxTXFB?oc=5",
+      "title": "Chevron to fuel massive Microsoft data center in Texas using natural gas",
+      "summary": "",
+      "publishedAt": "2026-06-22T11:59:47.000Z",
+      "publisher": "CNBC",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -563,59 +601,40 @@
       }
     },
     {
-      "id": "33383567514a4fc878384c06d079128ba5835d2a",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
-      "title": "Improving health intelligence in ChatGPT",
-      "summary": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
-      "publishedAt": "2026-06-18T11:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "2155d7cb8c43e82f85b6ee373605b32572d7c2cd",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
-      "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
-      "summary": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
-      "publishedAt": "2026-06-18T08:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "b0d59d0ca7b39045f2d1ffda0415bcc4338380c0",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app",
-      "title": "Gemini app",
+      "id": "43ff9d77ef310fc2d5c4d9bb3fc3d2cd1fc078e4",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZWREUk9KWlo4NThRbnl0TGQzeGpZWENMbGQ1TWpndlZPc0JYOW5VYWd5XzFZazl1UEt5OFY3YVg3Skhsa0tseGVhejd0MEQ5alNubnRiVkJaSGR3VlA4bHNOUmpWQWszRHFpdFZTU19HVWpEWUdvNU1HMHhRSzZQRHFBZ09mNlVzdVd6LUNPZVhXRk8t?oc=5",
+      "title": "Ubisoft co-founder Claude Guillemot dies in plane crash",
       "summary": "",
-      "publishedAt": null,
+      "publishedAt": "2026-06-21T18:34:31.000Z",
+      "publisher": "TechCrunch",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "eebdb7f63bb5dd4fde85f96add4f98bd295d3124",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+      "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+      "summary": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
+      "publishedAt": "2026-06-21T23:00:00.000Z",
       "publisher": "",
-      "discoveryMethod": "anchor",
+      "discoveryMethod": "feed",
       "classification": {
         "bucket": "digest",
-        "score": 1,
+        "score": 2,
         "reason": "Routine official update"
       }
     }
