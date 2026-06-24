@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T15:10:05.867Z",
+  "generatedAt": "2026-06-24T15:05:13.484Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -76,12 +76,12 @@
     }
   ],
   "totals": {
-    "fetched": 38,
+    "fetched": 40,
     "deduped": 24,
     "new": 14,
     "byKind": {
-      "official": 10,
-      "external": 14
+      "official": 11,
+      "external": 13
     }
   },
   "items": [
@@ -105,79 +105,136 @@
       }
     },
     {
-      "id": "be29f73096e96c394cd4474db78328b650f897ed",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNkRQQ1FYeHVLQmgtaTdnTTBPbWpPNlFWc3ZvWnpUbm13TUpDY2ppWU9LVHFUVXJ4NWp6R1NqVGJXMVFBdWxmd2lOYWd0RHgxOGRWX3JzYU9HQ0hQbWZOa3I2cElNcEtleTFVb29tRE9aWE1IbGZZNlhfdGNZRjVfZS1lYUpJVHFOdm5kZmIyRmZxTDRNQ1htLVh4NWM2TXhzZG5LTWZR?oc=5",
-      "title": "IBM partners with OpenAI on enterprise security AI",
-      "summary": "",
-      "publishedAt": "2026-06-22T21:26:41.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "f25ac12e5e3f5266a912c948a73e152486dbacee",
-      "company": "Google",
-      "sourceKind": "external",
-      "sourceId": "external-google-major",
-      "sourceLabel": "Major External News - Google",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQd0owV2VCdmtFYnZFTnBtUlg2UUpTZHd2U2NFWnByaWJZUEZpWWd5NlBVaE9JRDRHbTFfallzLXZnWEd6dDRZRThlSUhKMGZmODEyRjJXTW1ZYnBUcFRQX2dRY1ZscUJuMEE4Zjd2bFFVOWR0dElrTDRiLUlLZzlMYTdUdjVyWDhIREVNZ0NOTHg1M1JJM0Q3SW1vOGNBZUU?oc=5",
-      "title": "A24’s New AI Partnership with Google Might Be Different Than the Other Studios’",
-      "summary": "",
-      "publishedAt": "2026-06-22T17:31:22.000Z",
-      "publisher": "Yahoo",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "d9153bbcfc9849db00e457fec99f6dd94125218e",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQekdvbzV0T1VYdk5yeXhTTjFMdlE5WWY5MDFIUmU2ZVNiWm5obGJQWHQwZVFOY1BJM29FeWYzanNBdVdnMDBaS1Mtb3RsdnhYdlFURVVuckJweXltUjJtLWJnTlVDNzNVTlBvZGFoQmtnNF9hWnNONjhjZ2R2N2QtRzBjS0FvUklsTF91Yy1Zc2JHVEVZeERMQXVsS1JDWlFpTlRmSkpuZ0owdzltVG01VFFDUzVqRXh6cm1lckJKejRUZFJNNkJIQlB3?oc=5",
-      "title": "WhatsApp gets new chief as Meta taps India's CRED founder Kunal Shah and invests $900M in startup",
-      "summary": "",
-      "publishedAt": "2026-06-22T15:21:42.000Z",
-      "publisher": "TechCrunch",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "ea469c009ccdf555f8c3eaf43a21575a441f569d",
+      "id": "c66c5111ef2c88e469e9a04c570d49e2f622bc92",
       "company": "Anthropic",
       "sourceKind": "external",
       "sourceId": "external-anthropic-major",
       "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPU1p3eXMzVFVHaDVCcjhidlgyMnN3YU9UV19FeXMxODc2ZFM5dlhqcWZFR3dkYzRnYWVXeXBTc3lRMW1Cc205M3czTGpURXdqNVAwWkdXUW8wTTlGWUYzakl2ZGhfLUo3Z09HRm1ZblFqSVIwZE9aYW1QMTVkNzBIVUhsZlkwRGltTFBOa2lEb1ByU3hackE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPanBXMTMtcTlsNFRwck1kcEl5dEtBQkNMcDJOdG45UExhRUU2aEYzTU5pN1FTZjhVT2ZINWU3Y3FINFF3S3M4cmRaN2N0dnkyNnVIZUFaM1M4dGRZN0hvZG10ZEFDS1RHWnpYeFhPSExDSkpzNVdjMjJTOTZUMjBrVEhWOG1MdXVEUElhQXY3dDJrQmNWVEowSmlB?oc=5",
       "title": "Micron announces new Anthropic partnership ahead of Q3 earnings",
       "summary": "",
       "publishedAt": "2026-06-22T15:20:00.000Z",
-      "publisher": "Yahoo Finance",
+      "publisher": "Yahoo Finance Singapore",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
         "score": 7,
         "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "932308bff2bc4e8a7ff0bbecc576a98f6756a29b",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeDR6YTZ1Tk4zWG9sZF9FMU1vVXlHRWhlUkJHNjZ3STVXSExVbDhVZ1lXeHljVVdkanR6LVozR19IdWxiSzJ2TlVCQk1ZT05VUXplT0pXUzJvdzBmaWVyV21xeFU2el9COHpDQXNkTExwVVNHVmp4cjFXODJ2eG11d190bDFZeGNMT1Bhek9BV0NmbnFTYTdxeWQxampoTVZfMW4wa01xZnlaN3RrSTh3ZXhLSDhkNXc?oc=5",
+      "title": "Meta to invest $900 million in India's CRED, taps founder to lead WhatsApp",
+      "summary": "",
+      "publishedAt": "2026-06-22T15:18:47.000Z",
+      "publisher": "Reuters",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "fde30a3bebd18730780aeeb01d22b5370116e550",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNGptUXJWcHBjQnZBWDcyOC0tUHJ1WmtZcldTODgxelBmencyVU11SE15dUZGSVFLTW84eFNNa0JReFpBZ19xOE9BV2ZUSFp0b1hNa2JCRlJpV0VBRm1SMzd1WjlhdnRoMkxWcWtoQUVpUks1cGNwUmYxN1F1REROeFRrVXdJMlVVM2tBa0NmMndvZmJUT0h1VEVSMTl0LWlFN0Qw?oc=5",
+      "title": "OpenAI unveils first chip as part of Broadcom deal in effort to 'build the full stack'",
+      "summary": "",
+      "publishedAt": "2026-06-24T13:03:28.000Z",
+      "publisher": "CNBC",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "4cd943df941a68b2aae8835a3ea7899fd65c5c7f",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYjRweVRsLWhYbW1kODBpX2EtSVBBWXdjYmtfUEIxb0FlNlpzRVdsMGVjYkhIaVd0QzUwUUdodDE0SHRTamYtc2ZrbktmUVlwWjUzWmhSdlM4aFpvbC1DUDNvR0N1ZnhlSnNvTTNyanRLdWNFQzZCTmtBVEF0QmJ1NWpyTXBmRTVaRXJlTEVNN0dmYUREeGNwZG1GR01JNVlJN0gtMHhnbF8yZVJManN5bmFwVlo?oc=5",
+      "title": "OpenAI and Broadcom Unveil AI Chip to Run Models Faster, Cheaper",
+      "summary": "",
+      "publishedAt": "2026-06-24T13:00:00.000Z",
+      "publisher": "Bloomberg.com",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "1ff4b1bb62753e1310bee719492e16cfeace1bd5",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcXpJZXF2TDlaNjM2WkZqSVFnWjZCaEdlOUpFWmJfVnlTdkUwcUZhaUpKNTV3TUVvMTFRSnlZYUJCZ3llZ0RIXzI1aXNsWjBkb1hSTDBqNklSTWRIdU9PMEpRalpuZHJsTnZIY2puN2hueVhpQ3lQOU1WX3djN2I1N2o4OXlMZzlIOFYxcA?oc=5",
+      "title": "U.S. Presses Meta to Agree to A.I. Reviews as Security Concerns Rise",
+      "summary": "",
+      "publishedAt": "2026-06-23T21:45:20.000Z",
+      "publisher": "The New York Times",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "1a015f5dfa42958d5d31376f9d87f1e17d54017f",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+      "summary": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
+      "publishedAt": "2026-06-24T06:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "2a799425b04b9199e7d6036b74fe995068ca84b9",
+      "company": "Anthropic",
+      "sourceKind": "official",
+      "sourceId": "anthropic-news",
+      "sourceLabel": "Anthropic News",
+      "homepageUrl": "https://www.anthropic.com/news",
+      "url": "https://www.anthropic.com/news/introducing-claude-tag",
+      "title": "Introducing Claude Tag Claude Tag is a new way for teams to work with Claude.",
+      "summary": "",
+      "publishedAt": "2026-06-23T00:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "anchor",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Flagship model or product launch"
       }
     },
     {
@@ -195,27 +252,8 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "6dbd07e88b16ac529e0e98d3778f5d02d5118e19",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZkE3LWhiRXRkWV9FXzVJS29nYmJOR1JzLThBbVZGaWF5SWtKTkp3bjB5MkY0eERmd0d4SmZwdm9hQUEtcHFsMnRnbTd1YWRFNm9QSGp0RUY1U29leldNWWJWanFMZWpxaC1tZWdLSE9GU1FGeGFadmNSalN0Y29BcEtSU2ROOXRLVE5fZWtkVldGeHlxNmx1Y0NrY0RNRHhPWW1laGJROEJESURvcEZuSmtkWVlHczJrZnNwZG1ZYw?oc=5",
-      "title": "OpenAI's Patch the Planet program takes its security ambitions well beyond the chatbot business",
-      "summary": "",
-      "publishedAt": "2026-06-23T02:46:41.000Z",
-      "publisher": "Startup Fortune",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
         "score": 5,
-        "reason": "Safety, security, or policy update"
+        "reason": "Corporate move or major external event"
       }
     },
     {
@@ -238,17 +276,55 @@
       }
     },
     {
-      "id": "7206c4280cb17000505c0617270326f134358235",
-      "company": "Anthropic",
+      "id": "d59ef68b1ab70bbc4501bc2bd2e27d0c77987663",
+      "company": "OpenAI",
       "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWVFUdjJQamRMalViT0dLWHRlTTJQbS12ME5QbUZLZzZHZnJ1RTBwZ2lqQmNsSm1ZajJmYURDSnphQ3JrQ2V0Tkc0N2p2dmZONDAwcnYwNjZycTc0ZDcyRXBCUm5wWnNpbm8wUkxkOW5xNnI2MmNzb3MxNmJaeDlUYlVmOUh0LWJLVHZ4dldNUF9DMFFUOVJlRjR4WHUyRG9oVFlfbDRIM2FiTm9iSVpnT1U0M1VfVUJFVDNRTkZEblJWVmVIUzN2eDA5NjdKUQ?oc=5",
-      "title": "Investor Outlook: Micron-Anthropic deal highlights strong AI demand",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MZm1BWUJCUTdCTURYbDR2TWRSZW95OExGRDNhWFhFcmkxenNYVFJZNFBuXzA5WWs4U2pLSFgtZEE0R283ZzJ4eFhPQlM2WTBZSWZKN3dEdUpBcXV2YVlSYmpYTWVBOVh0eTU3bHdna0Z2NjZucmZDYTdRSlU?oc=5",
+      "title": "OpenAI fires up \"Jalapeño,\" its first homegrown AI chip",
       "summary": "",
-      "publishedAt": "2026-06-23T14:56:54.000Z",
-      "publisher": "BNN Bloomberg",
+      "publishedAt": "2026-06-24T13:14:08.000Z",
+      "publisher": "Axios",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "ba51cc4228a57a773aa352651944215336d80d9f",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYVVrOTNJTUltOVpfa3NPZlJnYjNNcHhLZVpfWVdtbVVVdXFyc3dteTlXYllHR0VMYzdLdE1QbC1sUERMcUpzMHZmU0NWWmUxZzJsNjFfRHloX0FGV0NoZ2x3RU5najBSV19FaDl3WVBNM3VuZjVTSC12UEY0LWtBZEhIenN0V3ptV2VjRERBdWlvVFQ4REQ5aGRpUVM3ZUNMTFF2LTFSdURvY1RVbmc?oc=5",
+      "title": "Meta, Microsoft Lead $850 Billion Boom in Data Center Leases",
+      "summary": "",
+      "publishedAt": "2026-06-24T11:00:00.000Z",
+      "publisher": "Bloomberg.com",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "938088b56712bf97e2ee98e21ba4ea5c83715dde",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAwbkltTFczVXVabDFxVi0zWDM3aGVrREU3UUdUb2V1YVB2ZXdzN0RCWHdwd0RYM21DM2FrRWRnNm1LVEFRX0hiendSaEltMTltVVpoSGxPbFZmV2FUNFM4ZDVGaXlYVk91SWJsa1ZYaUdnMU5oZmpURXJoQ28xd9IBgwFBVV95cUxQS3dJMDd3QVkxNG5aRS05WWh3NmVVRWp1V3o1M1ZHSkxZLU5xd0tFeWpGd3pnMmRMUjdvTmJ2d3BKeW1UbC01cy04N1FqVmRyaXFtMm9paksyb2NKR2IxUmlyYW52Nm1zemlrVVJPZVUwZUgyQ0FLTUJmV3pTd0VRWElvVQ?oc=5",
+      "title": "How a $4 billion Indian startup won Meta's backing but lost its founder to WhatsApp",
+      "summary": "",
+      "publishedAt": "2026-06-23T03:45:00.000Z",
+      "publisher": "CNBC",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -295,93 +371,17 @@
       }
     },
     {
-      "id": "ca8887a83e19cb4e395b5ddd1c3cd558c9bed2c1",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYUZaUzhXNloxdERCS1lvN1FTSFU1amtxMWFnUzVGVTMxdDM5S3RRLVNhWjFkOXRNcFdkSnNETXFMUGUwdXZCWkhwc3U0b2NMdW9rTnNoY0MwQ0l3Z1lEN0JmdlY4aEtKa0QzTUh3UVhiQ1hIZkZ4QzVsUVhRQkhxYXItRXFQVUdYNkE?oc=5",
-      "title": "Meta's WhatsApp to be led by Indian startup founder Kunal Shah",
-      "summary": "",
-      "publishedAt": "2026-06-22T13:47:10.000Z",
-      "publisher": "Yahoo Finance Singapore",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "d4224beec3238823c6779d3c562c2d4f1d4b578d",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNXV3WDNkY0tpSjlfQnUtbGN4SHRZTVZZTndPMVY5NmJ0NGZCYmotak1XREN1Qmc5SkhXZjJmcU5uWGg1dVlZZlc0Q3VzZFc5N3FlUDhfQ2hMbHhTZ2Zfb2RLdkEwOHhicmt4cWg2RHpfMGhreFU3eVJXX21ETGN2VDJuWHBIY2d5bklwM3hWRTbSAZYBQVVfeXFMTjdJcE9TVk8zcW9nMzdTLTJYTlpCSW9Hcmo0eV9WaDRlX0thLVJHMmR4Y0xWOGZFdTZ0Ri1qaWs0emtUWFNpWS1zT0xkNlRlOFpjbkJkczBtdTE2aW9oUzVtM1pYOHlQd2gtQzVwTlUxaHF6VzV3bWxTdnljVE1ZaWRpTC1JMGNpME5oeUVzOFRlYTAxTXFB?oc=5",
-      "title": "Chevron to fuel massive Microsoft data center in Texas using natural gas",
-      "summary": "",
-      "publishedAt": "2026-06-22T11:59:47.000Z",
-      "publisher": "CNBC",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "7d24bf9ca7541cd6abee2041c62efa954b3a3748",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOVhRT2oxNjZVcWdnNkp2UUtfc3hOakhDNVpBMFFQTkRaamVpWXAtS29YZHdhOGUzNnlieW5PRmMyak5oR1pESFZ1QXBxTzBYRk1Dd2xBeEVHdmFOTWhBU2ZTNVE0Zy1HY2xoQ3Y4bkRZdmxGUEs3aXZKN0FWVnlNLWRzN3JXOWZScHVCa0hVWFV5MGpnZEEw?oc=5",
-      "title": "Meta (META) Builds Its First India AI Data Center With Reliance",
-      "summary": "",
-      "publishedAt": "2026-06-22T05:09:00.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "43ff9d77ef310fc2d5c4d9bb3fc3d2cd1fc078e4",
+      "id": "26b9ac9c180ef608710bf43da73057665b735ff5",
       "company": "Anthropic",
       "sourceKind": "external",
       "sourceId": "external-anthropic-major",
       "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZWREUk9KWlo4NThRbnl0TGQzeGpZWENMbGQ1TWpndlZPc0JYOW5VYWd5XzFZazl1UEt5OFY3YVg3Skhsa0tseGVhejd0MEQ5alNubnRiVkJaSGR3VlA4bHNOUmpWQWszRHFpdFZTU19HVWpEWUdvNU1HMHhRSzZQRHFBZ09mNlVzdVd6LUNPZVhXRk8t?oc=5",
-      "title": "Ubisoft co-founder Claude Guillemot dies in plane crash",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNa2JZRG5wY0g4WGZmOFZ3cGJuck5qUURoU3c3REUxN3p3MlVtNjJ4bzlnaTdOYWxCel83VTBqLVYwMjIyNE53VnZaMDNKbHRaZ1QwcWlqekdSRFpvc2dnYndxR2RMWlN2V3dNQTN3QWJOLWxYLU96eC10OHkxX0lKekVaTXFhUG1UZERXblRNTExST3NfQWQ2dExLOXVvNGt1UllZMkZkaTlBNksyV05POUpxUEkyQQ?oc=5",
+      "title": "Trump Tells Axios He Doesn’t See Anthropic as US Security Threat",
       "summary": "",
-      "publishedAt": "2026-06-21T18:34:31.000Z",
-      "publisher": "TechCrunch",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "f7e9d38ae7326e724cd3dd4ce89afcce1e11f14f",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/daybreak-securing-the-world",
-      "title": "Daybreak: Tools for securing every organization in the world",
-      "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
-      "publishedAt": "2026-06-22T10:00:00.000Z",
-      "publisher": "",
+      "publishedAt": "2026-06-19T19:49:23.000Z",
+      "publisher": "Bloomberg.com",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -390,41 +390,22 @@
       }
     },
     {
-      "id": "6a1e7f2894c3810f814c3fd7c6db1fbf2ec5972a",
-      "company": "Anthropic",
+      "id": "6507bbb3977767d18fbdd1e2dbdfa5d1eded2ec6",
+      "company": "OpenAI",
       "sourceKind": "official",
-      "sourceId": "anthropic-news",
-      "sourceLabel": "Anthropic News",
-      "homepageUrl": "https://www.anthropic.com/news",
-      "url": "https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem",
-      "title": "Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem",
-      "summary": "",
-      "publishedAt": "2026-06-17T00:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "anchor",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "3ff5b2bbb0ad065d8a974bf1bac9a44c62cf90bb",
-      "company": "Microsoft",
-      "sourceKind": "official",
-      "sourceId": "microsoft-ai",
-      "sourceLabel": "Microsoft AI",
-      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
-      "url": "https://news.microsoft.com/source/asia/2026/06/16/usyd-takes-cogniti-global",
-      "title": "Australian AI platform for educators drives global impact following launch on Microsoft’s global marketplace",
-      "summary": "Australian AI platform for educators drives global impact following launch on Microsoft’s global marketplace",
-      "publishedAt": "2026-06-16T23:49:00.000Z",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+      "title": "Helping build shared standards for advanced AI",
+      "summary": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
+      "publishedAt": "2026-06-23T13:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
         "score": 4,
-        "reason": "Flagship model or product launch"
+        "reason": "Safety, security, or policy update"
       }
     },
     {
@@ -447,22 +428,60 @@
       }
     },
     {
-      "id": "07e14eb01f19663877fa77a48bbb2c0a4c94f898",
-      "company": "Meta",
+      "id": "d4224beec3238823c6779d3c562c2d4f1d4b578d",
+      "company": "Microsoft",
       "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNY2hGMmJVYWZybndVbUpRZWtXdzlOdlpWQmZWTjd1Z1RIT3JLZEc5aFJSLXNjR0xVeXlybzFrTGpDclZOV043cEtkR1RaOGtDYzhrNWVaQmdTeFctUmtsV2NDcnBNNDZiLVJITHF2RDg0V0RTQlc4dGIxMEJrdUlUb0Ztd0RVeF9NWXJyVEZmMy05UkF5QVpzTTBqbVJKSVIwaXNFbnpsMGNtS3FzdVRnWEFnYWVlQjZpR1Vrc1pEZw?oc=5",
-      "title": "Meta signs new AI computing deals with data center firm Crusoe, Bloomberg News reports",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNXV3WDNkY0tpSjlfQnUtbGN4SHRZTVZZTndPMVY5NmJ0NGZCYmotak1XREN1Qmc5SkhXZjJmcU5uWGg1dVlZZlc0Q3VzZFc5N3FlUDhfQ2hMbHhTZ2Zfb2RLdkEwOHhicmt4cWg2RHpfMGhreFU3eVJXX21ETGN2VDJuWHBIY2d5bklwM3hWRTbSAZYBQVVfeXFMTjdJcE9TVk8zcW9nMzdTLTJYTlpCSW9Hcmo0eV9WaDRlX0thLVJHMmR4Y0xWOGZFdTZ0Ri1qaWs0emtUWFNpWS1zT0xkNlRlOFpjbkJkczBtdTE2aW9oUzVtM1pYOHlQd2gtQzVwTlUxaHF6VzV3bWxTdnljVE1ZaWRpTC1JMGNpME5oeUVzOFRlYTAxTXFB?oc=5",
+      "title": "Chevron to fuel massive Microsoft data center in Texas using natural gas",
       "summary": "",
-      "publishedAt": "2026-06-18T21:27:56.000Z",
-      "publisher": "Reuters",
+      "publishedAt": "2026-06-22T11:59:47.000Z",
+      "publisher": "CNBC",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
         "score": 3,
         "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "7c36fb32c6285fc2a72a693371c03b5a52f25c8f",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/gpt-5-immunology-mystery",
+      "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+      "summary": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
+      "publishedAt": "2026-06-23T17:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Technical or research update"
+      }
+    },
+    {
+      "id": "f7e9d38ae7326e724cd3dd4ce89afcce1e11f14f",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/daybreak-securing-the-world",
+      "title": "Daybreak: Tools for securing every organization in the world",
+      "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
+      "publishedAt": "2026-06-22T10:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Safety, security, or policy update"
       }
     },
     {
@@ -485,16 +504,16 @@
       }
     },
     {
-      "id": "0c794cbb255ff7717b1b0584a86302894a74c93c",
-      "company": "OpenAI",
+      "id": "9cd41fe0457b31cc3d0fbef45019941f9d8a12ac",
+      "company": "Microsoft",
       "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/omio",
-      "title": "How Omio is building the future of conversational travel",
-      "summary": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
-      "publishedAt": "2026-06-23T00:00:00.000Z",
+      "sourceId": "microsoft-ai",
+      "sourceLabel": "Microsoft AI",
+      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
+      "url": "https://news.microsoft.com/source/2026/06/24/microsofts-new-ai-in-education-report-highlights-widespread-adoption-and-increasing-demand-for-support",
+      "title": "Microsoft’s New AI in Education Report highlights widespread adoption and increasing demand for support",
+      "summary": "Microsoft’s New AI in Education Report highlights widespread adoption and increasing demand for support",
+      "publishedAt": "2026-06-24T13:00:04.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -504,35 +523,16 @@
       }
     },
     {
-      "id": "a89b1dbe4a034af6aae8424be99d509c54170487",
+      "id": "9d77f2d8fc74219714b00bba8b9f06a7460bd03b",
       "company": "Google",
       "sourceKind": "official",
       "sourceId": "google-ai",
       "sourceLabel": "Google AI",
       "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/interactions-api-general-availability",
-      "title": "Interactions API: our primary interface for Gemini models and agents",
-      "summary": "Google’s Interactions API is a unified interface for interacting with Gemini models and agents.",
-      "publishedAt": "2026-06-22T17:15:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "f0ab1740b8b7f5b3f7439029864e8548fd6819be",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/patch-the-planet",
-      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-      "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
-      "publishedAt": "2026-06-22T10:00:00.000Z",
+      "url": "https://blog.google/innovation-and-ai/technology/research/helping-communities-prepare-for-natural-disasters",
+      "title": "Towards a world where no one is surprised by a natural disaster",
+      "summary": "An overview of Google’s ongoing crisis resilience efforts and mission, shared at the AI for the Planet event.",
+      "publishedAt": "2026-06-23T19:40:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -544,16 +544,35 @@
   ],
   "newItems": [
     {
-      "id": "b03b0a31625b3cb3a63d46927640e48b7285b815",
-      "company": "OpenAI",
+      "id": "c66c5111ef2c88e469e9a04c570d49e2f622bc92",
+      "company": "Anthropic",
       "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdTFFOHhJWVBSZ09VeTZKWjFFcl9oUmVJdU9PS0xRRXJsbURSRmdsUWY0TXR4TmVxWC1XTXNGaVU1VkRfSmRYUkp0aVlIYXhNSDI4Tlk3Mi0xbW5yRi1yT25zMjZHNE9CWFBSOVI3VUkxU2w4WHhmMDFIMWZLeHhBYVJtaUV6TVFHc0wxcDgxOVNrOWVkQXFzbUVB?oc=5",
-      "title": "IBM partners with OpenAI on enterprise security AI",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPanBXMTMtcTlsNFRwck1kcEl5dEtBQkNMcDJOdG45UExhRUU2aEYzTU5pN1FTZjhVT2ZINWU3Y3FINFF3S3M4cmRaN2N0dnkyNnVIZUFaM1M4dGRZN0hvZG10ZEFDS1RHWnpYeFhPSExDSkpzNVdjMjJTOTZUMjBrVEhWOG1MdXVEUElhQXY3dDJrQmNWVEowSmlB?oc=5",
+      "title": "Micron announces new Anthropic partnership ahead of Q3 earnings",
       "summary": "",
-      "publishedAt": "2026-06-22T21:29:43.000Z",
+      "publishedAt": "2026-06-22T15:20:00.000Z",
+      "publisher": "Yahoo Finance Singapore",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "932308bff2bc4e8a7ff0bbecc576a98f6756a29b",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeDR6YTZ1Tk4zWG9sZF9FMU1vVXlHRWhlUkJHNjZ3STVXSExVbDhVZ1lXeHljVVdkanR6LVozR19IdWxiSzJ2TlVCQk1ZT05VUXplT0pXUzJvdzBmaWVyV21xeFU2el9COHpDQXNkTExwVVNHVmp4cjFXODJ2eG11d190bDFZeGNMT1Bhek9BV0NmbnFTYTdxeWQxampoTVZfMW4wa01xZnlaN3RrSTh3ZXhLSDhkNXc?oc=5",
+      "title": "Meta to invest $900 million in India's CRED, taps founder to lead WhatsApp",
+      "summary": "",
+      "publishedAt": "2026-06-22T15:18:47.000Z",
       "publisher": "Reuters",
       "discoveryMethod": "feed",
       "classification": {
@@ -563,74 +582,55 @@
       }
     },
     {
-      "id": "be29f73096e96c394cd4474db78328b650f897ed",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNkRQQ1FYeHVLQmgtaTdnTTBPbWpPNlFWc3ZvWnpUbm13TUpDY2ppWU9LVHFUVXJ4NWp6R1NqVGJXMVFBdWxmd2lOYWd0RHgxOGRWX3JzYU9HQ0hQbWZOa3I2cElNcEtleTFVb29tRE9aWE1IbGZZNlhfdGNZRjVfZS1lYUpJVHFOdm5kZmIyRmZxTDRNQ1htLVh4NWM2TXhzZG5LTWZR?oc=5",
-      "title": "IBM partners with OpenAI on enterprise security AI",
-      "summary": "",
-      "publishedAt": "2026-06-22T21:26:41.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "f25ac12e5e3f5266a912c948a73e152486dbacee",
-      "company": "Google",
-      "sourceKind": "external",
-      "sourceId": "external-google-major",
-      "sourceLabel": "Major External News - Google",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQd0owV2VCdmtFYnZFTnBtUlg2UUpTZHd2U2NFWnByaWJZUEZpWWd5NlBVaE9JRDRHbTFfallzLXZnWEd6dDRZRThlSUhKMGZmODEyRjJXTW1ZYnBUcFRQX2dRY1ZscUJuMEE4Zjd2bFFVOWR0dElrTDRiLUlLZzlMYTdUdjVyWDhIREVNZ0NOTHg1M1JJM0Q3SW1vOGNBZUU?oc=5",
-      "title": "A24’s New AI Partnership with Google Might Be Different Than the Other Studios’",
-      "summary": "",
-      "publishedAt": "2026-06-22T17:31:22.000Z",
-      "publisher": "Yahoo",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "d9153bbcfc9849db00e457fec99f6dd94125218e",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQekdvbzV0T1VYdk5yeXhTTjFMdlE5WWY5MDFIUmU2ZVNiWm5obGJQWHQwZVFOY1BJM29FeWYzanNBdVdnMDBaS1Mtb3RsdnhYdlFURVVuckJweXltUjJtLWJnTlVDNzNVTlBvZGFoQmtnNF9hWnNONjhjZ2R2N2QtRzBjS0FvUklsTF91Yy1Zc2JHVEVZeERMQXVsS1JDWlFpTlRmSkpuZ0owdzltVG01VFFDUzVqRXh6cm1lckJKejRUZFJNNkJIQlB3?oc=5",
-      "title": "WhatsApp gets new chief as Meta taps India's CRED founder Kunal Shah and invests $900M in startup",
-      "summary": "",
-      "publishedAt": "2026-06-22T15:21:42.000Z",
-      "publisher": "TechCrunch",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "6dbd07e88b16ac529e0e98d3778f5d02d5118e19",
+      "id": "fde30a3bebd18730780aeeb01d22b5370116e550",
       "company": "OpenAI",
       "sourceKind": "external",
       "sourceId": "external-openai-major",
       "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZkE3LWhiRXRkWV9FXzVJS29nYmJOR1JzLThBbVZGaWF5SWtKTkp3bjB5MkY0eERmd0d4SmZwdm9hQUEtcHFsMnRnbTd1YWRFNm9QSGp0RUY1U29leldNWWJWanFMZWpxaC1tZWdLSE9GU1FGeGFadmNSalN0Y29BcEtSU2ROOXRLVE5fZWtkVldGeHlxNmx1Y0NrY0RNRHhPWW1laGJROEJESURvcEZuSmtkWVlHczJrZnNwZG1ZYw?oc=5",
-      "title": "OpenAI's Patch the Planet program takes its security ambitions well beyond the chatbot business",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNGptUXJWcHBjQnZBWDcyOC0tUHJ1WmtZcldTODgxelBmencyVU11SE15dUZGSVFLTW84eFNNa0JReFpBZ19xOE9BV2ZUSFp0b1hNa2JCRlJpV0VBRm1SMzd1WjlhdnRoMkxWcWtoQUVpUks1cGNwUmYxN1F1REROeFRrVXdJMlVVM2tBa0NmMndvZmJUT0h1VEVSMTl0LWlFN0Qw?oc=5",
+      "title": "OpenAI unveils first chip as part of Broadcom deal in effort to 'build the full stack'",
       "summary": "",
-      "publishedAt": "2026-06-23T02:46:41.000Z",
-      "publisher": "Startup Fortune",
+      "publishedAt": "2026-06-24T13:03:28.000Z",
+      "publisher": "CNBC",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "4cd943df941a68b2aae8835a3ea7899fd65c5c7f",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYjRweVRsLWhYbW1kODBpX2EtSVBBWXdjYmtfUEIxb0FlNlpzRVdsMGVjYkhIaVd0QzUwUUdodDE0SHRTamYtc2ZrbktmUVlwWjUzWmhSdlM4aFpvbC1DUDNvR0N1ZnhlSnNvTTNyanRLdWNFQzZCTmtBVEF0QmJ1NWpyTXBmRTVaRXJlTEVNN0dmYUREeGNwZG1GR01JNVlJN0gtMHhnbF8yZVJManN5bmFwVlo?oc=5",
+      "title": "OpenAI and Broadcom Unveil AI Chip to Run Models Faster, Cheaper",
+      "summary": "",
+      "publishedAt": "2026-06-24T13:00:00.000Z",
+      "publisher": "Bloomberg.com",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "1ff4b1bb62753e1310bee719492e16cfeace1bd5",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcXpJZXF2TDlaNjM2WkZqSVFnWjZCaEdlOUpFWmJfVnlTdkUwcUZhaUpKNTV3TUVvMTFRSnlZYUJCZ3llZ0RIXzI1aXNsWjBkb1hSTDBqNklSTWRIdU9PMEpRalpuZHJsTnZIY2puN2hueVhpQ3lQOU1WX3djN2I1N2o4OXlMZzlIOFYxcA?oc=5",
+      "title": "U.S. Presses Meta to Agree to A.I. Reviews as Security Concerns Rise",
+      "summary": "",
+      "publishedAt": "2026-06-23T21:45:20.000Z",
+      "publisher": "The New York Times",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -639,111 +639,111 @@
       }
     },
     {
-      "id": "7206c4280cb17000505c0617270326f134358235",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWVFUdjJQamRMalViT0dLWHRlTTJQbS12ME5QbUZLZzZHZnJ1RTBwZ2lqQmNsSm1ZajJmYURDSnphQ3JrQ2V0Tkc0N2p2dmZONDAwcnYwNjZycTc0ZDcyRXBCUm5wWnNpbm8wUkxkOW5xNnI2MmNzb3MxNmJaeDlUYlVmOUh0LWJLVHZ4dldNUF9DMFFUOVJlRjR4WHUyRG9oVFlfbDRIM2FiTm9iSVpnT1U0M1VfVUJFVDNRTkZEblJWVmVIUzN2eDA5NjdKUQ?oc=5",
-      "title": "Investor Outlook: Micron-Anthropic deal highlights strong AI demand",
-      "summary": "",
-      "publishedAt": "2026-06-23T14:56:54.000Z",
-      "publisher": "BNN Bloomberg",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "ad4500398226897a9fd6dee9da97938c18e2b2f5",
-      "company": "Google",
-      "sourceKind": "external",
-      "sourceId": "external-google-major",
-      "sourceLabel": "Major External News - Google",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUjdQa2k5X3loQUVqdGZVSlZ5bm5YU1VkY29PcUR1X2JHZkgtcVdxRFgyb2V5X3JmeTJYbTVkNDlXNVA0UjgxNmVrNE5MRndickhUejJyUnFoWkpyVWhFZHQwM1ZId3lvMkdsNlhwRkpSbUtGMzRRa3p3NDByQUpUTmU3LU1fYjI4bmZLVW92Y3RSd0FHQ0ZxV3h2U0s2X0puTmc?oc=5",
-      "title": "Google DeepMind bets $75M on AI’s future in Hollywood with A24 deal",
-      "summary": "",
-      "publishedAt": "2026-06-22T18:49:44.000Z",
-      "publisher": "TechCrunch",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "c1c33418a91f01823a04bc91539a68a720851efa",
-      "company": "Google",
-      "sourceKind": "external",
-      "sourceId": "external-google-major",
-      "sourceLabel": "Major External News - Google",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRXBLZVNuSkZGY09WbUpLYWtPNjdGaGRvMktHSk4tNjYzRjhXOGdHaUdta0hNaFBIdm1ySFR6NWlTM3gxMG9jX3pwQ3RIZWRWZ083SVNwalgyRTNkWTlVT1h2bTdXbGVTWHF5WWI0eG1QVlhNTElwbUtlXzV4bTI1WHRoM1pLWXItbU1FMXdPX1hqZG5odVJpaVEtRXhPSnhpdFhkLVBkVDJKdnNuWENIVzlRVjZ6Tm1Hc1E?oc=5",
-      "title": "Google DeepMind signs AI research deal with film studio A24",
-      "summary": "",
-      "publishedAt": "2026-06-22T17:52:31.000Z",
-      "publisher": "Reuters",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "ca8887a83e19cb4e395b5ddd1c3cd558c9bed2c1",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYUZaUzhXNloxdERCS1lvN1FTSFU1amtxMWFnUzVGVTMxdDM5S3RRLVNhWjFkOXRNcFdkSnNETXFMUGUwdXZCWkhwc3U0b2NMdW9rTnNoY0MwQ0l3Z1lEN0JmdlY4aEtKa0QzTUh3UVhiQ1hIZkZ4QzVsUVhRQkhxYXItRXFQVUdYNkE?oc=5",
-      "title": "Meta's WhatsApp to be led by Indian startup founder Kunal Shah",
-      "summary": "",
-      "publishedAt": "2026-06-22T13:47:10.000Z",
-      "publisher": "Yahoo Finance Singapore",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "7d24bf9ca7541cd6abee2041c62efa954b3a3748",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOVhRT2oxNjZVcWdnNkp2UUtfc3hOakhDNVpBMFFQTkRaamVpWXAtS29YZHdhOGUzNnlieW5PRmMyak5oR1pESFZ1QXBxTzBYRk1Dd2xBeEVHdmFOTWhBU2ZTNVE0Zy1HY2xoQ3Y4bkRZdmxGUEs3aXZKN0FWVnlNLWRzN3JXOWZScHVCa0hVWFV5MGpnZEEw?oc=5",
-      "title": "Meta (META) Builds Its First India AI Data Center With Reliance",
-      "summary": "",
-      "publishedAt": "2026-06-22T05:09:00.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "f7e9d38ae7326e724cd3dd4ce89afcce1e11f14f",
+      "id": "1a015f5dfa42958d5d31376f9d87f1e17d54017f",
       "company": "OpenAI",
       "sourceKind": "official",
       "sourceId": "openai-newsroom",
       "sourceLabel": "OpenAI Newsroom",
       "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/daybreak-securing-the-world",
-      "title": "Daybreak: Tools for securing every organization in the world",
-      "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
-      "publishedAt": "2026-06-22T10:00:00.000Z",
+      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+      "summary": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
+      "publishedAt": "2026-06-24T06:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "2a799425b04b9199e7d6036b74fe995068ca84b9",
+      "company": "Anthropic",
+      "sourceKind": "official",
+      "sourceId": "anthropic-news",
+      "sourceLabel": "Anthropic News",
+      "homepageUrl": "https://www.anthropic.com/news",
+      "url": "https://www.anthropic.com/news/introducing-claude-tag",
+      "title": "Introducing Claude Tag Claude Tag is a new way for teams to work with Claude.",
+      "summary": "",
+      "publishedAt": "2026-06-23T00:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "anchor",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "d59ef68b1ab70bbc4501bc2bd2e27d0c77987663",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MZm1BWUJCUTdCTURYbDR2TWRSZW95OExGRDNhWFhFcmkxenNYVFJZNFBuXzA5WWs4U2pLSFgtZEE0R283ZzJ4eFhPQlM2WTBZSWZKN3dEdUpBcXV2YVlSYmpYTWVBOVh0eTU3bHdna0Z2NjZucmZDYTdRSlU?oc=5",
+      "title": "OpenAI fires up \"Jalapeño,\" its first homegrown AI chip",
+      "summary": "",
+      "publishedAt": "2026-06-24T13:14:08.000Z",
+      "publisher": "Axios",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "ba51cc4228a57a773aa352651944215336d80d9f",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYVVrOTNJTUltOVpfa3NPZlJnYjNNcHhLZVpfWVdtbVVVdXFyc3dteTlXYllHR0VMYzdLdE1QbC1sUERMcUpzMHZmU0NWWmUxZzJsNjFfRHloX0FGV0NoZ2x3RU5najBSV19FaDl3WVBNM3VuZjVTSC12UEY0LWtBZEhIenN0V3ptV2VjRERBdWlvVFQ4REQ5aGRpUVM3ZUNMTFF2LTFSdURvY1RVbmc?oc=5",
+      "title": "Meta, Microsoft Lead $850 Billion Boom in Data Center Leases",
+      "summary": "",
+      "publishedAt": "2026-06-24T11:00:00.000Z",
+      "publisher": "Bloomberg.com",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "938088b56712bf97e2ee98e21ba4ea5c83715dde",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAwbkltTFczVXVabDFxVi0zWDM3aGVrREU3UUdUb2V1YVB2ZXdzN0RCWHdwd0RYM21DM2FrRWRnNm1LVEFRX0hiendSaEltMTltVVpoSGxPbFZmV2FUNFM4ZDVGaXlYVk91SWJsa1ZYaUdnMU5oZmpURXJoQ28xd9IBgwFBVV95cUxQS3dJMDd3QVkxNG5aRS05WWh3NmVVRWp1V3o1M1ZHSkxZLU5xd0tFeWpGd3pnMmRMUjdvTmJ2d3BKeW1UbC01cy04N1FqVmRyaXFtMm9paksyb2NKR2IxUmlyYW52Nm1zemlrVVJPZVUwZUgyQ0FLTUJmV3pTd0VRWElvVQ?oc=5",
+      "title": "How a $4 billion Indian startup won Meta's backing but lost its founder to WhatsApp",
+      "summary": "",
+      "publishedAt": "2026-06-23T03:45:00.000Z",
+      "publisher": "CNBC",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "6507bbb3977767d18fbdd1e2dbdfa5d1eded2ec6",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+      "title": "Helping build shared standards for advanced AI",
+      "summary": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
+      "publishedAt": "2026-06-23T13:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -753,16 +753,35 @@
       }
     },
     {
-      "id": "0c794cbb255ff7717b1b0584a86302894a74c93c",
+      "id": "7c36fb32c6285fc2a72a693371c03b5a52f25c8f",
       "company": "OpenAI",
       "sourceKind": "official",
       "sourceId": "openai-newsroom",
       "sourceLabel": "OpenAI Newsroom",
       "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/omio",
-      "title": "How Omio is building the future of conversational travel",
-      "summary": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
-      "publishedAt": "2026-06-23T00:00:00.000Z",
+      "url": "https://openai.com/index/gpt-5-immunology-mystery",
+      "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+      "summary": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
+      "publishedAt": "2026-06-23T17:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Technical or research update"
+      }
+    },
+    {
+      "id": "9cd41fe0457b31cc3d0fbef45019941f9d8a12ac",
+      "company": "Microsoft",
+      "sourceKind": "official",
+      "sourceId": "microsoft-ai",
+      "sourceLabel": "Microsoft AI",
+      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
+      "url": "https://news.microsoft.com/source/2026/06/24/microsofts-new-ai-in-education-report-highlights-widespread-adoption-and-increasing-demand-for-support",
+      "title": "Microsoft’s New AI in Education Report highlights widespread adoption and increasing demand for support",
+      "summary": "Microsoft’s New AI in Education Report highlights widespread adoption and increasing demand for support",
+      "publishedAt": "2026-06-24T13:00:04.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -772,35 +791,16 @@
       }
     },
     {
-      "id": "a89b1dbe4a034af6aae8424be99d509c54170487",
+      "id": "9d77f2d8fc74219714b00bba8b9f06a7460bd03b",
       "company": "Google",
       "sourceKind": "official",
       "sourceId": "google-ai",
       "sourceLabel": "Google AI",
       "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/interactions-api-general-availability",
-      "title": "Interactions API: our primary interface for Gemini models and agents",
-      "summary": "Google’s Interactions API is a unified interface for interacting with Gemini models and agents.",
-      "publishedAt": "2026-06-22T17:15:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "f0ab1740b8b7f5b3f7439029864e8548fd6819be",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/patch-the-planet",
-      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-      "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
-      "publishedAt": "2026-06-22T10:00:00.000Z",
+      "url": "https://blog.google/innovation-and-ai/technology/research/helping-communities-prepare-for-natural-disasters",
+      "title": "Towards a world where no one is surprised by a natural disaster",
+      "summary": "An overview of Google’s ongoing crisis resilience efforts and mission, shared at the AI for the Planet event.",
+      "publishedAt": "2026-06-23T19:40:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {

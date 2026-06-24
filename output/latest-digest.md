@@ -1,116 +1,117 @@
 # AI Company Watch
 
-Generated: Jun 23, 2026, 8:10 AM PDT
+Generated: Jun 24, 2026, 8:05 AM PDT
 Lookback window: 7 day(s)
 Sources checked: 12
-Items fetched: 38
+Items fetched: 40
 Items kept: 24
 New items: 14
-External items kept: 14
-Official items kept: 10
+External items kept: 13
+Official items kept: 11
 
 ## Critical External News
 
-### OpenAI - IBM partners with OpenAI on enterprise security AI
-Source: Major External News - OpenAI
+### Anthropic - Micron announces new Anthropic partnership ahead of Q3 earnings
+Source: Major External News - Anthropic
+Publisher: Yahoo Finance Singapore
+Published: Jun 22, 2026
+Why it matters: Corporate move or major external event
+Link: https://news.google.com/rss/articles/CBMimgFBVV95cUxPanBXMTMtcTlsNFRwck1kcEl5dEtBQkNMcDJOdG45UExhRUU2aEYzTU5pN1FTZjhVT2ZINWU3Y3FINFF3S3M4cmRaN2N0dnkyNnVIZUFaM1M4dGRZN0hvZG10ZEFDS1RHWnpYeFhPSExDSkpzNVdjMjJTOTZUMjBrVEhWOG1MdXVEUElhQXY3dDJrQmNWVEowSmlB?oc=5
+
+### Meta - Meta to invest $900 million in India's CRED, taps founder to lead WhatsApp
+Source: Major External News - Meta
 Publisher: Reuters
 Published: Jun 22, 2026
 Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMimgFBVV95cUxNdTFFOHhJWVBSZ09VeTZKWjFFcl9oUmVJdU9PS0xRRXJsbURSRmdsUWY0TXR4TmVxWC1XTXNGaVU1VkRfSmRYUkp0aVlIYXhNSDI4Tlk3Mi0xbW5yRi1yT25zMjZHNE9CWFBSOVI3VUkxU2w4WHhmMDFIMWZLeHhBYVJtaUV6TVFHc0wxcDgxOVNrOWVkQXFzbUVB?oc=5
+Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxOeDR6YTZ1Tk4zWG9sZF9FMU1vVXlHRWhlUkJHNjZ3STVXSExVbDhVZ1lXeHljVVdkanR6LVozR19IdWxiSzJ2TlVCQk1ZT05VUXplT0pXUzJvdzBmaWVyV21xeFU2el9COHpDQXNkTExwVVNHVmp4cjFXODJ2eG11d190bDFZeGNMT1Bhek9BV0NmbnFTYTdxeWQxampoTVZfMW4wa01xZnlaN3RrSTh3ZXhLSDhkNXc?oc=5
 
-### Microsoft - IBM partners with OpenAI on enterprise security AI
-Source: Major External News - Microsoft
-Publisher: Yahoo Finance
-Published: Jun 22, 2026
-Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMipgFBVV95cUxNNkRQQ1FYeHVLQmgtaTdnTTBPbWpPNlFWc3ZvWnpUbm13TUpDY2ppWU9LVHFUVXJ4NWp6R1NqVGJXMVFBdWxmd2lOYWd0RHgxOGRWX3JzYU9HQ0hQbWZOa3I2cElNcEtleTFVb29tRE9aWE1IbGZZNlhfdGNZRjVfZS1lYUpJVHFOdm5kZmIyRmZxTDRNQ1htLVh4NWM2TXhzZG5LTWZR?oc=5
-
-### Google - A24’s New AI Partnership with Google Might Be Different Than the Other Studios’
-Source: Major External News - Google
-Publisher: Yahoo
-Published: Jun 22, 2026
-Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMinwFBVV95cUxQd0owV2VCdmtFYnZFTnBtUlg2UUpTZHd2U2NFWnByaWJZUEZpWWd5NlBVaE9JRDRHbTFfallzLXZnWEd6dDRZRThlSUhKMGZmODEyRjJXTW1ZYnBUcFRQX2dRY1ZscUJuMEE4Zjd2bFFVOWR0dElrTDRiLUlLZzlMYTdUdjVyWDhIREVNZ0NOTHg1M1JJM0Q3SW1vOGNBZUU?oc=5
-
-### Meta - WhatsApp gets new chief as Meta taps India's CRED founder Kunal Shah and invests $900M in startup
-Source: Major External News - Meta
-Publisher: TechCrunch
-Published: Jun 22, 2026
-Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMiygFBVV95cUxQekdvbzV0T1VYdk5yeXhTTjFMdlE5WWY5MDFIUmU2ZVNiWm5obGJQWHQwZVFOY1BJM29FeWYzanNBdVdnMDBaS1Mtb3RsdnhYdlFURVVuckJweXltUjJtLWJnTlVDNzNVTlBvZGFoQmtnNF9hWnNONjhjZ2R2N2QtRzBjS0FvUklsTF91Yy1Zc2JHVEVZeERMQXVsS1JDWlFpTlRmSkpuZ0owdzltVG01VFFDUzVqRXh6cm1lckJKejRUZFJNNkJIQlB3?oc=5
-
-### OpenAI - OpenAI's Patch the Planet program takes its security ambitions well beyond the chatbot business
+### OpenAI - OpenAI unveils first chip as part of Broadcom deal in effort to 'build the full stack'
 Source: Major External News - OpenAI
-Publisher: Startup Fortune
-Published: Jun 22, 2026
+Publisher: CNBC
+Published: Jun 24, 2026
+Why it matters: Flagship model or product launch
+Link: https://news.google.com/rss/articles/CBMiowFBVV95cUxNNGptUXJWcHBjQnZBWDcyOC0tUHJ1WmtZcldTODgxelBmencyVU11SE15dUZGSVFLTW84eFNNa0JReFpBZ19xOE9BV2ZUSFp0b1hNa2JCRlJpV0VBRm1SMzd1WjlhdnRoMkxWcWtoQUVpUks1cGNwUmYxN1F1REROeFRrVXdJMlVVM2tBa0NmMndvZmJUT0h1VEVSMTl0LWlFN0Qw?oc=5
+
+### OpenAI - OpenAI and Broadcom Unveil AI Chip to Run Models Faster, Cheaper
+Source: Major External News - OpenAI
+Publisher: Bloomberg.com
+Published: Jun 24, 2026
+Why it matters: Flagship model or product launch
+Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxOYjRweVRsLWhYbW1kODBpX2EtSVBBWXdjYmtfUEIxb0FlNlpzRVdsMGVjYkhIaVd0QzUwUUdodDE0SHRTamYtc2ZrbktmUVlwWjUzWmhSdlM4aFpvbC1DUDNvR0N1ZnhlSnNvTTNyanRLdWNFQzZCTmtBVEF0QmJ1NWpyTXBmRTVaRXJlTEVNN0dmYUREeGNwZG1GR01JNVlJN0gtMHhnbF8yZVJManN5bmFwVlo?oc=5
+
+### Meta - U.S. Presses Meta to Agree to A.I. Reviews as Security Concerns Rise
+Source: Major External News - Meta
+Publisher: The New York Times
+Published: Jun 23, 2026
 Why it matters: Safety, security, or policy update
-Link: https://news.google.com/rss/articles/CBMivwFBVV95cUxNZkE3LWhiRXRkWV9FXzVJS29nYmJOR1JzLThBbVZGaWF5SWtKTkp3bjB5MkY0eERmd0d4SmZwdm9hQUEtcHFsMnRnbTd1YWRFNm9QSGp0RUY1U29leldNWWJWanFMZWpxaC1tZWdLSE9GU1FGeGFadmNSalN0Y29BcEtSU2ROOXRLVE5fZWtkVldGeHlxNmx1Y0NrY0RNRHhPWW1laGJROEJESURvcEZuSmtkWVlHczJrZnNwZG1ZYw?oc=5
+Link: https://news.google.com/rss/articles/CBMijAFBVV95cUxPcXpJZXF2TDlaNjM2WkZqSVFnWjZCaEdlOUpFWmJfVnlTdkUwcUZhaUpKNTV3TUVvMTFRSnlZYUJCZ3llZ0RIXzI1aXNsWjBkb1hSTDBqNklSTWRIdU9PMEpRalpuZHJsTnZIY2puN2hueVhpQ3lQOU1WX3djN2I1N2o4OXlMZzlIOFYxcA?oc=5
 
 ## Important External News
 
-### Anthropic - Investor Outlook: Micron-Anthropic deal highlights strong AI demand
-Source: Major External News - Anthropic
-Publisher: BNN Bloomberg
+### OpenAI - OpenAI fires up "Jalapeño," its first homegrown AI chip
+Source: Major External News - OpenAI
+Publisher: Axios
+Published: Jun 24, 2026
+Why it matters: Trusted external coverage
+Link: https://news.google.com/rss/articles/CBMifEFVX3lxTE1MZm1BWUJCUTdCTURYbDR2TWRSZW95OExGRDNhWFhFcmkxenNYVFJZNFBuXzA5WWs4U2pLSFgtZEE0R283ZzJ4eFhPQlM2WTBZSWZKN3dEdUpBcXV2YVlSYmpYTWVBOVh0eTU3bHdna0Z2NjZucmZDYTdRSlU?oc=5
+
+### Meta - Meta, Microsoft Lead $850 Billion Boom in Data Center Leases
+Source: Major External News - Meta
+Publisher: Bloomberg.com
+Published: Jun 24, 2026
+Why it matters: Trusted external coverage
+Link: https://news.google.com/rss/articles/CBMirgFBVV95cUxPYVVrOTNJTUltOVpfa3NPZlJnYjNNcHhLZVpfWVdtbVVVdXFyc3dteTlXYllHR0VMYzdLdE1QbC1sUERMcUpzMHZmU0NWWmUxZzJsNjFfRHloX0FGV0NoZ2x3RU5najBSV19FaDl3WVBNM3VuZjVTSC12UEY0LWtBZEhIenN0V3ptV2VjRERBdWlvVFQ4REQ5aGRpUVM3ZUNMTFF2LTFSdURvY1RVbmc?oc=5
+
+### Meta - How a $4 billion Indian startup won Meta's backing but lost its founder to WhatsApp
+Source: Major External News - Meta
+Publisher: CNBC
+Published: Jun 22, 2026
+Why it matters: Trusted external coverage
+Link: https://news.google.com/rss/articles/CBMifkFVX3lxTFAwbkltTFczVXVabDFxVi0zWDM3aGVrREU3UUdUb2V1YVB2ZXdzN0RCWHdwd0RYM21DM2FrRWRnNm1LVEFRX0hiendSaEltMTltVVpoSGxPbFZmV2FUNFM4ZDVGaXlYVk91SWJsa1ZYaUdnMU5oZmpURXJoQ28xd9IBgwFBVV95cUxQS3dJMDd3QVkxNG5aRS05WWh3NmVVRWp1V3o1M1ZHSkxZLU5xd0tFeWpGd3pnMmRMUjdvTmJ2d3BKeW1UbC01cy04N1FqVmRyaXFtMm9paksyb2NKR2IxUmlyYW52Nm1zemlrVVJPZVUwZUgyQ0FLTUJmV3pTd0VRWElvVQ?oc=5
+
+## Critical Official Updates
+
+### OpenAI - OpenAI and Broadcom unveil LLM-optimized inference chip
+Source: OpenAI Newsroom
 Published: Jun 23, 2026
-Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMizgFBVV95cUxOWVFUdjJQamRMalViT0dLWHRlTTJQbS12ME5QbUZLZzZHZnJ1RTBwZ2lqQmNsSm1ZajJmYURDSnphQ3JrQ2V0Tkc0N2p2dmZONDAwcnYwNjZycTc0ZDcyRXBCUm5wWnNpbm8wUkxkOW5xNnI2MmNzb3MxNmJaeDlUYlVmOUh0LWJLVHZ4dldNUF9DMFFUOVJlRjR4WHUyRG9oVFlfbDRIM2FiTm9iSVpnT1U0M1VfVUJFVDNRTkZEblJWVmVIUzN2eDA5NjdKUQ?oc=5
+Why it matters: Flagship model or product launch
+Summary: OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.
+Link: https://openai.com/index/openai-broadcom-jalapeno-inference-chip
 
-### Google - Google DeepMind bets $75M on AI’s future in Hollywood with A24 deal
-Source: Major External News - Google
-Publisher: TechCrunch
+### Anthropic - Introducing Claude Tag Claude Tag is a new way for teams to work with Claude.
+Source: Anthropic News
 Published: Jun 22, 2026
-Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMiogFBVV95cUxQUjdQa2k5X3loQUVqdGZVSlZ5bm5YU1VkY29PcUR1X2JHZkgtcVdxRFgyb2V5X3JmeTJYbTVkNDlXNVA0UjgxNmVrNE5MRndickhUejJyUnFoWkpyVWhFZHQwM1ZId3lvMkdsNlhwRkpSbUtGMzRRa3p3NDByQUpUTmU3LU1fYjI4bmZLVW92Y3RSd0FHQ0ZxV3h2U0s2X0puTmc?oc=5
-
-### Google - Google DeepMind signs AI research deal with film studio A24
-Source: Major External News - Google
-Publisher: Reuters
-Published: Jun 22, 2026
-Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxQRXBLZVNuSkZGY09WbUpLYWtPNjdGaGRvMktHSk4tNjYzRjhXOGdHaUdta0hNaFBIdm1ySFR6NWlTM3gxMG9jX3pwQ3RIZWRWZ083SVNwalgyRTNkWTlVT1h2bTdXbGVTWHF5WWI0eG1QVlhNTElwbUtlXzV4bTI1WHRoM1pLWXItbU1FMXdPX1hqZG5odVJpaVEtRXhPSnhpdFhkLVBkVDJKdnNuWENIVzlRVjZ6Tm1Hc1E?oc=5
-
-### Meta - Meta's WhatsApp to be led by Indian startup founder Kunal Shah
-Source: Major External News - Meta
-Publisher: Yahoo Finance Singapore
-Published: Jun 22, 2026
-Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMiigFBVV95cUxPYUZaUzhXNloxdERCS1lvN1FTSFU1amtxMWFnUzVGVTMxdDM5S3RRLVNhWjFkOXRNcFdkSnNETXFMUGUwdXZCWkhwc3U0b2NMdW9rTnNoY0MwQ0l3Z1lEN0JmdlY4aEtKa0QzTUh3UVhiQ1hIZkZ4QzVsUVhRQkhxYXItRXFQVUdYNkE?oc=5
-
-### Meta - Meta (META) Builds Its First India AI Data Center With Reliance
-Source: Major External News - Meta
-Publisher: Yahoo Finance
-Published: Jun 21, 2026
-Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMilwFBVV95cUxOOVhRT2oxNjZVcWdnNkp2UUtfc3hOakhDNVpBMFFQTkRaamVpWXAtS29YZHdhOGUzNnlieW5PRmMyak5oR1pESFZ1QXBxTzBYRk1Dd2xBeEVHdmFOTWhBU2ZTNVE0Zy1HY2xoQ3Y4bkRZdmxGUEs3aXZKN0FWVnlNLWRzN3JXOWZScHVCa0hVWFV5MGpnZEEw?oc=5
+Why it matters: Flagship model or product launch
+Link: https://www.anthropic.com/news/introducing-claude-tag
 
 ## Important Official Updates
 
-### OpenAI - Daybreak: Tools for securing every organization in the world
+### OpenAI - Helping build shared standards for advanced AI
 Source: OpenAI Newsroom
-Published: Jun 22, 2026
+Published: Jun 23, 2026
 Why it matters: Safety, security, or policy update
-Summary: OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.
-Link: https://openai.com/index/daybreak-securing-the-world
+Summary: OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.
+Link: https://openai.com/index/helping-build-shared-standards-for-advanced-ai
+
+### OpenAI - How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery
+Source: OpenAI Newsroom
+Published: Jun 23, 2026
+Why it matters: Technical or research update
+Summary: GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.
+Link: https://openai.com/index/gpt-5-immunology-mystery
 
 ## Official Company Updates
 
-### OpenAI - How Omio is building the future of conversational travel
-Source: OpenAI Newsroom
-Published: Jun 22, 2026
+### Microsoft - Microsoft’s New AI in Education Report highlights widespread adoption and increasing demand for support
+Source: Microsoft AI
+Published: Jun 24, 2026
 Why it matters: Routine official update
-Summary: Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.
-Link: https://openai.com/index/omio
+Summary: Microsoft’s New AI in Education Report highlights widespread adoption and increasing demand for support
+Link: https://news.microsoft.com/source/2026/06/24/microsofts-new-ai-in-education-report-highlights-widespread-adoption-and-increasing-demand-for-support
 
-### Google - Interactions API: our primary interface for Gemini models and agents
+### Google - Towards a world where no one is surprised by a natural disaster
 Source: Google AI
-Published: Jun 22, 2026
+Published: Jun 23, 2026
 Why it matters: Routine official update
-Summary: Google’s Interactions API is a unified interface for interacting with Gemini models and agents.
-Link: https://blog.google/innovation-and-ai/technology/developers-tools/interactions-api-general-availability
-
-### OpenAI - Patch the Planet: a Daybreak initiative to support open source maintainers
-Source: OpenAI Newsroom
-Published: Jun 22, 2026
-Why it matters: Routine official update
-Summary: OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.
-Link: https://openai.com/index/patch-the-planet
+Summary: An overview of Google’s ongoing crisis resilience efforts and mission, shared at the AI for the Planet event.
+Link: https://blog.google/innovation-and-ai/technology/research/helping-communities-prepare-for-natural-disasters
