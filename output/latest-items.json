@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-24T15:05:13.484Z",
+  "generatedAt": "2026-06-25T15:07:50.447Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -78,19 +78,95 @@
   "totals": {
     "fetched": 40,
     "deduped": 24,
-    "new": 14,
+    "new": 11,
     "byKind": {
-      "official": 11,
-      "external": 13
+      "official": 10,
+      "external": 14
     }
   },
   "items": [
     {
-      "id": "b03b0a31625b3cb3a63d46927640e48b7285b815",
+      "id": "1aa148a9da8424a3a0d57fa10da423c1da4f548d",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTW1BazNBYm11V3pTd096SEZ3NGFodUJlbEpLblViZ1JZaFlJSW5OWjZDcXN6emZOV2RqV0FhcjhhM191TU1hbmRsbWFvY0p0NEx3U0xac2FtSFF3RkNBVzk0dWhVSGlhSnJ1OHFOTGtyellYcTFYb2ViSlgyLXNVTzVfcllOTDRZZGxXemtGVWdNZDh4OWhDU1Z0bw?oc=5",
+      "title": "Qualcomm unveils data center AI chips, Meta as CPU customer",
+      "summary": "",
+      "publishedAt": "2026-06-25T14:17:25.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "b06e26a477765cc5adea70975485d77391bed0ff",
       "company": "OpenAI",
       "sourceKind": "external",
       "sourceId": "external-openai-major",
       "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeERob2VfOXFNZFNqbnZRM3AyTWgtdFlfWjl0amlQYWNlNmVnX0VOcHpYb3RNV2ZJNGttNW1TRkNGUmh5ODJ2VVNoTkxGbWRaS3IxVzZ0blRVdUQwSmp4bGRqNjl1VXRlWmFLeUxSRDFGcmZzOEJYdlRzTXlnUzdTbnlMbjI5VkE?oc=5",
+      "title": "OpenAI and Broadcom Unveil Custom A.I. Chip Design",
+      "summary": "",
+      "publishedAt": "2026-06-24T18:45:05.000Z",
+      "publisher": "The New York Times",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "23f262771c0fab91d4bfb83a9c325fefcaae7d7f",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5WUXB6aWNVTGpySTB4VTZkTnhvR29QZDdFVThwM1JucTkxQVRWc3VkOE9Ec2plRVdWaFlfY0dZb1lOb1hpaHd3MU1uMjRhTHJ1dHhzdzBrYlZVSUhMVjJZVFgyRG5pLWpSb3VDUXF1MjRyQmtMQ2ww?oc=5",
+      "title": "OpenAI just announced its first custom chip to help ChatGPT run better",
+      "summary": "",
+      "publishedAt": "2026-06-24T15:11:04.000Z",
+      "publisher": "CNN",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "e5f8cae3ac07145dafa95cb949f150af4d7bc1a5",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNGptUXJWcHBjQnZBWDcyOC0tUHJ1WmtZcldTODgxelBmencyVU11SE15dUZGSVFLTW84eFNNa0JReFpBZ19xOE9BV2ZUSFp0b1hNa2JCRlJpV0VBRm1SMzd1WjlhdnRoMkxWcWtoQUVpUks1cGNwUmYxN1F1REROeFRrVXdJMlVVM2tBa0NmMndvZmJUT0h1VEVSMTl0LWlFN0Qw0gGoAUFVX3lxTE02Y0xJN1hadWJmbzdjcEpjNElldENrREJGa3UtQ2lLNTRsVDFTYmhfTkRGZTFqT21HLWdFXzBzYVpjVjc1X0NiVTF5SDFoa3BVbUxEZVZoZnZDZDFlU1Vpc0dCWDZFbjZiVFJVMHR0c0Q0U2JSYXZrb1FqQnJlMVFFNTctUm81QTc4aDN5NHpQQVZ3c180TGZOTGppdlZyZWNwUzExSXBVVw?oc=5",
+      "title": "OpenAI unveils first chip as part of Broadcom deal in effort to 'build the full stack'",
+      "summary": "",
+      "publishedAt": "2026-06-24T13:03:28.000Z",
+      "publisher": "CNBC",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "b03b0a31625b3cb3a63d46927640e48b7285b815",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
       "homepageUrl": "https://news.google.com/",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdTFFOHhJWVBSZ09VeTZKWjFFcl9oUmVJdU9PS0xRRXJsbURSRmdsUWY0TXR4TmVxWC1XTXNGaVU1VkRfSmRYUkp0aVlIYXhNSDI4Tlk3Mi0xbW5yRi1yT25zMjZHNE9CWFBSOVI3VUkxU2w4WHhmMDFIMWZLeHhBYVJtaUV6TVFHc0wxcDgxOVNrOWVkQXFzbUVB?oc=5",
       "title": "IBM partners with OpenAI on enterprise security AI",
@@ -100,7 +176,7 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 7,
+        "score": 6,
         "reason": "Corporate move or major external event"
       }
     },
@@ -119,65 +195,8 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "932308bff2bc4e8a7ff0bbecc576a98f6756a29b",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeDR6YTZ1Tk4zWG9sZF9FMU1vVXlHRWhlUkJHNjZ3STVXSExVbDhVZ1lXeHljVVdkanR6LVozR19IdWxiSzJ2TlVCQk1ZT05VUXplT0pXUzJvdzBmaWVyV21xeFU2el9COHpDQXNkTExwVVNHVmp4cjFXODJ2eG11d190bDFZeGNMT1Bhek9BV0NmbnFTYTdxeWQxampoTVZfMW4wa01xZnlaN3RrSTh3ZXhLSDhkNXc?oc=5",
-      "title": "Meta to invest $900 million in India's CRED, taps founder to lead WhatsApp",
-      "summary": "",
-      "publishedAt": "2026-06-22T15:18:47.000Z",
-      "publisher": "Reuters",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "fde30a3bebd18730780aeeb01d22b5370116e550",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNGptUXJWcHBjQnZBWDcyOC0tUHJ1WmtZcldTODgxelBmencyVU11SE15dUZGSVFLTW84eFNNa0JReFpBZ19xOE9BV2ZUSFp0b1hNa2JCRlJpV0VBRm1SMzd1WjlhdnRoMkxWcWtoQUVpUks1cGNwUmYxN1F1REROeFRrVXdJMlVVM2tBa0NmMndvZmJUT0h1VEVSMTl0LWlFN0Qw?oc=5",
-      "title": "OpenAI unveils first chip as part of Broadcom deal in effort to 'build the full stack'",
-      "summary": "",
-      "publishedAt": "2026-06-24T13:03:28.000Z",
-      "publisher": "CNBC",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
         "score": 6,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "4cd943df941a68b2aae8835a3ea7899fd65c5c7f",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYjRweVRsLWhYbW1kODBpX2EtSVBBWXdjYmtfUEIxb0FlNlpzRVdsMGVjYkhIaVd0QzUwUUdodDE0SHRTamYtc2ZrbktmUVlwWjUzWmhSdlM4aFpvbC1DUDNvR0N1ZnhlSnNvTTNyanRLdWNFQzZCTmtBVEF0QmJ1NWpyTXBmRTVaRXJlTEVNN0dmYUREeGNwZG1GR01JNVlJN0gtMHhnbF8yZVJManN5bmFwVlo?oc=5",
-      "title": "OpenAI and Broadcom Unveil AI Chip to Run Models Faster, Cheaper",
-      "summary": "",
-      "publishedAt": "2026-06-24T13:00:00.000Z",
-      "publisher": "Bloomberg.com",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Flagship model or product launch"
+        "reason": "Corporate move or major external event"
       }
     },
     {
@@ -190,13 +209,32 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcXpJZXF2TDlaNjM2WkZqSVFnWjZCaEdlOUpFWmJfVnlTdkUwcUZhaUpKNTV3TUVvMTFRSnlZYUJCZ3llZ0RIXzI1aXNsWjBkb1hSTDBqNklSTWRIdU9PMEpRalpuZHJsTnZIY2puN2hueVhpQ3lQOU1WX3djN2I1N2o4OXlMZzlIOFYxcA?oc=5",
       "title": "U.S. Presses Meta to Agree to A.I. Reviews as Security Concerns Rise",
       "summary": "",
-      "publishedAt": "2026-06-23T21:45:20.000Z",
+      "publishedAt": "2026-06-23T21:28:27.000Z",
       "publisher": "The New York Times",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
         "score": 5,
         "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "8920bc1fc121ebcc272a8ebfa5f8767da559ed76",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash",
+      "title": "Introducing computer use in Gemini 3.5 Flash",
+      "summary": "A look at the built-in computer use tool in Gemini 3.5 Flash.",
+      "publishedAt": "2026-06-24T16:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Flagship model or product launch"
       }
     },
     {
@@ -212,25 +250,6 @@
       "publishedAt": "2026-06-24T06:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "2a799425b04b9199e7d6036b74fe995068ca84b9",
-      "company": "Anthropic",
-      "sourceKind": "official",
-      "sourceId": "anthropic-news",
-      "sourceLabel": "Anthropic News",
-      "homepageUrl": "https://www.anthropic.com/news",
-      "url": "https://www.anthropic.com/news/introducing-claude-tag",
-      "title": "Introducing Claude Tag Claude Tag is a new way for teams to work with Claude.",
-      "summary": "",
-      "publishedAt": "2026-06-23T00:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "anchor",
       "classification": {
         "bucket": "critical",
         "score": 5,
@@ -276,17 +295,55 @@
       }
     },
     {
-      "id": "d59ef68b1ab70bbc4501bc2bd2e27d0c77987663",
+      "id": "75d4a6cfd94c171388e1c16b51e278608ad7647b",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaTFucDNpcUF3cTdzSDV2Ull5U1I2akRqd3Y0cFBFZThzbUFxNVNWUkxiUTd1TjBreUJaanN0SkVGWFBGQUR1c2hzYUlqTk9TM3JXbUtzQ2RYYXRSVGFNYXQ4UHV1NFhCMUtoU1U5WFBRdXZCajg1WXNwVk9Xb2xKbUxZc3dmaVVjcVBTekpwZmFsT1ZEb1V3bQ?oc=5",
+      "title": "Qualcomm Jumps 11%, Then Pulls Back Amid Meta Platforms Data Center Deal and Wave of Analyst Target Hikes",
+      "summary": "",
+      "publishedAt": "2026-06-25T14:13:36.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "653607f335d6168206fcae97d3c35889a25353a8",
       "company": "OpenAI",
       "sourceKind": "external",
       "sourceId": "external-openai-major",
       "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MZm1BWUJCUTdCTURYbDR2TWRSZW95OExGRDNhWFhFcmkxenNYVFJZNFBuXzA5WWs4U2pLSFgtZEE0R283ZzJ4eFhPQlM2WTBZSWZKN3dEdUpBcXV2YVlSYmpYTWVBOVh0eTU3bHdna0Z2NjZucmZDYTdRSlU?oc=5",
-      "title": "OpenAI fires up \"Jalapeño,\" its first homegrown AI chip",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAyUEkxVzZyVVJYeFFNR2o3bXZfaHhBR29CWm5wTlVNV0FIQm1IT1FvMEwxSkxHaUFwRXEzY1l0UEZuZ3BUZmZwdGpVR0NGemNlT3daT0NTV3g5amgwRm96bXc5RlVKODZhSlo3MzRWOXFZOFNudmlVYQ?oc=5",
+      "title": "OpenAI and Broadcom’s AI chip has a name: Jalapeño",
       "summary": "",
-      "publishedAt": "2026-06-24T13:14:08.000Z",
-      "publisher": "Axios",
+      "publishedAt": "2026-06-25T09:48:00.000Z",
+      "publisher": "Fortune",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "5e5eaf9e61a13db89822e77073acca6aa74ca29f",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdm5rcUt4bkc4WC1sM1FDY25PbWNJQTlpVVhZNElqS04yWVZNRlcxTXlaVEhaTzdCSDktejhzNFVpNDNjcGV3NVdHN1hyUmUtWDAwaFpmNEE3UVhaSzQ0c0JONEtaRzNsVHJxSE9ZNm4zYzhwa1RlRGRlelZfQk5TVUctY09nLUljSnhRYUlxRi1aWlZhRENWVlVmM2w5UExHd1hYdWFXaW1tR0o3LVVVNGVvNF9IT3RtNmlteHBwTWM?oc=5",
+      "title": "Broadcom stock needs a win. The new OpenAI co-designed Jalapeno chip might do the trick",
+      "summary": "",
+      "publishedAt": "2026-06-24T17:46:59.000Z",
+      "publisher": "CNBC",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -314,98 +371,41 @@
       }
     },
     {
-      "id": "938088b56712bf97e2ee98e21ba4ea5c83715dde",
+      "id": "5d8404803c390543c5c506c23ed212236d05dfa9",
       "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAwbkltTFczVXVabDFxVi0zWDM3aGVrREU3UUdUb2V1YVB2ZXdzN0RCWHdwd0RYM21DM2FrRWRnNm1LVEFRX0hiendSaEltMTltVVpoSGxPbFZmV2FUNFM4ZDVGaXlYVk91SWJsa1ZYaUdnMU5oZmpURXJoQ28xd9IBgwFBVV95cUxQS3dJMDd3QVkxNG5aRS05WWh3NmVVRWp1V3o1M1ZHSkxZLU5xd0tFeWpGd3pnMmRMUjdvTmJ2d3BKeW1UbC01cy04N1FqVmRyaXFtMm9paksyb2NKR2IxUmlyYW52Nm1zemlrVVJPZVUwZUgyQ0FLTUJmV3pTd0VRWElvVQ?oc=5",
-      "title": "How a $4 billion Indian startup won Meta's backing but lost its founder to WhatsApp",
-      "summary": "",
-      "publishedAt": "2026-06-23T03:45:00.000Z",
-      "publisher": "CNBC",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "ad4500398226897a9fd6dee9da97938c18e2b2f5",
-      "company": "Google",
-      "sourceKind": "external",
-      "sourceId": "external-google-major",
-      "sourceLabel": "Major External News - Google",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUjdQa2k5X3loQUVqdGZVSlZ5bm5YU1VkY29PcUR1X2JHZkgtcVdxRFgyb2V5X3JmeTJYbTVkNDlXNVA0UjgxNmVrNE5MRndickhUejJyUnFoWkpyVWhFZHQwM1ZId3lvMkdsNlhwRkpSbUtGMzRRa3p3NDByQUpUTmU3LU1fYjI4bmZLVW92Y3RSd0FHQ0ZxV3h2U0s2X0puTmc?oc=5",
-      "title": "Google DeepMind bets $75M on AI’s future in Hollywood with A24 deal",
-      "summary": "",
-      "publishedAt": "2026-06-22T18:49:44.000Z",
-      "publisher": "TechCrunch",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "c1c33418a91f01823a04bc91539a68a720851efa",
-      "company": "Google",
-      "sourceKind": "external",
-      "sourceId": "external-google-major",
-      "sourceLabel": "Major External News - Google",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRXBLZVNuSkZGY09WbUpLYWtPNjdGaGRvMktHSk4tNjYzRjhXOGdHaUdta0hNaFBIdm1ySFR6NWlTM3gxMG9jX3pwQ3RIZWRWZ083SVNwalgyRTNkWTlVT1h2bTdXbGVTWHF5WWI0eG1QVlhNTElwbUtlXzV4bTI1WHRoM1pLWXItbU1FMXdPX1hqZG5odVJpaVEtRXhPSnhpdFhkLVBkVDJKdnNuWENIVzlRVjZ6Tm1Hc1E?oc=5",
-      "title": "Google DeepMind signs AI research deal with film studio A24",
-      "summary": "",
-      "publishedAt": "2026-06-22T17:52:31.000Z",
-      "publisher": "Reuters",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "26b9ac9c180ef608710bf43da73057665b735ff5",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNa2JZRG5wY0g4WGZmOFZ3cGJuck5qUURoU3c3REUxN3p3MlVtNjJ4bzlnaTdOYWxCel83VTBqLVYwMjIyNE53VnZaMDNKbHRaZ1QwcWlqekdSRFpvc2dnYndxR2RMWlN2V3dNQTN3QWJOLWxYLU96eC10OHkxX0lKekVaTXFhUG1UZERXblRNTExST3NfQWQ2dExLOXVvNGt1UllZMkZkaTlBNksyV05POUpxUEkyQQ?oc=5",
-      "title": "Trump Tells Axios He Doesn’t See Anthropic as US Security Threat",
-      "summary": "",
-      "publishedAt": "2026-06-19T19:49:23.000Z",
-      "publisher": "Bloomberg.com",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "6507bbb3977767d18fbdd1e2dbdfa5d1eded2ec6",
-      "company": "OpenAI",
       "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
-      "title": "Helping build shared standards for advanced AI",
-      "summary": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
-      "publishedAt": "2026-06-23T13:00:00.000Z",
+      "sourceId": "meta-newsroom",
+      "sourceLabel": "Meta Newsroom",
+      "homepageUrl": "https://about.fb.com/news/",
+      "url": "https://about.fb.com/news/2026/06/launch-of-metas-small-business-growth-academy-across-asia-pacific",
+      "title": "Launch of Meta’s Small Business Growth Academy Across Asia-Pacific to Boost AI Adoption and Digital Skills",
+      "summary": "Meta's Small Business Growth Academy will provide practical AI tools, advertising, and cross-border growth training to help small businesses scale across Asia-Pacific. The post Launch of Meta’s Small Business Growth Academy Across Asia-Pacific to Boost AI Adoption and Digital Sk...",
+      "publishedAt": "2026-06-23T13:00:09.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
         "score": 4,
-        "reason": "Safety, security, or policy update"
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "2a799425b04b9199e7d6036b74fe995068ca84b9",
+      "company": "Anthropic",
+      "sourceKind": "official",
+      "sourceId": "anthropic-news",
+      "sourceLabel": "Anthropic News",
+      "homepageUrl": "https://www.anthropic.com/news",
+      "url": "https://www.anthropic.com/news/introducing-claude-tag",
+      "title": "Introducing Claude Tag Claude Tag is a new way for teams to work with Claude.",
+      "summary": "",
+      "publishedAt": "2026-06-23T00:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "anchor",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Flagship model or product launch"
       }
     },
     {
@@ -428,22 +428,79 @@
       }
     },
     {
-      "id": "d4224beec3238823c6779d3c562c2d4f1d4b578d",
-      "company": "Microsoft",
+      "id": "ad4500398226897a9fd6dee9da97938c18e2b2f5",
+      "company": "Google",
       "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
+      "sourceId": "external-google-major",
+      "sourceLabel": "Major External News - Google",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNXV3WDNkY0tpSjlfQnUtbGN4SHRZTVZZTndPMVY5NmJ0NGZCYmotak1XREN1Qmc5SkhXZjJmcU5uWGg1dVlZZlc0Q3VzZFc5N3FlUDhfQ2hMbHhTZ2Zfb2RLdkEwOHhicmt4cWg2RHpfMGhreFU3eVJXX21ETGN2VDJuWHBIY2d5bklwM3hWRTbSAZYBQVVfeXFMTjdJcE9TVk8zcW9nMzdTLTJYTlpCSW9Hcmo0eV9WaDRlX0thLVJHMmR4Y0xWOGZFdTZ0Ri1qaWs0emtUWFNpWS1zT0xkNlRlOFpjbkJkczBtdTE2aW9oUzVtM1pYOHlQd2gtQzVwTlUxaHF6VzV3bWxTdnljVE1ZaWRpTC1JMGNpME5oeUVzOFRlYTAxTXFB?oc=5",
-      "title": "Chevron to fuel massive Microsoft data center in Texas using natural gas",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUjdQa2k5X3loQUVqdGZVSlZ5bm5YU1VkY29PcUR1X2JHZkgtcVdxRFgyb2V5X3JmeTJYbTVkNDlXNVA0UjgxNmVrNE5MRndickhUejJyUnFoWkpyVWhFZHQwM1ZId3lvMkdsNlhwRkpSbUtGMzRRa3p3NDByQUpUTmU3LU1fYjI4bmZLVW92Y3RSd0FHQ0ZxV3h2U0s2X0puTmc?oc=5",
+      "title": "Google DeepMind bets $75M on AI’s future in Hollywood with A24 deal",
       "summary": "",
-      "publishedAt": "2026-06-22T11:59:47.000Z",
-      "publisher": "CNBC",
+      "publishedAt": "2026-06-22T18:49:44.000Z",
+      "publisher": "TechCrunch",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
         "score": 3,
         "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "c1c33418a91f01823a04bc91539a68a720851efa",
+      "company": "Google",
+      "sourceKind": "external",
+      "sourceId": "external-google-major",
+      "sourceLabel": "Major External News - Google",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRXBLZVNuSkZGY09WbUpLYWtPNjdGaGRvMktHSk4tNjYzRjhXOGdHaUdta0hNaFBIdm1ySFR6NWlTM3gxMG9jX3pwQ3RIZWRWZ083SVNwalgyRTNkWTlVT1h2bTdXbGVTWHF5WWI0eG1QVlhNTElwbUtlXzV4bTI1WHRoM1pLWXItbU1FMXdPX1hqZG5odVJpaVEtRXhPSnhpdFhkLVBkVDJKdnNuWENIVzlRVjZ6Tm1Hc1E?oc=5",
+      "title": "Google DeepMind signs AI research deal with film studio A24",
+      "summary": "",
+      "publishedAt": "2026-06-22T17:52:31.000Z",
+      "publisher": "Reuters",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "63da5ce3aaab3580144ff7a64e189b3dc6465e74",
+      "company": "Google",
+      "sourceKind": "external",
+      "sourceId": "external-google-major",
+      "sourceLabel": "Major External News - Google",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdXhaNFN0RFAwdVZYYkVlakltb2k2SklZLTFpOUpyRnlWT2VaVmhidEpCS08yQTdIaTBLRF9rSEM4cnJCczBqZnpyeVVpcnlKbXR3a3J4MVZnYk9WVUctNE9wSVZxaVgtUS1YWVlnOWh0TDNiVmRsd3lsU3owTVpOQ0RLMTE0cW1UTmJFdkdleEFwcG5FcWNjRA?oc=5",
+      "title": "Google's AI Chip Strategy Gets More Ambitious",
+      "summary": "",
+      "publishedAt": "2026-06-19T12:09:22.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "2b6976f96bb5f02f36377dd0116bc3386395b79e",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/how-agents-are-transforming-work",
+      "title": "How agents are transforming work",
+      "summary": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
+      "publishedAt": "2026-06-25T02:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Technical or research update"
       }
     },
     {
@@ -463,274 +520,6 @@
         "bucket": "important",
         "score": 3,
         "reason": "Technical or research update"
-      }
-    },
-    {
-      "id": "f7e9d38ae7326e724cd3dd4ce89afcce1e11f14f",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/daybreak-securing-the-world",
-      "title": "Daybreak: Tools for securing every organization in the world",
-      "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
-      "publishedAt": "2026-06-22T10:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "3a0b4572422c1a8cbc95ae7fb7158fc8dc49f9d0",
-      "company": "Anthropic",
-      "sourceKind": "official",
-      "sourceId": "anthropic-news",
-      "sourceLabel": "Anthropic News",
-      "homepageUrl": "https://www.anthropic.com/news",
-      "url": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy",
-      "title": "Responsible Scaling Policy",
-      "summary": "",
-      "publishedAt": null,
-      "publisher": "",
-      "discoveryMethod": "anchor",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "9cd41fe0457b31cc3d0fbef45019941f9d8a12ac",
-      "company": "Microsoft",
-      "sourceKind": "official",
-      "sourceId": "microsoft-ai",
-      "sourceLabel": "Microsoft AI",
-      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
-      "url": "https://news.microsoft.com/source/2026/06/24/microsofts-new-ai-in-education-report-highlights-widespread-adoption-and-increasing-demand-for-support",
-      "title": "Microsoft’s New AI in Education Report highlights widespread adoption and increasing demand for support",
-      "summary": "Microsoft’s New AI in Education Report highlights widespread adoption and increasing demand for support",
-      "publishedAt": "2026-06-24T13:00:04.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "9d77f2d8fc74219714b00bba8b9f06a7460bd03b",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/technology/research/helping-communities-prepare-for-natural-disasters",
-      "title": "Towards a world where no one is surprised by a natural disaster",
-      "summary": "An overview of Google’s ongoing crisis resilience efforts and mission, shared at the AI for the Planet event.",
-      "publishedAt": "2026-06-23T19:40:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    }
-  ],
-  "newItems": [
-    {
-      "id": "c66c5111ef2c88e469e9a04c570d49e2f622bc92",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPanBXMTMtcTlsNFRwck1kcEl5dEtBQkNMcDJOdG45UExhRUU2aEYzTU5pN1FTZjhVT2ZINWU3Y3FINFF3S3M4cmRaN2N0dnkyNnVIZUFaM1M4dGRZN0hvZG10ZEFDS1RHWnpYeFhPSExDSkpzNVdjMjJTOTZUMjBrVEhWOG1MdXVEUElhQXY3dDJrQmNWVEowSmlB?oc=5",
-      "title": "Micron announces new Anthropic partnership ahead of Q3 earnings",
-      "summary": "",
-      "publishedAt": "2026-06-22T15:20:00.000Z",
-      "publisher": "Yahoo Finance Singapore",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "932308bff2bc4e8a7ff0bbecc576a98f6756a29b",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeDR6YTZ1Tk4zWG9sZF9FMU1vVXlHRWhlUkJHNjZ3STVXSExVbDhVZ1lXeHljVVdkanR6LVozR19IdWxiSzJ2TlVCQk1ZT05VUXplT0pXUzJvdzBmaWVyV21xeFU2el9COHpDQXNkTExwVVNHVmp4cjFXODJ2eG11d190bDFZeGNMT1Bhek9BV0NmbnFTYTdxeWQxampoTVZfMW4wa01xZnlaN3RrSTh3ZXhLSDhkNXc?oc=5",
-      "title": "Meta to invest $900 million in India's CRED, taps founder to lead WhatsApp",
-      "summary": "",
-      "publishedAt": "2026-06-22T15:18:47.000Z",
-      "publisher": "Reuters",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "fde30a3bebd18730780aeeb01d22b5370116e550",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNGptUXJWcHBjQnZBWDcyOC0tUHJ1WmtZcldTODgxelBmencyVU11SE15dUZGSVFLTW84eFNNa0JReFpBZ19xOE9BV2ZUSFp0b1hNa2JCRlJpV0VBRm1SMzd1WjlhdnRoMkxWcWtoQUVpUks1cGNwUmYxN1F1REROeFRrVXdJMlVVM2tBa0NmMndvZmJUT0h1VEVSMTl0LWlFN0Qw?oc=5",
-      "title": "OpenAI unveils first chip as part of Broadcom deal in effort to 'build the full stack'",
-      "summary": "",
-      "publishedAt": "2026-06-24T13:03:28.000Z",
-      "publisher": "CNBC",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "4cd943df941a68b2aae8835a3ea7899fd65c5c7f",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYjRweVRsLWhYbW1kODBpX2EtSVBBWXdjYmtfUEIxb0FlNlpzRVdsMGVjYkhIaVd0QzUwUUdodDE0SHRTamYtc2ZrbktmUVlwWjUzWmhSdlM4aFpvbC1DUDNvR0N1ZnhlSnNvTTNyanRLdWNFQzZCTmtBVEF0QmJ1NWpyTXBmRTVaRXJlTEVNN0dmYUREeGNwZG1GR01JNVlJN0gtMHhnbF8yZVJManN5bmFwVlo?oc=5",
-      "title": "OpenAI and Broadcom Unveil AI Chip to Run Models Faster, Cheaper",
-      "summary": "",
-      "publishedAt": "2026-06-24T13:00:00.000Z",
-      "publisher": "Bloomberg.com",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "1ff4b1bb62753e1310bee719492e16cfeace1bd5",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcXpJZXF2TDlaNjM2WkZqSVFnWjZCaEdlOUpFWmJfVnlTdkUwcUZhaUpKNTV3TUVvMTFRSnlZYUJCZ3llZ0RIXzI1aXNsWjBkb1hSTDBqNklSTWRIdU9PMEpRalpuZHJsTnZIY2puN2hueVhpQ3lQOU1WX3djN2I1N2o4OXlMZzlIOFYxcA?oc=5",
-      "title": "U.S. Presses Meta to Agree to A.I. Reviews as Security Concerns Rise",
-      "summary": "",
-      "publishedAt": "2026-06-23T21:45:20.000Z",
-      "publisher": "The New York Times",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "1a015f5dfa42958d5d31376f9d87f1e17d54017f",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
-      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
-      "summary": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
-      "publishedAt": "2026-06-24T06:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "2a799425b04b9199e7d6036b74fe995068ca84b9",
-      "company": "Anthropic",
-      "sourceKind": "official",
-      "sourceId": "anthropic-news",
-      "sourceLabel": "Anthropic News",
-      "homepageUrl": "https://www.anthropic.com/news",
-      "url": "https://www.anthropic.com/news/introducing-claude-tag",
-      "title": "Introducing Claude Tag Claude Tag is a new way for teams to work with Claude.",
-      "summary": "",
-      "publishedAt": "2026-06-23T00:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "anchor",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "d59ef68b1ab70bbc4501bc2bd2e27d0c77987663",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MZm1BWUJCUTdCTURYbDR2TWRSZW95OExGRDNhWFhFcmkxenNYVFJZNFBuXzA5WWs4U2pLSFgtZEE0R283ZzJ4eFhPQlM2WTBZSWZKN3dEdUpBcXV2YVlSYmpYTWVBOVh0eTU3bHdna0Z2NjZucmZDYTdRSlU?oc=5",
-      "title": "OpenAI fires up \"Jalapeño,\" its first homegrown AI chip",
-      "summary": "",
-      "publishedAt": "2026-06-24T13:14:08.000Z",
-      "publisher": "Axios",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "ba51cc4228a57a773aa352651944215336d80d9f",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYVVrOTNJTUltOVpfa3NPZlJnYjNNcHhLZVpfWVdtbVVVdXFyc3dteTlXYllHR0VMYzdLdE1QbC1sUERMcUpzMHZmU0NWWmUxZzJsNjFfRHloX0FGV0NoZ2x3RU5najBSV19FaDl3WVBNM3VuZjVTSC12UEY0LWtBZEhIenN0V3ptV2VjRERBdWlvVFQ4REQ5aGRpUVM3ZUNMTFF2LTFSdURvY1RVbmc?oc=5",
-      "title": "Meta, Microsoft Lead $850 Billion Boom in Data Center Leases",
-      "summary": "",
-      "publishedAt": "2026-06-24T11:00:00.000Z",
-      "publisher": "Bloomberg.com",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "938088b56712bf97e2ee98e21ba4ea5c83715dde",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAwbkltTFczVXVabDFxVi0zWDM3aGVrREU3UUdUb2V1YVB2ZXdzN0RCWHdwd0RYM21DM2FrRWRnNm1LVEFRX0hiendSaEltMTltVVpoSGxPbFZmV2FUNFM4ZDVGaXlYVk91SWJsa1ZYaUdnMU5oZmpURXJoQ28xd9IBgwFBVV95cUxQS3dJMDd3QVkxNG5aRS05WWh3NmVVRWp1V3o1M1ZHSkxZLU5xd0tFeWpGd3pnMmRMUjdvTmJ2d3BKeW1UbC01cy04N1FqVmRyaXFtMm9paksyb2NKR2IxUmlyYW52Nm1zemlrVVJPZVUwZUgyQ0FLTUJmV3pTd0VRWElvVQ?oc=5",
-      "title": "How a $4 billion Indian startup won Meta's backing but lost its founder to WhatsApp",
-      "summary": "",
-      "publishedAt": "2026-06-23T03:45:00.000Z",
-      "publisher": "CNBC",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
       }
     },
     {
@@ -748,65 +537,219 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
-        "score": 4,
+        "score": 3,
         "reason": "Safety, security, or policy update"
+      }
+    }
+  ],
+  "newItems": [
+    {
+      "id": "1aa148a9da8424a3a0d57fa10da423c1da4f548d",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTW1BazNBYm11V3pTd096SEZ3NGFodUJlbEpLblViZ1JZaFlJSW5OWjZDcXN6emZOV2RqV0FhcjhhM191TU1hbmRsbWFvY0p0NEx3U0xac2FtSFF3RkNBVzk0dWhVSGlhSnJ1OHFOTGtyellYcTFYb2ViSlgyLXNVTzVfcllOTDRZZGxXemtGVWdNZDh4OWhDU1Z0bw?oc=5",
+      "title": "Qualcomm unveils data center AI chips, Meta as CPU customer",
+      "summary": "",
+      "publishedAt": "2026-06-25T14:17:25.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Flagship model or product launch"
       }
     },
     {
-      "id": "7c36fb32c6285fc2a72a693371c03b5a52f25c8f",
+      "id": "b06e26a477765cc5adea70975485d77391bed0ff",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeERob2VfOXFNZFNqbnZRM3AyTWgtdFlfWjl0amlQYWNlNmVnX0VOcHpYb3RNV2ZJNGttNW1TRkNGUmh5ODJ2VVNoTkxGbWRaS3IxVzZ0blRVdUQwSmp4bGRqNjl1VXRlWmFLeUxSRDFGcmZzOEJYdlRzTXlnUzdTbnlMbjI5VkE?oc=5",
+      "title": "OpenAI and Broadcom Unveil Custom A.I. Chip Design",
+      "summary": "",
+      "publishedAt": "2026-06-24T18:45:05.000Z",
+      "publisher": "The New York Times",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "23f262771c0fab91d4bfb83a9c325fefcaae7d7f",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5WUXB6aWNVTGpySTB4VTZkTnhvR29QZDdFVThwM1JucTkxQVRWc3VkOE9Ec2plRVdWaFlfY0dZb1lOb1hpaHd3MU1uMjRhTHJ1dHhzdzBrYlZVSUhMVjJZVFgyRG5pLWpSb3VDUXF1MjRyQmtMQ2ww?oc=5",
+      "title": "OpenAI just announced its first custom chip to help ChatGPT run better",
+      "summary": "",
+      "publishedAt": "2026-06-24T15:11:04.000Z",
+      "publisher": "CNN",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "e5f8cae3ac07145dafa95cb949f150af4d7bc1a5",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNGptUXJWcHBjQnZBWDcyOC0tUHJ1WmtZcldTODgxelBmencyVU11SE15dUZGSVFLTW84eFNNa0JReFpBZ19xOE9BV2ZUSFp0b1hNa2JCRlJpV0VBRm1SMzd1WjlhdnRoMkxWcWtoQUVpUks1cGNwUmYxN1F1REROeFRrVXdJMlVVM2tBa0NmMndvZmJUT0h1VEVSMTl0LWlFN0Qw0gGoAUFVX3lxTE02Y0xJN1hadWJmbzdjcEpjNElldENrREJGa3UtQ2lLNTRsVDFTYmhfTkRGZTFqT21HLWdFXzBzYVpjVjc1X0NiVTF5SDFoa3BVbUxEZVZoZnZDZDFlU1Vpc0dCWDZFbjZiVFJVMHR0c0Q0U2JSYXZrb1FqQnJlMVFFNTctUm81QTc4aDN5NHpQQVZ3c180TGZOTGppdlZyZWNwUzExSXBVVw?oc=5",
+      "title": "OpenAI unveils first chip as part of Broadcom deal in effort to 'build the full stack'",
+      "summary": "",
+      "publishedAt": "2026-06-24T13:03:28.000Z",
+      "publisher": "CNBC",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "8920bc1fc121ebcc272a8ebfa5f8767da559ed76",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash",
+      "title": "Introducing computer use in Gemini 3.5 Flash",
+      "summary": "A look at the built-in computer use tool in Gemini 3.5 Flash.",
+      "publishedAt": "2026-06-24T16:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "75d4a6cfd94c171388e1c16b51e278608ad7647b",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaTFucDNpcUF3cTdzSDV2Ull5U1I2akRqd3Y0cFBFZThzbUFxNVNWUkxiUTd1TjBreUJaanN0SkVGWFBGQUR1c2hzYUlqTk9TM3JXbUtzQ2RYYXRSVGFNYXQ4UHV1NFhCMUtoU1U5WFBRdXZCajg1WXNwVk9Xb2xKbUxZc3dmaVVjcVBTekpwZmFsT1ZEb1V3bQ?oc=5",
+      "title": "Qualcomm Jumps 11%, Then Pulls Back Amid Meta Platforms Data Center Deal and Wave of Analyst Target Hikes",
+      "summary": "",
+      "publishedAt": "2026-06-25T14:13:36.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "653607f335d6168206fcae97d3c35889a25353a8",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAyUEkxVzZyVVJYeFFNR2o3bXZfaHhBR29CWm5wTlVNV0FIQm1IT1FvMEwxSkxHaUFwRXEzY1l0UEZuZ3BUZmZwdGpVR0NGemNlT3daT0NTV3g5amgwRm96bXc5RlVKODZhSlo3MzRWOXFZOFNudmlVYQ?oc=5",
+      "title": "OpenAI and Broadcom’s AI chip has a name: Jalapeño",
+      "summary": "",
+      "publishedAt": "2026-06-25T09:48:00.000Z",
+      "publisher": "Fortune",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "5e5eaf9e61a13db89822e77073acca6aa74ca29f",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdm5rcUt4bkc4WC1sM1FDY25PbWNJQTlpVVhZNElqS04yWVZNRlcxTXlaVEhaTzdCSDktejhzNFVpNDNjcGV3NVdHN1hyUmUtWDAwaFpmNEE3UVhaSzQ0c0JONEtaRzNsVHJxSE9ZNm4zYzhwa1RlRGRlelZfQk5TVUctY09nLUljSnhRYUlxRi1aWlZhRENWVlVmM2w5UExHd1hYdWFXaW1tR0o3LVVVNGVvNF9IT3RtNmlteHBwTWM?oc=5",
+      "title": "Broadcom stock needs a win. The new OpenAI co-designed Jalapeno chip might do the trick",
+      "summary": "",
+      "publishedAt": "2026-06-24T17:46:59.000Z",
+      "publisher": "CNBC",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "5d8404803c390543c5c506c23ed212236d05dfa9",
+      "company": "Meta",
+      "sourceKind": "official",
+      "sourceId": "meta-newsroom",
+      "sourceLabel": "Meta Newsroom",
+      "homepageUrl": "https://about.fb.com/news/",
+      "url": "https://about.fb.com/news/2026/06/launch-of-metas-small-business-growth-academy-across-asia-pacific",
+      "title": "Launch of Meta’s Small Business Growth Academy Across Asia-Pacific to Boost AI Adoption and Digital Skills",
+      "summary": "Meta's Small Business Growth Academy will provide practical AI tools, advertising, and cross-border growth training to help small businesses scale across Asia-Pacific. The post Launch of Meta’s Small Business Growth Academy Across Asia-Pacific to Boost AI Adoption and Digital Sk...",
+      "publishedAt": "2026-06-23T13:00:09.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "63da5ce3aaab3580144ff7a64e189b3dc6465e74",
+      "company": "Google",
+      "sourceKind": "external",
+      "sourceId": "external-google-major",
+      "sourceLabel": "Major External News - Google",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdXhaNFN0RFAwdVZYYkVlakltb2k2SklZLTFpOUpyRnlWT2VaVmhidEpCS08yQTdIaTBLRF9rSEM4cnJCczBqZnpyeVVpcnlKbXR3a3J4MVZnYk9WVUctNE9wSVZxaVgtUS1YWVlnOWh0TDNiVmRsd3lsU3owTVpOQ0RLMTE0cW1UTmJFdkdleEFwcG5FcWNjRA?oc=5",
+      "title": "Google's AI Chip Strategy Gets More Ambitious",
+      "summary": "",
+      "publishedAt": "2026-06-19T12:09:22.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "2b6976f96bb5f02f36377dd0116bc3386395b79e",
       "company": "OpenAI",
       "sourceKind": "official",
       "sourceId": "openai-newsroom",
       "sourceLabel": "OpenAI Newsroom",
       "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/gpt-5-immunology-mystery",
-      "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
-      "summary": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
-      "publishedAt": "2026-06-23T17:00:00.000Z",
+      "url": "https://openai.com/index/how-agents-are-transforming-work",
+      "title": "How agents are transforming work",
+      "summary": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
+      "publishedAt": "2026-06-25T02:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
         "score": 3,
         "reason": "Technical or research update"
-      }
-    },
-    {
-      "id": "9cd41fe0457b31cc3d0fbef45019941f9d8a12ac",
-      "company": "Microsoft",
-      "sourceKind": "official",
-      "sourceId": "microsoft-ai",
-      "sourceLabel": "Microsoft AI",
-      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
-      "url": "https://news.microsoft.com/source/2026/06/24/microsofts-new-ai-in-education-report-highlights-widespread-adoption-and-increasing-demand-for-support",
-      "title": "Microsoft’s New AI in Education Report highlights widespread adoption and increasing demand for support",
-      "summary": "Microsoft’s New AI in Education Report highlights widespread adoption and increasing demand for support",
-      "publishedAt": "2026-06-24T13:00:04.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "9d77f2d8fc74219714b00bba8b9f06a7460bd03b",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/technology/research/helping-communities-prepare-for-natural-disasters",
-      "title": "Towards a world where no one is surprised by a natural disaster",
-      "summary": "An overview of Google’s ongoing crisis resilience efforts and mission, shared at the AI for the Planet event.",
-      "publishedAt": "2026-06-23T19:40:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
       }
     }
   ],
