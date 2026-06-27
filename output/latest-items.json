@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-26T15:02:51.459Z",
+  "generatedAt": "2026-06-27T14:39:53.647Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -76,27 +76,46 @@
     }
   ],
   "totals": {
-    "fetched": 37,
+    "fetched": 39,
     "deduped": 24,
-    "new": 7,
+    "new": 4,
     "byKind": {
-      "official": 14,
-      "external": 10
+      "official": 13,
+      "external": 11
     }
   },
   "items": [
     {
-      "id": "7d6f01a649de9c15b289eb68759bed8d880968ca",
-      "company": "Microsoft",
+      "id": "ac14b169bdc84372176d6c3b0a696b807a3eac7e",
+      "company": "Google",
       "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
+      "sourceId": "external-google-major",
+      "sourceLabel": "Major External News - Google",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZnZQcnNuSF8ySnFQTl9wWXFNRGdoUWhpY1VjazRIOUxRWFFsM29IRDRtY3FPRW9NRS1iSW8tYXFNZUJJa0JGcEJ1TkxCQno0VzdQcUx3ZGstNU51ZWljVHVpSDVJbnVvQXVJVTB4dnllZ0phTS0tMTY4QXRIU2JUU0RVdG5ock5ocE1pWElTeTdpYWtEaG9McU5kU0wxajFSQ0Fz?oc=5",
-      "title": "Italy regulator probes Microsoft over 'Microsoft 365' price hike",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVV9ZTjlSSmtNUHQwMWFRczZ6UXVuRXNGT0M2cWNaUy0tVEVua1NwRjRCMDl3cTlad2ZaS3ZadXlsM2FNQW5EUWNlNVhnTnJaNEZlMDdUaWNaa2trWTFjVDg1NHMzX1ZLMHE1SFRkM244S0ZabkZEY2NKTk5JT3cyNkF6Ql9hS0FHZUF3dVR4MC1SSnEyek5iQg?oc=5",
+      "title": "A24 Faces Backlash Over $75 Million AI Partnership with Google DeepMind",
       "summary": "",
-      "publishedAt": "2026-06-26T06:24:11.000Z",
-      "publisher": "Yahoo Finance",
+      "publishedAt": "2026-06-27T02:18:00.000Z",
+      "publisher": "Yahoo",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "108cfc747638ca13b9b315dd40161d113b270411",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbXc3S3VNWkFPMXVnZmZSRWhFYmpaQTV5X0NuMFJsUlZiRHZPY2lfNlJ0U0VNUTFlLUpNNFFCRC01akpSX3hET0IzM21IRVBaYmVYOHRlLWN0LXhmajhzZDQyd2pSSUVSUnFKek5oQ0xjUDhIRi05ZFZCcVIzUndQQjZGQUJ3V0piMGNjMF9WQ0NDYUdCb3V6a095emJpSlV5eFJYZEx2ck5sd9IBrwFBVV95cUxNQ2tyUVkzakNiV1hERTNhVXNKdXAwWmVmZU5MeEg5QUhMYzB4dVBPYzBMZWxPRUhBTm9MYlZfbWRzaUllS19PMjU1MkNWRGtCNVNGQWhYemttSWtyTGhnTU9CLWVhQUd1MXFIb1VjNXVDSE9hX0tubVpuSTB6MTBDMlFzejk5Z2MyNEdVY0xsQTdrdjBlS2pVWUo3eTgwc0hFWlI1emNVMDZ1c3NaT3pZ?oc=5",
+      "title": "OpenAI limits new AI models to 'trusted partners' at request of U.S. government",
+      "summary": "",
+      "publishedAt": "2026-06-26T17:02:44.000Z",
+      "publisher": "CNBC",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -162,25 +181,6 @@
       }
     },
     {
-      "id": "8920bc1fc121ebcc272a8ebfa5f8767da559ed76",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash",
-      "title": "Introducing computer use in Gemini 3.5 Flash",
-      "summary": "A look at the built-in computer use tool in Gemini 3.5 Flash.",
-      "publishedAt": "2026-06-24T16:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
       "id": "3aa4a85fa76c2b7ad519d525a8c2abe63286f86c",
       "company": "Meta",
       "sourceKind": "official",
@@ -197,6 +197,25 @@
         "bucket": "critical",
         "score": 5,
         "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "28336a27e9dd100e159b09fdacf00e012706890b",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSDVLdEpVNVl2UlZqSl9jNkJBTnVieVl6Y1FpaU1kX3A4eWo2Y1hOSnhxbzNYaS1yUVVmSE5vSGZoWDRsVXBGVnprSFBjcmFHN091Sms3RklIWlI0b3hBU0ZXaUtJNmZpYXc2cU1BaThZTWtHUnJNckdJUXMzRzdMZUd2RUt4UERVNHZVODVaaGNlaFB5VF9jVXgwdw?oc=5",
+      "title": "SpaceX Has Landed Data Center Deals With Anthropic, Google, and Reflection That Could Be Worth Over $76 Billion Through 2029. Is That Enough to Justify Its Valuation?",
+      "summary": "",
+      "publishedAt": "2026-06-27T08:15:00.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
       }
     },
     {
@@ -219,60 +238,60 @@
       }
     },
     {
-      "id": "75d4a6cfd94c171388e1c16b51e278608ad7647b",
+      "id": "1ff4b1bb62753e1310bee719492e16cfeace1bd5",
       "company": "Meta",
       "sourceKind": "external",
       "sourceId": "external-meta-major",
       "sourceLabel": "Major External News - Meta",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaTFucDNpcUF3cTdzSDV2Ull5U1I2akRqd3Y0cFBFZThzbUFxNVNWUkxiUTd1TjBreUJaanN0SkVGWFBGQUR1c2hzYUlqTk9TM3JXbUtzQ2RYYXRSVGFNYXQ4UHV1NFhCMUtoU1U5WFBRdXZCajg1WXNwVk9Xb2xKbUxZc3dmaVVjcVBTekpwZmFsT1ZEb1V3bQ?oc=5",
-      "title": "Qualcomm Jumps 11%, Then Pulls Back Amid Meta Platforms Data Center Deal and Wave of Analyst Target Hikes",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcXpJZXF2TDlaNjM2WkZqSVFnWjZCaEdlOUpFWmJfVnlTdkUwcUZhaUpKNTV3TUVvMTFRSnlZYUJCZ3llZ0RIXzI1aXNsWjBkb1hSTDBqNklSTWRIdU9PMEpRalpuZHJsTnZIY2puN2hueVhpQ3lQOU1WX3djN2I1N2o4OXlMZzlIOFYxcA?oc=5",
+      "title": "U.S. Presses Meta to Agree to A.I. Reviews as Security Concerns Rise",
       "summary": "",
-      "publishedAt": "2026-06-25T14:13:36.000Z",
-      "publisher": "Yahoo Finance",
+      "publishedAt": "2026-06-23T21:28:27.000Z",
+      "publisher": "The New York Times",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
         "score": 4,
-        "reason": "Trusted external coverage"
+        "reason": "Safety, security, or policy update"
       }
     },
     {
-      "id": "653607f335d6168206fcae97d3c35889a25353a8",
+      "id": "adbd50c1b1db1eb73a9212ced83b954542a89a57",
       "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAyUEkxVzZyVVJYeFFNR2o3bXZfaHhBR29CWm5wTlVNV0FIQm1IT1FvMEwxSkxHaUFwRXEzY1l0UEZuZ3BUZmZwdGpVR0NGemNlT3daT0NTV3g5amgwRm96bXc5RlVKODZhSlo3MzRWOXFZOFNudmlVYQ?oc=5",
-      "title": "OpenAI and Broadcom’s AI chip has a name: Jalapeño",
-      "summary": "",
-      "publishedAt": "2026-06-25T09:48:00.000Z",
-      "publisher": "Fortune",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+      "title": "Previewing GPT-5.6 Sol: a next-generation model",
+      "summary": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
+      "publishedAt": "2026-06-26T10:00:00.000Z",
+      "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
         "score": 4,
-        "reason": "Trusted external coverage"
+        "reason": "Safety, security, or policy update"
       }
     },
     {
-      "id": "e059aa756aa52600d61a80b57029ece52663e3b2",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWEtTenVXUXhxYXdYVVdncmdxd3l4QWU5NGE0MGNjajd5QUdnTXNWX0NpaElOMy1yOXBKeFdEOUhhTEJ0dm9PV1VNYy11WkZxOVNJT0lLekE4Sm5tOTY3ZDVsTEY1LVF0cHFVUThpSFlRbXZrVnJJUnZQZ2huN0FRZGJRRlFGdWZrWVMwU0RmeXFGUQ?oc=5",
-      "title": "Watch Qualcomm CEO on Data Center Chips, Adding Meta as a Customer",
-      "summary": "",
-      "publishedAt": "2026-06-25T00:00:00.000Z",
-      "publisher": "Bloomberg.com",
+      "id": "8920bc1fc121ebcc272a8ebfa5f8767da559ed76",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash",
+      "title": "Introducing computer use in Gemini 3.5 Flash",
+      "summary": "A look at the built-in computer use tool in Gemini 3.5 Flash.",
+      "publishedAt": "2026-06-24T16:00:00.000Z",
+      "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
         "score": 4,
-        "reason": "Trusted external coverage"
+        "reason": "Flagship model or product launch"
       }
     },
     {
@@ -352,6 +371,25 @@
       }
     },
     {
+      "id": "e059aa756aa52600d61a80b57029ece52663e3b2",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWEtTenVXUXhxYXdYVVdncmdxd3l4QWU5NGE0MGNjajd5QUdnTXNWX0NpaElOMy1yOXBKeFdEOUhhTEJ0dm9PV1VNYy11WkZxOVNJT0lLekE4Sm5tOTY3ZDVsTEY1LVF0cHFVUThpSFlRbXZrVnJJUnZQZ2huN0FRZGJRRlFGdWZrWVMwU0RmeXFGUQ?oc=5",
+      "title": "Watch Qualcomm CEO on Data Center Chips, Adding Meta as a Customer",
+      "summary": "",
+      "publishedAt": "2026-06-25T00:00:00.000Z",
+      "publisher": "Bloomberg.com",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
       "id": "ba51cc4228a57a773aa352651944215336d80d9f",
       "company": "Meta",
       "sourceKind": "external",
@@ -409,25 +447,6 @@
       }
     },
     {
-      "id": "2b6976f96bb5f02f36377dd0116bc3386395b79e",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/how-agents-are-transforming-work",
-      "title": "How agents are transforming work",
-      "summary": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
-      "publishedAt": "2026-06-25T02:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Technical or research update"
-      }
-    },
-    {
       "id": "6507bbb3977767d18fbdd1e2dbdfa5d1eded2ec6",
       "company": "OpenAI",
       "sourceKind": "official",
@@ -438,25 +457,6 @@
       "title": "Helping build shared standards for advanced AI",
       "summary": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
       "publishedAt": "2026-06-23T13:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "f7e9d38ae7326e724cd3dd4ce89afcce1e11f14f",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/daybreak-securing-the-world",
-      "title": "Daybreak: Tools for securing every organization in the world",
-      "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
-      "publishedAt": "2026-06-22T10:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -482,6 +482,25 @@
         "bucket": "important",
         "score": 3,
         "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "2b6976f96bb5f02f36377dd0116bc3386395b79e",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/how-agents-are-transforming-work",
+      "title": "How agents are transforming work",
+      "summary": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
+      "publishedAt": "2026-06-25T02:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Technical or research update"
       }
     },
     {
@@ -521,159 +540,83 @@
         "score": 2,
         "reason": "Technical or research update"
       }
-    },
-    {
-      "id": "9cd41fe0457b31cc3d0fbef45019941f9d8a12ac",
-      "company": "Microsoft",
-      "sourceKind": "official",
-      "sourceId": "microsoft-ai",
-      "sourceLabel": "Microsoft AI",
-      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
-      "url": "https://news.microsoft.com/source/2026/06/24/microsofts-new-ai-in-education-report-highlights-widespread-adoption-and-increasing-demand-for-support",
-      "title": "Microsoft’s New AI in Education Report highlights widespread adoption and increasing demand for support",
-      "summary": "Microsoft’s New AI in Education Report highlights widespread adoption and increasing demand for support",
-      "publishedAt": "2026-06-24T13:00:04.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
     }
   ],
   "newItems": [
     {
-      "id": "7d6f01a649de9c15b289eb68759bed8d880968ca",
-      "company": "Microsoft",
+      "id": "ac14b169bdc84372176d6c3b0a696b807a3eac7e",
+      "company": "Google",
       "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
+      "sourceId": "external-google-major",
+      "sourceLabel": "Major External News - Google",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZnZQcnNuSF8ySnFQTl9wWXFNRGdoUWhpY1VjazRIOUxRWFFsM29IRDRtY3FPRW9NRS1iSW8tYXFNZUJJa0JGcEJ1TkxCQno0VzdQcUx3ZGstNU51ZWljVHVpSDVJbnVvQXVJVTB4dnllZ0phTS0tMTY4QXRIU2JUU0RVdG5ock5ocE1pWElTeTdpYWtEaG9McU5kU0wxajFSQ0Fz?oc=5",
-      "title": "Italy regulator probes Microsoft over 'Microsoft 365' price hike",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVV9ZTjlSSmtNUHQwMWFRczZ6UXVuRXNGT0M2cWNaUy0tVEVua1NwRjRCMDl3cTlad2ZaS3ZadXlsM2FNQW5EUWNlNVhnTnJaNEZlMDdUaWNaa2trWTFjVDg1NHMzX1ZLMHE1SFRkM244S0ZabkZEY2NKTk5JT3cyNkF6Ql9hS0FHZUF3dVR4MC1SSnEyek5iQg?oc=5",
+      "title": "A24 Faces Backlash Over $75 Million AI Partnership with Google DeepMind",
       "summary": "",
-      "publishedAt": "2026-06-26T06:24:11.000Z",
+      "publishedAt": "2026-06-27T02:18:00.000Z",
+      "publisher": "Yahoo",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "108cfc747638ca13b9b315dd40161d113b270411",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbXc3S3VNWkFPMXVnZmZSRWhFYmpaQTV5X0NuMFJsUlZiRHZPY2lfNlJ0U0VNUTFlLUpNNFFCRC01akpSX3hET0IzM21IRVBaYmVYOHRlLWN0LXhmajhzZDQyd2pSSUVSUnFKek5oQ0xjUDhIRi05ZFZCcVIzUndQQjZGQUJ3V0piMGNjMF9WQ0NDYUdCb3V6a095emJpSlV5eFJYZEx2ck5sd9IBrwFBVV95cUxNQ2tyUVkzakNiV1hERTNhVXNKdXAwWmVmZU5MeEg5QUhMYzB4dVBPYzBMZWxPRUhBTm9MYlZfbWRzaUllS19PMjU1MkNWRGtCNVNGQWhYemttSWtyTGhnTU9CLWVhQUd1MXFIb1VjNXVDSE9hX0tubVpuSTB6MTBDMlFzejk5Z2MyNEdVY0xsQTdrdjBlS2pVWUo3eTgwc0hFWlI1emNVMDZ1c3NaT3pZ?oc=5",
+      "title": "OpenAI limits new AI models to 'trusted partners' at request of U.S. government",
+      "summary": "",
+      "publishedAt": "2026-06-26T17:02:44.000Z",
+      "publisher": "CNBC",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "28336a27e9dd100e159b09fdacf00e012706890b",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSDVLdEpVNVl2UlZqSl9jNkJBTnVieVl6Y1FpaU1kX3A4eWo2Y1hOSnhxbzNYaS1yUVVmSE5vSGZoWDRsVXBGVnprSFBjcmFHN091Sms3RklIWlI0b3hBU0ZXaUtJNmZpYXc2cU1BaThZTWtHUnJNckdJUXMzRzdMZUd2RUt4UERVNHZVODVaaGNlaFB5VF9jVXgwdw?oc=5",
+      "title": "SpaceX Has Landed Data Center Deals With Anthropic, Google, and Reflection That Could Be Worth Over $76 Billion Through 2029. Is That Enough to Justify Its Valuation?",
+      "summary": "",
+      "publishedAt": "2026-06-27T08:15:00.000Z",
       "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "bd45b7858733ae965b054bbea76d1707578edbfb",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNkt5bzEyVlJtRUxPRHp1N21EUjd2NVhvTm9heUFZRWRUMmwyYUJxZVNqQWhrbmFxSDhDOGZkOWFBTHJ0b0JWV1pfTFNOa2N1N05pbkFZcDg4MmdhUi04TTJ0eTMyamQ3M09UOUtWcmJNdjlQZDNwNGVtenRINHZmWGhfTVRyN1VM?oc=5",
-      "title": "The New York Times Amends Lawsuit Against OpenAI and Microsoft",
-      "summary": "",
-      "publishedAt": "2026-06-25T21:15:28.000Z",
-      "publisher": "The New York Times",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "81582c5c821a344152f86b5cfa00036759e7ac6d",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNV09fblVJX01hdDI5eXd3VGJDeUtDTDBhX3ZKd1JNSUxHcUo4dHhvbm1wS2pwSmRHQW5fMnA5cUlMbWVHX1BiLUpmOFh6YWlwN19xdzlXV3VPNkFoTzZ3blI2VWJlMWtxQl9UdVczdmg1WjhENDgzNi1RVTdPMk1LMmpfeks?oc=5",
-      "title": "Trump administration asks OpenAI to limit next model release over security concerns",
-      "summary": "",
-      "publishedAt": "2026-06-25T22:59:41.000Z",
-      "publisher": "Axios",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "38ba8976c59893a5c07b79250d7a6ca384795abe",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSmFRRDNqUHdqamVDUnVYSFNpZWZ1aVYxWjBhaG9DX1ZBTHRSTGhqUzFiMDY1N0VTTTFLaG5OWGFoRmU2WHNaekVGUjRkeEFLcHBISzhvZldmcUx6MjhRNEZFWGNFU1dOdW1vcEVmS0RYamhQYWNLQ1R2TGNRSHpidFEweWV6azNpRnI1QXN0bjJnYTU0czh6Q1J6dTJVRzBvOU9LWFlhbTlSWHd2aWlNLU9yaFJ4d1k?oc=5",
-      "title": "Trump Administration Asks OpenAI to Stagger Release of New Model Over Security Concerns",
-      "summary": "",
-      "publishedAt": "2026-06-25T20:16:00.000Z",
-      "publisher": "The Information",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "fee67c153e89f0559c64de14703f1b2c17537cde",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWUhiWmVadU9ESy1YQlQ3UjhFYVdibllEajViMFRlRm5BZ0xfTnhreFhISG93c282OE5JNVA5RlpEcGpNa1JUdlJ3anlYTVB4cG51UnBZM25idUFnZEl6MVNUOUl5WlZtc053MmIxWF8xb1dhYVFOSlBTSThKWXJiNVU5NlRwSVRyMDl4VjF5TWhnc0JiS0lCQkdHY0ozdVFsTEpwM2tWbjFTbHZFZkZQVU9uWHp2RHVWejc5QXVWV2RJWnJPZUc4VjUyVQ?oc=5",
-      "title": "Why Amazon Dropped Its OpenAI Movie, Data Center Workers Fight Back, and Meta Leaks Employee Data",
-      "summary": "",
-      "publishedAt": "2026-06-25T23:13:00.000Z",
-      "publisher": "WIRED",
-      "discoveryMethod": "feed",
-      "classification": {
         "bucket": "important",
         "score": 4,
         "reason": "Trusted external coverage"
       }
     },
     {
-      "id": "e059aa756aa52600d61a80b57029ece52663e3b2",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWEtTenVXUXhxYXdYVVdncmdxd3l4QWU5NGE0MGNjajd5QUdnTXNWX0NpaElOMy1yOXBKeFdEOUhhTEJ0dm9PV1VNYy11WkZxOVNJT0lLekE4Sm5tOTY3ZDVsTEY1LVF0cHFVUThpSFlRbXZrVnJJUnZQZ2huN0FRZGJRRlFGdWZrWVMwU0RmeXFGUQ?oc=5",
-      "title": "Watch Qualcomm CEO on Data Center Chips, Adding Meta as a Customer",
-      "summary": "",
-      "publishedAt": "2026-06-25T00:00:00.000Z",
-      "publisher": "Bloomberg.com",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "2e3f360dd0fdbd93492a67876cdf40f6c5cb9459",
-      "company": "Google",
+      "id": "adbd50c1b1db1eb73a9212ced83b954542a89a57",
+      "company": "OpenAI",
       "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-study-notebooks",
-      "title": "5 ways to learn with study notebooks in the Gemini app",
-      "summary": "Study notebooks is a new space in the Gemini app that serves as an interactive learning tool tailored to any student's goals.",
-      "publishedAt": "2026-06-25T16:00:00.000Z",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+      "title": "Previewing GPT-5.6 Sol: a next-generation model",
+      "summary": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
+      "publishedAt": "2026-06-26T10:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
-        "score": 3,
-        "reason": "Technical or research update"
+        "score": 4,
+        "reason": "Safety, security, or policy update"
       }
     }
   ],
