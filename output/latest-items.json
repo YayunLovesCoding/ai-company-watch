@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T14:39:53.647Z",
+  "generatedAt": "2026-06-28T14:41:22.882Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -76,15 +76,34 @@
     }
   ],
   "totals": {
-    "fetched": 39,
+    "fetched": 40,
     "deduped": 24,
-    "new": 4,
+    "new": 3,
     "byKind": {
-      "official": 13,
-      "external": 11
+      "official": 12,
+      "external": 12
     }
   },
   "items": [
+    {
+      "id": "74620655ababb48e6991302294b6bbf6dd7d3ff3",
+      "company": "Google",
+      "sourceKind": "external",
+      "sourceId": "external-google-major",
+      "sourceLabel": "Major External News - Google",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZGdXN3BFZEUxUFczaWEwQkluRnQ2bkZtc3kyZmxqWkZ6TzlPczA0UkpyZTdqUDFyZjNNR0dYVjU3RnpEUDJvaE91SUNIVS1ieEtyZllRaC1hSjlKQVlBamlJaXppdXIyVkVCX0F4WHJQZHc3Y19BajFFMmZJRDJMaHpFQ0V0QWVIdHFPNlM0N19VNVN1MjY5ZENJNm5QTHI5?oc=5",
+      "title": "Google DeepMind and A24 Announces First-of-its-Kind Partnership",
+      "summary": "",
+      "publishedAt": "2026-06-27T19:08:44.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
     {
       "id": "ac14b169bdc84372176d6c3b0a696b807a3eac7e",
       "company": "Google",
@@ -124,6 +143,25 @@
       }
     },
     {
+      "id": "6f608dbe4b4260aa2fe20bdc6faa42d6ecae9432",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOW5VMGNDdlZUZ1hRdlFhWjl6NDM0Z1FqczVMcE9jTHhjUGxGMExXX2NtRnFaZzZDY1FmbHhRTzZ2SzYzd0wwNjJhbWotSUZ0dXl3N3lFMUFOZWpmUC1peW1jMGJ1Tlh1azdxLXlacXRJTXNxMVlTWHBfVmhXa3JtWEExWnRwZGdDUjNvUTZQNHlvN19rY2pHaw?oc=5",
+      "title": "Qualcomm (QCOM) Unveils AI Data Center Push With Meta Microsoft And Modular",
+      "summary": "",
+      "publishedAt": "2026-06-28T04:15:00.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
       "id": "bd45b7858733ae965b054bbea76d1707578edbfb",
       "company": "OpenAI",
       "sourceKind": "external",
@@ -138,7 +176,7 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 7,
+        "score": 6,
         "reason": "Corporate move or major external event"
       }
     },
@@ -157,7 +195,7 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 6,
+        "score": 5,
         "reason": "Flagship model or product launch"
       }
     },
@@ -176,7 +214,7 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 6,
+        "score": 5,
         "reason": "Flagship model or product launch"
       }
     },
@@ -200,79 +238,22 @@
       }
     },
     {
-      "id": "28336a27e9dd100e159b09fdacf00e012706890b",
+      "id": "e7e78f133580c66b35ed1c47fd142e5fc2f338ca",
       "company": "Anthropic",
       "sourceKind": "external",
       "sourceId": "external-anthropic-major",
       "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSDVLdEpVNVl2UlZqSl9jNkJBTnVieVl6Y1FpaU1kX3A4eWo2Y1hOSnhxbzNYaS1yUVVmSE5vSGZoWDRsVXBGVnprSFBjcmFHN091Sms3RklIWlI0b3hBU0ZXaUtJNmZpYXc2cU1BaThZTWtHUnJNckdJUXMzRzdMZUd2RUt4UERVNHZVODVaaGNlaFB5VF9jVXgwdw?oc=5",
-      "title": "SpaceX Has Landed Data Center Deals With Anthropic, Google, and Reflection That Could Be Worth Over $76 Billion Through 2029. Is That Enough to Justify Its Valuation?",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMF8tdFFyWTE5OFFyMjdNdmRlLXhiWlI2UnNRTkp6d2N1bkJ5Y25VMXJ4bzE2aURDbnVKaUpnV1lvLVVGdW9US1oyZDVqYXNOYlEteHdtYVU5dHpmb1FaZ0xpaFJqM0xieTg5NTVrWkhYb3ZIdEZzRGlNWE9kYUt0RkNQM2NLUzdkMVFQbWNYbFVZd2tETTg4dnFzR3JuazlDWVdaWVlzNklVZ2JtMTI4Q2hJMA?oc=5",
+      "title": "Anthropic Moves Toward Deal With US to Lift Curbs on AI Models",
       "summary": "",
-      "publishedAt": "2026-06-27T08:15:00.000Z",
-      "publisher": "Yahoo Finance",
+      "publishedAt": "2026-06-26T21:44:42.000Z",
+      "publisher": "Bloomberg.com",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
         "score": 4,
         "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "fee67c153e89f0559c64de14703f1b2c17537cde",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWUhiWmVadU9ESy1YQlQ3UjhFYVdibllEajViMFRlRm5BZ0xfTnhreFhISG93c282OE5JNVA5RlpEcGpNa1JUdlJ3anlYTVB4cG51UnBZM25idUFnZEl6MVNUOUl5WlZtc053MmIxWF8xb1dhYVFOSlBTSThKWXJiNVU5NlRwSVRyMDl4VjF5TWhnc0JiS0lCQkdHY0ozdVFsTEpwM2tWbjFTbHZFZkZQVU9uWHp2RHVWejc5QXVWV2RJWnJPZUc4VjUyVQ?oc=5",
-      "title": "Why Amazon Dropped Its OpenAI Movie, Data Center Workers Fight Back, and Meta Leaks Employee Data",
-      "summary": "",
-      "publishedAt": "2026-06-25T23:13:00.000Z",
-      "publisher": "WIRED",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "1ff4b1bb62753e1310bee719492e16cfeace1bd5",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcXpJZXF2TDlaNjM2WkZqSVFnWjZCaEdlOUpFWmJfVnlTdkUwcUZhaUpKNTV3TUVvMTFRSnlZYUJCZ3llZ0RIXzI1aXNsWjBkb1hSTDBqNklSTWRIdU9PMEpRalpuZHJsTnZIY2puN2hueVhpQ3lQOU1WX3djN2I1N2o4OXlMZzlIOFYxcA?oc=5",
-      "title": "U.S. Presses Meta to Agree to A.I. Reviews as Security Concerns Rise",
-      "summary": "",
-      "publishedAt": "2026-06-23T21:28:27.000Z",
-      "publisher": "The New York Times",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "adbd50c1b1db1eb73a9212ced83b954542a89a57",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/previewing-gpt-5-6-sol",
-      "title": "Previewing GPT-5.6 Sol: a next-generation model",
-      "summary": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
-      "publishedAt": "2026-06-26T10:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Safety, security, or policy update"
       }
     },
     {
@@ -371,6 +352,25 @@
       }
     },
     {
+      "id": "fee67c153e89f0559c64de14703f1b2c17537cde",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWUhiWmVadU9ESy1YQlQ3UjhFYVdibllEajViMFRlRm5BZ0xfTnhreFhISG93c282OE5JNVA5RlpEcGpNa1JUdlJ3anlYTVB4cG51UnBZM25idUFnZEl6MVNUOUl5WlZtc053MmIxWF8xb1dhYVFOSlBTSThKWXJiNVU5NlRwSVRyMDl4VjF5TWhnc0JiS0lCQkdHY0ozdVFsTEpwM2tWbjFTbHZFZkZQVU9uWHp2RHVWejc5QXVWV2RJWnJPZUc4VjUyVQ?oc=5",
+      "title": "Why Amazon Dropped Its OpenAI Movie, Data Center Workers Fight Back, and Meta Leaks Employee Data",
+      "summary": "",
+      "publishedAt": "2026-06-25T23:13:00.000Z",
+      "publisher": "WIRED",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
       "id": "e059aa756aa52600d61a80b57029ece52663e3b2",
       "company": "Meta",
       "sourceKind": "external",
@@ -428,22 +428,22 @@
       }
     },
     {
-      "id": "2e3f360dd0fdbd93492a67876cdf40f6c5cb9459",
-      "company": "Google",
+      "id": "adbd50c1b1db1eb73a9212ced83b954542a89a57",
+      "company": "OpenAI",
       "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-study-notebooks",
-      "title": "5 ways to learn with study notebooks in the Gemini app",
-      "summary": "Study notebooks is a new space in the Gemini app that serves as an interactive learning tool tailored to any student's goals.",
-      "publishedAt": "2026-06-25T16:00:00.000Z",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+      "title": "Previewing GPT-5.6 Sol: a next-generation model",
+      "summary": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
+      "publishedAt": "2026-06-26T10:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
         "score": 3,
-        "reason": "Technical or research update"
+        "reason": "Safety, security, or policy update"
       }
     },
     {
@@ -485,6 +485,25 @@
       }
     },
     {
+      "id": "2e3f360dd0fdbd93492a67876cdf40f6c5cb9459",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-study-notebooks",
+      "title": "5 ways to learn with study notebooks in the Gemini app",
+      "summary": "Study notebooks is a new space in the Gemini app that serves as an interactive learning tool tailored to any student's goals.",
+      "publishedAt": "2026-06-25T16:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Technical or research update"
+      }
+    },
+    {
       "id": "2b6976f96bb5f02f36377dd0116bc3386395b79e",
       "company": "OpenAI",
       "sourceKind": "official",
@@ -521,40 +540,21 @@
         "score": 2,
         "reason": "Technical or research update"
       }
-    },
-    {
-      "id": "97cd97d27d220f15f9bc8a69f1f4b5eea602a9e8",
-      "company": "Anthropic",
-      "sourceKind": "official",
-      "sourceId": "anthropic-engineering",
-      "sourceLabel": "Anthropic Engineering",
-      "homepageUrl": "https://www.anthropic.com/engineering",
-      "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
-      "title": "Featured How we contain Claude across products As agents grow more capable, so does their potential blast radius. The engineering question is how to cap it. Here’s what we’ve learned building containment for claude.ai, Claude Code, and Cowork.",
-      "summary": "",
-      "publishedAt": null,
-      "publisher": "",
-      "discoveryMethod": "anchor",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Technical or research update"
-      }
     }
   ],
   "newItems": [
     {
-      "id": "ac14b169bdc84372176d6c3b0a696b807a3eac7e",
+      "id": "74620655ababb48e6991302294b6bbf6dd7d3ff3",
       "company": "Google",
       "sourceKind": "external",
       "sourceId": "external-google-major",
       "sourceLabel": "Major External News - Google",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVV9ZTjlSSmtNUHQwMWFRczZ6UXVuRXNGT0M2cWNaUy0tVEVua1NwRjRCMDl3cTlad2ZaS3ZadXlsM2FNQW5EUWNlNVhnTnJaNEZlMDdUaWNaa2trWTFjVDg1NHMzX1ZLMHE1SFRkM244S0ZabkZEY2NKTk5JT3cyNkF6Ql9hS0FHZUF3dVR4MC1SSnEyek5iQg?oc=5",
-      "title": "A24 Faces Backlash Over $75 Million AI Partnership with Google DeepMind",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZGdXN3BFZEUxUFczaWEwQkluRnQ2bkZtc3kyZmxqWkZ6TzlPczA0UkpyZTdqUDFyZjNNR0dYVjU3RnpEUDJvaE91SUNIVS1ieEtyZllRaC1hSjlKQVlBamlJaXppdXIyVkVCX0F4WHJQZHc3Y19BajFFMmZJRDJMaHpFQ0V0QWVIdHFPNlM0N19VNVN1MjY5ZENJNm5QTHI5?oc=5",
+      "title": "Google DeepMind and A24 Announces First-of-its-Kind Partnership",
       "summary": "",
-      "publishedAt": "2026-06-27T02:18:00.000Z",
-      "publisher": "Yahoo",
+      "publishedAt": "2026-06-27T19:08:44.000Z",
+      "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -563,60 +563,41 @@
       }
     },
     {
-      "id": "108cfc747638ca13b9b315dd40161d113b270411",
-      "company": "OpenAI",
+      "id": "6f608dbe4b4260aa2fe20bdc6faa42d6ecae9432",
+      "company": "Meta",
       "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbXc3S3VNWkFPMXVnZmZSRWhFYmpaQTV5X0NuMFJsUlZiRHZPY2lfNlJ0U0VNUTFlLUpNNFFCRC01akpSX3hET0IzM21IRVBaYmVYOHRlLWN0LXhmajhzZDQyd2pSSUVSUnFKek5oQ0xjUDhIRi05ZFZCcVIzUndQQjZGQUJ3V0piMGNjMF9WQ0NDYUdCb3V6a095emJpSlV5eFJYZEx2ck5sd9IBrwFBVV95cUxNQ2tyUVkzakNiV1hERTNhVXNKdXAwWmVmZU5MeEg5QUhMYzB4dVBPYzBMZWxPRUhBTm9MYlZfbWRzaUllS19PMjU1MkNWRGtCNVNGQWhYemttSWtyTGhnTU9CLWVhQUd1MXFIb1VjNXVDSE9hX0tubVpuSTB6MTBDMlFzejk5Z2MyNEdVY0xsQTdrdjBlS2pVWUo3eTgwc0hFWlI1emNVMDZ1c3NaT3pZ?oc=5",
-      "title": "OpenAI limits new AI models to 'trusted partners' at request of U.S. government",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOW5VMGNDdlZUZ1hRdlFhWjl6NDM0Z1FqczVMcE9jTHhjUGxGMExXX2NtRnFaZzZDY1FmbHhRTzZ2SzYzd0wwNjJhbWotSUZ0dXl3N3lFMUFOZWpmUC1peW1jMGJ1Tlh1azdxLXlacXRJTXNxMVlTWHBfVmhXa3JtWEExWnRwZGdDUjNvUTZQNHlvN19rY2pHaw?oc=5",
+      "title": "Qualcomm (QCOM) Unveils AI Data Center Push With Meta Microsoft And Modular",
       "summary": "",
-      "publishedAt": "2026-06-26T17:02:44.000Z",
-      "publisher": "CNBC",
+      "publishedAt": "2026-06-28T04:15:00.000Z",
+      "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
+        "score": 6,
+        "reason": "Flagship model or product launch"
       }
     },
     {
-      "id": "28336a27e9dd100e159b09fdacf00e012706890b",
+      "id": "e7e78f133580c66b35ed1c47fd142e5fc2f338ca",
       "company": "Anthropic",
       "sourceKind": "external",
       "sourceId": "external-anthropic-major",
       "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSDVLdEpVNVl2UlZqSl9jNkJBTnVieVl6Y1FpaU1kX3A4eWo2Y1hOSnhxbzNYaS1yUVVmSE5vSGZoWDRsVXBGVnprSFBjcmFHN091Sms3RklIWlI0b3hBU0ZXaUtJNmZpYXc2cU1BaThZTWtHUnJNckdJUXMzRzdMZUd2RUt4UERVNHZVODVaaGNlaFB5VF9jVXgwdw?oc=5",
-      "title": "SpaceX Has Landed Data Center Deals With Anthropic, Google, and Reflection That Could Be Worth Over $76 Billion Through 2029. Is That Enough to Justify Its Valuation?",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMF8tdFFyWTE5OFFyMjdNdmRlLXhiWlI2UnNRTkp6d2N1bkJ5Y25VMXJ4bzE2aURDbnVKaUpnV1lvLVVGdW9US1oyZDVqYXNOYlEteHdtYVU5dHpmb1FaZ0xpaFJqM0xieTg5NTVrWkhYb3ZIdEZzRGlNWE9kYUt0RkNQM2NLUzdkMVFQbWNYbFVZd2tETTg4dnFzR3JuazlDWVdaWVlzNklVZ2JtMTI4Q2hJMA?oc=5",
+      "title": "Anthropic Moves Toward Deal With US to Lift Curbs on AI Models",
       "summary": "",
-      "publishedAt": "2026-06-27T08:15:00.000Z",
-      "publisher": "Yahoo Finance",
+      "publishedAt": "2026-06-26T21:44:42.000Z",
+      "publisher": "Bloomberg.com",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
         "score": 4,
         "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "adbd50c1b1db1eb73a9212ced83b954542a89a57",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/previewing-gpt-5-6-sol",
-      "title": "Previewing GPT-5.6 Sol: a next-generation model",
-      "summary": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
-      "publishedAt": "2026-06-26T10:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Safety, security, or policy update"
       }
     }
   ],
