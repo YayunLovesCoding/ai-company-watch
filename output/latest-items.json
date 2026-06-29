@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T14:41:22.882Z",
+  "generatedAt": "2026-06-29T15:18:49.934Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -76,15 +76,34 @@
     }
   ],
   "totals": {
-    "fetched": 40,
+    "fetched": 41,
     "deduped": 24,
-    "new": 3,
+    "new": 6,
     "byKind": {
-      "official": 12,
-      "external": 12
+      "official": 10,
+      "external": 14
     }
   },
   "items": [
+    {
+      "id": "b985ba1d30cd2efab7d6f25a917299a266897a6a",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbjhndTR2NWZZU2w3Y1EyU285VUY5bWZfdEdfSm5zWFlaY0FPa0VxR1VMMWRRaUNlT0VfZFF1UkM0Y3BVeHliVEJCN2d5X1hsLUZOT2wtc3JjdVZ6cG83TDdxbmZmazdCeEhIbjFyY1c3VlBlZ1ZqU3QzN08zcHhtTm84MUpvVDhwOEc3R2hjYTc3YWhYWkF6OFRhTnM5QnZQRDdUOEtsWUpUOU84?oc=5",
+      "title": "Microsoft (MSFT) Expands Operations With a New Strategic Partnership",
+      "summary": "",
+      "publishedAt": "2026-06-29T12:57:43.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
     {
       "id": "74620655ababb48e6991302294b6bbf6dd7d3ff3",
       "company": "Google",
@@ -97,44 +116,6 @@
       "summary": "",
       "publishedAt": "2026-06-27T19:08:44.000Z",
       "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "ac14b169bdc84372176d6c3b0a696b807a3eac7e",
-      "company": "Google",
-      "sourceKind": "external",
-      "sourceId": "external-google-major",
-      "sourceLabel": "Major External News - Google",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVV9ZTjlSSmtNUHQwMWFRczZ6UXVuRXNGT0M2cWNaUy0tVEVua1NwRjRCMDl3cTlad2ZaS3ZadXlsM2FNQW5EUWNlNVhnTnJaNEZlMDdUaWNaa2trWTFjVDg1NHMzX1ZLMHE1SFRkM244S0ZabkZEY2NKTk5JT3cyNkF6Ql9hS0FHZUF3dVR4MC1SSnEyek5iQg?oc=5",
-      "title": "A24 Faces Backlash Over $75 Million AI Partnership with Google DeepMind",
-      "summary": "",
-      "publishedAt": "2026-06-27T02:18:00.000Z",
-      "publisher": "Yahoo",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "108cfc747638ca13b9b315dd40161d113b270411",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbXc3S3VNWkFPMXVnZmZSRWhFYmpaQTV5X0NuMFJsUlZiRHZPY2lfNlJ0U0VNUTFlLUpNNFFCRC01akpSX3hET0IzM21IRVBaYmVYOHRlLWN0LXhmajhzZDQyd2pSSUVSUnFKek5oQ0xjUDhIRi05ZFZCcVIzUndQQjZGQUJ3V0piMGNjMF9WQ0NDYUdCb3V6a095emJpSlV5eFJYZEx2ck5sd9IBrwFBVV95cUxNQ2tyUVkzakNiV1hERTNhVXNKdXAwWmVmZU5MeEg5QUhMYzB4dVBPYzBMZWxPRUhBTm9MYlZfbWRzaUllS19PMjU1MkNWRGtCNVNGQWhYemttSWtyTGhnTU9CLWVhQUd1MXFIb1VjNXVDSE9hX0tubVpuSTB6MTBDMlFzejk5Z2MyNEdVY0xsQTdrdjBlS2pVWUo3eTgwc0hFWlI1emNVMDZ1c3NaT3pZ?oc=5",
-      "title": "OpenAI limits new AI models to 'trusted partners' at request of U.S. government",
-      "summary": "",
-      "publishedAt": "2026-06-26T17:02:44.000Z",
-      "publisher": "CNBC",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -162,6 +143,82 @@
       }
     },
     {
+      "id": "1d940fe421e65ffde8a8833f6b66e44011a8c001",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcTVldnlLZmhzUjRnX255anBEdGhBemY0QzE3MzVZTS1sSGhEVklaSmZ5WGpmVkFHb2FfMHNNRzlfTXlnbFpZalJIbEZ1RWRWMjRaTmdRdUJJdGtyV1AtVlFYMUxFVXcxX0lrNjBuUld5M3I4NXE5dlItWFhmSFZsRHVuQzB1M0F0SjNBVmFfZ0IwTlNKcHAxWHBLeklsMlM2OVJHTFpVMkxwN2VrZkNEZVlUQlRNNmJOWTEwcXdJdGFqQzhla2h5VzB6eS1YaGRM?oc=5",
+      "title": "Qualcomm unveils Dragonfly C1000 and signs Meta to reshape how AI gets processed from pocket to data center",
+      "summary": "",
+      "publishedAt": "2026-06-27T16:25:21.000Z",
+      "publisher": "Startup Fortune",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "ac14b169bdc84372176d6c3b0a696b807a3eac7e",
+      "company": "Google",
+      "sourceKind": "external",
+      "sourceId": "external-google-major",
+      "sourceLabel": "Major External News - Google",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVV9ZTjlSSmtNUHQwMWFRczZ6UXVuRXNGT0M2cWNaUy0tVEVua1NwRjRCMDl3cTlad2ZaS3ZadXlsM2FNQW5EUWNlNVhnTnJaNEZlMDdUaWNaa2trWTFjVDg1NHMzX1ZLMHE1SFRkM244S0ZabkZEY2NKTk5JT3cyNkF6Ql9hS0FHZUF3dVR4MC1SSnEyek5iQg?oc=5",
+      "title": "A24 Faces Backlash Over $75 Million AI Partnership with Google DeepMind",
+      "summary": "",
+      "publishedAt": "2026-06-27T02:18:00.000Z",
+      "publisher": "Yahoo",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "124988c48cb611bf985ee342bc326c58fee5d316",
+      "company": "Google",
+      "sourceKind": "external",
+      "sourceId": "external-google-major",
+      "sourceLabel": "Major External News - Google",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPLWZLRnZZODNGWmVrcnFxYXQyaGFxR0V1M19zTkFGdFRfdHNOSTVqZWRZYWR0eFMzbkphV0Z6SFB5XzVqOGVnV1BmTnFRTmtJVXpPZjJYSHVmZ1VlUHpwM2thd2dreW50M3k5dkhkVUxPV1I3MlEtYzlPMVhpT2t4TWtndG1JVjlzSV9lM3RndUQ2WHU2STU2UFZFc3E2a0c2c1E?oc=5",
+      "title": "A24 Defends Google AI Partnership, Studio Doesn’t “Necessarily Love” GenAI Content But “We’d Rather Have A Seat At The Table”",
+      "summary": "",
+      "publishedAt": "2026-06-26T21:03:30.000Z",
+      "publisher": "Yahoo",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "108cfc747638ca13b9b315dd40161d113b270411",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbXc3S3VNWkFPMXVnZmZSRWhFYmpaQTV5X0NuMFJsUlZiRHZPY2lfNlJ0U0VNUTFlLUpNNFFCRC01akpSX3hET0IzM21IRVBaYmVYOHRlLWN0LXhmajhzZDQyd2pSSUVSUnFKek5oQ0xjUDhIRi05ZFZCcVIzUndQQjZGQUJ3V0piMGNjMF9WQ0NDYUdCb3V6a095emJpSlV5eFJYZEx2ck5sd9IBrwFBVV95cUxNQ2tyUVkzakNiV1hERTNhVXNKdXAwWmVmZU5MeEg5QUhMYzB4dVBPYzBMZWxPRUhBTm9MYlZfbWRzaUllS19PMjU1MkNWRGtCNVNGQWhYemttSWtyTGhnTU9CLWVhQUd1MXFIb1VjNXVDSE9hX0tubVpuSTB6MTBDMlFzejk5Z2MyNEdVY0xsQTdrdjBlS2pVWUo3eTgwc0hFWlI1emNVMDZ1c3NaT3pZ?oc=5",
+      "title": "OpenAI limits new AI models to 'trusted partners' at request of U.S. government",
+      "summary": "",
+      "publishedAt": "2026-06-26T17:02:44.000Z",
+      "publisher": "CNBC",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
       "id": "bd45b7858733ae965b054bbea76d1707578edbfb",
       "company": "OpenAI",
       "sourceKind": "external",
@@ -173,6 +230,25 @@
       "summary": "",
       "publishedAt": "2026-06-25T21:15:28.000Z",
       "publisher": "The New York Times",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "1ae317c00ced77b0a26456fe8c2f1072709cf678",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/hp-frontier-partnership",
+      "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
+      "summary": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
+      "publishedAt": "2026-06-28T17:00:00.000Z",
+      "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -238,17 +314,17 @@
       }
     },
     {
-      "id": "e7e78f133580c66b35ed1c47fd142e5fc2f338ca",
-      "company": "Anthropic",
+      "id": "34f497b88c1ab1b14850a15ebd1813e391ebf397",
+      "company": "Meta",
       "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMF8tdFFyWTE5OFFyMjdNdmRlLXhiWlI2UnNRTkp6d2N1bkJ5Y25VMXJ4bzE2aURDbnVKaUpnV1lvLVVGdW9US1oyZDVqYXNOYlEteHdtYVU5dHpmb1FaZ0xpaFJqM0xieTg5NTVrWkhYb3ZIdEZzRGlNWE9kYUt0RkNQM2NLUzdkMVFQbWNYbFVZd2tETTg4dnFzR3JuazlDWVdaWVlzNklVZ2JtMTI4Q2hJMA?oc=5",
-      "title": "Anthropic Moves Toward Deal With US to Lift Curbs on AI Models",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE11aEdhWGlhbDNCdDg1N29pRG5HcEdWT0hkM0ZkbU8yYWRZV0U1OFgyZmNxd2lLTzloRS1CWmxLZi1CWmZIUG9FY05kTDR2RzRWbUgzWDYzWnhxdHo2MnAwYnktS2h0MDBkb2MzbUlqT05qTERwYXc?oc=5",
+      "title": "Google: Thank you Meta! But your AI capacity is in another data center!",
       "summary": "",
-      "publishedAt": "2026-06-26T21:44:42.000Z",
-      "publisher": "Bloomberg.com",
+      "publishedAt": "2026-06-29T09:00:00.000Z",
+      "publisher": "Fortune",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -352,6 +428,25 @@
       }
     },
     {
+      "id": "e7e78f133580c66b35ed1c47fd142e5fc2f338ca",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMF8tdFFyWTE5OFFyMjdNdmRlLXhiWlI2UnNRTkp6d2N1bkJ5Y25VMXJ4bzE2aURDbnVKaUpnV1lvLVVGdW9US1oyZDVqYXNOYlEteHdtYVU5dHpmb1FaZ0xpaFJqM0xieTg5NTVrWkhYb3ZIdEZzRGlNWE9kYUt0RkNQM2NLUzdkMVFQbWNYbFVZd2tETTg4dnFzR3JuazlDWVdaWVlzNklVZ2JtMTI4Q2hJMA?oc=5",
+      "title": "Anthropic Moves Toward Deal With US to Lift Curbs on AI Models",
+      "summary": "",
+      "publishedAt": "2026-06-26T21:44:42.000Z",
+      "publisher": "Bloomberg.com",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
       "id": "fee67c153e89f0559c64de14703f1b2c17537cde",
       "company": "Meta",
       "sourceKind": "external",
@@ -363,44 +458,6 @@
       "summary": "",
       "publishedAt": "2026-06-25T23:13:00.000Z",
       "publisher": "WIRED",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "e059aa756aa52600d61a80b57029ece52663e3b2",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWEtTenVXUXhxYXdYVVdncmdxd3l4QWU5NGE0MGNjajd5QUdnTXNWX0NpaElOMy1yOXBKeFdEOUhhTEJ0dm9PV1VNYy11WkZxOVNJT0lLekE4Sm5tOTY3ZDVsTEY1LVF0cHFVUThpSFlRbXZrVnJJUnZQZ2huN0FRZGJRRlFGdWZrWVMwU0RmeXFGUQ?oc=5",
-      "title": "Watch Qualcomm CEO on Data Center Chips, Adding Meta as a Customer",
-      "summary": "",
-      "publishedAt": "2026-06-25T00:00:00.000Z",
-      "publisher": "Bloomberg.com",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "ba51cc4228a57a773aa352651944215336d80d9f",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYVVrOTNJTUltOVpfa3NPZlJnYjNNcHhLZVpfWVdtbVVVdXFyc3dteTlXYllHR0VMYzdLdE1QbC1sUERMcUpzMHZmU0NWWmUxZzJsNjFfRHloX0FGV0NoZ2x3RU5najBSV19FaDl3WVBNM3VuZjVTSC12UEY0LWtBZEhIenN0V3ptV2VjRERBdWlvVFQ4REQ5aGRpUVM3ZUNMTFF2LTFSdURvY1RVbmc?oc=5",
-      "title": "Meta, Microsoft Lead $850 Billion Boom in Data Center Leases",
-      "summary": "",
-      "publishedAt": "2026-06-24T11:00:00.000Z",
-      "publisher": "Bloomberg.com",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -447,25 +504,6 @@
       }
     },
     {
-      "id": "6507bbb3977767d18fbdd1e2dbdfa5d1eded2ec6",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
-      "title": "Helping build shared standards for advanced AI",
-      "summary": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
-      "publishedAt": "2026-06-23T13:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
       "id": "3a0b4572422c1a8cbc95ae7fb7158fc8dc49f9d0",
       "company": "Anthropic",
       "sourceKind": "official",
@@ -485,75 +523,37 @@
       }
     },
     {
-      "id": "2e3f360dd0fdbd93492a67876cdf40f6c5cb9459",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-study-notebooks",
-      "title": "5 ways to learn with study notebooks in the Gemini app",
-      "summary": "Study notebooks is a new space in the Gemini app that serves as an interactive learning tool tailored to any student's goals.",
-      "publishedAt": "2026-06-25T16:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Technical or research update"
-      }
-    },
-    {
-      "id": "2b6976f96bb5f02f36377dd0116bc3386395b79e",
+      "id": "5b79476b114204dfe57ef8bf97ddea09c2e8f24d",
       "company": "OpenAI",
       "sourceKind": "official",
       "sourceId": "openai-newsroom",
       "sourceLabel": "OpenAI Newsroom",
       "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/how-agents-are-transforming-work",
-      "title": "How agents are transforming work",
-      "summary": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
-      "publishedAt": "2026-06-25T02:00:00.000Z",
+      "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+      "title": "Mapping Europe’s AI Workforce Opportunity",
+      "summary": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
+      "publishedAt": "2026-06-29T07:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "digest",
         "score": 2,
-        "reason": "Technical or research update"
-      }
-    },
-    {
-      "id": "7c36fb32c6285fc2a72a693371c03b5a52f25c8f",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/gpt-5-immunology-mystery",
-      "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
-      "summary": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
-      "publishedAt": "2026-06-23T17:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Technical or research update"
+        "reason": "Routine official update"
       }
     }
   ],
   "newItems": [
     {
-      "id": "74620655ababb48e6991302294b6bbf6dd7d3ff3",
-      "company": "Google",
+      "id": "b985ba1d30cd2efab7d6f25a917299a266897a6a",
+      "company": "Microsoft",
       "sourceKind": "external",
-      "sourceId": "external-google-major",
-      "sourceLabel": "Major External News - Google",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZGdXN3BFZEUxUFczaWEwQkluRnQ2bkZtc3kyZmxqWkZ6TzlPczA0UkpyZTdqUDFyZjNNR0dYVjU3RnpEUDJvaE91SUNIVS1ieEtyZllRaC1hSjlKQVlBamlJaXppdXIyVkVCX0F4WHJQZHc3Y19BajFFMmZJRDJMaHpFQ0V0QWVIdHFPNlM0N19VNVN1MjY5ZENJNm5QTHI5?oc=5",
-      "title": "Google DeepMind and A24 Announces First-of-its-Kind Partnership",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbjhndTR2NWZZU2w3Y1EyU285VUY5bWZfdEdfSm5zWFlaY0FPa0VxR1VMMWRRaUNlT0VfZFF1UkM0Y3BVeHliVEJCN2d5X1hsLUZOT2wtc3JjdVZ6cG83TDdxbmZmazdCeEhIbjFyY1c3VlBlZ1ZqU3QzN08zcHhtTm84MUpvVDhwOEc3R2hjYTc3YWhYWkF6OFRhTnM5QnZQRDdUOEtsWUpUOU84?oc=5",
+      "title": "Microsoft (MSFT) Expands Operations With a New Strategic Partnership",
       "summary": "",
-      "publishedAt": "2026-06-27T19:08:44.000Z",
+      "publishedAt": "2026-06-29T12:57:43.000Z",
       "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
@@ -563,17 +563,17 @@
       }
     },
     {
-      "id": "6f608dbe4b4260aa2fe20bdc6faa42d6ecae9432",
+      "id": "1d940fe421e65ffde8a8833f6b66e44011a8c001",
       "company": "Meta",
       "sourceKind": "external",
       "sourceId": "external-meta-major",
       "sourceLabel": "Major External News - Meta",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOW5VMGNDdlZUZ1hRdlFhWjl6NDM0Z1FqczVMcE9jTHhjUGxGMExXX2NtRnFaZzZDY1FmbHhRTzZ2SzYzd0wwNjJhbWotSUZ0dXl3N3lFMUFOZWpmUC1peW1jMGJ1Tlh1azdxLXlacXRJTXNxMVlTWHBfVmhXa3JtWEExWnRwZGdDUjNvUTZQNHlvN19rY2pHaw?oc=5",
-      "title": "Qualcomm (QCOM) Unveils AI Data Center Push With Meta Microsoft And Modular",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcTVldnlLZmhzUjRnX255anBEdGhBemY0QzE3MzVZTS1sSGhEVklaSmZ5WGpmVkFHb2FfMHNNRzlfTXlnbFpZalJIbEZ1RWRWMjRaTmdRdUJJdGtyV1AtVlFYMUxFVXcxX0lrNjBuUld5M3I4NXE5dlItWFhmSFZsRHVuQzB1M0F0SjNBVmFfZ0IwTlNKcHAxWHBLeklsMlM2OVJHTFpVMkxwN2VrZkNEZVlUQlRNNmJOWTEwcXdJdGFqQzhla2h5VzB6eS1YaGRM?oc=5",
+      "title": "Qualcomm unveils Dragonfly C1000 and signs Meta to reshape how AI gets processed from pocket to data center",
       "summary": "",
-      "publishedAt": "2026-06-28T04:15:00.000Z",
-      "publisher": "Yahoo Finance",
+      "publishedAt": "2026-06-27T16:25:21.000Z",
+      "publisher": "Startup Fortune",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -582,22 +582,79 @@
       }
     },
     {
-      "id": "e7e78f133580c66b35ed1c47fd142e5fc2f338ca",
-      "company": "Anthropic",
+      "id": "124988c48cb611bf985ee342bc326c58fee5d316",
+      "company": "Google",
       "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
+      "sourceId": "external-google-major",
+      "sourceLabel": "Major External News - Google",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMF8tdFFyWTE5OFFyMjdNdmRlLXhiWlI2UnNRTkp6d2N1bkJ5Y25VMXJ4bzE2aURDbnVKaUpnV1lvLVVGdW9US1oyZDVqYXNOYlEteHdtYVU5dHpmb1FaZ0xpaFJqM0xieTg5NTVrWkhYb3ZIdEZzRGlNWE9kYUt0RkNQM2NLUzdkMVFQbWNYbFVZd2tETTg4dnFzR3JuazlDWVdaWVlzNklVZ2JtMTI4Q2hJMA?oc=5",
-      "title": "Anthropic Moves Toward Deal With US to Lift Curbs on AI Models",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPLWZLRnZZODNGWmVrcnFxYXQyaGFxR0V1M19zTkFGdFRfdHNOSTVqZWRZYWR0eFMzbkphV0Z6SFB5XzVqOGVnV1BmTnFRTmtJVXpPZjJYSHVmZ1VlUHpwM2thd2dreW50M3k5dkhkVUxPV1I3MlEtYzlPMVhpT2t4TWtndG1JVjlzSV9lM3RndUQ2WHU2STU2UFZFc3E2a0c2c1E?oc=5",
+      "title": "A24 Defends Google AI Partnership, Studio Doesn’t “Necessarily Love” GenAI Content But “We’d Rather Have A Seat At The Table”",
       "summary": "",
-      "publishedAt": "2026-06-26T21:44:42.000Z",
-      "publisher": "Bloomberg.com",
+      "publishedAt": "2026-06-26T21:03:30.000Z",
+      "publisher": "Yahoo",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "1ae317c00ced77b0a26456fe8c2f1072709cf678",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/hp-frontier-partnership",
+      "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
+      "summary": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
+      "publishedAt": "2026-06-28T17:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "34f497b88c1ab1b14850a15ebd1813e391ebf397",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE11aEdhWGlhbDNCdDg1N29pRG5HcEdWT0hkM0ZkbU8yYWRZV0U1OFgyZmNxd2lLTzloRS1CWmxLZi1CWmZIUG9FY05kTDR2RzRWbUgzWDYzWnhxdHo2MnAwYnktS2h0MDBkb2MzbUlqT05qTERwYXc?oc=5",
+      "title": "Google: Thank you Meta! But your AI capacity is in another data center!",
+      "summary": "",
+      "publishedAt": "2026-06-29T09:00:00.000Z",
+      "publisher": "Fortune",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
         "score": 4,
         "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "5b79476b114204dfe57ef8bf97ddea09c2e8f24d",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+      "title": "Mapping Europe’s AI Workforce Opportunity",
+      "summary": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
+      "publishedAt": "2026-06-29T07:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
       }
     }
   ],
