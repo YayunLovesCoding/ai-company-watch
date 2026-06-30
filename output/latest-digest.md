@@ -1,60 +1,56 @@
 # AI Company Watch
 
-Generated: Jun 29, 2026, 8:18 AM PDT
+Generated: Jun 30, 2026, 8:03 AM PDT
 Lookback window: 7 day(s)
 Sources checked: 12
-Items fetched: 41
+Items fetched: 42
 Items kept: 24
 New items: 6
-External items kept: 14
-Official items kept: 10
+External items kept: 18
+Official items kept: 6
 
 ## Critical External News
 
-### Microsoft - Microsoft (MSFT) Expands Operations With a New Strategic Partnership
-Source: Major External News - Microsoft
+### Anthropic - California State Agencies Get 50% Off Anthropic Claude Under New Partnership
+Source: Major External News - Anthropic
+Publisher: Yahoo
+Published: Jun 30, 2026
+Why it matters: Corporate move or major external event
+Link: https://news.google.com/rss/articles/CBMilwFBVV95cUxPMVVEUE42N2xEYjZqMHZ5S29QOHBOaG1UTnZvYzd1TGdQeXdTOE5tVnJjaGFDSDJTMDFnbFJ4T0pXZEZVS2tYb3F3cTg5UzduMlUydk1qcHRYajdna2NfNXRtZVNnRDY2aFZUZF9PY1FYRjQ0dXpNNFJZSlFmb2tReV9OaGpTdENjbmZYanBYYXhNeUVKUV9Z?oc=5
+
+### OpenAI - Booz Allen (BAH) Partners With OpenAI For National Security AI Work
+Source: Major External News - OpenAI
+Publisher: Yahoo Finance
+Published: Jun 30, 2026
+Why it matters: Corporate move or major external event
+Link: https://news.google.com/rss/articles/CBMimgFBVV95cUxNWVFSR1k1UEJ2VFFlZDdvOW9fNzI1cGkxZVN3VDFMNHl0QkgzeHlfOWl4Y2FUaDg4b1cweEkySFNlWXVfMUVtdFhlMFlqeEdkRnIycXJEMDdaaVFKdU5fdkJBdVFTYkpLaTUxLUFZdFJZMW9jTTlqTDNaeHlPV1JjMzVhN1hOWEs5RlVVOFdxTnJxQzNNTTNwVWtn?oc=5
+
+### OpenAI - Nearly 400 Local Papers Sue OpenAI and Microsoft Over AI Scraping
+Source: Major External News - OpenAI
 Publisher: Yahoo Finance
 Published: Jun 29, 2026
 Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMirAFBVV95cUxQbjhndTR2NWZZU2w3Y1EyU285VUY5bWZfdEdfSm5zWFlaY0FPa0VxR1VMMWRRaUNlT0VfZFF1UkM0Y3BVeHliVEJCN2d5X1hsLUZOT2wtc3JjdVZ6cG83TDdxbmZmazdCeEhIbjFyY1c3VlBlZ1ZqU3QzN08zcHhtTm84MUpvVDhwOEc3R2hjYTc3YWhYWkF6OFRhTnM5QnZQRDdUOEtsWUpUOU84?oc=5
+Link: https://news.google.com/rss/articles/CBMilgFBVV95cUxNX3hCeV9WTkJVMHpIVGVXY2RuNmxfMFJZZHBDMnFKck5iTmZnRkZjRjIxVFMzRld6NUs0WmhPWnBCUkh3MEg5eU9WTmlvLVhHZFBvdWRFYlpZUkN3QTNXUGRrZTJqb0NDMFN4QkVCbFAtTHVHbktjb1E0TnhESEF1N1pKX0tvN2VHelZNRHB2R05XNGF4LUE?oc=5
 
-### Meta - Qualcomm unveils Dragonfly C1000 and signs Meta to reshape how AI gets processed from pocket to data center
-Source: Major External News - Meta
-Publisher: Startup Fortune
-Published: Jun 27, 2026
-Why it matters: Flagship model or product launch
-Link: https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcTVldnlLZmhzUjRnX255anBEdGhBemY0QzE3MzVZTS1sSGhEVklaSmZ5WGpmVkFHb2FfMHNNRzlfTXlnbFpZalJIbEZ1RWRWMjRaTmdRdUJJdGtyV1AtVlFYMUxFVXcxX0lrNjBuUld5M3I4NXE5dlItWFhmSFZsRHVuQzB1M0F0SjNBVmFfZ0IwTlNKcHAxWHBLeklsMlM2OVJHTFpVMkxwN2VrZkNEZVlUQlRNNmJOWTEwcXdJdGFqQzhla2h5VzB6eS1YaGRM?oc=5
-
-### Google - A24 Defends Google AI Partnership, Studio Doesn’t “Necessarily Love” GenAI Content But “We’d Rather Have A Seat At The Table”
-Source: Major External News - Google
-Publisher: Yahoo
-Published: Jun 26, 2026
+### Microsoft - Getty Images Stock Doubles After OpenAI Partnership. Far More Upside Could Be Ahead.
+Source: Major External News - Microsoft
+Publisher: Yahoo Finance
+Published: Jun 25, 2026
 Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMiogFBVV95cUxPLWZLRnZZODNGWmVrcnFxYXQyaGFxR0V1M19zTkFGdFRfdHNOSTVqZWRZYWR0eFMzbkphV0Z6SFB5XzVqOGVnV1BmTnFRTmtJVXpPZjJYSHVmZ1VlUHpwM2thd2dreW50M3k5dkhkVUxPV1I3MlEtYzlPMVhpT2t4TWtndG1JVjlzSV9lM3RndUQ2WHU2STU2UFZFc3E2a0c2c1E?oc=5
+Link: https://news.google.com/rss/articles/CBMinwFBVV95cUxPVGNnRnFkQUhHVU9ESXZTTk10UEdFbjF1SEV3dTVRMkZodTlKUUNNdTI1aDBrWFJteWdTckg3ODJEaHA0aU1xaDFnRFFXcWl0X0F0TEZaWFN0Zno5LUViRDJHbFEzclVtQjZzQjJpcFlUaDNWR3JldWlZaHl2T0c1M243VWIxbVVZZTFzeTl1Xzh5M1c4UGx5UmNjT0F0S2s?oc=5
 
 ## Important External News
 
-### Meta - Google: Thank you Meta! But your AI capacity is in another data center!
-Source: Major External News - Meta
-Publisher: Fortune
+### Anthropic - AMZN Stock Edges Up Overnight: Amazon Denies Anthropic Deal Restructuring Will Raise AI Costs
+Source: Major External News - Anthropic
+Publisher: Yahoo Finance
 Published: Jun 29, 2026
 Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMidkFVX3lxTE11aEdhWGlhbDNCdDg1N29pRG5HcEdWT0hkM0ZkbU8yYWRZV0U1OFgyZmNxd2lLTzloRS1CWmxLZi1CWmZIUG9FY05kTDR2RzRWbUgzWDYzWnhxdHo2MnAwYnktS2h0MDBkb2MzbUlqT05qTERwYXc?oc=5
+Link: https://news.google.com/rss/articles/CBMinwFBVV95cUxQdFlxRXJoMHZxT1p2SlNMbjQxTEdnU0c3TUptY2lsbzFkSEdRV21LbXVPbk5GbWN0VHVNaXNTWi1VWk56VFdES1RlcFFXODlQQXJqNmk2RnZORWQxTXAtbGhWMlptWFk5NU41TGllckhTbFYyNURVSjctV0tteWE0LXdlMVYwNUtWWWtFZDd0T0ZSZ29wZlFQNm5VUXc0b3c?oc=5
 
-## Critical Official Updates
-
-### OpenAI - HP Inc. launches Frontier strategic partnership with OpenAI
-Source: OpenAI Newsroom
-Published: Jun 28, 2026
-Why it matters: Corporate move or major external event
-Summary: HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.
-Link: https://openai.com/index/hp-frontier-partnership
-
-## Official Company Updates
-
-### OpenAI - Mapping Europe’s AI Workforce Opportunity
-Source: OpenAI Newsroom
+### Anthropic - Amazon Could Pay More for Anthropic Technology Under New Deal
+Source: Major External News - Anthropic
+Publisher: The Information
 Published: Jun 29, 2026
-Why it matters: Routine official update
-Summary: A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.
-Link: https://openai.com/index/mapping-ai-jobs-transition-eu
+Why it matters: Trusted external coverage
+Link: https://news.google.com/rss/articles/CBMihwFBVV95cUxPU2FIdFAwR2FRWUZBYkpmMDliVjNMRE15TDg4WUZNT0xfZVhuUXU3RkUyZV9ndWtTSFdheHZRTEhGVXRvVGZPWlFEM2ZscEY3bFYwZnI0c2l1RXRkOW9nOFh5cjlVX1N2MUlEdkVFNTNkOEJrWUdqajNOTm84NEdETFdjbWdNWEE?oc=5
