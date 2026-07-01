@@ -1,56 +1,91 @@
 # AI Company Watch
 
-Generated: Jun 30, 2026, 8:03 AM PDT
+Generated: Jul 1, 2026, 8:08 AM PDT
 Lookback window: 7 day(s)
 Sources checked: 12
-Items fetched: 42
+Items fetched: 38
 Items kept: 24
-New items: 6
-External items kept: 18
-Official items kept: 6
+New items: 11
+External items kept: 11
+Official items kept: 13
 
 ## Critical External News
 
-### Anthropic - California State Agencies Get 50% Off Anthropic Claude Under New Partnership
+### Anthropic - Anthropic launches Claude Science in push for pharma revenue
 Source: Major External News - Anthropic
-Publisher: Yahoo
+Publisher: Financial Times
 Published: Jun 30, 2026
-Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMilwFBVV95cUxPMVVEUE42N2xEYjZqMHZ5S29QOHBOaG1UTnZvYzd1TGdQeXdTOE5tVnJjaGFDSDJTMDFnbFJ4T0pXZEZVS2tYb3F3cTg5UzduMlUydk1qcHRYajdna2NfNXRtZVNnRDY2aFZUZF9PY1FYRjQ0dXpNNFJZSlFmb2tReV9OaGpTdENjbmZYanBYYXhNeUVKUV9Z?oc=5
+Why it matters: Flagship model or product launch
+Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxPenVHZEVuRlRscmFOdUVKQVdvRGNoUEdDS1BBRU9TbEptaGZoTXNuZzlXN0tUWHQ5UjVuYkJEekJBRDlmM2hwXzZ2Z2NYQTJKaUlvTFZwTEVHQ0wxZmtYeDBVamc0VTNWMUlDcTN6cENneUFsVkphOFA0WWotYVc3N1lRZmY?oc=5
 
-### OpenAI - Booz Allen (BAH) Partners With OpenAI For National Security AI Work
-Source: Major External News - OpenAI
-Publisher: Yahoo Finance
-Published: Jun 30, 2026
-Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMimgFBVV95cUxNWVFSR1k1UEJ2VFFlZDdvOW9fNzI1cGkxZVN3VDFMNHl0QkgzeHlfOWl4Y2FUaDg4b1cweEkySFNlWXVfMUVtdFhlMFlqeEdkRnIycXJEMDdaaVFKdU5fdkJBdVFTYkpLaTUxLUFZdFJZMW9jTTlqTDNaeHlPV1JjMzVhN1hOWEs5RlVVOFdxTnJxQzNNTTNwVWtn?oc=5
-
-### OpenAI - Nearly 400 Local Papers Sue OpenAI and Microsoft Over AI Scraping
-Source: Major External News - OpenAI
-Publisher: Yahoo Finance
-Published: Jun 29, 2026
-Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMilgFBVV95cUxNX3hCeV9WTkJVMHpIVGVXY2RuNmxfMFJZZHBDMnFKck5iTmZnRkZjRjIxVFMzRld6NUs0WmhPWnBCUkh3MEg5eU9WTmlvLVhHZFBvdWRFYlpZUkN3QTNXUGRrZTJqb0NDMFN4QkVCbFAtTHVHbktjb1E0TnhESEF1N1pKX0tvN2VHelZNRHB2R05XNGF4LUE?oc=5
-
-### Microsoft - Getty Images Stock Doubles After OpenAI Partnership. Far More Upside Could Be Ahead.
+### Microsoft - Microsoft Expands Security Footprint: Is it the Next Revenue Pillar?
 Source: Major External News - Microsoft
 Publisher: Yahoo Finance
-Published: Jun 25, 2026
+Published: Jun 30, 2026
+Why it matters: Safety, security, or policy update
+Link: https://news.google.com/rss/articles/CBMipAFBVV95cUxOeWc3N285SU4wdnNjQWxrVFdBSExKTXV5Rk1qYi15M1ZaZU9mVlhEeUtyQWVPd0V2Qzd6LWR2TVZnZ1RiMTl1WVJwS0xrdUR1eHViTFdjWjF0ZXFuX2t3aDgxNWlhUG5qRlRFNmtVMVg4MjE1VHNkTEtzOTRHakpvQ01md0dqblNmQk5YRmxzeUJPaFNGdWRnbmJIMGhnMUZyWW1ULQ?oc=5
+
+## Critical Official Updates
+
+### Anthropic - Redeploying Fable 5 Announcements Fable 5 returns globally July 1. We&#x27;re also proposing an industry-wide framework for scoring jailbreak severity, together with Amazon, Microsoft, Google, and other Glasswing partners.
+Source: Anthropic News
+Published: Jun 29, 2026
 Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMinwFBVV95cUxPVGNnRnFkQUhHVU9ESXZTTk10UEdFbjF1SEV3dTVRMkZodTlKUUNNdTI1aDBrWFJteWdTckg3ODJEaHA0aU1xaDFnRFFXcWl0X0F0TEZaWFN0Zno5LUViRDJHbFEzclVtQjZzQjJpcFlUaDNWR3JldWlZaHl2T0c1M243VWIxbVVZZTFzeTl1Xzh5M1c4UGx5UmNjT0F0S2s?oc=5
+Link: https://www.anthropic.com/news/redeploying-fable-5
 
-## Important External News
+### Google - Gemini Spark updates: macOS launch, connected apps and more
+Source: Google AI
+Published: Jun 30, 2026
+Why it matters: Flagship model or product launch
+Summary: The latest Gemini Spark updates brings Spark to the macOS app, connects with your favorite apps and tracks topics in real time.
+Link: https://blog.google/innovation-and-ai/products/gemini-app/gemini-spark-updates-june-2026
 
-### Anthropic - AMZN Stock Edges Up Overnight: Amazon Denies Anthropic Deal Restructuring Will Raise AI Costs
-Source: Major External News - Anthropic
-Publisher: Yahoo Finance
+### Anthropic - Introducing Claude Sonnet 5 Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.
+Source: Anthropic News
 Published: Jun 29, 2026
-Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMinwFBVV95cUxQdFlxRXJoMHZxT1p2SlNMbjQxTEdnU0c3TUptY2lsbzFkSEdRV21LbXVPbk5GbWN0VHVNaXNTWi1VWk56VFdES1RlcFFXODlQQXJqNmk2RnZORWQxTXAtbGhWMlptWFk5NU41TGllckhTbFYyNURVSjctV0tteWE0LXdlMVYwNUtWWWtFZDd0T0ZSZ29wZlFQNm5VUXc0b3c?oc=5
+Why it matters: Flagship model or product launch
+Link: https://www.anthropic.com/news/claude-sonnet-5
 
-### Anthropic - Amazon Could Pay More for Anthropic Technology Under New Deal
-Source: Major External News - Anthropic
-Publisher: The Information
+### OpenAI - Introducing GeneBench-Pro
+Source: OpenAI Newsroom
 Published: Jun 29, 2026
-Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMihwFBVV95cUxPU2FIdFAwR2FRWUZBYkpmMDliVjNMRE15TDg4WUZNT0xfZVhuUXU3RkUyZV9ndWtTSFdheHZRTEhGVXRvVGZPWlFEM2ZscEY3bFYwZnI0c2l1RXRkOW9nOFh5cjlVX1N2MUlEdkVFNTNkOEJrWUdqajNOTm84NEdETFdjbWdNWEE?oc=5
+Why it matters: Flagship model or product launch
+Summary: Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.
+Link: https://openai.com/index/introducing-genebench-pro
+
+## Important Official Updates
+
+### OpenAI - Core dump epidemiology: fixing an 18-year-old bug
+Source: OpenAI Newsroom
+Published: Jun 29, 2026
+Why it matters: Technical or research update
+Summary: OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.
+Link: https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug
+
+## Official Company Updates
+
+### Google - Start building with Nano Banana 2 Lite and Gemini Omni Flash
+Source: Google AI
+Published: Jun 30, 2026
+Why it matters: Routine official update
+Summary: Scale your ideas with Nano Banana 2 Lite, our fastest, most cost-efficient Gemini Image model, and Gemini Omni Flash for high-quality video and conversational editing.
+Link: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-flash-nano-banana-2-lite
+
+### OpenAI - How ChatGPT adoption has expanded
+Source: OpenAI Newsroom
+Published: Jun 30, 2026
+Why it matters: Routine official update
+Summary: New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.
+Link: https://openai.com/index/how-chatgpt-adoption-has-expanded
+
+### Anthropic - Claude Science, an AI workbench for scientists, is now available Claude Science is a customizable app that integrates the tools and packages researchers most often use, produces auditable artifacts, and provides flexible access to computing resources.
+Source: Anthropic News
+Published: Jun 29, 2026
+Why it matters: Routine official update
+Link: https://www.anthropic.com/news/claude-science-ai-workbench
+
+### OpenAI - Inside Genebench-Pro
+Source: OpenAI Newsroom
+Published: Jun 29, 2026
+Why it matters: Routine official update
+Link: https://openai.com/index/genebench-pro/case-studies

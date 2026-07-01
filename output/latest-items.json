@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T15:03:03.987Z",
+  "generatedAt": "2026-07-01T15:08:19.163Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -76,34 +76,15 @@
     }
   ],
   "totals": {
-    "fetched": 42,
+    "fetched": 38,
     "deduped": 24,
-    "new": 6,
+    "new": 11,
     "byKind": {
-      "official": 6,
-      "external": 18
+      "official": 13,
+      "external": 11
     }
   },
   "items": [
-    {
-      "id": "7212272839a8ac254b1dd2eb321c7a7841e3a9a5",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMVVEUE42N2xEYjZqMHZ5S29QOHBOaG1UTnZvYzd1TGdQeXdTOE5tVnJjaGFDSDJTMDFnbFJ4T0pXZEZVS2tYb3F3cTg5UzduMlUydk1qcHRYajdna2NfNXRtZVNnRDY2aFZUZF9PY1FYRjQ0dXpNNFJZSlFmb2tReV9OaGpTdENjbmZYanBYYXhNeUVKUV9Z?oc=5",
-      "title": "California State Agencies Get 50% Off Anthropic Claude Under New Partnership",
-      "summary": "",
-      "publishedAt": "2026-06-30T10:34:29.000Z",
-      "publisher": "Yahoo",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
     {
       "id": "850059c1841221d95d3f719a6d55a004322bb64d",
       "company": "OpenAI",
@@ -140,6 +121,25 @@
         "bucket": "critical",
         "score": 7,
         "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "08014c83a1d63399fbfa532b8cef9c7e2751d602",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPenVHZEVuRlRscmFOdUVKQVdvRGNoUEdDS1BBRU9TbEptaGZoTXNuZzlXN0tUWHQ5UjVuYkJEekJBRDlmM2hwXzZ2Z2NYQTJKaUlvTFZwTEVHQ0wxZmtYeDBVamc0VTNWMUlDcTN6cENneUFsVkphOFA0WWotYVc3N1lRZmY?oc=5",
+      "title": "Anthropic launches Claude Science in push for pharma revenue",
+      "summary": "",
+      "publishedAt": "2026-06-30T17:00:07.000Z",
+      "publisher": "Financial Times",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Flagship model or product launch"
       }
     },
     {
@@ -181,44 +181,6 @@
       }
     },
     {
-      "id": "124988c48cb611bf985ee342bc326c58fee5d316",
-      "company": "Google",
-      "sourceKind": "external",
-      "sourceId": "external-google-major",
-      "sourceLabel": "Major External News - Google",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPLWZLRnZZODNGWmVrcnFxYXQyaGFxR0V1M19zTkFGdFRfdHNOSTVqZWRZYWR0eFMzbkphV0Z6SFB5XzVqOGVnV1BmTnFRTmtJVXpPZjJYSHVmZ1VlUHpwM2thd2dreW50M3k5dkhkVUxPV1I3MlEtYzlPMVhpT2t4TWtndG1JVjlzSV9lM3RndUQ2WHU2STU2UFZFc3E2a0c2c1E?oc=5",
-      "title": "A24 Defends Google AI Partnership, Studio Doesn’t “Necessarily Love” GenAI Content But “We’d Rather Have A Seat At The Table”",
-      "summary": "",
-      "publishedAt": "2026-06-26T21:03:30.000Z",
-      "publisher": "Yahoo",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "108cfc747638ca13b9b315dd40161d113b270411",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbXc3S3VNWkFPMXVnZmZSRWhFYmpaQTV5X0NuMFJsUlZiRHZPY2lfNlJ0U0VNUTFlLUpNNFFCRC01akpSX3hET0IzM21IRVBaYmVYOHRlLWN0LXhmajhzZDQyd2pSSUVSUnFKek5oQ0xjUDhIRi05ZFZCcVIzUndQQjZGQUJ3V0piMGNjMF9WQ0NDYUdCb3V6a095emJpSlV5eFJYZEx2ck5sd9IBrwFBVV95cUxNQ2tyUVkzakNiV1hERTNhVXNKdXAwWmVmZU5MeEg5QUhMYzB4dVBPYzBMZWxPRUhBTm9MYlZfbWRzaUllS19PMjU1MkNWRGtCNVNGQWhYemttSWtyTGhnTU9CLWVhQUd1MXFIb1VjNXVDSE9hX0tubVpuSTB6MTBDMlFzejk5Z2MyNEdVY0xsQTdrdjBlS2pVWUo3eTgwc0hFWlI1emNVMDZ1c3NaT3pZ?oc=5",
-      "title": "OpenAI limits new AI models to 'trusted partners' at request of U.S. government",
-      "summary": "",
-      "publishedAt": "2026-06-26T17:02:44.000Z",
-      "publisher": "CNBC",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
       "id": "bd45b7858733ae965b054bbea76d1707578edbfb",
       "company": "OpenAI",
       "sourceKind": "external",
@@ -239,10 +201,10 @@
     },
     {
       "id": "1e80e339d5297a8b8050ad13218f7baae83d2963",
-      "company": "Microsoft",
+      "company": "OpenAI",
       "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVGNnRnFkQUhHVU9ESXZTTk10UEdFbjF1SEV3dTVRMkZodTlKUUNNdTI1aDBrWFJteWdTckg3ODJEaHA0aU1xaDFnRFFXcWl0X0F0TEZaWFN0Zno5LUViRDJHbFEzclVtQjZzQjJpcFlUaDNWR3JldWlZaHl2T0c1M243VWIxbVVZZTFzeTl1Xzh5M1c4UGx5UmNjT0F0S2s?oc=5",
       "title": "Getty Images Stock Doubles After OpenAI Partnership. Far More Upside Could Be Ahead.",
@@ -257,22 +219,41 @@
       }
     },
     {
-      "id": "1ae317c00ced77b0a26456fe8c2f1072709cf678",
-      "company": "OpenAI",
+      "id": "ff1300aa6ccec48d7d7f5b02492a03866b415b13",
+      "company": "Anthropic",
       "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/hp-frontier-partnership",
-      "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
-      "summary": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
-      "publishedAt": "2026-06-28T17:00:00.000Z",
+      "sourceId": "anthropic-news",
+      "sourceLabel": "Anthropic News",
+      "homepageUrl": "https://www.anthropic.com/news",
+      "url": "https://www.anthropic.com/news/redeploying-fable-5",
+      "title": "Redeploying Fable 5 Announcements Fable 5 returns globally July 1. We&#x27;re also proposing an industry-wide framework for scoring jailbreak severity, together with Amazon, Microsoft, Google, and other Glasswing partners.",
+      "summary": "",
+      "publishedAt": "2026-06-30T00:00:00.000Z",
       "publisher": "",
-      "discoveryMethod": "feed",
+      "discoveryMethod": "anchor",
       "classification": {
         "bucket": "critical",
         "score": 6,
         "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "b9591e3a9f43e1a3fc02479e60514ec6bec13fd9",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeWc3N285SU4wdnNjQWxrVFdBSExKTXV5Rk1qYi15M1ZaZU9mVlhEeUtyQWVPd0V2Qzd6LWR2TVZnZ1RiMTl1WVJwS0xrdUR1eHViTFdjWjF0ZXFuX2t3aDgxNWlhUG5qRlRFNmtVMVg4MjE1VHNkTEtzOTRHakpvQ01md0dqblNmQk5YRmxzeUJPaFNGdWRnbmJIMGhnMUZyWW1ULQ?oc=5",
+      "title": "Microsoft Expands Security Footprint: Is it the Next Revenue Pillar?",
+      "summary": "",
+      "publishedAt": "2026-06-30T14:26:00.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Safety, security, or policy update"
       }
     },
     {
@@ -314,17 +295,17 @@
       }
     },
     {
-      "id": "81582c5c821a344152f86b5cfa00036759e7ac6d",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNV09fblVJX01hdDI5eXd3VGJDeUtDTDBhX3ZKd1JNSUxHcUo4dHhvbm1wS2pwSmRHQW5fMnA5cUlMbWVHX1BiLUpmOFh6YWlwN19xdzlXV3VPNkFoTzZ3blI2VWJlMWtxQl9UdVczdmg1WjhENDgzNi1RVTdPMk1LMmpfeks?oc=5",
-      "title": "Trump administration asks OpenAI to limit next model release over security concerns",
-      "summary": "",
-      "publishedAt": "2026-06-25T22:59:41.000Z",
-      "publisher": "Axios",
+      "id": "c66e27032b6a96605a92e5cc52e09af6b1f749e8",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-spark-updates-june-2026",
+      "title": "Gemini Spark updates: macOS launch, connected apps and more",
+      "summary": "The latest Gemini Spark updates brings Spark to the macOS app, connects with your favorite apps and tracks topics in real time.",
+      "publishedAt": "2026-06-30T21:00:00.000Z",
+      "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -333,22 +314,60 @@
       }
     },
     {
-      "id": "38ba8976c59893a5c07b79250d7a6ca384795abe",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSmFRRDNqUHdqamVDUnVYSFNpZWZ1aVYxWjBhaG9DX1ZBTHRSTGhqUzFiMDY1N0VTTTFLaG5OWGFoRmU2WHNaekVGUjRkeEFLcHBISzhvZldmcUx6MjhRNEZFWGNFU1dOdW1vcEVmS0RYamhQYWNLQ1R2TGNRSHpidFEweWV6azNpRnI1QXN0bjJnYTU0czh6Q1J6dTJVRzBvOU9LWFlhbTlSWHd2aWlNLU9yaFJ4d1k?oc=5",
-      "title": "Trump Administration Asks OpenAI to Stagger Release of New Model Over Security Concerns",
+      "id": "0f764e9bc764237aa415cc5acbf0b21b545124b8",
+      "company": "Anthropic",
+      "sourceKind": "official",
+      "sourceId": "anthropic-news",
+      "sourceLabel": "Anthropic News",
+      "homepageUrl": "https://www.anthropic.com/news",
+      "url": "https://www.anthropic.com/news/claude-sonnet-5",
+      "title": "Introducing Claude Sonnet 5 Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.",
       "summary": "",
-      "publishedAt": "2026-06-25T20:16:00.000Z",
-      "publisher": "The Information",
+      "publishedAt": "2026-06-30T00:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "anchor",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "3c923494434c3145e3652bc3016b6471395d2aa0",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/introducing-genebench-pro",
+      "title": "Introducing GeneBench-Pro",
+      "summary": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
+      "publishedAt": "2026-06-30T00:00:00.000Z",
+      "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
         "score": 5,
         "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "1ae317c00ced77b0a26456fe8c2f1072709cf678",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/hp-frontier-partnership",
+      "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
+      "summary": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
+      "publishedAt": "2026-06-28T17:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Corporate move or major external event"
       }
     },
     {
@@ -371,82 +390,6 @@
       }
     },
     {
-      "id": "f56b9ee6d7f34be5b432a8738c6f58482b4f7b6a",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdFlxRXJoMHZxT1p2SlNMbjQxTEdnU0c3TUptY2lsbzFkSEdRV21LbXVPbk5GbWN0VHVNaXNTWi1VWk56VFdES1RlcFFXODlQQXJqNmk2RnZORWQxTXAtbGhWMlptWFk5NU41TGllckhTbFYyNURVSjctV0tteWE0LXdlMVYwNUtWWWtFZDd0T0ZSZ29wZlFQNm5VUXc0b3c?oc=5",
-      "title": "AMZN Stock Edges Up Overnight: Amazon Denies Anthropic Deal Restructuring Will Raise AI Costs",
-      "summary": "",
-      "publishedAt": "2026-06-30T02:16:00.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "36b77637c9635720490c7d768961562168590950",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPU2FIdFAwR2FRWUZBYkpmMDliVjNMRE15TDg4WUZNT0xfZVhuUXU3RkUyZV9ndWtTSFdheHZRTEhGVXRvVGZPWlFEM2ZscEY3bFYwZnI0c2l1RXRkOW9nOFh5cjlVX1N2MUlEdkVFNTNkOEJrWUdqajNOTm84NEdETFdjbWdNWEE?oc=5",
-      "title": "Amazon Could Pay More for Anthropic Technology Under New Deal",
-      "summary": "",
-      "publishedAt": "2026-06-29T16:00:00.000Z",
-      "publisher": "The Information",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "34f497b88c1ab1b14850a15ebd1813e391ebf397",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE11aEdhWGlhbDNCdDg1N29pRG5HcEdWT0hkM0ZkbU8yYWRZV0U1OFgyZmNxd2lLTzloRS1CWmxLZi1CWmZIUG9FY05kTDR2RzRWbUgzWDYzWnhxdHo2MnAwYnktS2h0MDBkb2MzbUlqT05qTERwYXc?oc=5",
-      "title": "Google: Thank you Meta! But your AI capacity is in another data center!",
-      "summary": "",
-      "publishedAt": "2026-06-29T09:00:00.000Z",
-      "publisher": "Fortune",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "1a015f5dfa42958d5d31376f9d87f1e17d54017f",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
-      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
-      "summary": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
-      "publishedAt": "2026-06-24T06:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
       "id": "5d8404803c390543c5c506c23ed212236d05dfa9",
       "company": "Meta",
       "sourceKind": "official",
@@ -466,36 +409,17 @@
       }
     },
     {
-      "id": "e7e78f133580c66b35ed1c47fd142e5fc2f338ca",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMF8tdFFyWTE5OFFyMjdNdmRlLXhiWlI2UnNRTkp6d2N1bkJ5Y25VMXJ4bzE2aURDbnVKaUpnV1lvLVVGdW9US1oyZDVqYXNOYlEteHdtYVU5dHpmb1FaZ0xpaFJqM0xieTg5NTVrWkhYb3ZIdEZzRGlNWE9kYUt0RkNQM2NLUzdkMVFQbWNYbFVZd2tETTg4dnFzR3JuazlDWVdaWVlzNklVZ2JtMTI4Q2hJMA?oc=5",
-      "title": "Anthropic Moves Toward Deal With US to Lift Curbs on AI Models",
-      "summary": "",
-      "publishedAt": "2026-06-26T21:44:42.000Z",
-      "publisher": "Bloomberg.com",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "fee67c153e89f0559c64de14703f1b2c17537cde",
+      "id": "34f497b88c1ab1b14850a15ebd1813e391ebf397",
       "company": "Meta",
       "sourceKind": "external",
       "sourceId": "external-meta-major",
       "sourceLabel": "Major External News - Meta",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWUhiWmVadU9ESy1YQlQ3UjhFYVdibllEajViMFRlRm5BZ0xfTnhreFhISG93c282OE5JNVA5RlpEcGpNa1JUdlJ3anlYTVB4cG51UnBZM25idUFnZEl6MVNUOUl5WlZtc053MmIxWF8xb1dhYVFOSlBTSThKWXJiNVU5NlRwSVRyMDl4VjF5TWhnc0JiS0lCQkdHY0ozdVFsTEpwM2tWbjFTbHZFZkZQVU9uWHp2RHVWejc5QXVWV2RJWnJPZUc4VjUyVQ?oc=5",
-      "title": "Why Amazon Dropped Its OpenAI Movie, Data Center Workers Fight Back, and Meta Leaks Employee Data",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE11aEdhWGlhbDNCdDg1N29pRG5HcEdWT0hkM0ZkbU8yYWRZV0U1OFgyZmNxd2lLTzloRS1CWmxLZi1CWmZIUG9FY05kTDR2RzRWbUgzWDYzWnhxdHo2MnAwYnktS2h0MDBkb2MzbUlqT05qTERwYXc?oc=5",
+      "title": "Google: Thank you Meta! But your AI capacity is in another data center!",
       "summary": "",
-      "publishedAt": "2026-06-25T23:13:00.000Z",
-      "publisher": "WIRED",
+      "publishedAt": "2026-06-29T09:00:00.000Z",
+      "publisher": "Fortune",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -504,22 +428,22 @@
       }
     },
     {
-      "id": "adbd50c1b1db1eb73a9212ced83b954542a89a57",
+      "id": "4c4d91d3ce63907b68d16b4af8b23825b8ac8986",
       "company": "OpenAI",
       "sourceKind": "official",
       "sourceId": "openai-newsroom",
       "sourceLabel": "OpenAI Newsroom",
       "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/previewing-gpt-5-6-sol",
-      "title": "Previewing GPT-5.6 Sol: a next-generation model",
-      "summary": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
-      "publishedAt": "2026-06-26T10:00:00.000Z",
+      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+      "title": "Core dump epidemiology: fixing an 18-year-old bug",
+      "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
+      "publishedAt": "2026-06-30T00:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
         "score": 3,
-        "reason": "Safety, security, or policy update"
+        "reason": "Technical or research update"
       }
     },
     {
@@ -540,79 +464,117 @@
         "score": 3,
         "reason": "Safety, security, or policy update"
       }
+    },
+    {
+      "id": "2463d3182c73b1def990a3944dd09df43a9a913f",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-flash-nano-banana-2-lite",
+      "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
+      "summary": "Scale your ideas with Nano Banana 2 Lite, our fastest, most cost-efficient Gemini Image model, and Gemini Omni Flash for high-quality video and conversational editing.",
+      "publishedAt": "2026-06-30T16:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "fb435a036a32d4b887831901912e1f14db00b2cd",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+      "title": "How ChatGPT adoption has expanded",
+      "summary": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
+      "publishedAt": "2026-06-30T09:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "d5f7bd1f6df8c5b5dc24a77f56b7fb69192debd4",
+      "company": "Anthropic",
+      "sourceKind": "official",
+      "sourceId": "anthropic-news",
+      "sourceLabel": "Anthropic News",
+      "homepageUrl": "https://www.anthropic.com/news",
+      "url": "https://www.anthropic.com/news/claude-science-ai-workbench",
+      "title": "Claude Science, an AI workbench for scientists, is now available Claude Science is a customizable app that integrates the tools and packages researchers most often use, produces auditable artifacts, and provides flexible access to computing resources.",
+      "summary": "",
+      "publishedAt": "2026-06-30T00:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "anchor",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "200e6c5f82a034d1e5865995aafcfa3fe91654b3",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/genebench-pro/case-studies",
+      "title": "Inside Genebench-Pro",
+      "summary": "",
+      "publishedAt": "2026-06-30T00:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
+      }
     }
   ],
   "newItems": [
     {
-      "id": "7212272839a8ac254b1dd2eb321c7a7841e3a9a5",
+      "id": "08014c83a1d63399fbfa532b8cef9c7e2751d602",
       "company": "Anthropic",
       "sourceKind": "external",
       "sourceId": "external-anthropic-major",
       "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMVVEUE42N2xEYjZqMHZ5S29QOHBOaG1UTnZvYzd1TGdQeXdTOE5tVnJjaGFDSDJTMDFnbFJ4T0pXZEZVS2tYb3F3cTg5UzduMlUydk1qcHRYajdna2NfNXRtZVNnRDY2aFZUZF9PY1FYRjQ0dXpNNFJZSlFmb2tReV9OaGpTdENjbmZYanBYYXhNeUVKUV9Z?oc=5",
-      "title": "California State Agencies Get 50% Off Anthropic Claude Under New Partnership",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPenVHZEVuRlRscmFOdUVKQVdvRGNoUEdDS1BBRU9TbEptaGZoTXNuZzlXN0tUWHQ5UjVuYkJEekJBRDlmM2hwXzZ2Z2NYQTJKaUlvTFZwTEVHQ0wxZmtYeDBVamc0VTNWMUlDcTN6cENneUFsVkphOFA0WWotYVc3N1lRZmY?oc=5",
+      "title": "Anthropic launches Claude Science in push for pharma revenue",
       "summary": "",
-      "publishedAt": "2026-06-30T10:34:29.000Z",
-      "publisher": "Yahoo",
+      "publishedAt": "2026-06-30T17:00:07.000Z",
+      "publisher": "Financial Times",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
+        "score": 6,
+        "reason": "Flagship model or product launch"
       }
     },
     {
-      "id": "850059c1841221d95d3f719a6d55a004322bb64d",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWVFSR1k1UEJ2VFFlZDdvOW9fNzI1cGkxZVN3VDFMNHl0QkgzeHlfOWl4Y2FUaDg4b1cweEkySFNlWXVfMUVtdFhlMFlqeEdkRnIycXJEMDdaaVFKdU5fdkJBdVFTYkpLaTUxLUFZdFJZMW9jTTlqTDNaeHlPV1JjMzVhN1hOWEs5RlVVOFdxTnJxQzNNTTNwVWtn?oc=5",
-      "title": "Booz Allen (BAH) Partners With OpenAI For National Security AI Work",
+      "id": "ff1300aa6ccec48d7d7f5b02492a03866b415b13",
+      "company": "Anthropic",
+      "sourceKind": "official",
+      "sourceId": "anthropic-news",
+      "sourceLabel": "Anthropic News",
+      "homepageUrl": "https://www.anthropic.com/news",
+      "url": "https://www.anthropic.com/news/redeploying-fable-5",
+      "title": "Redeploying Fable 5 Announcements Fable 5 returns globally July 1. We&#x27;re also proposing an industry-wide framework for scoring jailbreak severity, together with Amazon, Microsoft, Google, and other Glasswing partners.",
       "summary": "",
-      "publishedAt": "2026-06-30T07:07:29.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "cb9839dc89e7818e95fc721b90b82f3d4cc0a749",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNX3hCeV9WTkJVMHpIVGVXY2RuNmxfMFJZZHBDMnFKck5iTmZnRkZjRjIxVFMzRld6NUs0WmhPWnBCUkh3MEg5eU9WTmlvLVhHZFBvdWRFYlpZUkN3QTNXUGRrZTJqb0NDMFN4QkVCbFAtTHVHbktjb1E0TnhESEF1N1pKX0tvN2VHelZNRHB2R05XNGF4LUE?oc=5",
-      "title": "Nearly 400 Local Papers Sue OpenAI and Microsoft Over AI Scraping",
-      "summary": "",
-      "publishedAt": "2026-06-29T17:49:33.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "1e80e339d5297a8b8050ad13218f7baae83d2963",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVGNnRnFkQUhHVU9ESXZTTk10UEdFbjF1SEV3dTVRMkZodTlKUUNNdTI1aDBrWFJteWdTckg3ODJEaHA0aU1xaDFnRFFXcWl0X0F0TEZaWFN0Zno5LUViRDJHbFEzclVtQjZzQjJpcFlUaDNWR3JldWlZaHl2T0c1M243VWIxbVVZZTFzeTl1Xzh5M1c4UGx5UmNjT0F0S2s?oc=5",
-      "title": "Getty Images Stock Doubles After OpenAI Partnership. Far More Upside Could Be Ahead.",
-      "summary": "",
-      "publishedAt": "2026-06-25T13:15:02.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
+      "publishedAt": "2026-06-30T00:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "anchor",
       "classification": {
         "bucket": "critical",
         "score": 6,
@@ -620,41 +582,174 @@
       }
     },
     {
-      "id": "f56b9ee6d7f34be5b432a8738c6f58482b4f7b6a",
-      "company": "Anthropic",
+      "id": "b9591e3a9f43e1a3fc02479e60514ec6bec13fd9",
+      "company": "Microsoft",
       "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdFlxRXJoMHZxT1p2SlNMbjQxTEdnU0c3TUptY2lsbzFkSEdRV21LbXVPbk5GbWN0VHVNaXNTWi1VWk56VFdES1RlcFFXODlQQXJqNmk2RnZORWQxTXAtbGhWMlptWFk5NU41TGllckhTbFYyNURVSjctV0tteWE0LXdlMVYwNUtWWWtFZDd0T0ZSZ29wZlFQNm5VUXc0b3c?oc=5",
-      "title": "AMZN Stock Edges Up Overnight: Amazon Denies Anthropic Deal Restructuring Will Raise AI Costs",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeWc3N285SU4wdnNjQWxrVFdBSExKTXV5Rk1qYi15M1ZaZU9mVlhEeUtyQWVPd0V2Qzd6LWR2TVZnZ1RiMTl1WVJwS0xrdUR1eHViTFdjWjF0ZXFuX2t3aDgxNWlhUG5qRlRFNmtVMVg4MjE1VHNkTEtzOTRHakpvQ01md0dqblNmQk5YRmxzeUJPaFNGdWRnbmJIMGhnMUZyWW1ULQ?oc=5",
+      "title": "Microsoft Expands Security Footprint: Is it the Next Revenue Pillar?",
       "summary": "",
-      "publishedAt": "2026-06-30T02:16:00.000Z",
+      "publishedAt": "2026-06-30T14:26:00.000Z",
       "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Safety, security, or policy update"
       }
     },
     {
-      "id": "36b77637c9635720490c7d768961562168590950",
+      "id": "c66e27032b6a96605a92e5cc52e09af6b1f749e8",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-spark-updates-june-2026",
+      "title": "Gemini Spark updates: macOS launch, connected apps and more",
+      "summary": "The latest Gemini Spark updates brings Spark to the macOS app, connects with your favorite apps and tracks topics in real time.",
+      "publishedAt": "2026-06-30T21:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "0f764e9bc764237aa415cc5acbf0b21b545124b8",
       "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPU2FIdFAwR2FRWUZBYkpmMDliVjNMRE15TDg4WUZNT0xfZVhuUXU3RkUyZV9ndWtTSFdheHZRTEhGVXRvVGZPWlFEM2ZscEY3bFYwZnI0c2l1RXRkOW9nOFh5cjlVX1N2MUlEdkVFNTNkOEJrWUdqajNOTm84NEdETFdjbWdNWEE?oc=5",
-      "title": "Amazon Could Pay More for Anthropic Technology Under New Deal",
+      "sourceKind": "official",
+      "sourceId": "anthropic-news",
+      "sourceLabel": "Anthropic News",
+      "homepageUrl": "https://www.anthropic.com/news",
+      "url": "https://www.anthropic.com/news/claude-sonnet-5",
+      "title": "Introducing Claude Sonnet 5 Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.",
       "summary": "",
-      "publishedAt": "2026-06-29T16:00:00.000Z",
-      "publisher": "The Information",
+      "publishedAt": "2026-06-30T00:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "anchor",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "3c923494434c3145e3652bc3016b6471395d2aa0",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/introducing-genebench-pro",
+      "title": "Introducing GeneBench-Pro",
+      "summary": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
+      "publishedAt": "2026-06-30T00:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "4c4d91d3ce63907b68d16b4af8b23825b8ac8986",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+      "title": "Core dump epidemiology: fixing an 18-year-old bug",
+      "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
+      "publishedAt": "2026-06-30T00:00:00.000Z",
+      "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
+        "score": 3,
+        "reason": "Technical or research update"
+      }
+    },
+    {
+      "id": "2463d3182c73b1def990a3944dd09df43a9a913f",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-flash-nano-banana-2-lite",
+      "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
+      "summary": "Scale your ideas with Nano Banana 2 Lite, our fastest, most cost-efficient Gemini Image model, and Gemini Omni Flash for high-quality video and conversational editing.",
+      "publishedAt": "2026-06-30T16:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "fb435a036a32d4b887831901912e1f14db00b2cd",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+      "title": "How ChatGPT adoption has expanded",
+      "summary": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
+      "publishedAt": "2026-06-30T09:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "d5f7bd1f6df8c5b5dc24a77f56b7fb69192debd4",
+      "company": "Anthropic",
+      "sourceKind": "official",
+      "sourceId": "anthropic-news",
+      "sourceLabel": "Anthropic News",
+      "homepageUrl": "https://www.anthropic.com/news",
+      "url": "https://www.anthropic.com/news/claude-science-ai-workbench",
+      "title": "Claude Science, an AI workbench for scientists, is now available Claude Science is a customizable app that integrates the tools and packages researchers most often use, produces auditable artifacts, and provides flexible access to computing resources.",
+      "summary": "",
+      "publishedAt": "2026-06-30T00:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "anchor",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "200e6c5f82a034d1e5865995aafcfa3fe91654b3",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/genebench-pro/case-studies",
+      "title": "Inside Genebench-Pro",
+      "summary": "",
+      "publishedAt": "2026-06-30T00:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
       }
     }
   ],
