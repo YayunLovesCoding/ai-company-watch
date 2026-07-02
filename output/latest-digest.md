@@ -1,91 +1,51 @@
 # AI Company Watch
 
-Generated: Jul 1, 2026, 8:08 AM PDT
+Generated: Jul 2, 2026, 7:53 AM PDT
 Lookback window: 7 day(s)
 Sources checked: 12
-Items fetched: 38
+Items fetched: 37
 Items kept: 24
-New items: 11
-External items kept: 11
-Official items kept: 13
+New items: 5
+External items kept: 10
+Official items kept: 14
 
 ## Critical External News
 
-### Anthropic - Anthropic launches Claude Science in push for pharma revenue
-Source: Major External News - Anthropic
-Publisher: Financial Times
-Published: Jun 30, 2026
-Why it matters: Flagship model or product launch
-Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxPenVHZEVuRlRscmFOdUVKQVdvRGNoUEdDS1BBRU9TbEptaGZoTXNuZzlXN0tUWHQ5UjVuYkJEekJBRDlmM2hwXzZ2Z2NYQTJKaUlvTFZwTEVHQ0wxZmtYeDBVamc0VTNWMUlDcTN6cENneUFsVkphOFA0WWotYVc3N1lRZmY?oc=5
+### OpenAI - Musk’s Courtroom Foil Savitt Describes ‘Flow’ of OpenAI Trial
+Source: Major External News - OpenAI
+Publisher: Bloomberg Law News
+Published: Jul 2, 2026
+Why it matters: Corporate move or major external event
+Link: https://news.google.com/rss/articles/CBMipgFBVV95cUxONW0zSlA3emh0N052LThNdkVPcjJUajZVck1xYnR6UE5WQWNycHpFUlVpUWtkb3dIZ2ZYSVZoMkk3cG1TVThfaDc0N3RhTWpZMFBJNXRKZi1Ya0tTb2FfUDA2Y0gxWDUxTHdRVm1XM2x5TnVIbzR3a1BEV01WU19kbng1UWhZUnhWbDFRRjF4OTZqa0htSkdIRkI5MkkwWXdiRTNWZEtB?oc=5
 
-### Microsoft - Microsoft Expands Security Footprint: Is it the Next Revenue Pillar?
-Source: Major External News - Microsoft
+### OpenAI - Cerebras Systems (CBRS) Reports Strong Growth Following Multi-Year OpenAI Partnership
+Source: Major External News - OpenAI
 Publisher: Yahoo Finance
-Published: Jun 30, 2026
-Why it matters: Safety, security, or policy update
-Link: https://news.google.com/rss/articles/CBMipAFBVV95cUxOeWc3N285SU4wdnNjQWxrVFdBSExKTXV5Rk1qYi15M1ZaZU9mVlhEeUtyQWVPd0V2Qzd6LWR2TVZnZ1RiMTl1WVJwS0xrdUR1eHViTFdjWjF0ZXFuX2t3aDgxNWlhUG5qRlRFNmtVMVg4MjE1VHNkTEtzOTRHakpvQ01md0dqblNmQk5YRmxzeUJPaFNGdWRnbmJIMGhnMUZyWW1ULQ?oc=5
+Published: Jul 1, 2026
+Why it matters: Corporate move or major external event
+Link: https://news.google.com/rss/articles/CBMiogFBVV95cUxPd2JQbHM0WkNQWm5hMkNIN29IOWVvenV1LWlPNWYzNjBBRE90ejYwQW9NbE91aV96QmtSTmpONU1lYkI4cGVTQzFWcmFpbjZZb2luaXBzWkhPRDdtWkNhTkRrMnh1eGxkUWxXdktyTnNwbVZNVVBVb2ozZlBzenl6eld3VEd0X0pjNGNhOU1TanJkcng3ZXE4cExNR2d2eUNTRkE?oc=5
+
+### OpenAI - Alex Karp Touts Palantir-Nvidia Partnership For Secure AI, Criticizes OpenAI And Anthropic Over Lack Of IP Protection
+Source: Major External News - OpenAI
+Publisher: Yahoo Finance
+Published: Jul 1, 2026
+Why it matters: Corporate move or major external event
+Link: https://news.google.com/rss/articles/CBMimwFBVV95cUxON0lPT0dqMzZTMjk4d0ZhcWVRRHR2UF9OaDNRTmRGX0JkM3dieEJaelpMcnVFMFl2REczNDV3QU9wdG0xMm9uSTVwX29nUmpNN3hpaVJQbW52RWRoaEp2RnpBVVZ1Nk41N2VCVXg3MWV6ZHJsMmNEUURxdnVrb2RPWUV0d05zOTRxcG81YjRmRnBLSWhKaERySEJScw?oc=5
+
+## Important External News
+
+### Anthropic - Anthropic in Talks With Samsung to Manufacture Custom AI Chip
+Source: Major External News - Anthropic
+Publisher: The Information
+Published: Jul 2, 2026
+Why it matters: Trusted external coverage
+Link: https://news.google.com/rss/articles/CBMilAFBVV95cUxPUTh0cENsZUllRDdoaGw1QVlWcU4yeXJtbGdfS2l5Vlo2VThNLXVPTlQzZjZRXzVqTWFLQTh4WFFtQTluQW5GTXdObEY5V3dJSGNVZVNHek5XT3FETGpXM1lPN2N3eFNjdEhOWjZSV190cUpFd3pUTVpwanpvZ3gzSFE2YmpxNDFHTXhrU1JzZXVHck1k?oc=5
 
 ## Critical Official Updates
 
-### Anthropic - Redeploying Fable 5 Announcements Fable 5 returns globally July 1. We&#x27;re also proposing an industry-wide framework for scoring jailbreak severity, together with Amazon, Microsoft, Google, and other Glasswing partners.
-Source: Anthropic News
-Published: Jun 29, 2026
-Why it matters: Corporate move or major external event
-Link: https://www.anthropic.com/news/redeploying-fable-5
-
-### Google - Gemini Spark updates: macOS launch, connected apps and more
+### Google - The latest AI news we announced in June 2026
 Source: Google AI
-Published: Jun 30, 2026
+Published: Jul 1, 2026
 Why it matters: Flagship model or product launch
-Summary: The latest Gemini Spark updates brings Spark to the macOS app, connects with your favorite apps and tracks topics in real time.
-Link: https://blog.google/innovation-and-ai/products/gemini-app/gemini-spark-updates-june-2026
-
-### Anthropic - Introducing Claude Sonnet 5 Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.
-Source: Anthropic News
-Published: Jun 29, 2026
-Why it matters: Flagship model or product launch
-Link: https://www.anthropic.com/news/claude-sonnet-5
-
-### OpenAI - Introducing GeneBench-Pro
-Source: OpenAI Newsroom
-Published: Jun 29, 2026
-Why it matters: Flagship model or product launch
-Summary: Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.
-Link: https://openai.com/index/introducing-genebench-pro
-
-## Important Official Updates
-
-### OpenAI - Core dump epidemiology: fixing an 18-year-old bug
-Source: OpenAI Newsroom
-Published: Jun 29, 2026
-Why it matters: Technical or research update
-Summary: OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.
-Link: https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug
-
-## Official Company Updates
-
-### Google - Start building with Nano Banana 2 Lite and Gemini Omni Flash
-Source: Google AI
-Published: Jun 30, 2026
-Why it matters: Routine official update
-Summary: Scale your ideas with Nano Banana 2 Lite, our fastest, most cost-efficient Gemini Image model, and Gemini Omni Flash for high-quality video and conversational editing.
-Link: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-flash-nano-banana-2-lite
-
-### OpenAI - How ChatGPT adoption has expanded
-Source: OpenAI Newsroom
-Published: Jun 30, 2026
-Why it matters: Routine official update
-Summary: New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.
-Link: https://openai.com/index/how-chatgpt-adoption-has-expanded
-
-### Anthropic - Claude Science, an AI workbench for scientists, is now available Claude Science is a customizable app that integrates the tools and packages researchers most often use, produces auditable artifacts, and provides flexible access to computing resources.
-Source: Anthropic News
-Published: Jun 29, 2026
-Why it matters: Routine official update
-Link: https://www.anthropic.com/news/claude-science-ai-workbench
-
-### OpenAI - Inside Genebench-Pro
-Source: OpenAI Newsroom
-Published: Jun 29, 2026
-Why it matters: Routine official update
-Link: https://openai.com/index/genebench-pro/case-studies
+Summary: Here are Google’s latest AI updates from June 2026.
+Link: https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026
