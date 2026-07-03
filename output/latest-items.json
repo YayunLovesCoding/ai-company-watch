@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T14:53:10.598Z",
+  "generatedAt": "2026-07-03T15:53:47.495Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -76,15 +76,34 @@
     }
   ],
   "totals": {
-    "fetched": 37,
+    "fetched": 40,
     "deduped": 24,
-    "new": 5,
+    "new": 6,
     "byKind": {
-      "official": 14,
-      "external": 10
+      "official": 11,
+      "external": 13
     }
   },
   "items": [
+    {
+      "id": "3d936c8f789cc2f4ff8e54886826fa8cbae10fb7",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRzBUajJMWWllSzVldktRYUlIRFk4WGVYZjZpYzlIdnB1bU9ST01vLUdabEhZRldMVGZoVjItQmZoZC1tT0l1VFFxbUZiekF2UlJOS3F6czFDNnNkUmF0cWtvX3V3Mzdid1pSZkVOclYwT2dMalZ5RTE0NWpXbkIzT2ZCb2I5eWI2Wno5aTZ2ZG1FcjhvRVhDYmhRV0w?oc=5",
+      "title": "California Expands AI Push With Statewide Anthropic Partnership",
+      "summary": "",
+      "publishedAt": "2026-07-03T11:31:10.000Z",
+      "publisher": "Yahoo",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
     {
       "id": "e10d8ee8f0dc7ffd6e7d62fb9c9d611c4995d53f",
       "company": "OpenAI",
@@ -105,63 +124,6 @@
       }
     },
     {
-      "id": "a0c41ce2bbda2f4bb163a0092a69e06a1f81dd9e",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPd2JQbHM0WkNQWm5hMkNIN29IOWVvenV1LWlPNWYzNjBBRE90ejYwQW9NbE91aV96QmtSTmpONU1lYkI4cGVTQzFWcmFpbjZZb2luaXBzWkhPRDdtWkNhTkRrMnh1eGxkUWxXdktyTnNwbVZNVVBVb2ozZlBzenl6eld3VEd0X0pjNGNhOU1TanJkcng3ZXE4cExNR2d2eUNTRkE?oc=5",
-      "title": "Cerebras Systems (CBRS) Reports Strong Growth Following Multi-Year OpenAI Partnership",
-      "summary": "",
-      "publishedAt": "2026-07-01T15:58:06.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "17ce750fbb2f4598cd0a9201a9b4c619a24f492d",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxON0lPT0dqMzZTMjk4d0ZhcWVRRHR2UF9OaDNRTmRGX0JkM3dieEJaelpMcnVFMFl2REczNDV3QU9wdG0xMm9uSTVwX29nUmpNN3hpaVJQbW52RWRoaEp2RnpBVVZ1Nk41N2VCVXg3MWV6ZHJsMmNEUURxdnVrb2RPWUV0d05zOTRxcG81YjRmRnBLSWhKaERySEJScw?oc=5",
-      "title": "Alex Karp Touts Palantir-Nvidia Partnership For Secure AI, Criticizes OpenAI And Anthropic Over Lack Of IP Protection",
-      "summary": "",
-      "publishedAt": "2026-07-01T13:25:54.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "08014c83a1d63399fbfa532b8cef9c7e2751d602",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPenVHZEVuRlRscmFOdUVKQVdvRGNoUEdDS1BBRU9TbEptaGZoTXNuZzlXN0tUWHQ5UjVuYkJEekJBRDlmM2hwXzZ2Z2NYQTJKaUlvTFZwTEVHQ0wxZmtYeDBVamc0VTNWMUlDcTN6cENneUFsVkphOFA0WWotYVc3N1lRZmY?oc=5",
-      "title": "Anthropic launches Claude Science in push for pharma revenue",
-      "summary": "",
-      "publishedAt": "2026-06-30T17:00:07.000Z",
-      "publisher": "Financial Times",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
       "id": "850059c1841221d95d3f719a6d55a004322bb64d",
       "company": "OpenAI",
       "sourceKind": "external",
@@ -173,6 +135,44 @@
       "summary": "",
       "publishedAt": "2026-06-30T07:07:29.000Z",
       "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "65384455ae052fffd7175bab7a158d0b804da7c9",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUDRYZHEzcnVVZ0cwZUVXdkZOTWZqQUJOc0s2cGpLUTZlTmJ3ZnRsaGNfQlFkMWo5YlNnTG5YbDY2WVdqUVQzc1FoWmtMMEk3MHhDSS1OUUFRbjhGaXVYSjN3bEVpTEstakxrTTVQNDRKSjNTelZKZWo1ZS1JLVBySjJBN2ZsdF9DYkFoanZxQ1ZHYzQ?oc=5",
+      "title": "What Broadcom (AVGO)'s Jalapeño AI Accelerator Partnership With OpenAI Means For Shareholders",
+      "summary": "",
+      "publishedAt": "2026-06-30T03:14:00.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "0198823469317aae3b70eeb64f1ee84e3794dd88",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWXhPY2ZaMHljVTBuZVZVdS1jUDAtOWgzYjFpTjFac3hWVGxib1hSemhEdzF4aUoxTDdGcWJPTzVvMWtQb2p2eE5FZEllQUQ2d0V1cTBBSmZQVzI4bERYbGtHR203eVZxSW9BYWVEREh4RlZaeEs3OFVZQzQ4WmE4MmJCVm94dC1yV1l5S3h1aG5hZ3c?oc=5",
+      "title": "35 publishers sue OpenAI, Microsoft for training ChatGPT with their content",
+      "summary": "",
+      "publishedAt": "2026-06-29T15:00:00.000Z",
+      "publisher": "Yahoo",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -197,6 +197,44 @@
         "bucket": "critical",
         "score": 6,
         "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "124988c48cb611bf985ee342bc326c58fee5d316",
+      "company": "Google",
+      "sourceKind": "external",
+      "sourceId": "external-google-major",
+      "sourceLabel": "Major External News - Google",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPLWZLRnZZODNGWmVrcnFxYXQyaGFxR0V1M19zTkFGdFRfdHNOSTVqZWRZYWR0eFMzbkphV0Z6SFB5XzVqOGVnV1BmTnFRTmtJVXpPZjJYSHVmZ1VlUHpwM2thd2dreW50M3k5dkhkVUxPV1I3MlEtYzlPMVhpT2t4TWtndG1JVjlzSV9lM3RndUQ2WHU2STU2UFZFc3E2a0c2c1E?oc=5",
+      "title": "A24 Defends Google AI Partnership, Studio Doesn’t “Necessarily Love” GenAI Content But “We’d Rather Have A Seat At The Table”",
+      "summary": "",
+      "publishedAt": "2026-06-26T21:03:30.000Z",
+      "publisher": "Yahoo",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "dd6d5c1032c994b47f27c41339654dd5a2aa028a",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMF94aVhfNUVMcmxqbE0temN3T3pxT1E2VXFoeHRaeG5maDJUQU1QRGdVaWhCQ3U5VXZFNDIzdjc5STQyTXo4UnRDVlh3TVdFdGRwZkJrV1NUMEtLME5LU3pfVThTNXpMaXJOQ3JGV3E0cW1CSlpteW1wMHNOTXZJVWZ4TS1YaWRiRHZZYWZTbzczOFUzelBia0MxcTNiUTBi?oc=5",
+      "title": "Alibaba to block Claude Code in workplace amid reported security concerns (BABA)",
+      "summary": "",
+      "publishedAt": "2026-07-03T09:25:18.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Safety, security, or policy update"
       }
     },
     {
@@ -229,25 +267,6 @@
       "title": "The latest AI news we announced in June 2026",
       "summary": "Here are Google’s latest AI updates from June 2026.",
       "publishedAt": "2026-07-01T18:15:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "c66e27032b6a96605a92e5cc52e09af6b1f749e8",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-spark-updates-june-2026",
-      "title": "Gemini Spark updates: macOS launch, connected apps and more",
-      "summary": "The latest Gemini Spark updates brings Spark to the macOS app, connects with your favorite apps and tracks topics in real time.",
-      "publishedAt": "2026-06-30T21:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -314,6 +333,25 @@
       }
     },
     {
+      "id": "1bffb9ff0dc9fe0f75151ffac7bb30074b0ae7fd",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVEZIQk56bmVISXlQbVVSX0d0Uk1jZFM3MkR5Rkl6R2RtMmZXdk5mZXpFeFNqejN2TE84RlVDQTNTUEdEZnRMSjlOWG9fOFIwTnNGeENSUTZKdHU4WEk5eS03UG5tTjlRa3Vxc2JFbTJvYzJrNU9iLXFldWthLUJ2Q2NYa0V3UHFyTmh1eTZTVmNrc1U?oc=5",
+      "title": "Anthropic is discussing a new custom chip with Samsung",
+      "summary": "",
+      "publishedAt": "2026-07-02T18:31:09.000Z",
+      "publisher": "TechCrunch",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
       "id": "b84672a94bd94f059389c1da8e942ec0df6396c1",
       "company": "Anthropic",
       "sourceKind": "external",
@@ -330,6 +368,44 @@
         "bucket": "important",
         "score": 4,
         "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "b9591e3a9f43e1a3fc02479e60514ec6bec13fd9",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeWc3N285SU4wdnNjQWxrVFdBSExKTXV5Rk1qYi15M1ZaZU9mVlhEeUtyQWVPd0V2Qzd6LWR2TVZnZ1RiMTl1WVJwS0xrdUR1eHViTFdjWjF0ZXFuX2t3aDgxNWlhUG5qRlRFNmtVMVg4MjE1VHNkTEtzOTRHakpvQ01md0dqblNmQk5YRmxzeUJPaFNGdWRnbmJIMGhnMUZyWW1ULQ?oc=5",
+      "title": "Microsoft Expands Security Footprint: Is it the Next Revenue Pillar?",
+      "summary": "",
+      "publishedAt": "2026-06-30T14:26:00.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "c66e27032b6a96605a92e5cc52e09af6b1f749e8",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-spark-updates-june-2026",
+      "title": "Gemini Spark updates: macOS launch, connected apps and more",
+      "summary": "The latest Gemini Spark updates brings Spark to the macOS app, connects with your favorite apps and tracks topics in real time.",
+      "publishedAt": "2026-06-30T21:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Flagship model or product launch"
       }
     },
     {
@@ -409,25 +485,6 @@
       }
     },
     {
-      "id": "fee67c153e89f0559c64de14703f1b2c17537cde",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWUhiWmVadU9ESy1YQlQ3UjhFYVdibllEajViMFRlRm5BZ0xfTnhreFhISG93c282OE5JNVA5RlpEcGpNa1JUdlJ3anlYTVB4cG51UnBZM25idUFnZEl6MVNUOUl5WlZtc053MmIxWF8xb1dhYVFOSlBTSThKWXJiNVU5NlRwSVRyMDl4VjF5TWhnc0JiS0lCQkdHY0ozdVFsTEpwM2tWbjFTbHZFZkZQVU9uWHp2RHVWejc5QXVWV2RJWnJPZUc4VjUyVQ?oc=5",
-      "title": "Why Amazon Dropped Its OpenAI Movie, Data Center Workers Fight Back, and Meta Leaks Employee Data",
-      "summary": "",
-      "publishedAt": "2026-06-25T23:13:00.000Z",
-      "publisher": "WIRED",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
       "id": "3a0b4572422c1a8cbc95ae7fb7158fc8dc49f9d0",
       "company": "Anthropic",
       "sourceKind": "official",
@@ -447,18 +504,18 @@
       }
     },
     {
-      "id": "2463d3182c73b1def990a3944dd09df43a9a913f",
-      "company": "Google",
+      "id": "50819ea9c0ae9cb02e09737af83fd4eda7020e67",
+      "company": "Anthropic",
       "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-flash-nano-banana-2-lite",
-      "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
-      "summary": "Scale your ideas with Nano Banana 2 Lite, our fastest, most cost-efficient Gemini Image model, and Gemini Omni Flash for high-quality video and conversational editing.",
-      "publishedAt": "2026-06-30T16:00:00.000Z",
+      "sourceId": "anthropic-news",
+      "sourceLabel": "Anthropic News",
+      "homepageUrl": "https://www.anthropic.com/news",
+      "url": "https://www.anthropic.com/news/fable-safeguards-jailbreak-framework",
+      "title": "More details on Fable 5’s cyber safeguards and our jailbreak framework",
+      "summary": "",
+      "publishedAt": "2026-07-02T00:00:00.000Z",
       "publisher": "",
-      "discoveryMethod": "feed",
+      "discoveryMethod": "anchor",
       "classification": {
         "bucket": "digest",
         "score": 2,
@@ -483,159 +540,121 @@
         "score": 2,
         "reason": "Technical or research update"
       }
-    },
-    {
-      "id": "2e3f360dd0fdbd93492a67876cdf40f6c5cb9459",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-study-notebooks",
-      "title": "5 ways to learn with study notebooks in the Gemini app",
-      "summary": "Study notebooks is a new space in the Gemini app that serves as an interactive learning tool tailored to any student's goals.",
-      "publishedAt": "2026-06-25T16:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Technical or research update"
-      }
-    },
-    {
-      "id": "97cd97d27d220f15f9bc8a69f1f4b5eea602a9e8",
-      "company": "Anthropic",
-      "sourceKind": "official",
-      "sourceId": "anthropic-engineering",
-      "sourceLabel": "Anthropic Engineering",
-      "homepageUrl": "https://www.anthropic.com/engineering",
-      "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
-      "title": "Featured How we contain Claude across products As agents grow more capable, so does their potential blast radius. The engineering question is how to cap it. Here’s what we’ve learned building containment for claude.ai, Claude Code, and Cowork.",
-      "summary": "",
-      "publishedAt": null,
-      "publisher": "",
-      "discoveryMethod": "anchor",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Technical or research update"
-      }
-    },
-    {
-      "id": "fb435a036a32d4b887831901912e1f14db00b2cd",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
-      "title": "How ChatGPT adoption has expanded",
-      "summary": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
-      "publishedAt": "2026-06-30T09:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
     }
   ],
   "newItems": [
     {
-      "id": "e10d8ee8f0dc7ffd6e7d62fb9c9d611c4995d53f",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONW0zSlA3emh0N052LThNdkVPcjJUajZVck1xYnR6UE5WQWNycHpFUlVpUWtkb3dIZ2ZYSVZoMkk3cG1TVThfaDc0N3RhTWpZMFBJNXRKZi1Ya0tTb2FfUDA2Y0gxWDUxTHdRVm1XM2x5TnVIbzR3a1BEV01WU19kbng1UWhZUnhWbDFRRjF4OTZqa0htSkdIRkI5MkkwWXdiRTNWZEtB?oc=5",
-      "title": "Musk’s Courtroom Foil Savitt Describes ‘Flow’ of OpenAI Trial",
-      "summary": "",
-      "publishedAt": "2026-07-02T09:00:00.000Z",
-      "publisher": "Bloomberg Law News",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "a0c41ce2bbda2f4bb163a0092a69e06a1f81dd9e",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPd2JQbHM0WkNQWm5hMkNIN29IOWVvenV1LWlPNWYzNjBBRE90ejYwQW9NbE91aV96QmtSTmpONU1lYkI4cGVTQzFWcmFpbjZZb2luaXBzWkhPRDdtWkNhTkRrMnh1eGxkUWxXdktyTnNwbVZNVVBVb2ozZlBzenl6eld3VEd0X0pjNGNhOU1TanJkcng3ZXE4cExNR2d2eUNTRkE?oc=5",
-      "title": "Cerebras Systems (CBRS) Reports Strong Growth Following Multi-Year OpenAI Partnership",
-      "summary": "",
-      "publishedAt": "2026-07-01T15:58:06.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "17ce750fbb2f4598cd0a9201a9b4c619a24f492d",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxON0lPT0dqMzZTMjk4d0ZhcWVRRHR2UF9OaDNRTmRGX0JkM3dieEJaelpMcnVFMFl2REczNDV3QU9wdG0xMm9uSTVwX29nUmpNN3hpaVJQbW52RWRoaEp2RnpBVVZ1Nk41N2VCVXg3MWV6ZHJsMmNEUURxdnVrb2RPWUV0d05zOTRxcG81YjRmRnBLSWhKaERySEJScw?oc=5",
-      "title": "Alex Karp Touts Palantir-Nvidia Partnership For Secure AI, Criticizes OpenAI And Anthropic Over Lack Of IP Protection",
-      "summary": "",
-      "publishedAt": "2026-07-01T13:25:54.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "abd37bf2f2f7c34c5c24a231c369456c550554fb",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026",
-      "title": "The latest AI news we announced in June 2026",
-      "summary": "Here are Google’s latest AI updates from June 2026.",
-      "publishedAt": "2026-07-01T18:15:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "b84672a94bd94f059389c1da8e942ec0df6396c1",
+      "id": "3d936c8f789cc2f4ff8e54886826fa8cbae10fb7",
       "company": "Anthropic",
       "sourceKind": "external",
       "sourceId": "external-anthropic-major",
       "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUTh0cENsZUllRDdoaGw1QVlWcU4yeXJtbGdfS2l5Vlo2VThNLXVPTlQzZjZRXzVqTWFLQTh4WFFtQTluQW5GTXdObEY5V3dJSGNVZVNHek5XT3FETGpXM1lPN2N3eFNjdEhOWjZSV190cUpFd3pUTVpwanpvZ3gzSFE2YmpxNDFHTXhrU1JzZXVHck1k?oc=5",
-      "title": "Anthropic in Talks With Samsung to Manufacture Custom AI Chip",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRzBUajJMWWllSzVldktRYUlIRFk4WGVYZjZpYzlIdnB1bU9ST01vLUdabEhZRldMVGZoVjItQmZoZC1tT0l1VFFxbUZiekF2UlJOS3F6czFDNnNkUmF0cWtvX3V3Mzdid1pSZkVOclYwT2dMalZ5RTE0NWpXbkIzT2ZCb2I5eWI2Wno5aTZ2ZG1FcjhvRVhDYmhRV0w?oc=5",
+      "title": "California Expands AI Push With Statewide Anthropic Partnership",
       "summary": "",
-      "publishedAt": "2026-07-02T13:50:00.000Z",
-      "publisher": "The Information",
+      "publishedAt": "2026-07-03T11:31:10.000Z",
+      "publisher": "Yahoo",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "65384455ae052fffd7175bab7a158d0b804da7c9",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUDRYZHEzcnVVZ0cwZUVXdkZOTWZqQUJOc0s2cGpLUTZlTmJ3ZnRsaGNfQlFkMWo5YlNnTG5YbDY2WVdqUVQzc1FoWmtMMEk3MHhDSS1OUUFRbjhGaXVYSjN3bEVpTEstakxrTTVQNDRKSjNTelZKZWo1ZS1JLVBySjJBN2ZsdF9DYkFoanZxQ1ZHYzQ?oc=5",
+      "title": "What Broadcom (AVGO)'s Jalapeño AI Accelerator Partnership With OpenAI Means For Shareholders",
+      "summary": "",
+      "publishedAt": "2026-06-30T03:14:00.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "0198823469317aae3b70eeb64f1ee84e3794dd88",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWXhPY2ZaMHljVTBuZVZVdS1jUDAtOWgzYjFpTjFac3hWVGxib1hSemhEdzF4aUoxTDdGcWJPTzVvMWtQb2p2eE5FZEllQUQ2d0V1cTBBSmZQVzI4bERYbGtHR203eVZxSW9BYWVEREh4RlZaeEs3OFVZQzQ4WmE4MmJCVm94dC1yV1l5S3h1aG5hZ3c?oc=5",
+      "title": "35 publishers sue OpenAI, Microsoft for training ChatGPT with their content",
+      "summary": "",
+      "publishedAt": "2026-06-29T15:00:00.000Z",
+      "publisher": "Yahoo",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "dd6d5c1032c994b47f27c41339654dd5a2aa028a",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMF94aVhfNUVMcmxqbE0temN3T3pxT1E2VXFoeHRaeG5maDJUQU1QRGdVaWhCQ3U5VXZFNDIzdjc5STQyTXo4UnRDVlh3TVdFdGRwZkJrV1NUMEtLME5LU3pfVThTNXpMaXJOQ3JGV3E0cW1CSlpteW1wMHNOTXZJVWZ4TS1YaWRiRHZZYWZTbzczOFUzelBia0MxcTNiUTBi?oc=5",
+      "title": "Alibaba to block Claude Code in workplace amid reported security concerns (BABA)",
+      "summary": "",
+      "publishedAt": "2026-07-03T09:25:18.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "1bffb9ff0dc9fe0f75151ffac7bb30074b0ae7fd",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVEZIQk56bmVISXlQbVVSX0d0Uk1jZFM3MkR5Rkl6R2RtMmZXdk5mZXpFeFNqejN2TE84RlVDQTNTUEdEZnRMSjlOWG9fOFIwTnNGeENSUTZKdHU4WEk5eS03UG5tTjlRa3Vxc2JFbTJvYzJrNU9iLXFldWthLUJ2Q2NYa0V3UHFyTmh1eTZTVmNrc1U?oc=5",
+      "title": "Anthropic is discussing a new custom chip with Samsung",
+      "summary": "",
+      "publishedAt": "2026-07-02T18:31:09.000Z",
+      "publisher": "TechCrunch",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
         "score": 4,
         "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "50819ea9c0ae9cb02e09737af83fd4eda7020e67",
+      "company": "Anthropic",
+      "sourceKind": "official",
+      "sourceId": "anthropic-news",
+      "sourceLabel": "Anthropic News",
+      "homepageUrl": "https://www.anthropic.com/news",
+      "url": "https://www.anthropic.com/news/fable-safeguards-jailbreak-framework",
+      "title": "More details on Fable 5’s cyber safeguards and our jailbreak framework",
+      "summary": "",
+      "publishedAt": "2026-07-02T00:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "anchor",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
       }
     }
   ],
