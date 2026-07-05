@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T15:08:28.791Z",
+  "generatedAt": "2026-07-05T15:15:52.612Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -76,15 +76,110 @@
     }
   ],
   "totals": {
-    "fetched": 25,
+    "fetched": 38,
     "deduped": 24,
     "new": 4,
     "byKind": {
-      "official": 24,
-      "external": 0
+      "official": 13,
+      "external": 11
     }
   },
   "items": [
+    {
+      "id": "d0addbffb81aa0aab868ff96fa98dac2c4e66334",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQ0tCcjJnSXpERDU1QklxWkZrMFFZU0NhT3kzSFdQX1gybEFmZ2NOSnljaHNWUmJpa3Q5Nmx0YlJ3NzBPWmswZGRGYlhSS09jc2dGU0ZhVzBSQVd6Q3FJMjJyNFl5YWphaGRsZFh0cmc1ZE9OZGJCcVoxa25EMldUU05vU0ZfazRQbTF4Y25rWXBHSUE?oc=5",
+      "title": "OpenAI and Microsoft Lawsuit: Nearly 400 Local Newspapers Sue",
+      "summary": "",
+      "publishedAt": "2026-07-04T14:36:38.000Z",
+      "publisher": "Yahoo",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "766a91ccaa91d6a2e75798909d528ac978fa5796",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMWNXT0xUZnVCb3B5SmZGMlNpRl9jN3ItV01Zajg5ZnVocklzUmN4cDZaYmlaUVIxbm9FWTV0U0hCNTF0bjNTVjN2c05kT0NONXB3ci0wYW11RzBxYzNKTlZTVTBWLVpDVHBZZlRHczB1c095bFppRmRwNTlkUDFvbHhrUDdiMExQNGYzZUs3WFp1YkxiWUw3dHoxTU0?oc=5",
+      "title": "Qualcomm (QCOM), Meta (META) Announce Multi-Generation Data Center CPU Supply Agreement",
+      "summary": "",
+      "publishedAt": "2026-07-04T12:54:31.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "3d936c8f789cc2f4ff8e54886826fa8cbae10fb7",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRzBUajJMWWllSzVldktRYUlIRFk4WGVYZjZpYzlIdnB1bU9ST01vLUdabEhZRldMVGZoVjItQmZoZC1tT0l1VFFxbUZiekF2UlJOS3F6czFDNnNkUmF0cWtvX3V3Mzdid1pSZkVOclYwT2dMalZ5RTE0NWpXbkIzT2ZCb2I5eWI2Wno5aTZ2ZG1FcjhvRVhDYmhRV0w?oc=5",
+      "title": "California Expands AI Push With Statewide Anthropic Partnership",
+      "summary": "",
+      "publishedAt": "2026-07-03T11:31:10.000Z",
+      "publisher": "Yahoo",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "e10d8ee8f0dc7ffd6e7d62fb9c9d611c4995d53f",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONW0zSlA3emh0N052LThNdkVPcjJUajZVck1xYnR6UE5WQWNycHpFUlVpUWtkb3dIZ2ZYSVZoMkk3cG1TVThfaDc0N3RhTWpZMFBJNXRKZi1Ya0tTb2FfUDA2Y0gxWDUxTHdRVm1XM2x5TnVIbzR3a1BEV01WU19kbng1UWhZUnhWbDFRRjF4OTZqa0htSkdIRkI5MkkwWXdiRTNWZEtB?oc=5",
+      "title": "Musk’s Courtroom Foil Savitt Describes ‘Flow’ of OpenAI Trial",
+      "summary": "",
+      "publishedAt": "2026-07-02T09:00:00.000Z",
+      "publisher": "Bloomberg Law News",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "a0c41ce2bbda2f4bb163a0092a69e06a1f81dd9e",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPd2JQbHM0WkNQWm5hMkNIN29IOWVvenV1LWlPNWYzNjBBRE90ejYwQW9NbE91aV96QmtSTmpONU1lYkI4cGVTQzFWcmFpbjZZb2luaXBzWkhPRDdtWkNhTkRrMnh1eGxkUWxXdktyTnNwbVZNVVBVb2ozZlBzenl6eld3VEd0X0pjNGNhOU1TanJkcng3ZXE4cExNR2d2eUNTRkE?oc=5",
+      "title": "Cerebras Systems (CBRS) Reports Strong Growth Following Multi-Year OpenAI Partnership",
+      "summary": "",
+      "publishedAt": "2026-07-01T15:58:06.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Corporate move or major external event"
+      }
+    },
     {
       "id": "ff1300aa6ccec48d7d7f5b02492a03866b415b13",
       "company": "Anthropic",
@@ -140,6 +235,82 @@
         "bucket": "critical",
         "score": 5,
         "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "07a7190741a8c82e740aa4fcc1896db600ae9b84",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSzdveHhtaUYyRzJtSGtBVlozYURXWkRWWnBBUUp1OHZfN0QyMUpRUFNmZXlGeDc5VXc1N2ZZbW50ZDgwN2RoTVlOTWhJR3pPXzZybFctZHBuVHcyWEduYTNWYkh2T2E4TUF0SHhwRjJTQmp3Z2hoTko3MG9LTGNMRktKb0NSZTdOcmlLN3FQdE5pbjhOV2NicUo2OXNCN2c?oc=5",
+      "title": "Anthropic Says 'We're Grateful' as Trump Administration Lifts Export Controls on Claude Fable 5 and Mythos 5 After AI Security Standoff",
+      "summary": "",
+      "publishedAt": "2026-07-03T13:30:28.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "dd6d5c1032c994b47f27c41339654dd5a2aa028a",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMF94aVhfNUVMcmxqbE0temN3T3pxT1E2VXFoeHRaeG5maDJUQU1QRGdVaWhCQ3U5VXZFNDIzdjc5STQyTXo4UnRDVlh3TVdFdGRwZkJrV1NUMEtLME5LU3pfVThTNXpMaXJOQ3JGV3E0cW1CSlpteW1wMHNOTXZJVWZ4TS1YaWRiRHZZYWZTbzczOFUzelBia0MxcTNiUTBi?oc=5",
+      "title": "Alibaba to block Claude Code in workplace amid reported security concerns (BABA)",
+      "summary": "",
+      "publishedAt": "2026-07-03T09:25:18.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "b9591e3a9f43e1a3fc02479e60514ec6bec13fd9",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeWc3N285SU4wdnNjQWxrVFdBSExKTXV5Rk1qYi15M1ZaZU9mVlhEeUtyQWVPd0V2Qzd6LWR2TVZnZ1RiMTl1WVJwS0xrdUR1eHViTFdjWjF0ZXFuX2t3aDgxNWlhUG5qRlRFNmtVMVg4MjE1VHNkTEtzOTRHakpvQ01md0dqblNmQk5YRmxzeUJPaFNGdWRnbmJIMGhnMUZyWW1ULQ?oc=5",
+      "title": "Microsoft Expands Security Footprint: Is it the Next Revenue Pillar?",
+      "summary": "",
+      "publishedAt": "2026-06-30T14:26:00.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "0ab7ec58cbf9c94034886de9079b0be0a84f8c0b",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSmxIWVhDNVlXTEtIT1NJUFlsSGlMczZ4V0VnU1BnRWFTU2EzNXFGX3BxczI1d19MMGE3Y29POVNqTDFWd2w0M2x1SEhnMzE3U2w4NVcyM1VnZkRwS25RaDZFMjR3ZlJJbjV3X1phQzhUVXRqS2dDalNsWEVQYnZzdGp1aUZmdG1peVZLY1NVeWg2QU9HYXNtbWR4Tl9lT0U?oc=5",
+      "title": "Check Point (CHKP) Integrates OpenAI Frontier Models into Security Suite",
+      "summary": "",
+      "publishedAt": "2026-06-30T13:35:54.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Safety, security, or policy update"
       }
     },
     {
@@ -238,6 +409,44 @@
       }
     },
     {
+      "id": "b84672a94bd94f059389c1da8e942ec0df6396c1",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUTh0cENsZUllRDdoaGw1QVlWcU4yeXJtbGdfS2l5Vlo2VThNLXVPTlQzZjZRXzVqTWFLQTh4WFFtQTluQW5GTXdObEY5V3dJSGNVZVNHek5XT3FETGpXM1lPN2N3eFNjdEhOWjZSV190cUpFd3pUTVpwanpvZ3gzSFE2YmpxNDFHTXhrU1JzZXVHck1k?oc=5",
+      "title": "Anthropic in Talks With Samsung to Manufacture Custom AI Chip",
+      "summary": "",
+      "publishedAt": "2026-07-02T13:50:00.000Z",
+      "publisher": "The Information",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "34f497b88c1ab1b14850a15ebd1813e391ebf397",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE11aEdhWGlhbDNCdDg1N29pRG5HcEdWT0hkM0ZkbU8yYWRZV0U1OFgyZmNxd2lLTzloRS1CWmxLZi1CWmZIUG9FY05kTDR2RzRWbUgzWDYzWnhxdHo2MnAwYnktS2h0MDBkb2MzbUlqT05qTERwYXc?oc=5",
+      "title": "Google: Thank you Meta! But your AI capacity is in another data center!",
+      "summary": "",
+      "publishedAt": "2026-06-29T09:00:00.000Z",
+      "publisher": "Fortune",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
       "id": "3a0b4572422c1a8cbc95ae7fb7158fc8dc49f9d0",
       "company": "Anthropic",
       "sourceKind": "official",
@@ -331,292 +540,83 @@
         "score": 1,
         "reason": "Routine official update"
       }
-    },
-    {
-      "id": "2463d3182c73b1def990a3944dd09df43a9a913f",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-flash-nano-banana-2-lite",
-      "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
-      "summary": "Scale your ideas with Nano Banana 2 Lite, our fastest, most cost-efficient Gemini Image model, and Gemini Omni Flash for high-quality video and conversational editing.",
-      "publishedAt": "2026-06-30T16:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "fb435a036a32d4b887831901912e1f14db00b2cd",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
-      "title": "How ChatGPT adoption has expanded",
-      "summary": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
-      "publishedAt": "2026-06-30T09:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "d5f7bd1f6df8c5b5dc24a77f56b7fb69192debd4",
-      "company": "Anthropic",
-      "sourceKind": "official",
-      "sourceId": "anthropic-news",
-      "sourceLabel": "Anthropic News",
-      "homepageUrl": "https://www.anthropic.com/news",
-      "url": "https://www.anthropic.com/news/claude-science-ai-workbench",
-      "title": "Claude Science, an AI workbench for scientists, is now available Claude Science is a customizable app that integrates the tools and packages researchers most often use, produces auditable artifacts, and provides flexible access to computing resources.",
-      "summary": "",
-      "publishedAt": "2026-06-30T00:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "anchor",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "200e6c5f82a034d1e5865995aafcfa3fe91654b3",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/genebench-pro/case-studies",
-      "title": "Inside Genebench-Pro",
-      "summary": "",
-      "publishedAt": "2026-06-30T00:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "a95b6ba61a2290a03cb36a2a06208406838c290c",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence-nano-banana-us-expansion",
-      "title": "The Gemini app is bringing personalized image creation to more users.",
-      "summary": "Personal Intelligence makes the Gemini app feel tailored to you. With your permission, it pulls from Google tools like Gmail, Google Photos, YouTube and Search to provid…",
-      "publishedAt": "2026-06-29T17:30:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "f1de547afb629a58db1ef235f2198a6d89e272a1",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer",
-      "title": "Ask an AI expert: What exactly is the full stack?",
-      "summary": "A Google expert explains what it means to take a full-stack approach to AI and why it’s been the foundation of our AI work for so long.",
-      "publishedAt": "2026-06-29T16:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "5b79476b114204dfe57ef8bf97ddea09c2e8f24d",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
-      "title": "Mapping Europe’s AI Workforce Opportunity",
-      "summary": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
-      "publishedAt": "2026-06-29T07:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "4a07e653570fb61c178d1e91fa9cc72d3a5abd8e",
-      "company": "Meta",
-      "sourceKind": "official",
-      "sourceId": "meta-newsroom",
-      "sourceLabel": "Meta Newsroom",
-      "homepageUrl": "https://about.fb.com/news/",
-      "url": "https://about.fb.com/news/tag/ray-ban-meta-glasses",
-      "title": "AI Glasses",
-      "summary": "",
-      "publishedAt": null,
-      "publisher": "",
-      "discoveryMethod": "anchor",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "e1e7da6c23157a60f79149b8f52a995b5258bded",
-      "company": "Meta",
-      "sourceKind": "official",
-      "sourceId": "meta-newsroom",
-      "sourceLabel": "Meta Newsroom",
-      "homepageUrl": "https://about.fb.com/news/",
-      "url": "https://about.fb.com/news/2026/06/meta-showcases-how-ai-glasses-help-people-with-disabilities",
-      "title": "Meta Showcases How AI Glasses Help People With Disabilities Live More Independently",
-      "summary": "",
-      "publishedAt": null,
-      "publisher": "",
-      "discoveryMethod": "anchor",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "192be59ddacd6412f02c6f59a78cb071acb5c8cb",
-      "company": "Meta",
-      "sourceKind": "official",
-      "sourceId": "meta-newsroom",
-      "sourceLabel": "Meta Newsroom",
-      "homepageUrl": "https://about.fb.com/news/",
-      "url": "https://about.fb.com/news/2026/06/new-ai-tools-to-help-you-make-things-happen-on-facebook",
-      "title": "New AI Tools to Help You Make Things Happen on Facebook",
-      "summary": "",
-      "publishedAt": null,
-      "publisher": "",
-      "discoveryMethod": "anchor",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "ae2bea9b25f37e843f6c56d2cd5d1705a86833d4",
-      "company": "Meta",
-      "sourceKind": "official",
-      "sourceId": "meta-newsroom",
-      "sourceLabel": "Meta Newsroom",
-      "homepageUrl": "https://about.fb.com/news/",
-      "url": "https://about.fb.com/news/2026/06/free-ai-glasses-for-every-blind-veteran",
-      "title": "The Future Is for Everyone: Free AI Glasses for Every Blind Veteran in America",
-      "summary": "",
-      "publishedAt": null,
-      "publisher": "",
-      "discoveryMethod": "anchor",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
     }
   ],
   "newItems": [
     {
-      "id": "a95b6ba61a2290a03cb36a2a06208406838c290c",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence-nano-banana-us-expansion",
-      "title": "The Gemini app is bringing personalized image creation to more users.",
-      "summary": "Personal Intelligence makes the Gemini app feel tailored to you. With your permission, it pulls from Google tools like Gmail, Google Photos, YouTube and Search to provid…",
-      "publishedAt": "2026-06-29T17:30:00.000Z",
-      "publisher": "",
+      "id": "d0addbffb81aa0aab868ff96fa98dac2c4e66334",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQ0tCcjJnSXpERDU1QklxWkZrMFFZU0NhT3kzSFdQX1gybEFmZ2NOSnljaHNWUmJpa3Q5Nmx0YlJ3NzBPWmswZGRGYlhSS09jc2dGU0ZhVzBSQVd6Q3FJMjJyNFl5YWphaGRsZFh0cmc1ZE9OZGJCcVoxa25EMldUU05vU0ZfazRQbTF4Y25rWXBHSUE?oc=5",
+      "title": "OpenAI and Microsoft Lawsuit: Nearly 400 Local Newspapers Sue",
+      "summary": "",
+      "publishedAt": "2026-07-04T14:36:38.000Z",
+      "publisher": "Yahoo",
       "discoveryMethod": "feed",
       "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
       }
     },
     {
-      "id": "f1de547afb629a58db1ef235f2198a6d89e272a1",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer",
-      "title": "Ask an AI expert: What exactly is the full stack?",
-      "summary": "A Google expert explains what it means to take a full-stack approach to AI and why it’s been the foundation of our AI work for so long.",
-      "publishedAt": "2026-06-29T16:00:00.000Z",
-      "publisher": "",
+      "id": "766a91ccaa91d6a2e75798909d528ac978fa5796",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMWNXT0xUZnVCb3B5SmZGMlNpRl9jN3ItV01Zajg5ZnVocklzUmN4cDZaYmlaUVIxbm9FWTV0U0hCNTF0bjNTVjN2c05kT0NONXB3ci0wYW11RzBxYzNKTlZTVTBWLVpDVHBZZlRHczB1c095bFppRmRwNTlkUDFvbHhrUDdiMExQNGYzZUs3WFp1YkxiWUw3dHoxTU0?oc=5",
+      "title": "Qualcomm (QCOM), Meta (META) Announce Multi-Generation Data Center CPU Supply Agreement",
+      "summary": "",
+      "publishedAt": "2026-07-04T12:54:31.000Z",
+      "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Flagship model or product launch"
       }
     },
     {
-      "id": "4a07e653570fb61c178d1e91fa9cc72d3a5abd8e",
-      "company": "Meta",
-      "sourceKind": "official",
-      "sourceId": "meta-newsroom",
-      "sourceLabel": "Meta Newsroom",
-      "homepageUrl": "https://about.fb.com/news/",
-      "url": "https://about.fb.com/news/tag/ray-ban-meta-glasses",
-      "title": "AI Glasses",
+      "id": "07a7190741a8c82e740aa4fcc1896db600ae9b84",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSzdveHhtaUYyRzJtSGtBVlozYURXWkRWWnBBUUp1OHZfN0QyMUpRUFNmZXlGeDc5VXc1N2ZZbW50ZDgwN2RoTVlOTWhJR3pPXzZybFctZHBuVHcyWEduYTNWYkh2T2E4TUF0SHhwRjJTQmp3Z2hoTko3MG9LTGNMRktKb0NSZTdOcmlLN3FQdE5pbjhOV2NicUo2OXNCN2c?oc=5",
+      "title": "Anthropic Says 'We're Grateful' as Trump Administration Lifts Export Controls on Claude Fable 5 and Mythos 5 After AI Security Standoff",
       "summary": "",
-      "publishedAt": null,
-      "publisher": "",
-      "discoveryMethod": "anchor",
+      "publishedAt": "2026-07-03T13:30:28.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
       "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
+        "bucket": "important",
+        "score": 4,
+        "reason": "Safety, security, or policy update"
       }
     },
     {
-      "id": "e1e7da6c23157a60f79149b8f52a995b5258bded",
-      "company": "Meta",
-      "sourceKind": "official",
-      "sourceId": "meta-newsroom",
-      "sourceLabel": "Meta Newsroom",
-      "homepageUrl": "https://about.fb.com/news/",
-      "url": "https://about.fb.com/news/2026/06/meta-showcases-how-ai-glasses-help-people-with-disabilities",
-      "title": "Meta Showcases How AI Glasses Help People With Disabilities Live More Independently",
+      "id": "0ab7ec58cbf9c94034886de9079b0be0a84f8c0b",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSmxIWVhDNVlXTEtIT1NJUFlsSGlMczZ4V0VnU1BnRWFTU2EzNXFGX3BxczI1d19MMGE3Y29POVNqTDFWd2w0M2x1SEhnMzE3U2w4NVcyM1VnZkRwS25RaDZFMjR3ZlJJbjV3X1phQzhUVXRqS2dDalNsWEVQYnZzdGp1aUZmdG1peVZLY1NVeWg2QU9HYXNtbWR4Tl9lT0U?oc=5",
+      "title": "Check Point (CHKP) Integrates OpenAI Frontier Models into Security Suite",
       "summary": "",
-      "publishedAt": null,
-      "publisher": "",
-      "discoveryMethod": "anchor",
+      "publishedAt": "2026-06-30T13:35:54.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
       "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
+        "bucket": "important",
+        "score": 4,
+        "reason": "Safety, security, or policy update"
       }
     }
   ],
