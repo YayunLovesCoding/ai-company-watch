@@ -1,42 +1,49 @@
 # AI Company Watch
 
-Generated: Jul 5, 2026, 8:15 AM PDT
+Generated: Jul 6, 2026, 9:53 AM PDT
 Lookback window: 7 day(s)
 Sources checked: 12
-Items fetched: 38
+Items fetched: 33
 Items kept: 24
-New items: 4
-External items kept: 11
-Official items kept: 13
+New items: 5
+External items kept: 9
+Official items kept: 15
 
 ## Critical External News
 
-### OpenAI - OpenAI and Microsoft Lawsuit: Nearly 400 Local Newspapers Sue
-Source: Major External News - OpenAI
-Publisher: Yahoo
-Published: Jul 4, 2026
+### Microsoft - Simpson Associates partners with Nelson Global to strengthen data security, compliance and governance with Microsoft Purview
+Source: Major External News - Microsoft
+Publisher: Yahoo Finance Singapore
+Published: Jul 6, 2026
 Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMikwFBVV95cUxPQ0tCcjJnSXpERDU1QklxWkZrMFFZU0NhT3kzSFdQX1gybEFmZ2NOSnljaHNWUmJpa3Q5Nmx0YlJ3NzBPWmswZGRGYlhSS09jc2dGU0ZhVzBSQVd6Q3FJMjJyNFl5YWphaGRsZFh0cmc1ZE9OZGJCcVoxa25EMldUU05vU0ZfazRQbTF4Y25rWXBHSUE?oc=5
+Link: https://news.google.com/rss/articles/CBMilAFBVV95cUxNSl9FaHljdnNnN0VSNWhOSWhDNzJqTzN6bjhPSXBneVB5UFQzX2hsMnpLZ3FlVGF4YUh6c01wMU9SOGlmMFYwQURpaGdBM05wNlRZY1ZDNDRGSEtnTzJ0bXZQd0h6YXliTmREc0ZNSGNldzlUOGd0SzFqWGtUQnZaUGtiUWZBRHRMalg2aHJ1M3p5MS1I?oc=5
 
-### Meta - Qualcomm (QCOM), Meta (META) Announce Multi-Generation Data Center CPU Supply Agreement
-Source: Major External News - Meta
+### Anthropic - Anthropic Faces a New $75 Million Lawsuit for Pirating Books to Train Claude AI
+Source: Major External News - Anthropic
 Publisher: Yahoo Finance
-Published: Jul 4, 2026
-Why it matters: Flagship model or product launch
-Link: https://news.google.com/rss/articles/CBMinAFBVV95cUxPMWNXT0xUZnVCb3B5SmZGMlNpRl9jN3ItV01Zajg5ZnVocklzUmN4cDZaYmlaUVIxbm9FWTV0U0hCNTF0bjNTVjN2c05kT0NONXB3ci0wYW11RzBxYzNKTlZTVTBWLVpDVHBZZlRHczB1c095bFppRmRwNTlkUDFvbHhrUDdiMExQNGYzZUs3WFp1YkxiWUw3dHoxTU0?oc=5
+Published: Jul 5, 2026
+Why it matters: Corporate move or major external event
+Link: https://news.google.com/rss/articles/CBMinwFBVV95cUxNM05uMU5GSEZpQW83eF9ISFlOT1VYZ0tDeUNSVVBzVUlFbGhkLUkxSkdLVXdVVWlaVVpEZVg1ejFoeFlrLWZaTTByQVFaUUVqUUc5Y1RNaGNqNUFTeWdYOEVPMDIxNUIwUWh5ZGlvVEpxRnRFZHA5N18wNW0tM3VscWJ3RThiamlFV3hnd1U2VW9ZdENFUkRzVkRfMG8wMEU?oc=5
 
 ## Important External News
 
-### Anthropic - Anthropic Says 'We're Grateful' as Trump Administration Lifts Export Controls on Claude Fable 5 and Mythos 5 After AI Security Standoff
-Source: Major External News - Anthropic
-Publisher: Yahoo Finance
-Published: Jul 3, 2026
-Why it matters: Safety, security, or policy update
-Link: https://news.google.com/rss/articles/CBMinwFBVV95cUxQSzdveHhtaUYyRzJtSGtBVlozYURXWkRWWnBBUUp1OHZfN0QyMUpRUFNmZXlGeDc5VXc1N2ZZbW50ZDgwN2RoTVlOTWhJR3pPXzZybFctZHBuVHcyWEduYTNWYkh2T2E4TUF0SHhwRjJTQmp3Z2hoTko3MG9LTGNMRktKb0NSZTdOcmlLN3FQdE5pbjhOV2NicUo2OXNCN2c?oc=5
+### Meta - Meta’s Data Center Water Discharge Was Suspended After Bacteria Contamination
+Source: Major External News - Meta
+Publisher: Yahoo
+Published: Jul 6, 2026
+Why it matters: Trusted external coverage
+Link: https://news.google.com/rss/articles/CBMilgFBVV95cUxQWDJBTmR1VVFUTXc5VkdjeWlkVVdNNC1nWkhUeHJnaFFNZW5lVW5mM3l4VURYOXBKVUVaTWo2Q3Bkc3dzSmgtVmlZdTFFaUJQVnVnVlBjYmxFSkE3dzBqWFE5NUJXb1ZJd3BieHNyeXVmN0RWLTBsbDRFX09JWlRHRFVwUFhEUzNmdXBMVXgxMVhJSDJ6X2c?oc=5
 
-### OpenAI - Check Point (CHKP) Integrates OpenAI Frontier Models into Security Suite
+### OpenAI - Sam Altman Called Any OpenAI IPO Valuation Below $1 Trillion a "Nonstarter." Should Investors Prefer OpenAI or SpaceX?
 Source: Major External News - OpenAI
 Publisher: Yahoo Finance
-Published: Jun 30, 2026
-Why it matters: Safety, security, or policy update
-Link: https://news.google.com/rss/articles/CBMinwFBVV95cUxQSmxIWVhDNVlXTEtIT1NJUFlsSGlMczZ4V0VnU1BnRWFTU2EzNXFGX3BxczI1d19MMGE3Y29POVNqTDFWd2w0M2x1SEhnMzE3U2w4NVcyM1VnZkRwS25RaDZFMjR3ZlJJbjV3X1phQzhUVXRqS2dDalNsWEVQYnZzdGp1aUZmdG1peVZLY1NVeWg2QU9HYXNtbWR4Tl9lT0U?oc=5
+Published: Jul 5, 2026
+Why it matters: Trusted external coverage
+Link: https://news.google.com/rss/articles/CBMilwFBVV95cUxOTjBDZHZzSXItSkJYM0ZaLS10YzVyOU5UZUhTZ1RaNTVHSVQ5aHFOQ3F3aUd4cnZCOGtUWnc4N2ZXLVBJYmF3b3BFbjE0eVBjTDRGaWVSNEtrckhXVE5jTWZRMEFZbjhwRWNoRjc1OGNxWWhBck9jZEVKaFpCakc2cmQwNmdvbk1tcFlkQm5jem1qMXBkbkxB?oc=5
+
+### OpenAI - Trump Weighs In On Elon Musk, OpenAI, Intel — And Takes Aim At The 'Hostile' Fed Board
+Source: Major External News - OpenAI
+Publisher: Yahoo Finance
+Published: Jul 2, 2026
+Why it matters: Trusted external coverage
+Link: https://news.google.com/rss/articles/CBMimgFBVV95cUxQa0FudGFDVjNFaHVGVXdiR2w4ZlhDWmFPWUN0X2FxckVjMzhmM1FobUM1dzBwZGpzNWRqaHZVMnpRb0JPVTlIUGNoWlFpQVNlQXQ1SFpUcVRmWXRlay1tLWxCTzJ3cEpHSWowaDg1Q0RaSUpQM1pOS255THNTWWZ2WXpOMDJjWDhJTnptblRvOVU2b3RrWk40OFBn?oc=5

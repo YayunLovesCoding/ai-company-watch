@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T15:15:52.612Z",
+  "generatedAt": "2026-07-06T16:53:03.948Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -76,15 +76,53 @@
     }
   ],
   "totals": {
-    "fetched": 38,
+    "fetched": 33,
     "deduped": 24,
-    "new": 4,
+    "new": 5,
     "byKind": {
-      "official": 13,
-      "external": 11
+      "official": 15,
+      "external": 9
     }
   },
   "items": [
+    {
+      "id": "f1a455b2b538012d21173709e3aff1134275bc6a",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSl9FaHljdnNnN0VSNWhOSWhDNzJqTzN6bjhPSXBneVB5UFQzX2hsMnpLZ3FlVGF4YUh6c01wMU9SOGlmMFYwQURpaGdBM05wNlRZY1ZDNDRGSEtnTzJ0bXZQd0h6YXliTmREc0ZNSGNldzlUOGd0SzFqWGtUQnZaUGtiUWZBRHRMalg2aHJ1M3p5MS1I?oc=5",
+      "title": "Simpson Associates partners with Nelson Global to strengthen data security, compliance and governance with Microsoft Purview",
+      "summary": "",
+      "publishedAt": "2026-07-06T08:11:00.000Z",
+      "publisher": "Yahoo Finance Singapore",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "5268c4da0664200fe2910b06318d565b0ef8fc59",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNM05uMU5GSEZpQW83eF9ISFlOT1VYZ0tDeUNSVVBzVUlFbGhkLUkxSkdLVXdVVWlaVVpEZVg1ejFoeFlrLWZaTTByQVFaUUVqUUc5Y1RNaGNqNUFTeWdYOEVPMDIxNUIwUWh5ZGlvVEpxRnRFZHA5N18wNW0tM3VscWJ3RThiamlFV3hnd1U2VW9ZdENFUkRzVkRfMG8wMEU?oc=5",
+      "title": "Anthropic Faces a New $75 Million Lawsuit for Pirating Books to Train Claude AI",
+      "summary": "",
+      "publishedAt": "2026-07-05T14:53:53.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
     {
       "id": "d0addbffb81aa0aab868ff96fa98dac2c4e66334",
       "company": "OpenAI",
@@ -97,63 +135,6 @@
       "summary": "",
       "publishedAt": "2026-07-04T14:36:38.000Z",
       "publisher": "Yahoo",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "766a91ccaa91d6a2e75798909d528ac978fa5796",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMWNXT0xUZnVCb3B5SmZGMlNpRl9jN3ItV01Zajg5ZnVocklzUmN4cDZaYmlaUVIxbm9FWTV0U0hCNTF0bjNTVjN2c05kT0NONXB3ci0wYW11RzBxYzNKTlZTVTBWLVpDVHBZZlRHczB1c095bFppRmRwNTlkUDFvbHhrUDdiMExQNGYzZUs3WFp1YkxiWUw3dHoxTU0?oc=5",
-      "title": "Qualcomm (QCOM), Meta (META) Announce Multi-Generation Data Center CPU Supply Agreement",
-      "summary": "",
-      "publishedAt": "2026-07-04T12:54:31.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "3d936c8f789cc2f4ff8e54886826fa8cbae10fb7",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRzBUajJMWWllSzVldktRYUlIRFk4WGVYZjZpYzlIdnB1bU9ST01vLUdabEhZRldMVGZoVjItQmZoZC1tT0l1VFFxbUZiekF2UlJOS3F6czFDNnNkUmF0cWtvX3V3Mzdid1pSZkVOclYwT2dMalZ5RTE0NWpXbkIzT2ZCb2I5eWI2Wno5aTZ2ZG1FcjhvRVhDYmhRV0w?oc=5",
-      "title": "California Expands AI Push With Statewide Anthropic Partnership",
-      "summary": "",
-      "publishedAt": "2026-07-03T11:31:10.000Z",
-      "publisher": "Yahoo",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "e10d8ee8f0dc7ffd6e7d62fb9c9d611c4995d53f",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONW0zSlA3emh0N052LThNdkVPcjJUajZVck1xYnR6UE5WQWNycHpFUlVpUWtkb3dIZ2ZYSVZoMkk3cG1TVThfaDc0N3RhTWpZMFBJNXRKZi1Ya0tTb2FfUDA2Y0gxWDUxTHdRVm1XM2x5TnVIbzR3a1BEV01WU19kbng1UWhZUnhWbDFRRjF4OTZqa0htSkdIRkI5MkkwWXdiRTNWZEtB?oc=5",
-      "title": "Musk’s Courtroom Foil Savitt Describes ‘Flow’ of OpenAI Trial",
-      "summary": "",
-      "publishedAt": "2026-07-02T09:00:00.000Z",
-      "publisher": "Bloomberg Law News",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -181,6 +162,44 @@
       }
     },
     {
+      "id": "766a91ccaa91d6a2e75798909d528ac978fa5796",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMWNXT0xUZnVCb3B5SmZGMlNpRl9jN3ItV01Zajg5ZnVocklzUmN4cDZaYmlaUVIxbm9FWTV0U0hCNTF0bjNTVjN2c05kT0NONXB3ci0wYW11RzBxYzNKTlZTVTBWLVpDVHBZZlRHczB1c095bFppRmRwNTlkUDFvbHhrUDdiMExQNGYzZUs3WFp1YkxiWUw3dHoxTU0?oc=5",
+      "title": "Qualcomm (QCOM), Meta (META) Announce Multi-Generation Data Center CPU Supply Agreement",
+      "summary": "",
+      "publishedAt": "2026-07-04T12:54:31.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "08014c83a1d63399fbfa532b8cef9c7e2751d602",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPenVHZEVuRlRscmFOdUVKQVdvRGNoUEdDS1BBRU9TbEptaGZoTXNuZzlXN0tUWHQ5UjVuYkJEekJBRDlmM2hwXzZ2Z2NYQTJKaUlvTFZwTEVHQ0wxZmtYeDBVamc0VTNWMUlDcTN6cENneUFsVkphOFA0WWotYVc3N1lRZmY?oc=5",
+      "title": "Anthropic launches Claude Science in push for pharma revenue",
+      "summary": "",
+      "publishedAt": "2026-06-30T17:00:07.000Z",
+      "publisher": "Financial Times",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
       "id": "ff1300aa6ccec48d7d7f5b02492a03866b415b13",
       "company": "Anthropic",
       "sourceKind": "official",
@@ -193,25 +212,6 @@
       "publishedAt": "2026-06-30T00:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "anchor",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "1ae317c00ced77b0a26456fe8c2f1072709cf678",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/hp-frontier-partnership",
-      "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
-      "summary": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
-      "publishedAt": "2026-06-28T17:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
         "score": 5,
@@ -238,79 +238,41 @@
       }
     },
     {
-      "id": "07a7190741a8c82e740aa4fcc1896db600ae9b84",
-      "company": "Anthropic",
+      "id": "fce99f90aab6559368b69f6d89bb35728e32f1ff",
+      "company": "Meta",
       "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSzdveHhtaUYyRzJtSGtBVlozYURXWkRWWnBBUUp1OHZfN0QyMUpRUFNmZXlGeDc5VXc1N2ZZbW50ZDgwN2RoTVlOTWhJR3pPXzZybFctZHBuVHcyWEduYTNWYkh2T2E4TUF0SHhwRjJTQmp3Z2hoTko3MG9LTGNMRktKb0NSZTdOcmlLN3FQdE5pbjhOV2NicUo2OXNCN2c?oc=5",
-      "title": "Anthropic Says 'We're Grateful' as Trump Administration Lifts Export Controls on Claude Fable 5 and Mythos 5 After AI Security Standoff",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWDJBTmR1VVFUTXc5VkdjeWlkVVdNNC1nWkhUeHJnaFFNZW5lVW5mM3l4VURYOXBKVUVaTWo2Q3Bkc3dzSmgtVmlZdTFFaUJQVnVnVlBjYmxFSkE3dzBqWFE5NUJXb1ZJd3BieHNyeXVmN0RWLTBsbDRFX09JWlRHRFVwUFhEUzNmdXBMVXgxMVhJSDJ6X2c?oc=5",
+      "title": "Meta’s Data Center Water Discharge Was Suspended After Bacteria Contamination",
       "summary": "",
-      "publishedAt": "2026-07-03T13:30:28.000Z",
-      "publisher": "Yahoo Finance",
+      "publishedAt": "2026-07-06T15:17:29.000Z",
+      "publisher": "Yahoo",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
         "score": 4,
-        "reason": "Safety, security, or policy update"
+        "reason": "Trusted external coverage"
       }
     },
     {
-      "id": "dd6d5c1032c994b47f27c41339654dd5a2aa028a",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMF94aVhfNUVMcmxqbE0temN3T3pxT1E2VXFoeHRaeG5maDJUQU1QRGdVaWhCQ3U5VXZFNDIzdjc5STQyTXo4UnRDVlh3TVdFdGRwZkJrV1NUMEtLME5LU3pfVThTNXpMaXJOQ3JGV3E0cW1CSlpteW1wMHNOTXZJVWZ4TS1YaWRiRHZZYWZTbzczOFUzelBia0MxcTNiUTBi?oc=5",
-      "title": "Alibaba to block Claude Code in workplace amid reported security concerns (BABA)",
-      "summary": "",
-      "publishedAt": "2026-07-03T09:25:18.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "b9591e3a9f43e1a3fc02479e60514ec6bec13fd9",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeWc3N285SU4wdnNjQWxrVFdBSExKTXV5Rk1qYi15M1ZaZU9mVlhEeUtyQWVPd0V2Qzd6LWR2TVZnZ1RiMTl1WVJwS0xrdUR1eHViTFdjWjF0ZXFuX2t3aDgxNWlhUG5qRlRFNmtVMVg4MjE1VHNkTEtzOTRHakpvQ01md0dqblNmQk5YRmxzeUJPaFNGdWRnbmJIMGhnMUZyWW1ULQ?oc=5",
-      "title": "Microsoft Expands Security Footprint: Is it the Next Revenue Pillar?",
-      "summary": "",
-      "publishedAt": "2026-06-30T14:26:00.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "0ab7ec58cbf9c94034886de9079b0be0a84f8c0b",
+      "id": "bca7c5ed4e85ffb236b07fe75c6ceb90b6b47486",
       "company": "OpenAI",
       "sourceKind": "external",
       "sourceId": "external-openai-major",
       "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSmxIWVhDNVlXTEtIT1NJUFlsSGlMczZ4V0VnU1BnRWFTU2EzNXFGX3BxczI1d19MMGE3Y29POVNqTDFWd2w0M2x1SEhnMzE3U2w4NVcyM1VnZkRwS25RaDZFMjR3ZlJJbjV3X1phQzhUVXRqS2dDalNsWEVQYnZzdGp1aUZmdG1peVZLY1NVeWg2QU9HYXNtbWR4Tl9lT0U?oc=5",
-      "title": "Check Point (CHKP) Integrates OpenAI Frontier Models into Security Suite",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTjBDZHZzSXItSkJYM0ZaLS10YzVyOU5UZUhTZ1RaNTVHSVQ5aHFOQ3F3aUd4cnZCOGtUWnc4N2ZXLVBJYmF3b3BFbjE0eVBjTDRGaWVSNEtrckhXVE5jTWZRMEFZbjhwRWNoRjc1OGNxWWhBck9jZEVKaFpCakc2cmQwNmdvbk1tcFlkQm5jem1qMXBkbkxB?oc=5",
+      "title": "Sam Altman Called Any OpenAI IPO Valuation Below $1 Trillion a \"Nonstarter.\" Should Investors Prefer OpenAI or SpaceX?",
       "summary": "",
-      "publishedAt": "2026-06-30T13:35:54.000Z",
+      "publishedAt": "2026-07-05T09:33:00.000Z",
       "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
         "score": 4,
-        "reason": "Safety, security, or policy update"
+        "reason": "Trusted external coverage"
       }
     },
     {
@@ -409,36 +371,17 @@
       }
     },
     {
-      "id": "b84672a94bd94f059389c1da8e942ec0df6396c1",
-      "company": "Anthropic",
+      "id": "48edb404f4e09d717edea6d9034c9778dcad3a67",
+      "company": "OpenAI",
       "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUTh0cENsZUllRDdoaGw1QVlWcU4yeXJtbGdfS2l5Vlo2VThNLXVPTlQzZjZRXzVqTWFLQTh4WFFtQTluQW5GTXdObEY5V3dJSGNVZVNHek5XT3FETGpXM1lPN2N3eFNjdEhOWjZSV190cUpFd3pUTVpwanpvZ3gzSFE2YmpxNDFHTXhrU1JzZXVHck1k?oc=5",
-      "title": "Anthropic in Talks With Samsung to Manufacture Custom AI Chip",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQa0FudGFDVjNFaHVGVXdiR2w4ZlhDWmFPWUN0X2FxckVjMzhmM1FobUM1dzBwZGpzNWRqaHZVMnpRb0JPVTlIUGNoWlFpQVNlQXQ1SFpUcVRmWXRlay1tLWxCTzJ3cEpHSWowaDg1Q0RaSUpQM1pOS255THNTWWZ2WXpOMDJjWDhJTnptblRvOVU2b3RrWk40OFBn?oc=5",
+      "title": "Trump Weighs In On Elon Musk, OpenAI, Intel — And Takes Aim At The 'Hostile' Fed Board",
       "summary": "",
-      "publishedAt": "2026-07-02T13:50:00.000Z",
-      "publisher": "The Information",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "34f497b88c1ab1b14850a15ebd1813e391ebf397",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE11aEdhWGlhbDNCdDg1N29pRG5HcEdWT0hkM0ZkbU8yYWRZV0U1OFgyZmNxd2lLTzloRS1CWmxLZi1CWmZIUG9FY05kTDR2RzRWbUgzWDYzWnhxdHo2MnAwYnktS2h0MDBkb2MzbUlqT05qTERwYXc?oc=5",
-      "title": "Google: Thank you Meta! But your AI capacity is in another data center!",
-      "summary": "",
-      "publishedAt": "2026-06-29T09:00:00.000Z",
-      "publisher": "Fortune",
+      "publishedAt": "2026-07-02T23:26:57.000Z",
+      "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -540,21 +483,78 @@
         "score": 1,
         "reason": "Routine official update"
       }
+    },
+    {
+      "id": "2463d3182c73b1def990a3944dd09df43a9a913f",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-flash-nano-banana-2-lite",
+      "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
+      "summary": "Scale your ideas with Nano Banana 2 Lite, our fastest, most cost-efficient Gemini Image model, and Gemini Omni Flash for high-quality video and conversational editing.",
+      "publishedAt": "2026-06-30T16:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 1,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "fb435a036a32d4b887831901912e1f14db00b2cd",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+      "title": "How ChatGPT adoption has expanded",
+      "summary": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
+      "publishedAt": "2026-06-30T09:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 1,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "d5f7bd1f6df8c5b5dc24a77f56b7fb69192debd4",
+      "company": "Anthropic",
+      "sourceKind": "official",
+      "sourceId": "anthropic-news",
+      "sourceLabel": "Anthropic News",
+      "homepageUrl": "https://www.anthropic.com/news",
+      "url": "https://www.anthropic.com/news/claude-science-ai-workbench",
+      "title": "Claude Science, an AI workbench for scientists, is now available Claude Science is a customizable app that integrates the tools and packages researchers most often use, produces auditable artifacts, and provides flexible access to computing resources.",
+      "summary": "",
+      "publishedAt": "2026-06-30T00:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "anchor",
+      "classification": {
+        "bucket": "digest",
+        "score": 1,
+        "reason": "Routine official update"
+      }
     }
   ],
   "newItems": [
     {
-      "id": "d0addbffb81aa0aab868ff96fa98dac2c4e66334",
-      "company": "OpenAI",
+      "id": "f1a455b2b538012d21173709e3aff1134275bc6a",
+      "company": "Microsoft",
       "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQ0tCcjJnSXpERDU1QklxWkZrMFFZU0NhT3kzSFdQX1gybEFmZ2NOSnljaHNWUmJpa3Q5Nmx0YlJ3NzBPWmswZGRGYlhSS09jc2dGU0ZhVzBSQVd6Q3FJMjJyNFl5YWphaGRsZFh0cmc1ZE9OZGJCcVoxa25EMldUU05vU0ZfazRQbTF4Y25rWXBHSUE?oc=5",
-      "title": "OpenAI and Microsoft Lawsuit: Nearly 400 Local Newspapers Sue",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSl9FaHljdnNnN0VSNWhOSWhDNzJqTzN6bjhPSXBneVB5UFQzX2hsMnpLZ3FlVGF4YUh6c01wMU9SOGlmMFYwQURpaGdBM05wNlRZY1ZDNDRGSEtnTzJ0bXZQd0h6YXliTmREc0ZNSGNldzlUOGd0SzFqWGtUQnZaUGtiUWZBRHRMalg2aHJ1M3p5MS1I?oc=5",
+      "title": "Simpson Associates partners with Nelson Global to strengthen data security, compliance and governance with Microsoft Purview",
       "summary": "",
-      "publishedAt": "2026-07-04T14:36:38.000Z",
-      "publisher": "Yahoo",
+      "publishedAt": "2026-07-06T08:11:00.000Z",
+      "publisher": "Yahoo Finance Singapore",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -563,60 +563,79 @@
       }
     },
     {
-      "id": "766a91ccaa91d6a2e75798909d528ac978fa5796",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMWNXT0xUZnVCb3B5SmZGMlNpRl9jN3ItV01Zajg5ZnVocklzUmN4cDZaYmlaUVIxbm9FWTV0U0hCNTF0bjNTVjN2c05kT0NONXB3ci0wYW11RzBxYzNKTlZTVTBWLVpDVHBZZlRHczB1c095bFppRmRwNTlkUDFvbHhrUDdiMExQNGYzZUs3WFp1YkxiWUw3dHoxTU0?oc=5",
-      "title": "Qualcomm (QCOM), Meta (META) Announce Multi-Generation Data Center CPU Supply Agreement",
-      "summary": "",
-      "publishedAt": "2026-07-04T12:54:31.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "07a7190741a8c82e740aa4fcc1896db600ae9b84",
+      "id": "5268c4da0664200fe2910b06318d565b0ef8fc59",
       "company": "Anthropic",
       "sourceKind": "external",
       "sourceId": "external-anthropic-major",
       "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSzdveHhtaUYyRzJtSGtBVlozYURXWkRWWnBBUUp1OHZfN0QyMUpRUFNmZXlGeDc5VXc1N2ZZbW50ZDgwN2RoTVlOTWhJR3pPXzZybFctZHBuVHcyWEduYTNWYkh2T2E4TUF0SHhwRjJTQmp3Z2hoTko3MG9LTGNMRktKb0NSZTdOcmlLN3FQdE5pbjhOV2NicUo2OXNCN2c?oc=5",
-      "title": "Anthropic Says 'We're Grateful' as Trump Administration Lifts Export Controls on Claude Fable 5 and Mythos 5 After AI Security Standoff",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNM05uMU5GSEZpQW83eF9ISFlOT1VYZ0tDeUNSVVBzVUlFbGhkLUkxSkdLVXdVVWlaVVpEZVg1ejFoeFlrLWZaTTByQVFaUUVqUUc5Y1RNaGNqNUFTeWdYOEVPMDIxNUIwUWh5ZGlvVEpxRnRFZHA5N18wNW0tM3VscWJ3RThiamlFV3hnd1U2VW9ZdENFUkRzVkRfMG8wMEU?oc=5",
+      "title": "Anthropic Faces a New $75 Million Lawsuit for Pirating Books to Train Claude AI",
       "summary": "",
-      "publishedAt": "2026-07-03T13:30:28.000Z",
+      "publishedAt": "2026-07-05T14:53:53.000Z",
       "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "fce99f90aab6559368b69f6d89bb35728e32f1ff",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWDJBTmR1VVFUTXc5VkdjeWlkVVdNNC1nWkhUeHJnaFFNZW5lVW5mM3l4VURYOXBKVUVaTWo2Q3Bkc3dzSmgtVmlZdTFFaUJQVnVnVlBjYmxFSkE3dzBqWFE5NUJXb1ZJd3BieHNyeXVmN0RWLTBsbDRFX09JWlRHRFVwUFhEUzNmdXBMVXgxMVhJSDJ6X2c?oc=5",
+      "title": "Meta’s Data Center Water Discharge Was Suspended After Bacteria Contamination",
+      "summary": "",
+      "publishedAt": "2026-07-06T15:17:29.000Z",
+      "publisher": "Yahoo",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
         "score": 4,
-        "reason": "Safety, security, or policy update"
+        "reason": "Trusted external coverage"
       }
     },
     {
-      "id": "0ab7ec58cbf9c94034886de9079b0be0a84f8c0b",
+      "id": "bca7c5ed4e85ffb236b07fe75c6ceb90b6b47486",
       "company": "OpenAI",
       "sourceKind": "external",
       "sourceId": "external-openai-major",
       "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSmxIWVhDNVlXTEtIT1NJUFlsSGlMczZ4V0VnU1BnRWFTU2EzNXFGX3BxczI1d19MMGE3Y29POVNqTDFWd2w0M2x1SEhnMzE3U2w4NVcyM1VnZkRwS25RaDZFMjR3ZlJJbjV3X1phQzhUVXRqS2dDalNsWEVQYnZzdGp1aUZmdG1peVZLY1NVeWg2QU9HYXNtbWR4Tl9lT0U?oc=5",
-      "title": "Check Point (CHKP) Integrates OpenAI Frontier Models into Security Suite",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTjBDZHZzSXItSkJYM0ZaLS10YzVyOU5UZUhTZ1RaNTVHSVQ5aHFOQ3F3aUd4cnZCOGtUWnc4N2ZXLVBJYmF3b3BFbjE0eVBjTDRGaWVSNEtrckhXVE5jTWZRMEFZbjhwRWNoRjc1OGNxWWhBck9jZEVKaFpCakc2cmQwNmdvbk1tcFlkQm5jem1qMXBkbkxB?oc=5",
+      "title": "Sam Altman Called Any OpenAI IPO Valuation Below $1 Trillion a \"Nonstarter.\" Should Investors Prefer OpenAI or SpaceX?",
       "summary": "",
-      "publishedAt": "2026-06-30T13:35:54.000Z",
+      "publishedAt": "2026-07-05T09:33:00.000Z",
       "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
         "score": 4,
-        "reason": "Safety, security, or policy update"
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "48edb404f4e09d717edea6d9034c9778dcad3a67",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQa0FudGFDVjNFaHVGVXdiR2w4ZlhDWmFPWUN0X2FxckVjMzhmM1FobUM1dzBwZGpzNWRqaHZVMnpRb0JPVTlIUGNoWlFpQVNlQXQ1SFpUcVRmWXRlay1tLWxCTzJ3cEpHSWowaDg1Q0RaSUpQM1pOS255THNTWWZ2WXpOMDJjWDhJTnptblRvOVU2b3RrWk40OFBn?oc=5",
+      "title": "Trump Weighs In On Elon Musk, OpenAI, Intel — And Takes Aim At The 'Hostile' Fed Board",
+      "summary": "",
+      "publishedAt": "2026-07-02T23:26:57.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
       }
     }
   ],
