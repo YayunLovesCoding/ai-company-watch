@@ -1,49 +1,56 @@
 # AI Company Watch
 
-Generated: Jul 6, 2026, 9:53 AM PDT
+Generated: Jul 7, 2026, 9:34 AM PDT
 Lookback window: 7 day(s)
 Sources checked: 12
-Items fetched: 33
+Items fetched: 26
 Items kept: 24
 New items: 5
-External items kept: 9
-Official items kept: 15
-
-## Critical External News
-
-### Microsoft - Simpson Associates partners with Nelson Global to strengthen data security, compliance and governance with Microsoft Purview
-Source: Major External News - Microsoft
-Publisher: Yahoo Finance Singapore
-Published: Jul 6, 2026
-Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMilAFBVV95cUxNSl9FaHljdnNnN0VSNWhOSWhDNzJqTzN6bjhPSXBneVB5UFQzX2hsMnpLZ3FlVGF4YUh6c01wMU9SOGlmMFYwQURpaGdBM05wNlRZY1ZDNDRGSEtnTzJ0bXZQd0h6YXliTmREc0ZNSGNldzlUOGd0SzFqWGtUQnZaUGtiUWZBRHRMalg2aHJ1M3p5MS1I?oc=5
-
-### Anthropic - Anthropic Faces a New $75 Million Lawsuit for Pirating Books to Train Claude AI
-Source: Major External News - Anthropic
-Publisher: Yahoo Finance
-Published: Jul 5, 2026
-Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMinwFBVV95cUxNM05uMU5GSEZpQW83eF9ISFlOT1VYZ0tDeUNSVVBzVUlFbGhkLUkxSkdLVXdVVWlaVVpEZVg1ejFoeFlrLWZaTTByQVFaUUVqUUc5Y1RNaGNqNUFTeWdYOEVPMDIxNUIwUWh5ZGlvVEpxRnRFZHA5N18wNW0tM3VscWJ3RThiamlFV3hnd1U2VW9ZdENFUkRzVkRfMG8wMEU?oc=5
+External items kept: 8
+Official items kept: 16
 
 ## Important External News
 
-### Meta - Meta’s Data Center Water Discharge Was Suspended After Bacteria Contamination
-Source: Major External News - Meta
-Publisher: Yahoo
+### Anthropic - TeraWulf CEO on Anthropic deal: Demand for power is very significant and it's the tip of the iceberg
+Source: Major External News - Anthropic
+Publisher: CNBC
 Published: Jul 6, 2026
 Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMilgFBVV95cUxQWDJBTmR1VVFUTXc5VkdjeWlkVVdNNC1nWkhUeHJnaFFNZW5lVW5mM3l4VURYOXBKVUVaTWo2Q3Bkc3dzSmgtVmlZdTFFaUJQVnVnVlBjYmxFSkE3dzBqWFE5NUJXb1ZJd3BieHNyeXVmN0RWLTBsbDRFX09JWlRHRFVwUFhEUzNmdXBMVXgxMVhJSDJ6X2c?oc=5
+Link: https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRnI3dF9IS3M5VUswaHNzNEJBY3Vuc2xBck1kSDQyYUtPYXVrUEF4WWxzd002UHVQR3NqMnZRVDFZMVhsWk9Mdlk5Yi1GUGFEeEFNOFZYdDZtQUhQMFB2Zlh3M1FfYXRteTRpN05XbjFoWTBUaUNjZGMwRTU2UzRPTWM0b0FId1Q3MFhGTEZLTW8yaEEwcEloNnFxeVZqVWR5d1JNeV84bUdwc21nXzZpcFNEdUdPdDgwNGJJVlVfLU1SMTVwSDVLVGtNRzZBYTZmVFBDRHNiZlQ?oc=5
 
-### OpenAI - Sam Altman Called Any OpenAI IPO Valuation Below $1 Trillion a "Nonstarter." Should Investors Prefer OpenAI or SpaceX?
-Source: Major External News - OpenAI
-Publisher: Yahoo Finance
+### Anthropic - TeraWulf shares soar after Anthropic leases data center in Kentucky
+Source: Major External News - Anthropic
+Publisher: CNBC
+Published: Jul 6, 2026
+Why it matters: Trusted external coverage
+Link: https://news.google.com/rss/articles/CBMiekFVX3lxTE1uWmt6bW41bEk0UFlabS1SWFBTenhraVNLLXdpUng3RWNXY2lPbEg4LUUwLWdRa0NFZXAtd1Y4R2RrVHhPWlJGSlRvODZObXR4NGx1aDlRcHRHRjdWemFUWUZzU2VxVFN0a0NwS0dmQXVWdGFwQW4yRmln0gF_QVVfeXFMUFdwTV9WVlhZbjJma3d2LUR2TUJ6RGg0WGM0ZmZKS1FuMXZuZXZ0dC1sN2I3TlZKVTExenhqQ2hlNjk3dk9hQVk3VHZVN2dScm0ydUlFWkRVUnhJTXRheF9TVGVSa1luUUhZUHhIY0hmOU5JdjJOUXNqX05MUDMtRQ?oc=5
+
+## Critical Official Updates
+
+### Google - Three new satellites join the fight against wildfires.
+Source: Google AI
+Published: Jul 7, 2026
+Why it matters: Flagship model or product launch
+Summary: Three new FireSat satellites have launched, expanding a network that uses Google AI to help fire agencies detect early-stage wildfires.
+Link: https://blog.google/innovation-and-ai/models-and-research/google-research/firesat-satellites
+
+## Important Official Updates
+
+### Anthropic - Case Study Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems
+Source: Anthropic News
 Published: Jul 5, 2026
-Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMilwFBVV95cUxOTjBDZHZzSXItSkJYM0ZaLS10YzVyOU5UZUhTZ1RaNTVHSVQ5aHFOQ3F3aUd4cnZCOGtUWnc4N2ZXLVBJYmF3b3BFbjE0eVBjTDRGaWVSNEtrckhXVE5jTWZRMEFZbjhwRWNoRjc1OGNxWWhBck9jZEVKaFpCakc2cmQwNmdvbk1tcFlkQm5jem1qMXBkbkxB?oc=5
+Why it matters: Technical or research update
+Link: https://www.anthropic.com/news/alberta-government-claude-cybersecurity
 
-### OpenAI - Trump Weighs In On Elon Musk, OpenAI, Intel — And Takes Aim At The 'Hostile' Fed Board
-Source: Major External News - OpenAI
-Publisher: Yahoo Finance
-Published: Jul 2, 2026
-Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMimgFBVV95cUxQa0FudGFDVjNFaHVGVXdiR2w4ZlhDWmFPWUN0X2FxckVjMzhmM1FobUM1dzBwZGpzNWRqaHZVMnpRb0JPVTlIUGNoWlFpQVNlQXQ1SFpUcVRmWXRlay1tLWxCTzJ3cEpHSWowaDg1Q0RaSUpQM1pOS255THNTWWZ2WXpOMDJjWDhJTnptblRvOVU2b3RrWk40OFBn?oc=5
+## Official Company Updates
+
+### Google - Gemini models
+Source: Google AI
+Published: Unknown
+Why it matters: Routine official update
+Link: https://blog.google/innovation-and-ai/models-and-research/gemini-models
+
+## Warnings
+
+- OpenAI Newsroom: Command failed: curl -sS -f -L --compressed --max-time 30 -A Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 -H Accept: text/html,application/xhtml+xml,application/xml;q=0.9,text/xml;q=0.9,*/*;q=0.8 -H Accept-Language: en-US,en;q=0.9 -H Cache-Control: no-cache https://openai.com/newsroom/
+curl: (22) The requested URL returned error: 403
