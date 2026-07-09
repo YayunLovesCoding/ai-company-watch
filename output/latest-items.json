@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T16:03:02.770Z",
+  "generatedAt": "2026-07-09T16:29:15.455Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -76,15 +76,53 @@
     }
   ],
   "totals": {
-    "fetched": 28,
+    "fetched": 38,
     "deduped": 24,
-    "new": 9,
+    "new": 16,
     "byKind": {
-      "official": 16,
-      "external": 8
+      "official": 11,
+      "external": 13
     }
   },
   "items": [
+    {
+      "id": "e1620d32498441a060f29ceab1f02cce230ccb3f",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9OTml2eXZ6QXlTUUpBaW81VmtxcmJaa2h4blBYMVJZeTdISU4xYjA5N3VrLS01eEZlMk5hUmxoaHZVam1lN0xiSmJsWUtISUVrQzVqLTVhRFdaTG9MbEZJaHl3aUdhVGJfUUxKNWxWaTUxT05NRmRkWnhMcEs?oc=5",
+      "title": "New York Times and Other Publishers Ask Court to Penalize OpenAI",
+      "summary": "",
+      "publishedAt": "2026-07-09T14:40:32.000Z",
+      "publisher": "The New York Times",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "e58bcee2f9f2b1206be70704cf285bb972cdcf70",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWTYxWTEzRzVsSVY1VG80RTRVNUpwekZUV1lkajUzMjYxZVNRb2RkR3NwX3E3Y04yQ2ZaRGtSMkNsMkJGenJnTmRjcUhmNFJnT05kZXJrTVIxX3V1MFpUN29WU1RPTHlxX3djazJ2MS02YmFzZXRNM01FTzJ0cE03dU5GVUFIS2o2eTF1X0tvcDBLSG56NktwTUFDbjV1ZW5mODdmQ0xtcHJfU0ljLW02ZFRaLTZNdVlfV094cW9DOHhpQXM?oc=5",
+      "title": "New York Times-led group asks court to sanction OpenAI in US copyright dispute",
+      "summary": "",
+      "publishedAt": "2026-07-09T14:32:49.000Z",
+      "publisher": "Reuters",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
     {
       "id": "c7f80bf4782dfd9f6f81710591a5adb4c5276270",
       "company": "OpenAI",
@@ -95,7 +133,7 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUWVncFk3aF81WnNxd2liXzhuNGYzWDJ5RWlvSWxJdXMxUTJwaEs1dlp5bTBQNW1VZHkzcVBieURJcjVvRHJ4dnVZUlRrcmhsaHFHdEpFbUNubzl1cDRqdXVBUjBXbkE0M2lETk02eG9BRDFoY21TSEF5b05UWmV5akJ4dl9NMmdP?oc=5",
       "title": "Exclusive: OpenAI deployment arm to acquire Northslope",
       "summary": "",
-      "publishedAt": "2026-07-08T13:29:30.000Z",
+      "publishedAt": "2026-07-08T13:10:40.000Z",
       "publisher": "Axios",
       "discoveryMethod": "feed",
       "classification": {
@@ -105,22 +143,41 @@
       }
     },
     {
-      "id": "e10d8ee8f0dc7ffd6e7d62fb9c9d611c4995d53f",
-      "company": "OpenAI",
+      "id": "01b6582503fbb5554b890a9fa63a241d082b7fdf",
+      "company": "Anthropic",
       "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONW0zSlA3emh0N052LThNdkVPcjJUajZVck1xYnR6UE5WQWNycHpFUlVpUWtkb3dIZ2ZYSVZoMkk3cG1TVThfaDc0N3RhTWpZMFBJNXRKZi1Ya0tTb2FfUDA2Y0gxWDUxTHdRVm1XM2x5TnVIbzR3a1BEV01WU19kbng1UWhZUnhWbDFRRjF4OTZqa0htSkdIRkI5MkkwWXdiRTNWZEtB?oc=5",
-      "title": "Musk’s Courtroom Foil Savitt Describes ‘Flow’ of OpenAI Trial",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQVk3VEVROTZsS2o3NFctbVNfUC05MWhHMjg2amFfYmZDeGJRZFpWZ1hvaE1QSWpLdXhadm0tZk83bmg4b0ZIMjdIS00wbHcxOF9uQ3hMQlpicWRzTk5XUkhZRjBacDZMM1dZemgwaWVKU2hPYUs1WDNlRmNjbjdIUzVPbi16aVFmNXdmeXJZbGdVOTdEREhjUy1oLUpHM3NQV0lDSVRuVWc?oc=5",
+      "title": "China Says It Has Found Security Vulnerabilities in Anthropic’s Claude Code",
       "summary": "",
-      "publishedAt": "2026-07-02T09:00:00.000Z",
-      "publisher": "Bloomberg Law News",
+      "publishedAt": "2026-07-09T02:54:00.000Z",
+      "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
+        "score": 5,
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "378aaddfeb755cd9e61a7f491b08d84e1e3a4720",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTlY2TzNHbUdYNVAyWllpcTh6d1JIcDZuYmlBODJMTWlkZi14NGJuU1pNVksxYVBnbnE1a3ZkYjBPNzlKNXhQUXZjMWtvX2p2Q1cxdmVTODVxaFQ4M1pWLVBSZ2VVRXctQUtIQlZEUXNIYlJlWGN3UFR4VHVxZG9uR0pib0h3d2lvZ2VXeVU1S1dMYk90SzRfY3lPVHNjVGVD?oc=5",
+      "title": "Microsoft's Quantum Security Push: 1 Stock With 111% Upside to Buy Now",
+      "summary": "",
+      "publishedAt": "2026-07-08T19:00:00.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Safety, security, or policy update"
       }
     },
     {
@@ -143,17 +200,55 @@
       }
     },
     {
-      "id": "766a91ccaa91d6a2e75798909d528ac978fa5796",
-      "company": "Meta",
+      "id": "3041b30473be3a2fab93ecd57c2db60220043c69",
+      "company": "Anthropic",
       "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMWNXT0xUZnVCb3B5SmZGMlNpRl9jN3ItV01Zajg5ZnVocklzUmN4cDZaYmlaUVIxbm9FWTV0U0hCNTF0bjNTVjN2c05kT0NONXB3ci0wYW11RzBxYzNKTlZTVTBWLVpDVHBZZlRHczB1c095bFppRmRwNTlkUDFvbHhrUDdiMExQNGYzZUs3WFp1YkxiWUw3dHoxTU0?oc=5",
-      "title": "Qualcomm (QCOM), Meta (META) Announce Multi-Generation Data Center CPU Supply Agreement",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeExPeVBxSkZNSEtyOFdHb1Ixc2hjYnozUVA5ODhKTkNYMTBmSVFXNlNVR0MxXzM0SEtqNENQNkJRNDRtaWNhSkZZVTI4WGRzNklUdEc3SmlWZkVZcGE5LVBzcm5fQUpWaXp3aW5XTmtKZjBNcldDeVZNT0VwVEdsVmkzUGtGSnZYcnFsNHVKT0JkdTZYTi1kTDVhZlJRQzls?oc=5",
+      "title": "Alibaba Bans Anthropic's Claude Code as AI Security Fight Escalates",
       "summary": "",
-      "publishedAt": "2026-07-04T12:54:31.000Z",
+      "publishedAt": "2026-07-07T17:56:49.000Z",
       "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "d7ccf9cc0fa27a1d720ba1729fb0d259829d7fa5",
+      "company": "Anthropic",
+      "sourceKind": "official",
+      "sourceId": "anthropic-news",
+      "sourceLabel": "Anthropic News",
+      "homepageUrl": "https://www.anthropic.com/news",
+      "url": "https://www.anthropic.com/news/reflect-with-claude",
+      "title": "Introducing a way to reflect on how you use Claude",
+      "summary": "",
+      "publishedAt": "2026-07-09T00:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "anchor",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "d7499a6963c6e5c4d93bc34c41c648b8746b128e",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/introducing-gpt-live",
+      "title": "Introducing GPT-Live",
+      "summary": "A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.",
+      "publishedAt": "2026-07-08T00:00:00.000Z",
+      "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -181,41 +276,79 @@
       }
     },
     {
-      "id": "e8e8baf7b5ae32239d9e38e61cfd40d317b7c2fd",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/firesat-satellites",
-      "title": "Three new satellites join the fight against wildfires.",
-      "summary": "Three new FireSat satellites have launched, expanding a network that uses Google AI to help fire agencies detect early-stage wildfires.",
-      "publishedAt": "2026-07-07T16:15:00.000Z",
-      "publisher": "",
+      "id": "5d4657ea6b068a9ba8af4ba030c10b9d506f96bf",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeE92aFFLT3ctM1hDcVd1MHVoMGYxeEpKTDMwM3pfLTBzREdCRGs5NHp1Rk42NGk4WXZmS1QwQXV4VXFnV1pHSjVnOTh6M3M3RGZFMDRHYVVhSHQwUzdPa2hVdWZLZUtSRlNabTRxTHdMYXZkVWE3TG9nQ19qSFZyVFk3RnBYOF9MWlNaUTV6bWFDc0lBWDU4V2p3?oc=5",
+      "title": "Meta Starts $13 Billion Alberta Data Center",
+      "summary": "",
+      "publishedAt": "2026-07-09T12:29:24.000Z",
+      "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Flagship model or product launch"
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
       }
     },
     {
-      "id": "3aa4a85fa76c2b7ad519d525a8c2abe63286f86c",
+      "id": "e75b4f586351930bef2e8e6637dda8725ffc33b7",
       "company": "Meta",
-      "sourceKind": "official",
-      "sourceId": "meta-newsroom",
-      "sourceLabel": "Meta Newsroom",
-      "homepageUrl": "https://about.fb.com/news/",
-      "url": "https://about.fb.com/news/2026/06/meta-partners-with-reliance-on-ai-enabled-data-center-in-india",
-      "title": "Meta Partners With Reliance on AI-Enabled Data Center in India",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQmJUcmlIQzJ4M0Vmd1QxQno5ajZPWnFqRHMtQkNMSzVRMHlnOXBqZDN4cjVuRU1XR3IyajdHekZJRkNpeXA2UjRBaXdiaDlnbkxVa1VXb1hwY3BDMUE1am9uX0o3OUxYTWVkeUMyemFUQ0JkMlVpX1RWSTBLVzI3bC1uaTVGelVXd1pSdEY4RHpreUQySmhOUjZMemVGQ3k4YTREY3VxN3k5alhELVdJa1hGeGYxbUltMV9mVUtHZWM4SmQ1eGNqRkk0RUk?oc=5",
+      "title": "EXCLUSIVE: Meta to put AI chip into production in September as it looks to double computing capacity, memo shows",
       "summary": "",
-      "publishedAt": null,
-      "publisher": "",
-      "discoveryMethod": "anchor",
+      "publishedAt": "2026-07-09T11:45:23.000Z",
+      "publisher": "Reuters",
+      "discoveryMethod": "feed",
       "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Corporate move or major external event"
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "0a276e3b20ff2067c41d7906c7d00b169ebbec2a",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNU1USzlTUzNvM0RMbTJFLVRDSkVkQlYxZHlObVlaUU0xaGpacGYyVEhNV0dHNlp2TnFpOEp4RThOOFNyTHAyTUdnU3gzS2xHMl9uc2p1SHRja3ItdlBXZ3gyZF9PMHNOWkRqNVQ2ZEhmNVFwMWd1LUxNNkR1ZDk1RUIyT1lZUF9JVmRyN3VlQQ?oc=5",
+      "title": "Meta plans billions for first AI data center in Canada, largest outside the US",
+      "summary": "",
+      "publishedAt": "2026-07-09T04:50:00.000Z",
+      "publisher": "AP News",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "eadb4c021ba794b56a2f2d3df36bfeb35887f293",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRU1kYi03WEJLMjUzY0lVVHVwekxGWTUzVVdZTDFGTFFKVlZERWZCOFVyak1KZ3VUYzlBZzdxZS11SW1Ldzc1amZqeG41TFJ4V0FQSW9pWFEycWhjeHByMG95SFp5VTk0SFQxYnI4Q3NLR0lZYTRSVXdGbFp6VlM4M1NqdlhZT3QzdC1mSU9ScFQwVU1mSFgxVzJvcDRnU3BIVGF4Nkotblhydno4SUZR?oc=5",
+      "title": "Meta to build C$13 billion Alberta data center, its first in Canada",
+      "summary": "",
+      "publishedAt": "2026-07-08T22:33:44.000Z",
+      "publisher": "Reuters",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
       }
     },
     {
@@ -238,35 +371,35 @@
       }
     },
     {
-      "id": "0a23b2b5a1dad055a39cfb7cf0209c8d9b4a3d7c",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRnI3dF9IS3M5VUswaHNzNEJBY3Vuc2xBck1kSDQyYUtPYXVrUEF4WWxzd002UHVQR3NqMnZRVDFZMVhsWk9Mdlk5Yi1GUGFEeEFNOFZYdDZtQUhQMFB2Zlh3M1FfYXRteTRpN05XbjFoWTBUaUNjZGMwRTU2UzRPTWM0b0FId1Q3MFhGTEZLTW8yaEEwcEloNnFxeVZqVWR5d1JNeV84bUdwc21nXzZpcFNEdUdPdDgwNGJJVlVfLU1SMTVwSDVLVGtNRzZBYTZmVFBDRHNiZlQ?oc=5",
-      "title": "TeraWulf CEO on Anthropic deal: Demand for power is very significant and it's the tip of the iceberg",
-      "summary": "",
-      "publishedAt": "2026-07-06T18:24:24.000Z",
-      "publisher": "CNBC",
+      "id": "41b85c9cdb7a0122f22d6b2e39aed7b59f41059a",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/government-national-security-partnerships",
+      "title": "Our approach to government and national security partnerships",
+      "summary": "Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety.",
+      "publishedAt": "2026-07-08T13:30:00.000Z",
+      "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
         "score": 4,
-        "reason": "Trusted external coverage"
+        "reason": "Safety, security, or policy update"
       }
     },
     {
-      "id": "abd37bf2f2f7c34c5c24a231c369456c550554fb",
+      "id": "e8e8baf7b5ae32239d9e38e61cfd40d317b7c2fd",
       "company": "Google",
       "sourceKind": "official",
       "sourceId": "google-ai",
       "sourceLabel": "Google AI",
       "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026",
-      "title": "The latest AI news we announced in June 2026",
-      "summary": "Here are Google’s latest AI updates from June 2026.",
-      "publishedAt": "2026-07-01T18:15:00.000Z",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/firesat-satellites",
+      "title": "Three new satellites join the fight against wildfires.",
+      "summary": "Three new FireSat satellites have launched, expanding a network that uses Google AI to help fire agencies detect early-stage wildfires.",
+      "publishedAt": "2026-07-07T16:15:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -295,17 +428,17 @@
       }
     },
     {
-      "id": "fce99f90aab6559368b69f6d89bb35728e32f1ff",
-      "company": "Meta",
+      "id": "0a23b2b5a1dad055a39cfb7cf0209c8d9b4a3d7c",
+      "company": "Anthropic",
       "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWDJBTmR1VVFUTXc5VkdjeWlkVVdNNC1nWkhUeHJnaFFNZW5lVW5mM3l4VURYOXBKVUVaTWo2Q3Bkc3dzSmgtVmlZdTFFaUJQVnVnVlBjYmxFSkE3dzBqWFE5NUJXb1ZJd3BieHNyeXVmN0RWLTBsbDRFX09JWlRHRFVwUFhEUzNmdXBMVXgxMVhJSDJ6X2c?oc=5",
-      "title": "Meta’s Data Center Water Discharge Was Suspended After Bacteria Contamination",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRnI3dF9IS3M5VUswaHNzNEJBY3Vuc2xBck1kSDQyYUtPYXVrUEF4WWxzd002UHVQR3NqMnZRVDFZMVhsWk9Mdlk5Yi1GUGFEeEFNOFZYdDZtQUhQMFB2Zlh3M1FfYXRteTRpN05XbjFoWTBUaUNjZGMwRTU2UzRPTWM0b0FId1Q3MFhGTEZLTW8yaEEwcEloNnFxeVZqVWR5d1JNeV84bUdwc21nXzZpcFNEdUdPdDgwNGJJVlVfLU1SMTVwSDVLVGtNRzZBYTZmVFBDRHNiZlQ?oc=5",
+      "title": "TeraWulf CEO on Anthropic deal: Demand for power is very significant and it's the tip of the iceberg",
       "summary": "",
-      "publishedAt": "2026-07-06T15:17:29.000Z",
-      "publisher": "Yahoo",
+      "publishedAt": "2026-07-06T18:18:00.000Z",
+      "publisher": "CNBC",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -314,22 +447,60 @@
       }
     },
     {
-      "id": "beb85288f43e28b7f4065930c03e9246ccba457d",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1uWmt6bW41bEk0UFlabS1SWFBTenhraVNLLXdpUng3RWNXY2lPbEg4LUUwLWdRa0NFZXAtd1Y4R2RrVHhPWlJGSlRvODZObXR4NGx1aDlRcHRHRjdWemFUWUZzU2VxVFN0a0NwS0dmQXVWdGFwQW4yRmln0gF_QVVfeXFMUFdwTV9WVlhZbjJma3d2LUR2TUJ6RGg0WGM0ZmZKS1FuMXZuZXZ0dC1sN2I3TlZKVTExenhqQ2hlNjk3dk9hQVk3VHZVN2dScm0ydUlFWkRVUnhJTXRheF9TVGVSa1luUUhZUHhIY0hmOU5JdjJOUXNqX05MUDMtRQ?oc=5",
-      "title": "TeraWulf shares soar after Anthropic leases data center in Kentucky",
-      "summary": "",
-      "publishedAt": "2026-07-06T12:03:10.000Z",
-      "publisher": "CNBC",
+      "id": "c9a7e41ab8861d9062fc761bf2292940254df633",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/alphaevolve-on-cloud",
+      "title": "We're rolling out AlphaEvolve widely to solve Google Cloud customers' hardest problems.",
+      "summary": "Finding the most efficient algorithm — whether designing a microchip, routing a logistics network or accelerating medical research — can be challenging, with many possib…",
+      "publishedAt": "2026-07-09T16:00:00.000Z",
+      "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
         "score": 3,
-        "reason": "Trusted external coverage"
+        "reason": "Technical or research update"
+      }
+    },
+    {
+      "id": "74dc15720d8377edbe420befae12eee40cc7e14a",
+      "company": "Meta",
+      "sourceKind": "official",
+      "sourceId": "meta-newsroom",
+      "sourceLabel": "Meta Newsroom",
+      "homepageUrl": "https://about.fb.com/news/",
+      "url": "https://about.fb.com/news/2026/07/breaking-ground-on-metas-first-data-center-in-canada",
+      "title": "Breaking Ground on Meta’s First Data Center in Canada",
+      "summary": "We’re breaking ground on a new 1GW, AI-optimized data center in Sturgeon County, Alberta — our first data center in Canada and 33rd in our global fleet. The post Breaking Ground on Meta’s First Data Center in Canada",
+      "publishedAt": "2026-07-08T19:30:30.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Technical or research update"
+      }
+    },
+    {
+      "id": "eaad4cbcfa7f5327a2cc22a617c04a1d32c8eb96",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+      "title": "Separating signal from noise in coding evaluations",
+      "summary": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models.",
+      "publishedAt": "2026-07-08T13:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Technical or research update"
       }
     },
     {
@@ -352,209 +523,38 @@
       }
     },
     {
-      "id": "6753178232411b686912c7e7f8909ed27dae45dc",
-      "company": "Meta",
-      "sourceKind": "official",
-      "sourceId": "meta-newsroom",
-      "sourceLabel": "Meta Newsroom",
-      "homepageUrl": "https://about.fb.com/news/",
-      "url": "https://about.fb.com/news/2026/07/metas-ai-glasses-your-questions-answered",
-      "title": "Meta’s AI Glasses: Your Questions Answered",
-      "summary": "We’re answering frequently asked questions about our AI glasses and sharing the features we’ve built to help both the wearers of our glasses and the people around them feel comfortable. The post Meta’s AI Glasses: Your Questions Answered",
-      "publishedAt": "2026-07-07T23:35:43.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "57f88c6dec3907907d3c16ded485b6b874976aef",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/technology/research/technology-global-crisis-resilience",
-      "title": "How governments and organizations are leveraging Google’s AI breakthroughs for crisis resilience",
-      "summary": "Three ways Google collaborates with governments, international organizations and communities on global crisis resilience.",
-      "publishedAt": "2026-07-07T17:50:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "f7eb2a868aacbc6f7921959048830fe084f1211f",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api",
-      "title": "Expanding Managed Agents in Gemini API: background tasks, remote MCP and more",
-      "summary": "We’re announcing new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.",
-      "publishedAt": "2026-07-07T08:54:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "60d1b56766e3b67711e24aa3800129a32b92ec20",
+      "id": "de92863115274012478e22d6b4016d706e7bd2b7",
       "company": "OpenAI",
       "sourceKind": "official",
       "sourceId": "openai-newsroom",
       "sourceLabel": "OpenAI Newsroom",
       "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/australian-payments-plus",
-      "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
-      "summary": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central.",
-      "publishedAt": "2026-07-07T00:00:00.000Z",
+      "url": "https://openai.com/index/k-12-educators-practical-skills",
+      "title": "Helping K–12 educators build practical AI skills",
+      "summary": "OpenAI Academy and the Walton Family Foundation are bringing hands-on AI Skills Jams to help K–12 educators build practical AI skills for the classroom.",
+      "publishedAt": "2026-07-08T10:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "digest",
         "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "cb031b5cf3e3be67bd75b342038e38b6dcd578b5",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/mufg",
-      "title": "MUFG aims to become AI-native with OpenAI",
-      "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
-      "publishedAt": "2026-07-07T00:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "2902cfd98ebb4fc0aed0bfd7949ebc7cbbd17c8e",
-      "company": "Anthropic",
-      "sourceKind": "official",
-      "sourceId": "anthropic-news",
-      "sourceLabel": "Anthropic News",
-      "homepageUrl": "https://www.anthropic.com/news",
-      "url": "https://www.anthropic.com/news/alberta-government-claude-cybersecurity",
-      "title": "Case Study Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems",
-      "summary": "",
-      "publishedAt": "2026-07-06T00:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "anchor",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Technical or research update"
-      }
-    },
-    {
-      "id": "97cd97d27d220f15f9bc8a69f1f4b5eea602a9e8",
-      "company": "Anthropic",
-      "sourceKind": "official",
-      "sourceId": "anthropic-engineering",
-      "sourceLabel": "Anthropic Engineering",
-      "homepageUrl": "https://www.anthropic.com/engineering",
-      "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
-      "title": "Featured How we contain Claude across products As agents grow more capable, so does their potential blast radius. The engineering question is how to cap it. Here’s what we’ve learned building containment for claude.ai, Claude Code, and Cowork.",
-      "summary": "",
-      "publishedAt": null,
-      "publisher": "",
-      "discoveryMethod": "anchor",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Technical or research update"
-      }
-    },
-    {
-      "id": "2e3f360dd0fdbd93492a67876cdf40f6c5cb9459",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-study-notebooks",
-      "title": "5 ways to learn with study notebooks in the Gemini app",
-      "summary": "",
-      "publishedAt": null,
-      "publisher": "",
-      "discoveryMethod": "anchor",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Technical or research update"
-      }
-    },
-    {
-      "id": "50819ea9c0ae9cb02e09737af83fd4eda7020e67",
-      "company": "Anthropic",
-      "sourceKind": "official",
-      "sourceId": "anthropic-news",
-      "sourceLabel": "Anthropic News",
-      "homepageUrl": "https://www.anthropic.com/news",
-      "url": "https://www.anthropic.com/news/fable-safeguards-jailbreak-framework",
-      "title": "More details on Fable 5’s cyber safeguards and our jailbreak framework",
-      "summary": "",
-      "publishedAt": "2026-07-02T00:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "anchor",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "b0d59d0ca7b39045f2d1ffda0415bcc4338380c0",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app",
-      "title": "Gemini app",
-      "summary": "",
-      "publishedAt": null,
-      "publisher": "",
-      "discoveryMethod": "anchor",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
         "reason": "Routine official update"
       }
     }
   ],
   "newItems": [
     {
-      "id": "c7f80bf4782dfd9f6f81710591a5adb4c5276270",
+      "id": "e1620d32498441a060f29ceab1f02cce230ccb3f",
       "company": "OpenAI",
       "sourceKind": "external",
       "sourceId": "external-openai-major",
       "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUWVncFk3aF81WnNxd2liXzhuNGYzWDJ5RWlvSWxJdXMxUTJwaEs1dlp5bTBQNW1VZHkzcVBieURJcjVvRHJ4dnVZUlRrcmhsaHFHdEpFbUNubzl1cDRqdXVBUjBXbkE0M2lETk02eG9BRDFoY21TSEF5b05UWmV5akJ4dl9NMmdP?oc=5",
-      "title": "Exclusive: OpenAI deployment arm to acquire Northslope",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9OTml2eXZ6QXlTUUpBaW81VmtxcmJaa2h4blBYMVJZeTdISU4xYjA5N3VrLS01eEZlMk5hUmxoaHZVam1lN0xiSmJsWUtISUVrQzVqLTVhRFdaTG9MbEZJaHl3aUdhVGJfUUxKNWxWaTUxT05NRmRkWnhMcEs?oc=5",
+      "title": "New York Times and Other Publishers Ask Court to Penalize OpenAI",
       "summary": "",
-      "publishedAt": "2026-07-08T13:29:30.000Z",
-      "publisher": "Axios",
+      "publishedAt": "2026-07-09T14:40:32.000Z",
+      "publisher": "The New York Times",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -563,17 +563,36 @@
       }
     },
     {
-      "id": "de692f9237e574b0cf81bcb9e323fe9f34e720ed",
+      "id": "e58bcee2f9f2b1206be70704cf285bb972cdcf70",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWTYxWTEzRzVsSVY1VG80RTRVNUpwekZUV1lkajUzMjYxZVNRb2RkR3NwX3E3Y04yQ2ZaRGtSMkNsMkJGenJnTmRjcUhmNFJnT05kZXJrTVIxX3V1MFpUN29WU1RPTHlxX3djazJ2MS02YmFzZXRNM01FTzJ0cE03dU5GVUFIS2o2eTF1X0tvcDBLSG56NktwTUFDbjV1ZW5mODdmQ0xtcHJfU0ljLW02ZFRaLTZNdVlfV094cW9DOHhpQXM?oc=5",
+      "title": "New York Times-led group asks court to sanction OpenAI in US copyright dispute",
+      "summary": "",
+      "publishedAt": "2026-07-09T14:32:49.000Z",
+      "publisher": "Reuters",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "01b6582503fbb5554b890a9fa63a241d082b7fdf",
       "company": "Anthropic",
       "sourceKind": "external",
       "sourceId": "external-anthropic-major",
       "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTmtuYVZDY0RoM0VTUW1Sa3poM1pYOHlYbVJwRk1lOXNPM1QwX25uMnlrdVUxUnlqSEhXZzlrWUxFQkRRa21HeEJWR1ZrY2UzeVUwdHBmcFR5bDR1OHNIQjRHNTZUYjd0NzJzZjNsQzdqNXRBUDZDdW1wekdXU1ZHcjNlbVVvM1NiSnJVQmppV2I3ZDNnSXIyZDBWMTZPQzhWTTRNUHo2WnZ0TG9RMzhmdjdBQnRzbUts?oc=5",
-      "title": "China issues 'backdoor' security alert over Anthropic's Claude Code",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQVk3VEVROTZsS2o3NFctbVNfUC05MWhHMjg2amFfYmZDeGJRZFpWZ1hvaE1QSWpLdXhadm0tZk83bmg4b0ZIMjdIS00wbHcxOF9uQ3hMQlpicWRzTk5XUkhZRjBacDZMM1dZemgwaWVKU2hPYUs1WDNlRmNjbjdIUzVPbi16aVFmNXdmeXJZbGdVOTdEREhjUy1oLUpHM3NQV0lDSVRuVWc?oc=5",
+      "title": "China Says It Has Found Security Vulnerabilities in Anthropic’s Claude Code",
       "summary": "",
-      "publishedAt": "2026-07-08T14:28:25.000Z",
-      "publisher": "Reuters",
+      "publishedAt": "2026-07-09T02:54:00.000Z",
+      "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -582,16 +601,73 @@
       }
     },
     {
-      "id": "5d68cfb02d443f9fcd984a6d18024cd5a32075c7",
-      "company": "Meta",
+      "id": "378aaddfeb755cd9e61a7f491b08d84e1e3a4720",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTlY2TzNHbUdYNVAyWllpcTh6d1JIcDZuYmlBODJMTWlkZi14NGJuU1pNVksxYVBnbnE1a3ZkYjBPNzlKNXhQUXZjMWtvX2p2Q1cxdmVTODVxaFQ4M1pWLVBSZ2VVRXctQUtIQlZEUXNIYlJlWGN3UFR4VHVxZG9uR0pib0h3d2lvZ2VXeVU1S1dMYk90SzRfY3lPVHNjVGVD?oc=5",
+      "title": "Microsoft's Quantum Security Push: 1 Stock With 111% Upside to Buy Now",
+      "summary": "",
+      "publishedAt": "2026-07-08T19:00:00.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "3041b30473be3a2fab93ecd57c2db60220043c69",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeExPeVBxSkZNSEtyOFdHb1Ixc2hjYnozUVA5ODhKTkNYMTBmSVFXNlNVR0MxXzM0SEtqNENQNkJRNDRtaWNhSkZZVTI4WGRzNklUdEc3SmlWZkVZcGE5LVBzcm5fQUpWaXp3aW5XTmtKZjBNcldDeVZNT0VwVEdsVmkzUGtGSnZYcnFsNHVKT0JkdTZYTi1kTDVhZlJRQzls?oc=5",
+      "title": "Alibaba Bans Anthropic's Claude Code as AI Security Fight Escalates",
+      "summary": "",
+      "publishedAt": "2026-07-07T17:56:49.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "d7ccf9cc0fa27a1d720ba1729fb0d259829d7fa5",
+      "company": "Anthropic",
       "sourceKind": "official",
-      "sourceId": "meta-newsroom",
-      "sourceLabel": "Meta Newsroom",
-      "homepageUrl": "https://about.fb.com/news/",
-      "url": "https://about.fb.com/news/2026/07/introducing-muse-image-meta-ai",
-      "title": "Introducing Muse Image: Image Generation Built for Your World",
-      "summary": "Muse Image is the first image generation model from Meta Superintelligence Labs, now available in Meta AI. The post Introducing Muse Image: Image Generation Built for Your World",
-      "publishedAt": "2026-07-07T18:05:34.000Z",
+      "sourceId": "anthropic-news",
+      "sourceLabel": "Anthropic News",
+      "homepageUrl": "https://www.anthropic.com/news",
+      "url": "https://www.anthropic.com/news/reflect-with-claude",
+      "title": "Introducing a way to reflect on how you use Claude",
+      "summary": "",
+      "publishedAt": "2026-07-09T00:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "anchor",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "d7499a6963c6e5c4d93bc34c41c648b8746b128e",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/introducing-gpt-live",
+      "title": "Introducing GPT-Live",
+      "summary": "A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.",
+      "publishedAt": "2026-07-08T00:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -601,17 +677,17 @@
       }
     },
     {
-      "id": "2b7e9e8e0a812db9bf5d7e7eee7b954f63e6c650",
-      "company": "OpenAI",
+      "id": "5d4657ea6b068a9ba8af4ba030c10b9d506f96bf",
+      "company": "Meta",
       "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNWZsXzVqRGZtOENYUnJjY0lRWEphTUJQYW84dGEwNmVqbmRkNU5FUmtNak1ra1pGNFZEUXJjSmh4djVzdmtfeDc1TERlVFVOWTZCU2tmRHc5blBFd0MxSFAxWUoxelJwR1V1c2ZiZk96aE9fUUllN25weGJhV0VFNWFiMmxYanlial9TUjh2cG03ZU5XUVV2eERNYzRqRVBO?oc=5",
-      "title": "Former OpenAI exec Kevin Weil is now on the board of Stoke Space",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeE92aFFLT3ctM1hDcVd1MHVoMGYxeEpKTDMwM3pfLTBzREdCRGs5NHp1Rk42NGk4WXZmS1QwQXV4VXFnV1pHSjVnOTh6M3M3RGZFMDRHYVVhSHQwUzdPa2hVdWZLZUtSRlNabTRxTHdMYXZkVWE3TG9nQ19qSFZyVFk3RnBYOF9MWlNaUTV6bWFDc0lBWDU4V2p3?oc=5",
+      "title": "Meta Starts $13 Billion Alberta Data Center",
       "summary": "",
-      "publishedAt": "2026-07-08T12:00:00.000Z",
-      "publisher": "TechCrunch",
+      "publishedAt": "2026-07-09T12:29:24.000Z",
+      "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -620,92 +696,149 @@
       }
     },
     {
-      "id": "6753178232411b686912c7e7f8909ed27dae45dc",
+      "id": "e75b4f586351930bef2e8e6637dda8725ffc33b7",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQmJUcmlIQzJ4M0Vmd1QxQno5ajZPWnFqRHMtQkNMSzVRMHlnOXBqZDN4cjVuRU1XR3IyajdHekZJRkNpeXA2UjRBaXdiaDlnbkxVa1VXb1hwY3BDMUE1am9uX0o3OUxYTWVkeUMyemFUQ0JkMlVpX1RWSTBLVzI3bC1uaTVGelVXd1pSdEY4RHpreUQySmhOUjZMemVGQ3k4YTREY3VxN3k5alhELVdJa1hGeGYxbUltMV9mVUtHZWM4SmQ1eGNqRkk0RUk?oc=5",
+      "title": "EXCLUSIVE: Meta to put AI chip into production in September as it looks to double computing capacity, memo shows",
+      "summary": "",
+      "publishedAt": "2026-07-09T11:45:23.000Z",
+      "publisher": "Reuters",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "0a276e3b20ff2067c41d7906c7d00b169ebbec2a",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNU1USzlTUzNvM0RMbTJFLVRDSkVkQlYxZHlObVlaUU0xaGpacGYyVEhNV0dHNlp2TnFpOEp4RThOOFNyTHAyTUdnU3gzS2xHMl9uc2p1SHRja3ItdlBXZ3gyZF9PMHNOWkRqNVQ2ZEhmNVFwMWd1LUxNNkR1ZDk1RUIyT1lZUF9JVmRyN3VlQQ?oc=5",
+      "title": "Meta plans billions for first AI data center in Canada, largest outside the US",
+      "summary": "",
+      "publishedAt": "2026-07-09T04:50:00.000Z",
+      "publisher": "AP News",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "eadb4c021ba794b56a2f2d3df36bfeb35887f293",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRU1kYi03WEJLMjUzY0lVVHVwekxGWTUzVVdZTDFGTFFKVlZERWZCOFVyak1KZ3VUYzlBZzdxZS11SW1Ldzc1amZqeG41TFJ4V0FQSW9pWFEycWhjeHByMG95SFp5VTk0SFQxYnI4Q3NLR0lZYTRSVXdGbFp6VlM4M1NqdlhZT3QzdC1mSU9ScFQwVU1mSFgxVzJvcDRnU3BIVGF4Nkotblhydno4SUZR?oc=5",
+      "title": "Meta to build C$13 billion Alberta data center, its first in Canada",
+      "summary": "",
+      "publishedAt": "2026-07-08T22:33:44.000Z",
+      "publisher": "Reuters",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "41b85c9cdb7a0122f22d6b2e39aed7b59f41059a",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/government-national-security-partnerships",
+      "title": "Our approach to government and national security partnerships",
+      "summary": "Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety.",
+      "publishedAt": "2026-07-08T13:30:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "c9a7e41ab8861d9062fc761bf2292940254df633",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/alphaevolve-on-cloud",
+      "title": "We're rolling out AlphaEvolve widely to solve Google Cloud customers' hardest problems.",
+      "summary": "Finding the most efficient algorithm — whether designing a microchip, routing a logistics network or accelerating medical research — can be challenging, with many possib…",
+      "publishedAt": "2026-07-09T16:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Technical or research update"
+      }
+    },
+    {
+      "id": "74dc15720d8377edbe420befae12eee40cc7e14a",
       "company": "Meta",
       "sourceKind": "official",
       "sourceId": "meta-newsroom",
       "sourceLabel": "Meta Newsroom",
       "homepageUrl": "https://about.fb.com/news/",
-      "url": "https://about.fb.com/news/2026/07/metas-ai-glasses-your-questions-answered",
-      "title": "Meta’s AI Glasses: Your Questions Answered",
-      "summary": "We’re answering frequently asked questions about our AI glasses and sharing the features we’ve built to help both the wearers of our glasses and the people around them feel comfortable. The post Meta’s AI Glasses: Your Questions Answered",
-      "publishedAt": "2026-07-07T23:35:43.000Z",
+      "url": "https://about.fb.com/news/2026/07/breaking-ground-on-metas-first-data-center-in-canada",
+      "title": "Breaking Ground on Meta’s First Data Center in Canada",
+      "summary": "We’re breaking ground on a new 1GW, AI-optimized data center in Sturgeon County, Alberta — our first data center in Canada and 33rd in our global fleet. The post Breaking Ground on Meta’s First Data Center in Canada",
+      "publishedAt": "2026-07-08T19:30:30.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
+        "bucket": "important",
+        "score": 3,
+        "reason": "Technical or research update"
       }
     },
     {
-      "id": "57f88c6dec3907907d3c16ded485b6b874976aef",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/technology/research/technology-global-crisis-resilience",
-      "title": "How governments and organizations are leveraging Google’s AI breakthroughs for crisis resilience",
-      "summary": "Three ways Google collaborates with governments, international organizations and communities on global crisis resilience.",
-      "publishedAt": "2026-07-07T17:50:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "f7eb2a868aacbc6f7921959048830fe084f1211f",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api",
-      "title": "Expanding Managed Agents in Gemini API: background tasks, remote MCP and more",
-      "summary": "We’re announcing new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.",
-      "publishedAt": "2026-07-07T08:54:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "60d1b56766e3b67711e24aa3800129a32b92ec20",
+      "id": "eaad4cbcfa7f5327a2cc22a617c04a1d32c8eb96",
       "company": "OpenAI",
       "sourceKind": "official",
       "sourceId": "openai-newsroom",
       "sourceLabel": "OpenAI Newsroom",
       "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/australian-payments-plus",
-      "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
-      "summary": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central.",
-      "publishedAt": "2026-07-07T00:00:00.000Z",
+      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+      "title": "Separating signal from noise in coding evaluations",
+      "summary": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models.",
+      "publishedAt": "2026-07-08T13:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
+        "bucket": "important",
+        "score": 3,
+        "reason": "Technical or research update"
       }
     },
     {
-      "id": "cb031b5cf3e3be67bd75b342038e38b6dcd578b5",
+      "id": "de92863115274012478e22d6b4016d706e7bd2b7",
       "company": "OpenAI",
       "sourceKind": "official",
       "sourceId": "openai-newsroom",
       "sourceLabel": "OpenAI Newsroom",
       "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/mufg",
-      "title": "MUFG aims to become AI-native with OpenAI",
-      "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
-      "publishedAt": "2026-07-07T00:00:00.000Z",
+      "url": "https://openai.com/index/k-12-educators-practical-skills",
+      "title": "Helping K–12 educators build practical AI skills",
+      "summary": "OpenAI Academy and the Walton Family Foundation are bringing hands-on AI Skills Jams to help K–12 educators build practical AI skills for the classroom.",
+      "publishedAt": "2026-07-08T10:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
