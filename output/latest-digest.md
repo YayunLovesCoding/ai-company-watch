@@ -1,88 +1,79 @@
 # AI Company Watch
 
-Generated: Jul 10, 2026, 9:26 AM PDT
+Generated: Jul 11, 2026, 7:57 AM PDT
 Lookback window: 7 day(s)
 Sources checked: 12
 Items fetched: 41
 Items kept: 24
-New items: 10
-External items kept: 12
-Official items kept: 12
+New items: 9
+External items kept: 13
+Official items kept: 11
 
 ## Critical External News
 
-### Microsoft - Can Chevron's Microsoft Partnership Power the Next Leg of Growth?
-Source: Major External News - Microsoft
-Publisher: Yahoo Finance
+### OpenAI - Apple sues OpenAI, alleging the AI company stole trade secrets
+Source: Major External News - OpenAI
+Publisher: The Washington Post
 Published: Jul 10, 2026
 Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMinwFBVV95cUxPTlVVamRhMlRQTkZfay1xazhHdDJKdWd1cFJNbGl4N2JPb1d1X0dDX3FvcmlEYVBPYU4zZHJjUmhjTi1CUWNIUXI5Z0NMOVRHNGZzRXR1NFg2WkFIaFNHQXdFSVhZb1RGa0Ixaml3bnpzMXFfRmpOY3BPS3RYaTVUdXVPN0lqdVB3OTdGVlE0czhMUlR6VHVQendHQ3I4N1E?oc=5
+Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxQODNobDNCbmdoNkJfQldXUEVZdm9XQkVISmhDaEF1QVBtNlUtSE1TNFBYM21HTU9sYm1feENtLUN1d1BVb1dBVE5iY0wyWEw0Y1N5Sm01bnphWm4wVEtHbmE4SVlZODV1VEQ0Slhiam82U25FeXlqRVdyVExvVkVJUGdXY1BlRkthWjdaRFBqb1dXdy1FZGFOUjcyaHBxRjVWbkk4OG5WS215N294d0dWag?oc=5
 
-### OpenAI - New York Times says OpenAI hid evidence in ChatGPT copyright trial
+### OpenAI - Apple Sues OpenAI, Accusing It of Stealing Company Secrets
 Source: Major External News - OpenAI
-Publisher: TechCrunch
-Published: Jul 9, 2026
+Publisher: The New York Times
+Published: Jul 10, 2026
 Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMiowFBVV95cUxOWFl2Vkp6eWRIWThNRVIyQlZpRnZaNjZuSUUwYVE3dm1qbmtLSHFJaVBORGpRVmhKbmlBbHZkYTcydEEtTzd2UGJmNFBVNzZQeWNGbHhEU1U4VmdlOEpMWXJnUVQ5MUpZalVBX0E5MGJpQjFQaVk1Si11cTJ5TDF6MFJRdkFUME92Q1k3NWl1ZmppR1RHcnBYcjM0bGlYekthaUdv?oc=5
+Link: https://news.google.com/rss/articles/CBMie0FVX3lxTFBKUzJZN0pQMUl5TnQwdjdMWVJfM3lWVmhOdHhoTlY5RldFcENVRnNOR0N1Q3NrVU9qTzZkZXJGWGtnenY4UWN4WXBZdm1JVjF6OW5PXzV1cGhZUmhYdHdjWFNLT0dOOHpEMTY0RG5HTmxjYzdEaHAza3I4VQ?oc=5
+
+### OpenAI - Apple accuses OpenAI, and former design star Jony Ive's io Products firm, of stealing hardware trade secrets in blockbuster lawsuit
+Source: Major External News - OpenAI
+Publisher: Fortune
+Published: Jul 10, 2026
+Why it matters: Corporate move or major external event
+Link: https://news.google.com/rss/articles/CBMijAFBVV95cUxPazIwSGJBbjBLYU41dlRnOWhQUFh2TlgzNG5ubjBYRHZTWmFQTGhHTEJyZ1E3b1hOQm4xQ2lKY0RhZGw2QkVXamhpVUJaQTRwRmV1SWlKMUV3aGppdTlvQ2FYM2E0VGMzWFVlQWNoN3loMkdkVDdHQUtnMmRUclhoREpsUzJuU2lBSTB2eQ?oc=5
+
+### Microsoft - Apple sues OpenAI over alleged trade secret theft
+Source: Major External News - Microsoft
+Publisher: TechCrunch
+Published: Jul 10, 2026
+Why it matters: Corporate move or major external event
+Link: https://news.google.com/rss/articles/CBMijAFBVV95cUxNQnJ5WDNjOE8tSEpKRDJsQnhMcmVLWmRIWjBzRFNGY0x3RTZ6cmwtN09rOXNJdi1TZWIwSzhhaURJSzFaVW9FSlFTRTVPa283UkcxMUFUaUx5NERrX2ljXzkzMzcwajBUeDNpN0FHZDhhOGVTcTlIWFlZWEpQMmUzdk1BTkJBdElhM3BHSw?oc=5
+
+### Microsoft - Apple sues OpenAI alleging trade secret theft, says scheme was 'at every level'
+Source: Major External News - Microsoft
+Publisher: CNBC
+Published: Jul 10, 2026
+Why it matters: Corporate move or major external event
+Link: https://news.google.com/rss/articles/CBMie0FVX3lxTFBpcDUyVExvZXpnZHVBTGZscmFmNmRxTUIweDFGMWZrcC1fX2RZRDkxdWhPMUt4TzBfY2c2WHJkdE81TnAxMHdYZE1talZyUjRDcmlwQi1XOVo2eUhNWS1fRnRnUTFDYTR2XzNIdTlaMG5femxXc09DeFlZRdIBgAFBVV95cUxNU2tvbmxiaW9qb2UyLV9STno5WDR3SzhjV0VTSjFSVTQxaEVxbHN0RUdwTnJieXhCZVZTYkFHdlR2ZVE4MExwblB2amJwZEIxY3hNMnFjYThtTUhwaW9rRHZ1VlpDajVHbExyT0lWNGxxYndIMTBMcGMxTUdVN2g1cw?oc=5
 
 ## Important External News
 
-### Meta - Wyoming officials: Meta's 715,000-square-foot data center responsible for water system contamination
-Source: Major External News - Meta
-Publisher: Fortune
+### OpenAI - HP (HPQ) Looks Fully Valued On OpenAI Deal And Earnings Beat
+Source: Major External News - OpenAI
+Publisher: Yahoo Finance
 Published: Jul 10, 2026
 Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZEo4ZUN4cndybllkVzg0WGVmYVRON0pXWG4wX0xSYkpkTm1zMzNiS3AyVDViQlFDMzgzOS15RjE0Mkt0ZmxFV01UX3padE45R0NXdDJyWTZqanQ3NFQwWFozcTVGU00wTzVRYUNiMkRvQXNOS01TaXFoMkdrVG9wanV1U1dqRnJVM1JuVV9uTnF3UjJSSko4VmtCNkdLLTI1QlgwdW5WU01TeWd5UU1HWmRZUi1BbnNfNjVzSERXMXFzOThZV2tJY3R5VjNFUE9fSFJaNzRn?oc=5
+Link: https://news.google.com/rss/articles/CBMilAFBVV95cUxOTUNBRWVvZUJ4SmxVdkZ4cWxETUhLTWZwOG85emNkSW1Mc3Rjc00wTjNSbFlCTW42RGt3bEotSXAtQTZVQ1YwaGQ1Q2xUQUl4T3p1ejhRRDlfaGptcEVSTkd1OUEycDdkYVktUlNTTUNHVWRkQmRyV0FEaUdIM0NQZWxZdm5ZY2UyWlZ3V2IteURYbmVV?oc=5
 
-### OpenAI - OpenAI's AGI deployment chief Fidji Simo to step down after medical leave
-Source: Major External News - OpenAI
-Publisher: Reuters
-Published: Jul 9, 2026
-Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMilwFBVV95cUxNTzZ2YUZyWC1oZ1BpSi14RHVwNFZrMFVncTIySTRNRTVyWjdrOTJWaTJCaXlDTXVEODJZM0JVY2JmcmRxSUNFcXlXSlE0SjRsVGp5cXBNNWVSVE1oT0VMa0RlcDJYYllIYUNaTkY1Qkk5YWhtY2Z4SG9PbzFtM2k3SVljSklWR2F6QUNKbWdhdlZmNzlNdnlJ?oc=5
-
-### Meta - Meta’s Bacterial Mystery Could Poison the Data Center Well
-Source: Major External News - Meta
-Publisher: Heatmap News
-Published: Jul 9, 2026
-Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMie0FVX3lxTE9hMGh2VkVBa2tjY1ZnTXVtWUk3R2ttMkg2dkpoRnNEbkVXY2s3RjZVOThaZDJQSGxVWHhENjRxcXJabHhDbkRlQjVrSVFqcTRNU0tiQXdDVEstR0NReF9UMHdtOWJRTkF1dWZSUnBOMDFTeXd2MGJWRFQ3TQ?oc=5
-
-### Meta - Meta breaks ground on first data center in Canada
+### Meta - Meta stock turns positive on the year on data center plans, new AI model pricing
 Source: Major External News - Meta
 Publisher: Yahoo Finance
+Published: Jul 10, 2026
+Why it matters: Trusted external coverage
+Link: https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSElyYzRBckhFMFRnSWZrU0dtY3A4TFB3aGdGSnFRQldybzNrendhQm9oSDJpWFo1TTJOcmltcy0tM0JiSUtuWFNXSVBDdmNaLTZmdFIwel83TnQzbWFKbU1kY2tRa0MxdkVoOVNZTTlKYVExM1l5elJtR0xzSk1RTERxYXVZNDdIaE1rTmJGeWdoNWVoRHJORENlZFZjSEZVR3M1UlRrN2Jtbnp3Z3FRemtsZHhXR09lNV9FRmNOeWdJWWdsUWk0RTAxUW5xT3YxLU5TWHVR?oc=5
+
+### Meta - Meta AI Data Center Linked To Rare Bacteria In City’s Water System
+Source: Major External News - Meta
+Publisher: Yahoo
 Published: Jul 9, 2026
 Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMimAFBVV95cUxOek53NU4yV1FxR1NVcFpxamlYSG9XMHpwYlYxbV9ydks0YXNmUk5iSnB6N09PNlg2R2tnS3diZUZ2WVZuZmNkLVhVUGtnTFljTUVOY19XaUFqS2hrU0tRanRpQl9lYnBPZXZ1UmRWSUU0bXVOVWhRRVFnUHVyYXBPX0VrSHZiSUNkZGp4WnBZdzZJQk9sYjFyNQ?oc=5
-
-## Critical Official Updates
-
-### OpenAI - ChatGPT is now a partner for your most ambitious work
-Source: OpenAI Newsroom
-Published: Jul 9, 2026
-Why it matters: Corporate move or major external event
-Summary: ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.
-Link: https://openai.com/index/chatgpt-for-your-most-ambitious-work
+Link: https://news.google.com/rss/articles/CBMihwFBVV95cUxOVUZiUUMwcERBT1U2NHBsaHl4V3MxTDg1azBJQTlPeF85TURqcUwxY2VPSVYxbGJURWRpNTY3NlpHOW9Qd21iakRpODZydmU0VU5tVmdrY1I3RHUxTUhjSVVhZDRRUFRGcDcxREl6X1pYejVobWU4Q1VQQnUwQXJPOFFyQ3RSck0?oc=5
 
 ## Important Official Updates
 
-### Anthropic - Ben Bernanke appointed to Anthropic’s Long-Term Benefit Trust
-Source: Anthropic News
-Published: Jul 8, 2026
-Why it matters: Safety, security, or policy update
-Link: https://www.anthropic.com/news/ben-bernanke
-
-### Anthropic - Case Study UST is bringing Claude to physical AI
-Source: Anthropic News
-Published: Jul 8, 2026
-Why it matters: Technical or research update
-Link: https://www.anthropic.com/news/ust-claude
-
-## Official Company Updates
-
-### OpenAI - How Deutsche Telekom is rewiring telecommunications with AI
-Source: OpenAI Newsroom
+### Google - Here’s how to make study notebooks in the Gemini app.
+Source: Google AI
 Published: Jul 10, 2026
-Why it matters: Routine official update
-Summary: How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.
-Link: https://openai.com/index/deutsche-telekom
+Why it matters: Technical or research update
+Summary: Studying for a test, but not sure where to start? Study notebooks, a new feature in the Gemini app, can help you get organized and learn more efficiently.Think of study …
+Link: https://blog.google/innovation-and-ai/products/gemini-app/how-to-make-gemini-study-notebooks

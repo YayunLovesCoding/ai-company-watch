@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T16:26:33.111Z",
+  "generatedAt": "2026-07-11T14:57:44.354Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -78,25 +78,25 @@
   "totals": {
     "fetched": 41,
     "deduped": 24,
-    "new": 10,
+    "new": 9,
     "byKind": {
-      "official": 12,
-      "external": 12
+      "official": 11,
+      "external": 13
     }
   },
   "items": [
     {
-      "id": "ad638858c9bf5c07b484801162a2c1e08217cdc8",
-      "company": "Microsoft",
+      "id": "0b01b32d7c7abad6ba91ee3a2bd8c184c05504b7",
+      "company": "OpenAI",
       "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTlVVamRhMlRQTkZfay1xazhHdDJKdWd1cFJNbGl4N2JPb1d1X0dDX3FvcmlEYVBPYU4zZHJjUmhjTi1CUWNIUXI5Z0NMOVRHNGZzRXR1NFg2WkFIaFNHQXdFSVhZb1RGa0Ixaml3bnpzMXFfRmpOY3BPS3RYaTVUdXVPN0lqdVB3OTdGVlE0czhMUlR6VHVQendHQ3I4N1E?oc=5",
-      "title": "Can Chevron's Microsoft Partnership Power the Next Leg of Growth?",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQODNobDNCbmdoNkJfQldXUEVZdm9XQkVISmhDaEF1QVBtNlUtSE1TNFBYM21HTU9sYm1feENtLUN1d1BVb1dBVE5iY0wyWEw0Y1N5Sm01bnphWm4wVEtHbmE4SVlZODV1VEQ0Slhiam82U25FeXlqRVdyVExvVkVJUGdXY1BlRkthWjdaRFBqb1dXdy1FZGFOUjcyaHBxRjVWbkk4OG5WS215N294d0dWag?oc=5",
+      "title": "Apple sues OpenAI, alleging the AI company stole trade secrets",
       "summary": "",
-      "publishedAt": "2026-07-10T13:28:00.000Z",
-      "publisher": "Yahoo Finance",
+      "publishedAt": "2026-07-11T05:33:46.000Z",
+      "publisher": "The Washington Post",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -105,16 +105,54 @@
       }
     },
     {
-      "id": "b5fba96a930b7636d56fc81ec162deede9094c67",
+      "id": "6e5b37f7319d43c4184df3148cd780c11b76a541",
       "company": "OpenAI",
       "sourceKind": "external",
       "sourceId": "external-openai-major",
       "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWFl2Vkp6eWRIWThNRVIyQlZpRnZaNjZuSUUwYVE3dm1qbmtLSHFJaVBORGpRVmhKbmlBbHZkYTcydEEtTzd2UGJmNFBVNzZQeWNGbHhEU1U4VmdlOEpMWXJnUVQ5MUpZalVBX0E5MGJpQjFQaVk1Si11cTJ5TDF6MFJRdkFUME92Q1k3NWl1ZmppR1RHcnBYcjM0bGlYekthaUdv?oc=5",
-      "title": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBKUzJZN0pQMUl5TnQwdjdMWVJfM3lWVmhOdHhoTlY5RldFcENVRnNOR0N1Q3NrVU9qTzZkZXJGWGtnenY4UWN4WXBZdm1JVjF6OW5PXzV1cGhZUmhYdHdjWFNLT0dOOHpEMTY0RG5HTmxjYzdEaHAza3I4VQ?oc=5",
+      "title": "Apple Sues OpenAI, Accusing It of Stealing Company Secrets",
       "summary": "",
-      "publishedAt": "2026-07-09T19:05:58.000Z",
+      "publishedAt": "2026-07-10T23:23:26.000Z",
+      "publisher": "The New York Times",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "a77ae5a02d887a0931d0ac3e089093a3d77deca6",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPazIwSGJBbjBLYU41dlRnOWhQUFh2TlgzNG5ubjBYRHZTWmFQTGhHTEJyZ1E3b1hOQm4xQ2lKY0RhZGw2QkVXamhpVUJaQTRwRmV1SWlKMUV3aGppdTlvQ2FYM2E0VGMzWFVlQWNoN3loMkdkVDdHQUtnMmRUclhoREpsUzJuU2lBSTB2eQ?oc=5",
+      "title": "Apple accuses OpenAI, and former design star Jony Ive's io Products firm, of stealing hardware trade secrets in blockbuster lawsuit",
+      "summary": "",
+      "publishedAt": "2026-07-10T23:19:00.000Z",
+      "publisher": "Fortune",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "2b93d51f701f325b6b3266c1bae8d201f1dc75e8",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQnJ5WDNjOE8tSEpKRDJsQnhMcmVLWmRIWjBzRFNGY0x3RTZ6cmwtN09rOXNJdi1TZWIwSzhhaURJSzFaVW9FSlFTRTVPa283UkcxMUFUaUx5NERrX2ljXzkzMzcwajBUeDNpN0FHZDhhOGVTcTlIWFlZWEpQMmUzdk1BTkJBdElhM3BHSw?oc=5",
+      "title": "Apple sues OpenAI over alleged trade secret theft",
+      "summary": "",
+      "publishedAt": "2026-07-10T21:00:29.000Z",
       "publisher": "TechCrunch",
       "discoveryMethod": "feed",
       "classification": {
@@ -124,36 +162,17 @@
       }
     },
     {
-      "id": "e58bcee2f9f2b1206be70704cf285bb972cdcf70",
-      "company": "OpenAI",
+      "id": "154dd0ad1a3929c3393521c1df4531a5005e0581",
+      "company": "Microsoft",
       "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWTYxWTEzRzVsSVY1VG80RTRVNUpwekZUV1lkajUzMjYxZVNRb2RkR3NwX3E3Y04yQ2ZaRGtSMkNsMkJGenJnTmRjcUhmNFJnT05kZXJrTVIxX3V1MFpUN29WU1RPTHlxX3djazJ2MS02YmFzZXRNM01FTzJ0cE03dU5GVUFIS2o2eTF1X0tvcDBLSG56NktwTUFDbjV1ZW5mODdmQ0xtcHJfU0ljLW02ZFRaLTZNdVlfV094cW9DOHhpQXM?oc=5",
-      "title": "New York Times-led group asks court to sanction OpenAI in US copyright dispute",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBpcDUyVExvZXpnZHVBTGZscmFmNmRxTUIweDFGMWZrcC1fX2RZRDkxdWhPMUt4TzBfY2c2WHJkdE81TnAxMHdYZE1talZyUjRDcmlwQi1XOVo2eUhNWS1fRnRnUTFDYTR2XzNIdTlaMG5femxXc09DeFlZRdIBgAFBVV95cUxNU2tvbmxiaW9qb2UyLV9STno5WDR3SzhjV0VTSjFSVTQxaEVxbHN0RUdwTnJieXhCZVZTYkFHdlR2ZVE4MExwblB2amJwZEIxY3hNMnFjYThtTUhwaW9rRHZ1VlpDajVHbExyT0lWNGxxYndIMTBMcGMxTUdVN2g1cw?oc=5",
+      "title": "Apple sues OpenAI alleging trade secret theft, says scheme was 'at every level'",
       "summary": "",
-      "publishedAt": "2026-07-09T17:56:15.000Z",
-      "publisher": "Reuters",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "e1620d32498441a060f29ceab1f02cce230ccb3f",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9OTml2eXZ6QXlTUUpBaW81VmtxcmJaa2h4blBYMVJZeTdISU4xYjA5N3VrLS01eEZlMk5hUmxoaHZVam1lN0xiSmJsWUtISUVrQzVqLTVhRFdaTG9MbEZJaHl3aUdhVGJfUUxKNWxWaTUxT05NRmRkWnhMcEs?oc=5",
-      "title": "New York Times and Other Publishers Ask Court to Penalize OpenAI - The New York Times",
-      "summary": "",
-      "publishedAt": "2026-07-09T14:40:32.000Z",
-      "publisher": "The New York Times",
+      "publishedAt": "2026-07-10T20:30:47.000Z",
+      "publisher": "CNBC",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -176,46 +195,46 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 6,
+        "score": 5,
         "reason": "Corporate move or major external event"
       }
     },
     {
-      "id": "01b6582503fbb5554b890a9fa63a241d082b7fdf",
-      "company": "Anthropic",
+      "id": "666e92e57b2313e86df0fb17fdf9d5e9809147f3",
+      "company": "OpenAI",
       "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQVk3VEVROTZsS2o3NFctbVNfUC05MWhHMjg2amFfYmZDeGJRZFpWZ1hvaE1QSWpLdXhadm0tZk83bmg4b0ZIMjdIS00wbHcxOF9uQ3hMQlpicWRzTk5XUkhZRjBacDZMM1dZemgwaWVKU2hPYUs1WDNlRmNjbjdIUzVPbi16aVFmNXdmeXJZbGdVOTdEREhjUy1oLUpHM3NQV0lDSVRuVWc?oc=5",
-      "title": "China Says It Has Found Security Vulnerabilities in Anthropic’s Claude Code",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTUNBRWVvZUJ4SmxVdkZ4cWxETUhLTWZwOG85emNkSW1Mc3Rjc00wTjNSbFlCTW42RGt3bEotSXAtQTZVQ1YwaGQ1Q2xUQUl4T3p1ejhRRDlfaGptcEVSTkd1OUEycDdkYVktUlNTTUNHVWRkQmRyV0FEaUdIM0NQZWxZdm5ZY2UyWlZ3V2IteURYbmVV?oc=5",
+      "title": "HP (HPQ) Looks Fully Valued On OpenAI Deal And Earnings Beat",
       "summary": "",
-      "publishedAt": "2026-07-09T02:54:00.000Z",
+      "publishedAt": "2026-07-11T05:15:25.000Z",
       "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Safety, security, or policy update"
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
       }
     },
     {
-      "id": "d7ccf9cc0fa27a1d720ba1729fb0d259829d7fa5",
-      "company": "Anthropic",
-      "sourceKind": "official",
-      "sourceId": "anthropic-news",
-      "sourceLabel": "Anthropic News",
-      "homepageUrl": "https://www.anthropic.com/news",
-      "url": "https://www.anthropic.com/news/reflect-with-claude",
-      "title": "Introducing a way to reflect on how you use Claude",
+      "id": "5959e81f6088bbcbe2ec94c3cb72dca0989e70fa",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSElyYzRBckhFMFRnSWZrU0dtY3A4TFB3aGdGSnFRQldybzNrendhQm9oSDJpWFo1TTJOcmltcy0tM0JiSUtuWFNXSVBDdmNaLTZmdFIwel83TnQzbWFKbU1kY2tRa0MxdkVoOVNZTTlKYVExM1l5elJtR0xzSk1RTERxYXVZNDdIaE1rTmJGeWdoNWVoRHJORENlZFZjSEZVR3M1UlRrN2Jtbnp3Z3FRemtsZHhXR09lNV9FRmNOeWdJWWdsUWk0RTAxUW5xT3YxLU5TWHVR?oc=5",
+      "title": "Meta stock turns positive on the year on data center plans, new AI model pricing",
       "summary": "",
-      "publishedAt": "2026-07-09T00:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "anchor",
+      "publishedAt": "2026-07-10T17:41:20.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
       "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Flagship model or product launch"
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
       }
     },
     {
@@ -257,17 +276,17 @@
       }
     },
     {
-      "id": "b41bee5a952f27fb06b626c3da0ad919a146cbf2",
-      "company": "OpenAI",
+      "id": "4db7b4edb1d9169ecd9dbfc2dfcc79d895bb2065",
+      "company": "Meta",
       "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTzZ2YUZyWC1oZ1BpSi14RHVwNFZrMFVncTIySTRNRTVyWjdrOTJWaTJCaXlDTXVEODJZM0JVY2JmcmRxSUNFcXlXSlE0SjRsVGp5cXBNNWVSVE1oT0VMa0RlcDJYYllIYUNaTkY1Qkk5YWhtY2Z4SG9PbzFtM2k3SVljSklWR2F6QUNKbWdhdlZmNzlNdnlJ?oc=5",
-      "title": "OpenAI's AGI deployment chief Fidji Simo to step down after medical leave",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVUZiUUMwcERBT1U2NHBsaHl4V3MxTDg1azBJQTlPeF85TURqcUwxY2VPSVYxbGJURWRpNTY3NlpHOW9Qd21iakRpODZydmU0VU5tVmdrY1I3RHUxTUhjSVVhZDRRUFRGcDcxREl6X1pYejVobWU4Q1VQQnUwQXJPOFFyQ3RSck0?oc=5",
+      "title": "Meta AI Data Center Linked To Rare Bacteria In City’s Water System",
       "summary": "",
-      "publishedAt": "2026-07-09T23:23:00.000Z",
-      "publisher": "Reuters",
+      "publishedAt": "2026-07-09T20:45:10.000Z",
+      "publisher": "Yahoo",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -276,41 +295,22 @@
       }
     },
     {
-      "id": "0d82f97b7039119860f4d6f178c70c2fe2fc64a2",
-      "company": "Meta",
+      "id": "01b6582503fbb5554b890a9fa63a241d082b7fdf",
+      "company": "Anthropic",
       "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9hMGh2VkVBa2tjY1ZnTXVtWUk3R2ttMkg2dkpoRnNEbkVXY2s3RjZVOThaZDJQSGxVWHhENjRxcXJabHhDbkRlQjVrSVFqcTRNU0tiQXdDVEstR0NReF9UMHdtOWJRTkF1dWZSUnBOMDFTeXd2MGJWRFQ3TQ?oc=5",
-      "title": "Meta’s Bacterial Mystery Could Poison the Data Center Well",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQVk3VEVROTZsS2o3NFctbVNfUC05MWhHMjg2amFfYmZDeGJRZFpWZ1hvaE1QSWpLdXhadm0tZk83bmg4b0ZIMjdIS00wbHcxOF9uQ3hMQlpicWRzTk5XUkhZRjBacDZMM1dZemgwaWVKU2hPYUs1WDNlRmNjbjdIUzVPbi16aVFmNXdmeXJZbGdVOTdEREhjUy1oLUpHM3NQV0lDSVRuVWc?oc=5",
+      "title": "China Says It Has Found Security Vulnerabilities in Anthropic’s Claude Code",
       "summary": "",
-      "publishedAt": "2026-07-09T20:17:21.000Z",
-      "publisher": "Heatmap News",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "932268790835b29b7d1431ac8a2678621f934ccd",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOek53NU4yV1FxR1NVcFpxamlYSG9XMHpwYlYxbV9ydks0YXNmUk5iSnB6N09PNlg2R2tnS3diZUZ2WVZuZmNkLVhVUGtnTFljTUVOY19XaUFqS2hrU0tRanRpQl9lYnBPZXZ1UmRWSUU0bXVOVWhRRVFnUHVyYXBPX0VrSHZiSUNkZGp4WnBZdzZJQk9sYjFyNQ?oc=5",
-      "title": "Meta breaks ground on first data center in Canada",
-      "summary": "",
-      "publishedAt": "2026-07-09T19:09:37.000Z",
+      "publishedAt": "2026-07-09T02:54:00.000Z",
       "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
         "score": 4,
-        "reason": "Trusted external coverage"
+        "reason": "Safety, security, or policy update"
       }
     },
     {
@@ -333,14 +333,14 @@
       }
     },
     {
-      "id": "d015b138db17e42a452ed0cda3445385ab2ff4e7",
+      "id": "d7ccf9cc0fa27a1d720ba1729fb0d259829d7fa5",
       "company": "Anthropic",
       "sourceKind": "official",
       "sourceId": "anthropic-news",
       "sourceLabel": "Anthropic News",
       "homepageUrl": "https://www.anthropic.com/news",
-      "url": "https://www.anthropic.com/news/ben-bernanke",
-      "title": "Ben Bernanke appointed to Anthropic’s Long-Term Benefit Trust",
+      "url": "https://www.anthropic.com/news/reflect-with-claude",
+      "title": "Introducing a way to reflect on how you use Claude",
       "summary": "",
       "publishedAt": "2026-07-09T00:00:00.000Z",
       "publisher": "",
@@ -348,7 +348,7 @@
       "classification": {
         "bucket": "important",
         "score": 4,
-        "reason": "Safety, security, or policy update"
+        "reason": "Flagship model or product launch"
       }
     },
     {
@@ -428,6 +428,25 @@
       }
     },
     {
+      "id": "5638f482edc272d2d13d594541aef48cc0584a3d",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/how-to-make-gemini-study-notebooks",
+      "title": "Here’s how to make study notebooks in the Gemini app.",
+      "summary": "Studying for a test, but not sure where to start? Study notebooks, a new feature in the Gemini app, can help you get organized and learn more efficiently.Think of study …",
+      "publishedAt": "2026-07-10T16:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Technical or research update"
+      }
+    },
+    {
       "id": "c9a7e41ab8861d9062fc761bf2292940254df633",
       "company": "Google",
       "sourceKind": "official",
@@ -447,14 +466,14 @@
       }
     },
     {
-      "id": "8fd51b42b5858cea93164ba1648dd04466d61e5d",
+      "id": "d015b138db17e42a452ed0cda3445385ab2ff4e7",
       "company": "Anthropic",
       "sourceKind": "official",
       "sourceId": "anthropic-news",
       "sourceLabel": "Anthropic News",
       "homepageUrl": "https://www.anthropic.com/news",
-      "url": "https://www.anthropic.com/news/ust-claude",
-      "title": "Case Study UST is bringing Claude to physical AI",
+      "url": "https://www.anthropic.com/news/ben-bernanke",
+      "title": "Ben Bernanke appointed to Anthropic’s Long-Term Benefit Trust",
       "summary": "",
       "publishedAt": "2026-07-09T00:00:00.000Z",
       "publisher": "",
@@ -462,26 +481,7 @@
       "classification": {
         "bucket": "important",
         "score": 3,
-        "reason": "Technical or research update"
-      }
-    },
-    {
-      "id": "74dc15720d8377edbe420befae12eee40cc7e14a",
-      "company": "Meta",
-      "sourceKind": "official",
-      "sourceId": "meta-newsroom",
-      "sourceLabel": "Meta Newsroom",
-      "homepageUrl": "https://about.fb.com/news/",
-      "url": "https://about.fb.com/news/2026/07/breaking-ground-on-metas-first-data-center-in-canada",
-      "title": "Breaking Ground on Meta’s First Data Center in Canada",
-      "summary": "We’re breaking ground on a new 1GW, AI-optimized data center in Sturgeon County, Alberta — our first data center in Canada and 33rd in our global fleet. The post Breaking Ground on Meta’s First Data Center in Canada",
-      "publishedAt": "2026-07-08T19:30:30.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Technical or research update"
+        "reason": "Safety, security, or policy update"
       }
     },
     {
@@ -544,17 +544,17 @@
   ],
   "newItems": [
     {
-      "id": "ad638858c9bf5c07b484801162a2c1e08217cdc8",
-      "company": "Microsoft",
+      "id": "0b01b32d7c7abad6ba91ee3a2bd8c184c05504b7",
+      "company": "OpenAI",
       "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTlVVamRhMlRQTkZfay1xazhHdDJKdWd1cFJNbGl4N2JPb1d1X0dDX3FvcmlEYVBPYU4zZHJjUmhjTi1CUWNIUXI5Z0NMOVRHNGZzRXR1NFg2WkFIaFNHQXdFSVhZb1RGa0Ixaml3bnpzMXFfRmpOY3BPS3RYaTVUdXVPN0lqdVB3OTdGVlE0czhMUlR6VHVQendHQ3I4N1E?oc=5",
-      "title": "Can Chevron's Microsoft Partnership Power the Next Leg of Growth?",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQODNobDNCbmdoNkJfQldXUEVZdm9XQkVISmhDaEF1QVBtNlUtSE1TNFBYM21HTU9sYm1feENtLUN1d1BVb1dBVE5iY0wyWEw0Y1N5Sm01bnphWm4wVEtHbmE4SVlZODV1VEQ0Slhiam82U25FeXlqRVdyVExvVkVJUGdXY1BlRkthWjdaRFBqb1dXdy1FZGFOUjcyaHBxRjVWbkk4OG5WS215N294d0dWag?oc=5",
+      "title": "Apple sues OpenAI, alleging the AI company stole trade secrets",
       "summary": "",
-      "publishedAt": "2026-07-10T13:28:00.000Z",
-      "publisher": "Yahoo Finance",
+      "publishedAt": "2026-07-11T05:33:46.000Z",
+      "publisher": "The Washington Post",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -563,16 +563,54 @@
       }
     },
     {
-      "id": "b5fba96a930b7636d56fc81ec162deede9094c67",
+      "id": "6e5b37f7319d43c4184df3148cd780c11b76a541",
       "company": "OpenAI",
       "sourceKind": "external",
       "sourceId": "external-openai-major",
       "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWFl2Vkp6eWRIWThNRVIyQlZpRnZaNjZuSUUwYVE3dm1qbmtLSHFJaVBORGpRVmhKbmlBbHZkYTcydEEtTzd2UGJmNFBVNzZQeWNGbHhEU1U4VmdlOEpMWXJnUVQ5MUpZalVBX0E5MGJpQjFQaVk1Si11cTJ5TDF6MFJRdkFUME92Q1k3NWl1ZmppR1RHcnBYcjM0bGlYekthaUdv?oc=5",
-      "title": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBKUzJZN0pQMUl5TnQwdjdMWVJfM3lWVmhOdHhoTlY5RldFcENVRnNOR0N1Q3NrVU9qTzZkZXJGWGtnenY4UWN4WXBZdm1JVjF6OW5PXzV1cGhZUmhYdHdjWFNLT0dOOHpEMTY0RG5HTmxjYzdEaHAza3I4VQ?oc=5",
+      "title": "Apple Sues OpenAI, Accusing It of Stealing Company Secrets",
       "summary": "",
-      "publishedAt": "2026-07-09T19:05:58.000Z",
+      "publishedAt": "2026-07-10T23:23:26.000Z",
+      "publisher": "The New York Times",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "a77ae5a02d887a0931d0ac3e089093a3d77deca6",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPazIwSGJBbjBLYU41dlRnOWhQUFh2TlgzNG5ubjBYRHZTWmFQTGhHTEJyZ1E3b1hOQm4xQ2lKY0RhZGw2QkVXamhpVUJaQTRwRmV1SWlKMUV3aGppdTlvQ2FYM2E0VGMzWFVlQWNoN3loMkdkVDdHQUtnMmRUclhoREpsUzJuU2lBSTB2eQ?oc=5",
+      "title": "Apple accuses OpenAI, and former design star Jony Ive's io Products firm, of stealing hardware trade secrets in blockbuster lawsuit",
+      "summary": "",
+      "publishedAt": "2026-07-10T23:19:00.000Z",
+      "publisher": "Fortune",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "2b93d51f701f325b6b3266c1bae8d201f1dc75e8",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQnJ5WDNjOE8tSEpKRDJsQnhMcmVLWmRIWjBzRFNGY0x3RTZ6cmwtN09rOXNJdi1TZWIwSzhhaURJSzFaVW9FSlFTRTVPa283UkcxMUFUaUx5NERrX2ljXzkzMzcwajBUeDNpN0FHZDhhOGVTcTlIWFlZWEpQMmUzdk1BTkJBdElhM3BHSw?oc=5",
+      "title": "Apple sues OpenAI over alleged trade secret theft",
+      "summary": "",
+      "publishedAt": "2026-07-10T21:00:29.000Z",
       "publisher": "TechCrunch",
       "discoveryMethod": "feed",
       "classification": {
@@ -582,92 +620,35 @@
       }
     },
     {
-      "id": "5941cef110c0f46967cf712c0f80d655dc0997fb",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
-      "title": "ChatGPT is now a partner for your most ambitious work",
-      "summary": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
-      "publishedAt": "2026-07-09T10:00:00.000Z",
-      "publisher": "",
+      "id": "154dd0ad1a3929c3393521c1df4531a5005e0581",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBpcDUyVExvZXpnZHVBTGZscmFmNmRxTUIweDFGMWZrcC1fX2RZRDkxdWhPMUt4TzBfY2c2WHJkdE81TnAxMHdYZE1talZyUjRDcmlwQi1XOVo2eUhNWS1fRnRnUTFDYTR2XzNIdTlaMG5femxXc09DeFlZRdIBgAFBVV95cUxNU2tvbmxiaW9qb2UyLV9STno5WDR3SzhjV0VTSjFSVTQxaEVxbHN0RUdwTnJieXhCZVZTYkFHdlR2ZVE4MExwblB2amJwZEIxY3hNMnFjYThtTUhwaW9rRHZ1VlpDajVHbExyT0lWNGxxYndIMTBMcGMxTUdVN2g1cw?oc=5",
+      "title": "Apple sues OpenAI alleging trade secret theft, says scheme was 'at every level'",
+      "summary": "",
+      "publishedAt": "2026-07-10T20:30:47.000Z",
+      "publisher": "CNBC",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 6,
+        "score": 7,
         "reason": "Corporate move or major external event"
       }
     },
     {
-      "id": "b41afb6b35101a423afd316e4fefd07f59601521",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZEo4ZUN4cndybllkVzg0WGVmYVRON0pXWG4wX0xSYkpkTm1zMzNiS3AyVDViQlFDMzgzOS15RjE0Mkt0ZmxFV01UX3padE45R0NXdDJyWTZqanQ3NFQwWFozcTVGU00wTzVRYUNiMkRvQXNOS01TaXFoMkdrVG9wanV1U1dqRnJVM1JuVV9uTnF3UjJSSko4VmtCNkdLLTI1QlgwdW5WU01TeWd5UU1HWmRZUi1BbnNfNjVzSERXMXFzOThZV2tJY3R5VjNFUE9fSFJaNzRn?oc=5",
-      "title": "Wyoming officials: Meta's 715,000-square-foot data center responsible for water system contamination",
-      "summary": "",
-      "publishedAt": "2026-07-10T14:53:00.000Z",
-      "publisher": "Fortune",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "b41bee5a952f27fb06b626c3da0ad919a146cbf2",
+      "id": "666e92e57b2313e86df0fb17fdf9d5e9809147f3",
       "company": "OpenAI",
       "sourceKind": "external",
       "sourceId": "external-openai-major",
       "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTzZ2YUZyWC1oZ1BpSi14RHVwNFZrMFVncTIySTRNRTVyWjdrOTJWaTJCaXlDTXVEODJZM0JVY2JmcmRxSUNFcXlXSlE0SjRsVGp5cXBNNWVSVE1oT0VMa0RlcDJYYllIYUNaTkY1Qkk5YWhtY2Z4SG9PbzFtM2k3SVljSklWR2F6QUNKbWdhdlZmNzlNdnlJ?oc=5",
-      "title": "OpenAI's AGI deployment chief Fidji Simo to step down after medical leave",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTUNBRWVvZUJ4SmxVdkZ4cWxETUhLTWZwOG85emNkSW1Mc3Rjc00wTjNSbFlCTW42RGt3bEotSXAtQTZVQ1YwaGQ1Q2xUQUl4T3p1ejhRRDlfaGptcEVSTkd1OUEycDdkYVktUlNTTUNHVWRkQmRyV0FEaUdIM0NQZWxZdm5ZY2UyWlZ3V2IteURYbmVV?oc=5",
+      "title": "HP (HPQ) Looks Fully Valued On OpenAI Deal And Earnings Beat",
       "summary": "",
-      "publishedAt": "2026-07-09T23:23:00.000Z",
-      "publisher": "Reuters",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "0d82f97b7039119860f4d6f178c70c2fe2fc64a2",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9hMGh2VkVBa2tjY1ZnTXVtWUk3R2ttMkg2dkpoRnNEbkVXY2s3RjZVOThaZDJQSGxVWHhENjRxcXJabHhDbkRlQjVrSVFqcTRNU0tiQXdDVEstR0NReF9UMHdtOWJRTkF1dWZSUnBOMDFTeXd2MGJWRFQ3TQ?oc=5",
-      "title": "Meta’s Bacterial Mystery Could Poison the Data Center Well",
-      "summary": "",
-      "publishedAt": "2026-07-09T20:17:21.000Z",
-      "publisher": "Heatmap News",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "932268790835b29b7d1431ac8a2678621f934ccd",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOek53NU4yV1FxR1NVcFpxamlYSG9XMHpwYlYxbV9ydks0YXNmUk5iSnB6N09PNlg2R2tnS3diZUZ2WVZuZmNkLVhVUGtnTFljTUVOY19XaUFqS2hrU0tRanRpQl9lYnBPZXZ1UmRWSUU0bXVOVWhRRVFnUHVyYXBPX0VrSHZiSUNkZGp4WnBZdzZJQk9sYjFyNQ?oc=5",
-      "title": "Meta breaks ground on first data center in Canada",
-      "summary": "",
-      "publishedAt": "2026-07-09T19:09:37.000Z",
+      "publishedAt": "2026-07-11T05:15:25.000Z",
       "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
@@ -677,60 +658,60 @@
       }
     },
     {
-      "id": "d015b138db17e42a452ed0cda3445385ab2ff4e7",
-      "company": "Anthropic",
-      "sourceKind": "official",
-      "sourceId": "anthropic-news",
-      "sourceLabel": "Anthropic News",
-      "homepageUrl": "https://www.anthropic.com/news",
-      "url": "https://www.anthropic.com/news/ben-bernanke",
-      "title": "Ben Bernanke appointed to Anthropic’s Long-Term Benefit Trust",
+      "id": "5959e81f6088bbcbe2ec94c3cb72dca0989e70fa",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSElyYzRBckhFMFRnSWZrU0dtY3A4TFB3aGdGSnFRQldybzNrendhQm9oSDJpWFo1TTJOcmltcy0tM0JiSUtuWFNXSVBDdmNaLTZmdFIwel83TnQzbWFKbU1kY2tRa0MxdkVoOVNZTTlKYVExM1l5elJtR0xzSk1RTERxYXVZNDdIaE1rTmJGeWdoNWVoRHJORENlZFZjSEZVR3M1UlRrN2Jtbnp3Z3FRemtsZHhXR09lNV9FRmNOeWdJWWdsUWk0RTAxUW5xT3YxLU5TWHVR?oc=5",
+      "title": "Meta stock turns positive on the year on data center plans, new AI model pricing",
       "summary": "",
-      "publishedAt": "2026-07-09T00:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "anchor",
+      "publishedAt": "2026-07-10T17:41:20.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
         "score": 4,
-        "reason": "Safety, security, or policy update"
+        "reason": "Trusted external coverage"
       }
     },
     {
-      "id": "8fd51b42b5858cea93164ba1648dd04466d61e5d",
-      "company": "Anthropic",
-      "sourceKind": "official",
-      "sourceId": "anthropic-news",
-      "sourceLabel": "Anthropic News",
-      "homepageUrl": "https://www.anthropic.com/news",
-      "url": "https://www.anthropic.com/news/ust-claude",
-      "title": "Case Study UST is bringing Claude to physical AI",
+      "id": "4db7b4edb1d9169ecd9dbfc2dfcc79d895bb2065",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVUZiUUMwcERBT1U2NHBsaHl4V3MxTDg1azBJQTlPeF85TURqcUwxY2VPSVYxbGJURWRpNTY3NlpHOW9Qd21iakRpODZydmU0VU5tVmdrY1I3RHUxTUhjSVVhZDRRUFRGcDcxREl6X1pYejVobWU4Q1VQQnUwQXJPOFFyQ3RSck0?oc=5",
+      "title": "Meta AI Data Center Linked To Rare Bacteria In City’s Water System",
       "summary": "",
-      "publishedAt": "2026-07-09T00:00:00.000Z",
+      "publishedAt": "2026-07-09T20:45:10.000Z",
+      "publisher": "Yahoo",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "5638f482edc272d2d13d594541aef48cc0584a3d",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/how-to-make-gemini-study-notebooks",
+      "title": "Here’s how to make study notebooks in the Gemini app.",
+      "summary": "Studying for a test, but not sure where to start? Study notebooks, a new feature in the Gemini app, can help you get organized and learn more efficiently.Think of study …",
+      "publishedAt": "2026-07-10T16:00:00.000Z",
       "publisher": "",
-      "discoveryMethod": "anchor",
+      "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
         "score": 3,
         "reason": "Technical or research update"
-      }
-    },
-    {
-      "id": "027b05f9d0faae1802b4fa5b66f6923575c8d694",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/deutsche-telekom",
-      "title": "How Deutsche Telekom is rewiring telecommunications with AI",
-      "summary": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
-      "publishedAt": "2026-07-10T07:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
       }
     }
   ],
