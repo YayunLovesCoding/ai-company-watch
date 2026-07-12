@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11T14:57:44.354Z",
+  "generatedAt": "2026-07-12T14:59:57.407Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -78,10 +78,10 @@
   "totals": {
     "fetched": 41,
     "deduped": 24,
-    "new": 9,
+    "new": 1,
     "byKind": {
-      "official": 11,
-      "external": 13
+      "official": 10,
+      "external": 14
     }
   },
   "items": [
@@ -97,25 +97,6 @@
       "summary": "",
       "publishedAt": "2026-07-11T05:33:46.000Z",
       "publisher": "The Washington Post",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "6e5b37f7319d43c4184df3148cd780c11b76a541",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBKUzJZN0pQMUl5TnQwdjdMWVJfM3lWVmhOdHhoTlY5RldFcENVRnNOR0N1Q3NrVU9qTzZkZXJGWGtnenY4UWN4WXBZdm1JVjF6OW5PXzV1cGhZUmhYdHdjWFNLT0dOOHpEMTY0RG5HTmxjYzdEaHAza3I4VQ?oc=5",
-      "title": "Apple Sues OpenAI, Accusing It of Stealing Company Secrets",
-      "summary": "",
-      "publishedAt": "2026-07-10T23:23:26.000Z",
-      "publisher": "The New York Times",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -143,6 +124,44 @@
       }
     },
     {
+      "id": "ffb43c140dc581d5a2c4f7ee0e203664670f29f9",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA2ODZ0eGJubUFKeUkxV3hzQ0xNcWtHTkZaZmV4WFR5eG02NlNhbjJBZ3JsTTlSa01OcUVabDd5R0NxNHhVX2pKaXdsZV93TnJUQ2NCTDVnRE8wUi11QU1jSEY3cGtYUVVvTzNSRmJ5RFl4VEZ0?oc=5",
+      "title": "Apple sues OpenAI",
+      "summary": "",
+      "publishedAt": "2026-07-10T22:57:49.000Z",
+      "publisher": "Yahoo Finance UK",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "6e5b37f7319d43c4184df3148cd780c11b76a541",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBKUzJZN0pQMUl5TnQwdjdMWVJfM3lWVmhOdHhoTlY5RldFcENVRnNOR0N1Q3NrVU9qTzZkZXJGWGtnenY4UWN4WXBZdm1JVjF6OW5PXzV1cGhZUmhYdHdjWFNLT0dOOHpEMTY0RG5HTmxjYzdEaHAza3I4VQ?oc=5",
+      "title": "Apple Sues OpenAI, Accusing It of Stealing Company Secrets",
+      "summary": "",
+      "publishedAt": "2026-07-10T21:08:14.000Z",
+      "publisher": "The New York Times",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
       "id": "2b93d51f701f325b6b3266c1bae8d201f1dc75e8",
       "company": "Microsoft",
       "sourceKind": "external",
@@ -154,25 +173,6 @@
       "summary": "",
       "publishedAt": "2026-07-10T21:00:29.000Z",
       "publisher": "TechCrunch",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "154dd0ad1a3929c3393521c1df4531a5005e0581",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBpcDUyVExvZXpnZHVBTGZscmFmNmRxTUIweDFGMWZrcC1fX2RZRDkxdWhPMUt4TzBfY2c2WHJkdE81TnAxMHdYZE1talZyUjRDcmlwQi1XOVo2eUhNWS1fRnRnUTFDYTR2XzNIdTlaMG5femxXc09DeFlZRdIBgAFBVV95cUxNU2tvbmxiaW9qb2UyLV9STno5WDR3SzhjV0VTSjFSVTQxaEVxbHN0RUdwTnJieXhCZVZTYkFHdlR2ZVE4MExwblB2amJwZEIxY3hNMnFjYThtTUhwaW9rRHZ1VlpDajVHbExyT0lWNGxxYndIMTBMcGMxTUdVN2g1cw?oc=5",
-      "title": "Apple sues OpenAI alleging trade secret theft, says scheme was 'at every level'",
-      "summary": "",
-      "publishedAt": "2026-07-10T20:30:47.000Z",
-      "publisher": "CNBC",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -219,6 +219,25 @@
       }
     },
     {
+      "id": "b41bee5a952f27fb06b626c3da0ad919a146cbf2",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTzZ2YUZyWC1oZ1BpSi14RHVwNFZrMFVncTIySTRNRTVyWjdrOTJWaTJCaXlDTXVEODJZM0JVY2JmcmRxSUNFcXlXSlE0SjRsVGp5cXBNNWVSVE1oT0VMa0RlcDJYYllIYUNaTkY1Qkk5YWhtY2Z4SG9PbzFtM2k3SVljSklWR2F6QUNKbWdhdlZmNzlNdnlJ?oc=5",
+      "title": "OpenAI's AGI deployment chief Fidji Simo to step down after medical leave",
+      "summary": "",
+      "publishedAt": "2026-07-10T22:44:38.000Z",
+      "publisher": "Reuters",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
       "id": "5959e81f6088bbcbe2ec94c3cb72dca0989e70fa",
       "company": "Meta",
       "sourceKind": "external",
@@ -230,63 +249,6 @@
       "summary": "",
       "publishedAt": "2026-07-10T17:41:20.000Z",
       "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "b41afb6b35101a423afd316e4fefd07f59601521",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZEo4ZUN4cndybllkVzg0WGVmYVRON0pXWG4wX0xSYkpkTm1zMzNiS3AyVDViQlFDMzgzOS15RjE0Mkt0ZmxFV01UX3padE45R0NXdDJyWTZqanQ3NFQwWFozcTVGU00wTzVRYUNiMkRvQXNOS01TaXFoMkdrVG9wanV1U1dqRnJVM1JuVV9uTnF3UjJSSko4VmtCNkdLLTI1QlgwdW5WU01TeWd5UU1HWmRZUi1BbnNfNjVzSERXMXFzOThZV2tJY3R5VjNFUE9fSFJaNzRn?oc=5",
-      "title": "Wyoming officials: Meta's 715,000-square-foot data center responsible for water system contamination",
-      "summary": "",
-      "publishedAt": "2026-07-10T14:53:00.000Z",
-      "publisher": "Fortune",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "e75b4f586351930bef2e8e6637dda8725ffc33b7",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQmJUcmlIQzJ4M0Vmd1QxQno5ajZPWnFqRHMtQkNMSzVRMHlnOXBqZDN4cjVuRU1XR3IyajdHekZJRkNpeXA2UjRBaXdiaDlnbkxVa1VXb1hwY3BDMUE1am9uX0o3OUxYTWVkeUMyemFUQ0JkMlVpX1RWSTBLVzI3bC1uaTVGelVXd1pSdEY4RHpreUQySmhOUjZMemVGQ3k4YTREY3VxN3k5alhELVdJa1hGeGYxbUltMV9mVUtHZWM4SmQ1eGNqRkk0RUk?oc=5",
-      "title": "EXCLUSIVE: Meta to put AI chip into production in September as it looks to double computing capacity, memo shows",
-      "summary": "",
-      "publishedAt": "2026-07-09T23:48:25.000Z",
-      "publisher": "Reuters",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "4db7b4edb1d9169ecd9dbfc2dfcc79d895bb2065",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVUZiUUMwcERBT1U2NHBsaHl4V3MxTDg1azBJQTlPeF85TURqcUwxY2VPSVYxbGJURWRpNTY3NlpHOW9Qd21iakRpODZydmU0VU5tVmdrY1I3RHUxTUhjSVVhZDRRUFRGcDcxREl6X1pYejVobWU4Q1VQQnUwQXJPOFFyQ3RSck0?oc=5",
-      "title": "Meta AI Data Center Linked To Rare Bacteria In City’s Water System",
-      "summary": "",
-      "publishedAt": "2026-07-09T20:45:10.000Z",
-      "publisher": "Yahoo",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -409,6 +371,63 @@
       }
     },
     {
+      "id": "b41afb6b35101a423afd316e4fefd07f59601521",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZEo4ZUN4cndybllkVzg0WGVmYVRON0pXWG4wX0xSYkpkTm1zMzNiS3AyVDViQlFDMzgzOS15RjE0Mkt0ZmxFV01UX3padE45R0NXdDJyWTZqanQ3NFQwWFozcTVGU00wTzVRYUNiMkRvQXNOS01TaXFoMkdrVG9wanV1U1dqRnJVM1JuVV9uTnF3UjJSSko4VmtCNkdLLTI1QlgwdW5WU01TeWd5UU1HWmRZUi1BbnNfNjVzSERXMXFzOThZV2tJY3R5VjNFUE9fSFJaNzRn?oc=5",
+      "title": "Wyoming officials: Meta's 715,000-square-foot data center responsible for water system contamination",
+      "summary": "",
+      "publishedAt": "2026-07-10T14:53:00.000Z",
+      "publisher": "Fortune",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "e75b4f586351930bef2e8e6637dda8725ffc33b7",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQmJUcmlIQzJ4M0Vmd1QxQno5ajZPWnFqRHMtQkNMSzVRMHlnOXBqZDN4cjVuRU1XR3IyajdHekZJRkNpeXA2UjRBaXdiaDlnbkxVa1VXb1hwY3BDMUE1am9uX0o3OUxYTWVkeUMyemFUQ0JkMlVpX1RWSTBLVzI3bC1uaTVGelVXd1pSdEY4RHpreUQySmhOUjZMemVGQ3k4YTREY3VxN3k5alhELVdJa1hGeGYxbUltMV9mVUtHZWM4SmQ1eGNqRkk0RUk?oc=5",
+      "title": "EXCLUSIVE: Meta to put AI chip into production in September as it looks to double computing capacity, memo shows",
+      "summary": "",
+      "publishedAt": "2026-07-09T23:48:25.000Z",
+      "publisher": "Reuters",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "0d82f97b7039119860f4d6f178c70c2fe2fc64a2",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9hMGh2VkVBa2tjY1ZnTXVtWUk3R2ttMkg2dkpoRnNEbkVXY2s3RjZVOThaZDJQSGxVWHhENjRxcXJabHhDbkRlQjVrSVFqcTRNU0tiQXdDVEstR0NReF9UMHdtOWJRTkF1dWZSUnBOMDFTeXd2MGJWRFQ3TQ?oc=5",
+      "title": "Meta’s Bacterial Mystery Could Poison the Data Center Well",
+      "summary": "",
+      "publishedAt": "2026-07-09T20:17:21.000Z",
+      "publisher": "Heatmap News",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
       "id": "0a23b2b5a1dad055a39cfb7cf0209c8d9b4a3d7c",
       "company": "Anthropic",
       "sourceKind": "external",
@@ -438,25 +457,6 @@
       "title": "Here’s how to make study notebooks in the Gemini app.",
       "summary": "Studying for a test, but not sure where to start? Study notebooks, a new feature in the Gemini app, can help you get organized and learn more efficiently.Think of study …",
       "publishedAt": "2026-07-10T16:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Technical or research update"
-      }
-    },
-    {
-      "id": "c9a7e41ab8861d9062fc761bf2292940254df633",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/alphaevolve-on-cloud",
-      "title": "We're rolling out AlphaEvolve widely to solve Google Cloud customers' hardest problems.",
-      "summary": "Finding the most efficient algorithm — whether designing a microchip, routing a logistics network or accelerating medical research — can be challenging, with many possib…",
-      "publishedAt": "2026-07-09T16:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -523,195 +523,43 @@
       }
     },
     {
-      "id": "027b05f9d0faae1802b4fa5b66f6923575c8d694",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/deutsche-telekom",
-      "title": "How Deutsche Telekom is rewiring telecommunications with AI",
-      "summary": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
-      "publishedAt": "2026-07-10T07:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    }
-  ],
-  "newItems": [
-    {
-      "id": "0b01b32d7c7abad6ba91ee3a2bd8c184c05504b7",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQODNobDNCbmdoNkJfQldXUEVZdm9XQkVISmhDaEF1QVBtNlUtSE1TNFBYM21HTU9sYm1feENtLUN1d1BVb1dBVE5iY0wyWEw0Y1N5Sm01bnphWm4wVEtHbmE4SVlZODV1VEQ0Slhiam82U25FeXlqRVdyVExvVkVJUGdXY1BlRkthWjdaRFBqb1dXdy1FZGFOUjcyaHBxRjVWbkk4OG5WS215N294d0dWag?oc=5",
-      "title": "Apple sues OpenAI, alleging the AI company stole trade secrets",
-      "summary": "",
-      "publishedAt": "2026-07-11T05:33:46.000Z",
-      "publisher": "The Washington Post",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "6e5b37f7319d43c4184df3148cd780c11b76a541",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBKUzJZN0pQMUl5TnQwdjdMWVJfM3lWVmhOdHhoTlY5RldFcENVRnNOR0N1Q3NrVU9qTzZkZXJGWGtnenY4UWN4WXBZdm1JVjF6OW5PXzV1cGhZUmhYdHdjWFNLT0dOOHpEMTY0RG5HTmxjYzdEaHAza3I4VQ?oc=5",
-      "title": "Apple Sues OpenAI, Accusing It of Stealing Company Secrets",
-      "summary": "",
-      "publishedAt": "2026-07-10T23:23:26.000Z",
-      "publisher": "The New York Times",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "a77ae5a02d887a0931d0ac3e089093a3d77deca6",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPazIwSGJBbjBLYU41dlRnOWhQUFh2TlgzNG5ubjBYRHZTWmFQTGhHTEJyZ1E3b1hOQm4xQ2lKY0RhZGw2QkVXamhpVUJaQTRwRmV1SWlKMUV3aGppdTlvQ2FYM2E0VGMzWFVlQWNoN3loMkdkVDdHQUtnMmRUclhoREpsUzJuU2lBSTB2eQ?oc=5",
-      "title": "Apple accuses OpenAI, and former design star Jony Ive's io Products firm, of stealing hardware trade secrets in blockbuster lawsuit",
-      "summary": "",
-      "publishedAt": "2026-07-10T23:19:00.000Z",
-      "publisher": "Fortune",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "2b93d51f701f325b6b3266c1bae8d201f1dc75e8",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQnJ5WDNjOE8tSEpKRDJsQnhMcmVLWmRIWjBzRFNGY0x3RTZ6cmwtN09rOXNJdi1TZWIwSzhhaURJSzFaVW9FSlFTRTVPa283UkcxMUFUaUx5NERrX2ljXzkzMzcwajBUeDNpN0FHZDhhOGVTcTlIWFlZWEpQMmUzdk1BTkJBdElhM3BHSw?oc=5",
-      "title": "Apple sues OpenAI over alleged trade secret theft",
-      "summary": "",
-      "publishedAt": "2026-07-10T21:00:29.000Z",
-      "publisher": "TechCrunch",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "154dd0ad1a3929c3393521c1df4531a5005e0581",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBpcDUyVExvZXpnZHVBTGZscmFmNmRxTUIweDFGMWZrcC1fX2RZRDkxdWhPMUt4TzBfY2c2WHJkdE81TnAxMHdYZE1talZyUjRDcmlwQi1XOVo2eUhNWS1fRnRnUTFDYTR2XzNIdTlaMG5femxXc09DeFlZRdIBgAFBVV95cUxNU2tvbmxiaW9qb2UyLV9STno5WDR3SzhjV0VTSjFSVTQxaEVxbHN0RUdwTnJieXhCZVZTYkFHdlR2ZVE4MExwblB2amJwZEIxY3hNMnFjYThtTUhwaW9rRHZ1VlpDajVHbExyT0lWNGxxYndIMTBMcGMxTUdVN2g1cw?oc=5",
-      "title": "Apple sues OpenAI alleging trade secret theft, says scheme was 'at every level'",
-      "summary": "",
-      "publishedAt": "2026-07-10T20:30:47.000Z",
-      "publisher": "CNBC",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "666e92e57b2313e86df0fb17fdf9d5e9809147f3",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTUNBRWVvZUJ4SmxVdkZ4cWxETUhLTWZwOG85emNkSW1Mc3Rjc00wTjNSbFlCTW42RGt3bEotSXAtQTZVQ1YwaGQ1Q2xUQUl4T3p1ejhRRDlfaGptcEVSTkd1OUEycDdkYVktUlNTTUNHVWRkQmRyV0FEaUdIM0NQZWxZdm5ZY2UyWlZ3V2IteURYbmVV?oc=5",
-      "title": "HP (HPQ) Looks Fully Valued On OpenAI Deal And Earnings Beat",
-      "summary": "",
-      "publishedAt": "2026-07-11T05:15:25.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "5959e81f6088bbcbe2ec94c3cb72dca0989e70fa",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSElyYzRBckhFMFRnSWZrU0dtY3A4TFB3aGdGSnFRQldybzNrendhQm9oSDJpWFo1TTJOcmltcy0tM0JiSUtuWFNXSVBDdmNaLTZmdFIwel83TnQzbWFKbU1kY2tRa0MxdkVoOVNZTTlKYVExM1l5elJtR0xzSk1RTERxYXVZNDdIaE1rTmJGeWdoNWVoRHJORENlZFZjSEZVR3M1UlRrN2Jtbnp3Z3FRemtsZHhXR09lNV9FRmNOeWdJWWdsUWk0RTAxUW5xT3YxLU5TWHVR?oc=5",
-      "title": "Meta stock turns positive on the year on data center plans, new AI model pricing",
-      "summary": "",
-      "publishedAt": "2026-07-10T17:41:20.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "4db7b4edb1d9169ecd9dbfc2dfcc79d895bb2065",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVUZiUUMwcERBT1U2NHBsaHl4V3MxTDg1azBJQTlPeF85TURqcUwxY2VPSVYxbGJURWRpNTY3NlpHOW9Qd21iakRpODZydmU0VU5tVmdrY1I3RHUxTUhjSVVhZDRRUFRGcDcxREl6X1pYejVobWU4Q1VQQnUwQXJPOFFyQ3RSck0?oc=5",
-      "title": "Meta AI Data Center Linked To Rare Bacteria In City’s Water System",
-      "summary": "",
-      "publishedAt": "2026-07-09T20:45:10.000Z",
-      "publisher": "Yahoo",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "5638f482edc272d2d13d594541aef48cc0584a3d",
+      "id": "c9a7e41ab8861d9062fc761bf2292940254df633",
       "company": "Google",
       "sourceKind": "official",
       "sourceId": "google-ai",
       "sourceLabel": "Google AI",
       "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/how-to-make-gemini-study-notebooks",
-      "title": "Here’s how to make study notebooks in the Gemini app.",
-      "summary": "Studying for a test, but not sure where to start? Study notebooks, a new feature in the Gemini app, can help you get organized and learn more efficiently.Think of study …",
-      "publishedAt": "2026-07-10T16:00:00.000Z",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/alphaevolve-on-cloud",
+      "title": "We're rolling out AlphaEvolve widely to solve Google Cloud customers' hardest problems.",
+      "summary": "Finding the most efficient algorithm — whether designing a microchip, routing a logistics network or accelerating medical research — can be challenging, with many possib…",
+      "publishedAt": "2026-07-09T16:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
-        "bucket": "important",
-        "score": 3,
+        "bucket": "digest",
+        "score": 2,
         "reason": "Technical or research update"
+      }
+    }
+  ],
+  "newItems": [
+    {
+      "id": "ffb43c140dc581d5a2c4f7ee0e203664670f29f9",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA2ODZ0eGJubUFKeUkxV3hzQ0xNcWtHTkZaZmV4WFR5eG02NlNhbjJBZ3JsTTlSa01OcUVabDd5R0NxNHhVX2pKaXdsZV93TnJUQ2NCTDVnRE8wUi11QU1jSEY3cGtYUVVvTzNSRmJ5RFl4VEZ0?oc=5",
+      "title": "Apple sues OpenAI",
+      "summary": "",
+      "publishedAt": "2026-07-10T22:57:49.000Z",
+      "publisher": "Yahoo Finance UK",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
       }
     }
   ],
