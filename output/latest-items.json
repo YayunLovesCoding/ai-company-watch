@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T16:36:58.806Z",
+  "generatedAt": "2026-07-14T15:25:21.769Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -76,45 +76,26 @@
     }
   ],
   "totals": {
-    "fetched": 39,
+    "fetched": 43,
     "deduped": 24,
-    "new": 10,
+    "new": 13,
     "byKind": {
-      "official": 11,
-      "external": 13
+      "official": 9,
+      "external": 15
     }
   },
   "items": [
     {
-      "id": "89735a70d78f5a3c5477804f118b301a62a1e894",
-      "company": "Meta",
+      "id": "0161a96b7da418b810e80955267042cd1bfe4c6f",
+      "company": "Google",
       "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
+      "sourceId": "external-google-major",
+      "sourceLabel": "Major External News - Google",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWFZXdzk4SW1LX2NVOWtFN1Byeld0bG1pRkl3bmpFZ3lFbVlGU082ZnlScENqTkRQazNUakNfeFhmOHo0NnVhMVVpR1pOU2lTZUxDTzRPU21UdkxvbVJBNjZoQWxmaF92MHhCcHVsM3FEXzdRRkhMcUpSUHlfcHFDS0lONWpBa3RmZ2V2My12cUpEakpMRnc?oc=5",
-      "title": "Meta Expands AI Data Center to 5GW, Raises Investment Above $50 Billion",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRmhqd1N1RlV3RnBERVcxdlpaeDVnQnI2WlRiY2ZTRk95ZXhDNVNwbVJMcXljaVBmWWlMZE5YOUNkZC1tNWV2dF94NXFhZzQ4b0pydHYyX1NySjBvbVNkY3BmTXhqNEpmcmhmdzZSLXVONU5ValZHZWd1WEhHam95ZHltaU1uVFhzZmwzamM3UDdSYllkeVZackFDUl9VYTJHYWRDYVJnbExwTGFSVzlDZzV4ak5IZmNxYTlyQzhCRENHcVN4?oc=5",
+      "title": "German media regulator says Google's AI Overviews subject to German media law",
       "summary": "",
-      "publishedAt": "2026-07-13T12:55:00.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "a67a117f0c1845efb2a4c122a6487dda0d94fcef",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQnJpUGtNQXFzaExPZlhub1lVWlM1S01ya3VLVlo1dUlFMzZBcWF5Mm1KdXhPdmg0b0NJMVlseTNlMGRsWksxUnQ4UXFmQWpySGhOWEpiaGk5bHhsSFZ5X1VtRXVCQ0dLTG9FWGNlVDhKT1Z6c1F4TnRKaVNVVGw5dmxLOFdRTm5KdWc4VUM3dGR1LV8yanp2eDlRR2ZHU19ZMDJfcmxzN2RkZHlW?oc=5",
-      "title": "Meta expands Louisiana data center to 5 gigawatts, investment crosses $50 billion",
-      "summary": "",
-      "publishedAt": "2026-07-13T12:42:02.000Z",
+      "publishedAt": "2026-07-14T13:19:51.000Z",
       "publisher": "Reuters",
       "discoveryMethod": "feed",
       "classification": {
@@ -124,17 +105,112 @@
       }
     },
     {
-      "id": "74a1c877c5d9f6a7d8989e560c0ae17b2d526137",
+      "id": "9d9f3ad256053f999e48647fd81388dc45e5d425",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQkhvM3hBejVTRi1FSFZzb2ZJWVUxdEhtOXJBWjNOQ2hTVXNOZ2hzVG1ndXN5em5NLWVrTmEyejlDRDFmUGJ6TFJzLTg4RXdVekZMLVYzSUdUdE1scXFQdXBLOTVUQnhJT0QxaXpoWkNmS2E0UDUzZHoxcDFaNS1xRkpIVmxrRDZtQ1psTg?oc=5",
+      "title": "Meta expands Louisiana AI data center investment to more than $50B",
+      "summary": "",
+      "publishedAt": "2026-07-14T03:31:00.000Z",
+      "publisher": "Yahoo",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "790d751548123fac4fac2b9c91322179bfd7dc2f",
       "company": "OpenAI",
       "sourceKind": "external",
       "sourceId": "external-openai-major",
       "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSGhkMmFYSV9XU05TR3c2Z3d5RC1rUWVQVGMtdUVGTWRFQjE1LXNVRjMwQWFQU25qRDE0LU5xZWdJYWJhczlNX1VZTlgyd3piZkx6MEhRbEo5TUxiVVI3TkFPZVprNGlZaXFhcE1zdkdUOWo5YThyMzUzRFUzd2p0RWQwZzRTTnB3VHNzTllyT3B1NlFtQW9KNTYtaHNncmZfSzlvVWpMbjRreTBrN3BQSy14NUdPQ3BTcGNWUENIZ1FXUQ?oc=5",
-      "title": "How Apple’s Lawsuit Threatens to Disrupt OpenAI’s Bid to Rival the iPhone",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQREp3T1J1OFZ5Z0dxQ3FnTlpnaXR0VjJTbXh3QTlwWFpxWDQwUWpBOHI0Q19KY0pqcHhWaWFtREF3N1FDLUNKN1JtOEhfazJGZk1KRC1QY3BaYXM4VS14VUlUTWhpeS05aDFXM19nV0hEZDhrWHlWeUU1S3g2LTA2Q1lKTXhBMUtfUTdNcUxMZnk2MW5wekE0azR4ZEQ?oc=5",
+      "title": "These are the wildest claims in Apple's lawsuit against OpenAI",
       "summary": "",
-      "publishedAt": "2026-07-13T12:32:47.000Z",
-      "publisher": "Bloomberg.com",
+      "publishedAt": "2026-07-13T19:49:00.000Z",
+      "publisher": "Fortune",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "7e6725dbdca3fcc6cccdc6c60353da02e35ec227",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeFFTTWI5QkFmYzVQWnphOThvOWNCZDVPRTdvNmZFOGpseG9UXzRfNWRXNUx4UHMtdzRFcWdCX3ZEQlRxNTVMY1dhZnVhdkRWZ0ZZelpNX25GWW1JWU8yWEhSZGpfSTFMVlRjSWYzUHVrUWtzU0FxQnl3S3RQQWFTMFY5R2R2Y3BxNzlWRjl6MTBQd3FBbmVZMUdOT2lndllVSmp6V3B1b1Q?oc=5",
+      "title": "The wildest allegations in Apple’s trade secrets lawsuit against OpenAI",
+      "summary": "",
+      "publishedAt": "2026-07-13T18:22:10.000Z",
+      "publisher": "TechCrunch",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "2cd1ddd5e8777cd04fc5b49dbdbc3b82d33fbc76",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVndVUlFjeXZyV1lrNVRsZzJEVXdIUTEwRmdBclIyMDJlRmVGcUNGREdVMVRIQ1l3NWpmNXM5UTdtV3RCZW01V2h5dk1VUy1OU3ZQSDk4b1I0Z0xybEQ2N0lkZUtOLWpvYnFEUWRNVEsyWnIydUtDZXY1cGN0T0RSM25oblAyVG1EaHR5WG9oUXVtRXFPWVR1M3NET1BMZ05mOE0yclA0eDFXTTBLS01wUEx2dG5qUGN4MWJtbWpB?oc=5",
+      "title": "EXCLUSIVE Canada regulator cited Anthropic's Claude Mythos in warning to banks on cyber risks, email shows",
+      "summary": "",
+      "publishedAt": "2026-07-13T18:06:00.000Z",
+      "publisher": "Reuters",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "36f2fba30970cda53d3dbe2bca1f5079e14825de",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBqV25ETmJ2M0VEcDdPbGVmMHhKYW05R1B1ZS1QTkJZQnJhNDlFb2tSVnRZVFMzZjJlUWQ5Nk8yenp5NG9TekpZZ2Vna0tlaldhUkdoNE1ReEFkZFNBU1N3YUMtclFqNWlhc01RanJDUE1uVTVjdXRrUkY5Yng?oc=5",
+      "title": "The 6 wildest claims in Apple’s lawsuit against OpenAI",
+      "summary": "",
+      "publishedAt": "2026-07-13T17:00:00.000Z",
+      "publisher": "The Verge",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "4ca411b5476ed676aa231f41e3e78b12e36ee4f0",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOUZKU0Y3bndZd2QtV2RrV3BacWRTX2RVY095VVNZMS1ITXZ4RVJhTnMwNl9RemtEclU5Q1FPV05FTW5VU1R0cFhtcEVjYjhGTno5Y1Bvc3dyZkdqSjJKMVJYUGtsYU5lRWZtblBXYnVCVHEtVkxfRVZzdDFIQ0hGTnlTVXlkMlJkd2xzcTRNa1hZNk1fNHhXMVNiZHhwendCaURqUzFTeUJoYnNYdURaVjlB?oc=5",
+      "title": "Elon Musk and Sam Altman spar on X over Apple's lawsuit against OpenAI",
+      "summary": "",
+      "publishedAt": "2026-07-13T15:57:00.000Z",
+      "publisher": "CNBC",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -144,10 +220,10 @@
     },
     {
       "id": "a68a1623f733160d08e0fd0dd98bdc984915641e",
-      "company": "OpenAI",
+      "company": "Microsoft",
       "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
       "homepageUrl": "https://news.google.com/",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQa0EzZGRZaEFNZWlqd3V5eEQzbEo2N2tyV0k2NXdmb25tdkpCVEdCcWpjWjI5bVg5aWF0Xzl1cmphcWotT3lNakpZZFk0T0htNnlFSmdVSDFwMGJhNmhVYzJMcjRpaklyYU5LUmN2SGlmckdNSE1LZk9KeGhEbnRQcmxFMk9QQV9RRzBn0gGQAUFVX3lxTE1sZU5ZaE5KVGdFajdaUm5ZMjMzR2FMUVNjRjdoaHBTc0Y4dl9CZ0lyXzI4TEpmdUR0eU9GMHJZNlZDQlVfdE4ySWZDaGt0b01tdnVxdkhnR25QZXUzNk9taWZlM2FzR0Y0a2EwSThFdjVNZ0tzeWduQ21FT2x0TkVrcnZaNlk5QUZVNU0zeEdBbg?oc=5",
       "title": "Iran strikes, Lindsey Graham, Apple takes OpenAI to court and more in Morning Squawk",
@@ -162,30 +238,11 @@
       }
     },
     {
-      "id": "26cf6c133ddb90cc5d4d7b46e4553d2134c24341",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWnpjelE1bklxY1p1UXhhUW9SLUZDTGx0OUtsaE05MWZ4eU1DLXVNbkIwcnFEcVJnSmg4dmw4ZXhza1pDY1hObkdhTFVjbnhkMTk0NDBEVG53Vzk4Wm5qMDdqRDZkYWo5Y0NWV08waGxFdmpMOS00Zy14Ym5na0h2V3RxVGs3OUxKb1ktTk43WE8?oc=5",
-      "title": "Musk and Altman trade insults on X after Apple sues OpenAI",
-      "summary": "",
-      "publishedAt": "2026-07-13T11:43:20.000Z",
-      "publisher": "Yahoo",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
       "id": "52de2a9e557ebc62c243be2761f7d22f0cf254f5",
-      "company": "OpenAI",
+      "company": "Microsoft",
       "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
       "homepageUrl": "https://news.google.com/",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5pWl9PU3dRQkVxMnhuTFhfR1BsRFowN1I1SmVEOXZPY01mZDduT1JCVHJkVmZWellCRzB3a1Bvamc2d0x1aWN6RWUyM1JsU2hKbVlBcU02SU1DRVpmQjRfelhFTkF5dmlfSXl5WWNOSW94SDRTOEwtSXFB?oc=5",
       "title": "Fortune Tech: Apple-OpenAI lawsuit, SK Hynix stock paradox, Meta data center drama.",
@@ -200,41 +257,41 @@
       }
     },
     {
-      "id": "72c0d60f41321570f35189dd00d8d9e753ddfdd3",
-      "company": "Microsoft",
+      "id": "68b0a65ac7baf1ef95fb639a0216e213036af4b1",
+      "company": "Anthropic",
       "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQU2NSa1NYbHVibGtrWnV6T2hRd180dUp6WWxFQ2c0bm1POHhGeHk1TlpBQXV6dDBKZVh0MWpkbUVacjlFczV4RmQ2N3ctYVEtcTVrWjdXYTJ1WmRkZ2U5WEh2Q3Nkc05LREJaM19IQS1lRzQ5Q051aGdKRjh1QnIyaENVR2FxWllSMzUycmczRXV5MnVRNFBOMG5RUU5jYkpjYVdiMmMzNjcwdVBZd3AtREJSNEVpdVFnd2JQOHRDM1ZUWjFCS1JMTQ?oc=5",
-      "title": "Apple sues OpenAI, two former employees for trade secrets theft",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQS0h0V2dPeXVBUkJycGljb3FJWFpaNUJMRGZGWGtXWmFtN0xKTlN3SDVPV25iemNZRlZCUUktZU1YQmVBVzNMaTBwLU1ORmxFS1o2WlpJQkxmN18zbDcwcHdsZGtMNC1JVFJkRnZYV0lqczNKT1NzZUlyT3F3TXJYVGlvYVNOa25TYUlRdnNzZW9ocG0tUVFzVTh6dU5aTW91dVE?oc=5",
+      "title": "Varonis Extends AI Security Coverage to Claude Code and Claude Cowork",
       "summary": "",
-      "publishedAt": "2026-07-11T00:59:53.000Z",
-      "publisher": "Reuters",
+      "publishedAt": "2026-07-14T13:00:00.000Z",
+      "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
+        "score": 5,
+        "reason": "Safety, security, or policy update"
       }
     },
     {
-      "id": "a77ae5a02d887a0931d0ac3e089093a3d77deca6",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPazIwSGJBbjBLYU41dlRnOWhQUFh2TlgzNG5ubjBYRHZTWmFQTGhHTEJyZ1E3b1hOQm4xQ2lKY0RhZGw2QkVXamhpVUJaQTRwRmV1SWlKMUV3aGppdTlvQ2FYM2E0VGMzWFVlQWNoN3loMkdkVDdHQUtnMmRUclhoREpsUzJuU2lBSTB2eQ?oc=5",
-      "title": "Apple accuses OpenAI, and former design star Jony Ive's io Products firm, of stealing hardware trade secrets in blockbuster lawsuit",
+      "id": "d37ce11fa5e902fca276a247d99b238df2e2a2a2",
+      "company": "Anthropic",
+      "sourceKind": "official",
+      "sourceId": "anthropic-news",
+      "sourceLabel": "Anthropic News",
+      "homepageUrl": "https://www.anthropic.com/news",
+      "url": "https://www.anthropic.com/news/claude-for-teachers",
+      "title": "Introducing Claude for Teachers",
       "summary": "",
-      "publishedAt": "2026-07-10T23:19:00.000Z",
-      "publisher": "Fortune",
-      "discoveryMethod": "feed",
+      "publishedAt": "2026-07-14T00:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "anchor",
       "classification": {
         "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
+        "score": 5,
+        "reason": "Flagship model or product launch"
       }
     },
     {
@@ -257,17 +314,17 @@
       }
     },
     {
-      "id": "b8b4975c855c8a3e420123ff5455cce904f31a84",
+      "id": "bbdd3739fbe6966f2beeef00764d31346e9c8e6a",
       "company": "Meta",
       "sourceKind": "external",
       "sourceId": "external-meta-major",
       "sourceLabel": "Major External News - Meta",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYzdVZEZIX3hJazhyVmkzRkoyYVlIRF9hbnVnV2VGa045WGtSSFBaLXpYWlM2SVVpTjV1WjBPanNCUENpU1RZWkp4cTctdXo0N2FhMVRjeUoybTh2Y0JNb1FjNmNLM1dfX3FfX2lQX3dkdVNvZGk2WkRpQ1JuR3p4aEkzQzA1Y2FyLWlR?oc=5",
-      "title": "Meta's AI data center cost went from $10 billion to $50 billion in under 2 years—and split the town in two",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNek5CME44TFViSjAycUFlaEhGVXc3OEd2TkY3b1ZmcFdfS1VaSUxmVFdaSm9BNHZrb1NlU1ZWU2d0ZC1aanNBM2t2Unowd0ZUc1N3eWFEVzU5QWNZMEtLSjQxZVN6NDVXUkU1Q3dkd1JmZ25YMjdIVmpsVWtYbjJzVS1nN2xaWF9UVVlZU3RqZHFxWmFZU2I0aUdJYmdkQjROeWttVjZn?oc=5",
+      "title": "Meta expands Louisiana data center to 5GW in new AI push",
       "summary": "",
-      "publishedAt": "2026-07-13T16:21:00.000Z",
-      "publisher": "Fortune",
+      "publishedAt": "2026-07-14T15:00:33.000Z",
+      "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -276,17 +333,17 @@
       }
     },
     {
-      "id": "89264b78425654ecf663ad5bc201ad4e97bbabd4",
+      "id": "b719abc1aeef4fe30482f5e08e44acd653246295",
       "company": "Meta",
       "sourceKind": "external",
       "sourceId": "external-meta-major",
       "sourceLabel": "Major External News - Meta",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMEwxQUIzc2UxdVdZdWlEMzNQTUVmdVEtVEQwTzRFUTBZclNQdXBWZGNNNlNveFFTckJ4eTVHOTJybFJJeTBkeWdZVTl1bDZFNW1fTGp1TG1oa3BhRDNURnFsdmloWHRoUThaRTBfLUJJTUZIMUNfVjlsc3ZiaXZrOUROclBpS2E0SDZGOA?oc=5",
-      "title": "Meta Doubles Louisiana Data Center Capacity",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUDNtQWMxMU1vWFdQSWpiWlVhQy0yem0zWk1GZXcxUlJsQWx3Z0VWZGRTSVBNbEc1S212dS1JUWVHTlJHNlhiazdaSmNGeFJWVlE4NmNaMjVmd3c2cnJfM1J4Ykt1S3VwcjJabDRKVG9zX3lSdHBxUVQtS2FfeXJXaVVSZXNydw?oc=5",
+      "title": "Meta expands plan for massive data center",
       "summary": "",
-      "publishedAt": "2026-07-13T13:58:00.000Z",
-      "publisher": "The Information",
+      "publishedAt": "2026-07-14T06:30:00.000Z",
+      "publisher": "Yahoo",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -295,16 +352,16 @@
       }
     },
     {
-      "id": "bbc592ad0d3e1bef79649a4b927fb83c7754c201",
-      "company": "Microsoft",
+      "id": "954cea449b7f9c04e12f50bd7464ea16932e0c09",
+      "company": "Meta",
       "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONFI3R1RNc00wellnODFtTTJacTJRc21qNDUxU19tWVdBTnlyYkhZMVRINTQ3QlRDYnJELXh6d2h3c0tvMlJSUy1KU2tWVHVaWGdJTUhuY3pxU2JSc19tM1pKZ193WFE1VFIteVVhSnpCQ0ZVZTVsUURKWDRFd2tfQ3RuVlhlNjVaRmFzUnE2LWsxajJhanpZbHE3OA?oc=5",
-      "title": "OpenAI CEO Altman Accuses Elon Musk Of Wooing Investors With Space-Data Center Hype As SPCX Stock Nears Post-IPO Low",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRF8zRF8yVXBqd3JfZnJvWlEwdVJyRVZMeHdIbU5jTEdweWZscGxHeUlPdFkzLVZXZDg1MGwyS2twQ0dsMWRwZkNVelpzcGZnNUJLSWZ3c3UzMWZRMERwMkpRRk1zV1Y5eUwyTDVhcndxa1cyNXNDTTNwQWVTRC1OT1c3TGRqN3ktMC1hRFBHSm1lbmJZOTFKX3l6VXJwSld0M25TcmJaM21wdDBDTzZ0VXh6ZTg1dw?oc=5",
+      "title": "Meta's data center costs are skyrocketing. Here's what you need to know.",
       "summary": "",
-      "publishedAt": "2026-07-12T15:17:43.000Z",
+      "publishedAt": "2026-07-13T20:34:16.000Z",
       "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
@@ -428,6 +485,25 @@
       }
     },
     {
+      "id": "42ba56cb55d4ea72b46b9e1216a6ae3fb460448e",
+      "company": "Anthropic",
+      "sourceKind": "official",
+      "sourceId": "anthropic-news",
+      "sourceLabel": "Anthropic News",
+      "homepageUrl": "https://www.anthropic.com/news",
+      "url": "https://www.anthropic.com/news/canadian-ai-research",
+      "title": "Anthropic commits $10 million to Canadian AI research",
+      "summary": "",
+      "publishedAt": "2026-07-14T00:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "anchor",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Technical or research update"
+      }
+    },
+    {
       "id": "d015b138db17e42a452ed0cda3445385ab2ff4e7",
       "company": "Anthropic",
       "sourceKind": "official",
@@ -464,115 +540,20 @@
         "score": 3,
         "reason": "Safety, security, or policy update"
       }
-    },
-    {
-      "id": "3a0b4572422c1a8cbc95ae7fb7158fc8dc49f9d0",
-      "company": "Anthropic",
-      "sourceKind": "official",
-      "sourceId": "anthropic-news",
-      "sourceLabel": "Anthropic News",
-      "homepageUrl": "https://www.anthropic.com/news",
-      "url": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy",
-      "title": "Responsible Scaling Policy",
-      "summary": "",
-      "publishedAt": null,
-      "publisher": "",
-      "discoveryMethod": "anchor",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "5638f482edc272d2d13d594541aef48cc0584a3d",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/how-to-make-gemini-study-notebooks",
-      "title": "Here’s how to make study notebooks in the Gemini app.",
-      "summary": "Studying for a test, but not sure where to start? Study notebooks, a new feature in the Gemini app, can help you get organized and learn more efficiently.Think of study …",
-      "publishedAt": "2026-07-10T16:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Technical or research update"
-      }
-    },
-    {
-      "id": "c9a7e41ab8861d9062fc761bf2292940254df633",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/alphaevolve-on-cloud",
-      "title": "We're rolling out AlphaEvolve widely to solve Google Cloud customers' hardest problems.",
-      "summary": "Finding the most efficient algorithm — whether designing a microchip, routing a logistics network or accelerating medical research — can be challenging, with many possib…",
-      "publishedAt": "2026-07-09T16:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Technical or research update"
-      }
-    },
-    {
-      "id": "8fd51b42b5858cea93164ba1648dd04466d61e5d",
-      "company": "Anthropic",
-      "sourceKind": "official",
-      "sourceId": "anthropic-news",
-      "sourceLabel": "Anthropic News",
-      "homepageUrl": "https://www.anthropic.com/news",
-      "url": "https://www.anthropic.com/news/ust-claude",
-      "title": "Case Study UST is bringing Claude to physical AI",
-      "summary": "",
-      "publishedAt": "2026-07-09T00:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "anchor",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Technical or research update"
-      }
     }
   ],
   "newItems": [
     {
-      "id": "89735a70d78f5a3c5477804f118b301a62a1e894",
-      "company": "Meta",
+      "id": "0161a96b7da418b810e80955267042cd1bfe4c6f",
+      "company": "Google",
       "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
+      "sourceId": "external-google-major",
+      "sourceLabel": "Major External News - Google",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWFZXdzk4SW1LX2NVOWtFN1Byeld0bG1pRkl3bmpFZ3lFbVlGU082ZnlScENqTkRQazNUakNfeFhmOHo0NnVhMVVpR1pOU2lTZUxDTzRPU21UdkxvbVJBNjZoQWxmaF92MHhCcHVsM3FEXzdRRkhMcUpSUHlfcHFDS0lONWpBa3RmZ2V2My12cUpEakpMRnc?oc=5",
-      "title": "Meta Expands AI Data Center to 5GW, Raises Investment Above $50 Billion",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRmhqd1N1RlV3RnBERVcxdlpaeDVnQnI2WlRiY2ZTRk95ZXhDNVNwbVJMcXljaVBmWWlMZE5YOUNkZC1tNWV2dF94NXFhZzQ4b0pydHYyX1NySjBvbVNkY3BmTXhqNEpmcmhmdzZSLXVONU5ValZHZWd1WEhHam95ZHltaU1uVFhzZmwzamM3UDdSYllkeVZackFDUl9VYTJHYWRDYVJnbExwTGFSVzlDZzV4ak5IZmNxYTlyQzhCRENHcVN4?oc=5",
+      "title": "German media regulator says Google's AI Overviews subject to German media law",
       "summary": "",
-      "publishedAt": "2026-07-13T12:55:00.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "a67a117f0c1845efb2a4c122a6487dda0d94fcef",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQnJpUGtNQXFzaExPZlhub1lVWlM1S01ya3VLVlo1dUlFMzZBcWF5Mm1KdXhPdmg0b0NJMVlseTNlMGRsWksxUnQ4UXFmQWpySGhOWEpiaGk5bHhsSFZ5X1VtRXVCQ0dLTG9FWGNlVDhKT1Z6c1F4TnRKaVNVVGw5dmxLOFdRTm5KdWc4VUM3dGR1LV8yanp2eDlRR2ZHU19ZMDJfcmxzN2RkZHlW?oc=5",
-      "title": "Meta expands Louisiana data center to 5 gigawatts, investment crosses $50 billion",
-      "summary": "",
-      "publishedAt": "2026-07-13T12:42:02.000Z",
+      "publishedAt": "2026-07-14T13:19:51.000Z",
       "publisher": "Reuters",
       "discoveryMethod": "feed",
       "classification": {
@@ -582,54 +563,16 @@
       }
     },
     {
-      "id": "74a1c877c5d9f6a7d8989e560c0ae17b2d526137",
-      "company": "OpenAI",
+      "id": "9d9f3ad256053f999e48647fd81388dc45e5d425",
+      "company": "Meta",
       "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSGhkMmFYSV9XU05TR3c2Z3d5RC1rUWVQVGMtdUVGTWRFQjE1LXNVRjMwQWFQU25qRDE0LU5xZWdJYWJhczlNX1VZTlgyd3piZkx6MEhRbEo5TUxiVVI3TkFPZVprNGlZaXFhcE1zdkdUOWo5YThyMzUzRFUzd2p0RWQwZzRTTnB3VHNzTllyT3B1NlFtQW9KNTYtaHNncmZfSzlvVWpMbjRreTBrN3BQSy14NUdPQ3BTcGNWUENIZ1FXUQ?oc=5",
-      "title": "How Apple’s Lawsuit Threatens to Disrupt OpenAI’s Bid to Rival the iPhone",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQkhvM3hBejVTRi1FSFZzb2ZJWVUxdEhtOXJBWjNOQ2hTVXNOZ2hzVG1ndXN5em5NLWVrTmEyejlDRDFmUGJ6TFJzLTg4RXdVekZMLVYzSUdUdE1scXFQdXBLOTVUQnhJT0QxaXpoWkNmS2E0UDUzZHoxcDFaNS1xRkpIVmxrRDZtQ1psTg?oc=5",
+      "title": "Meta expands Louisiana AI data center investment to more than $50B",
       "summary": "",
-      "publishedAt": "2026-07-13T12:32:47.000Z",
-      "publisher": "Bloomberg.com",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "a68a1623f733160d08e0fd0dd98bdc984915641e",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQa0EzZGRZaEFNZWlqd3V5eEQzbEo2N2tyV0k2NXdmb25tdkpCVEdCcWpjWjI5bVg5aWF0Xzl1cmphcWotT3lNakpZZFk0T0htNnlFSmdVSDFwMGJhNmhVYzJMcjRpaklyYU5LUmN2SGlmckdNSE1LZk9KeGhEbnRQcmxFMk9QQV9RRzBn0gGQAUFVX3lxTE1sZU5ZaE5KVGdFajdaUm5ZMjMzR2FMUVNjRjdoaHBTc0Y4dl9CZ0lyXzI4TEpmdUR0eU9GMHJZNlZDQlVfdE4ySWZDaGt0b01tdnVxdkhnR25QZXUzNk9taWZlM2FzR0Y0a2EwSThFdjVNZ0tzeWduQ21FT2x0TkVrcnZaNlk5QUZVNU0zeEdBbg?oc=5",
-      "title": "Iran strikes, Lindsey Graham, Apple takes OpenAI to court and more in Morning Squawk",
-      "summary": "",
-      "publishedAt": "2026-07-13T12:29:47.000Z",
-      "publisher": "CNBC",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "26cf6c133ddb90cc5d4d7b46e4553d2134c24341",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWnpjelE1bklxY1p1UXhhUW9SLUZDTGx0OUtsaE05MWZ4eU1DLXVNbkIwcnFEcVJnSmg4dmw4ZXhza1pDY1hObkdhTFVjbnhkMTk0NDBEVG53Vzk4Wm5qMDdqRDZkYWo5Y0NWV08waGxFdmpMOS00Zy14Ym5na0h2V3RxVGs3OUxKb1ktTk43WE8?oc=5",
-      "title": "Musk and Altman trade insults on X after Apple sues OpenAI",
-      "summary": "",
-      "publishedAt": "2026-07-13T11:43:20.000Z",
+      "publishedAt": "2026-07-14T03:31:00.000Z",
       "publisher": "Yahoo",
       "discoveryMethod": "feed",
       "classification": {
@@ -639,16 +582,16 @@
       }
     },
     {
-      "id": "52de2a9e557ebc62c243be2761f7d22f0cf254f5",
+      "id": "790d751548123fac4fac2b9c91322179bfd7dc2f",
       "company": "OpenAI",
       "sourceKind": "external",
       "sourceId": "external-openai-major",
       "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5pWl9PU3dRQkVxMnhuTFhfR1BsRFowN1I1SmVEOXZPY01mZDduT1JCVHJkVmZWellCRzB3a1Bvamc2d0x1aWN6RWUyM1JsU2hKbVlBcU02SU1DRVpmQjRfelhFTkF5dmlfSXl5WWNOSW94SDRTOEwtSXFB?oc=5",
-      "title": "Fortune Tech: Apple-OpenAI lawsuit, SK Hynix stock paradox, Meta data center drama.",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQREp3T1J1OFZ5Z0dxQ3FnTlpnaXR0VjJTbXh3QTlwWFpxWDQwUWpBOHI0Q19KY0pqcHhWaWFtREF3N1FDLUNKN1JtOEhfazJGZk1KRC1QY3BaYXM4VS14VUlUTWhpeS05aDFXM19nV0hEZDhrWHlWeUU1S3g2LTA2Q1lKTXhBMUtfUTdNcUxMZnk2MW5wekE0azR4ZEQ?oc=5",
+      "title": "These are the wildest claims in Apple's lawsuit against OpenAI",
       "summary": "",
-      "publishedAt": "2026-07-13T09:00:00.000Z",
+      "publishedAt": "2026-07-13T19:49:00.000Z",
       "publisher": "Fortune",
       "discoveryMethod": "feed",
       "classification": {
@@ -658,79 +601,193 @@
       }
     },
     {
-      "id": "72c0d60f41321570f35189dd00d8d9e753ddfdd3",
-      "company": "Microsoft",
+      "id": "7e6725dbdca3fcc6cccdc6c60353da02e35ec227",
+      "company": "OpenAI",
       "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQU2NSa1NYbHVibGtrWnV6T2hRd180dUp6WWxFQ2c0bm1POHhGeHk1TlpBQXV6dDBKZVh0MWpkbUVacjlFczV4RmQ2N3ctYVEtcTVrWjdXYTJ1WmRkZ2U5WEh2Q3Nkc05LREJaM19IQS1lRzQ5Q051aGdKRjh1QnIyaENVR2FxWllSMzUycmczRXV5MnVRNFBOMG5RUU5jYkpjYVdiMmMzNjcwdVBZd3AtREJSNEVpdVFnd2JQOHRDM1ZUWjFCS1JMTQ?oc=5",
-      "title": "Apple sues OpenAI, two former employees for trade secrets theft",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeFFTTWI5QkFmYzVQWnphOThvOWNCZDVPRTdvNmZFOGpseG9UXzRfNWRXNUx4UHMtdzRFcWdCX3ZEQlRxNTVMY1dhZnVhdkRWZ0ZZelpNX25GWW1JWU8yWEhSZGpfSTFMVlRjSWYzUHVrUWtzU0FxQnl3S3RQQWFTMFY5R2R2Y3BxNzlWRjl6MTBQd3FBbmVZMUdOT2lndllVSmp6V3B1b1Q?oc=5",
+      "title": "The wildest allegations in Apple’s trade secrets lawsuit against OpenAI",
       "summary": "",
-      "publishedAt": "2026-07-11T00:59:53.000Z",
-      "publisher": "Reuters",
+      "publishedAt": "2026-07-13T18:22:10.000Z",
+      "publisher": "TechCrunch",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 6,
+        "score": 7,
         "reason": "Corporate move or major external event"
       }
     },
     {
-      "id": "b8b4975c855c8a3e420123ff5455cce904f31a84",
+      "id": "2cd1ddd5e8777cd04fc5b49dbdbc3b82d33fbc76",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVndVUlFjeXZyV1lrNVRsZzJEVXdIUTEwRmdBclIyMDJlRmVGcUNGREdVMVRIQ1l3NWpmNXM5UTdtV3RCZW01V2h5dk1VUy1OU3ZQSDk4b1I0Z0xybEQ2N0lkZUtOLWpvYnFEUWRNVEsyWnIydUtDZXY1cGN0T0RSM25oblAyVG1EaHR5WG9oUXVtRXFPWVR1M3NET1BMZ05mOE0yclA0eDFXTTBLS01wUEx2dG5qUGN4MWJtbWpB?oc=5",
+      "title": "EXCLUSIVE Canada regulator cited Anthropic's Claude Mythos in warning to banks on cyber risks, email shows",
+      "summary": "",
+      "publishedAt": "2026-07-13T18:06:00.000Z",
+      "publisher": "Reuters",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "36f2fba30970cda53d3dbe2bca1f5079e14825de",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBqV25ETmJ2M0VEcDdPbGVmMHhKYW05R1B1ZS1QTkJZQnJhNDlFb2tSVnRZVFMzZjJlUWQ5Nk8yenp5NG9TekpZZ2Vna0tlaldhUkdoNE1ReEFkZFNBU1N3YUMtclFqNWlhc01RanJDUE1uVTVjdXRrUkY5Yng?oc=5",
+      "title": "The 6 wildest claims in Apple’s lawsuit against OpenAI",
+      "summary": "",
+      "publishedAt": "2026-07-13T17:00:00.000Z",
+      "publisher": "The Verge",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "4ca411b5476ed676aa231f41e3e78b12e36ee4f0",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOUZKU0Y3bndZd2QtV2RrV3BacWRTX2RVY095VVNZMS1ITXZ4RVJhTnMwNl9RemtEclU5Q1FPV05FTW5VU1R0cFhtcEVjYjhGTno5Y1Bvc3dyZkdqSjJKMVJYUGtsYU5lRWZtblBXYnVCVHEtVkxfRVZzdDFIQ0hGTnlTVXlkMlJkd2xzcTRNa1hZNk1fNHhXMVNiZHhwendCaURqUzFTeUJoYnNYdURaVjlB?oc=5",
+      "title": "Elon Musk and Sam Altman spar on X over Apple's lawsuit against OpenAI",
+      "summary": "",
+      "publishedAt": "2026-07-13T15:57:00.000Z",
+      "publisher": "CNBC",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "68b0a65ac7baf1ef95fb639a0216e213036af4b1",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQS0h0V2dPeXVBUkJycGljb3FJWFpaNUJMRGZGWGtXWmFtN0xKTlN3SDVPV25iemNZRlZCUUktZU1YQmVBVzNMaTBwLU1ORmxFS1o2WlpJQkxmN18zbDcwcHdsZGtMNC1JVFJkRnZYV0lqczNKT1NzZUlyT3F3TXJYVGlvYVNOa25TYUlRdnNzZW9ocG0tUVFzVTh6dU5aTW91dVE?oc=5",
+      "title": "Varonis Extends AI Security Coverage to Claude Code and Claude Cowork",
+      "summary": "",
+      "publishedAt": "2026-07-14T13:00:00.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "d37ce11fa5e902fca276a247d99b238df2e2a2a2",
+      "company": "Anthropic",
+      "sourceKind": "official",
+      "sourceId": "anthropic-news",
+      "sourceLabel": "Anthropic News",
+      "homepageUrl": "https://www.anthropic.com/news",
+      "url": "https://www.anthropic.com/news/claude-for-teachers",
+      "title": "Introducing Claude for Teachers",
+      "summary": "",
+      "publishedAt": "2026-07-14T00:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "anchor",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "bbdd3739fbe6966f2beeef00764d31346e9c8e6a",
       "company": "Meta",
       "sourceKind": "external",
       "sourceId": "external-meta-major",
       "sourceLabel": "Major External News - Meta",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYzdVZEZIX3hJazhyVmkzRkoyYVlIRF9hbnVnV2VGa045WGtSSFBaLXpYWlM2SVVpTjV1WjBPanNCUENpU1RZWkp4cTctdXo0N2FhMVRjeUoybTh2Y0JNb1FjNmNLM1dfX3FfX2lQX3dkdVNvZGk2WkRpQ1JuR3p4aEkzQzA1Y2FyLWlR?oc=5",
-      "title": "Meta's AI data center cost went from $10 billion to $50 billion in under 2 years—and split the town in two",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNek5CME44TFViSjAycUFlaEhGVXc3OEd2TkY3b1ZmcFdfS1VaSUxmVFdaSm9BNHZrb1NlU1ZWU2d0ZC1aanNBM2t2Unowd0ZUc1N3eWFEVzU5QWNZMEtLSjQxZVN6NDVXUkU1Q3dkd1JmZ25YMjdIVmpsVWtYbjJzVS1nN2xaWF9UVVlZU3RqZHFxWmFZU2I0aUdJYmdkQjROeWttVjZn?oc=5",
+      "title": "Meta expands Louisiana data center to 5GW in new AI push",
       "summary": "",
-      "publishedAt": "2026-07-13T16:21:00.000Z",
-      "publisher": "Fortune",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "89264b78425654ecf663ad5bc201ad4e97bbabd4",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMEwxQUIzc2UxdVdZdWlEMzNQTUVmdVEtVEQwTzRFUTBZclNQdXBWZGNNNlNveFFTckJ4eTVHOTJybFJJeTBkeWdZVTl1bDZFNW1fTGp1TG1oa3BhRDNURnFsdmloWHRoUThaRTBfLUJJTUZIMUNfVjlsc3ZiaXZrOUROclBpS2E0SDZGOA?oc=5",
-      "title": "Meta Doubles Louisiana Data Center Capacity",
-      "summary": "",
-      "publishedAt": "2026-07-13T13:58:00.000Z",
-      "publisher": "The Information",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "bbc592ad0d3e1bef79649a4b927fb83c7754c201",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONFI3R1RNc00wellnODFtTTJacTJRc21qNDUxU19tWVdBTnlyYkhZMVRINTQ3QlRDYnJELXh6d2h3c0tvMlJSUy1KU2tWVHVaWGdJTUhuY3pxU2JSc19tM1pKZ193WFE1VFIteVVhSnpCQ0ZVZTVsUURKWDRFd2tfQ3RuVlhlNjVaRmFzUnE2LWsxajJhanpZbHE3OA?oc=5",
-      "title": "OpenAI CEO Altman Accuses Elon Musk Of Wooing Investors With Space-Data Center Hype As SPCX Stock Nears Post-IPO Low",
-      "summary": "",
-      "publishedAt": "2026-07-12T15:17:43.000Z",
+      "publishedAt": "2026-07-14T15:00:33.000Z",
       "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
         "score": 4,
         "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "b719abc1aeef4fe30482f5e08e44acd653246295",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUDNtQWMxMU1vWFdQSWpiWlVhQy0yem0zWk1GZXcxUlJsQWx3Z0VWZGRTSVBNbEc1S212dS1JUWVHTlJHNlhiazdaSmNGeFJWVlE4NmNaMjVmd3c2cnJfM1J4Ykt1S3VwcjJabDRKVG9zX3lSdHBxUVQtS2FfeXJXaVVSZXNydw?oc=5",
+      "title": "Meta expands plan for massive data center",
+      "summary": "",
+      "publishedAt": "2026-07-14T06:30:00.000Z",
+      "publisher": "Yahoo",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "954cea449b7f9c04e12f50bd7464ea16932e0c09",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRF8zRF8yVXBqd3JfZnJvWlEwdVJyRVZMeHdIbU5jTEdweWZscGxHeUlPdFkzLVZXZDg1MGwyS2twQ0dsMWRwZkNVelpzcGZnNUJLSWZ3c3UzMWZRMERwMkpRRk1zV1Y5eUwyTDVhcndxa1cyNXNDTTNwQWVTRC1OT1c3TGRqN3ktMC1hRFBHSm1lbmJZOTFKX3l6VXJwSld0M25TcmJaM21wdDBDTzZ0VXh6ZTg1dw?oc=5",
+      "title": "Meta's data center costs are skyrocketing. Here's what you need to know.",
+      "summary": "",
+      "publishedAt": "2026-07-13T20:34:16.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "42ba56cb55d4ea72b46b9e1216a6ae3fb460448e",
+      "company": "Anthropic",
+      "sourceKind": "official",
+      "sourceId": "anthropic-news",
+      "sourceLabel": "Anthropic News",
+      "homepageUrl": "https://www.anthropic.com/news",
+      "url": "https://www.anthropic.com/news/canadian-ai-research",
+      "title": "Anthropic commits $10 million to Canadian AI research",
+      "summary": "",
+      "publishedAt": "2026-07-14T00:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "anchor",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Technical or research update"
       }
     }
   ],
