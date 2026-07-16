@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T15:27:26.461Z",
+  "generatedAt": "2026-07-16T15:40:54.133Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -76,15 +76,34 @@
     }
   ],
   "totals": {
-    "fetched": 42,
+    "fetched": 36,
     "deduped": 24,
-    "new": 10,
+    "new": 7,
     "byKind": {
-      "official": 10,
-      "external": 14
+      "official": 11,
+      "external": 13
     }
   },
   "items": [
+    {
+      "id": "1b15850ada1f9713e65b9a473b9bd944cba4fca1",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQllGNGFuZDBkRUhEcUsxMlB5OU1CUHFxZHRZQnJldDJUb2d2d1NyNThwRHdFdG1WckdmMTVfNkdHWWh1SGc1dFlyQnNmbnRkenlDM2VXSHFGQ2ZWZUJDdEpoTlJWM29qd3I1UHl4MTJfUmh6cURtY3ZGMTR4UnBRVF9ldVdmRnpsZGJ4RWtEQUdjQmNPYlVaYmpB?oc=5",
+      "title": "Apple Sues OpenAI, Here's What It Means for Oracle and Microsoft Investors",
+      "summary": "",
+      "publishedAt": "2026-07-15T16:26:00.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
     {
       "id": "3c9e180ca59675053629adb3e35a4045b12556f8",
       "company": "OpenAI",
@@ -97,44 +116,6 @@
       "summary": "",
       "publishedAt": "2026-07-15T12:33:40.000Z",
       "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "42aaaf58f640d93d711be2f6b60c575882447a42",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZ3ZTazkyQm9PY3dvamt0TG45UnFLOHNhYVlvMXNYOVB6eVhPbGpVLTVJV1RSN2xDOUltb2pxNGc1N01RRmdOMng4LTdDbTdrOVhiR1ctN3pMNFJVWGxqOGFlVl81VVdKWTJ0c1pBZjYtS1BKbVlUV2JHeFVRY2tKYkk4NHJ2TWJPTGEw?oc=5",
-      "title": "OpenAI pushes back on Apple trade secret lawsuit",
-      "summary": "",
-      "publishedAt": "2026-07-14T22:07:42.000Z",
-      "publisher": "TechCrunch",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "1d434fa2f86fcdf517265da26bd757432beb9c0a",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUWw3VFJzdTlmNnk1cGQzaVZkRFFEUkc4MThOeVRER0Utc3dmUmIyVHY5M0V6cWxacEZCWFdoZkpIYmZhcHhKS2ZnZUlRQ2F6RXdJT0xaQjFyZWYtX29WX0MxMXQzX3h6eEo0T19DVTV3bDZpMUU3eVhDX1N5MFc2V002Z1dlV2kza0dfZGxZYU1LVlFDXzc0LW5rLXVCb1p5XzJ6VGpEOGJ1UTZMTmVmaA?oc=5",
-      "title": "How a bungled email from Apple’s lawyer soured talks with OpenAI months before Apple sued",
-      "summary": "",
-      "publishedAt": "2026-07-14T21:18:57.000Z",
-      "publisher": "NBC News",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -157,26 +138,7 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "790d751548123fac4fac2b9c91322179bfd7dc2f",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQREp3T1J1OFZ5Z0dxQ3FnTlpnaXR0VjJTbXh3QTlwWFpxWDQwUWpBOHI0Q19KY0pqcHhWaWFtREF3N1FDLUNKN1JtOEhfazJGZk1KRC1QY3BaYXM4VS14VUlUTWhpeS05aDFXM19nV0hEZDhrWHlWeUU1S3g2LTA2Q1lKTXhBMUtfUTdNcUxMZnk2MW5wekE0azR4ZEQ?oc=5",
-      "title": "These are the wildest claims in Apple's lawsuit against OpenAI",
-      "summary": "",
-      "publishedAt": "2026-07-13T19:49:00.000Z",
-      "publisher": "Fortune",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
+        "score": 6,
         "reason": "Corporate move or major external event"
       }
     },
@@ -195,7 +157,7 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 7,
+        "score": 6,
         "reason": "Corporate move or major external event"
       }
     },
@@ -257,41 +219,41 @@
       }
     },
     {
-      "id": "d37ce11fa5e902fca276a247d99b238df2e2a2a2",
-      "company": "Anthropic",
-      "sourceKind": "official",
-      "sourceId": "anthropic-news",
-      "sourceLabel": "Anthropic News",
-      "homepageUrl": "https://www.anthropic.com/news",
-      "url": "https://www.anthropic.com/news/claude-for-teachers",
-      "title": "Introducing Claude for Teachers",
+      "id": "38e1cf1e833b56e8bdee71701ecb20af4a2c9678",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdnVLbmdZNnJkSDA3LTFFZDF0dXl5ekRfRWEtbEl3YkU1bkVDeEI1R0xtdEg3N0ljMFYzZ1doeFFDdkY5b1dmV1lJOEI1dFdrTFc2NWVhbXpLUF9UV1B6TDVlV1cwYzZpeG1TVEJCeGxPNHJfNkhlaHhFZHlUSHZqQThEeUJLTjVTbWZZWnZTTTA1bWNsZFB4WjNKNFFhRjFNNm1sS3Jpb1BDUQ?oc=5",
+      "title": "Microsoft’s New Security Chief Replaces Top Execs to Force an AI Overhaul",
       "summary": "",
-      "publishedAt": "2026-07-14T00:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "anchor",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "5941cef110c0f46967cf712c0f80d655dc0997fb",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
-      "title": "ChatGPT is now a partner for your most ambitious work",
-      "summary": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
-      "publishedAt": "2026-07-09T10:00:00.000Z",
-      "publisher": "",
+      "publishedAt": "2026-07-15T18:34:00.000Z",
+      "publisher": "The Information",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
         "score": 5,
-        "reason": "Corporate move or major external event"
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "f757ddcf6cdfa3f664efc1ac1d062f44d059ffe7",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdEdpZGI4eHZKOEwyNXFhYXRIRzU4QkFMZjl0SFFEaWQwbVo3ZnF1bFBhODhLNUtQX2VvMVA3eXgwOFVjdEhINk1FQ3lQSmEyeFI0RmpKLUJvenBRVEtvMnlndlQzLWQtSWZ0R0UyeTJ4NmxtaUlpRGpndGZWUk9MRm9XRFJwVDd3N2FoWXNubTE1TWVCRG14eENNX2hDUkE?oc=5",
+      "title": "Sam Altman Just Criticized SpaceX's Data Centers in Space. Is the OpenAI Founder Right?",
+      "summary": "",
+      "publishedAt": "2026-07-16T13:05:00.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
       }
     },
     {
@@ -314,16 +276,16 @@
       }
     },
     {
-      "id": "bbdd3739fbe6966f2beeef00764d31346e9c8e6a",
+      "id": "4076e895ea0ceaa3a5b55a7c0d846f15a0b5fdef",
       "company": "Meta",
       "sourceKind": "external",
       "sourceId": "external-meta-major",
       "sourceLabel": "Major External News - Meta",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNek5CME44TFViSjAycUFlaEhGVXc3OEd2TkY3b1ZmcFdfS1VaSUxmVFdaSm9BNHZrb1NlU1ZWU2d0ZC1aanNBM2t2Unowd0ZUc1N3eWFEVzU5QWNZMEtLSjQxZVN6NDVXUkU1Q3dkd1JmZ25YMjdIVmpsVWtYbjJzVS1nN2xaWF9UVVlZU3RqZHFxWmFZU2I0aUdJYmdkQjROeWttVjZn?oc=5",
-      "title": "Meta expands Louisiana data center to 5GW in new AI push",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTE1qYkItRzV3Q3AyREJwTVlCd0F6RnVzc1N3Qk1NZ2tvTTJmT2c3czZaZ0pERldEU2kxSkVjU1VrUEQ1STRvRHpFcWtpVm9vbnloN3FGVVBNVkE1RG5PdXZqZmI0aXBRUTNDTFk0MkoyYklFMVZGQWxOVWIzM2t2dnZJQTlxTllSU01vQUdIUXhIZ0c4NlJET3VaZWoycTlfUzVBMA?oc=5",
+      "title": "Mark Zuckerberg’s Meta Just Supercharged Its Biggest AI Bet Yet, Expanding Its Hyperion Data Center Into a $50 Billion-Plus Project",
       "summary": "",
-      "publishedAt": "2026-07-14T15:00:33.000Z",
+      "publishedAt": "2026-07-15T02:31:00.000Z",
       "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
@@ -333,55 +295,17 @@
       }
     },
     {
-      "id": "954cea449b7f9c04e12f50bd7464ea16932e0c09",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRF8zRF8yVXBqd3JfZnJvWlEwdVJyRVZMeHdIbU5jTEdweWZscGxHeUlPdFkzLVZXZDg1MGwyS2twQ0dsMWRwZkNVelpzcGZnNUJLSWZ3c3UzMWZRMERwMkpRRk1zV1Y5eUwyTDVhcndxa1cyNXNDTTNwQWVTRC1OT1c3TGRqN3ktMC1hRFBHSm1lbmJZOTFKX3l6VXJwSld0M25TcmJaM21wdDBDTzZ0VXh6ZTg1dw?oc=5",
-      "title": "Meta's data center costs are skyrocketing. Here's what you need to know.",
-      "summary": "",
-      "publishedAt": "2026-07-13T20:34:16.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "d772b26c8f3f5fe7166940443f677e0bcccef931",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZThhNnhrcDVGUWV0RmxzTXNIdEUtWjRnZGd6dEtPeFF6TzExMXNZTGhQUUhpY0xOU1hlN18wOXFFeDZoMVk5VWYwZFdLY1E3N3o2aXhyRkNRaS01WmpfLVc2bm54UGl3Y2RUQzlSNXI5THJfNEpKZHB4YmNWaFI1R3JmNWdUR2lhS0lHQ1RDS0N1WkJNeXp0Qg?oc=5",
-      "title": "Meta confirms expansion of $50B data center",
-      "summary": "",
-      "publishedAt": "2026-07-13T17:23:55.000Z",
-      "publisher": "Axios",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "01b6582503fbb5554b890a9fa63a241d082b7fdf",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQVk3VEVROTZsS2o3NFctbVNfUC05MWhHMjg2amFfYmZDeGJRZFpWZ1hvaE1QSWpLdXhadm0tZk83bmg4b0ZIMjdIS00wbHcxOF9uQ3hMQlpicWRzTk5XUkhZRjBacDZMM1dZemgwaWVKU2hPYUs1WDNlRmNjbjdIUzVPbi16aVFmNXdmeXJZbGdVOTdEREhjUy1oLUpHM3NQV0lDSVRuVWc?oc=5",
-      "title": "China Says It Has Found Security Vulnerabilities in Anthropic’s Claude Code",
-      "summary": "",
-      "publishedAt": "2026-07-09T02:54:00.000Z",
-      "publisher": "Yahoo Finance",
+      "id": "1e97faa490facd0c80775009cd29953c3036ce5c",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+      "title": "The US is advancing AI safety through state and federal action",
+      "summary": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
+      "publishedAt": "2026-07-15T12:00:00.000Z",
+      "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -390,16 +314,35 @@
       }
     },
     {
-      "id": "d7ccf9cc0fa27a1d720ba1729fb0d259829d7fa5",
+      "id": "ee230258f27f8a0de48925de53f81261735fd525",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+      "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+      "summary": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
+      "publishedAt": "2026-07-15T10:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "d37ce11fa5e902fca276a247d99b238df2e2a2a2",
       "company": "Anthropic",
       "sourceKind": "official",
       "sourceId": "anthropic-news",
       "sourceLabel": "Anthropic News",
       "homepageUrl": "https://www.anthropic.com/news",
-      "url": "https://www.anthropic.com/news/reflect-with-claude",
-      "title": "Introducing a way to reflect on how you use Claude",
+      "url": "https://www.anthropic.com/news/claude-for-teachers",
+      "title": "Introducing Claude for Teachers",
       "summary": "",
-      "publishedAt": "2026-07-09T00:00:00.000Z",
+      "publishedAt": "2026-07-14T00:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "anchor",
       "classification": {
@@ -428,6 +371,44 @@
       }
     },
     {
+      "id": "bbdd3739fbe6966f2beeef00764d31346e9c8e6a",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNek5CME44TFViSjAycUFlaEhGVXc3OEd2TkY3b1ZmcFdfS1VaSUxmVFdaSm9BNHZrb1NlU1ZWU2d0ZC1aanNBM2t2Unowd0ZUc1N3eWFEVzU5QWNZMEtLSjQxZVN6NDVXUkU1Q3dkd1JmZ25YMjdIVmpsVWtYbjJzVS1nN2xaWF9UVVlZU3RqZHFxWmFZU2I0aUdJYmdkQjROeWttVjZn?oc=5",
+      "title": "Meta expands Louisiana data center to 5GW in new AI push",
+      "summary": "",
+      "publishedAt": "2026-07-14T15:00:33.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "954cea449b7f9c04e12f50bd7464ea16932e0c09",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRF8zRF8yVXBqd3JfZnJvWlEwdVJyRVZMeHdIbU5jTEdweWZscGxHeUlPdFkzLVZXZDg1MGwyS2twQ0dsMWRwZkNVelpzcGZnNUJLSWZ3c3UzMWZRMERwMkpRRk1zV1Y5eUwyTDVhcndxa1cyNXNDTTNwQWVTRC1OT1c3TGRqN3ktMC1hRFBHSm1lbmJZOTFKX3l6VXJwSld0M25TcmJaM21wdDBDTzZ0VXh6ZTg1dw?oc=5",
+      "title": "Meta's data center costs are skyrocketing. Here's what you need to know.",
+      "summary": "",
+      "publishedAt": "2026-07-13T20:34:16.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
       "id": "bbc592ad0d3e1bef79649a4b927fb83c7754c201",
       "company": "Microsoft",
       "sourceKind": "external",
@@ -447,6 +428,44 @@
       }
     },
     {
+      "id": "3a0b4572422c1a8cbc95ae7fb7158fc8dc49f9d0",
+      "company": "Anthropic",
+      "sourceKind": "official",
+      "sourceId": "anthropic-news",
+      "sourceLabel": "Anthropic News",
+      "homepageUrl": "https://www.anthropic.com/news",
+      "url": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy",
+      "title": "Responsible Scaling Policy",
+      "summary": "",
+      "publishedAt": null,
+      "publisher": "",
+      "discoveryMethod": "anchor",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "d44db81786e377dcd4bb0979dc74357c33f11c22",
+      "company": "Meta",
+      "sourceKind": "official",
+      "sourceId": "meta-newsroom",
+      "sourceLabel": "Meta Newsroom",
+      "homepageUrl": "https://about.fb.com/news/",
+      "url": "https://about.fb.com/news/2026/07/keeping-parents-informed-teens-distress-conversations-meta-ai",
+      "title": "Alerting Parents if Teens Show Signs of Distress in Conversations With Meta AI",
+      "summary": "Parents using Instagram supervision tools will now be notified if their teen discusses suicide or self-harm with Meta AI. The post Alerting Parents if Teens Show Signs of Distress in Conversations With Meta AI",
+      "publishedAt": "2026-07-16T11:00:45.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
+      }
+    },
+    {
       "id": "42ba56cb55d4ea72b46b9e1216a6ae3fb460448e",
       "company": "Anthropic",
       "sourceKind": "official",
@@ -460,100 +479,81 @@
       "publisher": "",
       "discoveryMethod": "anchor",
       "classification": {
-        "bucket": "important",
-        "score": 3,
+        "bucket": "digest",
+        "score": 2,
         "reason": "Technical or research update"
       }
     },
     {
-      "id": "d015b138db17e42a452ed0cda3445385ab2ff4e7",
+      "id": "5638f482edc272d2d13d594541aef48cc0584a3d",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/how-to-make-gemini-study-notebooks",
+      "title": "Here’s how to make study notebooks in the Gemini app.",
+      "summary": "Studying for a test, but not sure where to start? Study notebooks, a new feature in the Gemini app, can help you get organized and learn more efficiently.Think of study …",
+      "publishedAt": "2026-07-10T16:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Technical or research update"
+      }
+    },
+    {
+      "id": "c9a7e41ab8861d9062fc761bf2292940254df633",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/alphaevolve-on-cloud",
+      "title": "We're rolling out AlphaEvolve widely to solve Google Cloud customers' hardest problems.",
+      "summary": "Finding the most efficient algorithm — whether designing a microchip, routing a logistics network or accelerating medical research — can be challenging, with many possib…",
+      "publishedAt": "2026-07-09T16:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Technical or research update"
+      }
+    },
+    {
+      "id": "97cd97d27d220f15f9bc8a69f1f4b5eea602a9e8",
       "company": "Anthropic",
       "sourceKind": "official",
-      "sourceId": "anthropic-news",
-      "sourceLabel": "Anthropic News",
-      "homepageUrl": "https://www.anthropic.com/news",
-      "url": "https://www.anthropic.com/news/ben-bernanke",
-      "title": "Ben Bernanke appointed to Anthropic’s Long-Term Benefit Trust",
+      "sourceId": "anthropic-engineering",
+      "sourceLabel": "Anthropic Engineering",
+      "homepageUrl": "https://www.anthropic.com/engineering",
+      "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
+      "title": "Featured How we contain Claude across products As agents grow more capable, so does their potential blast radius. The engineering question is how to cap it. Here’s what we’ve learned building containment for claude.ai, Claude Code, and Cowork.",
       "summary": "",
-      "publishedAt": "2026-07-09T00:00:00.000Z",
+      "publishedAt": null,
       "publisher": "",
       "discoveryMethod": "anchor",
       "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "15cd9808e0bdcca149b187c66ad47c458b1eefbe",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/reconstructing-peles-lost-goal",
-      "title": "Reconstructing Pelé’s “lost” goal",
-      "summary": "See how Google DeepMind AI technology reconstructed Pelé’s legendary 1959 lost goal at Rua Javari in our new mini-documentary.",
-      "publishedAt": "2026-07-14T13:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
         "bucket": "digest",
         "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "92ab1f77dd8ccf54b1a22b176d3dac5b102b2d7c",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
-      "title": "How to manage AI investments in the agentic era",
-      "summary": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
-      "publishedAt": "2026-07-14T10:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "1e3ecad2a8a66c9e98286b581d04b61d6c921f8c",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-southeast-asia-report-2026",
-      "title": "How Gemini is speaking the language of Southeast Asia",
-      "summary": "Gemini is taking off across Southeast Asia, thanks to its local language fluency and the region’s mobile-first population.",
-      "publishedAt": "2026-07-14T04:30:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
+        "reason": "Technical or research update"
       }
     }
   ],
   "newItems": [
     {
-      "id": "3c9e180ca59675053629adb3e35a4045b12556f8",
+      "id": "1b15850ada1f9713e65b9a473b9bd944cba4fca1",
       "company": "OpenAI",
       "sourceKind": "external",
       "sourceId": "external-openai-major",
       "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUWdiV3MtSjVTYUdiZ054LXVXM3I2aGN3RC16TmhxbHU0UHlmaGZyejlSVWthOVV5TnpTdGRkbnlJUU5WdVE1WHFUYU9YOERsN1gzVVZGNjlpZEF3UFBJMWxHSmlTbnlBWTlJWDh2blBmM0ZuRW5Td3NUZ2l4dG12djNERENmeFBrZVE3cDR0NjlzLWl5b3lrdmZBSFRsdw?oc=5",
-      "title": "OpenAI loses trademark dispute at EU court",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQllGNGFuZDBkRUhEcUsxMlB5OU1CUHFxZHRZQnJldDJUb2d2d1NyNThwRHdFdG1WckdmMTVfNkdHWWh1SGc1dFlyQnNmbnRkenlDM2VXSHFGQ2ZWZUJDdEpoTlJWM29qd3I1UHl4MTJfUmh6cURtY3ZGMTR4UnBRVF9ldVdmRnpsZGJ4RWtEQUdjQmNPYlVaYmpB?oc=5",
+      "title": "Apple Sues OpenAI, Here's What It Means for Oracle and Microsoft Investors",
       "summary": "",
-      "publishedAt": "2026-07-15T12:33:40.000Z",
+      "publishedAt": "2026-07-15T16:26:00.000Z",
       "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
@@ -563,93 +563,36 @@
       }
     },
     {
-      "id": "42aaaf58f640d93d711be2f6b60c575882447a42",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZ3ZTazkyQm9PY3dvamt0TG45UnFLOHNhYVlvMXNYOVB6eVhPbGpVLTVJV1RSN2xDOUltb2pxNGc1N01RRmdOMng4LTdDbTdrOVhiR1ctN3pMNFJVWGxqOGFlVl81VVdKWTJ0c1pBZjYtS1BKbVlUV2JHeFVRY2tKYkk4NHJ2TWJPTGEw?oc=5",
-      "title": "OpenAI pushes back on Apple trade secret lawsuit",
-      "summary": "",
-      "publishedAt": "2026-07-14T22:07:42.000Z",
-      "publisher": "TechCrunch",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "1d434fa2f86fcdf517265da26bd757432beb9c0a",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUWw3VFJzdTlmNnk1cGQzaVZkRFFEUkc4MThOeVRER0Utc3dmUmIyVHY5M0V6cWxacEZCWFdoZkpIYmZhcHhKS2ZnZUlRQ2F6RXdJT0xaQjFyZWYtX29WX0MxMXQzX3h6eEo0T19DVTV3bDZpMUU3eVhDX1N5MFc2V002Z1dlV2kza0dfZGxZYU1LVlFDXzc0LW5rLXVCb1p5XzJ6VGpEOGJ1UTZMTmVmaA?oc=5",
-      "title": "How a bungled email from Apple’s lawyer soured talks with OpenAI months before Apple sued",
-      "summary": "",
-      "publishedAt": "2026-07-14T21:18:57.000Z",
-      "publisher": "NBC News",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "87bf8dd3f3b2b1596b48e41a7d6179ee8f86c627",
+      "id": "38e1cf1e833b56e8bdee71701ecb20af4a2c9678",
       "company": "Microsoft",
       "sourceKind": "external",
       "sourceId": "external-microsoft-major",
       "sourceLabel": "Major External News - Microsoft",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9SLXZXRVdMZTFEOGZXeklZZ08teGV4cDBzX0QwamVMaXJwWjRxdjlyeFdEU25HTktDVEpjSHRxZkpBSkR3YmYzV0VvOHptNVV2Wi1INmpkdEpFcW1TTjNhMFRmSWFDbjluM1BJQms2QTEwMkxtTmfSAXtBVV95cUxQVkl1TjhyX0cwZFgxRW03dXRWazV3bUNEVklENjh3SlZPcDBBZFpDWEk4NWlRaGowM2JrY0JnZndKejZlUHd3SDBYQURjTHU5Z1ZseXlvXzdRamZ4VUF6QUQwYXVKSUptOTRJTmlDcFBTT0hyOWN5U3ZVV3M?oc=5",
-      "title": "Elon Musk and Sam Altman spar on X after Apple files OpenAI lawsuit",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdnVLbmdZNnJkSDA3LTFFZDF0dXl5ekRfRWEtbEl3YkU1bkVDeEI1R0xtdEg3N0ljMFYzZ1doeFFDdkY5b1dmV1lJOEI1dFdrTFc2NWVhbXpLUF9UV1B6TDVlV1cwYzZpeG1TVEJCeGxPNHJfNkhlaHhFZHlUSHZqQThEeUJLTjVTbWZZWnZTTTA1bWNsZFB4WjNKNFFhRjFNNm1sS3Jpb1BDUQ?oc=5",
+      "title": "Microsoft’s New Security Chief Replaces Top Execs to Force an AI Overhaul",
       "summary": "",
-      "publishedAt": "2026-07-12T15:32:34.000Z",
-      "publisher": "CNBC",
+      "publishedAt": "2026-07-15T18:34:00.000Z",
+      "publisher": "The Information",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
+        "score": 5,
+        "reason": "Safety, security, or policy update"
       }
     },
     {
-      "id": "0186eba13fd22c46e80b20df994bdf68a2e9b1bc",
-      "company": "Microsoft",
-      "sourceKind": "official",
-      "sourceId": "microsoft-ai",
-      "sourceLabel": "Microsoft AI",
-      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
-      "url": "https://news.microsoft.com/source/2026/07/15/3m-and-microsoft-announce-strategic-partnership-to-advance-ai-data-center-infrastructure-and-enterprise-transformation",
-      "title": "3M and Microsoft announce strategic partnership to advance AI data center infrastructure and enterprise transformation",
-      "summary": "3M and Microsoft announce strategic partnership to advance AI data center infrastructure and enterprise transformation",
-      "publishedAt": "2026-07-15T13:00:19.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "83d17de8748bd2107e1c058f184ef82753e346d2",
+      "id": "f757ddcf6cdfa3f664efc1ac1d062f44d059ffe7",
       "company": "OpenAI",
       "sourceKind": "external",
       "sourceId": "external-openai-major",
       "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQ0pvcFYxQVNQS0VHdzdOeENPa0RxbEExUnVXWlhZWV9nNmFzV052QkhWVHBUSWNHclMwSXBsVV9OdFZNZ0lBejFPOEFZS0ZxU3REZEJjTG14czM4ZS1acDBnMWo3bmVCVnNzVXRtX1JhcE1zLUVoLTVrbEphZjduZnZmV1lsc2xEZGZlLUZOak05Yk5ZdkRiSGtR?oc=5",
-      "title": "OpenAI Staffers Are Funding a Rival Super PAC to Take on Their Boss",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdEdpZGI4eHZKOEwyNXFhYXRIRzU4QkFMZjl0SFFEaWQwbVo3ZnF1bFBhODhLNUtQX2VvMVA3eXgwOFVjdEhINk1FQ3lQSmEyeFI0RmpKLUJvenBRVEtvMnlndlQzLWQtSWZ0R0UyeTJ4NmxtaUlpRGpndGZWUk9MRm9XRFJwVDd3N2FoWXNubTE1TWVCRG14eENNX2hDUkE?oc=5",
+      "title": "Sam Altman Just Criticized SpaceX's Data Centers in Space. Is the OpenAI Founder Right?",
       "summary": "",
-      "publishedAt": "2026-07-15T09:00:00.000Z",
-      "publisher": "WIRED",
+      "publishedAt": "2026-07-16T13:05:00.000Z",
+      "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -658,17 +601,17 @@
       }
     },
     {
-      "id": "d772b26c8f3f5fe7166940443f677e0bcccef931",
+      "id": "4076e895ea0ceaa3a5b55a7c0d846f15a0b5fdef",
       "company": "Meta",
       "sourceKind": "external",
       "sourceId": "external-meta-major",
       "sourceLabel": "Major External News - Meta",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZThhNnhrcDVGUWV0RmxzTXNIdEUtWjRnZGd6dEtPeFF6TzExMXNZTGhQUUhpY0xOU1hlN18wOXFFeDZoMVk5VWYwZFdLY1E3N3o2aXhyRkNRaS01WmpfLVc2bm54UGl3Y2RUQzlSNXI5THJfNEpKZHB4YmNWaFI1R3JmNWdUR2lhS0lHQ1RDS0N1WkJNeXp0Qg?oc=5",
-      "title": "Meta confirms expansion of $50B data center",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTE1qYkItRzV3Q3AyREJwTVlCd0F6RnVzc1N3Qk1NZ2tvTTJmT2c3czZaZ0pERldEU2kxSkVjU1VrUEQ1STRvRHpFcWtpVm9vbnloN3FGVVBNVkE1RG5PdXZqZmI0aXBRUTNDTFk0MkoyYklFMVZGQWxOVWIzM2t2dnZJQTlxTllSU01vQUdIUXhIZ0c4NlJET3VaZWoycTlfUzVBMA?oc=5",
+      "title": "Mark Zuckerberg’s Meta Just Supercharged Its Biggest AI Bet Yet, Expanding Its Hyperion Data Center Into a $50 Billion-Plus Project",
       "summary": "",
-      "publishedAt": "2026-07-13T17:23:55.000Z",
-      "publisher": "Axios",
+      "publishedAt": "2026-07-15T02:31:00.000Z",
+      "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -677,54 +620,54 @@
       }
     },
     {
-      "id": "15cd9808e0bdcca149b187c66ad47c458b1eefbe",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/reconstructing-peles-lost-goal",
-      "title": "Reconstructing Pelé’s “lost” goal",
-      "summary": "See how Google DeepMind AI technology reconstructed Pelé’s legendary 1959 lost goal at Rua Javari in our new mini-documentary.",
-      "publishedAt": "2026-07-14T13:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "92ab1f77dd8ccf54b1a22b176d3dac5b102b2d7c",
+      "id": "1e97faa490facd0c80775009cd29953c3036ce5c",
       "company": "OpenAI",
       "sourceKind": "official",
       "sourceId": "openai-newsroom",
       "sourceLabel": "OpenAI Newsroom",
       "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
-      "title": "How to manage AI investments in the agentic era",
-      "summary": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
-      "publishedAt": "2026-07-14T10:00:00.000Z",
+      "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+      "title": "The US is advancing AI safety through state and federal action",
+      "summary": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
+      "publishedAt": "2026-07-15T12:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
+        "bucket": "important",
+        "score": 4,
+        "reason": "Safety, security, or policy update"
       }
     },
     {
-      "id": "1e3ecad2a8a66c9e98286b581d04b61d6c921f8c",
-      "company": "Google",
+      "id": "ee230258f27f8a0de48925de53f81261735fd525",
+      "company": "OpenAI",
       "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-southeast-asia-report-2026",
-      "title": "How Gemini is speaking the language of Southeast Asia",
-      "summary": "Gemini is taking off across Southeast Asia, thanks to its local language fluency and the region’s mobile-first population.",
-      "publishedAt": "2026-07-14T04:30:00.000Z",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+      "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+      "summary": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
+      "publishedAt": "2026-07-15T10:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "d44db81786e377dcd4bb0979dc74357c33f11c22",
+      "company": "Meta",
+      "sourceKind": "official",
+      "sourceId": "meta-newsroom",
+      "sourceLabel": "Meta Newsroom",
+      "homepageUrl": "https://about.fb.com/news/",
+      "url": "https://about.fb.com/news/2026/07/keeping-parents-informed-teens-distress-conversations-meta-ai",
+      "title": "Alerting Parents if Teens Show Signs of Distress in Conversations With Meta AI",
+      "summary": "Parents using Instagram supervision tools will now be notified if their teen discusses suicide or self-harm with Meta AI. The post Alerting Parents if Teens Show Signs of Distress in Conversations With Meta AI",
+      "publishedAt": "2026-07-16T11:00:45.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {

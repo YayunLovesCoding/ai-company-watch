@@ -1,88 +1,67 @@
 # AI Company Watch
 
-Generated: Jul 15, 2026, 8:27 AM PDT
+Generated: Jul 16, 2026, 8:40 AM PDT
 Lookback window: 7 day(s)
 Sources checked: 12
-Items fetched: 42
+Items fetched: 36
 Items kept: 24
-New items: 10
-External items kept: 14
-Official items kept: 10
+New items: 7
+External items kept: 13
+Official items kept: 11
 
 ## Critical External News
 
-### OpenAI - OpenAI loses trademark dispute at EU court
+### OpenAI - Apple Sues OpenAI, Here's What It Means for Oracle and Microsoft Investors
 Source: Major External News - OpenAI
 Publisher: Yahoo Finance
 Published: Jul 15, 2026
 Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMingFBVV95cUxNUWdiV3MtSjVTYUdiZ054LXVXM3I2aGN3RC16TmhxbHU0UHlmaGZyejlSVWthOVV5TnpTdGRkbnlJUU5WdVE1WHFUYU9YOERsN1gzVVZGNjlpZEF3UFBJMWxHSmlTbnlBWTlJWDh2blBmM0ZuRW5Td3NUZ2l4dG12djNERENmeFBrZVE3cDR0NjlzLWl5b3lrdmZBSFRsdw?oc=5
+Link: https://news.google.com/rss/articles/CBMimgFBVV95cUxQQllGNGFuZDBkRUhEcUsxMlB5OU1CUHFxZHRZQnJldDJUb2d2d1NyNThwRHdFdG1WckdmMTVfNkdHWWh1SGc1dFlyQnNmbnRkenlDM2VXSHFGQ2ZWZUJDdEpoTlJWM29qd3I1UHl4MTJfUmh6cURtY3ZGMTR4UnBRVF9ldVdmRnpsZGJ4RWtEQUdjQmNPYlVaYmpB?oc=5
 
-### OpenAI - OpenAI pushes back on Apple trade secret lawsuit
-Source: Major External News - OpenAI
-Publisher: TechCrunch
-Published: Jul 14, 2026
-Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZ3ZTazkyQm9PY3dvamt0TG45UnFLOHNhYVlvMXNYOVB6eVhPbGpVLTVJV1RSN2xDOUltb2pxNGc1N01RRmdOMng4LTdDbTdrOVhiR1ctN3pMNFJVWGxqOGFlVl81VVdKWTJ0c1pBZjYtS1BKbVlUV2JHeFVRY2tKYkk4NHJ2TWJPTGEw?oc=5
-
-### OpenAI - How a bungled email from Apple’s lawyer soured talks with OpenAI months before Apple sued
-Source: Major External News - OpenAI
-Publisher: NBC News
-Published: Jul 14, 2026
-Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxOUWw3VFJzdTlmNnk1cGQzaVZkRFFEUkc4MThOeVRER0Utc3dmUmIyVHY5M0V6cWxacEZCWFdoZkpIYmZhcHhKS2ZnZUlRQ2F6RXdJT0xaQjFyZWYtX29WX0MxMXQzX3h6eEo0T19DVTV3bDZpMUU3eVhDX1N5MFc2V002Z1dlV2kza0dfZGxZYU1LVlFDXzc0LW5rLXVCb1p5XzJ6VGpEOGJ1UTZMTmVmaA?oc=5
-
-### Microsoft - Elon Musk and Sam Altman spar on X after Apple files OpenAI lawsuit
+### Microsoft - Microsoft’s New Security Chief Replaces Top Execs to Force an AI Overhaul
 Source: Major External News - Microsoft
-Publisher: CNBC
-Published: Jul 12, 2026
-Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMidkFVX3lxTE9SLXZXRVdMZTFEOGZXeklZZ08teGV4cDBzX0QwamVMaXJwWjRxdjlyeFdEU25HTktDVEpjSHRxZkpBSkR3YmYzV0VvOHptNVV2Wi1INmpkdEpFcW1TTjNhMFRmSWFDbjluM1BJQms2QTEwMkxtTmfSAXtBVV95cUxQVkl1TjhyX0cwZFgxRW03dXRWazV3bUNEVklENjh3SlZPcDBBZFpDWEk4NWlRaGowM2JrY0JnZndKejZlUHd3SDBYQURjTHU5Z1ZseXlvXzdRamZ4VUF6QUQwYXVKSUptOTRJTmlDcFBTT0hyOWN5U3ZVV3M?oc=5
+Publisher: The Information
+Published: Jul 15, 2026
+Why it matters: Safety, security, or policy update
+Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdnVLbmdZNnJkSDA3LTFFZDF0dXl5ekRfRWEtbEl3YkU1bkVDeEI1R0xtdEg3N0ljMFYzZ1doeFFDdkY5b1dmV1lJOEI1dFdrTFc2NWVhbXpLUF9UV1B6TDVlV1cwYzZpeG1TVEJCeGxPNHJfNkhlaHhFZHlUSHZqQThEeUJLTjVTbWZZWnZTTTA1bWNsZFB4WjNKNFFhRjFNNm1sS3Jpb1BDUQ?oc=5
 
 ## Important External News
 
-### OpenAI - OpenAI Staffers Are Funding a Rival Super PAC to Take on Their Boss
+### OpenAI - Sam Altman Just Criticized SpaceX's Data Centers in Space. Is the OpenAI Founder Right?
 Source: Major External News - OpenAI
-Publisher: WIRED
-Published: Jul 15, 2026
+Publisher: Yahoo Finance
+Published: Jul 16, 2026
 Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMimgFBVV95cUxOQ0pvcFYxQVNQS0VHdzdOeENPa0RxbEExUnVXWlhZWV9nNmFzV052QkhWVHBUSWNHclMwSXBsVV9OdFZNZ0lBejFPOEFZS0ZxU3REZEJjTG14czM4ZS1acDBnMWo3bmVCVnNzVXRtX1JhcE1zLUVoLTVrbEphZjduZnZmV1lsc2xEZGZlLUZOak05Yk5ZdkRiSGtR?oc=5
+Link: https://news.google.com/rss/articles/CBMinwFBVV95cUxQdEdpZGI4eHZKOEwyNXFhYXRIRzU4QkFMZjl0SFFEaWQwbVo3ZnF1bFBhODhLNUtQX2VvMVA3eXgwOFVjdEhINk1FQ3lQSmEyeFI0RmpKLUJvenBRVEtvMnlndlQzLWQtSWZ0R0UyeTJ4NmxtaUlpRGpndGZWUk9MRm9XRFJwVDd3N2FoWXNubTE1TWVCRG14eENNX2hDUkE?oc=5
 
-### Meta - Meta confirms expansion of $50B data center
+### Meta - Mark Zuckerberg’s Meta Just Supercharged Its Biggest AI Bet Yet, Expanding Its Hyperion Data Center Into a $50 Billion-Plus Project
 Source: Major External News - Meta
-Publisher: Axios
-Published: Jul 13, 2026
+Publisher: Yahoo Finance
+Published: Jul 14, 2026
 Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMimAFBVV95cUxPZThhNnhrcDVGUWV0RmxzTXNIdEUtWjRnZGd6dEtPeFF6TzExMXNZTGhQUUhpY0xOU1hlN18wOXFFeDZoMVk5VWYwZFdLY1E3N3o2aXhyRkNRaS01WmpfLVc2bm54UGl3Y2RUQzlSNXI5THJfNEpKZHB4YmNWaFI1R3JmNWdUR2lhS0lHQ1RDS0N1WkJNeXp0Qg?oc=5
+Link: https://news.google.com/rss/articles/CBMipAFBVV95cUxQTE1qYkItRzV3Q3AyREJwTVlCd0F6RnVzc1N3Qk1NZ2tvTTJmT2c3czZaZ0pERldEU2kxSkVjU1VrUEQ1STRvRHpFcWtpVm9vbnloN3FGVVBNVkE1RG5PdXZqZmI0aXBRUTNDTFk0MkoyYklFMVZGQWxOVWIzM2t2dnZJQTlxTllSU01vQUdIUXhIZ0c4NlJET3VaZWoycTlfUzVBMA?oc=5
 
-## Critical Official Updates
+## Important Official Updates
 
-### Microsoft - 3M and Microsoft announce strategic partnership to advance AI data center infrastructure and enterprise transformation
-Source: Microsoft AI
+### OpenAI - The US is advancing AI safety through state and federal action
+Source: OpenAI Newsroom
 Published: Jul 15, 2026
-Why it matters: Corporate move or major external event
-Summary: 3M and Microsoft announce strategic partnership to advance AI data center infrastructure and enterprise transformation
-Link: https://news.microsoft.com/source/2026/07/15/3m-and-microsoft-announce-strategic-partnership-to-advance-ai-data-center-infrastructure-and-enterprise-transformation
+Why it matters: Safety, security, or policy update
+Summary: OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.
+Link: https://openai.com/index/advancing-ai-safety-through-state-and-federal-action
+
+### OpenAI - GPT-Red: Unlocking Self-Improvement for Robustness
+Source: OpenAI Newsroom
+Published: Jul 15, 2026
+Why it matters: Safety, security, or policy update
+Summary: Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.
+Link: https://openai.com/index/unlocking-self-improvement-gpt-red
 
 ## Official Company Updates
 
-### Google - Reconstructing Pelé’s “lost” goal
-Source: Google AI
-Published: Jul 14, 2026
+### Meta - Alerting Parents if Teens Show Signs of Distress in Conversations With Meta AI
+Source: Meta Newsroom
+Published: Jul 16, 2026
 Why it matters: Routine official update
-Summary: See how Google DeepMind AI technology reconstructed Pelé’s legendary 1959 lost goal at Rua Javari in our new mini-documentary.
-Link: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/reconstructing-peles-lost-goal
-
-### OpenAI - How to manage AI investments in the agentic era
-Source: OpenAI Newsroom
-Published: Jul 14, 2026
-Why it matters: Routine official update
-Summary: Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.
-Link: https://openai.com/index/managing-ai-investments-in-agentic-era
-
-### Google - How Gemini is speaking the language of Southeast Asia
-Source: Google AI
-Published: Jul 13, 2026
-Why it matters: Routine official update
-Summary: Gemini is taking off across Southeast Asia, thanks to its local language fluency and the region’s mobile-first population.
-Link: https://blog.google/innovation-and-ai/products/gemini-app/gemini-southeast-asia-report-2026
+Summary: Parents using Instagram supervision tools will now be notified if their teen discusses suicide or self-harm with Meta AI. The post Alerting Parents if Teens Show Signs of Distress in Conversations With Meta AI
+Link: https://about.fb.com/news/2026/07/keeping-parents-informed-teens-distress-conversations-meta-ai
