@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T15:40:54.133Z",
+  "generatedAt": "2026-07-17T15:16:16.212Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -76,15 +76,34 @@
     }
   ],
   "totals": {
-    "fetched": 36,
+    "fetched": 39,
     "deduped": 24,
-    "new": 7,
+    "new": 9,
     "byKind": {
       "official": 11,
       "external": 13
     }
   },
   "items": [
+    {
+      "id": "14df8b4dd57b200a997c36854b36f05be020d746",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQc0h3YzQwQ0JDaVREeEhueFBJOXlraGlJN1p3NWFOUmx2LWFiTnFMMjktd2JDdElZV1hCMEhna1k4bkJtUzFNMzhkMW4tTGxYMjhObXBUN3lFQ1JxUnRfc0FLTHBQZE5VU2RnemNyZnZUUDVoTXB4ZXJBaEoxX0R0MmU4LVpjY19BM3Bob3BLRXBBZGViY093MHJlNlI5a3BHTnlKRFJJQnJSd1JWaE9fS0RB?oc=5",
+      "title": "OpenAI Taps Quinn Emanuel For Apple Trade Secret Court Fight",
+      "summary": "",
+      "publishedAt": "2026-07-16T20:19:00.000Z",
+      "publisher": "Bloomberg Law News",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
     {
       "id": "1b15850ada1f9713e65b9a473b9bd944cba4fca1",
       "company": "OpenAI",
@@ -119,41 +138,22 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "0161a96b7da418b810e80955267042cd1bfe4c6f",
-      "company": "Google",
-      "sourceKind": "external",
-      "sourceId": "external-google-major",
-      "sourceLabel": "Major External News - Google",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRmhqd1N1RlV3RnBERVcxdlpaeDVnQnI2WlRiY2ZTRk95ZXhDNVNwbVJMcXljaVBmWWlMZE5YOUNkZC1tNWV2dF94NXFhZzQ4b0pydHYyX1NySjBvbVNkY3BmTXhqNEpmcmhmdzZSLXVONU5ValZHZWd1WEhHam95ZHltaU1uVFhzZmwzamM3UDdSYllkeVZackFDUl9VYTJHYWRDYVJnbExwTGFSVzlDZzV4ak5IZmNxYTlyQzhCRENHcVN4?oc=5",
-      "title": "German media regulator says Google's AI Overviews subject to German media law",
-      "summary": "",
-      "publishedAt": "2026-07-14T14:28:26.000Z",
-      "publisher": "Reuters",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
         "score": 6,
         "reason": "Corporate move or major external event"
       }
     },
     {
-      "id": "a67a117f0c1845efb2a4c122a6487dda0d94fcef",
-      "company": "Meta",
+      "id": "3f5e9bda32461ba738cb58597628165ffff6f996",
+      "company": "Google",
       "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
+      "sourceId": "external-google-major",
+      "sourceLabel": "Major External News - Google",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQnJpUGtNQXFzaExPZlhub1lVWlM1S01ya3VLVlo1dUlFMzZBcWF5Mm1KdXhPdmg0b0NJMVlseTNlMGRsWksxUnQ4UXFmQWpySGhOWEpiaGk5bHhsSFZ5X1VtRXVCQ0dLTG9FWGNlVDhKT1Z6c1F4TnRKaVNVVGw5dmxLOFdRTm5KdWc4VUM3dGR1LV8yanp2eDlRR2ZHU19ZMDJfcmxzN2RkZHlW?oc=5",
-      "title": "Meta expands Louisiana data center to 5 gigawatts, investment crosses $50 billion",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQUdaQ1pDbzBIdmxOcFZUUk9fOTNkdXNERWVJdHhyb3FFWlhOckJUN0ZwQmc0SUhpOURMSGI2OS1VVGhONVc4Zjh1WFhxc2lmQ0VXUjBQMmMzZnVROEFySHNMN3cyV21oQ0VLREd0YkZpYjNsTGJ0S0dVTy10MXJtSHk0cDV3dVJIamp0enctd2RpZWROekZF?oc=5",
+      "title": "German media regulator says Google's AI Overviews subject to German media law",
       "summary": "",
-      "publishedAt": "2026-07-13T18:48:09.000Z",
-      "publisher": "Reuters",
+      "publishedAt": "2026-07-14T14:27:51.000Z",
+      "publisher": "Yahoo",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -181,44 +181,6 @@
       }
     },
     {
-      "id": "87bf8dd3f3b2b1596b48e41a7d6179ee8f86c627",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9SLXZXRVdMZTFEOGZXeklZZ08teGV4cDBzX0QwamVMaXJwWjRxdjlyeFdEU25HTktDVEpjSHRxZkpBSkR3YmYzV0VvOHptNVV2Wi1INmpkdEpFcW1TTjNhMFRmSWFDbjluM1BJQms2QTEwMkxtTmfSAXtBVV95cUxQVkl1TjhyX0cwZFgxRW03dXRWazV3bUNEVklENjh3SlZPcDBBZFpDWEk4NWlRaGowM2JrY0JnZndKejZlUHd3SDBYQURjTHU5Z1ZseXlvXzdRamZ4VUF6QUQwYXVKSUptOTRJTmlDcFBTT0hyOWN5U3ZVV3M?oc=5",
-      "title": "Elon Musk and Sam Altman spar on X after Apple files OpenAI lawsuit",
-      "summary": "",
-      "publishedAt": "2026-07-12T15:32:34.000Z",
-      "publisher": "CNBC",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "0186eba13fd22c46e80b20df994bdf68a2e9b1bc",
-      "company": "Microsoft",
-      "sourceKind": "official",
-      "sourceId": "microsoft-ai",
-      "sourceLabel": "Microsoft AI",
-      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
-      "url": "https://news.microsoft.com/source/2026/07/15/3m-and-microsoft-announce-strategic-partnership-to-advance-ai-data-center-infrastructure-and-enterprise-transformation",
-      "title": "3M and Microsoft announce strategic partnership to advance AI data center infrastructure and enterprise transformation",
-      "summary": "3M and Microsoft announce strategic partnership to advance AI data center infrastructure and enterprise transformation",
-      "publishedAt": "2026-07-15T13:00:19.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
       "id": "38e1cf1e833b56e8bdee71701ecb20af4a2c9678",
       "company": "Microsoft",
       "sourceKind": "external",
@@ -238,54 +200,54 @@
       }
     },
     {
-      "id": "f757ddcf6cdfa3f664efc1ac1d062f44d059ffe7",
-      "company": "OpenAI",
+      "id": "efbcd77d1ff78c0f880d1f7c8465c704de934600",
+      "company": "Microsoft",
       "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdEdpZGI4eHZKOEwyNXFhYXRIRzU4QkFMZjl0SFFEaWQwbVo3ZnF1bFBhODhLNUtQX2VvMVA3eXgwOFVjdEhINk1FQ3lQSmEyeFI0RmpKLUJvenBRVEtvMnlndlQzLWQtSWZ0R0UyeTJ4NmxtaUlpRGpndGZWUk9MRm9XRFJwVDd3N2FoWXNubTE1TWVCRG14eENNX2hDUkE?oc=5",
-      "title": "Sam Altman Just Criticized SpaceX's Data Centers in Space. Is the OpenAI Founder Right?",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWUJmTW13VnlzSXpzTHF6RmlFXzhKdU14VlZYY0hIMEhSSWRxZC1Ta2tnNmRwWV9HT1B1X09memFINERMRldjNG4wTUtuaDBmWW5xdVJGRmhuckY2WHVac3pjM1JCcFBWYndDbGNTcWJ5bzdiVzhHNTRSMlplQlJrNDdLU2VyYmo4WEl1bF9jMUVuQll4TjBlWUNlOUJpTXlJR29JczUzUk5RQXRIVS1qR3RiZnl2QQ?oc=5",
+      "title": "Microsoft patches record number of security vulnerabilities, citing its use of AI",
       "summary": "",
-      "publishedAt": "2026-07-16T13:05:00.000Z",
-      "publisher": "Yahoo Finance",
+      "publishedAt": "2026-07-15T16:20:18.000Z",
+      "publisher": "TechCrunch",
       "discoveryMethod": "feed",
       "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Safety, security, or policy update"
       }
     },
     {
-      "id": "83d17de8748bd2107e1c058f184ef82753e346d2",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQ0pvcFYxQVNQS0VHdzdOeENPa0RxbEExUnVXWlhZWV9nNmFzV052QkhWVHBUSWNHclMwSXBsVV9OdFZNZ0lBejFPOEFZS0ZxU3REZEJjTG14czM4ZS1acDBnMWo3bmVCVnNzVXRtX1JhcE1zLUVoLTVrbEphZjduZnZmV1lsc2xEZGZlLUZOak05Yk5ZdkRiSGtR?oc=5",
-      "title": "OpenAI Staffers Are Funding a Rival Super PAC to Take on Their Boss",
-      "summary": "",
-      "publishedAt": "2026-07-15T09:00:00.000Z",
-      "publisher": "WIRED",
+      "id": "0186eba13fd22c46e80b20df994bdf68a2e9b1bc",
+      "company": "Microsoft",
+      "sourceKind": "official",
+      "sourceId": "microsoft-ai",
+      "sourceLabel": "Microsoft AI",
+      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
+      "url": "https://news.microsoft.com/source/2026/07/15/3m-and-microsoft-announce-strategic-partnership-to-advance-ai-data-center-infrastructure-and-enterprise-transformation",
+      "title": "3M and Microsoft announce strategic partnership to advance AI data center infrastructure and enterprise transformation",
+      "summary": "3M and Microsoft announce strategic partnership to advance AI data center infrastructure and enterprise transformation",
+      "publishedAt": "2026-07-15T13:00:19.000Z",
+      "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Corporate move or major external event"
       }
     },
     {
-      "id": "4076e895ea0ceaa3a5b55a7c0d846f15a0b5fdef",
+      "id": "e6d83a2c3e9e30be2a5f5f78a9e55401c9657cde",
       "company": "Meta",
       "sourceKind": "external",
       "sourceId": "external-meta-major",
       "sourceLabel": "Major External News - Meta",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTE1qYkItRzV3Q3AyREJwTVlCd0F6RnVzc1N3Qk1NZ2tvTTJmT2c3czZaZ0pERldEU2kxSkVjU1VrUEQ1STRvRHpFcWtpVm9vbnloN3FGVVBNVkE1RG5PdXZqZmI0aXBRUTNDTFk0MkoyYklFMVZGQWxOVWIzM2t2dnZJQTlxTllSU01vQUdIUXhIZ0c4NlJET3VaZWoycTlfUzVBMA?oc=5",
-      "title": "Mark Zuckerberg’s Meta Just Supercharged Its Biggest AI Bet Yet, Expanding Its Hyperion Data Center Into a $50 Billion-Plus Project",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQU52NzJXOVIyY2dVNlBJbDd3RldmbXl2YzdvNXgybzI3LUg5MlF2NmdNNGRJN2FWUW5hRzk3dlhEbER6ZDZaNjBFLUV3aHJZNC1yMHN6c3ZFdzlFUmk3dE5HeV84NFp1YkZCclBHb0wwTGV2WGZJbE1VZ0JwalFIUjB2WTZ2OTNuelc5UGZmajVybGFOLXRycm1BUjNLeHZ5ZjhveXc1all5M1hpUldudXNFWDFoZ0d3WTNZN2hBOEdYMW8?oc=5",
+      "title": "Meta’s data center plans could help solve its AI spending problems",
       "summary": "",
-      "publishedAt": "2026-07-15T02:31:00.000Z",
+      "publishedAt": "2026-07-16T16:40:31.000Z",
       "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
@@ -295,36 +257,36 @@
       }
     },
     {
-      "id": "1e97faa490facd0c80775009cd29953c3036ce5c",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
-      "title": "The US is advancing AI safety through state and federal action",
-      "summary": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
-      "publishedAt": "2026-07-15T12:00:00.000Z",
-      "publisher": "",
+      "id": "9a78a98851a25e54db3329a03706b1eb38dda960",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYVViTC0xLUp0ell3VTY4cmQzWktDVnczdmYtaVV3aE85UExBMjdHYW9FcGR6MnVOdTJoT0hOd0pIVm1iOVF6RlFFVk1XOF9zekFZWi1JVWRIWkF2WFhxb29ZZUVVSExZaXZ1X2x3V1JuTDdEeE1IaGVKTEo5aHJiaTl2NXFVNWk2dFZDUnlrZGNvUTJJTXc?oc=5",
+      "title": "Meta Will Spend Over $50 Billion for a Louisiana Data Center. How to Play META Stock Here.",
+      "summary": "",
+      "publishedAt": "2026-07-16T13:00:02.000Z",
+      "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
         "score": 4,
-        "reason": "Safety, security, or policy update"
+        "reason": "Trusted external coverage"
       }
     },
     {
-      "id": "ee230258f27f8a0de48925de53f81261735fd525",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
-      "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
-      "summary": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
-      "publishedAt": "2026-07-15T10:00:00.000Z",
-      "publisher": "",
+      "id": "68b0a65ac7baf1ef95fb639a0216e213036af4b1",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQS0h0V2dPeXVBUkJycGljb3FJWFpaNUJMRGZGWGtXWmFtN0xKTlN3SDVPV25iemNZRlZCUUktZU1YQmVBVzNMaTBwLU1ORmxFS1o2WlpJQkxmN18zbDcwcHdsZGtMNC1JVFJkRnZYV0lqczNKT1NzZUlyT3F3TXJYVGlvYVNOa25TYUlRdnNzZW9ocG0tUVFzVTh6dU5aTW91dVE?oc=5",
+      "title": "Varonis Extends AI Security Coverage to Claude Code and Claude Cowork",
+      "summary": "",
+      "publishedAt": "2026-07-14T13:00:00.000Z",
+      "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -371,6 +333,44 @@
       }
     },
     {
+      "id": "83d17de8748bd2107e1c058f184ef82753e346d2",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQ0pvcFYxQVNQS0VHdzdOeENPa0RxbEExUnVXWlhZWV9nNmFzV052QkhWVHBUSWNHclMwSXBsVV9OdFZNZ0lBejFPOEFZS0ZxU3REZEJjTG14czM4ZS1acDBnMWo3bmVCVnNzVXRtX1JhcE1zLUVoLTVrbEphZjduZnZmV1lsc2xEZGZlLUZOak05Yk5ZdkRiSGtR?oc=5",
+      "title": "OpenAI Staffers Are Funding a Rival Super PAC to Take on Their Boss",
+      "summary": "",
+      "publishedAt": "2026-07-15T09:00:00.000Z",
+      "publisher": "WIRED",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "4076e895ea0ceaa3a5b55a7c0d846f15a0b5fdef",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTE1qYkItRzV3Q3AyREJwTVlCd0F6RnVzc1N3Qk1NZ2tvTTJmT2c3czZaZ0pERldEU2kxSkVjU1VrUEQ1STRvRHpFcWtpVm9vbnloN3FGVVBNVkE1RG5PdXZqZmI0aXBRUTNDTFk0MkoyYklFMVZGQWxOVWIzM2t2dnZJQTlxTllSU01vQUdIUXhIZ0c4NlJET3VaZWoycTlfUzVBMA?oc=5",
+      "title": "Mark Zuckerberg’s Meta Just Supercharged Its Biggest AI Bet Yet, Expanding Its Hyperion Data Center Into a $50 Billion-Plus Project",
+      "summary": "",
+      "publishedAt": "2026-07-15T02:31:00.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
       "id": "bbdd3739fbe6966f2beeef00764d31346e9c8e6a",
       "company": "Meta",
       "sourceKind": "external",
@@ -390,41 +390,41 @@
       }
     },
     {
-      "id": "954cea449b7f9c04e12f50bd7464ea16932e0c09",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRF8zRF8yVXBqd3JfZnJvWlEwdVJyRVZMeHdIbU5jTEdweWZscGxHeUlPdFkzLVZXZDg1MGwyS2twQ0dsMWRwZkNVelpzcGZnNUJLSWZ3c3UzMWZRMERwMkpRRk1zV1Y5eUwyTDVhcndxa1cyNXNDTTNwQWVTRC1OT1c3TGRqN3ktMC1hRFBHSm1lbmJZOTFKX3l6VXJwSld0M25TcmJaM21wdDBDTzZ0VXh6ZTg1dw?oc=5",
-      "title": "Meta's data center costs are skyrocketing. Here's what you need to know.",
-      "summary": "",
-      "publishedAt": "2026-07-13T20:34:16.000Z",
-      "publisher": "Yahoo Finance",
+      "id": "1e97faa490facd0c80775009cd29953c3036ce5c",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+      "title": "The US is advancing AI safety through state and federal action",
+      "summary": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
+      "publishedAt": "2026-07-15T12:00:00.000Z",
+      "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
         "score": 3,
-        "reason": "Trusted external coverage"
+        "reason": "Safety, security, or policy update"
       }
     },
     {
-      "id": "bbc592ad0d3e1bef79649a4b927fb83c7754c201",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONFI3R1RNc00wellnODFtTTJacTJRc21qNDUxU19tWVdBTnlyYkhZMVRINTQ3QlRDYnJELXh6d2h3c0tvMlJSUy1KU2tWVHVaWGdJTUhuY3pxU2JSc19tM1pKZ193WFE1VFIteVVhSnpCQ0ZVZTVsUURKWDRFd2tfQ3RuVlhlNjVaRmFzUnE2LWsxajJhanpZbHE3OA?oc=5",
-      "title": "OpenAI CEO Altman Accuses Elon Musk Of Wooing Investors With Space-Data Center Hype As SPCX Stock Nears Post-IPO Low",
-      "summary": "",
-      "publishedAt": "2026-07-12T15:17:43.000Z",
-      "publisher": "Yahoo Finance",
+      "id": "ee230258f27f8a0de48925de53f81261735fd525",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+      "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+      "summary": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
+      "publishedAt": "2026-07-15T10:00:00.000Z",
+      "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
         "score": 3,
-        "reason": "Trusted external coverage"
+        "reason": "Safety, security, or policy update"
       }
     },
     {
@@ -447,6 +447,63 @@
       }
     },
     {
+      "id": "3ebda52fc80ebe33165f5f415dd9c032d4c031d4",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
+      "title": "A scorecard for the AI age",
+      "summary": "Sarah Friar, CFO of OpenaAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
+      "publishedAt": "2026-07-17T10:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "ad568fefbb7de630f5b9107a92d5cc9d8d06acdd",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook",
+      "title": "NotebookLM is now Gemini Notebook",
+      "summary": "NotebookLM is now Gemini Notebook: the same standalone product with deeper Google integration and a secure cloud computer.",
+      "publishedAt": "2026-07-16T16:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "8fe39edff791751de0c2c6545e4ca710ed977e69",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+      "title": "Why teens deserve access to safe AI",
+      "summary": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
+      "publishedAt": "2026-07-16T16:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
+      }
+    },
+    {
       "id": "d44db81786e377dcd4bb0979dc74357c33f11c22",
       "company": "Meta",
       "sourceKind": "official",
@@ -466,95 +523,38 @@
       }
     },
     {
-      "id": "42ba56cb55d4ea72b46b9e1216a6ae3fb460448e",
-      "company": "Anthropic",
+      "id": "6f16a999c8ddd889e881e535b45bac9cfa6b8f4a",
+      "company": "OpenAI",
       "sourceKind": "official",
-      "sourceId": "anthropic-news",
-      "sourceLabel": "Anthropic News",
-      "homepageUrl": "https://www.anthropic.com/news",
-      "url": "https://www.anthropic.com/news/canadian-ai-research",
-      "title": "Anthropic commits $10 million to Canadian AI research",
-      "summary": "",
-      "publishedAt": "2026-07-14T00:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "anchor",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Technical or research update"
-      }
-    },
-    {
-      "id": "5638f482edc272d2d13d594541aef48cc0584a3d",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/how-to-make-gemini-study-notebooks",
-      "title": "Here’s how to make study notebooks in the Gemini app.",
-      "summary": "Studying for a test, but not sure where to start? Study notebooks, a new feature in the Gemini app, can help you get organized and learn more efficiently.Think of study …",
-      "publishedAt": "2026-07-10T16:00:00.000Z",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/cars24",
+      "title": "How Cars24 scales conversations and builds faster with OpenAI",
+      "summary": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
+      "publishedAt": "2026-07-16T00:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "digest",
         "score": 2,
-        "reason": "Technical or research update"
-      }
-    },
-    {
-      "id": "c9a7e41ab8861d9062fc761bf2292940254df633",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/alphaevolve-on-cloud",
-      "title": "We're rolling out AlphaEvolve widely to solve Google Cloud customers' hardest problems.",
-      "summary": "Finding the most efficient algorithm — whether designing a microchip, routing a logistics network or accelerating medical research — can be challenging, with many possib…",
-      "publishedAt": "2026-07-09T16:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Technical or research update"
-      }
-    },
-    {
-      "id": "97cd97d27d220f15f9bc8a69f1f4b5eea602a9e8",
-      "company": "Anthropic",
-      "sourceKind": "official",
-      "sourceId": "anthropic-engineering",
-      "sourceLabel": "Anthropic Engineering",
-      "homepageUrl": "https://www.anthropic.com/engineering",
-      "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
-      "title": "Featured How we contain Claude across products As agents grow more capable, so does their potential blast radius. The engineering question is how to cap it. Here’s what we’ve learned building containment for claude.ai, Claude Code, and Cowork.",
-      "summary": "",
-      "publishedAt": null,
-      "publisher": "",
-      "discoveryMethod": "anchor",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Technical or research update"
+        "reason": "Routine official update"
       }
     }
   ],
   "newItems": [
     {
-      "id": "1b15850ada1f9713e65b9a473b9bd944cba4fca1",
+      "id": "14df8b4dd57b200a997c36854b36f05be020d746",
       "company": "OpenAI",
       "sourceKind": "external",
       "sourceId": "external-openai-major",
       "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQllGNGFuZDBkRUhEcUsxMlB5OU1CUHFxZHRZQnJldDJUb2d2d1NyNThwRHdFdG1WckdmMTVfNkdHWWh1SGc1dFlyQnNmbnRkenlDM2VXSHFGQ2ZWZUJDdEpoTlJWM29qd3I1UHl4MTJfUmh6cURtY3ZGMTR4UnBRVF9ldVdmRnpsZGJ4RWtEQUdjQmNPYlVaYmpB?oc=5",
-      "title": "Apple Sues OpenAI, Here's What It Means for Oracle and Microsoft Investors",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQc0h3YzQwQ0JDaVREeEhueFBJOXlraGlJN1p3NWFOUmx2LWFiTnFMMjktd2JDdElZV1hCMEhna1k4bkJtUzFNMzhkMW4tTGxYMjhObXBUN3lFQ1JxUnRfc0FLTHBQZE5VU2RnemNyZnZUUDVoTXB4ZXJBaEoxX0R0MmU4LVpjY19BM3Bob3BLRXBBZGViY093MHJlNlI5a3BHTnlKRFJJQnJSd1JWaE9fS0RB?oc=5",
+      "title": "OpenAI Taps Quinn Emanuel For Apple Trade Secret Court Fight",
       "summary": "",
-      "publishedAt": "2026-07-15T16:26:00.000Z",
-      "publisher": "Yahoo Finance",
+      "publishedAt": "2026-07-16T20:19:00.000Z",
+      "publisher": "Bloomberg Law News",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -563,17 +563,36 @@
       }
     },
     {
-      "id": "38e1cf1e833b56e8bdee71701ecb20af4a2c9678",
+      "id": "3f5e9bda32461ba738cb58597628165ffff6f996",
+      "company": "Google",
+      "sourceKind": "external",
+      "sourceId": "external-google-major",
+      "sourceLabel": "Major External News - Google",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQUdaQ1pDbzBIdmxOcFZUUk9fOTNkdXNERWVJdHhyb3FFWlhOckJUN0ZwQmc0SUhpOURMSGI2OS1VVGhONVc4Zjh1WFhxc2lmQ0VXUjBQMmMzZnVROEFySHNMN3cyV21oQ0VLREd0YkZpYjNsTGJ0S0dVTy10MXJtSHk0cDV3dVJIamp0enctd2RpZWROekZF?oc=5",
+      "title": "German media regulator says Google's AI Overviews subject to German media law",
+      "summary": "",
+      "publishedAt": "2026-07-14T14:27:51.000Z",
+      "publisher": "Yahoo",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "efbcd77d1ff78c0f880d1f7c8465c704de934600",
       "company": "Microsoft",
       "sourceKind": "external",
       "sourceId": "external-microsoft-major",
       "sourceLabel": "Major External News - Microsoft",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdnVLbmdZNnJkSDA3LTFFZDF0dXl5ekRfRWEtbEl3YkU1bkVDeEI1R0xtdEg3N0ljMFYzZ1doeFFDdkY5b1dmV1lJOEI1dFdrTFc2NWVhbXpLUF9UV1B6TDVlV1cwYzZpeG1TVEJCeGxPNHJfNkhlaHhFZHlUSHZqQThEeUJLTjVTbWZZWnZTTTA1bWNsZFB4WjNKNFFhRjFNNm1sS3Jpb1BDUQ?oc=5",
-      "title": "Microsoft’s New Security Chief Replaces Top Execs to Force an AI Overhaul",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWUJmTW13VnlzSXpzTHF6RmlFXzhKdU14VlZYY0hIMEhSSWRxZC1Ta2tnNmRwWV9HT1B1X09memFINERMRldjNG4wTUtuaDBmWW5xdVJGRmhuckY2WHVac3pjM1JCcFBWYndDbGNTcWJ5bzdiVzhHNTRSMlplQlJrNDdLU2VyYmo4WEl1bF9jMUVuQll4TjBlWUNlOUJpTXlJR29JczUzUk5RQXRIVS1qR3RiZnl2QQ?oc=5",
+      "title": "Microsoft patches record number of security vulnerabilities, citing its use of AI",
       "summary": "",
-      "publishedAt": "2026-07-15T18:34:00.000Z",
-      "publisher": "The Information",
+      "publishedAt": "2026-07-15T16:20:18.000Z",
+      "publisher": "TechCrunch",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -582,35 +601,16 @@
       }
     },
     {
-      "id": "f757ddcf6cdfa3f664efc1ac1d062f44d059ffe7",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdEdpZGI4eHZKOEwyNXFhYXRIRzU4QkFMZjl0SFFEaWQwbVo3ZnF1bFBhODhLNUtQX2VvMVA3eXgwOFVjdEhINk1FQ3lQSmEyeFI0RmpKLUJvenBRVEtvMnlndlQzLWQtSWZ0R0UyeTJ4NmxtaUlpRGpndGZWUk9MRm9XRFJwVDd3N2FoWXNubTE1TWVCRG14eENNX2hDUkE?oc=5",
-      "title": "Sam Altman Just Criticized SpaceX's Data Centers in Space. Is the OpenAI Founder Right?",
-      "summary": "",
-      "publishedAt": "2026-07-16T13:05:00.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "4076e895ea0ceaa3a5b55a7c0d846f15a0b5fdef",
+      "id": "e6d83a2c3e9e30be2a5f5f78a9e55401c9657cde",
       "company": "Meta",
       "sourceKind": "external",
       "sourceId": "external-meta-major",
       "sourceLabel": "Major External News - Meta",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTE1qYkItRzV3Q3AyREJwTVlCd0F6RnVzc1N3Qk1NZ2tvTTJmT2c3czZaZ0pERldEU2kxSkVjU1VrUEQ1STRvRHpFcWtpVm9vbnloN3FGVVBNVkE1RG5PdXZqZmI0aXBRUTNDTFk0MkoyYklFMVZGQWxOVWIzM2t2dnZJQTlxTllSU01vQUdIUXhIZ0c4NlJET3VaZWoycTlfUzVBMA?oc=5",
-      "title": "Mark Zuckerberg’s Meta Just Supercharged Its Biggest AI Bet Yet, Expanding Its Hyperion Data Center Into a $50 Billion-Plus Project",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQU52NzJXOVIyY2dVNlBJbDd3RldmbXl2YzdvNXgybzI3LUg5MlF2NmdNNGRJN2FWUW5hRzk3dlhEbER6ZDZaNjBFLUV3aHJZNC1yMHN6c3ZFdzlFUmk3dE5HeV84NFp1YkZCclBHb0wwTGV2WGZJbE1VZ0JwalFIUjB2WTZ2OTNuelc5UGZmajVybGFOLXRycm1BUjNLeHZ5ZjhveXc1all5M1hpUldudXNFWDFoZ0d3WTNZN2hBOEdYMW8?oc=5",
+      "title": "Meta’s data center plans could help solve its AI spending problems",
       "summary": "",
-      "publishedAt": "2026-07-15T02:31:00.000Z",
+      "publishedAt": "2026-07-16T16:40:31.000Z",
       "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
@@ -620,54 +620,92 @@
       }
     },
     {
-      "id": "1e97faa490facd0c80775009cd29953c3036ce5c",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
-      "title": "The US is advancing AI safety through state and federal action",
-      "summary": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
-      "publishedAt": "2026-07-15T12:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "ee230258f27f8a0de48925de53f81261735fd525",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
-      "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
-      "summary": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
-      "publishedAt": "2026-07-15T10:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "d44db81786e377dcd4bb0979dc74357c33f11c22",
+      "id": "9a78a98851a25e54db3329a03706b1eb38dda960",
       "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYVViTC0xLUp0ell3VTY4cmQzWktDVnczdmYtaVV3aE85UExBMjdHYW9FcGR6MnVOdTJoT0hOd0pIVm1iOVF6RlFFVk1XOF9zekFZWi1JVWRIWkF2WFhxb29ZZUVVSExZaXZ1X2x3V1JuTDdEeE1IaGVKTEo5aHJiaTl2NXFVNWk2dFZDUnlrZGNvUTJJTXc?oc=5",
+      "title": "Meta Will Spend Over $50 Billion for a Louisiana Data Center. How to Play META Stock Here.",
+      "summary": "",
+      "publishedAt": "2026-07-16T13:00:02.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "3ebda52fc80ebe33165f5f415dd9c032d4c031d4",
+      "company": "OpenAI",
       "sourceKind": "official",
-      "sourceId": "meta-newsroom",
-      "sourceLabel": "Meta Newsroom",
-      "homepageUrl": "https://about.fb.com/news/",
-      "url": "https://about.fb.com/news/2026/07/keeping-parents-informed-teens-distress-conversations-meta-ai",
-      "title": "Alerting Parents if Teens Show Signs of Distress in Conversations With Meta AI",
-      "summary": "Parents using Instagram supervision tools will now be notified if their teen discusses suicide or self-harm with Meta AI. The post Alerting Parents if Teens Show Signs of Distress in Conversations With Meta AI",
-      "publishedAt": "2026-07-16T11:00:45.000Z",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
+      "title": "A scorecard for the AI age",
+      "summary": "Sarah Friar, CFO of OpenaAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
+      "publishedAt": "2026-07-17T10:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "ad568fefbb7de630f5b9107a92d5cc9d8d06acdd",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook",
+      "title": "NotebookLM is now Gemini Notebook",
+      "summary": "NotebookLM is now Gemini Notebook: the same standalone product with deeper Google integration and a secure cloud computer.",
+      "publishedAt": "2026-07-16T16:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "8fe39edff791751de0c2c6545e4ca710ed977e69",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+      "title": "Why teens deserve access to safe AI",
+      "summary": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
+      "publishedAt": "2026-07-16T16:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "6f16a999c8ddd889e881e535b45bac9cfa6b8f4a",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/cars24",
+      "title": "How Cars24 scales conversations and builds faster with OpenAI",
+      "summary": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
+      "publishedAt": "2026-07-16T00:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
