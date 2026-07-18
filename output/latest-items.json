@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T15:16:16.212Z",
+  "generatedAt": "2026-07-18T14:57:12.537Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -78,13 +78,32 @@
   "totals": {
     "fetched": 39,
     "deduped": 24,
-    "new": 9,
+    "new": 6,
     "byKind": {
       "official": 11,
       "external": 13
     }
   },
   "items": [
+    {
+      "id": "5d03a7e23674eecdcdba44386190427fbb737c0e",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1tZWtxWDkycmdUVlYtM3RpUUdqTVd5cWloOWVnYVZPWUxpc1pBZDFtNkN2NTM5anJXdmRlYnJubDhTV2pyWEp1cnRWQ1pWUnZ3U21OQ0ZhUHAwcGlUN2h4ajNaZVhWWmc0ZTRad0NNNNIBdEFVX3lxTE03WExldWF5Ukd0VGxHRjluWlBNVEZPbW9KWk5LQjZJbk55T3ZjQWozel9NMDZVWkZsYUFKNE9kUmVTN2xSNFI5MFZMOGVqYjVsenFjdmlPYzFvVl85WnhXLTBBOGt4eER0ZW1KS3E5ZE5XNHZJ?oc=5",
+      "title": "Anthropic in early talks with Meta to acquire compute power",
+      "summary": "",
+      "publishedAt": "2026-07-17T16:41:26.000Z",
+      "publisher": "CNBC",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
     {
       "id": "14df8b4dd57b200a997c36854b36f05be020d746",
       "company": "OpenAI",
@@ -119,7 +138,7 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 7,
+        "score": 6,
         "reason": "Corporate move or major external event"
       }
     },
@@ -135,25 +154,6 @@
       "summary": "",
       "publishedAt": "2026-07-15T12:33:40.000Z",
       "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "3f5e9bda32461ba738cb58597628165ffff6f996",
-      "company": "Google",
-      "sourceKind": "external",
-      "sourceId": "external-google-major",
-      "sourceLabel": "Major External News - Google",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQUdaQ1pDbzBIdmxOcFZUUk9fOTNkdXNERWVJdHhyb3FFWlhOckJUN0ZwQmc0SUhpOURMSGI2OS1VVGhONVc4Zjh1WFhxc2lmQ0VXUjBQMmMzZnVROEFySHNMN3cyV21oQ0VLREd0YkZpYjNsTGJ0S0dVTy10MXJtSHk0cDV3dVJIamp0enctd2RpZWROekZF?oc=5",
-      "title": "German media regulator says Google's AI Overviews subject to German media law",
-      "summary": "",
-      "publishedAt": "2026-07-14T14:27:51.000Z",
-      "publisher": "Yahoo",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -181,41 +181,22 @@
       }
     },
     {
-      "id": "38e1cf1e833b56e8bdee71701ecb20af4a2c9678",
+      "id": "5dee7370efa1e4422ea833302d9a7f86b5d86f24",
       "company": "Microsoft",
       "sourceKind": "external",
       "sourceId": "external-microsoft-major",
       "sourceLabel": "Major External News - Microsoft",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdnVLbmdZNnJkSDA3LTFFZDF0dXl5ekRfRWEtbEl3YkU1bkVDeEI1R0xtdEg3N0ljMFYzZ1doeFFDdkY5b1dmV1lJOEI1dFdrTFc2NWVhbXpLUF9UV1B6TDVlV1cwYzZpeG1TVEJCeGxPNHJfNkhlaHhFZHlUSHZqQThEeUJLTjVTbWZZWnZTTTA1bWNsZFB4WjNKNFFhRjFNNm1sS3Jpb1BDUQ?oc=5",
-      "title": "Microsoft’s New Security Chief Replaces Top Execs to Force an AI Overhaul",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMFRMU2Y3ckNFQjhKU1F4aVhYTjNfbE5mUktFUTZUcTZPbHZTdFdMQWdieU9EN2p4QVdWM3RwTXVzLTZzQ09Wa1l5VTdNaThWMzFCaElBOTlnaXVMLW05ZFVYNmZBYVFfYV9KcGpkb1JOTVNwamdEanNITWw2VjFNSDA0OUFkaEFrVTQ0ZEVmWm51WjF6b2lF?oc=5",
+      "title": "‘Not Afraid Of Apple,’ Says OpenAI CEO Sam Altman After Trade Secret Lawsuit",
       "summary": "",
-      "publishedAt": "2026-07-15T18:34:00.000Z",
-      "publisher": "The Information",
+      "publishedAt": "2026-07-13T03:08:00.000Z",
+      "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 5,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "efbcd77d1ff78c0f880d1f7c8465c704de934600",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWUJmTW13VnlzSXpzTHF6RmlFXzhKdU14VlZYY0hIMEhSSWRxZC1Ta2tnNmRwWV9HT1B1X09memFINERMRldjNG4wTUtuaDBmWW5xdVJGRmhuckY2WHVac3pjM1JCcFBWYndDbGNTcWJ5bzdiVzhHNTRSMlplQlJrNDdLU2VyYmo4WEl1bF9jMUVuQll4TjBlWUNlOUJpTXlJR29JczUzUk5RQXRIVS1qR3RiZnl2QQ?oc=5",
-      "title": "Microsoft patches record number of security vulnerabilities, citing its use of AI",
-      "summary": "",
-      "publishedAt": "2026-07-15T16:20:18.000Z",
-      "publisher": "TechCrunch",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Safety, security, or policy update"
+        "score": 6,
+        "reason": "Corporate move or major external event"
       }
     },
     {
@@ -238,17 +219,17 @@
       }
     },
     {
-      "id": "e6d83a2c3e9e30be2a5f5f78a9e55401c9657cde",
+      "id": "0237aadb1e485e84ab9384c7163838dcccf62670",
       "company": "Meta",
       "sourceKind": "external",
       "sourceId": "external-meta-major",
       "sourceLabel": "Major External News - Meta",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQU52NzJXOVIyY2dVNlBJbDd3RldmbXl2YzdvNXgybzI3LUg5MlF2NmdNNGRJN2FWUW5hRzk3dlhEbER6ZDZaNjBFLUV3aHJZNC1yMHN6c3ZFdzlFUmk3dE5HeV84NFp1YkZCclBHb0wwTGV2WGZJbE1VZ0JwalFIUjB2WTZ2OTNuelc5UGZmajVybGFOLXRycm1BUjNLeHZ5ZjhveXc1all5M1hpUldudXNFWDFoZ0d3WTNZN2hBOEdYMW8?oc=5",
-      "title": "Meta’s data center plans could help solve its AI spending problems",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNS2NqN2VtZFNDLWpDUGxnTXlpZmdWRmI3QlJyeTZSS2cwOEdyVEVGY0NGd3F4UGdqYkVoTjVaUWR0bzJVcW8yY0N1dG1zUnl0UUVDa2dKYVhKU2F5OWJPTWFfSGdZWlRfMjZZdEVxUTRiVDE1LXhMSjR0a0FOMFItVHA3V3FTYlVjU0Mzcy12VG9JbVlORGF2bXBFa1BIUjBNaHR6ZnBn?oc=5",
+      "title": "Meta, Anthropic in talks for potential $10 billion compute lease deal, source says",
       "summary": "",
-      "publishedAt": "2026-07-16T16:40:31.000Z",
-      "publisher": "Yahoo Finance",
+      "publishedAt": "2026-07-17T20:58:02.000Z",
+      "publisher": "Reuters",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -257,22 +238,79 @@
       }
     },
     {
-      "id": "9a78a98851a25e54db3329a03706b1eb38dda960",
+      "id": "462fd805d774c4affa958ed5f1cc26b222957803",
       "company": "Meta",
       "sourceKind": "external",
       "sourceId": "external-meta-major",
       "sourceLabel": "Major External News - Meta",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYVViTC0xLUp0ell3VTY4cmQzWktDVnczdmYtaVV3aE85UExBMjdHYW9FcGR6MnVOdTJoT0hOd0pIVm1iOVF6RlFFVk1XOF9zekFZWi1JVWRIWkF2WFhxb29ZZUVVSExZaXZ1X2x3V1JuTDdEeE1IaGVKTEo5aHJiaTl2NXFVNWk2dFZDUnlrZGNvUTJJTXc?oc=5",
-      "title": "Meta Will Spend Over $50 Billion for a Louisiana Data Center. How to Play META Stock Here.",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONVdaT05iMXV0Xy01VVgwNE9mNFN6Z3FTaXd4dDRmVG8wUkV6VS1fN0N4VXlxc0U3UTRxZmVLUWdaaXhoa0VIdEphNFJBNjdncHFmSFJwdk56eUItNXdZTWNUMDJnckNMSWRSV1BqRXNZeGJJNzlmcnROLWo4bkk5MXg5T0g?oc=5",
+      "title": "Meta and Anthropic in talks for up to $10bn data centre deal",
       "summary": "",
-      "publishedAt": "2026-07-16T13:00:02.000Z",
-      "publisher": "Yahoo Finance",
+      "publishedAt": "2026-07-17T18:32:45.000Z",
+      "publisher": "Financial Times",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
         "score": 4,
         "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "bac5ba245ad48205d3d5df37e74c76eb8f1e834b",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZ0I2QWE2VG81R196RFJPdmpueDdyX05QbkxzbDhOVVBXZDRYVXpsU202RmVPNGtobW8yTVRSOFZaQ1hhYzBhWDVsaFByUklSOG1QWTFEcVNud0dhVE1RemJMa0EtSVJ1UzNXTHVRX1ZCaDBxbFhrSDM5TTdJZmRKdEdsMFZONUhWa0NXeQ?oc=5",
+      "title": "Meta in Talks to Lease Computing Power to Anthropic in Potential $10 Billion Deal",
+      "summary": "",
+      "publishedAt": "2026-07-17T17:44:24.000Z",
+      "publisher": "The New York Times",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "38e1cf1e833b56e8bdee71701ecb20af4a2c9678",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdnVLbmdZNnJkSDA3LTFFZDF0dXl5ekRfRWEtbEl3YkU1bkVDeEI1R0xtdEg3N0ljMFYzZ1doeFFDdkY5b1dmV1lJOEI1dFdrTFc2NWVhbXpLUF9UV1B6TDVlV1cwYzZpeG1TVEJCeGxPNHJfNkhlaHhFZHlUSHZqQThEeUJLTjVTbWZZWnZTTTA1bWNsZFB4WjNKNFFhRjFNNm1sS3Jpb1BDUQ?oc=5",
+      "title": "Microsoft’s New Security Chief Replaces Top Execs to Force an AI Overhaul",
+      "summary": "",
+      "publishedAt": "2026-07-15T18:34:00.000Z",
+      "publisher": "The Information",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "efbcd77d1ff78c0f880d1f7c8465c704de934600",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWUJmTW13VnlzSXpzTHF6RmlFXzhKdU14VlZYY0hIMEhSSWRxZC1Ta2tnNmRwWV9HT1B1X09memFINERMRldjNG4wTUtuaDBmWW5xdVJGRmhuckY2WHVac3pjM1JCcFBWYndDbGNTcWJ5bzdiVzhHNTRSMlplQlJrNDdLU2VyYmo4WEl1bF9jMUVuQll4TjBlWUNlOUJpTXlJR29JczUzUk5RQXRIVS1qR3RiZnl2QQ?oc=5",
+      "title": "Microsoft patches record number of security vulnerabilities, citing its use of AI",
+      "summary": "",
+      "publishedAt": "2026-07-15T16:20:18.000Z",
+      "publisher": "TechCrunch",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Safety, security, or policy update"
       }
     },
     {
@@ -352,44 +390,6 @@
       }
     },
     {
-      "id": "4076e895ea0ceaa3a5b55a7c0d846f15a0b5fdef",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTE1qYkItRzV3Q3AyREJwTVlCd0F6RnVzc1N3Qk1NZ2tvTTJmT2c3czZaZ0pERldEU2kxSkVjU1VrUEQ1STRvRHpFcWtpVm9vbnloN3FGVVBNVkE1RG5PdXZqZmI0aXBRUTNDTFk0MkoyYklFMVZGQWxOVWIzM2t2dnZJQTlxTllSU01vQUdIUXhIZ0c4NlJET3VaZWoycTlfUzVBMA?oc=5",
-      "title": "Mark Zuckerberg’s Meta Just Supercharged Its Biggest AI Bet Yet, Expanding Its Hyperion Data Center Into a $50 Billion-Plus Project",
-      "summary": "",
-      "publishedAt": "2026-07-15T02:31:00.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "bbdd3739fbe6966f2beeef00764d31346e9c8e6a",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNek5CME44TFViSjAycUFlaEhGVXc3OEd2TkY3b1ZmcFdfS1VaSUxmVFdaSm9BNHZrb1NlU1ZWU2d0ZC1aanNBM2t2Unowd0ZUc1N3eWFEVzU5QWNZMEtLSjQxZVN6NDVXUkU1Q3dkd1JmZ25YMjdIVmpsVWtYbjJzVS1nN2xaWF9UVVlZU3RqZHFxWmFZU2I0aUdJYmdkQjROeWttVjZn?oc=5",
-      "title": "Meta expands Louisiana data center to 5GW in new AI push",
-      "summary": "",
-      "publishedAt": "2026-07-14T15:00:33.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
       "id": "1e97faa490facd0c80775009cd29953c3036ce5c",
       "company": "OpenAI",
       "sourceKind": "official",
@@ -447,6 +447,25 @@
       }
     },
     {
+      "id": "37f8df303cc978989ca1f42acc1aae914a13d8c9",
+      "company": "Microsoft",
+      "sourceKind": "official",
+      "sourceId": "microsoft-ai",
+      "sourceLabel": "Microsoft AI",
+      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
+      "url": "https://news.microsoft.com/source/asia/2026/07/14/tiket-com-and-microsoft-bring-seamless-travel-services-to-life-with-ai",
+      "title": "tiket.com and Microsoft Bring Seamless Travel Services to Life with AI",
+      "summary": "tiket.com and Microsoft Bring Seamless Travel Services to Life with AI",
+      "publishedAt": "2026-07-17T18:01:19.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
+      }
+    },
+    {
       "id": "3ebda52fc80ebe33165f5f415dd9c032d4c031d4",
       "company": "OpenAI",
       "sourceKind": "official",
@@ -455,7 +474,7 @@
       "homepageUrl": "https://openai.com/newsroom/",
       "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
       "title": "A scorecard for the AI age",
-      "summary": "Sarah Friar, CFO of OpenaAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
+      "summary": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
       "publishedAt": "2026-07-17T10:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
@@ -504,57 +523,38 @@
       }
     },
     {
-      "id": "d44db81786e377dcd4bb0979dc74357c33f11c22",
-      "company": "Meta",
+      "id": "42ba56cb55d4ea72b46b9e1216a6ae3fb460448e",
+      "company": "Anthropic",
       "sourceKind": "official",
-      "sourceId": "meta-newsroom",
-      "sourceLabel": "Meta Newsroom",
-      "homepageUrl": "https://about.fb.com/news/",
-      "url": "https://about.fb.com/news/2026/07/keeping-parents-informed-teens-distress-conversations-meta-ai",
-      "title": "Alerting Parents if Teens Show Signs of Distress in Conversations With Meta AI",
-      "summary": "Parents using Instagram supervision tools will now be notified if their teen discusses suicide or self-harm with Meta AI. The post Alerting Parents if Teens Show Signs of Distress in Conversations With Meta AI",
-      "publishedAt": "2026-07-16T11:00:45.000Z",
+      "sourceId": "anthropic-news",
+      "sourceLabel": "Anthropic News",
+      "homepageUrl": "https://www.anthropic.com/news",
+      "url": "https://www.anthropic.com/news/canadian-ai-research",
+      "title": "Anthropic commits $10 million to Canadian AI research",
+      "summary": "",
+      "publishedAt": "2026-07-14T00:00:00.000Z",
       "publisher": "",
-      "discoveryMethod": "feed",
+      "discoveryMethod": "anchor",
       "classification": {
         "bucket": "digest",
         "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "6f16a999c8ddd889e881e535b45bac9cfa6b8f4a",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/cars24",
-      "title": "How Cars24 scales conversations and builds faster with OpenAI",
-      "summary": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
-      "publishedAt": "2026-07-16T00:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
+        "reason": "Technical or research update"
       }
     }
   ],
   "newItems": [
     {
-      "id": "14df8b4dd57b200a997c36854b36f05be020d746",
-      "company": "OpenAI",
+      "id": "5d03a7e23674eecdcdba44386190427fbb737c0e",
+      "company": "Meta",
       "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQc0h3YzQwQ0JDaVREeEhueFBJOXlraGlJN1p3NWFOUmx2LWFiTnFMMjktd2JDdElZV1hCMEhna1k4bkJtUzFNMzhkMW4tTGxYMjhObXBUN3lFQ1JxUnRfc0FLTHBQZE5VU2RnemNyZnZUUDVoTXB4ZXJBaEoxX0R0MmU4LVpjY19BM3Bob3BLRXBBZGViY093MHJlNlI5a3BHTnlKRFJJQnJSd1JWaE9fS0RB?oc=5",
-      "title": "OpenAI Taps Quinn Emanuel For Apple Trade Secret Court Fight",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1tZWtxWDkycmdUVlYtM3RpUUdqTVd5cWloOWVnYVZPWUxpc1pBZDFtNkN2NTM5anJXdmRlYnJubDhTV2pyWEp1cnRWQ1pWUnZ3U21OQ0ZhUHAwcGlUN2h4ajNaZVhWWmc0ZTRad0NNNNIBdEFVX3lxTE03WExldWF5Ukd0VGxHRjluWlBNVEZPbW9KWk5LQjZJbk55T3ZjQWozel9NMDZVWkZsYUFKNE9kUmVTN2xSNFI5MFZMOGVqYjVsenFjdmlPYzFvVl85WnhXLTBBOGt4eER0ZW1KS3E5ZE5XNHZJ?oc=5",
+      "title": "Anthropic in early talks with Meta to acquire compute power",
       "summary": "",
-      "publishedAt": "2026-07-16T20:19:00.000Z",
-      "publisher": "Bloomberg Law News",
+      "publishedAt": "2026-07-17T16:41:26.000Z",
+      "publisher": "CNBC",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -563,17 +563,17 @@
       }
     },
     {
-      "id": "3f5e9bda32461ba738cb58597628165ffff6f996",
-      "company": "Google",
+      "id": "5dee7370efa1e4422ea833302d9a7f86b5d86f24",
+      "company": "Microsoft",
       "sourceKind": "external",
-      "sourceId": "external-google-major",
-      "sourceLabel": "Major External News - Google",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQUdaQ1pDbzBIdmxOcFZUUk9fOTNkdXNERWVJdHhyb3FFWlhOckJUN0ZwQmc0SUhpOURMSGI2OS1VVGhONVc4Zjh1WFhxc2lmQ0VXUjBQMmMzZnVROEFySHNMN3cyV21oQ0VLREd0YkZpYjNsTGJ0S0dVTy10MXJtSHk0cDV3dVJIamp0enctd2RpZWROekZF?oc=5",
-      "title": "German media regulator says Google's AI Overviews subject to German media law",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMFRMU2Y3ckNFQjhKU1F4aVhYTjNfbE5mUktFUTZUcTZPbHZTdFdMQWdieU9EN2p4QVdWM3RwTXVzLTZzQ09Wa1l5VTdNaThWMzFCaElBOTlnaXVMLW05ZFVYNmZBYVFfYV9KcGpkb1JOTVNwamdEanNITWw2VjFNSDA0OUFkaEFrVTQ0ZEVmWm51WjF6b2lF?oc=5",
+      "title": "‘Not Afraid Of Apple,’ Says OpenAI CEO Sam Altman After Trade Secret Lawsuit",
       "summary": "",
-      "publishedAt": "2026-07-14T14:27:51.000Z",
-      "publisher": "Yahoo",
+      "publishedAt": "2026-07-13T03:08:00.000Z",
+      "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -582,130 +582,73 @@
       }
     },
     {
-      "id": "efbcd77d1ff78c0f880d1f7c8465c704de934600",
+      "id": "0237aadb1e485e84ab9384c7163838dcccf62670",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNS2NqN2VtZFNDLWpDUGxnTXlpZmdWRmI3QlJyeTZSS2cwOEdyVEVGY0NGd3F4UGdqYkVoTjVaUWR0bzJVcW8yY0N1dG1zUnl0UUVDa2dKYVhKU2F5OWJPTWFfSGdZWlRfMjZZdEVxUTRiVDE1LXhMSjR0a0FOMFItVHA3V3FTYlVjU0Mzcy12VG9JbVlORGF2bXBFa1BIUjBNaHR6ZnBn?oc=5",
+      "title": "Meta, Anthropic in talks for potential $10 billion compute lease deal, source says",
+      "summary": "",
+      "publishedAt": "2026-07-17T20:58:02.000Z",
+      "publisher": "Reuters",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "462fd805d774c4affa958ed5f1cc26b222957803",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONVdaT05iMXV0Xy01VVgwNE9mNFN6Z3FTaXd4dDRmVG8wUkV6VS1fN0N4VXlxc0U3UTRxZmVLUWdaaXhoa0VIdEphNFJBNjdncHFmSFJwdk56eUItNXdZTWNUMDJnckNMSWRSV1BqRXNZeGJJNzlmcnROLWo4bkk5MXg5T0g?oc=5",
+      "title": "Meta and Anthropic in talks for up to $10bn data centre deal",
+      "summary": "",
+      "publishedAt": "2026-07-17T18:32:45.000Z",
+      "publisher": "Financial Times",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "bac5ba245ad48205d3d5df37e74c76eb8f1e834b",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZ0I2QWE2VG81R196RFJPdmpueDdyX05QbkxzbDhOVVBXZDRYVXpsU202RmVPNGtobW8yTVRSOFZaQ1hhYzBhWDVsaFByUklSOG1QWTFEcVNud0dhVE1RemJMa0EtSVJ1UzNXTHVRX1ZCaDBxbFhrSDM5TTdJZmRKdEdsMFZONUhWa0NXeQ?oc=5",
+      "title": "Meta in Talks to Lease Computing Power to Anthropic in Potential $10 Billion Deal",
+      "summary": "",
+      "publishedAt": "2026-07-17T17:44:24.000Z",
+      "publisher": "The New York Times",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "37f8df303cc978989ca1f42acc1aae914a13d8c9",
       "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWUJmTW13VnlzSXpzTHF6RmlFXzhKdU14VlZYY0hIMEhSSWRxZC1Ta2tnNmRwWV9HT1B1X09memFINERMRldjNG4wTUtuaDBmWW5xdVJGRmhuckY2WHVac3pjM1JCcFBWYndDbGNTcWJ5bzdiVzhHNTRSMlplQlJrNDdLU2VyYmo4WEl1bF9jMUVuQll4TjBlWUNlOUJpTXlJR29JczUzUk5RQXRIVS1qR3RiZnl2QQ?oc=5",
-      "title": "Microsoft patches record number of security vulnerabilities, citing its use of AI",
-      "summary": "",
-      "publishedAt": "2026-07-15T16:20:18.000Z",
-      "publisher": "TechCrunch",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "e6d83a2c3e9e30be2a5f5f78a9e55401c9657cde",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQU52NzJXOVIyY2dVNlBJbDd3RldmbXl2YzdvNXgybzI3LUg5MlF2NmdNNGRJN2FWUW5hRzk3dlhEbER6ZDZaNjBFLUV3aHJZNC1yMHN6c3ZFdzlFUmk3dE5HeV84NFp1YkZCclBHb0wwTGV2WGZJbE1VZ0JwalFIUjB2WTZ2OTNuelc5UGZmajVybGFOLXRycm1BUjNLeHZ5ZjhveXc1all5M1hpUldudXNFWDFoZ0d3WTNZN2hBOEdYMW8?oc=5",
-      "title": "Meta’s data center plans could help solve its AI spending problems",
-      "summary": "",
-      "publishedAt": "2026-07-16T16:40:31.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "9a78a98851a25e54db3329a03706b1eb38dda960",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYVViTC0xLUp0ell3VTY4cmQzWktDVnczdmYtaVV3aE85UExBMjdHYW9FcGR6MnVOdTJoT0hOd0pIVm1iOVF6RlFFVk1XOF9zekFZWi1JVWRIWkF2WFhxb29ZZUVVSExZaXZ1X2x3V1JuTDdEeE1IaGVKTEo5aHJiaTl2NXFVNWk2dFZDUnlrZGNvUTJJTXc?oc=5",
-      "title": "Meta Will Spend Over $50 Billion for a Louisiana Data Center. How to Play META Stock Here.",
-      "summary": "",
-      "publishedAt": "2026-07-16T13:00:02.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "3ebda52fc80ebe33165f5f415dd9c032d4c031d4",
-      "company": "OpenAI",
       "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
-      "title": "A scorecard for the AI age",
-      "summary": "Sarah Friar, CFO of OpenaAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
-      "publishedAt": "2026-07-17T10:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "ad568fefbb7de630f5b9107a92d5cc9d8d06acdd",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook",
-      "title": "NotebookLM is now Gemini Notebook",
-      "summary": "NotebookLM is now Gemini Notebook: the same standalone product with deeper Google integration and a secure cloud computer.",
-      "publishedAt": "2026-07-16T16:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "8fe39edff791751de0c2c6545e4ca710ed977e69",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
-      "title": "Why teens deserve access to safe AI",
-      "summary": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
-      "publishedAt": "2026-07-16T16:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "6f16a999c8ddd889e881e535b45bac9cfa6b8f4a",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/cars24",
-      "title": "How Cars24 scales conversations and builds faster with OpenAI",
-      "summary": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
-      "publishedAt": "2026-07-16T00:00:00.000Z",
+      "sourceId": "microsoft-ai",
+      "sourceLabel": "Microsoft AI",
+      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
+      "url": "https://news.microsoft.com/source/asia/2026/07/14/tiket-com-and-microsoft-bring-seamless-travel-services-to-life-with-ai",
+      "title": "tiket.com and Microsoft Bring Seamless Travel Services to Life with AI",
+      "summary": "tiket.com and Microsoft Bring Seamless Travel Services to Life with AI",
+      "publishedAt": "2026-07-17T18:01:19.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {

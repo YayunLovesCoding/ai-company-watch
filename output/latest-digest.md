@@ -1,79 +1,58 @@
 # AI Company Watch
 
-Generated: Jul 17, 2026, 8:16 AM PDT
+Generated: Jul 18, 2026, 7:57 AM PDT
 Lookback window: 7 day(s)
 Sources checked: 12
 Items fetched: 39
 Items kept: 24
-New items: 9
+New items: 6
 External items kept: 13
 Official items kept: 11
 
 ## Critical External News
 
-### OpenAI - OpenAI Taps Quinn Emanuel For Apple Trade Secret Court Fight
-Source: Major External News - OpenAI
-Publisher: Bloomberg Law News
-Published: Jul 16, 2026
+### Meta - Anthropic in early talks with Meta to acquire compute power
+Source: Major External News - Meta
+Publisher: CNBC
+Published: Jul 17, 2026
 Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxQc0h3YzQwQ0JDaVREeEhueFBJOXlraGlJN1p3NWFOUmx2LWFiTnFMMjktd2JDdElZV1hCMEhna1k4bkJtUzFNMzhkMW4tTGxYMjhObXBUN3lFQ1JxUnRfc0FLTHBQZE5VU2RnemNyZnZUUDVoTXB4ZXJBaEoxX0R0MmU4LVpjY19BM3Bob3BLRXBBZGViY093MHJlNlI5a3BHTnlKRFJJQnJSd1JWaE9fS0RB?oc=5
+Link: https://news.google.com/rss/articles/CBMib0FVX3lxTE1tZWtxWDkycmdUVlYtM3RpUUdqTVd5cWloOWVnYVZPWUxpc1pBZDFtNkN2NTM5anJXdmRlYnJubDhTV2pyWEp1cnRWQ1pWUnZ3U21OQ0ZhUHAwcGlUN2h4ajNaZVhWWmc0ZTRad0NNNNIBdEFVX3lxTE03WExldWF5Ukd0VGxHRjluWlBNVEZPbW9KWk5LQjZJbk55T3ZjQWozel9NMDZVWkZsYUFKNE9kUmVTN2xSNFI5MFZMOGVqYjVsenFjdmlPYzFvVl85WnhXLTBBOGt4eER0ZW1KS3E5ZE5XNHZJ?oc=5
 
-### Google - German media regulator says Google's AI Overviews subject to German media law
-Source: Major External News - Google
-Publisher: Yahoo
-Published: Jul 14, 2026
-Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMilwFBVV95cUxOQUdaQ1pDbzBIdmxOcFZUUk9fOTNkdXNERWVJdHhyb3FFWlhOckJUN0ZwQmc0SUhpOURMSGI2OS1VVGhONVc4Zjh1WFhxc2lmQ0VXUjBQMmMzZnVROEFySHNMN3cyV21oQ0VLREd0YkZpYjNsTGJ0S0dVTy10MXJtSHk0cDV3dVJIamp0enctd2RpZWROekZF?oc=5
-
-### Microsoft - Microsoft patches record number of security vulnerabilities, citing its use of AI
+### Microsoft - ‘Not Afraid Of Apple,’ Says OpenAI CEO Sam Altman After Trade Secret Lawsuit
 Source: Major External News - Microsoft
-Publisher: TechCrunch
-Published: Jul 15, 2026
-Why it matters: Safety, security, or policy update
-Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxQWUJmTW13VnlzSXpzTHF6RmlFXzhKdU14VlZYY0hIMEhSSWRxZC1Ta2tnNmRwWV9HT1B1X09memFINERMRldjNG4wTUtuaDBmWW5xdVJGRmhuckY2WHVac3pjM1JCcFBWYndDbGNTcWJ5bzdiVzhHNTRSMlplQlJrNDdLU2VyYmo4WEl1bF9jMUVuQll4TjBlWUNlOUJpTXlJR29JczUzUk5RQXRIVS1qR3RiZnl2QQ?oc=5
+Publisher: Yahoo Finance
+Published: Jul 12, 2026
+Why it matters: Corporate move or major external event
+Link: https://news.google.com/rss/articles/CBMilwFBVV95cUxOMFRMU2Y3ckNFQjhKU1F4aVhYTjNfbE5mUktFUTZUcTZPbHZTdFdMQWdieU9EN2p4QVdWM3RwTXVzLTZzQ09Wa1l5VTdNaThWMzFCaElBOTlnaXVMLW05ZFVYNmZBYVFfYV9KcGpkb1JOTVNwamdEanNITWw2VjFNSDA0OUFkaEFrVTQ0ZEVmWm51WjF6b2lF?oc=5
 
 ## Important External News
 
-### Meta - Meta’s data center plans could help solve its AI spending problems
+### Meta - Meta, Anthropic in talks for potential $10 billion compute lease deal, source says
 Source: Major External News - Meta
-Publisher: Yahoo Finance
-Published: Jul 16, 2026
+Publisher: Reuters
+Published: Jul 17, 2026
 Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQU52NzJXOVIyY2dVNlBJbDd3RldmbXl2YzdvNXgybzI3LUg5MlF2NmdNNGRJN2FWUW5hRzk3dlhEbER6ZDZaNjBFLUV3aHJZNC1yMHN6c3ZFdzlFUmk3dE5HeV84NFp1YkZCclBHb0wwTGV2WGZJbE1VZ0JwalFIUjB2WTZ2OTNuelc5UGZmajVybGFOLXRycm1BUjNLeHZ5ZjhveXc1all5M1hpUldudXNFWDFoZ0d3WTNZN2hBOEdYMW8?oc=5
+Link: https://news.google.com/rss/articles/CBMipgFBVV95cUxNS2NqN2VtZFNDLWpDUGxnTXlpZmdWRmI3QlJyeTZSS2cwOEdyVEVGY0NGd3F4UGdqYkVoTjVaUWR0bzJVcW8yY0N1dG1zUnl0UUVDa2dKYVhKU2F5OWJPTWFfSGdZWlRfMjZZdEVxUTRiVDE1LXhMSjR0a0FOMFItVHA3V3FTYlVjU0Mzcy12VG9JbVlORGF2bXBFa1BIUjBNaHR6ZnBn?oc=5
 
-### Meta - Meta Will Spend Over $50 Billion for a Louisiana Data Center. How to Play META Stock Here.
+### Meta - Meta and Anthropic in talks for up to $10bn data centre deal
 Source: Major External News - Meta
-Publisher: Yahoo Finance
-Published: Jul 16, 2026
+Publisher: Financial Times
+Published: Jul 17, 2026
 Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMilgFBVV95cUxOYVViTC0xLUp0ell3VTY4cmQzWktDVnczdmYtaVV3aE85UExBMjdHYW9FcGR6MnVOdTJoT0hOd0pIVm1iOVF6RlFFVk1XOF9zekFZWi1JVWRIWkF2WFhxb29ZZUVVSExZaXZ1X2x3V1JuTDdEeE1IaGVKTEo5aHJiaTl2NXFVNWk2dFZDUnlrZGNvUTJJTXc?oc=5
+Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxONVdaT05iMXV0Xy01VVgwNE9mNFN6Z3FTaXd4dDRmVG8wUkV6VS1fN0N4VXlxc0U3UTRxZmVLUWdaaXhoa0VIdEphNFJBNjdncHFmSFJwdk56eUItNXdZTWNUMDJnckNMSWRSV1BqRXNZeGJJNzlmcnROLWo4bkk5MXg5T0g?oc=5
+
+### Meta - Meta in Talks to Lease Computing Power to Anthropic in Potential $10 Billion Deal
+Source: Major External News - Meta
+Publisher: The New York Times
+Published: Jul 17, 2026
+Why it matters: Trusted external coverage
+Link: https://news.google.com/rss/articles/CBMijAFBVV95cUxPZ0I2QWE2VG81R196RFJPdmpueDdyX05QbkxzbDhOVVBXZDRYVXpsU202RmVPNGtobW8yTVRSOFZaQ1hhYzBhWDVsaFByUklSOG1QWTFEcVNud0dhVE1RemJMa0EtSVJ1UzNXTHVRX1ZCaDBxbFhrSDM5TTdJZmRKdEdsMFZONUhWa0NXeQ?oc=5
 
 ## Official Company Updates
 
-### OpenAI - A scorecard for the AI age
-Source: OpenAI Newsroom
+### Microsoft - tiket.com and Microsoft Bring Seamless Travel Services to Life with AI
+Source: Microsoft AI
 Published: Jul 17, 2026
 Why it matters: Routine official update
-Summary: Sarah Friar, CFO of OpenaAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.
-Link: https://openai.com/index/a-scorecard-for-the-ai-age
-
-### Google - NotebookLM is now Gemini Notebook
-Source: Google AI
-Published: Jul 16, 2026
-Why it matters: Routine official update
-Summary: NotebookLM is now Gemini Notebook: the same standalone product with deeper Google integration and a secure cloud computer.
-Link: https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook
-
-### OpenAI - Why teens deserve access to safe AI
-Source: OpenAI Newsroom
-Published: Jul 16, 2026
-Why it matters: Routine official update
-Summary: Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.
-Link: https://openai.com/index/why-teens-deserve-access-safe-ai
-
-### OpenAI - How Cars24 scales conversations and builds faster with OpenAI
-Source: OpenAI Newsroom
-Published: Jul 15, 2026
-Why it matters: Routine official update
-Summary: Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.
-Link: https://openai.com/index/cars24
+Summary: tiket.com and Microsoft Bring Seamless Travel Services to Life with AI
+Link: https://news.microsoft.com/source/asia/2026/07/14/tiket-com-and-microsoft-bring-seamless-travel-services-to-life-with-ai
