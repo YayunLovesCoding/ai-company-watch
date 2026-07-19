@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T14:57:12.537Z",
+  "generatedAt": "2026-07-19T14:59:41.275Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -76,12 +76,12 @@
     }
   ],
   "totals": {
-    "fetched": 39,
+    "fetched": 38,
     "deduped": 24,
-    "new": 6,
+    "new": 0,
     "byKind": {
-      "official": 11,
-      "external": 13
+      "official": 12,
+      "external": 12
     }
   },
   "items": [
@@ -119,7 +119,7 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 7,
+        "score": 6,
         "reason": "Corporate move or major external event"
       }
     },
@@ -143,17 +143,17 @@
       }
     },
     {
-      "id": "3c9e180ca59675053629adb3e35a4045b12556f8",
+      "id": "1d434fa2f86fcdf517265da26bd757432beb9c0a",
       "company": "OpenAI",
       "sourceKind": "external",
       "sourceId": "external-openai-major",
       "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUWdiV3MtSjVTYUdiZ054LXVXM3I2aGN3RC16TmhxbHU0UHlmaGZyejlSVWthOVV5TnpTdGRkbnlJUU5WdVE1WHFUYU9YOERsN1gzVVZGNjlpZEF3UFBJMWxHSmlTbnlBWTlJWDh2blBmM0ZuRW5Td3NUZ2l4dG12djNERENmeFBrZVE3cDR0NjlzLWl5b3lrdmZBSFRsdw?oc=5",
-      "title": "OpenAI loses trademark dispute at EU court",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUWw3VFJzdTlmNnk1cGQzaVZkRFFEUkc4MThOeVRER0Utc3dmUmIyVHY5M0V6cWxacEZCWFdoZkpIYmZhcHhKS2ZnZUlRQ2F6RXdJT0xaQjFyZWYtX29WX0MxMXQzX3h6eEo0T19DVTV3bDZpMUU3eVhDX1N5MFc2V002Z1dlV2kza0dfZGxZYU1LVlFDXzc0LW5rLXVCb1p5XzJ6VGpEOGJ1UTZMTmVmaA?oc=5",
+      "title": "How a bungled email from Apple’s lawyer soured talks with OpenAI months before Apple sued",
       "summary": "",
-      "publishedAt": "2026-07-15T12:33:40.000Z",
-      "publisher": "Yahoo Finance",
+      "publishedAt": "2026-07-14T21:18:57.000Z",
+      "publisher": "NBC News",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -181,25 +181,6 @@
       }
     },
     {
-      "id": "5dee7370efa1e4422ea833302d9a7f86b5d86f24",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMFRMU2Y3ckNFQjhKU1F4aVhYTjNfbE5mUktFUTZUcTZPbHZTdFdMQWdieU9EN2p4QVdWM3RwTXVzLTZzQ09Wa1l5VTdNaThWMzFCaElBOTlnaXVMLW05ZFVYNmZBYVFfYV9KcGpkb1JOTVNwamdEanNITWw2VjFNSDA0OUFkaEFrVTQ0ZEVmWm51WjF6b2lF?oc=5",
-      "title": "‘Not Afraid Of Apple,’ Says OpenAI CEO Sam Altman After Trade Secret Lawsuit",
-      "summary": "",
-      "publishedAt": "2026-07-13T03:08:00.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
       "id": "0186eba13fd22c46e80b20df994bdf68a2e9b1bc",
       "company": "Microsoft",
       "sourceKind": "official",
@@ -216,25 +197,6 @@
         "bucket": "critical",
         "score": 5,
         "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "0237aadb1e485e84ab9384c7163838dcccf62670",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNS2NqN2VtZFNDLWpDUGxnTXlpZmdWRmI3QlJyeTZSS2cwOEdyVEVGY0NGd3F4UGdqYkVoTjVaUWR0bzJVcW8yY0N1dG1zUnl0UUVDa2dKYVhKU2F5OWJPTWFfSGdZWlRfMjZZdEVxUTRiVDE1LXhMSjR0a0FOMFItVHA3V3FTYlVjU0Mzcy12VG9JbVlORGF2bXBFa1BIUjBNaHR6ZnBn?oc=5",
-      "title": "Meta, Anthropic in talks for potential $10 billion compute lease deal, source says",
-      "summary": "",
-      "publishedAt": "2026-07-17T20:58:02.000Z",
-      "publisher": "Reuters",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
       }
     },
     {
@@ -266,7 +228,7 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZ0I2QWE2VG81R196RFJPdmpueDdyX05QbkxzbDhOVVBXZDRYVXpsU202RmVPNGtobW8yTVRSOFZaQ1hhYzBhWDVsaFByUklSOG1QWTFEcVNud0dhVE1RemJMa0EtSVJ1UzNXTHVRX1ZCaDBxbFhrSDM5TTdJZmRKdEdsMFZONUhWa0NXeQ?oc=5",
       "title": "Meta in Talks to Lease Computing Power to Anthropic in Potential $10 Billion Deal",
       "summary": "",
-      "publishedAt": "2026-07-17T17:44:24.000Z",
+      "publishedAt": "2026-07-17T16:17:06.000Z",
       "publisher": "The New York Times",
       "discoveryMethod": "feed",
       "classification": {
@@ -371,6 +333,25 @@
       }
     },
     {
+      "id": "e6d83a2c3e9e30be2a5f5f78a9e55401c9657cde",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQU52NzJXOVIyY2dVNlBJbDd3RldmbXl2YzdvNXgybzI3LUg5MlF2NmdNNGRJN2FWUW5hRzk3dlhEbER6ZDZaNjBFLUV3aHJZNC1yMHN6c3ZFdzlFUmk3dE5HeV84NFp1YkZCclBHb0wwTGV2WGZJbE1VZ0JwalFIUjB2WTZ2OTNuelc5UGZmajVybGFOLXRycm1BUjNLeHZ5ZjhveXc1all5M1hpUldudXNFWDFoZ0d3WTNZN2hBOEdYMW8?oc=5",
+      "title": "Meta’s data center plans could help solve its AI spending problems",
+      "summary": "",
+      "publishedAt": "2026-07-16T16:40:31.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
       "id": "83d17de8748bd2107e1c058f184ef82753e346d2",
       "company": "OpenAI",
       "sourceKind": "external",
@@ -466,6 +447,44 @@
       }
     },
     {
+      "id": "42ba56cb55d4ea72b46b9e1216a6ae3fb460448e",
+      "company": "Anthropic",
+      "sourceKind": "official",
+      "sourceId": "anthropic-news",
+      "sourceLabel": "Anthropic News",
+      "homepageUrl": "https://www.anthropic.com/news",
+      "url": "https://www.anthropic.com/news/canadian-ai-research",
+      "title": "Anthropic commits $10 million to Canadian AI research",
+      "summary": "",
+      "publishedAt": "2026-07-14T00:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "anchor",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Technical or research update"
+      }
+    },
+    {
+      "id": "97cd97d27d220f15f9bc8a69f1f4b5eea602a9e8",
+      "company": "Anthropic",
+      "sourceKind": "official",
+      "sourceId": "anthropic-engineering",
+      "sourceLabel": "Anthropic Engineering",
+      "homepageUrl": "https://www.anthropic.com/engineering",
+      "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
+      "title": "Featured How we contain Claude across products As agents grow more capable, so does their potential blast radius. The engineering question is how to cap it. Here’s what we’ve learned building containment for claude.ai, Claude Code, and Cowork.",
+      "summary": "",
+      "publishedAt": null,
+      "publisher": "",
+      "discoveryMethod": "anchor",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Technical or research update"
+      }
+    },
+    {
       "id": "3ebda52fc80ebe33165f5f415dd9c032d4c031d4",
       "company": "OpenAI",
       "sourceKind": "official",
@@ -480,7 +499,7 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "digest",
-        "score": 2,
+        "score": 1,
         "reason": "Routine official update"
       }
     },
@@ -499,7 +518,7 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "digest",
-        "score": 2,
+        "score": 1,
         "reason": "Routine official update"
       }
     },
@@ -518,145 +537,11 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "42ba56cb55d4ea72b46b9e1216a6ae3fb460448e",
-      "company": "Anthropic",
-      "sourceKind": "official",
-      "sourceId": "anthropic-news",
-      "sourceLabel": "Anthropic News",
-      "homepageUrl": "https://www.anthropic.com/news",
-      "url": "https://www.anthropic.com/news/canadian-ai-research",
-      "title": "Anthropic commits $10 million to Canadian AI research",
-      "summary": "",
-      "publishedAt": "2026-07-14T00:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "anchor",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Technical or research update"
-      }
-    }
-  ],
-  "newItems": [
-    {
-      "id": "5d03a7e23674eecdcdba44386190427fbb737c0e",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1tZWtxWDkycmdUVlYtM3RpUUdqTVd5cWloOWVnYVZPWUxpc1pBZDFtNkN2NTM5anJXdmRlYnJubDhTV2pyWEp1cnRWQ1pWUnZ3U21OQ0ZhUHAwcGlUN2h4ajNaZVhWWmc0ZTRad0NNNNIBdEFVX3lxTE03WExldWF5Ukd0VGxHRjluWlBNVEZPbW9KWk5LQjZJbk55T3ZjQWozel9NMDZVWkZsYUFKNE9kUmVTN2xSNFI5MFZMOGVqYjVsenFjdmlPYzFvVl85WnhXLTBBOGt4eER0ZW1KS3E5ZE5XNHZJ?oc=5",
-      "title": "Anthropic in early talks with Meta to acquire compute power",
-      "summary": "",
-      "publishedAt": "2026-07-17T16:41:26.000Z",
-      "publisher": "CNBC",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "5dee7370efa1e4422ea833302d9a7f86b5d86f24",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMFRMU2Y3ckNFQjhKU1F4aVhYTjNfbE5mUktFUTZUcTZPbHZTdFdMQWdieU9EN2p4QVdWM3RwTXVzLTZzQ09Wa1l5VTdNaThWMzFCaElBOTlnaXVMLW05ZFVYNmZBYVFfYV9KcGpkb1JOTVNwamdEanNITWw2VjFNSDA0OUFkaEFrVTQ0ZEVmWm51WjF6b2lF?oc=5",
-      "title": "‘Not Afraid Of Apple,’ Says OpenAI CEO Sam Altman After Trade Secret Lawsuit",
-      "summary": "",
-      "publishedAt": "2026-07-13T03:08:00.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "0237aadb1e485e84ab9384c7163838dcccf62670",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNS2NqN2VtZFNDLWpDUGxnTXlpZmdWRmI3QlJyeTZSS2cwOEdyVEVGY0NGd3F4UGdqYkVoTjVaUWR0bzJVcW8yY0N1dG1zUnl0UUVDa2dKYVhKU2F5OWJPTWFfSGdZWlRfMjZZdEVxUTRiVDE1LXhMSjR0a0FOMFItVHA3V3FTYlVjU0Mzcy12VG9JbVlORGF2bXBFa1BIUjBNaHR6ZnBn?oc=5",
-      "title": "Meta, Anthropic in talks for potential $10 billion compute lease deal, source says",
-      "summary": "",
-      "publishedAt": "2026-07-17T20:58:02.000Z",
-      "publisher": "Reuters",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "462fd805d774c4affa958ed5f1cc26b222957803",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONVdaT05iMXV0Xy01VVgwNE9mNFN6Z3FTaXd4dDRmVG8wUkV6VS1fN0N4VXlxc0U3UTRxZmVLUWdaaXhoa0VIdEphNFJBNjdncHFmSFJwdk56eUItNXdZTWNUMDJnckNMSWRSV1BqRXNZeGJJNzlmcnROLWo4bkk5MXg5T0g?oc=5",
-      "title": "Meta and Anthropic in talks for up to $10bn data centre deal",
-      "summary": "",
-      "publishedAt": "2026-07-17T18:32:45.000Z",
-      "publisher": "Financial Times",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "bac5ba245ad48205d3d5df37e74c76eb8f1e834b",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZ0I2QWE2VG81R196RFJPdmpueDdyX05QbkxzbDhOVVBXZDRYVXpsU202RmVPNGtobW8yTVRSOFZaQ1hhYzBhWDVsaFByUklSOG1QWTFEcVNud0dhVE1RemJMa0EtSVJ1UzNXTHVRX1ZCaDBxbFhrSDM5TTdJZmRKdEdsMFZONUhWa0NXeQ?oc=5",
-      "title": "Meta in Talks to Lease Computing Power to Anthropic in Potential $10 Billion Deal",
-      "summary": "",
-      "publishedAt": "2026-07-17T17:44:24.000Z",
-      "publisher": "The New York Times",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "37f8df303cc978989ca1f42acc1aae914a13d8c9",
-      "company": "Microsoft",
-      "sourceKind": "official",
-      "sourceId": "microsoft-ai",
-      "sourceLabel": "Microsoft AI",
-      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
-      "url": "https://news.microsoft.com/source/asia/2026/07/14/tiket-com-and-microsoft-bring-seamless-travel-services-to-life-with-ai",
-      "title": "tiket.com and Microsoft Bring Seamless Travel Services to Life with AI",
-      "summary": "tiket.com and Microsoft Bring Seamless Travel Services to Life with AI",
-      "publishedAt": "2026-07-17T18:01:19.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
+        "score": 1,
         "reason": "Routine official update"
       }
     }
   ],
+  "newItems": [],
   "errors": []
 }
