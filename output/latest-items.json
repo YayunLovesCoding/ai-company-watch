@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T14:59:41.275Z",
+  "generatedAt": "2026-07-20T15:52:44.462Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -76,15 +76,72 @@
     }
   ],
   "totals": {
-    "fetched": 38,
+    "fetched": 39,
     "deduped": 24,
-    "new": 0,
+    "new": 7,
     "byKind": {
       "official": 12,
       "external": 12
     }
   },
   "items": [
+    {
+      "id": "3cf6ad1b3216f6e8171acdba7e507b83ad92c86e",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQc0dySXJwQWkyaEkwOWhxOUk4X1dyQ0FFZXozMkU5QlFKU1Q3X2l3VUk4czdITEJmQnB1ZF9HNGlWVkhKeGNhMThGQjM3VXRvMENmSUZIZlZWQmlpRjJrYk9vV00xUHEtdy1KX3hqd2o4MllpeThhQ0VzbjRuaEVMSzNReUtyMy1rZkNXc2JZblZ0Q1FqQl90eGNYb1AzdDA?oc=5",
+      "title": "AMD stock climbs after Microsoft expands Azure AI partnership",
+      "summary": "",
+      "publishedAt": "2026-07-20T14:06:32.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "064ada5030c79fbd795f738d6d6443bcbb5b43bc",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWGFhOVdpT29KZVM5WUl0b0xybk1GVmlaS1RwNC1yQTYxNGtqaGN3ekFoX201cTZCUE43cFBSaUxFTGdBb1hEdnlXQkNHS3RNUGhxRE9xTl90VE53dDVNZ3NlQ1drZGFKS3JRWXRGSzJRYjZ6V2JHVTQ3T3RkemtsaFRHSDRFQ3ZqdnRidVNaelVGaHhPX3EtWnEteVRjcnoxa05FX0U3OU5YRkFVSXpybFp2OA?oc=5",
+      "title": "ReliaQuest and OpenAI Announce Partnership to Accelerate Agentic Cyber Defense for the Enterprise",
+      "summary": "",
+      "publishedAt": "2026-07-20T00:00:00.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "74f7228de88aab1563d7d636db574f3908d4dedb",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSVNqN1paNUlrdzltc0F6UnNlZVQ1V0ZrYTVyZW0tdUZpaHVPMUFDa05vZGtLanhWdy1HOTNWOGtWaER0RmFpWjBYanlQYkNXemtJUExxUXY0eDUyV0E5dDFVR0JXTjZGRHN6dlEwZUFTZ3hpTkVubnRFSVdJR21GYWdfNlZuZFFYNVFTSzJR?oc=5",
+      "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
+      "summary": "",
+      "publishedAt": "2026-07-19T19:24:45.000Z",
+      "publisher": "TechCrunch",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
     {
       "id": "5d03a7e23674eecdcdba44386190427fbb737c0e",
       "company": "Meta",
@@ -97,82 +154,6 @@
       "summary": "",
       "publishedAt": "2026-07-17T16:41:26.000Z",
       "publisher": "CNBC",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "14df8b4dd57b200a997c36854b36f05be020d746",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQc0h3YzQwQ0JDaVREeEhueFBJOXlraGlJN1p3NWFOUmx2LWFiTnFMMjktd2JDdElZV1hCMEhna1k4bkJtUzFNMzhkMW4tTGxYMjhObXBUN3lFQ1JxUnRfc0FLTHBQZE5VU2RnemNyZnZUUDVoTXB4ZXJBaEoxX0R0MmU4LVpjY19BM3Bob3BLRXBBZGViY093MHJlNlI5a3BHTnlKRFJJQnJSd1JWaE9fS0RB?oc=5",
-      "title": "OpenAI Taps Quinn Emanuel For Apple Trade Secret Court Fight",
-      "summary": "",
-      "publishedAt": "2026-07-16T20:19:00.000Z",
-      "publisher": "Bloomberg Law News",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "1b15850ada1f9713e65b9a473b9bd944cba4fca1",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQllGNGFuZDBkRUhEcUsxMlB5OU1CUHFxZHRZQnJldDJUb2d2d1NyNThwRHdFdG1WckdmMTVfNkdHWWh1SGc1dFlyQnNmbnRkenlDM2VXSHFGQ2ZWZUJDdEpoTlJWM29qd3I1UHl4MTJfUmh6cURtY3ZGMTR4UnBRVF9ldVdmRnpsZGJ4RWtEQUdjQmNPYlVaYmpB?oc=5",
-      "title": "Apple Sues OpenAI, Here's What It Means for Oracle and Microsoft Investors",
-      "summary": "",
-      "publishedAt": "2026-07-15T16:26:00.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "1d434fa2f86fcdf517265da26bd757432beb9c0a",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUWw3VFJzdTlmNnk1cGQzaVZkRFFEUkc4MThOeVRER0Utc3dmUmIyVHY5M0V6cWxacEZCWFdoZkpIYmZhcHhKS2ZnZUlRQ2F6RXdJT0xaQjFyZWYtX29WX0MxMXQzX3h6eEo0T19DVTV3bDZpMUU3eVhDX1N5MFc2V002Z1dlV2kza0dfZGxZYU1LVlFDXzc0LW5rLXVCb1p5XzJ6VGpEOGJ1UTZMTmVmaA?oc=5",
-      "title": "How a bungled email from Apple’s lawyer soured talks with OpenAI months before Apple sued",
-      "summary": "",
-      "publishedAt": "2026-07-14T21:18:57.000Z",
-      "publisher": "NBC News",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "52de2a9e557ebc62c243be2761f7d22f0cf254f5",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5pWl9PU3dRQkVxMnhuTFhfR1BsRFowN1I1SmVEOXZPY01mZDduT1JCVHJkVmZWellCRzB3a1Bvamc2d0x1aWN6RWUyM1JsU2hKbVlBcU02SU1DRVpmQjRfelhFTkF5dmlfSXl5WWNOSW94SDRTOEwtSXFB?oc=5",
-      "title": "Fortune Tech: Apple-OpenAI lawsuit, SK Hynix stock paradox, Meta data center drama.",
-      "summary": "",
-      "publishedAt": "2026-07-13T09:00:00.000Z",
-      "publisher": "Fortune",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -200,17 +181,17 @@
       }
     },
     {
-      "id": "462fd805d774c4affa958ed5f1cc26b222957803",
-      "company": "Meta",
+      "id": "107fcd12af4d662044ab6eec2e1f26625e37ee44",
+      "company": "Google",
       "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
+      "sourceId": "external-google-major",
+      "sourceLabel": "Major External News - Google",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONVdaT05iMXV0Xy01VVgwNE9mNFN6Z3FTaXd4dDRmVG8wUkV6VS1fN0N4VXlxc0U3UTRxZmVLUWdaaXhoa0VIdEphNFJBNjdncHFmSFJwdk56eUItNXdZTWNUMDJnckNMSWRSV1BqRXNZeGJJNzlmcnROLWo4bkk5MXg5T0g?oc=5",
-      "title": "Meta and Anthropic in talks for up to $10bn data centre deal",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcExCMGtrOEs1ZVFWT0J6UzA5bGZYRnNibFdSWUkwNGlJbTB0cHQzSVlrVTJVWE1ZT01lcjdSbG4yWVFfY3hoblF6VU9jcHVIRGpuSHlYZ0dVTGRRRHJXeTBURVNJdXlENGNYQm5IS1BvbjVwbVY1NklSZkNNWjJEUVhtTDVwaEJTZUpGSlFQRE1ReUFMUklwMERNZkF6STlxckpaLUtzS3RuU29PVVR0ZWh6RWkwdkdtZlE?oc=5",
+      "title": "Alphabet's Google developing new chip for AI model, stock jumps",
       "summary": "",
-      "publishedAt": "2026-07-17T18:32:45.000Z",
-      "publisher": "Financial Times",
+      "publishedAt": "2026-07-20T15:11:28.000Z",
+      "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -219,17 +200,36 @@
       }
     },
     {
-      "id": "bac5ba245ad48205d3d5df37e74c76eb8f1e834b",
-      "company": "Meta",
+      "id": "c8f17a5c0335bd84244d9841d5d12cbe62da0718",
+      "company": "Google",
       "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
+      "sourceId": "external-google-major",
+      "sourceLabel": "Major External News - Google",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZ0I2QWE2VG81R196RFJPdmpueDdyX05QbkxzbDhOVVBXZDRYVXpsU202RmVPNGtobW8yTVRSOFZaQ1hhYzBhWDVsaFByUklSOG1QWTFEcVNud0dhVE1RemJMa0EtSVJ1UzNXTHVRX1ZCaDBxbFhrSDM5TTdJZmRKdEdsMFZONUhWa0NXeQ?oc=5",
-      "title": "Meta in Talks to Lease Computing Power to Anthropic in Potential $10 Billion Deal",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOU1rMGpSd0lvTDE3aFVId2tXRG04enY0ek9mcDFyR09IVm1TUE1tTEVrR0FuUWpPcnpJbmR5cGQzeFNBZFlBWjdwUE1PSGJFUkpEZ1NwalMxRGhmdjJtYTVaeTh4Mlotek5NOE9YNzRMbERhaVFHQndLSC01cnpVSjlzRHVYV3J2eWtfVkgwZzVuWVFETUNPbkZzeXBzamJ0UHpyNGlRaEItTmpqT05ubE1heGFVcmNIWS05UkR3?oc=5",
+      "title": "Google plans new chip to run Gemini models more efficiently, the Information reports",
       "summary": "",
-      "publishedAt": "2026-07-17T16:17:06.000Z",
-      "publisher": "The New York Times",
+      "publishedAt": "2026-07-20T13:59:43.000Z",
+      "publisher": "Reuters",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "d474b444043b419bcb7a067235e6647be8cf0f8e",
+      "company": "Google",
+      "sourceKind": "external",
+      "sourceId": "external-google-major",
+      "sourceLabel": "Major External News - Google",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNREhZUV9lOUg2Wmpzd09yd05jUEdxOG1zXzVWOHhYUF9hTUlGQ1pSUWw5VTdvNk1XNUpWUmZrQ25jMUppNnN1VEZ1OXFXbkVQaUxyR0pJT2pxSVRuSVNuQkdUR0x4RmphcGFtTmN4QTN5azlhVjk0N0JjQ1pGem5yNE1UbWFkNmdUczNlMFEzcTNDdmtmd0Q3aTdR?oc=5",
+      "title": "Google Plans New ‘Frozen’ Chip to Run Its AI Models Much More Efficiently",
+      "summary": "",
+      "publishedAt": "2026-07-20T13:00:00.000Z",
+      "publisher": "The Information",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -249,44 +249,6 @@
       "summary": "",
       "publishedAt": "2026-07-15T18:34:00.000Z",
       "publisher": "The Information",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "efbcd77d1ff78c0f880d1f7c8465c704de934600",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWUJmTW13VnlzSXpzTHF6RmlFXzhKdU14VlZYY0hIMEhSSWRxZC1Ta2tnNmRwWV9HT1B1X09memFINERMRldjNG4wTUtuaDBmWW5xdVJGRmhuckY2WHVac3pjM1JCcFBWYndDbGNTcWJ5bzdiVzhHNTRSMlplQlJrNDdLU2VyYmo4WEl1bF9jMUVuQll4TjBlWUNlOUJpTXlJR29JczUzUk5RQXRIVS1qR3RiZnl2QQ?oc=5",
-      "title": "Microsoft patches record number of security vulnerabilities, citing its use of AI",
-      "summary": "",
-      "publishedAt": "2026-07-15T16:20:18.000Z",
-      "publisher": "TechCrunch",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "68b0a65ac7baf1ef95fb639a0216e213036af4b1",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQS0h0V2dPeXVBUkJycGljb3FJWFpaNUJMRGZGWGtXWmFtN0xKTlN3SDVPV25iemNZRlZCUUktZU1YQmVBVzNMaTBwLU1ORmxFS1o2WlpJQkxmN18zbDcwcHdsZGtMNC1JVFJkRnZYV0lqczNKT1NzZUlyT3F3TXJYVGlvYVNOa25TYUlRdnNzZW9ocG0tUVFzVTh6dU5aTW91dVE?oc=5",
-      "title": "Varonis Extends AI Security Coverage to Claude Code and Claude Cowork",
-      "summary": "",
-      "publishedAt": "2026-07-14T13:00:00.000Z",
-      "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -333,17 +295,55 @@
       }
     },
     {
-      "id": "e6d83a2c3e9e30be2a5f5f78a9e55401c9657cde",
+      "id": "361e36c4f285bb372e7bd4fb2da300bbd1dd4c38",
       "company": "Meta",
       "sourceKind": "external",
       "sourceId": "external-meta-major",
       "sourceLabel": "Major External News - Meta",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQU52NzJXOVIyY2dVNlBJbDd3RldmbXl2YzdvNXgybzI3LUg5MlF2NmdNNGRJN2FWUW5hRzk3dlhEbER6ZDZaNjBFLUV3aHJZNC1yMHN6c3ZFdzlFUmk3dE5HeV84NFp1YkZCclBHb0wwTGV2WGZJbE1VZ0JwalFIUjB2WTZ2OTNuelc5UGZmajVybGFOLXRycm1BUjNLeHZ5ZjhveXc1all5M1hpUldudXNFWDFoZ0d3WTNZN2hBOEdYMW8?oc=5",
-      "title": "Meta’s data center plans could help solve its AI spending problems",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQS1ZNS01vM1pWX3RKQjFfWjIxQlVSbUZkUG1CR1F4SnVIR1R6Zm1NakViOHgzcHgtdC1rX0ltR0pWYXR5c00zdFZsOXFod1R0YUZSWHFJdnJraUxfc1VhVTE0OVBIMmZOZndlS3BrTDNDeGxHM05aZ2NEa3VaQUpPQzZMdy11NWlJSDRsVXJFVVBrT2c1cWFmSTBkTHlySGtp?oc=5",
+      "title": "Mark Zuckerberg's Meta Is Putting Its In-House Iris AI Chip Into Production in September as Part of a Plan to Double Its Computing Capacity to 14 Gigawatts",
       "summary": "",
-      "publishedAt": "2026-07-16T16:40:31.000Z",
+      "publishedAt": "2026-07-18T07:02:00.000Z",
       "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "0237aadb1e485e84ab9384c7163838dcccf62670",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNS2NqN2VtZFNDLWpDUGxnTXlpZmdWRmI3QlJyeTZSS2cwOEdyVEVGY0NGd3F4UGdqYkVoTjVaUWR0bzJVcW8yY0N1dG1zUnl0UUVDa2dKYVhKU2F5OWJPTWFfSGdZWlRfMjZZdEVxUTRiVDE1LXhMSjR0a0FOMFItVHA3V3FTYlVjU0Mzcy12VG9JbVlORGF2bXBFa1BIUjBNaHR6ZnBn?oc=5",
+      "title": "Meta, Anthropic in talks for potential $10 billion compute lease deal, source says",
+      "summary": "",
+      "publishedAt": "2026-07-17T20:58:02.000Z",
+      "publisher": "Reuters",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "462fd805d774c4affa958ed5f1cc26b222957803",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONVdaT05iMXV0Xy01VVgwNE9mNFN6Z3FTaXd4dDRmVG8wUkV6VS1fN0N4VXlxc0U3UTRxZmVLUWdaaXhoa0VIdEphNFJBNjdncHFmSFJwdk56eUItNXdZTWNUMDJnckNMSWRSV1BqRXNZeGJJNzlmcnROLWo4bkk5MXg5T0g?oc=5",
+      "title": "Meta and Anthropic in talks for up to $10bn data centre deal",
+      "summary": "",
+      "publishedAt": "2026-07-17T18:32:45.000Z",
+      "publisher": "Financial Times",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -428,25 +428,6 @@
       }
     },
     {
-      "id": "37f8df303cc978989ca1f42acc1aae914a13d8c9",
-      "company": "Microsoft",
-      "sourceKind": "official",
-      "sourceId": "microsoft-ai",
-      "sourceLabel": "Microsoft AI",
-      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
-      "url": "https://news.microsoft.com/source/asia/2026/07/14/tiket-com-and-microsoft-bring-seamless-travel-services-to-life-with-ai",
-      "title": "tiket.com and Microsoft Bring Seamless Travel Services to Life with AI",
-      "summary": "tiket.com and Microsoft Bring Seamless Travel Services to Life with AI",
-      "publishedAt": "2026-07-17T18:01:19.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
       "id": "42ba56cb55d4ea72b46b9e1216a6ae3fb460448e",
       "company": "Anthropic",
       "sourceKind": "official",
@@ -482,6 +463,25 @@
         "bucket": "digest",
         "score": 2,
         "reason": "Technical or research update"
+      }
+    },
+    {
+      "id": "37f8df303cc978989ca1f42acc1aae914a13d8c9",
+      "company": "Microsoft",
+      "sourceKind": "official",
+      "sourceId": "microsoft-ai",
+      "sourceLabel": "Microsoft AI",
+      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
+      "url": "https://news.microsoft.com/source/asia/2026/07/14/tiket-com-and-microsoft-bring-seamless-travel-services-to-life-with-ai",
+      "title": "tiket.com and Microsoft Bring Seamless Travel Services to Life with AI",
+      "summary": "tiket.com and Microsoft Bring Seamless Travel Services to Life with AI",
+      "publishedAt": "2026-07-17T18:01:19.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 1,
+        "reason": "Routine official update"
       }
     },
     {
@@ -542,6 +542,140 @@
       }
     }
   ],
-  "newItems": [],
+  "newItems": [
+    {
+      "id": "3cf6ad1b3216f6e8171acdba7e507b83ad92c86e",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQc0dySXJwQWkyaEkwOWhxOUk4X1dyQ0FFZXozMkU5QlFKU1Q3X2l3VUk4czdITEJmQnB1ZF9HNGlWVkhKeGNhMThGQjM3VXRvMENmSUZIZlZWQmlpRjJrYk9vV00xUHEtdy1KX3hqd2o4MllpeThhQ0VzbjRuaEVMSzNReUtyMy1rZkNXc2JZblZ0Q1FqQl90eGNYb1AzdDA?oc=5",
+      "title": "AMD stock climbs after Microsoft expands Azure AI partnership",
+      "summary": "",
+      "publishedAt": "2026-07-20T14:06:32.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "064ada5030c79fbd795f738d6d6443bcbb5b43bc",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWGFhOVdpT29KZVM5WUl0b0xybk1GVmlaS1RwNC1yQTYxNGtqaGN3ekFoX201cTZCUE43cFBSaUxFTGdBb1hEdnlXQkNHS3RNUGhxRE9xTl90VE53dDVNZ3NlQ1drZGFKS3JRWXRGSzJRYjZ6V2JHVTQ3T3RkemtsaFRHSDRFQ3ZqdnRidVNaelVGaHhPX3EtWnEteVRjcnoxa05FX0U3OU5YRkFVSXpybFp2OA?oc=5",
+      "title": "ReliaQuest and OpenAI Announce Partnership to Accelerate Agentic Cyber Defense for the Enterprise",
+      "summary": "",
+      "publishedAt": "2026-07-20T00:00:00.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "74f7228de88aab1563d7d636db574f3908d4dedb",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSVNqN1paNUlrdzltc0F6UnNlZVQ1V0ZrYTVyZW0tdUZpaHVPMUFDa05vZGtLanhWdy1HOTNWOGtWaER0RmFpWjBYanlQYkNXemtJUExxUXY0eDUyV0E5dDFVR0JXTjZGRHN6dlEwZUFTZ3hpTkVubnRFSVdJR21GYWdfNlZuZFFYNVFTSzJR?oc=5",
+      "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
+      "summary": "",
+      "publishedAt": "2026-07-19T19:24:45.000Z",
+      "publisher": "TechCrunch",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "107fcd12af4d662044ab6eec2e1f26625e37ee44",
+      "company": "Google",
+      "sourceKind": "external",
+      "sourceId": "external-google-major",
+      "sourceLabel": "Major External News - Google",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcExCMGtrOEs1ZVFWT0J6UzA5bGZYRnNibFdSWUkwNGlJbTB0cHQzSVlrVTJVWE1ZT01lcjdSbG4yWVFfY3hoblF6VU9jcHVIRGpuSHlYZ0dVTGRRRHJXeTBURVNJdXlENGNYQm5IS1BvbjVwbVY1NklSZkNNWjJEUVhtTDVwaEJTZUpGSlFQRE1ReUFMUklwMERNZkF6STlxckpaLUtzS3RuU29PVVR0ZWh6RWkwdkdtZlE?oc=5",
+      "title": "Alphabet's Google developing new chip for AI model, stock jumps",
+      "summary": "",
+      "publishedAt": "2026-07-20T15:11:28.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "c8f17a5c0335bd84244d9841d5d12cbe62da0718",
+      "company": "Google",
+      "sourceKind": "external",
+      "sourceId": "external-google-major",
+      "sourceLabel": "Major External News - Google",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOU1rMGpSd0lvTDE3aFVId2tXRG04enY0ek9mcDFyR09IVm1TUE1tTEVrR0FuUWpPcnpJbmR5cGQzeFNBZFlBWjdwUE1PSGJFUkpEZ1NwalMxRGhmdjJtYTVaeTh4Mlotek5NOE9YNzRMbERhaVFHQndLSC01cnpVSjlzRHVYV3J2eWtfVkgwZzVuWVFETUNPbkZzeXBzamJ0UHpyNGlRaEItTmpqT05ubE1heGFVcmNIWS05UkR3?oc=5",
+      "title": "Google plans new chip to run Gemini models more efficiently, the Information reports",
+      "summary": "",
+      "publishedAt": "2026-07-20T13:59:43.000Z",
+      "publisher": "Reuters",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "d474b444043b419bcb7a067235e6647be8cf0f8e",
+      "company": "Google",
+      "sourceKind": "external",
+      "sourceId": "external-google-major",
+      "sourceLabel": "Major External News - Google",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNREhZUV9lOUg2Wmpzd09yd05jUEdxOG1zXzVWOHhYUF9hTUlGQ1pSUWw5VTdvNk1XNUpWUmZrQ25jMUppNnN1VEZ1OXFXbkVQaUxyR0pJT2pxSVRuSVNuQkdUR0x4RmphcGFtTmN4QTN5azlhVjk0N0JjQ1pGem5yNE1UbWFkNmdUczNlMFEzcTNDdmtmd0Q3aTdR?oc=5",
+      "title": "Google Plans New ‘Frozen’ Chip to Run Its AI Models Much More Efficiently",
+      "summary": "",
+      "publishedAt": "2026-07-20T13:00:00.000Z",
+      "publisher": "The Information",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "361e36c4f285bb372e7bd4fb2da300bbd1dd4c38",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQS1ZNS01vM1pWX3RKQjFfWjIxQlVSbUZkUG1CR1F4SnVIR1R6Zm1NakViOHgzcHgtdC1rX0ltR0pWYXR5c00zdFZsOXFod1R0YUZSWHFJdnJraUxfc1VhVTE0OVBIMmZOZndlS3BrTDNDeGxHM05aZ2NEa3VaQUpPQzZMdy11NWlJSDRsVXJFVVBrT2c1cWFmSTBkTHlySGtp?oc=5",
+      "title": "Mark Zuckerberg's Meta Is Putting Its In-House Iris AI Chip Into Production in September as Part of a Plan to Double Its Computing Capacity to 14 Gigawatts",
+      "summary": "",
+      "publishedAt": "2026-07-18T07:02:00.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    }
+  ],
   "errors": []
 }
