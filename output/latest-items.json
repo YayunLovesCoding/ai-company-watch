@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T15:52:44.462Z",
+  "generatedAt": "2026-07-21T15:45:50.008Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -76,27 +76,65 @@
     }
   ],
   "totals": {
-    "fetched": 39,
+    "fetched": 41,
     "deduped": 24,
-    "new": 7,
+    "new": 14,
     "byKind": {
-      "official": 12,
-      "external": 12
+      "official": 8,
+      "external": 16
     }
   },
   "items": [
     {
-      "id": "3cf6ad1b3216f6e8171acdba7e507b83ad92c86e",
-      "company": "Microsoft",
+      "id": "6d060c0b08af5f8600d2ff099902a3765f8a18c9",
+      "company": "Anthropic",
       "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQc0dySXJwQWkyaEkwOWhxOUk4X1dyQ0FFZXozMkU5QlFKU1Q3X2l3VUk4czdITEJmQnB1ZF9HNGlWVkhKeGNhMThGQjM3VXRvMENmSUZIZlZWQmlpRjJrYk9vV00xUHEtdy1KX3hqd2o4MllpeThhQ0VzbjRuaEVMSzNReUtyMy1rZkNXc2JZblZ0Q1FqQl90eGNYb1AzdDA?oc=5",
-      "title": "AMD stock climbs after Microsoft expands Azure AI partnership",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYTZ6VGQyajZtTWlFeVhiZkpmTnFLSG5jbU1Gb2llZndJZjByTC01SjVLS1R0Z1FTSTRmeDM4VUJ0X1VIby10bVBNU2QtRHpoZFE5MFlPMG43aURMUjNvMEN4WkZsUXBZdFRlci12MTlqbkRJX0VtcW9paUFuc3N1YTR5bXlIUldYcE9QWmR2TkFyTkV3aFFUQXZXMUxJYUptQmwxdEpmU2NtdDBELWsxTnhR?oc=5",
+      "title": "Judge approves a $1.5B Anthropic settlement over pirated books used to train the Claude chatbot",
       "summary": "",
-      "publishedAt": "2026-07-20T14:06:32.000Z",
-      "publisher": "Yahoo Finance",
+      "publishedAt": "2026-07-21T14:41:00.000Z",
+      "publisher": "AP News",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "3537a42639f11acfb52f28db52e5cbd6fd4c6eb0",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNc0NINGJraWVmY0lOQmktMVN1Sl8zS2xabWRnU0RYOHBISERvQ0NMQ3kxZUJhbGd4OElqQk1uRzZ1V0hNYmR1b25MZ296OE1xb1NqM3dHOGlibGdFY3lZZkM3QTYxbU5DTkc2NFJjRUh3R2NzVTJPdWE2SE41dnBjZXhVRUR0YnBkbmVqaFh1NjV6cjFRTjFJby1UQ2tiMC1uVERDd0lR?oc=5",
+      "title": "A federal judge just approved Anthropic's $1.5 billion settlement with authors",
+      "summary": "",
+      "publishedAt": "2026-07-21T01:18:48.000Z",
+      "publisher": "Startup Fortune",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "8dc6d549e2095e08a1f1fe726ada4c4982bb43e8",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOa1Ztc1Z3QjhWekJJTmEySVd4OUFoNkxzQWdkeWRqY0lSNkEwT1FEam1MR21fNE1LSlpFcjZvZnJIZmZwS1Rsa3RJM01uWkFLOTNWUzQycGVlcUhYaWcxNENFT1A4Nks2YUQxLXdOaWxpenBCNVVUdFFrYm5NRGdXLWNWeno2OVNkc1VWTDNDWGFnbFhRbUNON1V3Z1ljNGR3d19DUmlMNFJIWXg1UU5n?oc=5",
+      "title": "US judge approves Anthropic's $1.5 billion settlement of copyright lawsuit",
+      "summary": "",
+      "publishedAt": "2026-07-20T20:49:00.000Z",
+      "publisher": "Reuters",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -143,22 +181,79 @@
       }
     },
     {
-      "id": "5d03a7e23674eecdcdba44386190427fbb737c0e",
-      "company": "Meta",
+      "id": "a0c3b73085b28d926519898da59ace051bcb04dc",
+      "company": "Google",
       "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
+      "sourceId": "external-google-major",
+      "sourceLabel": "Major External News - Google",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1tZWtxWDkycmdUVlYtM3RpUUdqTVd5cWloOWVnYVZPWUxpc1pBZDFtNkN2NTM5anJXdmRlYnJubDhTV2pyWEp1cnRWQ1pWUnZ3U21OQ0ZhUHAwcGlUN2h4ajNaZVhWWmc0ZTRad0NNNNIBdEFVX3lxTE03WExldWF5Ukd0VGxHRjluWlBNVEZPbW9KWk5LQjZJbk55T3ZjQWozel9NMDZVWkZsYUFKNE9kUmVTN2xSNFI5MFZMOGVqYjVsenFjdmlPYzFvVl85WnhXLTBBOGt4eER0ZW1KS3E5ZE5XNHZJ?oc=5",
-      "title": "Anthropic in early talks with Meta to acquire compute power",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMzgwNWh2OHBDZVZ4bjNjekJrdk1HeTlMX3lDYjh3bGtqbzRmbndnZWJQbDVtNmxzVGdxMDBfSHlpbzNMbWFUM3hQZ1VGenIxc0M0eFlaMmdYWmw2NTRUNkpZZEZYTV9RR3d1OXNSQXd4VExoVGRZNlFKd2RuSms0OWxrRVFTdWM?oc=5",
+      "title": "Google launches a cheaper alternative to large AI security models like Mythos",
       "summary": "",
-      "publishedAt": "2026-07-17T16:41:26.000Z",
-      "publisher": "CNBC",
+      "publishedAt": "2026-07-21T15:00:00.000Z",
+      "publisher": "The Verge",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "19758c0d9e8a4f4fdfb2a0ab306d5987fb533eff",
+      "company": "Microsoft",
+      "sourceKind": "official",
+      "sourceId": "microsoft-ai",
+      "sourceLabel": "Microsoft AI",
+      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
+      "url": "https://news.microsoft.com/source/2026/07/21/microsoft-and-mistral-expand-strategic-partnership-to-give-enterprises-and-regulated-industries-frontier-ai-they-can-control",
+      "title": "Microsoft and Mistral expand strategic partnership to give enterprises and regulated industries frontier AI they can control",
+      "summary": "Microsoft and Mistral expand strategic partnership to give enterprises and regulated industries frontier AI they can control",
+      "publishedAt": "2026-07-21T12:30:12.000Z",
+      "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
         "score": 6,
         "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "577cd0a33d1fcf45d5d8d5110336044cad41a5af",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQT2lsdklnQ0FFeTNvX1cwZG1nOFY2bzdHc3pyRHFxUERiaW1DSFhqWnNhbjV2NlRmMFdWVm5TWElVbjVOd1k4TEl1bWlwWEtXT0dWLWI0bEpfMDl5cGs1RENhUk45bjVobjBTYk1acGNTVTRyY2pueGVSb3Fnc3pMejBqeXowTmlGYlo1eWpub1loeUcycXp0THpycFhIZS04?oc=5",
+      "title": "Anthropic says an AI security startup's logo looks too much like its own",
+      "summary": "",
+      "publishedAt": "2026-07-21T09:41:04.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "7e072b866df308e20614706976d891670436e4e1",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber",
+      "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+      "summary": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
+      "publishedAt": "2026-07-21T15:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Flagship model or product launch"
       }
     },
     {
@@ -181,6 +276,82 @@
       }
     },
     {
+      "id": "9b4ebf94a4e6f0b290915b91726b508cc41805e1",
+      "company": "Google",
+      "sourceKind": "external",
+      "sourceId": "external-google-major",
+      "sourceLabel": "Major External News - Google",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTVZYSlROMmVRejhMMW5SVGRueW4zZTdnOEs2bmp4VFM3akVucjJOQmFZN2J0RGZ4VFNZc0lITENHS2xpM1M1NWhzT2xtbldDN0tyT1l0RVdWQ1E1TXZWY0tETnAwQUhaVE92d0F0alBhWFcyRWVzaEpXbHFDT05BOUNJcWV6d3RSLWUyTzE4VTVNQzA1VkJPQ1NzeGx3YlV3bnFZMzNQTHE3Zw?oc=5",
+      "title": "Google bets on custom AI chip to boost Gemini efficiency: Report",
+      "summary": "",
+      "publishedAt": "2026-07-21T02:30:07.000Z",
+      "publisher": "CNBC",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "8aba68ad5e602f829b524229b1d8104e72d37693",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTjJLc1RTODdNaC1abDVYb290b29zVWhYVkZJUDU3MnQ0WHVJTURMdjVRb0Y0YUFycW1ZOGRpdlVKb21LbW85SjZFNzYxakZQQVpIT2FWaEw4dFowOFg3WFJIWkx2QVhSNlA4UjQ3UmFIb1FuYjVKd1BGMkstN3hwdnJmQjRISUJJdkd5MWpXN1NqUWZWSmdTN0JSU3p0WEU?oc=5",
+      "title": "BlackRock Sells $12 Billion in Bonds to Fund Meta's Texas AI Data Center",
+      "summary": "",
+      "publishedAt": "2026-07-20T23:22:56.000Z",
+      "publisher": "Startup Fortune",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "3b7944249ba9d73422be6343c330995bc81a46e5",
+      "company": "Google",
+      "sourceKind": "external",
+      "sourceId": "external-google-major",
+      "sourceLabel": "Major External News - Google",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQLXNRVWtTNGtSaWFOT1JfMDRCenMyZXRybTQ3cVlRbUotRVRtM2NON3hWa1dlaFJGWklVeXBDaTdXc21wU0FfZTAtZEVuRFdENHJuSFhKd1FnTXh1V3BNV0w3NWZtWkNYREpBaXc0ZnZGMU9LdWc5ZjUzT3VhNWloR1VDQjJUdzZqejNvLXdZMDh1SFpWZ1BBTEpxNTl6Z29kdlNVMkRWMExUTk1a?oc=5",
+      "title": "Google is working on a new AI chip designed to make Gemini more efficient",
+      "summary": "",
+      "publishedAt": "2026-07-20T21:21:15.000Z",
+      "publisher": "TechCrunch",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "3a566df0bda6890cd724f2f7f602b715bc6ce25d",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYUxhX0FBQ1gzZEswOVRsVElmX0d1QjNuNjlPSkJFZVFBQU5ScW9RM20tOWtVNjdWcFFNNTY4c2R5WUo3T2RBbHJvbXpBZnpLOHhVRXRRZkEtWkU5S1FSQTZERmpNNXpjNUh0Y016ZkYzQ2tVNFB5OUtsb3FtTXpJa1EtQjhoRndlcFIzU0dKeHNTQ1NJdjVIZHkwQmJJZmw3MmliTXh2UXRoaFcycGVpWThnMkQ?oc=5",
+      "title": "BlackRock’s Meta Deal to Show the Power of $25 Billion M&A Spree",
+      "summary": "",
+      "publishedAt": "2026-07-20T21:20:46.000Z",
+      "publisher": "Bloomberg.com",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
       "id": "107fcd12af4d662044ab6eec2e1f26625e37ee44",
       "company": "Google",
       "sourceKind": "external",
@@ -190,7 +361,7 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcExCMGtrOEs1ZVFWT0J6UzA5bGZYRnNibFdSWUkwNGlJbTB0cHQzSVlrVTJVWE1ZT01lcjdSbG4yWVFfY3hoblF6VU9jcHVIRGpuSHlYZ0dVTGRRRHJXeTBURVNJdXlENGNYQm5IS1BvbjVwbVY1NklSZkNNWjJEUVhtTDVwaEJTZUpGSlFQRE1ReUFMUklwMERNZkF6STlxckpaLUtzS3RuU29PVVR0ZWh6RWkwdkdtZlE?oc=5",
       "title": "Alphabet's Google developing new chip for AI model, stock jumps",
       "summary": "",
-      "publishedAt": "2026-07-20T15:11:28.000Z",
+      "publishedAt": "2026-07-20T20:33:42.000Z",
       "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
@@ -200,36 +371,17 @@
       }
     },
     {
-      "id": "c8f17a5c0335bd84244d9841d5d12cbe62da0718",
-      "company": "Google",
+      "id": "59b1ace91aa4baf308a54fb3946e0d0534178192",
+      "company": "Microsoft",
       "sourceKind": "external",
-      "sourceId": "external-google-major",
-      "sourceLabel": "Major External News - Google",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOU1rMGpSd0lvTDE3aFVId2tXRG04enY0ek9mcDFyR09IVm1TUE1tTEVrR0FuUWpPcnpJbmR5cGQzeFNBZFlBWjdwUE1PSGJFUkpEZ1NwalMxRGhmdjJtYTVaeTh4Mlotek5NOE9YNzRMbERhaVFHQndLSC01cnpVSjlzRHVYV3J2eWtfVkgwZzVuWVFETUNPbkZzeXBzamJ0UHpyNGlRaEItTmpqT05ubE1heGFVcmNIWS05UkR3?oc=5",
-      "title": "Google plans new chip to run Gemini models more efficiently, the Information reports",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOGJOOU12UUdJS015NEVOaThXWXhIWG9ZbWEzNGZodGtZTmtmN3VySzZPcVBmSXd4TTl4T3hOaTQ2QnBiVllRQXphV05CaEJyWjRHb1YyVS1hNE9TNzRYejdtazZZS1VQZXV5OTd1TnJsaDBKdi1fZTF6UGRvZVZ4RTUwYUVGcTJDTmo1NG9DdVF4dVIxZF9oQ0pKM0hVaXZDSV9zUV8wN0V3bWhUd0x4dHpR?oc=5",
+      "title": "AMD stock rises on price target bumps, Microsoft deal",
       "summary": "",
-      "publishedAt": "2026-07-20T13:59:43.000Z",
-      "publisher": "Reuters",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "d474b444043b419bcb7a067235e6647be8cf0f8e",
-      "company": "Google",
-      "sourceKind": "external",
-      "sourceId": "external-google-major",
-      "sourceLabel": "Major External News - Google",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNREhZUV9lOUg2Wmpzd09yd05jUEdxOG1zXzVWOHhYUF9hTUlGQ1pSUWw5VTdvNk1XNUpWUmZrQ25jMUppNnN1VEZ1OXFXbkVQaUxyR0pJT2pxSVRuSVNuQkdUR0x4RmphcGFtTmN4QTN5azlhVjk0N0JjQ1pGem5yNE1UbWFkNmdUczNlMFEzcTNDdmtmd0Q3aTdR?oc=5",
-      "title": "Google Plans New ‘Frozen’ Chip to Run Its AI Models Much More Efficiently",
-      "summary": "",
-      "publishedAt": "2026-07-20T13:00:00.000Z",
-      "publisher": "The Information",
+      "publishedAt": "2026-07-20T17:01:06.000Z",
+      "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -257,22 +409,22 @@
       }
     },
     {
-      "id": "d37ce11fa5e902fca276a247d99b238df2e2a2a2",
-      "company": "Anthropic",
+      "id": "d4ff9ec891b78868c06ad312d627b3bdc105c92f",
+      "company": "OpenAI",
       "sourceKind": "official",
-      "sourceId": "anthropic-news",
-      "sourceLabel": "Anthropic News",
-      "homepageUrl": "https://www.anthropic.com/news",
-      "url": "https://www.anthropic.com/news/claude-for-teachers",
-      "title": "Introducing Claude for Teachers",
-      "summary": "",
-      "publishedAt": "2026-07-14T00:00:00.000Z",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/safety-alignment-long-horizon-models",
+      "title": "Safety and alignment in an era of long-horizon models",
+      "summary": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
+      "publishedAt": "2026-07-20T10:00:00.000Z",
       "publisher": "",
-      "discoveryMethod": "anchor",
+      "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
         "score": 4,
-        "reason": "Flagship model or product launch"
+        "reason": "Safety, security, or policy update"
       }
     },
     {
@@ -314,25 +466,6 @@
       }
     },
     {
-      "id": "0237aadb1e485e84ab9384c7163838dcccf62670",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNS2NqN2VtZFNDLWpDUGxnTXlpZmdWRmI3QlJyeTZSS2cwOEdyVEVGY0NGd3F4UGdqYkVoTjVaUWR0bzJVcW8yY0N1dG1zUnl0UUVDa2dKYVhKU2F5OWJPTWFfSGdZWlRfMjZZdEVxUTRiVDE1LXhMSjR0a0FOMFItVHA3V3FTYlVjU0Mzcy12VG9JbVlORGF2bXBFa1BIUjBNaHR6ZnBn?oc=5",
-      "title": "Meta, Anthropic in talks for potential $10 billion compute lease deal, source says",
-      "summary": "",
-      "publishedAt": "2026-07-17T20:58:02.000Z",
-      "publisher": "Reuters",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
       "id": "462fd805d774c4affa958ed5f1cc26b222957803",
       "company": "Meta",
       "sourceKind": "external",
@@ -352,22 +485,22 @@
       }
     },
     {
-      "id": "83d17de8748bd2107e1c058f184ef82753e346d2",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQ0pvcFYxQVNQS0VHdzdOeENPa0RxbEExUnVXWlhZWV9nNmFzV052QkhWVHBUSWNHclMwSXBsVV9OdFZNZ0lBejFPOEFZS0ZxU3REZEJjTG14czM4ZS1acDBnMWo3bmVCVnNzVXRtX1JhcE1zLUVoLTVrbEphZjduZnZmV1lsc2xEZGZlLUZOak05Yk5ZdkRiSGtR?oc=5",
-      "title": "OpenAI Staffers Are Funding a Rival Super PAC to Take on Their Boss",
+      "id": "f23573f8baf695c61e749937e5c54e00be68c8d1",
+      "company": "Anthropic",
+      "sourceKind": "official",
+      "sourceId": "anthropic-news",
+      "sourceLabel": "Anthropic News",
+      "homepageUrl": "https://www.anthropic.com/news",
+      "url": "https://www.anthropic.com/news/rare-disease-research-grants",
+      "title": "Apply for Anthropic’s AI for Science rare disease research grants",
       "summary": "",
-      "publishedAt": "2026-07-15T09:00:00.000Z",
-      "publisher": "WIRED",
-      "discoveryMethod": "feed",
+      "publishedAt": "2026-07-20T00:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "anchor",
       "classification": {
         "bucket": "important",
         "score": 3,
-        "reason": "Trusted external coverage"
+        "reason": "Technical or research update"
       }
     },
     {
@@ -407,211 +540,154 @@
         "score": 3,
         "reason": "Safety, security, or policy update"
       }
-    },
+    }
+  ],
+  "newItems": [
     {
-      "id": "3a0b4572422c1a8cbc95ae7fb7158fc8dc49f9d0",
+      "id": "6d060c0b08af5f8600d2ff099902a3765f8a18c9",
       "company": "Anthropic",
-      "sourceKind": "official",
-      "sourceId": "anthropic-news",
-      "sourceLabel": "Anthropic News",
-      "homepageUrl": "https://www.anthropic.com/news",
-      "url": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy",
-      "title": "Responsible Scaling Policy",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYTZ6VGQyajZtTWlFeVhiZkpmTnFLSG5jbU1Gb2llZndJZjByTC01SjVLS1R0Z1FTSTRmeDM4VUJ0X1VIby10bVBNU2QtRHpoZFE5MFlPMG43aURMUjNvMEN4WkZsUXBZdFRlci12MTlqbkRJX0VtcW9paUFuc3N1YTR5bXlIUldYcE9QWmR2TkFyTkV3aFFUQXZXMUxJYUptQmwxdEpmU2NtdDBELWsxTnhR?oc=5",
+      "title": "Judge approves a $1.5B Anthropic settlement over pirated books used to train the Claude chatbot",
       "summary": "",
-      "publishedAt": null,
-      "publisher": "",
-      "discoveryMethod": "anchor",
+      "publishedAt": "2026-07-21T14:41:00.000Z",
+      "publisher": "AP News",
+      "discoveryMethod": "feed",
       "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Safety, security, or policy update"
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
       }
     },
     {
-      "id": "42ba56cb55d4ea72b46b9e1216a6ae3fb460448e",
+      "id": "3537a42639f11acfb52f28db52e5cbd6fd4c6eb0",
       "company": "Anthropic",
-      "sourceKind": "official",
-      "sourceId": "anthropic-news",
-      "sourceLabel": "Anthropic News",
-      "homepageUrl": "https://www.anthropic.com/news",
-      "url": "https://www.anthropic.com/news/canadian-ai-research",
-      "title": "Anthropic commits $10 million to Canadian AI research",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNc0NINGJraWVmY0lOQmktMVN1Sl8zS2xabWRnU0RYOHBISERvQ0NMQ3kxZUJhbGd4OElqQk1uRzZ1V0hNYmR1b25MZ296OE1xb1NqM3dHOGlibGdFY3lZZkM3QTYxbU5DTkc2NFJjRUh3R2NzVTJPdWE2SE41dnBjZXhVRUR0YnBkbmVqaFh1NjV6cjFRTjFJby1UQ2tiMC1uVERDd0lR?oc=5",
+      "title": "A federal judge just approved Anthropic's $1.5 billion settlement with authors",
       "summary": "",
-      "publishedAt": "2026-07-14T00:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "anchor",
+      "publishedAt": "2026-07-21T01:18:48.000Z",
+      "publisher": "Startup Fortune",
+      "discoveryMethod": "feed",
       "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Technical or research update"
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
       }
     },
     {
-      "id": "97cd97d27d220f15f9bc8a69f1f4b5eea602a9e8",
+      "id": "8dc6d549e2095e08a1f1fe726ada4c4982bb43e8",
       "company": "Anthropic",
-      "sourceKind": "official",
-      "sourceId": "anthropic-engineering",
-      "sourceLabel": "Anthropic Engineering",
-      "homepageUrl": "https://www.anthropic.com/engineering",
-      "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
-      "title": "Featured How we contain Claude across products As agents grow more capable, so does their potential blast radius. The engineering question is how to cap it. Here’s what we’ve learned building containment for claude.ai, Claude Code, and Cowork.",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOa1Ztc1Z3QjhWekJJTmEySVd4OUFoNkxzQWdkeWRqY0lSNkEwT1FEam1MR21fNE1LSlpFcjZvZnJIZmZwS1Rsa3RJM01uWkFLOTNWUzQycGVlcUhYaWcxNENFT1A4Nks2YUQxLXdOaWxpenBCNVVUdFFrYm5NRGdXLWNWeno2OVNkc1VWTDNDWGFnbFhRbUNON1V3Z1ljNGR3d19DUmlMNFJIWXg1UU5n?oc=5",
+      "title": "US judge approves Anthropic's $1.5 billion settlement of copyright lawsuit",
       "summary": "",
-      "publishedAt": null,
-      "publisher": "",
-      "discoveryMethod": "anchor",
+      "publishedAt": "2026-07-20T20:49:00.000Z",
+      "publisher": "Reuters",
+      "discoveryMethod": "feed",
       "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Technical or research update"
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
       }
     },
     {
-      "id": "37f8df303cc978989ca1f42acc1aae914a13d8c9",
+      "id": "a0c3b73085b28d926519898da59ace051bcb04dc",
+      "company": "Google",
+      "sourceKind": "external",
+      "sourceId": "external-google-major",
+      "sourceLabel": "Major External News - Google",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMzgwNWh2OHBDZVZ4bjNjekJrdk1HeTlMX3lDYjh3bGtqbzRmbndnZWJQbDVtNmxzVGdxMDBfSHlpbzNMbWFUM3hQZ1VGenIxc0M0eFlaMmdYWmw2NTRUNkpZZEZYTV9RR3d1OXNSQXd4VExoVGRZNlFKd2RuSms0OWxrRVFTdWM?oc=5",
+      "title": "Google launches a cheaper alternative to large AI security models like Mythos",
+      "summary": "",
+      "publishedAt": "2026-07-21T15:00:00.000Z",
+      "publisher": "The Verge",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "19758c0d9e8a4f4fdfb2a0ab306d5987fb533eff",
       "company": "Microsoft",
       "sourceKind": "official",
       "sourceId": "microsoft-ai",
       "sourceLabel": "Microsoft AI",
       "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
-      "url": "https://news.microsoft.com/source/asia/2026/07/14/tiket-com-and-microsoft-bring-seamless-travel-services-to-life-with-ai",
-      "title": "tiket.com and Microsoft Bring Seamless Travel Services to Life with AI",
-      "summary": "tiket.com and Microsoft Bring Seamless Travel Services to Life with AI",
-      "publishedAt": "2026-07-17T18:01:19.000Z",
+      "url": "https://news.microsoft.com/source/2026/07/21/microsoft-and-mistral-expand-strategic-partnership-to-give-enterprises-and-regulated-industries-frontier-ai-they-can-control",
+      "title": "Microsoft and Mistral expand strategic partnership to give enterprises and regulated industries frontier AI they can control",
+      "summary": "Microsoft and Mistral expand strategic partnership to give enterprises and regulated industries frontier AI they can control",
+      "publishedAt": "2026-07-21T12:30:12.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Corporate move or major external event"
       }
     },
     {
-      "id": "3ebda52fc80ebe33165f5f415dd9c032d4c031d4",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
-      "title": "A scorecard for the AI age",
-      "summary": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
-      "publishedAt": "2026-07-17T10:00:00.000Z",
-      "publisher": "",
+      "id": "577cd0a33d1fcf45d5d8d5110336044cad41a5af",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQT2lsdklnQ0FFeTNvX1cwZG1nOFY2bzdHc3pyRHFxUERiaW1DSFhqWnNhbjV2NlRmMFdWVm5TWElVbjVOd1k4TEl1bWlwWEtXT0dWLWI0bEpfMDl5cGs1RENhUk45bjVobjBTYk1acGNTVTRyY2pueGVSb3Fnc3pMejBqeXowTmlGYlo1eWpub1loeUcycXp0THpycFhIZS04?oc=5",
+      "title": "Anthropic says an AI security startup's logo looks too much like its own",
+      "summary": "",
+      "publishedAt": "2026-07-21T09:41:04.000Z",
+      "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Safety, security, or policy update"
       }
     },
     {
-      "id": "ad568fefbb7de630f5b9107a92d5cc9d8d06acdd",
+      "id": "7e072b866df308e20614706976d891670436e4e1",
       "company": "Google",
       "sourceKind": "official",
       "sourceId": "google-ai",
       "sourceLabel": "Google AI",
       "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook",
-      "title": "NotebookLM is now Gemini Notebook",
-      "summary": "NotebookLM is now Gemini Notebook: the same standalone product with deeper Google integration and a secure cloud computer.",
-      "publishedAt": "2026-07-16T16:00:00.000Z",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber",
+      "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+      "summary": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
+      "publishedAt": "2026-07-21T15:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "8fe39edff791751de0c2c6545e4ca710ed977e69",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
-      "title": "Why teens deserve access to safe AI",
-      "summary": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
-      "publishedAt": "2026-07-16T16:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
-    }
-  ],
-  "newItems": [
-    {
-      "id": "3cf6ad1b3216f6e8171acdba7e507b83ad92c86e",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQc0dySXJwQWkyaEkwOWhxOUk4X1dyQ0FFZXozMkU5QlFKU1Q3X2l3VUk4czdITEJmQnB1ZF9HNGlWVkhKeGNhMThGQjM3VXRvMENmSUZIZlZWQmlpRjJrYk9vV00xUHEtdy1KX3hqd2o4MllpeThhQ0VzbjRuaEVMSzNReUtyMy1rZkNXc2JZblZ0Q1FqQl90eGNYb1AzdDA?oc=5",
-      "title": "AMD stock climbs after Microsoft expands Azure AI partnership",
-      "summary": "",
-      "publishedAt": "2026-07-20T14:06:32.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
         "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
+        "score": 5,
+        "reason": "Flagship model or product launch"
       }
     },
     {
-      "id": "064ada5030c79fbd795f738d6d6443bcbb5b43bc",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWGFhOVdpT29KZVM5WUl0b0xybk1GVmlaS1RwNC1yQTYxNGtqaGN3ekFoX201cTZCUE43cFBSaUxFTGdBb1hEdnlXQkNHS3RNUGhxRE9xTl90VE53dDVNZ3NlQ1drZGFKS3JRWXRGSzJRYjZ6V2JHVTQ3T3RkemtsaFRHSDRFQ3ZqdnRidVNaelVGaHhPX3EtWnEteVRjcnoxa05FX0U3OU5YRkFVSXpybFp2OA?oc=5",
-      "title": "ReliaQuest and OpenAI Announce Partnership to Accelerate Agentic Cyber Defense for the Enterprise",
-      "summary": "",
-      "publishedAt": "2026-07-20T00:00:00.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "74f7228de88aab1563d7d636db574f3908d4dedb",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSVNqN1paNUlrdzltc0F6UnNlZVQ1V0ZrYTVyZW0tdUZpaHVPMUFDa05vZGtLanhWdy1HOTNWOGtWaER0RmFpWjBYanlQYkNXemtJUExxUXY0eDUyV0E5dDFVR0JXTjZGRHN6dlEwZUFTZ3hpTkVubnRFSVdJR21GYWdfNlZuZFFYNVFTSzJR?oc=5",
-      "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
-      "summary": "",
-      "publishedAt": "2026-07-19T19:24:45.000Z",
-      "publisher": "TechCrunch",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "107fcd12af4d662044ab6eec2e1f26625e37ee44",
+      "id": "9b4ebf94a4e6f0b290915b91726b508cc41805e1",
       "company": "Google",
       "sourceKind": "external",
       "sourceId": "external-google-major",
       "sourceLabel": "Major External News - Google",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcExCMGtrOEs1ZVFWT0J6UzA5bGZYRnNibFdSWUkwNGlJbTB0cHQzSVlrVTJVWE1ZT01lcjdSbG4yWVFfY3hoblF6VU9jcHVIRGpuSHlYZ0dVTGRRRHJXeTBURVNJdXlENGNYQm5IS1BvbjVwbVY1NklSZkNNWjJEUVhtTDVwaEJTZUpGSlFQRE1ReUFMUklwMERNZkF6STlxckpaLUtzS3RuU29PVVR0ZWh6RWkwdkdtZlE?oc=5",
-      "title": "Alphabet's Google developing new chip for AI model, stock jumps",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTVZYSlROMmVRejhMMW5SVGRueW4zZTdnOEs2bmp4VFM3akVucjJOQmFZN2J0RGZ4VFNZc0lITENHS2xpM1M1NWhzT2xtbldDN0tyT1l0RVdWQ1E1TXZWY0tETnAwQUhaVE92d0F0alBhWFcyRWVzaEpXbHFDT05BOUNJcWV6d3RSLWUyTzE4VTVNQzA1VkJPQ1NzeGx3YlV3bnFZMzNQTHE3Zw?oc=5",
+      "title": "Google bets on custom AI chip to boost Gemini efficiency: Report",
       "summary": "",
-      "publishedAt": "2026-07-20T15:11:28.000Z",
-      "publisher": "Yahoo Finance",
+      "publishedAt": "2026-07-21T02:30:07.000Z",
+      "publisher": "CNBC",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -620,60 +696,117 @@
       }
     },
     {
-      "id": "c8f17a5c0335bd84244d9841d5d12cbe62da0718",
-      "company": "Google",
-      "sourceKind": "external",
-      "sourceId": "external-google-major",
-      "sourceLabel": "Major External News - Google",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOU1rMGpSd0lvTDE3aFVId2tXRG04enY0ek9mcDFyR09IVm1TUE1tTEVrR0FuUWpPcnpJbmR5cGQzeFNBZFlBWjdwUE1PSGJFUkpEZ1NwalMxRGhmdjJtYTVaeTh4Mlotek5NOE9YNzRMbERhaVFHQndLSC01cnpVSjlzRHVYV3J2eWtfVkgwZzVuWVFETUNPbkZzeXBzamJ0UHpyNGlRaEItTmpqT05ubE1heGFVcmNIWS05UkR3?oc=5",
-      "title": "Google plans new chip to run Gemini models more efficiently, the Information reports",
-      "summary": "",
-      "publishedAt": "2026-07-20T13:59:43.000Z",
-      "publisher": "Reuters",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "d474b444043b419bcb7a067235e6647be8cf0f8e",
-      "company": "Google",
-      "sourceKind": "external",
-      "sourceId": "external-google-major",
-      "sourceLabel": "Major External News - Google",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNREhZUV9lOUg2Wmpzd09yd05jUEdxOG1zXzVWOHhYUF9hTUlGQ1pSUWw5VTdvNk1XNUpWUmZrQ25jMUppNnN1VEZ1OXFXbkVQaUxyR0pJT2pxSVRuSVNuQkdUR0x4RmphcGFtTmN4QTN5azlhVjk0N0JjQ1pGem5yNE1UbWFkNmdUczNlMFEzcTNDdmtmd0Q3aTdR?oc=5",
-      "title": "Google Plans New ‘Frozen’ Chip to Run Its AI Models Much More Efficiently",
-      "summary": "",
-      "publishedAt": "2026-07-20T13:00:00.000Z",
-      "publisher": "The Information",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "361e36c4f285bb372e7bd4fb2da300bbd1dd4c38",
+      "id": "8aba68ad5e602f829b524229b1d8104e72d37693",
       "company": "Meta",
       "sourceKind": "external",
       "sourceId": "external-meta-major",
       "sourceLabel": "Major External News - Meta",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQS1ZNS01vM1pWX3RKQjFfWjIxQlVSbUZkUG1CR1F4SnVIR1R6Zm1NakViOHgzcHgtdC1rX0ltR0pWYXR5c00zdFZsOXFod1R0YUZSWHFJdnJraUxfc1VhVTE0OVBIMmZOZndlS3BrTDNDeGxHM05aZ2NEa3VaQUpPQzZMdy11NWlJSDRsVXJFVVBrT2c1cWFmSTBkTHlySGtp?oc=5",
-      "title": "Mark Zuckerberg's Meta Is Putting Its In-House Iris AI Chip Into Production in September as Part of a Plan to Double Its Computing Capacity to 14 Gigawatts",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTjJLc1RTODdNaC1abDVYb290b29zVWhYVkZJUDU3MnQ0WHVJTURMdjVRb0Y0YUFycW1ZOGRpdlVKb21LbW85SjZFNzYxakZQQVpIT2FWaEw4dFowOFg3WFJIWkx2QVhSNlA4UjQ3UmFIb1FuYjVKd1BGMkstN3hwdnJmQjRISUJJdkd5MWpXN1NqUWZWSmdTN0JSU3p0WEU?oc=5",
+      "title": "BlackRock Sells $12 Billion in Bonds to Fund Meta's Texas AI Data Center",
       "summary": "",
-      "publishedAt": "2026-07-18T07:02:00.000Z",
+      "publishedAt": "2026-07-20T23:22:56.000Z",
+      "publisher": "Startup Fortune",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "3b7944249ba9d73422be6343c330995bc81a46e5",
+      "company": "Google",
+      "sourceKind": "external",
+      "sourceId": "external-google-major",
+      "sourceLabel": "Major External News - Google",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQLXNRVWtTNGtSaWFOT1JfMDRCenMyZXRybTQ3cVlRbUotRVRtM2NON3hWa1dlaFJGWklVeXBDaTdXc21wU0FfZTAtZEVuRFdENHJuSFhKd1FnTXh1V3BNV0w3NWZtWkNYREpBaXc0ZnZGMU9LdWc5ZjUzT3VhNWloR1VDQjJUdzZqejNvLXdZMDh1SFpWZ1BBTEpxNTl6Z29kdlNVMkRWMExUTk1a?oc=5",
+      "title": "Google is working on a new AI chip designed to make Gemini more efficient",
+      "summary": "",
+      "publishedAt": "2026-07-20T21:21:15.000Z",
+      "publisher": "TechCrunch",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "3a566df0bda6890cd724f2f7f602b715bc6ce25d",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYUxhX0FBQ1gzZEswOVRsVElmX0d1QjNuNjlPSkJFZVFBQU5ScW9RM20tOWtVNjdWcFFNNTY4c2R5WUo3T2RBbHJvbXpBZnpLOHhVRXRRZkEtWkU5S1FSQTZERmpNNXpjNUh0Y016ZkYzQ2tVNFB5OUtsb3FtTXpJa1EtQjhoRndlcFIzU0dKeHNTQ1NJdjVIZHkwQmJJZmw3MmliTXh2UXRoaFcycGVpWThnMkQ?oc=5",
+      "title": "BlackRock’s Meta Deal to Show the Power of $25 Billion M&A Spree",
+      "summary": "",
+      "publishedAt": "2026-07-20T21:20:46.000Z",
+      "publisher": "Bloomberg.com",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "59b1ace91aa4baf308a54fb3946e0d0534178192",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOGJOOU12UUdJS015NEVOaThXWXhIWG9ZbWEzNGZodGtZTmtmN3VySzZPcVBmSXd4TTl4T3hOaTQ2QnBiVllRQXphV05CaEJyWjRHb1YyVS1hNE9TNzRYejdtazZZS1VQZXV5OTd1TnJsaDBKdi1fZTF6UGRvZVZ4RTUwYUVGcTJDTmo1NG9DdVF4dVIxZF9oQ0pKM0hVaXZDSV9zUV8wN0V3bWhUd0x4dHpR?oc=5",
+      "title": "AMD stock rises on price target bumps, Microsoft deal",
+      "summary": "",
+      "publishedAt": "2026-07-20T17:01:06.000Z",
       "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
-        "score": 3,
+        "score": 4,
         "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "d4ff9ec891b78868c06ad312d627b3bdc105c92f",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/safety-alignment-long-horizon-models",
+      "title": "Safety and alignment in an era of long-horizon models",
+      "summary": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
+      "publishedAt": "2026-07-20T10:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "f23573f8baf695c61e749937e5c54e00be68c8d1",
+      "company": "Anthropic",
+      "sourceKind": "official",
+      "sourceId": "anthropic-news",
+      "sourceLabel": "Anthropic News",
+      "homepageUrl": "https://www.anthropic.com/news",
+      "url": "https://www.anthropic.com/news/rare-disease-research-grants",
+      "title": "Apply for Anthropic’s AI for Science rare disease research grants",
+      "summary": "",
+      "publishedAt": "2026-07-20T00:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "anchor",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Technical or research update"
       }
     }
   ],
