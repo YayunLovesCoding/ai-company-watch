@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T15:45:50.008Z",
+  "generatedAt": "2026-07-22T15:44:04.622Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -76,27 +76,27 @@
     }
   ],
   "totals": {
-    "fetched": 41,
+    "fetched": 43,
     "deduped": 24,
-    "new": 14,
+    "new": 15,
     "byKind": {
-      "official": 8,
-      "external": 16
+      "official": 9,
+      "external": 15
     }
   },
   "items": [
     {
-      "id": "6d060c0b08af5f8600d2ff099902a3765f8a18c9",
+      "id": "5dff4815d30755eb8607fbc4d547761830a1f8ae",
       "company": "Anthropic",
       "sourceKind": "external",
       "sourceId": "external-anthropic-major",
       "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYTZ6VGQyajZtTWlFeVhiZkpmTnFLSG5jbU1Gb2llZndJZjByTC01SjVLS1R0Z1FTSTRmeDM4VUJ0X1VIby10bVBNU2QtRHpoZFE5MFlPMG43aURMUjNvMEN4WkZsUXBZdFRlci12MTlqbkRJX0VtcW9paUFuc3N1YTR5bXlIUldYcE9QWmR2TkFyTkV3aFFUQXZXMUxJYUptQmwxdEpmU2NtdDBELWsxTnhR?oc=5",
-      "title": "Judge approves a $1.5B Anthropic settlement over pirated books used to train the Claude chatbot",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE05M3pjdUNHbi1CdmZNVFdBOXN6RzRGQkMyUVZCbnRZenNtbngtNmtjZ0M0YkdfaFRxSHczZ29zTVFDWFNyRFRwbEFrbWo4TndnR052X1NIYmV2ZnFlSGJ0ajd4UFhLbmtOVG9RNm52ZEx4bGFjR3h1ZdIBfkFVX3lxTE5lWXU0dTlGdENpVEVRa1RoNnlLeFZpTXZkVHJVbnByT2U4c3k1S2t5a2l2RHI1OXZ4VHRlaU53OFJJYlNzeWFmaGRrMTdIMWkwME9xZTBub2hRSWZJV1VzeGhxOWRKVjRwZDV5cTN0bGhOQWpPcmJ5SEdxSnR2UQ?oc=5",
+      "title": "AMD to invest up to $5 billion in Anthropic as part of computing power deal",
       "summary": "",
-      "publishedAt": "2026-07-21T14:41:00.000Z",
-      "publisher": "AP News",
+      "publishedAt": "2026-07-22T13:38:03.000Z",
+      "publisher": "CNBC",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -105,54 +105,16 @@
       }
     },
     {
-      "id": "3537a42639f11acfb52f28db52e5cbd6fd4c6eb0",
+      "id": "0b33cb4a0b9bb2126ae505e4f7cbd65b2ec73c51",
       "company": "Anthropic",
       "sourceKind": "external",
       "sourceId": "external-anthropic-major",
       "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNc0NINGJraWVmY0lOQmktMVN1Sl8zS2xabWRnU0RYOHBISERvQ0NMQ3kxZUJhbGd4OElqQk1uRzZ1V0hNYmR1b25MZ296OE1xb1NqM3dHOGlibGdFY3lZZkM3QTYxbU5DTkc2NFJjRUh3R2NzVTJPdWE2SE41dnBjZXhVRUR0YnBkbmVqaFh1NjV6cjFRTjFJby1UQ2tiMC1uVERDd0lR?oc=5",
-      "title": "A federal judge just approved Anthropic's $1.5 billion settlement with authors",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRGNvWEgyT3pqcUUxdEpNZ2RWck5ENTBadzVtZVJET1dHcVJUSmtJSWJBLVd6ZTE3YlVyZ2FlUDh6c1dnOWZ4SnRUWDNOOEdFY1IwdTUxMHZwaUFVXzhCS3AxNTNFdGVZOHNpQ0Y0X1N3Q1FTNHdtYWNHUEl0MFlod3kta1I5OEVod0xZX1VWbWhUSkVUbzg3bERB?oc=5",
+      "title": "AMD and Anthropic Sign Major Chips-and-Investment Deal",
       "summary": "",
-      "publishedAt": "2026-07-21T01:18:48.000Z",
-      "publisher": "Startup Fortune",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "8dc6d549e2095e08a1f1fe726ada4c4982bb43e8",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOa1Ztc1Z3QjhWekJJTmEySVd4OUFoNkxzQWdkeWRqY0lSNkEwT1FEam1MR21fNE1LSlpFcjZvZnJIZmZwS1Rsa3RJM01uWkFLOTNWUzQycGVlcUhYaWcxNENFT1A4Nks2YUQxLXdOaWxpenBCNVVUdFFrYm5NRGdXLWNWeno2OVNkc1VWTDNDWGFnbFhRbUNON1V3Z1ljNGR3d19DUmlMNFJIWXg1UU5n?oc=5",
-      "title": "US judge approves Anthropic's $1.5 billion settlement of copyright lawsuit",
-      "summary": "",
-      "publishedAt": "2026-07-20T20:49:00.000Z",
-      "publisher": "Reuters",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "064ada5030c79fbd795f738d6d6443bcbb5b43bc",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWGFhOVdpT29KZVM5WUl0b0xybk1GVmlaS1RwNC1yQTYxNGtqaGN3ekFoX201cTZCUE43cFBSaUxFTGdBb1hEdnlXQkNHS3RNUGhxRE9xTl90VE53dDVNZ3NlQ1drZGFKS3JRWXRGSzJRYjZ6V2JHVTQ3T3RkemtsaFRHSDRFQ3ZqdnRidVNaelVGaHhPX3EtWnEteVRjcnoxa05FX0U3OU5YRkFVSXpybFp2OA?oc=5",
-      "title": "ReliaQuest and OpenAI Announce Partnership to Accelerate Agentic Cyber Defense for the Enterprise",
-      "summary": "",
-      "publishedAt": "2026-07-20T00:00:00.000Z",
+      "publishedAt": "2026-07-22T12:30:00.000Z",
       "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
@@ -162,17 +124,17 @@
       }
     },
     {
-      "id": "74f7228de88aab1563d7d636db574f3908d4dedb",
-      "company": "OpenAI",
+      "id": "41ce82a8f6a6f613e7b4dd1c0f5788a745677e20",
+      "company": "Anthropic",
       "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSVNqN1paNUlrdzltc0F6UnNlZVQ1V0ZrYTVyZW0tdUZpaHVPMUFDa05vZGtLanhWdy1HOTNWOGtWaER0RmFpWjBYanlQYkNXemtJUExxUXY0eDUyV0E5dDFVR0JXTjZGRHN6dlEwZUFTZ3hpTkVubnRFSVdJR21GYWdfNlZuZFFYNVFTSzJR?oc=5",
-      "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMUt2NUxKTldZbVNLZjdreUc0LTM2ektQWEZTMEtuUktaY3ptNDh3MmFUUmljQlp3YVNaWWYtMi1wdWJ2STlteXV6cWRwRFZ4SDA4OGxkNnRDTm1HX0kybmtpMmZoZTFMNHAwUWhvZmgwQ0MtMHFyTlRVQ2NKV1lfRUh1NjFFZnRicFlwaVZSOG9uRmNtR01aanhMMHJNXzhFQURLYjUxOUFPaktfSHRvcmxHQQ?oc=5",
+      "title": "In landmark Anthropic settlement, judge rejects ‘windfall’ for lawyers",
       "summary": "",
-      "publishedAt": "2026-07-19T19:24:45.000Z",
-      "publisher": "TechCrunch",
+      "publishedAt": "2026-07-21T21:12:54.000Z",
+      "publisher": "Reuters",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -200,6 +162,25 @@
       }
     },
     {
+      "id": "bd6ce42035f550014aca0a9800b9545ebfc3f46b",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+      "title": "Building AI infrastructure with the Effingham County community",
+      "summary": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
+      "publishedAt": "2026-07-22T13:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
       "id": "19758c0d9e8a4f4fdfb2a0ab306d5987fb533eff",
       "company": "Microsoft",
       "sourceKind": "official",
@@ -219,22 +200,98 @@
       }
     },
     {
-      "id": "577cd0a33d1fcf45d5d8d5110336044cad41a5af",
-      "company": "Anthropic",
+      "id": "20b0eb2d5c1499740c7eb0c94f0e2e59fcb04e9d",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+      "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
+      "summary": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.",
+      "publishedAt": "2026-07-21T07:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "d349a5a85dc2b60a45994e0dae56544a9d15a615",
+      "company": "OpenAI",
       "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQT2lsdklnQ0FFeTNvX1cwZG1nOFY2bzdHc3pyRHFxUERiaW1DSFhqWnNhbjV2NlRmMFdWVm5TWElVbjVOd1k4TEl1bWlwWEtXT0dWLWI0bEpfMDl5cGs1RENhUk45bjVobjBTYk1acGNTVTRyY2pueGVSb3Fnc3pMejBqeXowTmlGYlo1eWpub1loeUcycXp0THpycFhIZS04?oc=5",
-      "title": "Anthropic says an AI security startup's logo looks too much like its own",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcEpVMVY2UTM4eTZPVHJFSnRkOGkySWZiLXYtZ3E1SGp1NGZzSHl3TDNBSWE1RDgwTW43WHhhRlNMR0lSRUt4ck5TTGkyUlZRUmp4d0JGYnNQNHZsRlJWSmtaM1FVaFd6UW1sQVk3SHp4T0lWLU91TDUyVDlNVklFWXNkUXpvZDRkVkRaSG1VOFQzODliandWTENXcW9BQnBJbU5IdGdFWlJYMVc0aDYzdkJRVHZIV2lPWnY4blRRVQ?oc=5",
+      "title": "SandboxAQ CEO weighs in on security incidents involving OpenAI and Hugging Face",
       "summary": "",
-      "publishedAt": "2026-07-21T09:41:04.000Z",
-      "publisher": "Yahoo Finance",
+      "publishedAt": "2026-07-22T14:59:24.000Z",
+      "publisher": "CNBC",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
         "score": 5,
         "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "0b753a3d19c14b1809f32c58a9554e5245ad4697",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONC1oRi0tdTM4RXJGRVpPRWJBcnZKdWwwZl9mVlpMMUZIZlR3LUM0YktZT1NhdXRILVpBNkxrdXBlRGZucUc0d1pqWWd3LXhqYXZ6OUZmZzJHSE1iUENYT1l3aXdEV25pWUdRbjlyUms0MjZzaGlOXzAzdmJUWXhpZDdXYmhBR1p4SU1YTA?oc=5",
+      "title": "Anthropic doubles funding for AI policy fight ahead of elections",
+      "summary": "",
+      "publishedAt": "2026-07-22T09:02:54.000Z",
+      "publisher": "Axios",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "c54f46e53d48e3042d6e57aa12e7bc3272d032eb",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/introducing-openai-presence",
+      "title": "Introducing OpenAI Presence",
+      "summary": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
+      "publishedAt": "2026-07-22T05:30:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "d42362617c6408798d23184364284f73d4984cb3",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
+      "title": "Introducing the ChatGPT for small business program",
+      "summary": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
+      "publishedAt": "2026-07-21T17:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Flagship model or product launch"
       }
     },
     {
@@ -264,15 +321,110 @@
       "sourceLabel": "Microsoft AI",
       "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
       "url": "https://news.microsoft.com/source/2026/07/15/3m-and-microsoft-announce-strategic-partnership-to-advance-ai-data-center-infrastructure-and-enterprise-transformation",
-      "title": "3M and Microsoft announce strategic partnership to advance AI data center infrastructure and enterprise transformation",
-      "summary": "3M and Microsoft announce strategic partnership to advance AI data center infrastructure and enterprise transformation",
-      "publishedAt": "2026-07-15T13:00:19.000Z",
+      "title": "Read the story titled 3M and Microsoft announce strategic partnership to advance AI data center infrastructure and enterprise transformation",
+      "summary": "",
+      "publishedAt": null,
       "publisher": "",
-      "discoveryMethod": "feed",
+      "discoveryMethod": "anchor",
       "classification": {
         "bucket": "critical",
         "score": 5,
         "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "8f72d08e2ed87acf76409a90c494332bff1fd326",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPM2VZdmVwU1lkTWdlcGJUZkRoRDFzVUwwYlE3c0Q2bUhsRThPLVotSmxINXdnNlFzNWREekR4VDdYZzNHZC1fZ2VvNzNyaFVPM2FnajRCZ1duazVTc21vWHRwZDhCOUxYRG1USV9nSUJXRmJyaGN5U2V4Q2xnZW5wS3dLbWhrRUpUZTlYZmNFN05NRXlGdlBfV1JXMFNhbWo3eGNUeG5GaDZNaUhpQy1NN2lIcXFxa2VRYmxYTkhndw?oc=5",
+      "title": "OpenAI's Hugging Face Breach Shows AI Is Getting Too Hard to Contain",
+      "summary": "",
+      "publishedAt": "2026-07-22T15:13:19.000Z",
+      "publisher": "Bloomberg.com",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "0ec034390b3edf9e325c7ceeed663954930c5c08",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaktDanZtblh3b2JiNHVzNkM3WjZGa2hGSmd5MFNqVnRYV0tfbDJMLTdNZGhEU1kyTkVOM3VZVkNqSkd6N0lOb2dCZ0Z3Y3ptMjNRdDNWSnludlcyT1ZxbVlHakxJQ1kyVW54OEFQZXpjNVdNeXFLTnExS05SMHBrS1NHMWhGTTUzUjJBM285d2hTYzJGZlpvUUdZUVNKWDNWQlFHVWo2UjFtR21DS1A3ejltYVptM05Ec1Vrd2hzTTlvVGRYa0JBWA?oc=5",
+      "title": "Walter Isaacson on OpenAI's cyber breach: This is the first thing that 'totally scares me'",
+      "summary": "",
+      "publishedAt": "2026-07-22T13:19:37.000Z",
+      "publisher": "CNBC",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "b22cb61dca7d247ab4e712c235fd57868c5b4a3d",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaDYyYzhOOXpmTW9VRnNaenBNY1YxZmZLbEdZR2QyQktyRm5ERVMyYzVUcWVfdGtXVk5sSU5ic3RHTmhZMGJuMEQwVGhvaTVnaEhKRkUtNEYybk1BNjNDUy1nQk1uUVhjUUFrWnNYS1RnWThnUm5GUC1xTkJGVExHVGtTYWVETlNTbGlxR1hGcHpNVmlZeVlv?oc=5",
+      "title": "OpenAI adds Nubank and BNY CEOs to board ahead of IPO",
+      "summary": "",
+      "publishedAt": "2026-07-22T12:38:41.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "f946423bebbe3468779aa07b0b6db756205ca209",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSHhPdV9LUXlBaDlRWkxIay1RMkxOaDRpYllraUFyaXhHMHpXeUM3T1oxZTlGRWJUZmF3M2ptQm9uLWpfVmdtM29vSkhrX3diMEtKdE11ckNRM2x2NXdGS014Q0htT1VNU2hnZ25BXzB1ZldGeTFvd2RXajljUlU0RmJURnoyT284bWlKS3JXZTNZcEstYkNjcUNxd2Q1UG43RHFrd29VUTZTWmRNUEg2ZWpfTXhLY3hyczBuTA?oc=5",
+      "title": "OpenAI says AI models went rogue during testing, triggering ‘unprecedented’ breach at startup",
+      "summary": "",
+      "publishedAt": "2026-07-22T12:37:00.000Z",
+      "publisher": "NBC News",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "5fa1adb3a3f8f4106d3b9b686fd8bb754de8683a",
+      "company": "Google",
+      "sourceKind": "external",
+      "sourceId": "external-google-major",
+      "sourceLabel": "Major External News - Google",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOU0JXRFBrZXl0eVFVMUpQUG4tdlJZS1BZVk9EZlVTUEJEQUJMV3E3UEVRcTNvU0JGc0FpVUFfa01SLVZDMUcwMnA3ak5aNk9DOTB5Q2JnVGhXY0VKd3JYTG9zS1hWQTVpM3AySUNJTHZHcV9XWm1EY2pCeUlhakdSWjNvSElTOG5uaWh2MXNfdkZZWTJpdktr?oc=5",
+      "title": "Google Is Building an AI Chip Just for Gemini—And Investors Already Moved On It",
+      "summary": "",
+      "publishedAt": "2026-07-21T17:24:37.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
       }
     },
     {
@@ -285,7 +437,7 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTVZYSlROMmVRejhMMW5SVGRueW4zZTdnOEs2bmp4VFM3akVucjJOQmFZN2J0RGZ4VFNZc0lITENHS2xpM1M1NWhzT2xtbldDN0tyT1l0RVdWQ1E1TXZWY0tETnAwQUhaVE92d0F0alBhWFcyRWVzaEpXbHFDT05BOUNJcWV6d3RSLWUyTzE4VTVNQzA1VkJPQ1NzeGx3YlV3bnFZMzNQTHE3Zw?oc=5",
       "title": "Google bets on custom AI chip to boost Gemini efficiency: Report",
       "summary": "",
-      "publishedAt": "2026-07-21T02:30:07.000Z",
+      "publishedAt": "2026-07-21T02:30:00.000Z",
       "publisher": "CNBC",
       "discoveryMethod": "feed",
       "classification": {
@@ -352,73 +504,16 @@
       }
     },
     {
-      "id": "107fcd12af4d662044ab6eec2e1f26625e37ee44",
-      "company": "Google",
-      "sourceKind": "external",
-      "sourceId": "external-google-major",
-      "sourceLabel": "Major External News - Google",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcExCMGtrOEs1ZVFWT0J6UzA5bGZYRnNibFdSWUkwNGlJbTB0cHQzSVlrVTJVWE1ZT01lcjdSbG4yWVFfY3hoblF6VU9jcHVIRGpuSHlYZ0dVTGRRRHJXeTBURVNJdXlENGNYQm5IS1BvbjVwbVY1NklSZkNNWjJEUVhtTDVwaEJTZUpGSlFQRE1ReUFMUklwMERNZkF6STlxckpaLUtzS3RuU29PVVR0ZWh6RWkwdkdtZlE?oc=5",
-      "title": "Alphabet's Google developing new chip for AI model, stock jumps",
-      "summary": "",
-      "publishedAt": "2026-07-20T20:33:42.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "59b1ace91aa4baf308a54fb3946e0d0534178192",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOGJOOU12UUdJS015NEVOaThXWXhIWG9ZbWEzNGZodGtZTmtmN3VySzZPcVBmSXd4TTl4T3hOaTQ2QnBiVllRQXphV05CaEJyWjRHb1YyVS1hNE9TNzRYejdtazZZS1VQZXV5OTd1TnJsaDBKdi1fZTF6UGRvZVZ4RTUwYUVGcTJDTmo1NG9DdVF4dVIxZF9oQ0pKM0hVaXZDSV9zUV8wN0V3bWhUd0x4dHpR?oc=5",
-      "title": "AMD stock rises on price target bumps, Microsoft deal",
-      "summary": "",
-      "publishedAt": "2026-07-20T17:01:06.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "38e1cf1e833b56e8bdee71701ecb20af4a2c9678",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdnVLbmdZNnJkSDA3LTFFZDF0dXl5ekRfRWEtbEl3YkU1bkVDeEI1R0xtdEg3N0ljMFYzZ1doeFFDdkY5b1dmV1lJOEI1dFdrTFc2NWVhbXpLUF9UV1B6TDVlV1cwYzZpeG1TVEJCeGxPNHJfNkhlaHhFZHlUSHZqQThEeUJLTjVTbWZZWnZTTTA1bWNsZFB4WjNKNFFhRjFNNm1sS3Jpb1BDUQ?oc=5",
-      "title": "Microsoft’s New Security Chief Replaces Top Execs to Force an AI Overhaul",
-      "summary": "",
-      "publishedAt": "2026-07-15T18:34:00.000Z",
-      "publisher": "The Information",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "d4ff9ec891b78868c06ad312d627b3bdc105c92f",
+      "id": "40359dbf5a246645eb9b9137e83bde4afe2e0908",
       "company": "OpenAI",
       "sourceKind": "official",
       "sourceId": "openai-newsroom",
       "sourceLabel": "OpenAI Newsroom",
       "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/safety-alignment-long-horizon-models",
-      "title": "Safety and alignment in an era of long-horizon models",
-      "summary": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
-      "publishedAt": "2026-07-20T10:00:00.000Z",
+      "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
+      "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
+      "summary": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC, bringing global leadership in finance, technology, and governance.",
+      "publishedAt": "2026-07-21T00:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -445,116 +540,21 @@
         "score": 4,
         "reason": "Flagship model or product launch"
       }
-    },
-    {
-      "id": "361e36c4f285bb372e7bd4fb2da300bbd1dd4c38",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQS1ZNS01vM1pWX3RKQjFfWjIxQlVSbUZkUG1CR1F4SnVIR1R6Zm1NakViOHgzcHgtdC1rX0ltR0pWYXR5c00zdFZsOXFod1R0YUZSWHFJdnJraUxfc1VhVTE0OVBIMmZOZndlS3BrTDNDeGxHM05aZ2NEa3VaQUpPQzZMdy11NWlJSDRsVXJFVVBrT2c1cWFmSTBkTHlySGtp?oc=5",
-      "title": "Mark Zuckerberg's Meta Is Putting Its In-House Iris AI Chip Into Production in September as Part of a Plan to Double Its Computing Capacity to 14 Gigawatts",
-      "summary": "",
-      "publishedAt": "2026-07-18T07:02:00.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "462fd805d774c4affa958ed5f1cc26b222957803",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONVdaT05iMXV0Xy01VVgwNE9mNFN6Z3FTaXd4dDRmVG8wUkV6VS1fN0N4VXlxc0U3UTRxZmVLUWdaaXhoa0VIdEphNFJBNjdncHFmSFJwdk56eUItNXdZTWNUMDJnckNMSWRSV1BqRXNZeGJJNzlmcnROLWo4bkk5MXg5T0g?oc=5",
-      "title": "Meta and Anthropic in talks for up to $10bn data centre deal",
-      "summary": "",
-      "publishedAt": "2026-07-17T18:32:45.000Z",
-      "publisher": "Financial Times",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "f23573f8baf695c61e749937e5c54e00be68c8d1",
-      "company": "Anthropic",
-      "sourceKind": "official",
-      "sourceId": "anthropic-news",
-      "sourceLabel": "Anthropic News",
-      "homepageUrl": "https://www.anthropic.com/news",
-      "url": "https://www.anthropic.com/news/rare-disease-research-grants",
-      "title": "Apply for Anthropic’s AI for Science rare disease research grants",
-      "summary": "",
-      "publishedAt": "2026-07-20T00:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "anchor",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Technical or research update"
-      }
-    },
-    {
-      "id": "1e97faa490facd0c80775009cd29953c3036ce5c",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
-      "title": "The US is advancing AI safety through state and federal action",
-      "summary": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
-      "publishedAt": "2026-07-15T12:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "ee230258f27f8a0de48925de53f81261735fd525",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
-      "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
-      "summary": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
-      "publishedAt": "2026-07-15T10:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Safety, security, or policy update"
-      }
     }
   ],
   "newItems": [
     {
-      "id": "6d060c0b08af5f8600d2ff099902a3765f8a18c9",
+      "id": "5dff4815d30755eb8607fbc4d547761830a1f8ae",
       "company": "Anthropic",
       "sourceKind": "external",
       "sourceId": "external-anthropic-major",
       "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYTZ6VGQyajZtTWlFeVhiZkpmTnFLSG5jbU1Gb2llZndJZjByTC01SjVLS1R0Z1FTSTRmeDM4VUJ0X1VIby10bVBNU2QtRHpoZFE5MFlPMG43aURMUjNvMEN4WkZsUXBZdFRlci12MTlqbkRJX0VtcW9paUFuc3N1YTR5bXlIUldYcE9QWmR2TkFyTkV3aFFUQXZXMUxJYUptQmwxdEpmU2NtdDBELWsxTnhR?oc=5",
-      "title": "Judge approves a $1.5B Anthropic settlement over pirated books used to train the Claude chatbot",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE05M3pjdUNHbi1CdmZNVFdBOXN6RzRGQkMyUVZCbnRZenNtbngtNmtjZ0M0YkdfaFRxSHczZ29zTVFDWFNyRFRwbEFrbWo4TndnR052X1NIYmV2ZnFlSGJ0ajd4UFhLbmtOVG9RNm52ZEx4bGFjR3h1ZdIBfkFVX3lxTE5lWXU0dTlGdENpVEVRa1RoNnlLeFZpTXZkVHJVbnByT2U4c3k1S2t5a2l2RHI1OXZ4VHRlaU53OFJJYlNzeWFmaGRrMTdIMWkwME9xZTBub2hRSWZJV1VzeGhxOWRKVjRwZDV5cTN0bGhOQWpPcmJ5SEdxSnR2UQ?oc=5",
+      "title": "AMD to invest up to $5 billion in Anthropic as part of computing power deal",
       "summary": "",
-      "publishedAt": "2026-07-21T14:41:00.000Z",
-      "publisher": "AP News",
+      "publishedAt": "2026-07-22T13:38:03.000Z",
+      "publisher": "CNBC",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -563,17 +563,17 @@
       }
     },
     {
-      "id": "3537a42639f11acfb52f28db52e5cbd6fd4c6eb0",
+      "id": "0b33cb4a0b9bb2126ae505e4f7cbd65b2ec73c51",
       "company": "Anthropic",
       "sourceKind": "external",
       "sourceId": "external-anthropic-major",
       "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNc0NINGJraWVmY0lOQmktMVN1Sl8zS2xabWRnU0RYOHBISERvQ0NMQ3kxZUJhbGd4OElqQk1uRzZ1V0hNYmR1b25MZ296OE1xb1NqM3dHOGlibGdFY3lZZkM3QTYxbU5DTkc2NFJjRUh3R2NzVTJPdWE2SE41dnBjZXhVRUR0YnBkbmVqaFh1NjV6cjFRTjFJby1UQ2tiMC1uVERDd0lR?oc=5",
-      "title": "A federal judge just approved Anthropic's $1.5 billion settlement with authors",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRGNvWEgyT3pqcUUxdEpNZ2RWck5ENTBadzVtZVJET1dHcVJUSmtJSWJBLVd6ZTE3YlVyZ2FlUDh6c1dnOWZ4SnRUWDNOOEdFY1IwdTUxMHZwaUFVXzhCS3AxNTNFdGVZOHNpQ0Y0X1N3Q1FTNHdtYWNHUEl0MFlod3kta1I5OEVod0xZX1VWbWhUSkVUbzg3bERB?oc=5",
+      "title": "AMD and Anthropic Sign Major Chips-and-Investment Deal",
       "summary": "",
-      "publishedAt": "2026-07-21T01:18:48.000Z",
-      "publisher": "Startup Fortune",
+      "publishedAt": "2026-07-22T12:30:00.000Z",
+      "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -582,16 +582,16 @@
       }
     },
     {
-      "id": "8dc6d549e2095e08a1f1fe726ada4c4982bb43e8",
+      "id": "41ce82a8f6a6f613e7b4dd1c0f5788a745677e20",
       "company": "Anthropic",
       "sourceKind": "external",
       "sourceId": "external-anthropic-major",
       "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOa1Ztc1Z3QjhWekJJTmEySVd4OUFoNkxzQWdkeWRqY0lSNkEwT1FEam1MR21fNE1LSlpFcjZvZnJIZmZwS1Rsa3RJM01uWkFLOTNWUzQycGVlcUhYaWcxNENFT1A4Nks2YUQxLXdOaWxpenBCNVVUdFFrYm5NRGdXLWNWeno2OVNkc1VWTDNDWGFnbFhRbUNON1V3Z1ljNGR3d19DUmlMNFJIWXg1UU5n?oc=5",
-      "title": "US judge approves Anthropic's $1.5 billion settlement of copyright lawsuit",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMUt2NUxKTldZbVNLZjdreUc0LTM2ektQWEZTMEtuUktaY3ptNDh3MmFUUmljQlp3YVNaWWYtMi1wdWJ2STlteXV6cWRwRFZ4SDA4OGxkNnRDTm1HX0kybmtpMmZoZTFMNHAwUWhvZmgwQ0MtMHFyTlRVQ2NKV1lfRUh1NjFFZnRicFlwaVZSOG9uRmNtR01aanhMMHJNXzhFQURLYjUxOUFPaktfSHRvcmxHQQ?oc=5",
+      "title": "In landmark Anthropic settlement, judge rejects ‘windfall’ for lawyers",
       "summary": "",
-      "publishedAt": "2026-07-20T20:49:00.000Z",
+      "publishedAt": "2026-07-21T21:12:54.000Z",
       "publisher": "Reuters",
       "discoveryMethod": "feed",
       "classification": {
@@ -601,35 +601,16 @@
       }
     },
     {
-      "id": "a0c3b73085b28d926519898da59ace051bcb04dc",
-      "company": "Google",
-      "sourceKind": "external",
-      "sourceId": "external-google-major",
-      "sourceLabel": "Major External News - Google",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMzgwNWh2OHBDZVZ4bjNjekJrdk1HeTlMX3lDYjh3bGtqbzRmbndnZWJQbDVtNmxzVGdxMDBfSHlpbzNMbWFUM3hQZ1VGenIxc0M0eFlaMmdYWmw2NTRUNkpZZEZYTV9RR3d1OXNSQXd4VExoVGRZNlFKd2RuSms0OWxrRVFTdWM?oc=5",
-      "title": "Google launches a cheaper alternative to large AI security models like Mythos",
-      "summary": "",
-      "publishedAt": "2026-07-21T15:00:00.000Z",
-      "publisher": "The Verge",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "19758c0d9e8a4f4fdfb2a0ab306d5987fb533eff",
-      "company": "Microsoft",
+      "id": "bd6ce42035f550014aca0a9800b9545ebfc3f46b",
+      "company": "OpenAI",
       "sourceKind": "official",
-      "sourceId": "microsoft-ai",
-      "sourceLabel": "Microsoft AI",
-      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
-      "url": "https://news.microsoft.com/source/2026/07/21/microsoft-and-mistral-expand-strategic-partnership-to-give-enterprises-and-regulated-industries-frontier-ai-they-can-control",
-      "title": "Microsoft and Mistral expand strategic partnership to give enterprises and regulated industries frontier AI they can control",
-      "summary": "Microsoft and Mistral expand strategic partnership to give enterprises and regulated industries frontier AI they can control",
-      "publishedAt": "2026-07-21T12:30:12.000Z",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+      "title": "Building AI infrastructure with the Effingham County community",
+      "summary": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
+      "publishedAt": "2026-07-22T13:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -639,17 +620,36 @@
       }
     },
     {
-      "id": "577cd0a33d1fcf45d5d8d5110336044cad41a5af",
-      "company": "Anthropic",
+      "id": "20b0eb2d5c1499740c7eb0c94f0e2e59fcb04e9d",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+      "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
+      "summary": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.",
+      "publishedAt": "2026-07-21T07:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "d349a5a85dc2b60a45994e0dae56544a9d15a615",
+      "company": "OpenAI",
       "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQT2lsdklnQ0FFeTNvX1cwZG1nOFY2bzdHc3pyRHFxUERiaW1DSFhqWnNhbjV2NlRmMFdWVm5TWElVbjVOd1k4TEl1bWlwWEtXT0dWLWI0bEpfMDl5cGs1RENhUk45bjVobjBTYk1acGNTVTRyY2pueGVSb3Fnc3pMejBqeXowTmlGYlo1eWpub1loeUcycXp0THpycFhIZS04?oc=5",
-      "title": "Anthropic says an AI security startup's logo looks too much like its own",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcEpVMVY2UTM4eTZPVHJFSnRkOGkySWZiLXYtZ3E1SGp1NGZzSHl3TDNBSWE1RDgwTW43WHhhRlNMR0lSRUt4ck5TTGkyUlZRUmp4d0JGYnNQNHZsRlJWSmtaM1FVaFd6UW1sQVk3SHp4T0lWLU91TDUyVDlNVklFWXNkUXpvZDRkVkRaSG1VOFQzODliandWTENXcW9BQnBJbU5IdGdFWlJYMVc0aDYzdkJRVHZIV2lPWnY4blRRVQ?oc=5",
+      "title": "SandboxAQ CEO weighs in on security incidents involving OpenAI and Hugging Face",
       "summary": "",
-      "publishedAt": "2026-07-21T09:41:04.000Z",
-      "publisher": "Yahoo Finance",
+      "publishedAt": "2026-07-22T14:59:24.000Z",
+      "publisher": "CNBC",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -658,16 +658,35 @@
       }
     },
     {
-      "id": "7e072b866df308e20614706976d891670436e4e1",
-      "company": "Google",
+      "id": "0b753a3d19c14b1809f32c58a9554e5245ad4697",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONC1oRi0tdTM4RXJGRVpPRWJBcnZKdWwwZl9mVlpMMUZIZlR3LUM0YktZT1NhdXRILVpBNkxrdXBlRGZucUc0d1pqWWd3LXhqYXZ6OUZmZzJHSE1iUENYT1l3aXdEV25pWUdRbjlyUms0MjZzaGlOXzAzdmJUWXhpZDdXYmhBR1p4SU1YTA?oc=5",
+      "title": "Anthropic doubles funding for AI policy fight ahead of elections",
+      "summary": "",
+      "publishedAt": "2026-07-22T09:02:54.000Z",
+      "publisher": "Axios",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "c54f46e53d48e3042d6e57aa12e7bc3272d032eb",
+      "company": "OpenAI",
       "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber",
-      "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
-      "summary": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
-      "publishedAt": "2026-07-21T15:00:00.000Z",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/introducing-openai-presence",
+      "title": "Introducing OpenAI Presence",
+      "summary": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
+      "publishedAt": "2026-07-22T05:30:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -677,73 +696,35 @@
       }
     },
     {
-      "id": "9b4ebf94a4e6f0b290915b91726b508cc41805e1",
-      "company": "Google",
-      "sourceKind": "external",
-      "sourceId": "external-google-major",
-      "sourceLabel": "Major External News - Google",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTVZYSlROMmVRejhMMW5SVGRueW4zZTdnOEs2bmp4VFM3akVucjJOQmFZN2J0RGZ4VFNZc0lITENHS2xpM1M1NWhzT2xtbldDN0tyT1l0RVdWQ1E1TXZWY0tETnAwQUhaVE92d0F0alBhWFcyRWVzaEpXbHFDT05BOUNJcWV6d3RSLWUyTzE4VTVNQzA1VkJPQ1NzeGx3YlV3bnFZMzNQTHE3Zw?oc=5",
-      "title": "Google bets on custom AI chip to boost Gemini efficiency: Report",
-      "summary": "",
-      "publishedAt": "2026-07-21T02:30:07.000Z",
-      "publisher": "CNBC",
+      "id": "d42362617c6408798d23184364284f73d4984cb3",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
+      "title": "Introducing the ChatGPT for small business program",
+      "summary": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
+      "publishedAt": "2026-07-21T17:00:00.000Z",
+      "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Flagship model or product launch"
       }
     },
     {
-      "id": "8aba68ad5e602f829b524229b1d8104e72d37693",
-      "company": "Meta",
+      "id": "8f72d08e2ed87acf76409a90c494332bff1fd326",
+      "company": "OpenAI",
       "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTjJLc1RTODdNaC1abDVYb290b29zVWhYVkZJUDU3MnQ0WHVJTURMdjVRb0Y0YUFycW1ZOGRpdlVKb21LbW85SjZFNzYxakZQQVpIT2FWaEw4dFowOFg3WFJIWkx2QVhSNlA4UjQ3UmFIb1FuYjVKd1BGMkstN3hwdnJmQjRISUJJdkd5MWpXN1NqUWZWSmdTN0JSU3p0WEU?oc=5",
-      "title": "BlackRock Sells $12 Billion in Bonds to Fund Meta's Texas AI Data Center",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPM2VZdmVwU1lkTWdlcGJUZkRoRDFzVUwwYlE3c0Q2bUhsRThPLVotSmxINXdnNlFzNWREekR4VDdYZzNHZC1fZ2VvNzNyaFVPM2FnajRCZ1duazVTc21vWHRwZDhCOUxYRG1USV9nSUJXRmJyaGN5U2V4Q2xnZW5wS3dLbWhrRUpUZTlYZmNFN05NRXlGdlBfV1JXMFNhbWo3eGNUeG5GaDZNaUhpQy1NN2lIcXFxa2VRYmxYTkhndw?oc=5",
+      "title": "OpenAI's Hugging Face Breach Shows AI Is Getting Too Hard to Contain",
       "summary": "",
-      "publishedAt": "2026-07-20T23:22:56.000Z",
-      "publisher": "Startup Fortune",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "3b7944249ba9d73422be6343c330995bc81a46e5",
-      "company": "Google",
-      "sourceKind": "external",
-      "sourceId": "external-google-major",
-      "sourceLabel": "Major External News - Google",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQLXNRVWtTNGtSaWFOT1JfMDRCenMyZXRybTQ3cVlRbUotRVRtM2NON3hWa1dlaFJGWklVeXBDaTdXc21wU0FfZTAtZEVuRFdENHJuSFhKd1FnTXh1V3BNV0w3NWZtWkNYREpBaXc0ZnZGMU9LdWc5ZjUzT3VhNWloR1VDQjJUdzZqejNvLXdZMDh1SFpWZ1BBTEpxNTl6Z29kdlNVMkRWMExUTk1a?oc=5",
-      "title": "Google is working on a new AI chip designed to make Gemini more efficient",
-      "summary": "",
-      "publishedAt": "2026-07-20T21:21:15.000Z",
-      "publisher": "TechCrunch",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "3a566df0bda6890cd724f2f7f602b715bc6ce25d",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYUxhX0FBQ1gzZEswOVRsVElmX0d1QjNuNjlPSkJFZVFBQU5ScW9RM20tOWtVNjdWcFFNNTY4c2R5WUo3T2RBbHJvbXpBZnpLOHhVRXRRZkEtWkU5S1FSQTZERmpNNXpjNUh0Y016ZkYzQ2tVNFB5OUtsb3FtTXpJa1EtQjhoRndlcFIzU0dKeHNTQ1NJdjVIZHkwQmJJZmw3MmliTXh2UXRoaFcycGVpWThnMkQ?oc=5",
-      "title": "BlackRock’s Meta Deal to Show the Power of $25 Billion M&A Spree",
-      "summary": "",
-      "publishedAt": "2026-07-20T21:20:46.000Z",
+      "publishedAt": "2026-07-22T15:13:19.000Z",
       "publisher": "Bloomberg.com",
       "discoveryMethod": "feed",
       "classification": {
@@ -753,16 +734,35 @@
       }
     },
     {
-      "id": "59b1ace91aa4baf308a54fb3946e0d0534178192",
-      "company": "Microsoft",
+      "id": "0ec034390b3edf9e325c7ceeed663954930c5c08",
+      "company": "OpenAI",
       "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOGJOOU12UUdJS015NEVOaThXWXhIWG9ZbWEzNGZodGtZTmtmN3VySzZPcVBmSXd4TTl4T3hOaTQ2QnBiVllRQXphV05CaEJyWjRHb1YyVS1hNE9TNzRYejdtazZZS1VQZXV5OTd1TnJsaDBKdi1fZTF6UGRvZVZ4RTUwYUVGcTJDTmo1NG9DdVF4dVIxZF9oQ0pKM0hVaXZDSV9zUV8wN0V3bWhUd0x4dHpR?oc=5",
-      "title": "AMD stock rises on price target bumps, Microsoft deal",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaktDanZtblh3b2JiNHVzNkM3WjZGa2hGSmd5MFNqVnRYV0tfbDJMLTdNZGhEU1kyTkVOM3VZVkNqSkd6N0lOb2dCZ0Z3Y3ptMjNRdDNWSnludlcyT1ZxbVlHakxJQ1kyVW54OEFQZXpjNVdNeXFLTnExS05SMHBrS1NHMWhGTTUzUjJBM285d2hTYzJGZlpvUUdZUVNKWDNWQlFHVWo2UjFtR21DS1A3ejltYVptM05Ec1Vrd2hzTTlvVGRYa0JBWA?oc=5",
+      "title": "Walter Isaacson on OpenAI's cyber breach: This is the first thing that 'totally scares me'",
       "summary": "",
-      "publishedAt": "2026-07-20T17:01:06.000Z",
+      "publishedAt": "2026-07-22T13:19:37.000Z",
+      "publisher": "CNBC",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "b22cb61dca7d247ab4e712c235fd57868c5b4a3d",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaDYyYzhOOXpmTW9VRnNaenBNY1YxZmZLbEdZR2QyQktyRm5ERVMyYzVUcWVfdGtXVk5sSU5ic3RHTmhZMGJuMEQwVGhvaTVnaEhKRkUtNEYybk1BNjNDUy1nQk1uUVhjUUFrWnNYS1RnWThnUm5GUC1xTkJGVExHVGtTYWVETlNTbGlxR1hGcHpNVmlZeVlv?oc=5",
+      "title": "OpenAI adds Nubank and BNY CEOs to board ahead of IPO",
+      "summary": "",
+      "publishedAt": "2026-07-22T12:38:41.000Z",
       "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
@@ -772,41 +772,60 @@
       }
     },
     {
-      "id": "d4ff9ec891b78868c06ad312d627b3bdc105c92f",
+      "id": "f946423bebbe3468779aa07b0b6db756205ca209",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSHhPdV9LUXlBaDlRWkxIay1RMkxOaDRpYllraUFyaXhHMHpXeUM3T1oxZTlGRWJUZmF3M2ptQm9uLWpfVmdtM29vSkhrX3diMEtKdE11ckNRM2x2NXdGS014Q0htT1VNU2hnZ25BXzB1ZldGeTFvd2RXajljUlU0RmJURnoyT284bWlKS3JXZTNZcEstYkNjcUNxd2Q1UG43RHFrd29VUTZTWmRNUEg2ZWpfTXhLY3hyczBuTA?oc=5",
+      "title": "OpenAI says AI models went rogue during testing, triggering ‘unprecedented’ breach at startup",
+      "summary": "",
+      "publishedAt": "2026-07-22T12:37:00.000Z",
+      "publisher": "NBC News",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "5fa1adb3a3f8f4106d3b9b686fd8bb754de8683a",
+      "company": "Google",
+      "sourceKind": "external",
+      "sourceId": "external-google-major",
+      "sourceLabel": "Major External News - Google",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOU0JXRFBrZXl0eVFVMUpQUG4tdlJZS1BZVk9EZlVTUEJEQUJMV3E3UEVRcTNvU0JGc0FpVUFfa01SLVZDMUcwMnA3ak5aNk9DOTB5Q2JnVGhXY0VKd3JYTG9zS1hWQTVpM3AySUNJTHZHcV9XWm1EY2pCeUlhakdSWjNvSElTOG5uaWh2MXNfdkZZWTJpdktr?oc=5",
+      "title": "Google Is Building an AI Chip Just for Gemini—And Investors Already Moved On It",
+      "summary": "",
+      "publishedAt": "2026-07-21T17:24:37.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "40359dbf5a246645eb9b9137e83bde4afe2e0908",
       "company": "OpenAI",
       "sourceKind": "official",
       "sourceId": "openai-newsroom",
       "sourceLabel": "OpenAI Newsroom",
       "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/safety-alignment-long-horizon-models",
-      "title": "Safety and alignment in an era of long-horizon models",
-      "summary": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
-      "publishedAt": "2026-07-20T10:00:00.000Z",
+      "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
+      "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
+      "summary": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC, bringing global leadership in finance, technology, and governance.",
+      "publishedAt": "2026-07-21T00:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
         "score": 4,
         "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "f23573f8baf695c61e749937e5c54e00be68c8d1",
-      "company": "Anthropic",
-      "sourceKind": "official",
-      "sourceId": "anthropic-news",
-      "sourceLabel": "Anthropic News",
-      "homepageUrl": "https://www.anthropic.com/news",
-      "url": "https://www.anthropic.com/news/rare-disease-research-grants",
-      "title": "Apply for Anthropic’s AI for Science rare disease research grants",
-      "summary": "",
-      "publishedAt": "2026-07-20T00:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "anchor",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Technical or research update"
       }
     }
   ],

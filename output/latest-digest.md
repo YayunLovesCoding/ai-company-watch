@@ -1,115 +1,123 @@
 # AI Company Watch
 
-Generated: Jul 21, 2026, 8:45 AM PDT
+Generated: Jul 22, 2026, 8:44 AM PDT
 Lookback window: 7 day(s)
 Sources checked: 12
-Items fetched: 41
+Items fetched: 43
 Items kept: 24
-New items: 14
-External items kept: 16
-Official items kept: 8
+New items: 15
+External items kept: 15
+Official items kept: 9
 
 ## Critical External News
 
-### Anthropic - Judge approves a $1.5B Anthropic settlement over pirated books used to train the Claude chatbot
+### Anthropic - AMD to invest up to $5 billion in Anthropic as part of computing power deal
 Source: Major External News - Anthropic
-Publisher: AP News
-Published: Jul 21, 2026
+Publisher: CNBC
+Published: Jul 22, 2026
 Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxPYTZ6VGQyajZtTWlFeVhiZkpmTnFLSG5jbU1Gb2llZndJZjByTC01SjVLS1R0Z1FTSTRmeDM4VUJ0X1VIby10bVBNU2QtRHpoZFE5MFlPMG43aURMUjNvMEN4WkZsUXBZdFRlci12MTlqbkRJX0VtcW9paUFuc3N1YTR5bXlIUldYcE9QWmR2TkFyTkV3aFFUQXZXMUxJYUptQmwxdEpmU2NtdDBELWsxTnhR?oc=5
+Link: https://news.google.com/rss/articles/CBMieEFVX3lxTE05M3pjdUNHbi1CdmZNVFdBOXN6RzRGQkMyUVZCbnRZenNtbngtNmtjZ0M0YkdfaFRxSHczZ29zTVFDWFNyRFRwbEFrbWo4TndnR052X1NIYmV2ZnFlSGJ0ajd4UFhLbmtOVG9RNm52ZEx4bGFjR3h1ZdIBfkFVX3lxTE5lWXU0dTlGdENpVEVRa1RoNnlLeFZpTXZkVHJVbnByT2U4c3k1S2t5a2l2RHI1OXZ4VHRlaU53OFJJYlNzeWFmaGRrMTdIMWkwME9xZTBub2hRSWZJV1VzeGhxOWRKVjRwZDV5cTN0bGhOQWpPcmJ5SEdxSnR2UQ?oc=5
 
-### Anthropic - A federal judge just approved Anthropic's $1.5 billion settlement with authors
-Source: Major External News - Anthropic
-Publisher: Startup Fortune
-Published: Jul 20, 2026
-Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMipgFBVV95cUxNc0NINGJraWVmY0lOQmktMVN1Sl8zS2xabWRnU0RYOHBISERvQ0NMQ3kxZUJhbGd4OElqQk1uRzZ1V0hNYmR1b25MZ296OE1xb1NqM3dHOGlibGdFY3lZZkM3QTYxbU5DTkc2NFJjRUh3R2NzVTJPdWE2SE41dnBjZXhVRUR0YnBkbmVqaFh1NjV6cjFRTjFJby1UQ2tiMC1uVERDd0lR?oc=5
-
-### Anthropic - US judge approves Anthropic's $1.5 billion settlement of copyright lawsuit
-Source: Major External News - Anthropic
-Publisher: Reuters
-Published: Jul 20, 2026
-Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMirwFBVV95cUxOa1Ztc1Z3QjhWekJJTmEySVd4OUFoNkxzQWdkeWRqY0lSNkEwT1FEam1MR21fNE1LSlpFcjZvZnJIZmZwS1Rsa3RJM01uWkFLOTNWUzQycGVlcUhYaWcxNENFT1A4Nks2YUQxLXdOaWxpenBCNVVUdFFrYm5NRGdXLWNWeno2OVNkc1VWTDNDWGFnbFhRbUNON1V3Z1ljNGR3d19DUmlMNFJIWXg1UU5n?oc=5
-
-### Google - Google launches a cheaper alternative to large AI security models like Mythos
-Source: Major External News - Google
-Publisher: The Verge
-Published: Jul 21, 2026
-Why it matters: Flagship model or product launch
-Link: https://news.google.com/rss/articles/CBMihwFBVV95cUxNMzgwNWh2OHBDZVZ4bjNjekJrdk1HeTlMX3lDYjh3bGtqbzRmbndnZWJQbDVtNmxzVGdxMDBfSHlpbzNMbWFUM3hQZ1VGenIxc0M0eFlaMmdYWmw2NTRUNkpZZEZYTV9RR3d1OXNSQXd4VExoVGRZNlFKd2RuSms0OWxrRVFTdWM?oc=5
-
-### Anthropic - Anthropic says an AI security startup's logo looks too much like its own
+### Anthropic - AMD and Anthropic Sign Major Chips-and-Investment Deal
 Source: Major External News - Anthropic
 Publisher: Yahoo Finance
+Published: Jul 22, 2026
+Why it matters: Corporate move or major external event
+Link: https://news.google.com/rss/articles/CBMimgFBVV95cUxPRGNvWEgyT3pqcUUxdEpNZ2RWck5ENTBadzVtZVJET1dHcVJUSmtJSWJBLVd6ZTE3YlVyZ2FlUDh6c1dnOWZ4SnRUWDNOOEdFY1IwdTUxMHZwaUFVXzhCS3AxNTNFdGVZOHNpQ0Y0X1N3Q1FTNHdtYWNHUEl0MFlod3kta1I5OEVod0xZX1VWbWhUSkVUbzg3bERB?oc=5
+
+### Anthropic - In landmark Anthropic settlement, judge rejects ‘windfall’ for lawyers
+Source: Major External News - Anthropic
+Publisher: Reuters
 Published: Jul 21, 2026
+Why it matters: Corporate move or major external event
+Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxPMUt2NUxKTldZbVNLZjdreUc0LTM2ektQWEZTMEtuUktaY3ptNDh3MmFUUmljQlp3YVNaWWYtMi1wdWJ2STlteXV6cWRwRFZ4SDA4OGxkNnRDTm1HX0kybmtpMmZoZTFMNHAwUWhvZmgwQ0MtMHFyTlRVQ2NKV1lfRUh1NjFFZnRicFlwaVZSOG9uRmNtR01aanhMMHJNXzhFQURLYjUxOUFPaktfSHRvcmxHQQ?oc=5
+
+### OpenAI - SandboxAQ CEO weighs in on security incidents involving OpenAI and Hugging Face
+Source: Major External News - OpenAI
+Publisher: CNBC
+Published: Jul 22, 2026
 Why it matters: Safety, security, or policy update
-Link: https://news.google.com/rss/articles/CBMioAFBVV95cUxQT2lsdklnQ0FFeTNvX1cwZG1nOFY2bzdHc3pyRHFxUERiaW1DSFhqWnNhbjV2NlRmMFdWVm5TWElVbjVOd1k4TEl1bWlwWEtXT0dWLWI0bEpfMDl5cGs1RENhUk45bjVobjBTYk1acGNTVTRyY2pueGVSb3Fnc3pMejBqeXowTmlGYlo1eWpub1loeUcycXp0THpycFhIZS04?oc=5
+Link: https://news.google.com/rss/articles/CBMivwFBVV95cUxOcEpVMVY2UTM4eTZPVHJFSnRkOGkySWZiLXYtZ3E1SGp1NGZzSHl3TDNBSWE1RDgwTW43WHhhRlNMR0lSRUt4ck5TTGkyUlZRUmp4d0JGYnNQNHZsRlJWSmtaM1FVaFd6UW1sQVk3SHp4T0lWLU91TDUyVDlNVklFWXNkUXpvZDRkVkRaSG1VOFQzODliandWTENXcW9BQnBJbU5IdGdFWlJYMVc0aDYzdkJRVHZIV2lPWnY4blRRVQ?oc=5
+
+### Anthropic - Anthropic doubles funding for AI policy fight ahead of elections
+Source: Major External News - Anthropic
+Publisher: Axios
+Published: Jul 22, 2026
+Why it matters: Safety, security, or policy update
+Link: https://news.google.com/rss/articles/CBMijAFBVV95cUxONC1oRi0tdTM4RXJGRVpPRWJBcnZKdWwwZl9mVlpMMUZIZlR3LUM0YktZT1NhdXRILVpBNkxrdXBlRGZucUc0d1pqWWd3LXhqYXZ6OUZmZzJHSE1iUENYT1l3aXdEV25pWUdRbjlyUms0MjZzaGlOXzAzdmJUWXhpZDdXYmhBR1p4SU1YTA?oc=5
 
 ## Important External News
 
-### Google - Google bets on custom AI chip to boost Gemini efficiency: Report
-Source: Major External News - Google
-Publisher: CNBC
-Published: Jul 20, 2026
-Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTVZYSlROMmVRejhMMW5SVGRueW4zZTdnOEs2bmp4VFM3akVucjJOQmFZN2J0RGZ4VFNZc0lITENHS2xpM1M1NWhzT2xtbldDN0tyT1l0RVdWQ1E1TXZWY0tETnAwQUhaVE92d0F0alBhWFcyRWVzaEpXbHFDT05BOUNJcWV6d3RSLWUyTzE4VTVNQzA1VkJPQ1NzeGx3YlV3bnFZMzNQTHE3Zw?oc=5
-
-### Meta - BlackRock Sells $12 Billion in Bonds to Fund Meta's Texas AI Data Center
-Source: Major External News - Meta
-Publisher: Startup Fortune
-Published: Jul 20, 2026
-Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMinwFBVV95cUxQTjJLc1RTODdNaC1abDVYb290b29zVWhYVkZJUDU3MnQ0WHVJTURMdjVRb0Y0YUFycW1ZOGRpdlVKb21LbW85SjZFNzYxakZQQVpIT2FWaEw4dFowOFg3WFJIWkx2QVhSNlA4UjQ3UmFIb1FuYjVKd1BGMkstN3hwdnJmQjRISUJJdkd5MWpXN1NqUWZWSmdTN0JSU3p0WEU?oc=5
-
-### Google - Google is working on a new AI chip designed to make Gemini more efficient
-Source: Major External News - Google
-Publisher: TechCrunch
-Published: Jul 20, 2026
-Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMirAFBVV95cUxQLXNRVWtTNGtSaWFOT1JfMDRCenMyZXRybTQ3cVlRbUotRVRtM2NON3hWa1dlaFJGWklVeXBDaTdXc21wU0FfZTAtZEVuRFdENHJuSFhKd1FnTXh1V3BNV0w3NWZtWkNYREpBaXc0ZnZGMU9LdWc5ZjUzT3VhNWloR1VDQjJUdzZqejNvLXdZMDh1SFpWZ1BBTEpxNTl6Z29kdlNVMkRWMExUTk1a?oc=5
-
-### Meta - BlackRock’s Meta Deal to Show the Power of $25 Billion M&A Spree
-Source: Major External News - Meta
+### OpenAI - OpenAI's Hugging Face Breach Shows AI Is Getting Too Hard to Contain
+Source: Major External News - OpenAI
 Publisher: Bloomberg.com
-Published: Jul 20, 2026
+Published: Jul 22, 2026
 Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxNYUxhX0FBQ1gzZEswOVRsVElmX0d1QjNuNjlPSkJFZVFBQU5ScW9RM20tOWtVNjdWcFFNNTY4c2R5WUo3T2RBbHJvbXpBZnpLOHhVRXRRZkEtWkU5S1FSQTZERmpNNXpjNUh0Y016ZkYzQ2tVNFB5OUtsb3FtTXpJa1EtQjhoRndlcFIzU0dKeHNTQ1NJdjVIZHkwQmJJZmw3MmliTXh2UXRoaFcycGVpWThnMkQ?oc=5
+Link: https://news.google.com/rss/articles/CBMivwFBVV95cUxPM2VZdmVwU1lkTWdlcGJUZkRoRDFzVUwwYlE3c0Q2bUhsRThPLVotSmxINXdnNlFzNWREekR4VDdYZzNHZC1fZ2VvNzNyaFVPM2FnajRCZ1duazVTc21vWHRwZDhCOUxYRG1USV9nSUJXRmJyaGN5U2V4Q2xnZW5wS3dLbWhrRUpUZTlYZmNFN05NRXlGdlBfV1JXMFNhbWo3eGNUeG5GaDZNaUhpQy1NN2lIcXFxa2VRYmxYTkhndw?oc=5
 
-### Microsoft - AMD stock rises on price target bumps, Microsoft deal
-Source: Major External News - Microsoft
-Publisher: Yahoo Finance
-Published: Jul 20, 2026
+### OpenAI - Walter Isaacson on OpenAI's cyber breach: This is the first thing that 'totally scares me'
+Source: Major External News - OpenAI
+Publisher: CNBC
+Published: Jul 22, 2026
 Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxQOGJOOU12UUdJS015NEVOaThXWXhIWG9ZbWEzNGZodGtZTmtmN3VySzZPcVBmSXd4TTl4T3hOaTQ2QnBiVllRQXphV05CaEJyWjRHb1YyVS1hNE9TNzRYejdtazZZS1VQZXV5OTd1TnJsaDBKdi1fZTF6UGRvZVZ4RTUwYUVGcTJDTmo1NG9DdVF4dVIxZF9oQ0pKM0hVaXZDSV9zUV8wN0V3bWhUd0x4dHpR?oc=5
+Link: https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaktDanZtblh3b2JiNHVzNkM3WjZGa2hGSmd5MFNqVnRYV0tfbDJMLTdNZGhEU1kyTkVOM3VZVkNqSkd6N0lOb2dCZ0Z3Y3ptMjNRdDNWSnludlcyT1ZxbVlHakxJQ1kyVW54OEFQZXpjNVdNeXFLTnExS05SMHBrS1NHMWhGTTUzUjJBM285d2hTYzJGZlpvUUdZUVNKWDNWQlFHVWo2UjFtR21DS1A3ejltYVptM05Ec1Vrd2hzTTlvVGRYa0JBWA?oc=5
+
+### OpenAI - OpenAI adds Nubank and BNY CEOs to board ahead of IPO
+Source: Major External News - OpenAI
+Publisher: Yahoo Finance
+Published: Jul 22, 2026
+Why it matters: Trusted external coverage
+Link: https://news.google.com/rss/articles/CBMilwFBVV95cUxPaDYyYzhOOXpmTW9VRnNaenBNY1YxZmZLbEdZR2QyQktyRm5ERVMyYzVUcWVfdGtXVk5sSU5ic3RHTmhZMGJuMEQwVGhvaTVnaEhKRkUtNEYybk1BNjNDUy1nQk1uUVhjUUFrWnNYS1RnWThnUm5GUC1xTkJGVExHVGtTYWVETlNTbGlxR1hGcHpNVmlZeVlv?oc=5
+
+### Microsoft - OpenAI says AI models went rogue during testing, triggering ‘unprecedented’ breach at startup
+Source: Major External News - Microsoft
+Publisher: NBC News
+Published: Jul 22, 2026
+Why it matters: Trusted external coverage
+Link: https://news.google.com/rss/articles/CBMivAFBVV95cUxQSHhPdV9LUXlBaDlRWkxIay1RMkxOaDRpYllraUFyaXhHMHpXeUM3T1oxZTlGRWJUZmF3M2ptQm9uLWpfVmdtM29vSkhrX3diMEtKdE11ckNRM2x2NXdGS014Q0htT1VNU2hnZ25BXzB1ZldGeTFvd2RXajljUlU0RmJURnoyT284bWlKS3JXZTNZcEstYkNjcUNxd2Q1UG43RHFrd29VUTZTWmRNUEg2ZWpfTXhLY3hyczBuTA?oc=5
+
+### Google - Google Is Building an AI Chip Just for Gemini—And Investors Already Moved On It
+Source: Major External News - Google
+Publisher: Yahoo Finance
+Published: Jul 21, 2026
+Why it matters: Trusted external coverage
+Link: https://news.google.com/rss/articles/CBMilwFBVV95cUxOU0JXRFBrZXl0eVFVMUpQUG4tdlJZS1BZVk9EZlVTUEJEQUJMV3E3UEVRcTNvU0JGc0FpVUFfa01SLVZDMUcwMnA3ak5aNk9DOTB5Q2JnVGhXY0VKd3JYTG9zS1hWQTVpM3AySUNJTHZHcV9XWm1EY2pCeUlhakdSWjNvSElTOG5uaWh2MXNfdkZZWTJpdktr?oc=5
 
 ## Critical Official Updates
 
-### Microsoft - Microsoft and Mistral expand strategic partnership to give enterprises and regulated industries frontier AI they can control
-Source: Microsoft AI
+### OpenAI - Building AI infrastructure with the Effingham County community
+Source: OpenAI Newsroom
+Published: Jul 22, 2026
+Why it matters: Corporate move or major external event
+Summary: OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.
+Link: https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community
+
+### OpenAI - OpenAI and Hugging Face partner to address security incident during model evaluation
+Source: OpenAI Newsroom
 Published: Jul 21, 2026
 Why it matters: Corporate move or major external event
-Summary: Microsoft and Mistral expand strategic partnership to give enterprises and regulated industries frontier AI they can control
-Link: https://news.microsoft.com/source/2026/07/21/microsoft-and-mistral-expand-strategic-partnership-to-give-enterprises-and-regulated-industries-frontier-ai-they-can-control
+Summary: OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.
+Link: https://openai.com/index/hugging-face-model-evaluation-security-incident
 
-### Google - Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber
-Source: Google AI
+### OpenAI - Introducing OpenAI Presence
+Source: OpenAI Newsroom
 Published: Jul 21, 2026
 Why it matters: Flagship model or product launch
-Summary: We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.
-Link: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber
+Summary: Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.
+Link: https://openai.com/index/introducing-openai-presence
+
+### OpenAI - Introducing the ChatGPT for small business program
+Source: OpenAI Newsroom
+Published: Jul 21, 2026
+Why it matters: Flagship model or product launch
+Summary: OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.
+Link: https://openai.com/index/introducing-chatgpt-small-business-program
 
 ## Important Official Updates
 
-### OpenAI - Safety and alignment in an era of long-horizon models
+### OpenAI - David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC
 Source: OpenAI Newsroom
 Published: Jul 20, 2026
 Why it matters: Safety, security, or policy update
-Summary: OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.
-Link: https://openai.com/index/safety-alignment-long-horizon-models
-
-### Anthropic - Apply for Anthropic’s AI for Science rare disease research grants
-Source: Anthropic News
-Published: Jul 19, 2026
-Why it matters: Technical or research update
-Link: https://www.anthropic.com/news/rare-disease-research-grants
+Summary: David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC, bringing global leadership in finance, technology, and governance.
+Link: https://openai.com/index/david-velez-robin-vince-join-openai-boards
