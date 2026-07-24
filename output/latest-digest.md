@@ -1,79 +1,74 @@
 # AI Company Watch
 
-Generated: Jul 23, 2026, 8:56 AM PDT
+Generated: Jul 24, 2026, 8:26 AM PDT
 Lookback window: 7 day(s)
 Sources checked: 12
-Items fetched: 48
+Items fetched: 45
 Items kept: 24
-New items: 9
+New items: 8
 External items kept: 16
 Official items kept: 8
 
 ## Critical External News
 
-### Microsoft - F9Analytics and Microsoft, a Partnership to Transform Multifamily Pricing Operations
+### OpenAI - Indian court says OpenAI did not violate news agency ANI's copyright
+Source: Major External News - OpenAI
+Publisher: Reuters
+Published: Jul 24, 2026
+Why it matters: Corporate move or major external event
+Link: https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUEJhdXAtQzZaamdQRFdzXzlSdDRwSGdwanc2SW1CSFpwZDYyOXBia0t2WDdPZzFuTzBzempwMHlISzlBWS1LbXZLNHM3cTZub2M2T0toTGZaNFB3NW5SLUxyVzl5bHJrNmFzNWxhQlkzLUJNMzZnTElfLXJZZUtNbHZWQlg5Z255MjYxM29NRWNDUFFnU2hPc19wbUZsMzdEN3FwMGtXQlRhc1N1MUJlczBEWU1TUEFYSWQ2RGRyelNhUTFFQ3VLdQ?oc=5
+
+### OpenAI - House Lawmakers Unveil AI "Kill Switch" Bill After OpenAI Security Scare
+Source: Major External News - OpenAI
+Publisher: Yahoo
+Published: Jul 23, 2026
+Why it matters: Flagship model or product launch
+Link: https://news.google.com/rss/articles/CBMilAFBVV95cUxPUTVQbG1nNFk3QUFDeWxuNms5R0hkWFhCWlFyY2xKLVJZRkV6RE5VN1U4eGNkYkRNVHVHamN5SGdtcW5zYmRyZ3hJUjc0di1acWpGRndrOGxZUnFXeGZHWWFGalNaU3hDLThqVC1wZXJ0MVJodFVkUS1uS0s4R2h0aUE1MU1EclN6cUw1NGNEdXMxTVYt?oc=5
+
+### Microsoft - AMD’s Lisa Su defends open-source AI following Hugging Face security breach caused by OpenAI agents
 Source: Major External News - Microsoft
-Publisher: Yahoo Finance UK
-Published: Jul 23, 2026
-Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMipwFBVV95cUxPcGZwQlowMGVOSlpGZXBjcnJteEh6emZrMTNKbzRIRTlud1YtaURWOS1fWFJlUGVwZEw0LVA4NVBEMU5MN2FpWGdmVUlZQlptNEJ2VWhiLXoyYmxhQy1jdzROb3BWNEZKRjdMQks5RGtJUXdVSURjYVNQMmZwV1I2SDQxWWE2ajRtTEZMcU9rTEFRWUZLYVRYNXp5aEpZOXlIODhqQVhaSQ?oc=5
-
-### OpenAI - OpenAI Sued Over ChatGPT’s ‘Dangerous’ Health Advice
-Source: Major External News - OpenAI
-Publisher: The New York Times
-Published: Jul 23, 2026
-Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMif0FVX3lxTE0zMTNLNEhjOXNnb0pGWUd5UExBZWljenA4c1ZZRHZTNkpFZjV3WDdCWGo5TWRzZURVRG5VN1VycVBHQnNVWHRNNURRYlZJd0pUNHRsSHVXRmxEbXBITENpYTVsQTVsS2VyX0lpOUFFbkEyYUdVa2ZJSDVIMkxpdHM?oc=5
-
-### Anthropic - AMD (AMD) Lands $5 Billion Anthropic Partnership For AI Chips
-Source: Major External News - Anthropic
 Publisher: Yahoo Finance
-Published: Jul 22, 2026
-Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMikAFBVV95cUxPSU1XMWczZ3QwR3AwRG4yU3Qtek5OZ1g3bFBLSks4MzNFSG0zRGhDcTZpdjJ4UnpsTVF5S2F4MUJNRkJKZFpHbjEwUUI1Mms5UDg1TDFFQVlRRy1lUWtFTFhGSzR0OTZjUXRQMklpM3NYVnlYRUN4MTVVdnRTdkZVVmgydm9NZXBkcEwxOUNMdHY?oc=5
-
-### Anthropic - Anthropic partnership is driving uptick in Google could revenue, says DA Davidson's Gil Luria
-Source: Major External News - Anthropic
-Publisher: CNBC
-Published: Jul 22, 2026
-Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMizwFBVV95cUxQUEI0dnZQb0NHejdFWUlkM2Q0RGxOcTZCaTFlQWFpN205bGRmRzBVYVc0cGRoWDJIYlpkMHFiN1doMnJYak9TbkhUaFQzaENndXFFU0tSZEFuRjNCWWVaTFZSMHdkVm9PeGg1U3dWUGxMeFBBUmhTUWZZNWJMVl9LSnBXVWJITFlJUTlES2pySVkwNlNaSHRnUnFXcnBvRXI4WGxFejBmMzU0NDA4bUxwVExLdnZHcTBISEp5ZVBkOWl5THhMS1RGZlBuX25KYUU?oc=5
-
-### OpenAI - OpenAI's Hugging Face breach exposes AI's next safety challenge
-Source: Major External News - OpenAI
-Publisher: Axios
 Published: Jul 23, 2026
 Why it matters: Safety, security, or policy update
-Link: https://news.google.com/rss/articles/CBMifEFVX3lxTE5JNHRZUExMR3ZXMFdRRm9NRXhiaE8wZjExeFFPeDc1NGRGU0hhaVItdFhNN0NUbXJZeGFLTnY2NWFSQ1g3clRwWlhBQ3BTanBiUExMRjFRMmpaTW1WTmwyNmVnaHNWUVJRVHdTTnJ4SkVZZC1ka1c4U1dPaFY?oc=5
+Link: https://news.google.com/rss/articles/CBMikgFBVV95cUxPaEE1d2tqaXRJZ2NsQWh4OERGR3czZ3JIUmgzdVNmcnBUdmptM0xnZkNXNUJseThlQzE0UHltVjYyUC04b19iTFhwcWF1QTBZN3RkZkpSbTNreWUybUZJUjFYUV93OUZyNWg1Uy1JSjdmTHludDVFRVh5alVrNm9xNUkybU5BV1hraGNkQlNJY3NjZw?oc=5
+
+### OpenAI - AMD’s Lisa Su defends open-source AI following Hugging Face security breach caused by OpenAI agents
+Source: Major External News - OpenAI
+Publisher: Fortune
+Published: Jul 23, 2026
+Why it matters: Safety, security, or policy update
+Link: https://news.google.com/rss/articles/CBMingFBVV95cUxPSzl2bU9TZUVrc040OEttNi04SVkyTW5FdDVFV2hOcHdWaEZkNkFYc0FlU2JxcThRb1c2LTFZQ08xOVRab3pMTjRIVGs1WHkwbW9pVWZTMjVhTTZBdk5nNjI2NjlHbk5aRGZ4ZUlfdktoQ1QzX2JnRE1xVHNaWkpTdW1RelctNWpLbTBIMk1XRF9RbjBYSy0zS1FLaUx6UQ?oc=5
+
+### Meta - BlackRock Launches $12 Billion+ Meta Data Center Debt Deal
+Source: Major External News - Meta
+Publisher: Yahoo Finance Australia
+Published: Jul 21, 2026
+Why it matters: Flagship model or product launch
+Link: https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVGlfei0xZXRtMDVSTENDeUpRcDlrVklzZVJyc2ZteUMxVmFlNXNpelhVTDN3NEtORks0R0dYSTUyYl95MGU1V1RSVlBXaWc4OEFzZXAzNDUwY2E4OWEyMDVUazB3dG1jMHU4U0c1T3hyZHdpMUFHOVI3S2FHNFk3Rm1hWTB0QjF2cDY0?oc=5
 
 ## Important External News
 
-### OpenAI - OpenAI Models Breach Hugging Face, Sparking Cyber Alarms
-Source: Major External News - OpenAI
-Publisher: Bloomberg.com
-Published: Jul 22, 2026
-Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxOY1BvVmx4bjBfTGJEbVQtREVrb0hxZE5ZWUNaV0luTVNLZVd3OFRGVGJVVUVrY0FrTTd4QXlRdEZrUVhZbjRwLVZTWUl6WmlPZ0JScllpVEROeEU2Z3RoSElYNTBaWjU0eDk2dE9ENE1oaC1zcjJpZnBweFRsYVZvN2RTTzFmZXJIR3YzeTBBNzZDUGdfakhaVHFmQ3UtVE1sb1diaERLekVHdw?oc=5
-
-### Google - Reddit stock sinks on report it may not renew Google AI content deal
-Source: Major External News - Google
-Publisher: CNBC
-Published: Jul 22, 2026
-Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMifEFVX3lxTE91S0VjQ0FBem0xYjVPWVpJdzNYcUVjQ2FWZDE0QXdLdElxUGhJZU1LUmExRW9KSUhOMmgycXhnRFFOaU5xVTFKVERCQTVCR0JoTExXcVNaUzZybnNrYnYwMUNCTmRrTU1RYnRvR0ZjWkF4QlpCVkU3ajV0cnPSAYIBQVVfeXFMTWJxU1hETlI1MGttcXQ1MmJmZ1o3RWI2VDdkYlY2WXRSejJKQzJ1a3IxR3lIVGhyM2ZOSlVYZ2Vyc0VPTUF6RXdEbDRmTURWdnVnS1JrWHhUMDVyX3QxYnVPVmdNWVVXQVFJZngtcnJNdk5vVGxlYmhGWE1JOXJvZHo2dw?oc=5
-
-### Meta - BlackRock raising $12 billion in bonds for Meta Texas data center
+### Meta - BlackRock Kicks Off $12.3 Billion Bond Sale for Meta Data Center
 Source: Major External News - Meta
-Publisher: Yahoo Finance
-Published: Jul 21, 2026
+Publisher: Bloomberg.com
+Published: Jul 24, 2026
 Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMinwFBVV95cUxNRi1KQjN1LU5QN3d1V25nbTdMckpsdGF4MUt1Y0xXdEplanNrMzJoVnBCYmIzUzFFU2NvUXZJczR5ZHFNOGROOEE5Qi1CTmpLYjJuTExnQ25sN0NSX2ZfT0Z1Q0pFdnBpenhiZnc1X01RTmsxengzRDJhcm43N2NVYjFwTFVYWTB3TnU4cUFvMm5vdjQ3THVIamFvWXlNX2c?oc=5
+Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxPN1l6anAwWUtFZ0lkalNzb2VhOEJtc2tKUXp3eTQ1MGdLYmFkN1h1YnVoME53OV9tOFhTT1B6U1AxMmFSTm1HOWJpeEJrYVI0TEhUR2pCeDJWbHRsUmNJQ1JJb0ZqSFRwLVp6ZmpWTC01c1ZCVnFSd0UxeHhSY09TaUxmZjF5Tjlwa1ozS2xSUVNHZl8walg2MVNFSUlMNS13aFFONWVfN1Boa0NsYU16UVhOdks?oc=5
 
 ## Critical Official Updates
 
-### Microsoft - Databricks and Microsoft expand partnership to help enterprises bring business context to enterprise AI
-Source: Microsoft AI
+### OpenAI - Launching Health in ChatGPT
+Source: OpenAI Newsroom
+Published: Jul 22, 2026
+Why it matters: Flagship model or product launch
+Summary: Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.
+Link: https://openai.com/index/health-in-chatgpt
+
+## Important Official Updates
+
+### Google - Understanding the AI economy
+Source: Google AI
 Published: Jul 23, 2026
-Why it matters: Corporate move or major external event
-Summary: Databricks and Microsoft expand partnership to help enterprises bring business context to enterprise AI
-Link: https://news.microsoft.com/source/2026/07/23/databricks-and-microsoft-expand-partnership-to-help-enterprises-bring-business-context-to-enterprise-ai
+Why it matters: Technical or research update
+Summary: We’re releasing the first Activity, Task, Landscape, and Adoption Study (ATLAS) report, showing how people use Google’s AI tools.
+Link: https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy
