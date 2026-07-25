@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T15:26:52.458Z",
+  "generatedAt": "2026-07-25T15:06:28.964Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -76,7 +76,7 @@
     }
   ],
   "totals": {
-    "fetched": 45,
+    "fetched": 48,
     "deduped": 24,
     "new": 8,
     "byKind": {
@@ -85,6 +85,44 @@
     }
   },
   "items": [
+    {
+      "id": "f27ebe972a2e9cc75d2b6a13c55e31d24cf6c2d5",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOc01MVThuVGwzXy1xT1F6ZXZzVUVmOW51VHVnYUNxLXF5enBPOWdfbGx0MThDMHZJTzdBSS14X041RTg4dHpzT3dzSnpzVTVLVVR6MUY5Ympaa01oaFlJSUFCbUJZWExtQnptTTJST1JBOTQ1bFFkQ0g5Z3h1SmlMTjd4aVNNRm5YZXI3SWJ3?oc=5",
+      "title": "Anthropic to pay settlement to Harry Potter publisher",
+      "summary": "",
+      "publishedAt": "2026-07-25T00:26:00.000Z",
+      "publisher": "CNN",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "f52b82373d6bfca5d51e3cdb2ed31f8deaa0521d",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOeEFyVjBHQTlOQWlCWmE3a0lxSC1KVFV3VE5sVGZ3cHdUTC1pMkRubDI1RUNxNldhNmhuWDAydGVoUkg3Rm0tVVFXaDRSYWswdVdFUFF5TWtNVF9nY2p4T1phMFQyV1ZBZlFBbW5FdE8zRDhEb1VQOWlJQnh4NzRJVFJiQTltQQ?oc=5",
+      "title": "The AI ecosystem should be 'intertwined': AMD CEO Lisa Su on Anthropic partnership",
+      "summary": "",
+      "publishedAt": "2026-07-24T17:30:00.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
     {
       "id": "3469da98449e53d0479fdd6e997a4d219c07b24c",
       "company": "OpenAI",
@@ -95,7 +133,7 @@
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUEJhdXAtQzZaamdQRFdzXzlSdDRwSGdwanc2SW1CSFpwZDYyOXBia0t2WDdPZzFuTzBzempwMHlISzlBWS1LbXZLNHM3cTZub2M2T0toTGZaNFB3NW5SLUxyVzl5bHJrNmFzNWxhQlkzLUJNMzZnTElfLXJZZUtNbHZWQlg5Z255MjYxM29NRWNDUFFnU2hPc19wbUZsMzdEN3FwMGtXQlRhc1N1MUJlczBEWU1TUEFYSWQ2RGRyelNhUTFFQ3VLdQ?oc=5",
       "title": "Indian court says OpenAI did not violate news agency ANI's copyright",
       "summary": "",
-      "publishedAt": "2026-07-24T10:24:34.000Z",
+      "publishedAt": "2026-07-24T15:09:39.000Z",
       "publisher": "Reuters",
       "discoveryMethod": "feed",
       "classification": {
@@ -119,84 +157,27 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 7,
+        "score": 6,
         "reason": "Corporate move or major external event"
       }
     },
     {
-      "id": "41f6e22efc2fe7640c3870d0689dff6e76319891",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUEI0dnZQb0NHejdFWUlkM2Q0RGxOcTZCaTFlQWFpN205bGRmRzBVYVc0cGRoWDJIYlpkMHFiN1doMnJYak9TbkhUaFQzaENndXFFU0tSZEFuRjNCWWVaTFZSMHdkVm9PeGg1U3dWUGxMeFBBUmhTUWZZNWJMVl9LSnBXVWJITFlJUTlES2pySVkwNlNaSHRnUnFXcnBvRXI4WGxFejBmMzU0NDA4bUxwVExLdnZHcTBISEp5ZVBkOWl5THhMS1RGZlBuX25KYUU?oc=5",
-      "title": "Anthropic partnership is driving uptick in Google could revenue, says DA Davidson's Gil Luria",
-      "summary": "",
-      "publishedAt": "2026-07-22T19:54:11.000Z",
-      "publisher": "CNBC",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "18a709891b78718f2e7e36f23bf600b5b07deac3",
+      "id": "fd91cba4d19c9dc9675748290a2a71f7fdf2fc81",
       "company": "OpenAI",
       "sourceKind": "external",
       "sourceId": "external-openai-major",
       "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUTVQbG1nNFk3QUFDeWxuNms5R0hkWFhCWlFyY2xKLVJZRkV6RE5VN1U4eGNkYkRNVHVHamN5SGdtcW5zYmRyZ3hJUjc0di1acWpGRndrOGxZUnFXeGZHWWFGalNaU3hDLThqVC1wZXJ0MVJodFVkUS1uS0s4R2h0aUE1MU1EclN6cUw1NGNEdXMxTVYt?oc=5",
-      "title": "House Lawmakers Unveil AI \"Kill Switch\" Bill After OpenAI Security Scare",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRjN1RTBRekZaUlVuVUtzZVlhSzJkVmY0NG8wMHlxU05hcVl3UEdETFVhR09FY09PSHdfZUNCaW9QQ1hwYUwtazBkWVpoeVZtNkY2NkJwd1hodUQ2UFN2MTRDRlpmcFZ6ZkFablktOTJTOVhCSXlzQXNuZTBDNGVxNURyMENuSUFacElGUnRMVXNoVU5RSUQ1YmtjaEdOTzBWTllZV3NiN2tCZkxKUklIbExUb2hKem9lNGh0WnpEaTQyWHBfMDBneGFrRU0?oc=5",
+      "title": "Security News This Week: The OpenAI Models That Hacked Hugging Face Were ‘Active on the Internet’ for Days",
       "summary": "",
-      "publishedAt": "2026-07-23T20:08:34.000Z",
-      "publisher": "Yahoo",
+      "publishedAt": "2026-07-25T10:30:00.000Z",
+      "publisher": "WIRED",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 6,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "41ce82a8f6a6f613e7b4dd1c0f5788a745677e20",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMUt2NUxKTldZbVNLZjdreUc0LTM2ektQWEZTMEtuUktaY3ptNDh3MmFUUmljQlp3YVNaWWYtMi1wdWJ2STlteXV6cWRwRFZ4SDA4OGxkNnRDTm1HX0kybmtpMmZoZTFMNHAwUWhvZmgwQ0MtMHFyTlRVQ2NKV1lfRUh1NjFFZnRicFlwaVZSOG9uRmNtR01aanhMMHJNXzhFQURLYjUxOUFPaktfSHRvcmxHQQ?oc=5",
-      "title": "In landmark Anthropic settlement, judge rejects ‘windfall’ for lawyers",
-      "summary": "",
-      "publishedAt": "2026-07-21T21:12:54.000Z",
-      "publisher": "Reuters",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "e1ea52ee040ac0f17212a81ef72687e4919c6195",
-      "company": "Microsoft",
-      "sourceKind": "official",
-      "sourceId": "microsoft-ai",
-      "sourceLabel": "Microsoft AI",
-      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
-      "url": "https://news.microsoft.com/source/2026/07/23/databricks-and-microsoft-expand-partnership-to-help-enterprises-bring-business-context-to-enterprise-ai",
-      "title": "Databricks and Microsoft expand partnership to help enterprises bring business context to enterprise AI",
-      "summary": "Databricks and Microsoft expand partnership to help enterprises bring business context to enterprise AI",
-      "publishedAt": "2026-07-23T15:00:06.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
+        "score": 5,
+        "reason": "Safety, security, or policy update"
       }
     },
     {
@@ -211,44 +192,6 @@
       "summary": "",
       "publishedAt": "2026-07-23T23:06:59.000Z",
       "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "57b92a5635f1febed2aaa2155871c4e68258e4f1",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSzl2bU9TZUVrc040OEttNi04SVkyTW5FdDVFV2hOcHdWaEZkNkFYc0FlU2JxcThRb1c2LTFZQ08xOVRab3pMTjRIVGs1WHkwbW9pVWZTMjVhTTZBdk5nNjI2NjlHbk5aRGZ4ZUlfdktoQ1QzX2JnRE1xVHNaWkpTdW1RelctNWpLbTBIMk1XRF9RbjBYSy0zS1FLaUx6UQ?oc=5",
-      "title": "AMD’s Lisa Su defends open-source AI following Hugging Face security breach caused by OpenAI agents",
-      "summary": "",
-      "publishedAt": "2026-07-23T23:06:00.000Z",
-      "publisher": "Fortune",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "595f06c58fa1af383c7b271b7e203e47ac07ca63",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5JNHRZUExMR3ZXMFdRRm9NRXhiaE8wZjExeFFPeDc1NGRGU0hhaVItdFhNN0NUbXJZeGFLTnY2NWFSQ1g3clRwWlhBQ3BTanBiUExMRjFRMmpaTW1WTmwyNmVnaHNWUVJRVHdTTnJ4SkVZZC1ka1c4U1dPaFY?oc=5",
-      "title": "OpenAI's Hugging Face breach exposes AI's next safety challenge",
-      "summary": "",
-      "publishedAt": "2026-07-23T22:40:41.000Z",
-      "publisher": "Axios",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -295,22 +238,41 @@
       }
     },
     {
-      "id": "7569338ee0d35289de5fa0da2edc1227182b6ccd",
-      "company": "OpenAI",
+      "id": "e75df1016aa12143321e69cddb3c5f5d5d8ae01d",
+      "company": "Anthropic",
       "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/health-in-chatgpt",
-      "title": "Launching Health in ChatGPT",
-      "summary": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
-      "publishedAt": "2026-07-23T00:00:00.000Z",
+      "sourceId": "anthropic-news",
+      "sourceLabel": "Anthropic News",
+      "homepageUrl": "https://www.anthropic.com/news",
+      "url": "https://www.anthropic.com/news/claude-opus-5",
+      "title": "Introducing Claude Opus 5 Product Opus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements in coding and professional work.",
+      "summary": "",
+      "publishedAt": "2026-07-24T00:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "anchor",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "e1ea52ee040ac0f17212a81ef72687e4919c6195",
+      "company": "Microsoft",
+      "sourceKind": "official",
+      "sourceId": "microsoft-ai",
+      "sourceLabel": "Microsoft AI",
+      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
+      "url": "https://news.microsoft.com/source/2026/07/23/databricks-and-microsoft-expand-partnership-to-help-enterprises-bring-business-context-to-enterprise-ai",
+      "title": "Databricks and Microsoft expand partnership to help enterprises bring business context to enterprise AI",
+      "summary": "Databricks and Microsoft expand partnership to help enterprises bring business context to enterprise AI",
+      "publishedAt": "2026-07-23T15:00:06.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
         "score": 5,
-        "reason": "Flagship model or product launch"
+        "reason": "Corporate move or major external event"
       }
     },
     {
@@ -352,6 +314,44 @@
       }
     },
     {
+      "id": "af5b11d69e29f1effb2215e1c95fe4d18afa65cc",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPN3AwZjBweUo4bXlORWxSYnY3Tnc3aElhdy1VTVcybDhxcmtPTzBuOUNEWVg3b3pfazRoeVY0VnZ2WG5IdWJMQi14ODRkaHJiLVVRNVQwem1nSFNQaTVFQUM5cDRQdzBDemVTZ2J0elJQc0w3Y09PSnhFVU05dEp3MDU2UFVtRFpRYkU3RDZJcEFpS0ZTbFNZVnVZbVhMUEVjMzNJXzVJcFN6NkFRaUJGbHZ0aV9oN1lxcFVGa04xZGZNVm8wN3FVOFREZFFvSm5ZMGRrdHB3?oc=5",
+      "title": "What it’s like to be a founder of the most high-stakes startup ever, OpenAI",
+      "summary": "",
+      "publishedAt": "2026-07-25T09:00:00.000Z",
+      "publisher": "Fortune",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "ce4c354cf68018bb8dbbafeb5c07a84d2d80ae7f",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZTYxeHRtRUtvTWprOTBGbFJrcWYxZVoxakNQdTlUSTBUWC1YRk54QW52dzc2SGxSS1ZWeXVUMUkyb0JQZVFMbGtJNktDSmFkd3RqeV9yMXkxbWtmZkdjc1BSTzZFWGRJeUx2QTdjZWRqNGxjRHNiNVVseWpuby1QeDBvVmxUbjNLaVB2ZmRaekE?oc=5",
+      "title": "Meta quits clean energy pledge amid gas-powered data center push",
+      "summary": "",
+      "publishedAt": "2026-07-25T00:21:00.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
       "id": "4a9b5ba3205359622258ecb5e3a288f7641915d2",
       "company": "Meta",
       "sourceKind": "external",
@@ -361,8 +361,46 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN1l6anAwWUtFZ0lkalNzb2VhOEJtc2tKUXp3eTQ1MGdLYmFkN1h1YnVoME53OV9tOFhTT1B6U1AxMmFSTm1HOWJpeEJrYVI0TEhUR2pCeDJWbHRsUmNJQ1JJb0ZqSFRwLVp6ZmpWTC01c1ZCVnFSd0UxeHhSY09TaUxmZjF5Tjlwa1ozS2xSUVNHZl8walg2MVNFSUlMNS13aFFONWVfN1Boa0NsYU16UVhOdks?oc=5",
       "title": "BlackRock Kicks Off $12.3 Billion Bond Sale for Meta Data Center",
       "summary": "",
-      "publishedAt": "2026-07-24T13:28:52.000Z",
+      "publishedAt": "2026-07-24T21:03:20.000Z",
       "publisher": "Bloomberg.com",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "4f943c50cafa4e901cae70cf2c7201edc38b9bb6",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdDZldVZ5cncyNy1LczZBeXc5MmpOd3N1OG5WMk9zVUNOYXhtdU5fQTIwOEdnZmRNOEdwLWdhLW9GSVA2RHNhUXh2RjBubzFQaV9oZS1VYTBUVGJFSHdGQldCaDdRQ0x2bGlDSTZXYXBHdjJDUms3akxmT0NjSnVSZjc5T0RnUnliZEF4ZUR5WllsLWJXYUdZ?oc=5",
+      "title": "OpenAI, Hugging Face breach stokes fear on what’s next for AI",
+      "summary": "",
+      "publishedAt": "2026-07-24T20:48:56.000Z",
+      "publisher": "Yahoo",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "24f64ae6bce339cbbcb11bfceba1f24f51b26489",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYnp5eDhxN1d5VnJnVExNNmJLWUxGdFNCR3hfYy0ydmRhVEhJS3hYQWFmNXNRU1VqWmVQTFFBV1E0WVBQNElhSFNQQXlXNkcwMHl0MV9tYTNBYjlMeDFPc3BOdFhxSWlYYkVSbGNaLUVhNy1TaEUzMVRkMGRMeU9pcVphVHV0LWtmbkRkYXQ1cVZ3bWxRSWY5eg?oc=5",
+      "title": "Meta's AI Borrowing Costs Rise on $12 Billion Data Center Deal",
+      "summary": "",
+      "publishedAt": "2026-07-24T16:37:35.000Z",
+      "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -387,6 +425,25 @@
         "bucket": "important",
         "score": 4,
         "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "7569338ee0d35289de5fa0da2edc1227182b6ccd",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/health-in-chatgpt",
+      "title": "Launching Health in ChatGPT",
+      "summary": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
+      "publishedAt": "2026-07-23T00:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Flagship model or product launch"
       }
     },
     {
@@ -483,78 +540,21 @@
         "score": 3,
         "reason": "Trusted external coverage"
       }
-    },
-    {
-      "id": "c4690eeba60306882ae35bd919963e0f08d27e8a",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRi1KQjN1LU5QN3d1V25nbTdMckpsdGF4MUt1Y0xXdEplanNrMzJoVnBCYmIzUzFFU2NvUXZJczR5ZHFNOGROOEE5Qi1CTmpLYjJuTExnQ25sN0NSX2ZfT0Z1Q0pFdnBpenhiZnc1X01RTmsxengzRDJhcm43N2NVYjFwTFVYWTB3TnU4cUFvMm5vdjQ3THVIamFvWXlNX2c?oc=5",
-      "title": "BlackRock raising $12 billion in bonds for Meta Texas data center",
-      "summary": "",
-      "publishedAt": "2026-07-21T12:13:05.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "9b4ebf94a4e6f0b290915b91726b508cc41805e1",
-      "company": "Google",
-      "sourceKind": "external",
-      "sourceId": "external-google-major",
-      "sourceLabel": "Major External News - Google",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTVZYSlROMmVRejhMMW5SVGRueW4zZTdnOEs2bmp4VFM3akVucjJOQmFZN2J0RGZ4VFNZc0lITENHS2xpM1M1NWhzT2xtbldDN0tyT1l0RVdWQ1E1TXZWY0tETnAwQUhaVE92d0F0alBhWFcyRWVzaEpXbHFDT05BOUNJcWV6d3RSLWUyTzE4VTVNQzA1VkJPQ1NzeGx3YlV3bnFZMzNQTHE3Zw?oc=5",
-      "title": "Google bets on custom AI chip to boost Gemini efficiency: Report",
-      "summary": "",
-      "publishedAt": "2026-07-21T02:30:00.000Z",
-      "publisher": "CNBC",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "d7acf00775cc9d535b2391b7a5ca7691535b978f",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy",
-      "title": "Understanding the AI economy",
-      "summary": "We’re releasing the first Activity, Task, Landscape, and Adoption Study (ATLAS) report, showing how people use Google’s AI tools.",
-      "publishedAt": "2026-07-23T10:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Technical or research update"
-      }
     }
   ],
   "newItems": [
     {
-      "id": "3469da98449e53d0479fdd6e997a4d219c07b24c",
-      "company": "OpenAI",
+      "id": "f27ebe972a2e9cc75d2b6a13c55e31d24cf6c2d5",
+      "company": "Anthropic",
       "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUEJhdXAtQzZaamdQRFdzXzlSdDRwSGdwanc2SW1CSFpwZDYyOXBia0t2WDdPZzFuTzBzempwMHlISzlBWS1LbXZLNHM3cTZub2M2T0toTGZaNFB3NW5SLUxyVzl5bHJrNmFzNWxhQlkzLUJNMzZnTElfLXJZZUtNbHZWQlg5Z255MjYxM29NRWNDUFFnU2hPc19wbUZsMzdEN3FwMGtXQlRhc1N1MUJlczBEWU1TUEFYSWQ2RGRyelNhUTFFQ3VLdQ?oc=5",
-      "title": "Indian court says OpenAI did not violate news agency ANI's copyright",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOc01MVThuVGwzXy1xT1F6ZXZzVUVmOW51VHVnYUNxLXF5enBPOWdfbGx0MThDMHZJTzdBSS14X041RTg4dHpzT3dzSnpzVTVLVVR6MUY5Ympaa01oaFlJSUFCbUJZWExtQnptTTJST1JBOTQ1bFFkQ0g5Z3h1SmlMTjd4aVNNRm5YZXI3SWJ3?oc=5",
+      "title": "Anthropic to pay settlement to Harry Potter publisher",
       "summary": "",
-      "publishedAt": "2026-07-24T10:24:34.000Z",
-      "publisher": "Reuters",
+      "publishedAt": "2026-07-25T00:26:00.000Z",
+      "publisher": "CNN",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -563,55 +563,36 @@
       }
     },
     {
-      "id": "18a709891b78718f2e7e36f23bf600b5b07deac3",
-      "company": "OpenAI",
+      "id": "f52b82373d6bfca5d51e3cdb2ed31f8deaa0521d",
+      "company": "Anthropic",
       "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUTVQbG1nNFk3QUFDeWxuNms5R0hkWFhCWlFyY2xKLVJZRkV6RE5VN1U4eGNkYkRNVHVHamN5SGdtcW5zYmRyZ3hJUjc0di1acWpGRndrOGxZUnFXeGZHWWFGalNaU3hDLThqVC1wZXJ0MVJodFVkUS1uS0s4R2h0aUE1MU1EclN6cUw1NGNEdXMxTVYt?oc=5",
-      "title": "House Lawmakers Unveil AI \"Kill Switch\" Bill After OpenAI Security Scare",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOeEFyVjBHQTlOQWlCWmE3a0lxSC1KVFV3VE5sVGZ3cHdUTC1pMkRubDI1RUNxNldhNmhuWDAydGVoUkg3Rm0tVVFXaDRSYWswdVdFUFF5TWtNVF9nY2p4T1phMFQyV1ZBZlFBbW5FdE8zRDhEb1VQOWlJQnh4NzRJVFJiQTltQQ?oc=5",
+      "title": "The AI ecosystem should be 'intertwined': AMD CEO Lisa Su on Anthropic partnership",
       "summary": "",
-      "publishedAt": "2026-07-23T20:08:34.000Z",
-      "publisher": "Yahoo",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "172df04b741a5055c81249db0f55397f871a9fc1",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaEE1d2tqaXRJZ2NsQWh4OERGR3czZ3JIUmgzdVNmcnBUdmptM0xnZkNXNUJseThlQzE0UHltVjYyUC04b19iTFhwcWF1QTBZN3RkZkpSbTNreWUybUZJUjFYUV93OUZyNWg1Uy1JSjdmTHludDVFRVh5alVrNm9xNUkybU5BV1hraGNkQlNJY3NjZw?oc=5",
-      "title": "AMD’s Lisa Su defends open-source AI following Hugging Face security breach caused by OpenAI agents",
-      "summary": "",
-      "publishedAt": "2026-07-23T23:06:59.000Z",
+      "publishedAt": "2026-07-24T17:30:00.000Z",
       "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 5,
-        "reason": "Safety, security, or policy update"
+        "score": 7,
+        "reason": "Corporate move or major external event"
       }
     },
     {
-      "id": "57b92a5635f1febed2aaa2155871c4e68258e4f1",
+      "id": "fd91cba4d19c9dc9675748290a2a71f7fdf2fc81",
       "company": "OpenAI",
       "sourceKind": "external",
       "sourceId": "external-openai-major",
       "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSzl2bU9TZUVrc040OEttNi04SVkyTW5FdDVFV2hOcHdWaEZkNkFYc0FlU2JxcThRb1c2LTFZQ08xOVRab3pMTjRIVGs1WHkwbW9pVWZTMjVhTTZBdk5nNjI2NjlHbk5aRGZ4ZUlfdktoQ1QzX2JnRE1xVHNaWkpTdW1RelctNWpLbTBIMk1XRF9RbjBYSy0zS1FLaUx6UQ?oc=5",
-      "title": "AMD’s Lisa Su defends open-source AI following Hugging Face security breach caused by OpenAI agents",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRjN1RTBRekZaUlVuVUtzZVlhSzJkVmY0NG8wMHlxU05hcVl3UEdETFVhR09FY09PSHdfZUNCaW9QQ1hwYUwtazBkWVpoeVZtNkY2NkJwd1hodUQ2UFN2MTRDRlpmcFZ6ZkFablktOTJTOVhCSXlzQXNuZTBDNGVxNURyMENuSUFacElGUnRMVXNoVU5RSUQ1YmtjaEdOTzBWTllZV3NiN2tCZkxKUklIbExUb2hKem9lNGh0WnpEaTQyWHBfMDBneGFrRU0?oc=5",
+      "title": "Security News This Week: The OpenAI Models That Hacked Hugging Face Were ‘Active on the Internet’ for Days",
       "summary": "",
-      "publishedAt": "2026-07-23T23:06:00.000Z",
-      "publisher": "Fortune",
+      "publishedAt": "2026-07-25T10:30:00.000Z",
+      "publisher": "WIRED",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -620,37 +601,18 @@
       }
     },
     {
-      "id": "5045fb7c2f1953ea8f7cc260c85529c8c9f7b7ba",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVGlfei0xZXRtMDVSTENDeUpRcDlrVklzZVJyc2ZteUMxVmFlNXNpelhVTDN3NEtORks0R0dYSTUyYl95MGU1V1RSVlBXaWc4OEFzZXAzNDUwY2E4OWEyMDVUazB3dG1jMHU4U0c1T3hyZHdpMUFHOVI3S2FHNFk3Rm1hWTB0QjF2cDY0?oc=5",
-      "title": "BlackRock Launches $12 Billion+ Meta Data Center Debt Deal",
-      "summary": "",
-      "publishedAt": "2026-07-21T16:26:58.000Z",
-      "publisher": "Yahoo Finance Australia",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "7569338ee0d35289de5fa0da2edc1227182b6ccd",
-      "company": "OpenAI",
+      "id": "e75df1016aa12143321e69cddb3c5f5d5d8ae01d",
+      "company": "Anthropic",
       "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/health-in-chatgpt",
-      "title": "Launching Health in ChatGPT",
-      "summary": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
-      "publishedAt": "2026-07-23T00:00:00.000Z",
+      "sourceId": "anthropic-news",
+      "sourceLabel": "Anthropic News",
+      "homepageUrl": "https://www.anthropic.com/news",
+      "url": "https://www.anthropic.com/news/claude-opus-5",
+      "title": "Introducing Claude Opus 5 Product Opus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements in coding and professional work.",
+      "summary": "",
+      "publishedAt": "2026-07-24T00:00:00.000Z",
       "publisher": "",
-      "discoveryMethod": "feed",
+      "discoveryMethod": "anchor",
       "classification": {
         "bucket": "critical",
         "score": 5,
@@ -658,17 +620,17 @@
       }
     },
     {
-      "id": "4a9b5ba3205359622258ecb5e3a288f7641915d2",
-      "company": "Meta",
+      "id": "af5b11d69e29f1effb2215e1c95fe4d18afa65cc",
+      "company": "OpenAI",
       "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN1l6anAwWUtFZ0lkalNzb2VhOEJtc2tKUXp3eTQ1MGdLYmFkN1h1YnVoME53OV9tOFhTT1B6U1AxMmFSTm1HOWJpeEJrYVI0TEhUR2pCeDJWbHRsUmNJQ1JJb0ZqSFRwLVp6ZmpWTC01c1ZCVnFSd0UxeHhSY09TaUxmZjF5Tjlwa1ozS2xSUVNHZl8walg2MVNFSUlMNS13aFFONWVfN1Boa0NsYU16UVhOdks?oc=5",
-      "title": "BlackRock Kicks Off $12.3 Billion Bond Sale for Meta Data Center",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPN3AwZjBweUo4bXlORWxSYnY3Tnc3aElhdy1VTVcybDhxcmtPTzBuOUNEWVg3b3pfazRoeVY0VnZ2WG5IdWJMQi14ODRkaHJiLVVRNVQwem1nSFNQaTVFQUM5cDRQdzBDemVTZ2J0elJQc0w3Y09PSnhFVU05dEp3MDU2UFVtRFpRYkU3RDZJcEFpS0ZTbFNZVnVZbVhMUEVjMzNJXzVJcFN6NkFRaUJGbHZ0aV9oN1lxcFVGa04xZGZNVm8wN3FVOFREZFFvSm5ZMGRrdHB3?oc=5",
+      "title": "What it’s like to be a founder of the most high-stakes startup ever, OpenAI",
       "summary": "",
-      "publishedAt": "2026-07-24T13:28:52.000Z",
-      "publisher": "Bloomberg.com",
+      "publishedAt": "2026-07-25T09:00:00.000Z",
+      "publisher": "Fortune",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -677,22 +639,60 @@
       }
     },
     {
-      "id": "d7acf00775cc9d535b2391b7a5ca7691535b978f",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy",
-      "title": "Understanding the AI economy",
-      "summary": "We’re releasing the first Activity, Task, Landscape, and Adoption Study (ATLAS) report, showing how people use Google’s AI tools.",
-      "publishedAt": "2026-07-23T10:00:00.000Z",
-      "publisher": "",
+      "id": "ce4c354cf68018bb8dbbafeb5c07a84d2d80ae7f",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZTYxeHRtRUtvTWprOTBGbFJrcWYxZVoxakNQdTlUSTBUWC1YRk54QW52dzc2SGxSS1ZWeXVUMUkyb0JQZVFMbGtJNktDSmFkd3RqeV9yMXkxbWtmZkdjc1BSTzZFWGRJeUx2QTdjZWRqNGxjRHNiNVVseWpuby1QeDBvVmxUbjNLaVB2ZmRaekE?oc=5",
+      "title": "Meta quits clean energy pledge amid gas-powered data center push",
+      "summary": "",
+      "publishedAt": "2026-07-25T00:21:00.000Z",
+      "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
-        "score": 3,
-        "reason": "Technical or research update"
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "4f943c50cafa4e901cae70cf2c7201edc38b9bb6",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdDZldVZ5cncyNy1LczZBeXc5MmpOd3N1OG5WMk9zVUNOYXhtdU5fQTIwOEdnZmRNOEdwLWdhLW9GSVA2RHNhUXh2RjBubzFQaV9oZS1VYTBUVGJFSHdGQldCaDdRQ0x2bGlDSTZXYXBHdjJDUms3akxmT0NjSnVSZjc5T0RnUnliZEF4ZUR5WllsLWJXYUdZ?oc=5",
+      "title": "OpenAI, Hugging Face breach stokes fear on what’s next for AI",
+      "summary": "",
+      "publishedAt": "2026-07-24T20:48:56.000Z",
+      "publisher": "Yahoo",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "24f64ae6bce339cbbcb11bfceba1f24f51b26489",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYnp5eDhxN1d5VnJnVExNNmJLWUxGdFNCR3hfYy0ydmRhVEhJS3hYQWFmNXNRU1VqWmVQTFFBV1E0WVBQNElhSFNQQXlXNkcwMHl0MV9tYTNBYjlMeDFPc3BOdFhxSWlYYkVSbGNaLUVhNy1TaEUzMVRkMGRMeU9pcVphVHV0LWtmbkRkYXQ1cVZ3bWxRSWY5eg?oc=5",
+      "title": "Meta's AI Borrowing Costs Rise on $12 Billion Data Center Deal",
+      "summary": "",
+      "publishedAt": "2026-07-24T16:37:35.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
       }
     }
   ],
