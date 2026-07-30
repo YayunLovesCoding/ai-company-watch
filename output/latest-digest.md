@@ -1,88 +1,125 @@
 # AI Company Watch
 
-Generated: Jul 29, 2026, 8:49 AM PDT
+Generated: Jul 30, 2026, 8:53 AM PDT
 Lookback window: 7 day(s)
 Sources checked: 12
-Items fetched: 34
+Items fetched: 41
 Items kept: 24
-New items: 10
-External items kept: 10
-Official items kept: 14
+New items: 15
+External items kept: 13
+Official items kept: 11
 
 ## Critical External News
 
-### Microsoft - UK regulator investigates whether Microsoft misled personal and family customers
-Source: Major External News - Microsoft
-Publisher: Reuters
-Published: Jul 29, 2026
+### Google - Oracle Gains After Expanding Google Gemini AI Partnership
+Source: Major External News - Google
+Publisher: Bloomberg.com
+Published: Jul 30, 2026
 Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxOSC1QLUQ0ajdXMEFFb2pZTF9MTUI4eDBJbDNFZkN3TTZQdEl3dExKakd0aUhxazNmVllDT0RWeVBST2czZkdTOTRMdFc4a3RENTFiVl9pT2RvYy1FQVNUalh3RTZxWWFNcXhDaHdpVGZHNGZNSWRTOUxXUFdfTnA0bk1xWjl1UXIzUnY4Z3ZqTEEwM01TZnRuTWs0eVVNTEdJX0ZvenFibHFJUTBsWDFMaTlUSQ?oc=5
+Link: https://news.google.com/rss/articles/CBMirAFBVV95cUxQODV5U01jSzJPd0dzVUJzdFIzUzhpRHN6UWRjTDNuZmw5dlk5U3IwVExiWE5CXzBlZm1VM0ZtdjFnanJNVk1heWpFakMyWG1RTlgyeWh1VG91cHFUd1gxQUpRbDRqc180WWQ3eDVQbFBCYTRwaGpIVHdtSGVucldQNF9ubzQ5ajJsd3dlMGNrMjRWRS1sVy16ZWxraDhXMWQ1d2c0akNxMGVEUFVI?oc=5
+
+### Google - Oracle shares pop 3.3% as Google cloud AI partnership expands
+Source: Major External News - Google
+Publisher: Yahoo Finance Australia
+Published: Jul 30, 2026
+Why it matters: Corporate move or major external event
+Link: https://news.google.com/rss/articles/CBMiekFVX3lxTFBQbUNCVldKX3VoQzdhd0ZLMkZfbkNqb202YWdtX3l0MWVOWUhuZXpHTTRPMnVmaVFmcmJVMUZQbkI3dVJCTlZQU0ZhVHZYMktvbDc2LXdfcnBfYWRjRHNRWFAwNF9CeXJWb294elBQZlJVRVFwNFhBX2x3?oc=5
+
+### Meta - Meta (META) Launches $14 Billion Texas AI Data Center Campus With BlackRock
+Source: Major External News - Meta
+Publisher: Yahoo Finance
+Published: Jul 29, 2026
+Why it matters: Flagship model or product launch
+Link: https://news.google.com/rss/articles/CBMimAFBVV95cUxOOW5ObVB2b3BxUUVTNFpvZHRveExFRkIzcWRKeWJXbVRNeEtuTWk1N0p0T1E0eVN0U1lBbldqaTVMQVBhQzd6S3FCYnFpX05fVVBJTUx0STFqNVJxTUFVSkxqd2xITW9vVkFIVjZMYzJGVlVvOXBlOUR2OU40VjlwRE1BZGxtclhNaVUzUmdiRF9RUXZLSzZMYQ?oc=5
 
 ## Important External News
 
-### Meta - BlackRock (BLK) Is Up 5.7% After $14 Billion Meta AI Data Center Deal - Has The Bull Case Changed?
-Source: Major External News - Meta
-Publisher: Yahoo Finance Australia
-Published: Jul 29, 2026
-Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMieEFVX3lxTE4xU2hUaHBBQ3pWQ2x0emI4SHp0MWd1R3VhZ2JVX1lsc0NLRUxyWEdSWDMyWEJIYmpDUktiSjNWeC1jaXZMTnc3UUxqNFBKek9hTUVBVDlGWmg4QW13Nkp1SzUwMHJ1VGU2RVpxUHhqaEE2OXY2Znl3eA?oc=5
-
-### OpenAI - Insiders knew advanced AI models would escape the lab and wreak havoc, former OpenAI board member confesses
-Source: Major External News - OpenAI
-Publisher: Fortune
-Published: Jul 29, 2026
-Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMikgFBVV95cUxORHY1a3VfYjFEMEFMQTA5ZUFlSDhNUmRmcERaUldhYzRuTXZBR1VrU3JIaDVNSUswLW16YkwzZFNVdFpUVmpZZ2Q1TnphUVh2bGxyS2JDVk1keEZhd1RjcWpUbnQ1WjlQN29jMnE3LVIwTmVqZV96Z2c2cFI2dGJoS1F5LXhRYnVuY3o4Q1c0dTgxdw?oc=5
-
-### OpenAI - OpenAI Close to Landing $500 Billion Data Center With Backing From Nvidia
-Source: Major External News - OpenAI
-Publisher: The New York Times
-Published: Jul 27, 2026
-Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMiggFBVV95cUxObTNBSmE3VDNINUgxdnVXVjFIVGNGX3F5ckZSSzE5UHd1WjFpbW5ORzc5NVRwUTU1eWNIelBmODFtWFE3cW4xd29oZl9ucWJEeDZUUVo4LTVOWXFTSVZsQXhDWU8yVjRJemVCal8xZ2dkV2RWTzczUlk0Z2dhR2pLSExR?oc=5
-
-### OpenAI - OpenAI’s Hugging Face breach has reignited the debate over alignment and control
+### OpenAI - In the Hugging Face breach, OpenAI’s hacker was noisy and fast — but not unstoppable
 Source: Major External News - OpenAI
 Publisher: TechCrunch
-Published: Jul 27, 2026
+Published: Jul 30, 2026
 Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxPenlaTmRiRFU0WkFNdGN0dE9FeWN6SlVQNHliSmNVZWZXMUctRUJ3alU2SlMzN0MzVF83OGZ2VXJ1c3UtZ0xIVHIzN1cxekU2T1phYUMxZGEzamszRzRmX2tOZzFGWkVVMno5VFlyMFdTVnNFbWlTb3dBR2VaVkFuR0VRc3l1b1BmVFFsb3lDWTY2YXJyRVRzNFhaZlhDQ2UzTFNrMzZ6UUlmWTBfMklUODRFdTE?oc=5
+Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxQeTkyN0FyMkhwM0tqcVB6T3VfeXlNN0VDeWRqUmt5ZTBzUGlqY0JXdzFSc2ZMT1FiMFcwc19KNEx0X3dEdVNQbllmYm9jNjhFNkFGWHdOUHd1QkVacVZTUUN6ajVHTDg1VWR1NlQ5azN2SWo0ZnJ5SHd6NkFVemg5TEZfRzk1d3RVVW9wQlJsVUlRbU9Nd1VMaS14cTd2emI1UUdHNkdwUmFCSk5aLXREbXYydFYyZw?oc=5
+
+### OpenAI - German minister urges faster AI self-sufficiency after OpenAI test breach
+Source: Major External News - OpenAI
+Publisher: Reuters
+Published: Jul 30, 2026
+Why it matters: Trusted external coverage
+Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxQWFd6Y3J1QUQwODAyV1NkMXp4NzF2UFlaWlZBVlY2WDNMbWRPazJVOW4taF9ZWnZTOE10dm5jTnlldWJyRW1sbm5sRmdXUWd6Um4zX09KVlRTTDVta3JIY1h6VllidVFIYzkyUWhGeGdiUFdiRUdnRXBCdlRIV2F3Z1RudmlhYlU2VDRNWjRsc01yM3FfblYyY1JSSDZCVmhrbW05TXNTb2p2VDJRSGlEN2tfcnhfQk5sSTJMRFhoYlBxMWFa?oc=5
+
+### Meta - Meta Reports $279 Billion in Future Data Center Leases for AI
+Source: Major External News - Meta
+Publisher: Bloomberg.com
+Published: Jul 30, 2026
+Why it matters: Trusted external coverage
+Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxPMHRYM3p1VjVqUzZZOG92clpYeDdfdDUyMFhtZFdYQUowZ2pSVGxDcXZ3clZ3dXNnV1pCSkNFVWpvME1VLXFrUnpYTXdDZGJxbE9kY0tOUm5rS1lBZ1RqWktWZjNaXzhXNjNIbDhWNFhsMEJVTkluQlVJZXpaQUdMX3NrMHdQOF9LMDdKN0VhZ3g5SHRKdkVqYlN2Nl9lZjdHYnc3TmI1QW01X29nUDNwWg?oc=5
+
+### OpenAI - OpenAI CFO Sarah Friar tells employees that annualized revenue in July topped all of Q2
+Source: Major External News - OpenAI
+Publisher: CNBC
+Published: Jul 29, 2026
+Why it matters: Trusted external coverage
+Link: https://news.google.com/rss/articles/CBMipwFBVV95cUxOQTZvZ3pPWFB2QS1DdEJyTmVPZnl1RWE5VGFVTEhqeHQ2N1puazZ3S215R3F1bW03SEFuUjEwTFJZT2V4czA3UDJQNUthU2dYSVJaQTBGVXlrX2ROTjZhcC1qcWdYVkdCWkhQMWFCRGtySElhSDgzTGNJUGMweV81UHFvU2Y3SjhlUEVRSXlvTlF0ZWU4WEFMMXFyOEFsb1Y3YVJkQkJvSdIBrAFBVV95cUxNMFBmOEZZXzhKNjJ5MjFsUjEzLTh0Sk9iY25uSEEyaV9MN2FCUlJGX1ZNdDRLdGZ4azFYNWlyOFpxTG1tbTRjMUczZTVIb0t0Zl9jb3QwNk1SNDZweUxBVHlpMkpraVZpYjk0cnF1cDBOdzJlclFOM2JyYmJQMGRxN3Z3anAyMzlDNkRQS09RT0hMUW41eGo0UXR6bnB4Z0s5Vm5jdm40VTN3YVdG?oc=5
+
+### OpenAI - OpenAI agent linked to second breach
+Source: Major External News - OpenAI
+Publisher: CNBC
+Published: Jul 29, 2026
+Why it matters: Trusted external coverage
+Link: https://news.google.com/rss/articles/CBMihgFBVV95cUxPQ0pQZzk2V3VyUjBROWV4a2ozZHluVlFZSDQzcWhuUVVYU1ZCS01pTjRMcmVFbHQ4U1BwalljYmNpY05YNnJ0M3FBWnJrWGdTdmFNS3l0eHQtdUpIRkZXREVic2dDUDU2Y19zWVNYODBXQnVCblNzNEpISDEwM1FHQjNPRWpIQQ?oc=5
+
+### Meta - Meta and BlackRock Form $14 Billion Venture for Texas AI Data Center
+Source: Major External News - Meta
+Publisher: Yahoo Finance
+Published: Jul 29, 2026
+Why it matters: Trusted external coverage
+Link: https://news.google.com/rss/articles/CBMimgFBVV95cUxQc003Z2hnZHdNTURWQ1FYX20tZWgtQS1mQ3FJVmpfZGJnZlM4TFFSWlpWRWlDQ2I0eG1pZkIwaFkzdENhY1pEMTkwd1g4TG9nU05YZmVSa2M0a3pjLVNPeDYyZnNpeWsxdWZlQXhtbWdLbXpmTmFhU3ZCT0w4dVYwTURtZlIyTS1DUG13U2EzWF9MU0hEV2ZTSTB3?oc=5
+
+### Meta - Meta (META), BlackRock (BLK) Form $14 Billion AI Data Center Venture—Can It Ease the Cost of Meta’s AI Buildout?
+Source: Major External News - Meta
+Publisher: Yahoo Finance
+Published: Jul 29, 2026
+Why it matters: Trusted external coverage
+Link: https://news.google.com/rss/articles/CBMilwFBVV95cUxNV3lrSmZuczFpUGc4VUxYdDloMU5KclRRU1hSbmZ5czR3U2xYbXA5Zkx5NTRfTGJrUWc1NUQ3aUhJYjY2TEUtcXlNMnNUeFFWNlFza2hiUXBTQ1NucGYtT25ROUJmQzI1bzF0c2RRTUh4NEdGYTFLa3FXTm5CWVZ1RmNfSmRPMmtobkVfT1ZiZmJJaEp2RFRJ?oc=5
+
+## Critical Official Updates
+
+### Google - Introducing Gemini Robotics ER 2
+Source: Google AI
+Published: Jul 30, 2026
+Why it matters: Flagship model or product launch
+Summary: Gemini Robotics ER 2 is a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications.
+Link: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-robotics-er-2
+
+### Google - We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control.
+Source: Google AI
+Published: Jul 29, 2026
+Why it matters: Flagship model or product launch
+Summary: Our newest music generation model, Lyria 3.5, delivers significant advancements across musicality, lyrics, and vocal quality, empowering you to craft richer tracks. We’r…
+Link: https://blog.google/innovation-and-ai/models-and-research/google-labs/lyria-3-5
 
 ## Important Official Updates
 
-### Google - NOAA and Google Cloud collaborate to advance weather forecasting.
-Source: Google AI
-Published: Jul 27, 2026
+### OpenAI - How enabling two settings tripled our scores on the ARC-AGI-3 benchmark
+Source: OpenAI Newsroom
+Published: Jul 29, 2026
 Why it matters: Technical or research update
-Summary: Google Cloud is now providing high-performance computing infrastructure for NOAA’s supercomputing system.
-Link: https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/noaa-google-cloud-weather-forecasting
+Summary: How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.
+Link: https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores
+
+### OpenAI - Accelerating scientific discovery with ChatGPT for Academic Researchers
+Source: OpenAI Newsroom
+Published: Jul 29, 2026
+Why it matters: Technical or research update
+Summary: OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.
+Link: https://openai.com/index/chatgpt-for-academic-researchers
 
 ## Official Company Updates
 
-### Google - Gemini for macOS adds new natural language capabilities
-Source: Google AI
-Published: Jul 29, 2026
+### Microsoft - A new generation of Mexican entrepreneurs is using AI skills to solve local challenges
+Source: Microsoft AI
+Published: Jul 30, 2026
 Why it matters: Routine official update
-Summary: A look at how the Gemini app for macOS now lets you speak naturally to get clean transcriptions, edits, and summaries just using your voice.
-Link: https://blog.google/innovation-and-ai/products/gemini-app/speak-naturally-gemini-app-mac-os
-
-### OpenAI - Scientific computing in the age of agentic AI
-Source: OpenAI Newsroom
-Published: Jul 28, 2026
-Why it matters: Routine official update
-Summary: A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.
-Link: https://openai.com/index/scientific-computing-agentic-ai
-
-### Google - How Gemini Flash agents are helping a Michigan dairy farmer
-Source: Google AI
-Published: Jul 28, 2026
-Why it matters: Routine official update
-Summary: See how Paul Windemuller, a Michigan dairy farmer, is changing the way he works by using AI agents built with Gemini 3.6 Flash.
-Link: https://blog.google/innovation-and-ai/models-and-research/gemini-models/using-gemini-to-manage-farm
-
-### Google - Gemini API Managed Agents: 3.6 Flash, hooks, and more
-Source: Google AI
-Published: Jul 28, 2026
-Why it matters: Routine official update
-Summary: We’re announcing even more new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.
-Link: https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks
+Summary: A new generation of Mexican entrepreneurs is using AI skills to solve local challenges
+Link: https://news.microsoft.com/source/latam/features/ai/a-new-generation-of-mexican-entrepreneurs-is-using-ai-skills-to-solve-local-challenges?lang=en
