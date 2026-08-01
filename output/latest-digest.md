@@ -1,88 +1,81 @@
 # AI Company Watch
 
-Generated: Jul 31, 2026, 9:02 AM PDT
+Generated: Aug 1, 2026, 8:03 AM PDT
 Lookback window: 7 day(s)
 Sources checked: 12
-Items fetched: 44
+Items fetched: 46
 Items kept: 24
-New items: 10
-External items kept: 14
-Official items kept: 10
+New items: 9
+External items kept: 13
+Official items kept: 11
 
 ## Critical External News
 
-### Google - Oracle stock jumps as Google Gemini partnership turns OCI into the Switzerland of enterprise AI
-Source: Major External News - Google
-Publisher: Startup Fortune
-Published: Jul 30, 2026
-Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMUp3QUpsQXJJQVpvNXl5VTR1Smc2ZHZLYW5jRzJCZWZTbloxZzNHcWt1ai1kTVU0aEhFRlp5VzJlTmpyckd3a19DRGNwVk40SjI5RHdtUVByQ2Q1ZjVZczJNSFpQT1JpZ1BOalFSSUdzM0d6T2szWXRLbWVpS1dLRjNoMi1hZ3Fya1NEUk00c0l6ZWt4Q0RPb3UyNHhsc3Z1X0hmTktobUdSOWFCVTdHSTlpM20xNnZUOEFPY3hoZmU?oc=5
-
-### OpenAI - Anthropic Finds Claude Accessed Three Companies' Systems in Security Tests After OpenAI's Hugging Face Breach
+### OpenAI - EXCLUSIVE: OpenAI finds evidence other AI agents escaped containment as it widens hacking probe
 Source: Major External News - OpenAI
-Publisher: Yahoo Finance UK
-Published: Jul 30, 2026
-Why it matters: Safety, security, or policy update
-Link: https://news.google.com/rss/articles/CBMijwFBVV95cUxNQWFqVXBwZXo4OUpkZTlCeVZVUWI3LXh3SUp0aURJWmxFWFJUbTlsaDZyLXU2NFNlYkJSYVhjdERKSFRnejkzYUczX0I1dXhZQXBCclVkelJtNURtTjdCTzVPN2NUTDVnYnhCODFNRklFaVdMdi1xVFRMNE5ZMFZJZWptMGdNSUR5c1NvZzlxaw?oc=5
-
-### Anthropic - Anthropic says its own AI models breached three companies during security tests
-Source: Major External News - Anthropic
-Publisher: TechCrunch
-Published: Jul 30, 2026
-Why it matters: Safety, security, or policy update
-Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxPMGNBMlpSYTRYVlFfN25yZjdMQzY3M0xHelhiNE5BSGdUTGFXN2Izd01WV2l4eEcyRWo0bXNiUkd3RjFVd2M0MlFFZUVHZEpDZERHM3E5QktlQnhucWg2VHhfa3dtNEJwYVNDVEpCWFVWY3NIdE92U3hiVFVTb1BaRmpfYmpsb0VtYk5xRnQyRjA4c0RSaUVHZjQ1WFI2NFg1cy1DUk1UVmZyTDJUTUNFOUlvU00?oc=5
-
-### Anthropic - Anthropic's AI hacked three companies during tests, highlighting growing security risks
-Source: Major External News - Anthropic
 Publisher: Reuters
-Published: Jul 30, 2026
-Why it matters: Safety, security, or policy update
-Link: https://news.google.com/rss/articles/CBMivwFBVV95cUxNQ0FyTjVjNWQzY2dYblVWRlNJdGJwYkVuVVlXbkhBNURXR2VYenltaUVUR2I0emloLVB5S0dBTnpwUDJ0Q013dU1DQmZrLVhPeXcxY09pb0hyS3R4Q0ZFa2x4Y3Y5bzNJMGdtOVZZWE5iMFpjNmNLNjNOZlNKRnlBcmdRVW1NTUdrX1VYRk1nYjBKM3JCa3IwUENVbHRQNW44b25HRk91MUxNVVlDNXNxYTJWNjhLMHo0SzVqY203Yw?oc=5
+Published: Jul 31, 2026
+Why it matters: Corporate move or major external event
+Link: https://news.google.com/rss/articles/CBMivAFBVV95cUxQYTc2SUhrNmVER0NvNW9nZHBwbklFMlA0eTNSRFZETXpfSWpVYU1wOUhaMDRLUnRVSEhtRzByeEktX2FEX1ZzaThNMnpZMW9JdVZDZkVRTEQ4UjdlakFPVXZTUjZaM2JOUkhpN1BxeEU4bWJuSjNkUldBNXRVWDkyYWVXVUlKM0VEZU5wZklfX2FJRkQ0bmVybTIyY0xpbHd6aGtIVmZ3YU5ocGdsdFlNeXdOQlBXOUsyZnZtZA?oc=5
 
-### Microsoft - New Microsoft Copilot Security Flaws Show How AI Can Leak Customer Secrets
-Source: Major External News - Microsoft
-Publisher: The Information
-Published: Jul 30, 2026
+### Anthropic - AI security concerns grow after Anthropic, OpenAI reveal hacking incidents during testing
+Source: Major External News - Anthropic
+Publisher: Yahoo
+Published: Jul 31, 2026
 Why it matters: Safety, security, or policy update
-Link: https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaUhROXNQYUtJSHFqY2R6eVhZNWhoZFpIN2xNaGdISVV3TFpGZmRYZkhzRFRoQ0dwTHFETEFyVko2bGctQ2JpZlBPS3Rja25qQTlUNVFXLU96R3dabDd6VTJQaXJJOFhIcmlNa2JwbWxoaDdpbGlzTWpXZ3lDd0pDVWh2SXZBTy1zb1hyQjV6Z0xkeWxuTWk0T2lKVTBacVEybTYxYkdRd3RrSHFhX3NiTkNhM2RaNm5RWUluZEZTaG5lQQ?oc=5
+Link: https://news.google.com/rss/articles/CBMijAFBVV95cUxNZlJjZ2I3cHVOdGtLV21PUWc3bm9DUklIejB4M2dwWDNrRDZVMWxsSDhjeWp0YWFLZVcxUzRFYXZmdXZIVC1oN1JOc1JCSHlQZk1YUElLZjV4VDduZGZVdk5MWlhqNk1LLVB5cHZvX0k4ME84UmdJQTlIajd6cEVGQ0R0bTlYdk9Oc21GTQ?oc=5
+
+### OpenAI - Anthropic, OpenAI Cyber Failures Point to US Security Risks
+Source: Major External News - OpenAI
+Publisher: Bloomberg.com
+Published: Jul 31, 2026
+Why it matters: Safety, security, or policy update
+Link: https://news.google.com/rss/articles/CBMirgFBVV95cUxOa0RRWm94MnZvTW44UkNVUVJwN0JodGVjRDQwc0FRRXJYM2xWcERZQWVobERUbEJOX1NUODB4T2JxTlZScEhqNGFCdHVQYk5WajJhRmZDcTRKbXlYNFhjZm1IbUZFM2FpbWlaQV9jN0NYdlR0a2tCMXhMWjNPWU1YbXlIdGhhUnBLY0x6NXlRcHFFMkVHNTVLMmo0bW91Mjl0aWFTX001YlUwU24yMUE?oc=5
 
 ## Important External News
 
-### Meta - Vertiv CEO: How Google, Meta, Microsoft earnings are 'reinforcing' data center acceleration
+### OpenAI - Trump Considers AI Controls After OpenAI Breach but Warns Against Falling Behind China: 'We're Also Making Sure That We Lead....'
+Source: Major External News - OpenAI
+Publisher: Yahoo
+Published: Jul 31, 2026
+Why it matters: Trusted external coverage
+Link: https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ2VxeG1UWGl2VWRWRnZQQ1ZNWnhiRjRTdm8ydzhtQzY0Ym1QQlhLM1NXTEt1VmtRSDRnVFFBaFJfWTA0SDZRTWVZX050VVAwSldKSW9BX2FKdERfbl9zQ0tzUU0tNGU2NjVHeHJxbVBKVlM0Q1V2ZW9RdUdKOGw2ZE9FdHFGUVJlMU5LMDh2T1RKMEw2WFVlOU5B?oc=5
+
+### Anthropic - FAR.AI’s Adam Gleave on Anthropic AI breach: AI models are now very capable
+Source: Major External News - Anthropic
+Publisher: CNBC
+Published: Jul 31, 2026
+Why it matters: Trusted external coverage
+Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxQcElyZExRV1FtY3pSTWdfekpKTXR5SDRIRnNUN0pqWWFybXpNdDZjY1l3djlKclU4eHRiODk0c3VvOEUzakpiM0FVaVIwblUwNGxPUE80UkRCOUtNRlozelFJN3V5VzVnQmpHUm02QmlLNjF5MUpaWTJuaE9MSldNeDFsd2tzTlEta3Rtc0RzUEg2THBKYy1Qc0ZNdHVaM1NwRzE3Q19UYlFXS3RUS3FfT3NYa1J2VnNSUEE?oc=5
+
+### Meta - Meta's future AI data center lease obligations swell to over a quarter trillion dollars
 Source: Major External News - Meta
 Publisher: Yahoo Finance
 Published: Jul 30, 2026
 Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMihgFBVV95cUxPelRYN3dCR2RYaXpQRlNuMTJMdmNPck5Jemg1Z1hsWEhzbTRNNkxmZnVBS0lmd05wMkRfdXJfeVViQmNWOFJfTEN5VXoyMWVnYTNaT0lkMVJXc3NONGwtZGVYQVBmZnR2YWljRHlnQTJodG9QUTVWSlZhS3VRbzROMFQ2SkRpdw?oc=5
+Link: https://news.google.com/rss/articles/CBMilgFBVV95cUxNU3FhSEIwNEgydVFTelpvX0x0NTlVUXRjVDd1NFgzcUhmbmRyUk0xdl9saVY3RDJaNXFWejhoMFhJY1JjNS16SjNSc1VhSlhEbk1BVmxYenYteDE3NjhJcTd3TlJqTkJ3Y2tXR0pkM2pUV2NfcjBsWk0yMlhNNGowM09HS00wRklZSlBURUk2eHZ2TV9QTVE?oc=5
 
-## Important Official Updates
+## Critical Official Updates
 
-### OpenAI - Advancing responsible AI across Europe
+### OpenAI - Disrupting a Criminal Scam Operation
 Source: OpenAI Newsroom
-Published: Jul 31, 2026
-Why it matters: Safety, security, or policy update
-Summary: OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.
-Link: https://openai.com/index/advancing-responsible-ai-across-europe
-
-### OpenAI - Univé builds an AI-ready workforce
-Source: OpenAI Newsroom
-Published: Jul 31, 2026
-Why it matters: Safety, security, or policy update
-Summary: See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.
-Link: https://openai.com/index/unive
+Published: Jul 30, 2026
+Why it matters: Corporate move or major external event
+Summary: OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.
+Link: https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation
 
 ## Official Company Updates
 
-### OpenAI - Building abundant intelligence
+### OpenAI - Ten advances in mathematics and theoretical computer science
 Source: OpenAI Newsroom
 Published: Jul 31, 2026
 Why it matters: Routine official update
-Summary: A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.
-Link: https://openai.com/index/building-abundant-intelligence
+Summary: OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.
+Link: https://openai.com/index/ten-advances-in-mathematics
 
-### Google - Gemini Spark now integrates with Chrome
-Source: Google AI
-Published: Jul 30, 2026
+### Microsoft - How SNTUC’s Siow Shong Seng is setting the tone for an AI-ready workforce in Singapore with Microsoft 365 Copilot
+Source: Microsoft AI
+Published: Jul 31, 2026
 Why it matters: Routine official update
-Summary: An overview of the latest Gemini Spark updates, including new Chrome web browsing capabilities.
-Link: https://blog.google/innovation-and-ai/products/gemini-app/gemini-spark-updates-july-2026
+Summary: How SNTUC’s Siow Shong Seng is setting the tone for an AI-ready workforce in Singapore with Microsoft 365 Copilot
+Link: https://news.microsoft.com/source/asia/features/how-sntucs-siow-shong-seng-is-setting-the-tone-for-an-ai-ready-workforce-in-singapore-with-microsoft-365-copilot
