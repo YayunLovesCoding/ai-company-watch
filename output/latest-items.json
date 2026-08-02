@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T15:03:15.383Z",
+  "generatedAt": "2026-08-02T15:05:21.002Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -78,7 +78,7 @@
   "totals": {
     "fetched": 46,
     "deduped": 24,
-    "new": 9,
+    "new": 0,
     "byKind": {
       "official": 11,
       "external": 13
@@ -115,11 +115,11 @@
       "title": "Oracle stock jumps as Google Gemini partnership turns OCI into the Switzerland of enterprise AI",
       "summary": "",
       "publishedAt": "2026-07-30T15:17:56.000Z",
-      "publisher": "Startup Fortune",
+      "publisher": "startupfortune.com",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 7,
+        "score": 6,
         "reason": "Corporate move or major external event"
       }
     },
@@ -143,44 +143,6 @@
       }
     },
     {
-      "id": "c5ad624a6ffb30ef26980a02c1054847c6adbe53",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-      "title": "Disrupting a Criminal Scam Operation",
-      "summary": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
-      "publishedAt": "2026-07-31T00:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "23136b0d0b859d8aaebaa7807d04a89cd42c96b6",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZlJjZ2I3cHVOdGtLV21PUWc3bm9DUklIejB4M2dwWDNrRDZVMWxsSDhjeWp0YWFLZVcxUzRFYXZmdXZIVC1oN1JOc1JCSHlQZk1YUElLZjV4VDduZGZVdk5MWlhqNk1LLVB5cHZvX0k4ME84UmdJQTlIajd6cEVGQ0R0bTlYdk9Oc21GTQ?oc=5",
-      "title": "AI security concerns grow after Anthropic, OpenAI reveal hacking incidents during testing",
-      "summary": "",
-      "publishedAt": "2026-07-31T20:46:56.000Z",
-      "publisher": "Yahoo",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
       "id": "5cd0ce9c7ed6f80ccb0692b77b58aa6be6a5a4ae",
       "company": "OpenAI",
       "sourceKind": "external",
@@ -192,25 +154,6 @@
       "summary": "",
       "publishedAt": "2026-07-31T19:46:30.000Z",
       "publisher": "Bloomberg.com",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "8e2acfc9345b0b48c3790aa6e7c0b2a410ad7fe8",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQWFqVXBwZXo4OUpkZTlCeVZVUWI3LXh3SUp0aURJWmxFWFJUbTlsaDZyLXU2NFNlYkJSYVhjdERKSFRnejkzYUczX0I1dXhZQXBCclVkelJtNURtTjdCTzVPN2NUTDVnYnhCODFNRklFaVdMdi1xVFRMNE5ZMFZJZWptMGdNSUR5c1NvZzlxaw?oc=5",
-      "title": "Anthropic Finds Claude Accessed Three Companies' Systems in Security Tests After OpenAI's Hugging Face Breach",
-      "summary": "",
-      "publishedAt": "2026-07-31T04:05:35.000Z",
-      "publisher": "Yahoo Finance UK",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -235,6 +178,25 @@
         "bucket": "critical",
         "score": 5,
         "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "c5ad624a6ffb30ef26980a02c1054847c6adbe53",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+      "title": "Disrupting a Criminal Scam Operation",
+      "summary": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
+      "publishedAt": "2026-07-31T00:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Corporate move or major external event"
       }
     },
     {
@@ -295,112 +257,17 @@
       }
     },
     {
-      "id": "5a92b3f4a57ab85f5add77c7490ea7d1ea4d1255",
+      "id": "8e2acfc9345b0b48c3790aa6e7c0b2a410ad7fe8",
       "company": "Anthropic",
       "sourceKind": "external",
       "sourceId": "external-anthropic-major",
       "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcElyZExRV1FtY3pSTWdfekpKTXR5SDRIRnNUN0pqWWFybXpNdDZjY1l3djlKclU4eHRiODk0c3VvOEUzakpiM0FVaVIwblUwNGxPUE80UkRCOUtNRlozelFJN3V5VzVnQmpHUm02QmlLNjF5MUpaWTJuaE9MSldNeDFsd2tzTlEta3Rtc0RzUEg2THBKYy1Qc0ZNdHVaM1NwRzE3Q19UYlFXS3RUS3FfT3NYa1J2VnNSUEE?oc=5",
-      "title": "FAR.AI’s Adam Gleave on Anthropic AI breach: AI models are now very capable",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQWFqVXBwZXo4OUpkZTlCeVZVUWI3LXh3SUp0aURJWmxFWFJUbTlsaDZyLXU2NFNlYkJSYVhjdERKSFRnejkzYUczX0I1dXhZQXBCclVkelJtNURtTjdCTzVPN2NUTDVnYnhCODFNRklFaVdMdi1xVFRMNE5ZMFZJZWptMGdNSUR5c1NvZzlxaw?oc=5",
+      "title": "Anthropic Finds Claude Accessed Three Companies' Systems in Security Tests After OpenAI's Hugging Face Breach",
       "summary": "",
-      "publishedAt": "2026-07-31T11:44:00.000Z",
-      "publisher": "CNBC",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "213da91fe2887d3bf9c64c3ac6971179b6f240a8",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWFd6Y3J1QUQwODAyV1NkMXp4NzF2UFlaWlZBVlY2WDNMbWRPazJVOW4taF9ZWnZTOE10dm5jTnlldWJyRW1sbm5sRmdXUWd6Um4zX09KVlRTTDVta3JIY1h6VllidVFIYzkyUWhGeGdiUFdiRUdnRXBCdlRIV2F3Z1RudmlhYlU2VDRNWjRsc01yM3FfblYyY1JSSDZCVmhrbW05TXNTb2p2VDJRSGlEN2tfcnhfQk5sSTJMRFhoYlBxMWFa?oc=5",
-      "title": "German minister urges faster AI self-sufficiency after OpenAI test breach",
-      "summary": "",
-      "publishedAt": "2026-07-30T20:18:26.000Z",
-      "publisher": "Reuters",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "2f422bd27e709fa3ec707bcc8ebb0a0c4aab7e3e",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMHRYM3p1VjVqUzZZOG92clpYeDdfdDUyMFhtZFdYQUowZ2pSVGxDcXZ3clZ3dXNnV1pCSkNFVWpvME1VLXFrUnpYTXdDZGJxbE9kY0tOUm5rS1lBZ1RqWktWZjNaXzhXNjNIbDhWNFhsMEJVTkluQlVJZXpaQUdMX3NrMHdQOF9LMDdKN0VhZ3g5SHRKdkVqYlN2Nl9lZjdHYnc3TmI1QW01X29nUDNwWg?oc=5",
-      "title": "Meta Reports $279 Billion in Future Data Center Leases for AI",
-      "summary": "",
-      "publishedAt": "2026-07-30T18:47:15.000Z",
-      "publisher": "Bloomberg.com",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "d04df178dc9d36787aafd017c06de8ad5bab67c0",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPelRYN3dCR2RYaXpQRlNuMTJMdmNPck5Jemg1Z1hsWEhzbTRNNkxmZnVBS0lmd05wMkRfdXJfeVViQmNWOFJfTEN5VXoyMWVnYTNaT0lkMVJXc3NONGwtZGVYQVBmZnR2YWljRHlnQTJodG9QUTVWSlZhS3VRbzROMFQ2SkRpdw?oc=5",
-      "title": "Vertiv CEO: How Google, Meta, Microsoft earnings are 'reinforcing' data center acceleration",
-      "summary": "",
-      "publishedAt": "2026-07-30T16:28:20.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "0c22558867f4c5f3cc7b5e2e0ed09215199a6892",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNU3FhSEIwNEgydVFTelpvX0x0NTlVUXRjVDd1NFgzcUhmbmRyUk0xdl9saVY3RDJaNXFWejhoMFhJY1JjNS16SjNSc1VhSlhEbk1BVmxYenYteDE3NjhJcTd3TlJqTkJ3Y2tXR0pkM2pUV2NfcjBsWk0yMlhNNGowM09HS00wRklZSlBURUk2eHZ2TV9QTVE?oc=5",
-      "title": "Meta's future AI data center lease obligations swell to over a quarter trillion dollars",
-      "summary": "",
-      "publishedAt": "2026-07-30T15:45:02.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "b86dc435d64acf26bfa3904c5715410b2249b34e",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
-      "title": "Advancing responsible AI across Europe",
-      "summary": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
-      "publishedAt": "2026-07-31T15:00:00.000Z",
-      "publisher": "",
+      "publishedAt": "2026-07-31T04:05:35.000Z",
+      "publisher": "Yahoo Finance UK",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -409,17 +276,17 @@
       }
     },
     {
-      "id": "4879819590782b03bb41bffc1653e179d4a163a4",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/unive",
-      "title": "Univé builds an AI-ready workforce",
-      "summary": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
-      "publishedAt": "2026-07-31T07:00:00.000Z",
-      "publisher": "",
+      "id": "7b8bc139f14e080b34251858edd0e394a32c5878",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMGNBMlpSYTRYVlFfN25yZjdMQzY3M0xHelhiNE5BSGdUTGFXN2Izd01WV2l4eEcyRWo0bXNiUkd3RjFVd2M0MlFFZUVHZEpDZERHM3E5QktlQnhucWg2VHhfa3dtNEJwYVNDVEpCWFVWY3NIdE92U3hiVFVTb1BaRmpfYmpsb0VtYk5xRnQyRjA4c0RSaUVHZjQ1WFI2NFg1cy1DUk1UVmZyTDJUTUNFOUlvU00?oc=5",
+      "title": "Anthropic says its own AI models breached three companies during security tests",
+      "summary": "",
+      "publishedAt": "2026-07-31T01:06:54.000Z",
+      "publisher": "techcrunch.com",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -485,6 +352,139 @@
       }
     },
     {
+      "id": "5a92b3f4a57ab85f5add77c7490ea7d1ea4d1255",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcElyZExRV1FtY3pSTWdfekpKTXR5SDRIRnNUN0pqWWFybXpNdDZjY1l3djlKclU4eHRiODk0c3VvOEUzakpiM0FVaVIwblUwNGxPUE80UkRCOUtNRlozelFJN3V5VzVnQmpHUm02QmlLNjF5MUpaWTJuaE9MSldNeDFsd2tzTlEta3Rtc0RzUEg2THBKYy1Qc0ZNdHVaM1NwRzE3Q19UYlFXS3RUS3FfT3NYa1J2VnNSUEE?oc=5",
+      "title": "FAR.AI’s Adam Gleave on Anthropic AI breach: AI models are now very capable",
+      "summary": "",
+      "publishedAt": "2026-07-31T11:44:00.000Z",
+      "publisher": "CNBC",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "213da91fe2887d3bf9c64c3ac6971179b6f240a8",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWFd6Y3J1QUQwODAyV1NkMXp4NzF2UFlaWlZBVlY2WDNMbWRPazJVOW4taF9ZWnZTOE10dm5jTnlldWJyRW1sbm5sRmdXUWd6Um4zX09KVlRTTDVta3JIY1h6VllidVFIYzkyUWhGeGdiUFdiRUdnRXBCdlRIV2F3Z1RudmlhYlU2VDRNWjRsc01yM3FfblYyY1JSSDZCVmhrbW05TXNTb2p2VDJRSGlEN2tfcnhfQk5sSTJMRFhoYlBxMWFa?oc=5",
+      "title": "German minister urges faster AI self-sufficiency after OpenAI test breach",
+      "summary": "",
+      "publishedAt": "2026-07-30T20:18:26.000Z",
+      "publisher": "Reuters",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "2f422bd27e709fa3ec707bcc8ebb0a0c4aab7e3e",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMHRYM3p1VjVqUzZZOG92clpYeDdfdDUyMFhtZFdYQUowZ2pSVGxDcXZ3clZ3dXNnV1pCSkNFVWpvME1VLXFrUnpYTXdDZGJxbE9kY0tOUm5rS1lBZ1RqWktWZjNaXzhXNjNIbDhWNFhsMEJVTkluQlVJZXpaQUdMX3NrMHdQOF9LMDdKN0VhZ3g5SHRKdkVqYlN2Nl9lZjdHYnc3TmI1QW01X29nUDNwWg?oc=5",
+      "title": "Meta Reports $279 Billion in Future Data Center Leases for AI",
+      "summary": "",
+      "publishedAt": "2026-07-30T18:47:15.000Z",
+      "publisher": "Bloomberg.com",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "d04df178dc9d36787aafd017c06de8ad5bab67c0",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPelRYN3dCR2RYaXpQRlNuMTJMdmNPck5Jemg1Z1hsWEhzbTRNNkxmZnVBS0lmd05wMkRfdXJfeVViQmNWOFJfTEN5VXoyMWVnYTNaT0lkMVJXc3NONGwtZGVYQVBmZnR2YWljRHlnQTJodG9QUTVWSlZhS3VRbzROMFQ2SkRpdw?oc=5",
+      "title": "Vertiv CEO: How Google, Meta, Microsoft earnings are 'reinforcing' data center acceleration",
+      "summary": "",
+      "publishedAt": "2026-07-30T16:28:20.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "0c22558867f4c5f3cc7b5e2e0ed09215199a6892",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNU3FhSEIwNEgydVFTelpvX0x0NTlVUXRjVDd1NFgzcUhmbmRyUk0xdl9saVY3RDJaNXFWejhoMFhJY1JjNS16SjNSc1VhSlhEbk1BVmxYenYteDE3NjhJcTd3TlJqTkJ3Y2tXR0pkM2pUV2NfcjBsWk0yMlhNNGowM09HS00wRklZSlBURUk2eHZ2TV9QTVE?oc=5",
+      "title": "Meta's future AI data center lease obligations swell to over a quarter trillion dollars",
+      "summary": "",
+      "publishedAt": "2026-07-30T15:45:02.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "b86dc435d64acf26bfa3904c5715410b2249b34e",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
+      "title": "Advancing responsible AI across Europe",
+      "summary": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
+      "publishedAt": "2026-07-31T15:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "4879819590782b03bb41bffc1653e179d4a163a4",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/unive",
+      "title": "Univé builds an AI-ready workforce",
+      "summary": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
+      "publishedAt": "2026-07-31T07:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
       "id": "3a0b4572422c1a8cbc95ae7fb7158fc8dc49f9d0",
       "company": "Anthropic",
       "sourceKind": "official",
@@ -542,178 +542,6 @@
       }
     }
   ],
-  "newItems": [
-    {
-      "id": "21c41e88add3a613cf280c5e57215e4c14c41292",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYTc2SUhrNmVER0NvNW9nZHBwbklFMlA0eTNSRFZETXpfSWpVYU1wOUhaMDRLUnRVSEhtRzByeEktX2FEX1ZzaThNMnpZMW9JdVZDZkVRTEQ4UjdlakFPVXZTUjZaM2JOUkhpN1BxeEU4bWJuSjNkUldBNXRVWDkyYWVXVUlKM0VEZU5wZklfX2FJRkQ0bmVybTIyY0xpbHd6aGtIVmZ3YU5ocGdsdFlNeXdOQlBXOUsyZnZtZA?oc=5",
-      "title": "EXCLUSIVE: OpenAI finds evidence other AI agents escaped containment as it widens hacking probe",
-      "summary": "",
-      "publishedAt": "2026-07-31T20:16:00.000Z",
-      "publisher": "Reuters",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "c5ad624a6ffb30ef26980a02c1054847c6adbe53",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-      "title": "Disrupting a Criminal Scam Operation",
-      "summary": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
-      "publishedAt": "2026-07-31T00:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "23136b0d0b859d8aaebaa7807d04a89cd42c96b6",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZlJjZ2I3cHVOdGtLV21PUWc3bm9DUklIejB4M2dwWDNrRDZVMWxsSDhjeWp0YWFLZVcxUzRFYXZmdXZIVC1oN1JOc1JCSHlQZk1YUElLZjV4VDduZGZVdk5MWlhqNk1LLVB5cHZvX0k4ME84UmdJQTlIajd6cEVGQ0R0bTlYdk9Oc21GTQ?oc=5",
-      "title": "AI security concerns grow after Anthropic, OpenAI reveal hacking incidents during testing",
-      "summary": "",
-      "publishedAt": "2026-07-31T20:46:56.000Z",
-      "publisher": "Yahoo",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "5cd0ce9c7ed6f80ccb0692b77b58aa6be6a5a4ae",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOa0RRWm94MnZvTW44UkNVUVJwN0JodGVjRDQwc0FRRXJYM2xWcERZQWVobERUbEJOX1NUODB4T2JxTlZScEhqNGFCdHVQYk5WajJhRmZDcTRKbXlYNFhjZm1IbUZFM2FpbWlaQV9jN0NYdlR0a2tCMXhMWjNPWU1YbXlIdGhhUnBLY0x6NXlRcHFFMkVHNTVLMmo0bW91Mjl0aWFTX001YlUwU24yMUE?oc=5",
-      "title": "Anthropic, OpenAI Cyber Failures Point to US Security Risks",
-      "summary": "",
-      "publishedAt": "2026-07-31T19:46:30.000Z",
-      "publisher": "Bloomberg.com",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "3cd121adc4e4cd5911e27551b9322979fa64267f",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ2VxeG1UWGl2VWRWRnZQQ1ZNWnhiRjRTdm8ydzhtQzY0Ym1QQlhLM1NXTEt1VmtRSDRnVFFBaFJfWTA0SDZRTWVZX050VVAwSldKSW9BX2FKdERfbl9zQ0tzUU0tNGU2NjVHeHJxbVBKVlM0Q1V2ZW9RdUdKOGw2ZE9FdHFGUVJlMU5LMDh2T1RKMEw2WFVlOU5B?oc=5",
-      "title": "Trump Considers AI Controls After OpenAI Breach but Warns Against Falling Behind China: 'We're Also Making Sure That We Lead....'",
-      "summary": "",
-      "publishedAt": "2026-07-31T23:30:22.000Z",
-      "publisher": "Yahoo",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "5a92b3f4a57ab85f5add77c7490ea7d1ea4d1255",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcElyZExRV1FtY3pSTWdfekpKTXR5SDRIRnNUN0pqWWFybXpNdDZjY1l3djlKclU4eHRiODk0c3VvOEUzakpiM0FVaVIwblUwNGxPUE80UkRCOUtNRlozelFJN3V5VzVnQmpHUm02QmlLNjF5MUpaWTJuaE9MSldNeDFsd2tzTlEta3Rtc0RzUEg2THBKYy1Qc0ZNdHVaM1NwRzE3Q19UYlFXS3RUS3FfT3NYa1J2VnNSUEE?oc=5",
-      "title": "FAR.AI’s Adam Gleave on Anthropic AI breach: AI models are now very capable",
-      "summary": "",
-      "publishedAt": "2026-07-31T11:44:00.000Z",
-      "publisher": "CNBC",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "0c22558867f4c5f3cc7b5e2e0ed09215199a6892",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNU3FhSEIwNEgydVFTelpvX0x0NTlVUXRjVDd1NFgzcUhmbmRyUk0xdl9saVY3RDJaNXFWejhoMFhJY1JjNS16SjNSc1VhSlhEbk1BVmxYenYteDE3NjhJcTd3TlJqTkJ3Y2tXR0pkM2pUV2NfcjBsWk0yMlhNNGowM09HS00wRklZSlBURUk2eHZ2TV9QTVE?oc=5",
-      "title": "Meta's future AI data center lease obligations swell to over a quarter trillion dollars",
-      "summary": "",
-      "publishedAt": "2026-07-30T15:45:02.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "6d58997b466ca59f729e755e523db112666f9bfc",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/ten-advances-in-mathematics",
-      "title": "Ten advances in mathematics and theoretical computer science",
-      "summary": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
-      "publishedAt": "2026-08-01T00:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "b7761498cad3d3a1699083ea7e96ce7f10ea6b30",
-      "company": "Microsoft",
-      "sourceKind": "official",
-      "sourceId": "microsoft-ai",
-      "sourceLabel": "Microsoft AI",
-      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
-      "url": "https://news.microsoft.com/source/asia/features/how-sntucs-siow-shong-seng-is-setting-the-tone-for-an-ai-ready-workforce-in-singapore-with-microsoft-365-copilot",
-      "title": "How SNTUC’s Siow Shong Seng is setting the tone for an AI-ready workforce in Singapore with Microsoft 365 Copilot",
-      "summary": "How SNTUC’s Siow Shong Seng is setting the tone for an AI-ready workforce in Singapore with Microsoft 365 Copilot",
-      "publishedAt": "2026-07-31T16:18:59.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    }
-  ],
+  "newItems": [],
   "errors": []
 }
