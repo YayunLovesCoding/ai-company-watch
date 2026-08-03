@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T15:05:21.002Z",
+  "generatedAt": "2026-08-03T16:28:30.693Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -76,15 +76,34 @@
     }
   ],
   "totals": {
-    "fetched": 46,
+    "fetched": 43,
     "deduped": 24,
-    "new": 0,
+    "new": 4,
     "byKind": {
-      "official": 11,
-      "external": 13
+      "official": 10,
+      "external": 14
     }
   },
   "items": [
+    {
+      "id": "df25a679fbbbbe8a0a7ac2760c87465352f91e9e",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN1Ewa1FBcUlHNWdqMHhlMG5TQVBtak1EWjZnVVdLUjJKODg0RW94Y21hcU9uVjdCRm1EYnJrc1N0VUxFTlExZzN5QTFzWHdydmtYODNvbUJyT3lIM0dQdC1JOHRNaXh4VUdmMjN2UXQzandFLTM0bUU4WklSekhOMFZQc2VCdFNDVmdteEtYa2RSX3VvN3B6QXJyMXY?oc=5",
+      "title": "ArcelorMittal expands Microsoft partnership on cloud",
+      "summary": "",
+      "publishedAt": "2026-08-03T06:55:00.000Z",
+      "publisher": "Reuters",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
     {
       "id": "21c41e88add3a613cf280c5e57215e4c14c41292",
       "company": "OpenAI",
@@ -100,7 +119,7 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 7,
+        "score": 6,
         "reason": "Corporate move or major external event"
       }
     },
@@ -115,7 +134,7 @@
       "title": "Oracle stock jumps as Google Gemini partnership turns OCI into the Switzerland of enterprise AI",
       "summary": "",
       "publishedAt": "2026-07-30T15:17:56.000Z",
-      "publisher": "startupfortune.com",
+      "publisher": "Startup Fortune",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -134,7 +153,7 @@
       "title": "Oracle Gains After Expanding Google Gemini AI Partnership",
       "summary": "",
       "publishedAt": "2026-07-30T14:16:57.000Z",
-      "publisher": "Bloomberg.com",
+      "publisher": "Bloomberg",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -143,41 +162,60 @@
       }
     },
     {
-      "id": "5cd0ce9c7ed6f80ccb0692b77b58aa6be6a5a4ae",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOa0RRWm94MnZvTW44UkNVUVJwN0JodGVjRDQwc0FRRXJYM2xWcERZQWVobERUbEJOX1NUODB4T2JxTlZScEhqNGFCdHVQYk5WajJhRmZDcTRKbXlYNFhjZm1IbUZFM2FpbWlaQV9jN0NYdlR0a2tCMXhMWjNPWU1YbXlIdGhhUnBLY0x6NXlRcHFFMkVHNTVLMmo0bW91Mjl0aWFTX001YlUwU24yMUE?oc=5",
-      "title": "Anthropic, OpenAI Cyber Failures Point to US Security Risks",
-      "summary": "",
-      "publishedAt": "2026-07-31T19:46:30.000Z",
-      "publisher": "Bloomberg.com",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "1ae3b0fdca20bfa83f42991ce792e3e61af787d0",
+      "id": "b454b34c3da0e115740976f88fa12659f75814cd",
       "company": "Meta",
       "sourceKind": "external",
       "sourceId": "external-meta-major",
       "sourceLabel": "Major External News - Meta",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOW5ObVB2b3BxUUVTNFpvZHRveExFRkIzcWRKeWJXbVRNeEtuTWk1N0p0T1E0eVN0U1lBbldqaTVMQVBhQzd6S3FCYnFpX05fVVBJTUx0STFqNVJxTUFVSkxqd2xITW9vVkFIVjZMYzJGVlVvOXBlOUR2OU40VjlwRE1BZGxtclhNaVUzUmdiRF9RUXZLSzZMYQ?oc=5",
-      "title": "Meta (META) Launches $14 Billion Texas AI Data Center Campus With BlackRock",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeFFVejhlUVFTb0tQRDZmbXVMRHZJT0JtQXZzaVR6YkV2bk1vTldRVFNRd0RIUEJWdlpQWVQ3Wm56UWVSN205bmtVUnBRUGxsSVhwNDhOSU5YM2NHSlZOQnpUWjhvR2NVT29YQzAxNWV5TG5OVm5pT214dGtVVS1hQ0RaUEZsT3RMaEY0bzFYS19iNTVLS1VfcHc1Tmg2V3ZJaGc?oc=5",
+      "title": "Meta, BlackRock partner on $14 billion El Paso data center venture",
       "summary": "",
-      "publishedAt": "2026-07-29T18:08:40.000Z",
-      "publisher": "Yahoo Finance",
+      "publishedAt": "2026-07-28T15:24:11.000Z",
+      "publisher": "Reuters",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "82019b46d63e56862589c1ac5bc0a36398883e0d",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOM3ZMd1k2ekw5RHM3RlBQamEtQW9PVUhFMDhsTVVvYjhwelg2blBMX01uRTFTNGhJd2hrNGNUejVKZVVCdVN1WV9Dd1Y3OEk1TUYxVVZvSnVNd3BtMTBtcmlrSk8wM1AyVk1zSWVZTkVXVUl2bE8tT2FZNVB6WGR2UHlOS0ZsMnBlWFRqdy03dnNJVVpVTW5KNDBlWXNNT0RmMThEZ2JUVGpOalk?oc=5",
+      "title": "Meta, BlackRock Plan to Invest in $14 Billion Data Center",
+      "summary": "",
+      "publishedAt": "2026-07-28T11:37:25.000Z",
+      "publisher": "Bloomberg",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "c8dbf3a5471185bd36f938005cdd26843342c08a",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSEdYNC1GRnN1SHdidk5mZmRheFREUmxiM3NpZzYxRi1DU3Q2XzY3V3RzZHJ2VEZYZl95Tnc5dlZmRklhQUQwTjczeUZLTHF0ZTVYUEdiZzBlaFBCOGRHbi1FX24tMFlWTzRmeDlFV2lEYzR3bnhEUWdJNXZQMklDSUVraXAyTG5wVUlocFBuSTVxR19lc0lF?oc=5",
+      "title": "Microsoft's Project Perception AI Now Handles 90% of Security Work",
+      "summary": "",
+      "publishedAt": "2026-08-03T02:20:25.000Z",
+      "publisher": "Startup Fortune",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
         "score": 5,
-        "reason": "Flagship model or product launch"
+        "reason": "Safety, security, or policy update"
       }
     },
     {
@@ -193,25 +231,6 @@
       "publishedAt": "2026-07-31T00:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "be0b73b30b53df2dc6fb55725ebe314601eb2211",
-      "company": "Anthropic",
-      "sourceKind": "official",
-      "sourceId": "anthropic-news",
-      "sourceLabel": "Anthropic News",
-      "homepageUrl": "https://www.anthropic.com/news",
-      "url": "https://www.anthropic.com/news/cognizant-anthropic",
-      "title": "Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients",
-      "summary": "",
-      "publishedAt": "2026-07-27T00:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "anchor",
       "classification": {
         "bucket": "critical",
         "score": 5,
@@ -238,36 +257,17 @@
       }
     },
     {
-      "id": "3cd121adc4e4cd5911e27551b9322979fa64267f",
+      "id": "5cd0ce9c7ed6f80ccb0692b77b58aa6be6a5a4ae",
       "company": "OpenAI",
       "sourceKind": "external",
       "sourceId": "external-openai-major",
       "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ2VxeG1UWGl2VWRWRnZQQ1ZNWnhiRjRTdm8ydzhtQzY0Ym1QQlhLM1NXTEt1VmtRSDRnVFFBaFJfWTA0SDZRTWVZX050VVAwSldKSW9BX2FKdERfbl9zQ0tzUU0tNGU2NjVHeHJxbVBKVlM0Q1V2ZW9RdUdKOGw2ZE9FdHFGUVJlMU5LMDh2T1RKMEw2WFVlOU5B?oc=5",
-      "title": "Trump Considers AI Controls After OpenAI Breach but Warns Against Falling Behind China: 'We're Also Making Sure That We Lead....'",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOa0RRWm94MnZvTW44UkNVUVJwN0JodGVjRDQwc0FRRXJYM2xWcERZQWVobERUbEJOX1NUODB4T2JxTlZScEhqNGFCdHVQYk5WajJhRmZDcTRKbXlYNFhjZm1IbUZFM2FpbWlaQV9jN0NYdlR0a2tCMXhMWjNPWU1YbXlIdGhhUnBLY0x6NXlRcHFFMkVHNTVLMmo0bW91Mjl0aWFTX001YlUwU24yMUE?oc=5",
+      "title": "Anthropic, OpenAI Cyber Failures Point to US Security Risks",
       "summary": "",
-      "publishedAt": "2026-07-31T23:30:22.000Z",
-      "publisher": "Yahoo",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "8e2acfc9345b0b48c3790aa6e7c0b2a410ad7fe8",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQWFqVXBwZXo4OUpkZTlCeVZVUWI3LXh3SUp0aURJWmxFWFJUbTlsaDZyLXU2NFNlYkJSYVhjdERKSFRnejkzYUczX0I1dXhZQXBCclVkelJtNURtTjdCTzVPN2NUTDVnYnhCODFNRklFaVdMdi1xVFRMNE5ZMFZJZWptMGdNSUR5c1NvZzlxaw?oc=5",
-      "title": "Anthropic Finds Claude Accessed Three Companies' Systems in Security Tests After OpenAI's Hugging Face Breach",
-      "summary": "",
-      "publishedAt": "2026-07-31T04:05:35.000Z",
-      "publisher": "Yahoo Finance UK",
+      "publishedAt": "2026-07-31T19:46:30.000Z",
+      "publisher": "Bloomberg",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -276,17 +276,17 @@
       }
     },
     {
-      "id": "7b8bc139f14e080b34251858edd0e394a32c5878",
+      "id": "bf99f082c381a5107e4c98da0e18836fc7b224b3",
       "company": "Anthropic",
       "sourceKind": "external",
       "sourceId": "external-anthropic-major",
       "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMGNBMlpSYTRYVlFfN25yZjdMQzY3M0xHelhiNE5BSGdUTGFXN2Izd01WV2l4eEcyRWo0bXNiUkd3RjFVd2M0MlFFZUVHZEpDZERHM3E5QktlQnhucWg2VHhfa3dtNEJwYVNDVEpCWFVWY3NIdE92U3hiVFVTb1BaRmpfYmpsb0VtYk5xRnQyRjA4c0RSaUVHZjQ1WFI2NFg1cy1DUk1UVmZyTDJUTUNFOUlvU00?oc=5",
-      "title": "Anthropic says its own AI models breached three companies during security tests",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQ0FyTjVjNWQzY2dYblVWRlNJdGJwYkVuVVlXbkhBNURXR2VYenltaUVUR2I0emloLVB5S0dBTnpwUDJ0Q013dU1DQmZrLVhPeXcxY09pb0hyS3R4Q0ZFa2x4Y3Y5bzNJMGdtOVZZWE5iMFpjNmNLNjNOZlNKRnlBcmdRVW1NTUdrX1VYRk1nYjBKM3JCa3IwUENVbHRQNW44b25HRk91MUxNVVlDNXNxYTJWNjhLMHo0SzVqY203Yw?oc=5",
+      "title": "Anthropic's AI hacked three companies during tests, highlighting growing security risks",
       "summary": "",
-      "publishedAt": "2026-07-31T01:06:54.000Z",
-      "publisher": "techcrunch.com",
+      "publishedAt": "2026-07-30T23:13:00.000Z",
+      "publisher": "Reuters",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -352,6 +352,25 @@
       }
     },
     {
+      "id": "3cd121adc4e4cd5911e27551b9322979fa64267f",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ2VxeG1UWGl2VWRWRnZQQ1ZNWnhiRjRTdm8ydzhtQzY0Ym1QQlhLM1NXTEt1VmtRSDRnVFFBaFJfWTA0SDZRTWVZX050VVAwSldKSW9BX2FKdERfbl9zQ0tzUU0tNGU2NjVHeHJxbVBKVlM0Q1V2ZW9RdUdKOGw2ZE9FdHFGUVJlMU5LMDh2T1RKMEw2WFVlOU5B?oc=5",
+      "title": "Trump Considers AI Controls After OpenAI Breach but Warns Against Falling Behind China: 'We're Also Making Sure That We Lead....'",
+      "summary": "",
+      "publishedAt": "2026-07-31T23:30:22.000Z",
+      "publisher": "Yahoo",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
       "id": "5a92b3f4a57ab85f5add77c7490ea7d1ea4d1255",
       "company": "Anthropic",
       "sourceKind": "external",
@@ -400,7 +419,7 @@
       "title": "Meta Reports $279 Billion in Future Data Center Leases for AI",
       "summary": "",
       "publishedAt": "2026-07-30T18:47:15.000Z",
-      "publisher": "Bloomberg.com",
+      "publisher": "Bloomberg",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -409,36 +428,17 @@
       }
     },
     {
-      "id": "d04df178dc9d36787aafd017c06de8ad5bab67c0",
+      "id": "3278c953a5fae3f337172d5c620145059c05581d",
       "company": "Meta",
       "sourceKind": "external",
       "sourceId": "external-meta-major",
       "sourceLabel": "Major External News - Meta",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPelRYN3dCR2RYaXpQRlNuMTJMdmNPck5Jemg1Z1hsWEhzbTRNNkxmZnVBS0lmd05wMkRfdXJfeVViQmNWOFJfTEN5VXoyMWVnYTNaT0lkMVJXc3NONGwtZGVYQVBmZnR2YWljRHlnQTJodG9QUTVWSlZhS3VRbzROMFQ2SkRpdw?oc=5",
-      "title": "Vertiv CEO: How Google, Meta, Microsoft earnings are 'reinforcing' data center acceleration",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNa2JKajBVb1pNbnU4NUtQVk84dUtVZTh0Sk9yRV8zU0cwakZ3cjVrN0lfNHd3TmxqMHJTT0E2d0lFSlBEV2x1NXBQZEpCcTMxby1GelgzSXJMN2lqV1NiUjRkVzU1M01ZWmdTRkhEU0hCeUtyUlpINUxfRkpzQlhRYkxQT1VQSXZGWjV3WmlQS3lNZUFod0dYbzlaemFCcUtkQXR1NllYaHVyVnJHZVE?oc=5",
+      "title": "BlackRock Raises $12.5 Billion of Debt for Meta Data Center",
       "summary": "",
-      "publishedAt": "2026-07-30T16:28:20.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "0c22558867f4c5f3cc7b5e2e0ed09215199a6892",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNU3FhSEIwNEgydVFTelpvX0x0NTlVUXRjVDd1NFgzcUhmbmRyUk0xdl9saVY3RDJaNXFWejhoMFhJY1JjNS16SjNSc1VhSlhEbk1BVmxYenYteDE3NjhJcTd3TlJqTkJ3Y2tXR0pkM2pUV2NfcjBsWk0yMlhNNGowM09HS00wRklZSlBURUk2eHZ2TV9QTVE?oc=5",
-      "title": "Meta's future AI data center lease obligations swell to over a quarter trillion dollars",
-      "summary": "",
-      "publishedAt": "2026-07-30T15:45:02.000Z",
-      "publisher": "Yahoo Finance",
+      "publishedAt": "2026-07-28T18:10:15.000Z",
+      "publisher": "Bloomberg",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -504,16 +504,16 @@
       }
     },
     {
-      "id": "6d58997b466ca59f729e755e523db112666f9bfc",
-      "company": "OpenAI",
+      "id": "c95f020b0a6db62a1d951660704e72db15e2b60d",
+      "company": "Google",
       "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/ten-advances-in-mathematics",
-      "title": "Ten advances in mathematics and theoretical computer science",
-      "summary": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
-      "publishedAt": "2026-08-01T00:00:00.000Z",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026",
+      "title": "Inside our 353,000-person vibe coding course",
+      "summary": "Kaggle’s AI Agents Intensive with Google brought learners together in a no-cost course to build and deploy the next frontier of AI.",
+      "publishedAt": "2026-08-03T15:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -523,16 +523,94 @@
       }
     },
     {
-      "id": "b7761498cad3d3a1699083ea7e96ce7f10ea6b30",
-      "company": "Microsoft",
+      "id": "97cd97d27d220f15f9bc8a69f1f4b5eea602a9e8",
+      "company": "Anthropic",
       "sourceKind": "official",
-      "sourceId": "microsoft-ai",
-      "sourceLabel": "Microsoft AI",
-      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
-      "url": "https://news.microsoft.com/source/asia/features/how-sntucs-siow-shong-seng-is-setting-the-tone-for-an-ai-ready-workforce-in-singapore-with-microsoft-365-copilot",
-      "title": "How SNTUC’s Siow Shong Seng is setting the tone for an AI-ready workforce in Singapore with Microsoft 365 Copilot",
-      "summary": "How SNTUC’s Siow Shong Seng is setting the tone for an AI-ready workforce in Singapore with Microsoft 365 Copilot",
-      "publishedAt": "2026-07-31T16:18:59.000Z",
+      "sourceId": "anthropic-engineering",
+      "sourceLabel": "Anthropic Engineering",
+      "homepageUrl": "https://www.anthropic.com/engineering",
+      "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
+      "title": "Featured How we contain Claude across products As agents grow more capable, so does their potential blast radius. The engineering question is how to cap it. Here’s what we’ve learned building containment for claude.ai, Claude Code, and Cowork.",
+      "summary": "",
+      "publishedAt": null,
+      "publisher": "",
+      "discoveryMethod": "anchor",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Technical or research update"
+      }
+    }
+  ],
+  "newItems": [
+    {
+      "id": "df25a679fbbbbe8a0a7ac2760c87465352f91e9e",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN1Ewa1FBcUlHNWdqMHhlMG5TQVBtak1EWjZnVVdLUjJKODg0RW94Y21hcU9uVjdCRm1EYnJrc1N0VUxFTlExZzN5QTFzWHdydmtYODNvbUJyT3lIM0dQdC1JOHRNaXh4VUdmMjN2UXQzandFLTM0bUU4WklSekhOMFZQc2VCdFNDVmdteEtYa2RSX3VvN3B6QXJyMXY?oc=5",
+      "title": "ArcelorMittal expands Microsoft partnership on cloud",
+      "summary": "",
+      "publishedAt": "2026-08-03T06:55:00.000Z",
+      "publisher": "Reuters",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "c8dbf3a5471185bd36f938005cdd26843342c08a",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSEdYNC1GRnN1SHdidk5mZmRheFREUmxiM3NpZzYxRi1DU3Q2XzY3V3RzZHJ2VEZYZl95Tnc5dlZmRklhQUQwTjczeUZLTHF0ZTVYUEdiZzBlaFBCOGRHbi1FX24tMFlWTzRmeDlFV2lEYzR3bnhEUWdJNXZQMklDSUVraXAyTG5wVUlocFBuSTVxR19lc0lF?oc=5",
+      "title": "Microsoft's Project Perception AI Now Handles 90% of Security Work",
+      "summary": "",
+      "publishedAt": "2026-08-03T02:20:25.000Z",
+      "publisher": "Startup Fortune",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "3278c953a5fae3f337172d5c620145059c05581d",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNa2JKajBVb1pNbnU4NUtQVk84dUtVZTh0Sk9yRV8zU0cwakZ3cjVrN0lfNHd3TmxqMHJTT0E2d0lFSlBEV2x1NXBQZEpCcTMxby1GelgzSXJMN2lqV1NiUjRkVzU1M01ZWmdTRkhEU0hCeUtyUlpINUxfRkpzQlhRYkxQT1VQSXZGWjV3WmlQS3lNZUFod0dYbzlaemFCcUtkQXR1NllYaHVyVnJHZVE?oc=5",
+      "title": "BlackRock Raises $12.5 Billion of Debt for Meta Data Center",
+      "summary": "",
+      "publishedAt": "2026-07-28T18:10:15.000Z",
+      "publisher": "Bloomberg",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "c95f020b0a6db62a1d951660704e72db15e2b60d",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026",
+      "title": "Inside our 353,000-person vibe coding course",
+      "summary": "Kaggle’s AI Agents Intensive with Google brought learners together in a no-cost course to build and deploy the next frontier of AI.",
+      "publishedAt": "2026-08-03T15:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -542,6 +620,5 @@
       }
     }
   ],
-  "newItems": [],
   "errors": []
 }
