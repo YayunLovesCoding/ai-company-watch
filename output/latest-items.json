@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T16:28:30.693Z",
+  "generatedAt": "2026-08-04T16:13:44.588Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -76,27 +76,65 @@
     }
   ],
   "totals": {
-    "fetched": 43,
+    "fetched": 38,
     "deduped": 24,
-    "new": 4,
+    "new": 9,
     "byKind": {
-      "official": 10,
-      "external": 14
+      "official": 12,
+      "external": 12
     }
   },
   "items": [
     {
-      "id": "df25a679fbbbbe8a0a7ac2760c87465352f91e9e",
+      "id": "68e876b7d4623f6708b2d0b596c23c91afe5d5fa",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNHRvSmJ0d2FuenYzRG9abTJ3WXN1eUtkaWwteEhoREtubWpHUTU3SnotaFN5ekFMR0ZKSWdib0x6TDJlMG5Sam91LS1CNDZvTlhlWDV3NFN3TWM3MURLRjV3d25DSnIweTlNRmFYdHpaOGk3ZTNpendvLVBFZVZKblpTXzA4bXlhNTNOVEJn?oc=5",
+      "title": "Sam Altman’s OpenAI publishes brutal critique of Apple lawsuit: ‘Apple is getting this wrong’",
+      "summary": "",
+      "publishedAt": "2026-08-04T10:40:00.000Z",
+      "publisher": "Fortune",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "21ee67c9bde27fd7d96b6a2beba57628c6dfcf3c",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYUxSNUIwOXpQcmNEWkp3ckJYUUVuaExoTVlHbWNEaUp2YVVfX2Z6NHRyWkJZOHAycXZZTlduWkIweHpmd25mblFaYU9EZnRXS2FqYkNsSDBJa2FjZThqZ2c2eWp5OVNKcEhvUmxVT3ZseXZyRnpFT2JjR05INGJWdkIxWGxITUdOXzRyUnNtSWp2MVhOR0tkTjU3THctbjlHVVJTQVZxX01tdFpPX2lrcFFSX0dwNkR3eVA0Z2Jn?oc=5",
+      "title": "Apple seeks preliminary injunction against OpenAI in trade secrets case",
+      "summary": "",
+      "publishedAt": "2026-08-04T05:57:00.000Z",
+      "publisher": "Reuters",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "bb4e5bbf47ed4aee1e71786fa2961d4872d82487",
       "company": "Microsoft",
       "sourceKind": "external",
       "sourceId": "external-microsoft-major",
       "sourceLabel": "Major External News - Microsoft",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN1Ewa1FBcUlHNWdqMHhlMG5TQVBtak1EWjZnVVdLUjJKODg0RW94Y21hcU9uVjdCRm1EYnJrc1N0VUxFTlExZzN5QTFzWHdydmtYODNvbUJyT3lIM0dQdC1JOHRNaXh4VUdmMjN2UXQzandFLTM0bUU4WklSekhOMFZQc2VCdFNDVmdteEtYa2RSX3VvN3B6QXJyMXY?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQzV0dkp3MkZnV2tZazVKcXV1VDlFV2gyT1lOVjBjOGJORm12TkZYZUNZNmd4VG9kWUVkZEV5NHdmY05kMDJLZ3A5T3p2WmNVTkJXV1RCbzFvajVPNnVBQnZsNS1aQTltQ1FZMFEwVlI1bkMxX0RUOUxibXE1YUNfYUw4UUFGbElUdVZnbzZiT0hneFhxVF9Qa01ldmF1YUFyTThlSGhHQW1iNy1oWFlB?oc=5",
       "title": "ArcelorMittal expands Microsoft partnership on cloud",
       "summary": "",
-      "publishedAt": "2026-08-03T06:55:00.000Z",
-      "publisher": "Reuters",
+      "publishedAt": "2026-08-03T06:54:00.000Z",
+      "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -114,7 +152,7 @@
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYTc2SUhrNmVER0NvNW9nZHBwbklFMlA0eTNSRFZETXpfSWpVYU1wOUhaMDRLUnRVSEhtRzByeEktX2FEX1ZzaThNMnpZMW9JdVZDZkVRTEQ4UjdlakFPVXZTUjZaM2JOUkhpN1BxeEU4bWJuSjNkUldBNXRVWDkyYWVXVUlKM0VEZU5wZklfX2FJRkQ0bmVybTIyY0xpbHd6aGtIVmZ3YU5ocGdsdFlNeXdOQlBXOUsyZnZtZA?oc=5",
       "title": "EXCLUSIVE: OpenAI finds evidence other AI agents escaped containment as it widens hacking probe",
       "summary": "",
-      "publishedAt": "2026-07-31T20:16:00.000Z",
+      "publishedAt": "2026-08-02T07:00:00.000Z",
       "publisher": "Reuters",
       "discoveryMethod": "feed",
       "classification": {
@@ -153,7 +191,7 @@
       "title": "Oracle Gains After Expanding Google Gemini AI Partnership",
       "summary": "",
       "publishedAt": "2026-07-30T14:16:57.000Z",
-      "publisher": "Bloomberg",
+      "publisher": "Bloomberg.com",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -162,41 +200,41 @@
       }
     },
     {
-      "id": "b454b34c3da0e115740976f88fa12659f75814cd",
-      "company": "Meta",
+      "id": "2163b413300de52f6504ca8a20340312de3f7571",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/apple-is-getting-this-wrong",
+      "title": "Apple is getting this wrong",
+      "summary": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
+      "publishedAt": "2026-08-03T22:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "108ca135ca700c1ceab2aed19e7277425d9e0e6e",
+      "company": "OpenAI",
       "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeFFVejhlUVFTb0tQRDZmbXVMRHZJT0JtQXZzaVR6YkV2bk1vTldRVFNRd0RIUEJWdlpQWVQ3Wm56UWVSN205bmtVUnBRUGxsSVhwNDhOSU5YM2NHSlZOQnpUWjhvR2NVT29YQzAxNWV5TG5OVm5pT214dGtVVS1hQ0RaUEZsT3RMaEY0bzFYS19iNTVLS1VfcHc1Tmg2V3ZJaGc?oc=5",
-      "title": "Meta, BlackRock partner on $14 billion El Paso data center venture",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZUJ3OG9JQXRfZ2I2Rkp1TjZWbXpOZXRYNFp3Yi1CZW5VczUxOC1LeVJmbUlaTFdkbFB5NVhXV3hvNTFJSy1CMDlIdDlyMFhwaFg3NVhvSHhuVHNTRW1JQmtxcmNLT1VDRGtjSFllRmN2T2lONXFJNDFsZTZqRDhJYkQ2cWdJcHEyd1kzWW9tVkJyVzdqQzJLMV93Qm5KbmZwOVV5THBnNTJNTE9pSnc?oc=5",
+      "title": "US House panel seeks briefing on OpenAI's AI agent security breach",
       "summary": "",
-      "publishedAt": "2026-07-28T15:24:11.000Z",
+      "publishedAt": "2026-08-03T21:31:04.000Z",
       "publisher": "Reuters",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "82019b46d63e56862589c1ac5bc0a36398883e0d",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOM3ZMd1k2ekw5RHM3RlBQamEtQW9PVUhFMDhsTVVvYjhwelg2blBMX01uRTFTNGhJd2hrNGNUejVKZVVCdVN1WV9Dd1Y3OEk1TUYxVVZvSnVNd3BtMTBtcmlrSk8wM1AyVk1zSWVZTkVXVUl2bE8tT2FZNVB6WGR2UHlOS0ZsMnBlWFRqdy03dnNJVVpVTW5KNDBlWXNNT0RmMThEZ2JUVGpOalk?oc=5",
-      "title": "Meta, BlackRock Plan to Invest in $14 Billion Data Center",
-      "summary": "",
-      "publishedAt": "2026-07-28T11:37:25.000Z",
-      "publisher": "Bloomberg",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
+        "score": 5,
+        "reason": "Safety, security, or policy update"
       }
     },
     {
@@ -219,22 +257,41 @@
       }
     },
     {
-      "id": "c5ad624a6ffb30ef26980a02c1054847c6adbe53",
-      "company": "OpenAI",
+      "id": "1ae3b0fdca20bfa83f42991ce792e3e61af787d0",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOW5ObVB2b3BxUUVTNFpvZHRveExFRkIzcWRKeWJXbVRNeEtuTWk1N0p0T1E0eVN0U1lBbldqaTVMQVBhQzd6S3FCYnFpX05fVVBJTUx0STFqNVJxTUFVSkxqd2xITW9vVkFIVjZMYzJGVlVvOXBlOUR2OU40VjlwRE1BZGxtclhNaVUzUmdiRF9RUXZLSzZMYQ?oc=5",
+      "title": "Meta (META) Launches $14 Billion Texas AI Data Center Campus With BlackRock",
+      "summary": "",
+      "publishedAt": "2026-07-29T18:08:40.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "d3753d032c9898f4684c3f7e0912a0256d1bea12",
+      "company": "Google",
       "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-      "title": "Disrupting a Criminal Scam Operation",
-      "summary": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
-      "publishedAt": "2026-07-31T00:00:00.000Z",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026",
+      "title": "The latest AI news we announced in July 2026",
+      "summary": "Here are Google’s latest AI updates from July 2026",
+      "publishedAt": "2026-08-04T13:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
         "score": 5,
-        "reason": "Corporate move or major external event"
+        "reason": "Flagship model or product launch"
       }
     },
     {
@@ -254,44 +311,6 @@
         "bucket": "critical",
         "score": 5,
         "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "5cd0ce9c7ed6f80ccb0692b77b58aa6be6a5a4ae",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOa0RRWm94MnZvTW44UkNVUVJwN0JodGVjRDQwc0FRRXJYM2xWcERZQWVobERUbEJOX1NUODB4T2JxTlZScEhqNGFCdHVQYk5WajJhRmZDcTRKbXlYNFhjZm1IbUZFM2FpbWlaQV9jN0NYdlR0a2tCMXhMWjNPWU1YbXlIdGhhUnBLY0x6NXlRcHFFMkVHNTVLMmo0bW91Mjl0aWFTX001YlUwU24yMUE?oc=5",
-      "title": "Anthropic, OpenAI Cyber Failures Point to US Security Risks",
-      "summary": "",
-      "publishedAt": "2026-07-31T19:46:30.000Z",
-      "publisher": "Bloomberg",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "bf99f082c381a5107e4c98da0e18836fc7b224b3",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQ0FyTjVjNWQzY2dYblVWRlNJdGJwYkVuVVlXbkhBNURXR2VYenltaUVUR2I0emloLVB5S0dBTnpwUDJ0Q013dU1DQmZrLVhPeXcxY09pb0hyS3R4Q0ZFa2x4Y3Y5bzNJMGdtOVZZWE5iMFpjNmNLNjNOZlNKRnlBcmdRVW1NTUdrX1VYRk1nYjBKM3JCa3IwUENVbHRQNW44b25HRk91MUxNVVlDNXNxYTJWNjhLMHo0SzVqY203Yw?oc=5",
-      "title": "Anthropic's AI hacked three companies during tests, highlighting growing security risks",
-      "summary": "",
-      "publishedAt": "2026-07-30T23:13:00.000Z",
-      "publisher": "Reuters",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Safety, security, or policy update"
       }
     },
     {
@@ -333,93 +352,17 @@
       }
     },
     {
-      "id": "54eb3a3913a3ddc90701a1d57e4ad682350c1c95",
-      "company": "Meta",
-      "sourceKind": "official",
-      "sourceId": "meta-newsroom",
-      "sourceLabel": "Meta Newsroom",
-      "homepageUrl": "https://about.fb.com/news/",
-      "url": "https://about.fb.com/news/2026/07/meta-is-signing-the-eu-ai-act-code-of-practice-on-transparency-of-ai-generated-content",
-      "title": "Meta is Signing the EU AI Act Code of Practice on Transparency of AI-Generated Content",
-      "summary": "As AI-generated media becomes more photorealistic, it’s increasingly important that people have tools to help them identify it. We’ve been working to put this principle into practice at Meta since February 2024, when we announced our approach to identifying and labeling AI-gener...",
-      "publishedAt": "2026-07-28T09:47:23.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "3cd121adc4e4cd5911e27551b9322979fa64267f",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ2VxeG1UWGl2VWRWRnZQQ1ZNWnhiRjRTdm8ydzhtQzY0Ym1QQlhLM1NXTEt1VmtRSDRnVFFBaFJfWTA0SDZRTWVZX050VVAwSldKSW9BX2FKdERfbl9zQ0tzUU0tNGU2NjVHeHJxbVBKVlM0Q1V2ZW9RdUdKOGw2ZE9FdHFGUVJlMU5LMDh2T1RKMEw2WFVlOU5B?oc=5",
-      "title": "Trump Considers AI Controls After OpenAI Breach but Warns Against Falling Behind China: 'We're Also Making Sure That We Lead....'",
-      "summary": "",
-      "publishedAt": "2026-07-31T23:30:22.000Z",
-      "publisher": "Yahoo",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "5a92b3f4a57ab85f5add77c7490ea7d1ea4d1255",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcElyZExRV1FtY3pSTWdfekpKTXR5SDRIRnNUN0pqWWFybXpNdDZjY1l3djlKclU4eHRiODk0c3VvOEUzakpiM0FVaVIwblUwNGxPUE80UkRCOUtNRlozelFJN3V5VzVnQmpHUm02QmlLNjF5MUpaWTJuaE9MSldNeDFsd2tzTlEta3Rtc0RzUEg2THBKYy1Qc0ZNdHVaM1NwRzE3Q19UYlFXS3RUS3FfT3NYa1J2VnNSUEE?oc=5",
-      "title": "FAR.AI’s Adam Gleave on Anthropic AI breach: AI models are now very capable",
-      "summary": "",
-      "publishedAt": "2026-07-31T11:44:00.000Z",
-      "publisher": "CNBC",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "213da91fe2887d3bf9c64c3ac6971179b6f240a8",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWFd6Y3J1QUQwODAyV1NkMXp4NzF2UFlaWlZBVlY2WDNMbWRPazJVOW4taF9ZWnZTOE10dm5jTnlldWJyRW1sbm5sRmdXUWd6Um4zX09KVlRTTDVta3JIY1h6VllidVFIYzkyUWhGeGdiUFdiRUdnRXBCdlRIV2F3Z1RudmlhYlU2VDRNWjRsc01yM3FfblYyY1JSSDZCVmhrbW05TXNTb2p2VDJRSGlEN2tfcnhfQk5sSTJMRFhoYlBxMWFa?oc=5",
-      "title": "German minister urges faster AI self-sufficiency after OpenAI test breach",
-      "summary": "",
-      "publishedAt": "2026-07-30T20:18:26.000Z",
-      "publisher": "Reuters",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "2f422bd27e709fa3ec707bcc8ebb0a0c4aab7e3e",
+      "id": "d04df178dc9d36787aafd017c06de8ad5bab67c0",
       "company": "Meta",
       "sourceKind": "external",
       "sourceId": "external-meta-major",
       "sourceLabel": "Major External News - Meta",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMHRYM3p1VjVqUzZZOG92clpYeDdfdDUyMFhtZFdYQUowZ2pSVGxDcXZ3clZ3dXNnV1pCSkNFVWpvME1VLXFrUnpYTXdDZGJxbE9kY0tOUm5rS1lBZ1RqWktWZjNaXzhXNjNIbDhWNFhsMEJVTkluQlVJZXpaQUdMX3NrMHdQOF9LMDdKN0VhZ3g5SHRKdkVqYlN2Nl9lZjdHYnc3TmI1QW01X29nUDNwWg?oc=5",
-      "title": "Meta Reports $279 Billion in Future Data Center Leases for AI",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPelRYN3dCR2RYaXpQRlNuMTJMdmNPck5Jemg1Z1hsWEhzbTRNNkxmZnVBS0lmd05wMkRfdXJfeVViQmNWOFJfTEN5VXoyMWVnYTNaT0lkMVJXc3NONGwtZGVYQVBmZnR2YWljRHlnQTJodG9QUTVWSlZhS3VRbzROMFQ2SkRpdw?oc=5",
+      "title": "Vertiv CEO: How Google, Meta, Microsoft earnings are 'reinforcing' data center acceleration",
       "summary": "",
-      "publishedAt": "2026-07-30T18:47:15.000Z",
-      "publisher": "Bloomberg",
+      "publishedAt": "2026-07-30T16:28:20.000Z",
+      "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -428,17 +371,36 @@
       }
     },
     {
-      "id": "3278c953a5fae3f337172d5c620145059c05581d",
+      "id": "0c22558867f4c5f3cc7b5e2e0ed09215199a6892",
       "company": "Meta",
       "sourceKind": "external",
       "sourceId": "external-meta-major",
       "sourceLabel": "Major External News - Meta",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNa2JKajBVb1pNbnU4NUtQVk84dUtVZTh0Sk9yRV8zU0cwakZ3cjVrN0lfNHd3TmxqMHJTT0E2d0lFSlBEV2x1NXBQZEpCcTMxby1GelgzSXJMN2lqV1NiUjRkVzU1M01ZWmdTRkhEU0hCeUtyUlpINUxfRkpzQlhRYkxQT1VQSXZGWjV3WmlQS3lNZUFod0dYbzlaemFCcUtkQXR1NllYaHVyVnJHZVE?oc=5",
-      "title": "BlackRock Raises $12.5 Billion of Debt for Meta Data Center",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNU3FhSEIwNEgydVFTelpvX0x0NTlVUXRjVDd1NFgzcUhmbmRyUk0xdl9saVY3RDJaNXFWejhoMFhJY1JjNS16SjNSc1VhSlhEbk1BVmxYenYteDE3NjhJcTd3TlJqTkJ3Y2tXR0pkM2pUV2NfcjBsWk0yMlhNNGowM09HS00wRklZSlBURUk2eHZ2TV9QTVE?oc=5",
+      "title": "Meta's future AI data center lease obligations swell to over a quarter trillion dollars",
       "summary": "",
-      "publishedAt": "2026-07-28T18:10:15.000Z",
-      "publisher": "Bloomberg",
+      "publishedAt": "2026-07-30T15:45:02.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "d0beb56852fb92ae9ca7ccf150685c134d12a78d",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUnJhY3ZkRWRmdFhQZWowUVU4RldIS3k3endfOEdvcXYtei0tb2dVX3RReVhzSFdLNjgtTHNNUElRTVFpd2hnaG1HZ0NCN0lIMmREU1JUMzNad3NRTVMyaEhQRnN5Mkh6UmIzYUVZMlVnUU42RzBjWVZfMmZqeHA1eFV3OVFqNzRETW5XRGNR?oc=5",
+      "title": "BlackRock (BLK) Is Up 5.7% After $14 Billion Meta AI Data Center Deal - Has The Bull Case Changed?",
+      "summary": "",
+      "publishedAt": "2026-07-29T13:08:08.000Z",
+      "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -457,25 +419,6 @@
       "title": "Advancing responsible AI across Europe",
       "summary": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
       "publishedAt": "2026-07-31T15:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "4879819590782b03bb41bffc1653e179d4a163a4",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/unive",
-      "title": "Univé builds an AI-ready workforce",
-      "summary": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
-      "publishedAt": "2026-07-31T07:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -523,6 +466,44 @@
       }
     },
     {
+      "id": "d04cc35bd3ccb8a5aedf1fe70e1ec06b58d1bfcf",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+      "title": "How we built a realtime system for responsive voice AI in six months",
+      "summary": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
+      "publishedAt": "2026-08-03T07:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "54e616a32e5ede38b908269b87c96f01d007be0c",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/circles",
+      "title": "Circles powers telco personalization with OpenAI technology",
+      "summary": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.",
+      "publishedAt": "2026-08-03T00:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
+      }
+    },
+    {
       "id": "97cd97d27d220f15f9bc8a69f1f4b5eea602a9e8",
       "company": "Anthropic",
       "sourceKind": "official",
@@ -540,20 +521,58 @@
         "score": 2,
         "reason": "Technical or research update"
       }
+    },
+    {
+      "id": "6d58997b466ca59f729e755e523db112666f9bfc",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/ten-advances-in-mathematics",
+      "title": "Ten advances in mathematics and theoretical computer science",
+      "summary": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
+      "publishedAt": "2026-08-01T00:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 1,
+        "reason": "Routine official update"
+      }
     }
   ],
   "newItems": [
     {
-      "id": "df25a679fbbbbe8a0a7ac2760c87465352f91e9e",
-      "company": "Microsoft",
+      "id": "68e876b7d4623f6708b2d0b596c23c91afe5d5fa",
+      "company": "OpenAI",
       "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN1Ewa1FBcUlHNWdqMHhlMG5TQVBtak1EWjZnVVdLUjJKODg0RW94Y21hcU9uVjdCRm1EYnJrc1N0VUxFTlExZzN5QTFzWHdydmtYODNvbUJyT3lIM0dQdC1JOHRNaXh4VUdmMjN2UXQzandFLTM0bUU4WklSekhOMFZQc2VCdFNDVmdteEtYa2RSX3VvN3B6QXJyMXY?oc=5",
-      "title": "ArcelorMittal expands Microsoft partnership on cloud",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNHRvSmJ0d2FuenYzRG9abTJ3WXN1eUtkaWwteEhoREtubWpHUTU3SnotaFN5ekFMR0ZKSWdib0x6TDJlMG5Sam91LS1CNDZvTlhlWDV3NFN3TWM3MURLRjV3d25DSnIweTlNRmFYdHpaOGk3ZTNpendvLVBFZVZKblpTXzA4bXlhNTNOVEJn?oc=5",
+      "title": "Sam Altman’s OpenAI publishes brutal critique of Apple lawsuit: ‘Apple is getting this wrong’",
       "summary": "",
-      "publishedAt": "2026-08-03T06:55:00.000Z",
+      "publishedAt": "2026-08-04T10:40:00.000Z",
+      "publisher": "Fortune",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "21ee67c9bde27fd7d96b6a2beba57628c6dfcf3c",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYUxSNUIwOXpQcmNEWkp3ckJYUUVuaExoTVlHbWNEaUp2YVVfX2Z6NHRyWkJZOHAycXZZTlduWkIweHpmd25mblFaYU9EZnRXS2FqYkNsSDBJa2FjZThqZ2c2eWp5OVNKcEhvUmxVT3ZseXZyRnpFT2JjR05INGJWdkIxWGxITUdOXzRyUnNtSWp2MVhOR0tkTjU3THctbjlHVVJTQVZxX01tdFpPX2lrcFFSX0dwNkR3eVA0Z2Jn?oc=5",
+      "title": "Apple seeks preliminary injunction against OpenAI in trade secrets case",
+      "summary": "",
+      "publishedAt": "2026-08-04T05:57:00.000Z",
       "publisher": "Reuters",
       "discoveryMethod": "feed",
       "classification": {
@@ -563,17 +582,55 @@
       }
     },
     {
-      "id": "c8dbf3a5471185bd36f938005cdd26843342c08a",
+      "id": "bb4e5bbf47ed4aee1e71786fa2961d4872d82487",
       "company": "Microsoft",
       "sourceKind": "external",
       "sourceId": "external-microsoft-major",
       "sourceLabel": "Major External News - Microsoft",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSEdYNC1GRnN1SHdidk5mZmRheFREUmxiM3NpZzYxRi1DU3Q2XzY3V3RzZHJ2VEZYZl95Tnc5dlZmRklhQUQwTjczeUZLTHF0ZTVYUEdiZzBlaFBCOGRHbi1FX24tMFlWTzRmeDlFV2lEYzR3bnhEUWdJNXZQMklDSUVraXAyTG5wVUlocFBuSTVxR19lc0lF?oc=5",
-      "title": "Microsoft's Project Perception AI Now Handles 90% of Security Work",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQzV0dkp3MkZnV2tZazVKcXV1VDlFV2gyT1lOVjBjOGJORm12TkZYZUNZNmd4VG9kWUVkZEV5NHdmY05kMDJLZ3A5T3p2WmNVTkJXV1RCbzFvajVPNnVBQnZsNS1aQTltQ1FZMFEwVlI1bkMxX0RUOUxibXE1YUNfYUw4UUFGbElUdVZnbzZiT0hneFhxVF9Qa01ldmF1YUFyTThlSGhHQW1iNy1oWFlB?oc=5",
+      "title": "ArcelorMittal expands Microsoft partnership on cloud",
       "summary": "",
-      "publishedAt": "2026-08-03T02:20:25.000Z",
-      "publisher": "Startup Fortune",
+      "publishedAt": "2026-08-03T06:54:00.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "2163b413300de52f6504ca8a20340312de3f7571",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/apple-is-getting-this-wrong",
+      "title": "Apple is getting this wrong",
+      "summary": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
+      "publishedAt": "2026-08-03T22:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "108ca135ca700c1ceab2aed19e7277425d9e0e6e",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZUJ3OG9JQXRfZ2I2Rkp1TjZWbXpOZXRYNFp3Yi1CZW5VczUxOC1LeVJmbUlaTFdkbFB5NVhXV3hvNTFJSy1CMDlIdDlyMFhwaFg3NVhvSHhuVHNTRW1JQmtxcmNLT1VDRGtjSFllRmN2T2lONXFJNDFsZTZqRDhJYkQ2cWdJcHEyd1kzWW9tVkJyVzdqQzJLMV93Qm5KbmZwOVV5THBnNTJNTE9pSnc?oc=5",
+      "title": "US House panel seeks briefing on OpenAI's AI agent security breach",
+      "summary": "",
+      "publishedAt": "2026-08-03T21:31:04.000Z",
+      "publisher": "Reuters",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -582,17 +639,36 @@
       }
     },
     {
-      "id": "3278c953a5fae3f337172d5c620145059c05581d",
+      "id": "d3753d032c9898f4684c3f7e0912a0256d1bea12",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026",
+      "title": "The latest AI news we announced in July 2026",
+      "summary": "Here are Google’s latest AI updates from July 2026",
+      "publishedAt": "2026-08-04T13:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "d0beb56852fb92ae9ca7ccf150685c134d12a78d",
       "company": "Meta",
       "sourceKind": "external",
       "sourceId": "external-meta-major",
       "sourceLabel": "Major External News - Meta",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNa2JKajBVb1pNbnU4NUtQVk84dUtVZTh0Sk9yRV8zU0cwakZ3cjVrN0lfNHd3TmxqMHJTT0E2d0lFSlBEV2x1NXBQZEpCcTMxby1GelgzSXJMN2lqV1NiUjRkVzU1M01ZWmdTRkhEU0hCeUtyUlpINUxfRkpzQlhRYkxQT1VQSXZGWjV3WmlQS3lNZUFod0dYbzlaemFCcUtkQXR1NllYaHVyVnJHZVE?oc=5",
-      "title": "BlackRock Raises $12.5 Billion of Debt for Meta Data Center",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUnJhY3ZkRWRmdFhQZWowUVU4RldIS3k3endfOEdvcXYtei0tb2dVX3RReVhzSFdLNjgtTHNNUElRTVFpd2hnaG1HZ0NCN0lIMmREU1JUMzNad3NRTVMyaEhQRnN5Mkh6UmIzYUVZMlVnUU42RzBjWVZfMmZqeHA1eFV3OVFqNzRETW5XRGNR?oc=5",
+      "title": "BlackRock (BLK) Is Up 5.7% After $14 Billion Meta AI Data Center Deal - Has The Bull Case Changed?",
       "summary": "",
-      "publishedAt": "2026-07-28T18:10:15.000Z",
-      "publisher": "Bloomberg",
+      "publishedAt": "2026-07-29T13:08:08.000Z",
+      "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -601,16 +677,35 @@
       }
     },
     {
-      "id": "c95f020b0a6db62a1d951660704e72db15e2b60d",
-      "company": "Google",
+      "id": "d04cc35bd3ccb8a5aedf1fe70e1ec06b58d1bfcf",
+      "company": "OpenAI",
       "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026",
-      "title": "Inside our 353,000-person vibe coding course",
-      "summary": "Kaggle’s AI Agents Intensive with Google brought learners together in a no-cost course to build and deploy the next frontier of AI.",
-      "publishedAt": "2026-08-03T15:00:00.000Z",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+      "title": "How we built a realtime system for responsive voice AI in six months",
+      "summary": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
+      "publishedAt": "2026-08-03T07:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "54e616a32e5ede38b908269b87c96f01d007be0c",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/circles",
+      "title": "Circles powers telco personalization with OpenAI technology",
+      "summary": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.",
+      "publishedAt": "2026-08-03T00:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
