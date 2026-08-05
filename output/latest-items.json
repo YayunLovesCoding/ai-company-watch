@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T16:13:44.588Z",
+  "generatedAt": "2026-08-05T16:01:53.433Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -80,23 +80,42 @@
     "deduped": 24,
     "new": 9,
     "byKind": {
-      "official": 12,
-      "external": 12
+      "official": 13,
+      "external": 11
     }
   },
   "items": [
     {
-      "id": "68e876b7d4623f6708b2d0b596c23c91afe5d5fa",
+      "id": "0dbb926f12f1c150273ef97612088c5a46030d18",
       "company": "OpenAI",
       "sourceKind": "external",
       "sourceId": "external-openai-major",
       "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNHRvSmJ0d2FuenYzRG9abTJ3WXN1eUtkaWwteEhoREtubWpHUTU3SnotaFN5ekFMR0ZKSWdib0x6TDJlMG5Sam91LS1CNDZvTlhlWDV3NFN3TWM3MURLRjV3d25DSnIweTlNRmFYdHpaOGk3ZTNpendvLVBFZVZKblpTXzA4bXlhNTNOVEJn?oc=5",
-      "title": "Sam Altman’s OpenAI publishes brutal critique of Apple lawsuit: ‘Apple is getting this wrong’",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOGJOQ1NUYjZjQ2RhS091TnNpc0pDdXNyazQxOURLaDUybjNiUEV6OHJfR2FKcC1UaUNoZnVnRDJNUDB1QVdlUzFOSDBPcGRQRWRDUWdMWmZCRHE4bmZQNXlWZ0otMmVQNXBBTTN0UTczZmZ3LVpFVWJUWlVuVGJyOG13WmdNZm1pbW9sZzZPTk10NWc5TjRhNXk4SEdZQV9oX1hPczM3RQ?oc=5",
+      "title": "OpenAI pays $3.2 million in US probe over hiring foreign workers",
       "summary": "",
-      "publishedAt": "2026-08-04T10:40:00.000Z",
-      "publisher": "Fortune",
+      "publishedAt": "2026-08-04T19:24:09.000Z",
+      "publisher": "Reuters",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "3cc06233330ef2b398386f929462b35224f668a6",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPajJfdzhTb0Zia01GUEZDdmg0ZmZOTVcxbEx3S0R4Tlp3S3BKbWpRU0Jaa0QwUFNrcXlOYmFnT08xbDNGSk5HWnd5UThyWURXZTFiODAxQktfN3Y5U2ZRRHJUdWJoOHZ1cmtGelZPYzZaZEc1aFVoeHhhTEZqRTQxWmZkRVhuaEVMOEFodUJ2OU1fbl9zVUdoajYzdkFVQzJEYWRmYw?oc=5",
+      "title": "OpenAI drags Apple’s lawsuit into the court of public opinion",
+      "summary": "",
+      "publishedAt": "2026-08-04T11:27:55.000Z",
+      "publisher": "The Verge",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -124,35 +143,16 @@
       }
     },
     {
-      "id": "bb4e5bbf47ed4aee1e71786fa2961d4872d82487",
+      "id": "df25a679fbbbbe8a0a7ac2760c87465352f91e9e",
       "company": "Microsoft",
       "sourceKind": "external",
       "sourceId": "external-microsoft-major",
       "sourceLabel": "Major External News - Microsoft",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQzV0dkp3MkZnV2tZazVKcXV1VDlFV2gyT1lOVjBjOGJORm12TkZYZUNZNmd4VG9kWUVkZEV5NHdmY05kMDJLZ3A5T3p2WmNVTkJXV1RCbzFvajVPNnVBQnZsNS1aQTltQ1FZMFEwVlI1bkMxX0RUOUxibXE1YUNfYUw4UUFGbElUdVZnbzZiT0hneFhxVF9Qa01ldmF1YUFyTThlSGhHQW1iNy1oWFlB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN1Ewa1FBcUlHNWdqMHhlMG5TQVBtak1EWjZnVVdLUjJKODg0RW94Y21hcU9uVjdCRm1EYnJrc1N0VUxFTlExZzN5QTFzWHdydmtYODNvbUJyT3lIM0dQdC1JOHRNaXh4VUdmMjN2UXQzandFLTM0bUU4WklSekhOMFZQc2VCdFNDVmdteEtYa2RSX3VvN3B6QXJyMXY?oc=5",
       "title": "ArcelorMittal expands Microsoft partnership on cloud",
       "summary": "",
-      "publishedAt": "2026-08-03T06:54:00.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "21c41e88add3a613cf280c5e57215e4c14c41292",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYTc2SUhrNmVER0NvNW9nZHBwbklFMlA0eTNSRFZETXpfSWpVYU1wOUhaMDRLUnRVSEhtRzByeEktX2FEX1ZzaThNMnpZMW9JdVZDZkVRTEQ4UjdlakFPVXZTUjZaM2JOUkhpN1BxeEU4bWJuSjNkUldBNXRVWDkyYWVXVUlKM0VEZU5wZklfX2FJRkQ0bmVybTIyY0xpbHd6aGtIVmZ3YU5ocGdsdFlNeXdOQlBXOUsyZnZtZA?oc=5",
-      "title": "EXCLUSIVE: OpenAI finds evidence other AI agents escaped containment as it widens hacking probe",
-      "summary": "",
-      "publishedAt": "2026-08-02T07:00:00.000Z",
+      "publishedAt": "2026-08-03T06:55:00.000Z",
       "publisher": "Reuters",
       "discoveryMethod": "feed",
       "classification": {
@@ -219,11 +219,30 @@
       }
     },
     {
-      "id": "108ca135ca700c1ceab2aed19e7277425d9e0e6e",
+      "id": "e200a0afb923fc4a3fe2b6042ef17e6283d97f81",
       "company": "OpenAI",
       "sourceKind": "external",
       "sourceId": "external-openai-major",
       "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNczA3WWo2amR5TUgyLUNXYnNhSVFJMjlFX1dpbjhPN0R4anhTNkJNYzBseVlNbGdCa0E3ZWU5aXRfaEZWaE5OT1hSb0NCRmlJS2w5OGNMbWgyZ3hnOUNieHFRaW44b3JmMm42SVpCb1d6dVF5SG9yR0k2UndzMGs2aGVaZl9NRmIwaWd3T0RvTkh1c0xyQVpoOVJyQ21aMWZmdE1VQVJUZVZIQ0l2azhzZ25n?oc=5",
+      "title": "OpenAI, Anthropic AI agents implicated in new security breaches",
+      "summary": "",
+      "publishedAt": "2026-08-05T09:57:00.000Z",
+      "publisher": "Reuters",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "108ca135ca700c1ceab2aed19e7277425d9e0e6e",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
       "homepageUrl": "https://news.google.com/",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZUJ3OG9JQXRfZ2I2Rkp1TjZWbXpOZXRYNFp3Yi1CZW5VczUxOC1LeVJmbUlaTFdkbFB5NVhXV3hvNTFJSy1CMDlIdDlyMFhwaFg3NVhvSHhuVHNTRW1JQmtxcmNLT1VDRGtjSFllRmN2T2lONXFJNDFsZTZqRDhJYkQ2cWdJcHEyd1kzWW9tVkJyVzdqQzJLMV93Qm5KbmZwOVV5THBnNTJNTE9pSnc?oc=5",
       "title": "US House panel seeks briefing on OpenAI's AI agent security breach",
@@ -235,44 +254,6 @@
         "bucket": "critical",
         "score": 5,
         "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "c8dbf3a5471185bd36f938005cdd26843342c08a",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSEdYNC1GRnN1SHdidk5mZmRheFREUmxiM3NpZzYxRi1DU3Q2XzY3V3RzZHJ2VEZYZl95Tnc5dlZmRklhQUQwTjczeUZLTHF0ZTVYUEdiZzBlaFBCOGRHbi1FX24tMFlWTzRmeDlFV2lEYzR3bnhEUWdJNXZQMklDSUVraXAyTG5wVUlocFBuSTVxR19lc0lF?oc=5",
-      "title": "Microsoft's Project Perception AI Now Handles 90% of Security Work",
-      "summary": "",
-      "publishedAt": "2026-08-03T02:20:25.000Z",
-      "publisher": "Startup Fortune",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "1ae3b0fdca20bfa83f42991ce792e3e61af787d0",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOW5ObVB2b3BxUUVTNFpvZHRveExFRkIzcWRKeWJXbVRNeEtuTWk1N0p0T1E0eVN0U1lBbldqaTVMQVBhQzd6S3FCYnFpX05fVVBJTUx0STFqNVJxTUFVSkxqd2xITW9vVkFIVjZMYzJGVlVvOXBlOUR2OU40VjlwRE1BZGxtclhNaVUzUmdiRF9RUXZLSzZMYQ?oc=5",
-      "title": "Meta (META) Launches $14 Billion Texas AI Data Center Campus With BlackRock",
-      "summary": "",
-      "publishedAt": "2026-07-29T18:08:40.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Flagship model or product launch"
       }
     },
     {
@@ -314,6 +295,63 @@
       }
     },
     {
+      "id": "234082582efb82a85a001ffb79ee6e4d8b51604a",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdFE0MWViYnRxZXNMWFdVYkxlQ2N0RE5BdEdDYldQRmtEdm91dWZicndyNTVOak5uOFJRajNKYWRfV0tzV2tOdVdsZ0JDOGZWTnc3Q1Z3aGhpZXdYT2IzYy0wTTlqTnVyczVyQWtvS2N4TWxPUE12aDdVa1E2STIybHpUQQ?oc=5",
+      "title": "Anthropic is hiring an AI chip design team",
+      "summary": "",
+      "publishedAt": "2026-08-05T14:13:18.000Z",
+      "publisher": "TechCrunch",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "09aea953a017c40e9215f9511528e497bcda6e9f",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOY1FDelRZOTYzTG85Ulp2TEdIcnJFUjhTRFo2X3VVNDhibk9hUDEzYWFQblFkeDA3aTJpWW5BVnBoU0J5VEVBajA4U3lwUmdjeXEySktLOXk3cGNsOFJsVjR3Wko2eWI2M0dqWEpLUUJjeldCMEl4YzFsal9pbURPS0ZkN09fOUxLdUpGYUNyVi1fZS1DV280RFBJNjhfdm1nV25uMzhBNGx0LTBJbVBJRkJR?oc=5",
+      "title": "SpaceX doubles revenue on Anthropic and Google compute deals, Starlink growth",
+      "summary": "",
+      "publishedAt": "2026-08-04T20:36:30.000Z",
+      "publisher": "TechCrunch",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "d15c70032ecf65f89922a77264729906bbf2c42b",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOFM5Yjkxb3lKanJoYUlSbU1odlA5a1NsNktZZUVPWmltT3R0cjFMT0R5dnhaQmY2WVBqY3BjT2ppd3p2Q3pTaVFXaW02QTJGc3E0RzFEQmNsU0RrTGUxQVFqR0RwbjdhS2JDYWdZR3ZndGNtTnVNZmFQUjNNZDFqbng1Uk5BcU9FdmVDVVhtTFJjOEE5T2ZPMFJwOU4ycUdTQXhjakNkNUpFWVF3cEx4VHlkZGJSdw?oc=5",
+      "title": "Blackstone Has Pitched Mega Debt Package for Anthropic Chip Deal",
+      "summary": "",
+      "publishedAt": "2026-08-04T14:20:54.000Z",
+      "publisher": "Bloomberg.com",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
       "id": "841b4260b436e3d1b3f9bd19474a1c4fa2b35357",
       "company": "Google",
       "sourceKind": "official",
@@ -333,98 +371,22 @@
       }
     },
     {
-      "id": "6ce7d222421ddfb0779e1ba01f69036e5fe3c6a6",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/lyria-3-5",
-      "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control.",
-      "summary": "Our newest music generation model, Lyria 3.5, delivers significant advancements across musicality, lyrics, and vocal quality, empowering you to craft richer tracks. We’r…",
-      "publishedAt": "2026-07-29T16:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "d04df178dc9d36787aafd017c06de8ad5bab67c0",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPelRYN3dCR2RYaXpQRlNuMTJMdmNPck5Jemg1Z1hsWEhzbTRNNkxmZnVBS0lmd05wMkRfdXJfeVViQmNWOFJfTEN5VXoyMWVnYTNaT0lkMVJXc3NONGwtZGVYQVBmZnR2YWljRHlnQTJodG9QUTVWSlZhS3VRbzROMFQ2SkRpdw?oc=5",
-      "title": "Vertiv CEO: How Google, Meta, Microsoft earnings are 'reinforcing' data center acceleration",
-      "summary": "",
-      "publishedAt": "2026-07-30T16:28:20.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "0c22558867f4c5f3cc7b5e2e0ed09215199a6892",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNU3FhSEIwNEgydVFTelpvX0x0NTlVUXRjVDd1NFgzcUhmbmRyUk0xdl9saVY3RDJaNXFWejhoMFhJY1JjNS16SjNSc1VhSlhEbk1BVmxYenYteDE3NjhJcTd3TlJqTkJ3Y2tXR0pkM2pUV2NfcjBsWk0yMlhNNGowM09HS00wRklZSlBURUk2eHZ2TV9QTVE?oc=5",
-      "title": "Meta's future AI data center lease obligations swell to over a quarter trillion dollars",
-      "summary": "",
-      "publishedAt": "2026-07-30T15:45:02.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "d0beb56852fb92ae9ca7ccf150685c134d12a78d",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUnJhY3ZkRWRmdFhQZWowUVU4RldIS3k3endfOEdvcXYtei0tb2dVX3RReVhzSFdLNjgtTHNNUElRTVFpd2hnaG1HZ0NCN0lIMmREU1JUMzNad3NRTVMyaEhQRnN5Mkh6UmIzYUVZMlVnUU42RzBjWVZfMmZqeHA1eFV3OVFqNzRETW5XRGNR?oc=5",
-      "title": "BlackRock (BLK) Is Up 5.7% After $14 Billion Meta AI Data Center Deal - Has The Bull Case Changed?",
-      "summary": "",
-      "publishedAt": "2026-07-29T13:08:08.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "b86dc435d64acf26bfa3904c5715410b2249b34e",
+      "id": "b274d6785ee9abb7902c6d66edf9f8661ee29cd4",
       "company": "OpenAI",
       "sourceKind": "official",
       "sourceId": "openai-newsroom",
       "sourceLabel": "OpenAI Newsroom",
       "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
-      "title": "Advancing responsible AI across Europe",
-      "summary": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
-      "publishedAt": "2026-07-31T15:00:00.000Z",
+      "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+      "title": "New ways to learn and teach with ChatGPT Work and Codex",
+      "summary": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.",
+      "publishedAt": "2026-08-04T00:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
         "score": 3,
-        "reason": "Safety, security, or policy update"
+        "reason": "Technical or research update"
       }
     },
     {
@@ -447,16 +409,16 @@
       }
     },
     {
-      "id": "c95f020b0a6db62a1d951660704e72db15e2b60d",
-      "company": "Google",
+      "id": "977f60f7e5e3c697f2eead0cf35e429742ba811c",
+      "company": "OpenAI",
       "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026",
-      "title": "Inside our 353,000-person vibe coding course",
-      "summary": "Kaggle’s AI Agents Intensive with Google brought learners together in a no-cost course to build and deploy the next frontier of AI.",
-      "publishedAt": "2026-08-03T15:00:00.000Z",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+      "title": "Third-party cyber evaluations involving OpenAI models",
+      "summary": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
+      "publishedAt": "2026-08-04T19:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -466,37 +428,18 @@
       }
     },
     {
-      "id": "d04cc35bd3ccb8a5aedf1fe70e1ec06b58d1bfcf",
-      "company": "OpenAI",
+      "id": "3cd0cbb150ad34c844a55ff84b84153327920662",
+      "company": "Anthropic",
       "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
-      "title": "How we built a realtime system for responsive voice AI in six months",
-      "summary": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
-      "publishedAt": "2026-08-03T07:00:00.000Z",
+      "sourceId": "anthropic-news",
+      "sourceLabel": "Anthropic News",
+      "homepageUrl": "https://www.anthropic.com/news",
+      "url": "https://www.anthropic.com/news/tino-cuellar",
+      "title": "Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
+      "summary": "",
+      "publishedAt": "2026-08-04T00:00:00.000Z",
       "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "54e616a32e5ede38b908269b87c96f01d007be0c",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/circles",
-      "title": "Circles powers telco personalization with OpenAI technology",
-      "summary": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.",
-      "publishedAt": "2026-08-03T00:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
+      "discoveryMethod": "anchor",
       "classification": {
         "bucket": "digest",
         "score": 2,
@@ -523,6 +466,63 @@
       }
     },
     {
+      "id": "c95f020b0a6db62a1d951660704e72db15e2b60d",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026",
+      "title": "Inside our 353,000-person vibe coding course",
+      "summary": "Kaggle’s AI Agents Intensive with Google brought learners together in a no-cost course to build and deploy the next frontier of AI.",
+      "publishedAt": "2026-08-03T15:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 1,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "d04cc35bd3ccb8a5aedf1fe70e1ec06b58d1bfcf",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+      "title": "How we built a realtime system for responsive voice AI in six months",
+      "summary": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
+      "publishedAt": "2026-08-03T07:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 1,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "54e616a32e5ede38b908269b87c96f01d007be0c",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/circles",
+      "title": "Circles powers telco personalization with OpenAI technology",
+      "summary": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.",
+      "publishedAt": "2026-08-03T00:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 1,
+        "reason": "Routine official update"
+      }
+    },
+    {
       "id": "6d58997b466ca59f729e755e523db112666f9bfc",
       "company": "OpenAI",
       "sourceKind": "official",
@@ -544,35 +544,16 @@
   ],
   "newItems": [
     {
-      "id": "68e876b7d4623f6708b2d0b596c23c91afe5d5fa",
+      "id": "0dbb926f12f1c150273ef97612088c5a46030d18",
       "company": "OpenAI",
       "sourceKind": "external",
       "sourceId": "external-openai-major",
       "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNHRvSmJ0d2FuenYzRG9abTJ3WXN1eUtkaWwteEhoREtubWpHUTU3SnotaFN5ekFMR0ZKSWdib0x6TDJlMG5Sam91LS1CNDZvTlhlWDV3NFN3TWM3MURLRjV3d25DSnIweTlNRmFYdHpaOGk3ZTNpendvLVBFZVZKblpTXzA4bXlhNTNOVEJn?oc=5",
-      "title": "Sam Altman’s OpenAI publishes brutal critique of Apple lawsuit: ‘Apple is getting this wrong’",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOGJOQ1NUYjZjQ2RhS091TnNpc0pDdXNyazQxOURLaDUybjNiUEV6OHJfR2FKcC1UaUNoZnVnRDJNUDB1QVdlUzFOSDBPcGRQRWRDUWdMWmZCRHE4bmZQNXlWZ0otMmVQNXBBTTN0UTczZmZ3LVpFVWJUWlVuVGJyOG13WmdNZm1pbW9sZzZPTk10NWc5TjRhNXk4SEdZQV9oX1hPczM3RQ?oc=5",
+      "title": "OpenAI pays $3.2 million in US probe over hiring foreign workers",
       "summary": "",
-      "publishedAt": "2026-08-04T10:40:00.000Z",
-      "publisher": "Fortune",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "21ee67c9bde27fd7d96b6a2beba57628c6dfcf3c",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYUxSNUIwOXpQcmNEWkp3ckJYUUVuaExoTVlHbWNEaUp2YVVfX2Z6NHRyWkJZOHAycXZZTlduWkIweHpmd25mblFaYU9EZnRXS2FqYkNsSDBJa2FjZThqZ2c2eWp5OVNKcEhvUmxVT3ZseXZyRnpFT2JjR05INGJWdkIxWGxITUdOXzRyUnNtSWp2MVhOR0tkTjU3THctbjlHVVJTQVZxX01tdFpPX2lrcFFSX0dwNkR3eVA0Z2Jn?oc=5",
-      "title": "Apple seeks preliminary injunction against OpenAI in trade secrets case",
-      "summary": "",
-      "publishedAt": "2026-08-04T05:57:00.000Z",
+      "publishedAt": "2026-08-04T19:24:09.000Z",
       "publisher": "Reuters",
       "discoveryMethod": "feed",
       "classification": {
@@ -582,17 +563,17 @@
       }
     },
     {
-      "id": "bb4e5bbf47ed4aee1e71786fa2961d4872d82487",
-      "company": "Microsoft",
+      "id": "3cc06233330ef2b398386f929462b35224f668a6",
+      "company": "OpenAI",
       "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQzV0dkp3MkZnV2tZazVKcXV1VDlFV2gyT1lOVjBjOGJORm12TkZYZUNZNmd4VG9kWUVkZEV5NHdmY05kMDJLZ3A5T3p2WmNVTkJXV1RCbzFvajVPNnVBQnZsNS1aQTltQ1FZMFEwVlI1bkMxX0RUOUxibXE1YUNfYUw4UUFGbElUdVZnbzZiT0hneFhxVF9Qa01ldmF1YUFyTThlSGhHQW1iNy1oWFlB?oc=5",
-      "title": "ArcelorMittal expands Microsoft partnership on cloud",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPajJfdzhTb0Zia01GUEZDdmg0ZmZOTVcxbEx3S0R4Tlp3S3BKbWpRU0Jaa0QwUFNrcXlOYmFnT08xbDNGSk5HWnd5UThyWURXZTFiODAxQktfN3Y5U2ZRRHJUdWJoOHZ1cmtGelZPYzZaZEc1aFVoeHhhTEZqRTQxWmZkRVhuaEVMOEFodUJ2OU1fbl9zVUdoajYzdkFVQzJEYWRmYw?oc=5",
+      "title": "OpenAI drags Apple’s lawsuit into the court of public opinion",
       "summary": "",
-      "publishedAt": "2026-08-03T06:54:00.000Z",
-      "publisher": "Yahoo Finance",
+      "publishedAt": "2026-08-04T11:27:55.000Z",
+      "publisher": "The Verge",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -601,35 +582,16 @@
       }
     },
     {
-      "id": "2163b413300de52f6504ca8a20340312de3f7571",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/apple-is-getting-this-wrong",
-      "title": "Apple is getting this wrong",
-      "summary": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
-      "publishedAt": "2026-08-03T22:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "108ca135ca700c1ceab2aed19e7277425d9e0e6e",
+      "id": "e200a0afb923fc4a3fe2b6042ef17e6283d97f81",
       "company": "OpenAI",
       "sourceKind": "external",
       "sourceId": "external-openai-major",
       "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZUJ3OG9JQXRfZ2I2Rkp1TjZWbXpOZXRYNFp3Yi1CZW5VczUxOC1LeVJmbUlaTFdkbFB5NVhXV3hvNTFJSy1CMDlIdDlyMFhwaFg3NVhvSHhuVHNTRW1JQmtxcmNLT1VDRGtjSFllRmN2T2lONXFJNDFsZTZqRDhJYkQ2cWdJcHEyd1kzWW9tVkJyVzdqQzJLMV93Qm5KbmZwOVV5THBnNTJNTE9pSnc?oc=5",
-      "title": "US House panel seeks briefing on OpenAI's AI agent security breach",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNczA3WWo2amR5TUgyLUNXYnNhSVFJMjlFX1dpbjhPN0R4anhTNkJNYzBseVlNbGdCa0E3ZWU5aXRfaEZWaE5OT1hSb0NCRmlJS2w5OGNMbWgyZ3hnOUNieHFRaW44b3JmMm42SVpCb1d6dVF5SG9yR0k2UndzMGs2aGVaZl9NRmIwaWd3T0RvTkh1c0xyQVpoOVJyQ21aMWZmdE1VQVJUZVZIQ0l2azhzZ25n?oc=5",
+      "title": "OpenAI, Anthropic AI agents implicated in new security breaches",
       "summary": "",
-      "publishedAt": "2026-08-03T21:31:04.000Z",
+      "publishedAt": "2026-08-05T09:57:00.000Z",
       "publisher": "Reuters",
       "discoveryMethod": "feed",
       "classification": {
@@ -639,54 +601,92 @@
       }
     },
     {
-      "id": "d3753d032c9898f4684c3f7e0912a0256d1bea12",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026",
-      "title": "The latest AI news we announced in July 2026",
-      "summary": "Here are Google’s latest AI updates from July 2026",
-      "publishedAt": "2026-08-04T13:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "d0beb56852fb92ae9ca7ccf150685c134d12a78d",
-      "company": "Meta",
+      "id": "234082582efb82a85a001ffb79ee6e4d8b51604a",
+      "company": "Anthropic",
       "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUnJhY3ZkRWRmdFhQZWowUVU4RldIS3k3endfOEdvcXYtei0tb2dVX3RReVhzSFdLNjgtTHNNUElRTVFpd2hnaG1HZ0NCN0lIMmREU1JUMzNad3NRTVMyaEhQRnN5Mkh6UmIzYUVZMlVnUU42RzBjWVZfMmZqeHA1eFV3OVFqNzRETW5XRGNR?oc=5",
-      "title": "BlackRock (BLK) Is Up 5.7% After $14 Billion Meta AI Data Center Deal - Has The Bull Case Changed?",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdFE0MWViYnRxZXNMWFdVYkxlQ2N0RE5BdEdDYldQRmtEdm91dWZicndyNTVOak5uOFJRajNKYWRfV0tzV2tOdVdsZ0JDOGZWTnc3Q1Z3aGhpZXdYT2IzYy0wTTlqTnVyczVyQWtvS2N4TWxPUE12aDdVa1E2STIybHpUQQ?oc=5",
+      "title": "Anthropic is hiring an AI chip design team",
       "summary": "",
-      "publishedAt": "2026-07-29T13:08:08.000Z",
-      "publisher": "Yahoo Finance",
+      "publishedAt": "2026-08-05T14:13:18.000Z",
+      "publisher": "TechCrunch",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
-        "score": 3,
+        "score": 4,
         "reason": "Trusted external coverage"
       }
     },
     {
-      "id": "d04cc35bd3ccb8a5aedf1fe70e1ec06b58d1bfcf",
+      "id": "09aea953a017c40e9215f9511528e497bcda6e9f",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOY1FDelRZOTYzTG85Ulp2TEdIcnJFUjhTRFo2X3VVNDhibk9hUDEzYWFQblFkeDA3aTJpWW5BVnBoU0J5VEVBajA4U3lwUmdjeXEySktLOXk3cGNsOFJsVjR3Wko2eWI2M0dqWEpLUUJjeldCMEl4YzFsal9pbURPS0ZkN09fOUxLdUpGYUNyVi1fZS1DV280RFBJNjhfdm1nV25uMzhBNGx0LTBJbVBJRkJR?oc=5",
+      "title": "SpaceX doubles revenue on Anthropic and Google compute deals, Starlink growth",
+      "summary": "",
+      "publishedAt": "2026-08-04T20:36:30.000Z",
+      "publisher": "TechCrunch",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "d15c70032ecf65f89922a77264729906bbf2c42b",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOFM5Yjkxb3lKanJoYUlSbU1odlA5a1NsNktZZUVPWmltT3R0cjFMT0R5dnhaQmY2WVBqY3BjT2ppd3p2Q3pTaVFXaW02QTJGc3E0RzFEQmNsU0RrTGUxQVFqR0RwbjdhS2JDYWdZR3ZndGNtTnVNZmFQUjNNZDFqbng1Uk5BcU9FdmVDVVhtTFJjOEE5T2ZPMFJwOU4ycUdTQXhjakNkNUpFWVF3cEx4VHlkZGJSdw?oc=5",
+      "title": "Blackstone Has Pitched Mega Debt Package for Anthropic Chip Deal",
+      "summary": "",
+      "publishedAt": "2026-08-04T14:20:54.000Z",
+      "publisher": "Bloomberg.com",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "b274d6785ee9abb7902c6d66edf9f8661ee29cd4",
       "company": "OpenAI",
       "sourceKind": "official",
       "sourceId": "openai-newsroom",
       "sourceLabel": "OpenAI Newsroom",
       "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
-      "title": "How we built a realtime system for responsive voice AI in six months",
-      "summary": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
-      "publishedAt": "2026-08-03T07:00:00.000Z",
+      "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+      "title": "New ways to learn and teach with ChatGPT Work and Codex",
+      "summary": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.",
+      "publishedAt": "2026-08-04T00:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Technical or research update"
+      }
+    },
+    {
+      "id": "977f60f7e5e3c697f2eead0cf35e429742ba811c",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+      "title": "Third-party cyber evaluations involving OpenAI models",
+      "summary": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
+      "publishedAt": "2026-08-04T19:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -696,18 +696,18 @@
       }
     },
     {
-      "id": "54e616a32e5ede38b908269b87c96f01d007be0c",
-      "company": "OpenAI",
+      "id": "3cd0cbb150ad34c844a55ff84b84153327920662",
+      "company": "Anthropic",
       "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/circles",
-      "title": "Circles powers telco personalization with OpenAI technology",
-      "summary": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.",
-      "publishedAt": "2026-08-03T00:00:00.000Z",
+      "sourceId": "anthropic-news",
+      "sourceLabel": "Anthropic News",
+      "homepageUrl": "https://www.anthropic.com/news",
+      "url": "https://www.anthropic.com/news/tino-cuellar",
+      "title": "Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
+      "summary": "",
+      "publishedAt": "2026-08-04T00:00:00.000Z",
       "publisher": "",
-      "discoveryMethod": "feed",
+      "discoveryMethod": "anchor",
       "classification": {
         "bucket": "digest",
         "score": 2,

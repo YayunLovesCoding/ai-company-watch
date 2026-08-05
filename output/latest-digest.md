@@ -1,81 +1,80 @@
 # AI Company Watch
 
-Generated: Aug 4, 2026, 9:13 AM PDT
+Generated: Aug 5, 2026, 9:01 AM PDT
 Lookback window: 7 day(s)
 Sources checked: 12
 Items fetched: 38
 Items kept: 24
 New items: 9
-External items kept: 12
-Official items kept: 12
+External items kept: 11
+Official items kept: 13
 
 ## Critical External News
 
-### OpenAI - Sam Altman’s OpenAI publishes brutal critique of Apple lawsuit: ‘Apple is getting this wrong’
+### OpenAI - OpenAI pays $3.2 million in US probe over hiring foreign workers
 Source: Major External News - OpenAI
-Publisher: Fortune
+Publisher: Reuters
 Published: Aug 4, 2026
 Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMijgFBVV95cUxNNHRvSmJ0d2FuenYzRG9abTJ3WXN1eUtkaWwteEhoREtubWpHUTU3SnotaFN5ekFMR0ZKSWdib0x6TDJlMG5Sam91LS1CNDZvTlhlWDV3NFN3TWM3MURLRjV3d25DSnIweTlNRmFYdHpaOGk3ZTNpendvLVBFZVZKblpTXzA4bXlhNTNOVEJn?oc=5
+Link: https://news.google.com/rss/articles/CBMipwFBVV95cUxNOGJOQ1NUYjZjQ2RhS091TnNpc0pDdXNyazQxOURLaDUybjNiUEV6OHJfR2FKcC1UaUNoZnVnRDJNUDB1QVdlUzFOSDBPcGRQRWRDUWdMWmZCRHE4bmZQNXlWZ0otMmVQNXBBTTN0UTczZmZ3LVpFVWJUWlVuVGJyOG13WmdNZm1pbW9sZzZPTk10NWc5TjRhNXk4SEdZQV9oX1hPczM3RQ?oc=5
 
-### OpenAI - Apple seeks preliminary injunction against OpenAI in trade secrets case
+### OpenAI - OpenAI drags Apple’s lawsuit into the court of public opinion
+Source: Major External News - OpenAI
+Publisher: The Verge
+Published: Aug 4, 2026
+Why it matters: Corporate move or major external event
+Link: https://news.google.com/rss/articles/CBMipAFBVV95cUxPajJfdzhTb0Zia01GUEZDdmg0ZmZOTVcxbEx3S0R4Tlp3S3BKbWpRU0Jaa0QwUFNrcXlOYmFnT08xbDNGSk5HWnd5UThyWURXZTFiODAxQktfN3Y5U2ZRRHJUdWJoOHZ1cmtGelZPYzZaZEc1aFVoeHhhTEZqRTQxWmZkRVhuaEVMOEFodUJ2OU1fbl9zVUdoajYzdkFVQzJEYWRmYw?oc=5
+
+### OpenAI - OpenAI, Anthropic AI agents implicated in new security breaches
 Source: Major External News - OpenAI
 Publisher: Reuters
-Published: Aug 3, 2026
-Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMivgFBVV95cUxOYUxSNUIwOXpQcmNEWkp3ckJYUUVuaExoTVlHbWNEaUp2YVVfX2Z6NHRyWkJZOHAycXZZTlduWkIweHpmd25mblFaYU9EZnRXS2FqYkNsSDBJa2FjZThqZ2c2eWp5OVNKcEhvUmxVT3ZseXZyRnpFT2JjR05INGJWdkIxWGxITUdOXzRyUnNtSWp2MVhOR0tkTjU3THctbjlHVVJTQVZxX01tdFpPX2lrcFFSX0dwNkR3eVA0Z2Jn?oc=5
-
-### Microsoft - ArcelorMittal expands Microsoft partnership on cloud
-Source: Major External News - Microsoft
-Publisher: Yahoo Finance
-Published: Aug 2, 2026
-Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMirwFBVV95cUxNQzV0dkp3MkZnV2tZazVKcXV1VDlFV2gyT1lOVjBjOGJORm12TkZYZUNZNmd4VG9kWUVkZEV5NHdmY05kMDJLZ3A5T3p2WmNVTkJXV1RCbzFvajVPNnVBQnZsNS1aQTltQ1FZMFEwVlI1bkMxX0RUOUxibXE1YUNfYUw4UUFGbElUdVZnbzZiT0hneFhxVF9Qa01ldmF1YUFyTThlSGhHQW1iNy1oWFlB?oc=5
-
-### OpenAI - US House panel seeks briefing on OpenAI's AI agent security breach
-Source: Major External News - OpenAI
-Publisher: Reuters
-Published: Aug 3, 2026
+Published: Aug 5, 2026
 Why it matters: Safety, security, or policy update
-Link: https://news.google.com/rss/articles/CBMirgFBVV95cUxOZUJ3OG9JQXRfZ2I2Rkp1TjZWbXpOZXRYNFp3Yi1CZW5VczUxOC1LeVJmbUlaTFdkbFB5NVhXV3hvNTFJSy1CMDlIdDlyMFhwaFg3NVhvSHhuVHNTRW1JQmtxcmNLT1VDRGtjSFllRmN2T2lONXFJNDFsZTZqRDhJYkQ2cWdJcHEyd1kzWW9tVkJyVzdqQzJLMV93Qm5KbmZwOVV5THBnNTJNTE9pSnc?oc=5
+Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxNczA3WWo2amR5TUgyLUNXYnNhSVFJMjlFX1dpbjhPN0R4anhTNkJNYzBseVlNbGdCa0E3ZWU5aXRfaEZWaE5OT1hSb0NCRmlJS2w5OGNMbWgyZ3hnOUNieHFRaW44b3JmMm42SVpCb1d6dVF5SG9yR0k2UndzMGs2aGVaZl9NRmIwaWd3T0RvTkh1c0xyQVpoOVJyQ21aMWZmdE1VQVJUZVZIQ0l2azhzZ25n?oc=5
 
 ## Important External News
 
-### Meta - BlackRock (BLK) Is Up 5.7% After $14 Billion Meta AI Data Center Deal - Has The Bull Case Changed?
-Source: Major External News - Meta
-Publisher: Yahoo Finance
-Published: Jul 29, 2026
+### Anthropic - Anthropic is hiring an AI chip design team
+Source: Major External News - Anthropic
+Publisher: TechCrunch
+Published: Aug 5, 2026
 Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMijgFBVV95cUxNUnJhY3ZkRWRmdFhQZWowUVU4RldIS3k3endfOEdvcXYtei0tb2dVX3RReVhzSFdLNjgtTHNNUElRTVFpd2hnaG1HZ0NCN0lIMmREU1JUMzNad3NRTVMyaEhQRnN5Mkh6UmIzYUVZMlVnUU42RzBjWVZfMmZqeHA1eFV3OVFqNzRETW5XRGNR?oc=5
+Link: https://news.google.com/rss/articles/CBMigwFBVV95cUxPdFE0MWViYnRxZXNMWFdVYkxlQ2N0RE5BdEdDYldQRmtEdm91dWZicndyNTVOak5uOFJRajNKYWRfV0tzV2tOdVdsZ0JDOGZWTnc3Q1Z3aGhpZXdYT2IzYy0wTTlqTnVyczVyQWtvS2N4TWxPUE12aDdVa1E2STIybHpUQQ?oc=5
 
-## Critical Official Updates
+### Anthropic - SpaceX doubles revenue on Anthropic and Google compute deals, Starlink growth
+Source: Major External News - Anthropic
+Publisher: TechCrunch
+Published: Aug 4, 2026
+Why it matters: Trusted external coverage
+Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxOY1FDelRZOTYzTG85Ulp2TEdIcnJFUjhTRFo2X3VVNDhibk9hUDEzYWFQblFkeDA3aTJpWW5BVnBoU0J5VEVBajA4U3lwUmdjeXEySktLOXk3cGNsOFJsVjR3Wko2eWI2M0dqWEpLUUJjeldCMEl4YzFsal9pbURPS0ZkN09fOUxLdUpGYUNyVi1fZS1DV280RFBJNjhfdm1nV25uMzhBNGx0LTBJbVBJRkJR?oc=5
 
-### OpenAI - Apple is getting this wrong
+### Anthropic - Blackstone Has Pitched Mega Debt Package for Anthropic Chip Deal
+Source: Major External News - Anthropic
+Publisher: Bloomberg.com
+Published: Aug 4, 2026
+Why it matters: Trusted external coverage
+Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxOOFM5Yjkxb3lKanJoYUlSbU1odlA5a1NsNktZZUVPWmltT3R0cjFMT0R5dnhaQmY2WVBqY3BjT2ppd3p2Q3pTaVFXaW02QTJGc3E0RzFEQmNsU0RrTGUxQVFqR0RwbjdhS2JDYWdZR3ZndGNtTnVNZmFQUjNNZDFqbng1Uk5BcU9FdmVDVVhtTFJjOEE5T2ZPMFJwOU4ycUdTQXhjakNkNUpFWVF3cEx4VHlkZGJSdw?oc=5
+
+## Important Official Updates
+
+### OpenAI - New ways to learn and teach with ChatGPT Work and Codex
 Source: OpenAI Newsroom
 Published: Aug 3, 2026
-Why it matters: Corporate move or major external event
-Summary: OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.
-Link: https://openai.com/index/apple-is-getting-this-wrong
-
-### Google - The latest AI news we announced in July 2026
-Source: Google AI
-Published: Aug 4, 2026
-Why it matters: Flagship model or product launch
-Summary: Here are Google’s latest AI updates from July 2026
-Link: https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026
+Why it matters: Technical or research update
+Summary: Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.
+Link: https://openai.com/index/learn-teach-chatgpt-work-codex
 
 ## Official Company Updates
 
-### OpenAI - How we built a realtime system for responsive voice AI in six months
+### OpenAI - Third-party cyber evaluations involving OpenAI models
 Source: OpenAI Newsroom
+Published: Aug 4, 2026
+Why it matters: Routine official update
+Summary: OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.
+Link: https://openai.com/index/third-party-cyber-evaluations-involving-openai-models
+
+### Anthropic - Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer
+Source: Anthropic News
 Published: Aug 3, 2026
 Why it matters: Routine official update
-Summary: GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.
-Link: https://openai.com/index/continuous-voice-interaction-with-gpt-live
-
-### OpenAI - Circles powers telco personalization with OpenAI technology
-Source: OpenAI Newsroom
-Published: Aug 2, 2026
-Why it matters: Routine official update
-Summary: Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.
-Link: https://openai.com/index/circles
+Link: https://www.anthropic.com/news/tino-cuellar
