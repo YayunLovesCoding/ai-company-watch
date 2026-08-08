@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T14:55:41.481Z",
+  "generatedAt": "2026-08-08T14:34:57.152Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -76,34 +76,15 @@
     }
   ],
   "totals": {
-    "fetched": 37,
+    "fetched": 36,
     "deduped": 24,
-    "new": 18,
+    "new": 6,
     "byKind": {
-      "official": 13,
-      "external": 11
+      "official": 16,
+      "external": 8
     }
   },
   "items": [
-    {
-      "id": "af3c577155e7d7ce2a5d9a849ef162b4786d6db5",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPY2F6STVRR1pYdnZPZ2FPUlh4SllBNkFFY3hrQU5hQW5KeGpFTkYyTjV0bW1xVDVieFdkWFUzSWl3VnhoVjhkYnV4T3ZMYUk5M2paU25rYzVwOURhNk9DdmxCRVg3NXpBakFPdndfalRTcjd3RjNBTWJjaDhnN0J2d3E0d2RNU2VMU21POEZCOVdYZmVSdnJ5bUx4VUM0dnUyY3QwR01ZVy02ZTdFVkpJUUZ6WmhYUQ?oc=5",
-      "title": "OpenAI Asks Judge to Toss Apple’s Trade Secrets Lawsuit",
-      "summary": "",
-      "publishedAt": "2026-08-06T16:06:49.000Z",
-      "publisher": "Bloomberg.com",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
     {
       "id": "385698201e900487361b83fdb8519896f1734b6c",
       "company": "OpenAI",
@@ -119,7 +100,7 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 7,
+        "score": 6,
         "reason": "Corporate move or major external event"
       }
     },
@@ -138,40 +119,21 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 7,
+        "score": 6,
         "reason": "Corporate move or major external event"
       }
     },
     {
-      "id": "2318006970164efa335d55ad125a981135994ea6",
-      "company": "Google",
-      "sourceKind": "external",
-      "sourceId": "external-google-major",
-      "sourceLabel": "Major External News - Google",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRl9vZDlQSGV0RnlBNGV0UDg3eUpibFNtNW16UElGMDR0aWNuRmFjNWdNMUlXazJRWmdrRnc4eENhQzI2TlkwLXlxTFJmdC02TWU1TnNOV1B6NnFpSzB3NDAxZng0WG5UcVphLW5NNDVSUWozT0VnUjFINHZqeG9HMTBtTVI?oc=5",
-      "title": "Google just announced a major shakeup of its top AI leadership",
-      "summary": "",
-      "publishedAt": "2026-08-05T16:47:23.000Z",
-      "publisher": "The Verge",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "492bbfe932ba3a0fcba4691660d506d463f572e2",
+      "id": "87c07911b5e51b33904acc561821c2ab17527b3d",
       "company": "OpenAI",
       "sourceKind": "external",
       "sourceId": "external-openai-major",
       "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWkhhSHBpbG5mclI5bjByY0JZME1SWEVfMkRXRVYtam9RTlJrX1RSZUZWODFIejVEZk9rdGRhbXFnMEo5UnRsY2FuRG8za3hVUUNzUlhYMjRabzlMemhCRXhva1RtOWZiUFJFaFlfNW04cmE3UlVMZndicWFlOEdDajRZUFY4SURiTkdvUG5yVjQ0X3NWd2RMcnVmUlVNN25yejlGQ2FmWm5pcEdpclE?oc=5",
-      "title": "OpenAI says Apple’s own security practices undermine its trade secrets case",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNd3B2a2NoaGtOdmJ5WEhERFMwbTZOX3p1MHplbG1ocnRsa25kaDFIRXU5SjVwVmFzRW1ZTWJWZ1dnYmljZ0pMVUZ1SE5RZXpaVy0ydnpjd2lVaHpuTUZEckZDSUI0MGF5N1dYZkItcmNiQkdiVlBPZFZwRENjNzIwYkVQdml5b0Z0c1Rzd3BTMXFWQ2t5N01qQ2w0T1N2bmN4US1Ra2pR?oc=5",
+      "title": "OpenAI says it slowed Astra model development over security concerns",
       "summary": "",
-      "publishedAt": "2026-08-06T15:10:32.000Z",
+      "publishedAt": "2026-08-07T22:48:24.000Z",
       "publisher": "TechCrunch",
       "discoveryMethod": "feed",
       "classification": {
@@ -194,85 +156,28 @@
       "publisher": "Startup Fortune",
       "discoveryMethod": "feed",
       "classification": {
-        "bucket": "critical",
-        "score": 5,
+        "bucket": "important",
+        "score": 4,
         "reason": "Safety, security, or policy update"
       }
     },
     {
-      "id": "7c754de09ac3367c22d9910963d26ca513cc72d2",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUEp4QUZxZUl2d2NKdWFSdjA2NF8yRTE4Ul8xV3RQdG5BWDYyNnBGSDBfYUJPNjFQd2xuYlJUYzBTNl9JVlNmRUo3N1hmN01FR2FqQXBkLWJ4c1czZEQzZTY3UFQwenNsVmt2TU9Xa3hsSnN0NGFuYjNrcWphbnF4b2hPNEhPVGYzcHBOcV8yX05pbl8zZFNFWlhkZDVINU5FMGZrM1dNbTRJS0hFZDFyTTFR?oc=5",
-      "title": "OpenAI Didn’t Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree",
-      "summary": "",
-      "publishedAt": "2026-08-06T00:15:00.000Z",
-      "publisher": "WIRED",
+      "id": "833934ee3b25f4a5a86f48ec49864f551bf31930",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+      "title": "Responding to the next frontier of critical cyber capabilities",
+      "summary": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
+      "publishedAt": "2026-08-07T15:20:00.000Z",
+      "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
         "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "0bf927657130c7aa367970badb66bd06922e0878",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQllBYmI4a3FyQjZmT20yRGUtVjVBa0pzMl9YMUgtS2hmRUJ2U3lmSmtHazl0cEc2ZXY1T0xJRnZ5WnlTaWY4enlmNWN1T09UVFhfR2NYdzFrZVM2ZU1Sd3djLTV1MkZfMnpMRTRsTFpQOTVtSWlWODhna2h2STNYdUNBdXZqcTQ4RVM0RTBzMnRLdDM2TWJyZHBlelFCN282SnZUSlVsRzFtY3BFMzM3SGZFWUctM2p4VXhLdA?oc=5",
-      "title": "Google Shifts AI Leadership to California in Race Against Anthropic, OpenAI",
-      "summary": "",
-      "publishedAt": "2026-08-06T00:00:00.000Z",
-      "publisher": "Bloomberg.com",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "5a03837d0b2cbf20f14e38bd3cff340ac242afca",
-      "company": "Google",
-      "sourceKind": "external",
-      "sourceId": "external-google-major",
-      "sourceLabel": "Major External News - Google",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOU201elU5cHhhNHU1elpXWDNIN1MwYjVUYk5OelNvTjJDbVlPUVBnTUJucWpwdWVEd1F2MWRKNXVha2kyVnB1QjdqaDU3QU9xLW5jbWNCaU1Nbm9ZSTdaWThXZTIxWWw1bkVvOTZQUW5aRE1xQjRLWFUyeWZSb0dfeU8yRExPOUhQUFdNWg?oc=5",
-      "title": "Demis Hassabis steps down from Google DeepMind CEO role amid a major AI leadership shake-up",
-      "summary": "",
-      "publishedAt": "2026-08-05T18:43:00.000Z",
-      "publisher": "Fortune",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "863bc65ab24e0d3e4cb469fbc9054dc105888a12",
-      "company": "Google",
-      "sourceKind": "external",
-      "sourceId": "external-google-major",
-      "sourceLabel": "Major External News - Google",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaHV5Q1dFcHFPLTJhTmkyTG05amxnbm1QQkRGYnpCZ0tON1FJVnJ2d0pBQVZENUlJYm01cXBoWFhvVENnbklRLVZoNndsMVpiWGNhNnJ6cEt6VFdKUGdRQ0xPem5kaHo3Y24tTlFqWGFtZGZjS25UbFl5UUMxTWtsWkVRLWQzOTZWbTViWXJXbFdIYUU0STdDcTliOEJCUEFrR0x0cQ?oc=5",
-      "title": "Google shakes up AI leadership as DeepMind chief shifts role",
-      "summary": "",
-      "publishedAt": "2026-08-05T16:02:00.000Z",
-      "publisher": "Reuters",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
+        "reason": "Safety, security, or policy update"
       }
     },
     {
@@ -295,22 +200,98 @@
       }
     },
     {
-      "id": "09aea953a017c40e9215f9511528e497bcda6e9f",
-      "company": "Anthropic",
+      "id": "7c754de09ac3367c22d9910963d26ca513cc72d2",
+      "company": "OpenAI",
       "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOY1FDelRZOTYzTG85Ulp2TEdIcnJFUjhTRFo2X3VVNDhibk9hUDEzYWFQblFkeDA3aTJpWW5BVnBoU0J5VEVBajA4U3lwUmdjeXEySktLOXk3cGNsOFJsVjR3Wko2eWI2M0dqWEpLUUJjeldCMEl4YzFsal9pbURPS0ZkN09fOUxLdUpGYUNyVi1fZS1DV280RFBJNjhfdm1nV25uMzhBNGx0LTBJbVBJRkJR?oc=5",
-      "title": "SpaceX doubles revenue on Anthropic and Google compute deals, Starlink growth",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUEp4QUZxZUl2d2NKdWFSdjA2NF8yRTE4Ul8xV3RQdG5BWDYyNnBGSDBfYUJPNjFQd2xuYlJUYzBTNl9JVlNmRUo3N1hmN01FR2FqQXBkLWJ4c1czZEQzZTY3UFQwenNsVmt2TU9Xa3hsSnN0NGFuYjNrcWphbnF4b2hPNEhPVGYzcHBOcV8yX05pbl8zZFNFWlhkZDVINU5FMGZrM1dNbTRJS0hFZDFyTTFR?oc=5",
+      "title": "OpenAI Didn’t Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree",
       "summary": "",
-      "publishedAt": "2026-08-04T20:36:30.000Z",
-      "publisher": "TechCrunch",
+      "publishedAt": "2026-08-06T00:15:00.000Z",
+      "publisher": "WIRED",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
         "score": 3,
         "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "863bc65ab24e0d3e4cb469fbc9054dc105888a12",
+      "company": "Google",
+      "sourceKind": "external",
+      "sourceId": "external-google-major",
+      "sourceLabel": "Major External News - Google",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaHV5Q1dFcHFPLTJhTmkyTG05amxnbm1QQkRGYnpCZ0tON1FJVnJ2d0pBQVZENUlJYm01cXBoWFhvVENnbklRLVZoNndsMVpiWGNhNnJ6cEt6VFdKUGdRQ0xPem5kaHo3Y24tTlFqWGFtZGZjS25UbFl5UUMxTWtsWkVRLWQzOTZWbTViWXJXbFdIYUU0STdDcTliOEJCUEFrR0x0cQ?oc=5",
+      "title": "Google shakes up AI leadership as DeepMind chief shifts role",
+      "summary": "",
+      "publishedAt": "2026-08-05T21:55:56.000Z",
+      "publisher": "Reuters",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "3c0e831ed8d26f17d46a0bcf5946921dc76a47ca",
+      "company": "Google",
+      "sourceKind": "external",
+      "sourceId": "external-google-major",
+      "sourceLabel": "Major External News - Google",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOR1ptaTk4NHpkQUVGZkJ0aGduZ1o5NmpWN0xlNXNJamp2NzBLRkpmSGJLLVhoUmF5WV85MFFidWdXLXZrZzB3RWVvWGMyRlptU2xISlAyM1JfRTN5aENDVDJ2eXJScEhsX2NQeGRiSUp6M0MtSUNTbm81MmUxTWlISFY0c1RqQVBzUi1ncEpzbDBlVWhjYmpNUHFNTExPZFdp?oc=5",
+      "title": "Demis Hassabis steps down from Google DeepMind CEO role amid a major AI leadership shake-up",
+      "summary": "",
+      "publishedAt": "2026-08-05T18:43:00.000Z",
+      "publisher": "Fortune",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "e561db406dcc92f997f89841b9408ab33c6ffcb9",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQTA0NUxhZDA4VWhpV0FtRkNOODd0M1VXbDluQnlFMFVBN0tIUWFPUExEenl0WWd5RFJiTGxLVmZRN3JCcHJPdi1HQlhzRjU4RE5qZmpaYjJwWnV2Yl9ZRElvMGQ5SXNWVktWRmd6UWpMdlZLVjVQb29NLWFxS2szdzhnRzV4SE5HOVd3WlpzbjE?oc=5",
+      "title": "Google shifts AI leadership to California in race against Anthropic, OpenAI",
+      "summary": "",
+      "publishedAt": "2026-08-05T17:02:35.000Z",
+      "publisher": "Yahoo Finance Singapore",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "04a703638c5e239fe905d691f5f5f1ab29891ebe",
+      "company": "Microsoft",
+      "sourceKind": "official",
+      "sourceId": "microsoft-ai",
+      "sourceLabel": "Microsoft AI",
+      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
+      "url": "https://news.microsoft.com/source/asia/features/microsofts-newest-india-datacenter-region-goes-live-to-power-the-countrys-ai-economy-and-enable-frontier-firms",
+      "title": "Microsoft’s newest India datacenter region goes live to power the country’s AI economy and enable Frontier Firms",
+      "summary": "Microsoft’s newest India datacenter region goes live to power the country’s AI economy and enable Frontier Firms",
+      "publishedAt": "2026-08-07T18:00:40.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Technical or research update"
       }
     },
     {
@@ -333,6 +314,25 @@
       }
     },
     {
+      "id": "80c93b712a1cf9ff39fc99c6245abb52a37808bc",
+      "company": "Microsoft",
+      "sourceKind": "official",
+      "sourceId": "microsoft-ai",
+      "sourceLabel": "Microsoft AI",
+      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
+      "url": "https://news.microsoft.com/source/asia/2026/08/04/when-access-opens-doors-how-two-young-indonesians-are-building-digital-careers-through-ai-and-cloud",
+      "title": "How two young Indonesians are building digital careers through AI and cloud",
+      "summary": "How two young Indonesians are building digital careers through AI and cloud",
+      "publishedAt": "2026-08-07T17:51:33.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
+      }
+    },
+    {
       "id": "bf5795aa70d59a160ad8c93f75874549d84c3ffa",
       "company": "Google",
       "sourceKind": "official",
@@ -406,101 +406,6 @@
         "bucket": "digest",
         "score": 2,
         "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "97e684e658a155dfb51c8a14ee58ad64c09f5049",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/weathernext-2-cyclones",
-      "title": "Our WeatherNext 2 AI model demonstrated a massive leap forward in predicting cyclones.",
-      "summary": "Google DeepMind’s WeatherNext 2 shows state-of-the-art accuracy in cyclone prediction.",
-      "publishedAt": "2026-08-06T14:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "0f0c1961f93e8e0cb939472e2748171375e397e8",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-      "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
-      "summary": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
-      "publishedAt": "2026-08-06T10:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "6da5f2d271da214d35261d9ece09c67e4121abb8",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
-      "title": "Working with the American Psychological Association on youth mental health and AI",
-      "summary": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health.",
-      "publishedAt": "2026-08-06T06:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "fea9ae47ebf2b0f008c28ac07afb6f217ce27df3",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
-      "title": "From asking to doing: How the world is putting ChatGPT to work",
-      "summary": "New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior.",
-      "publishedAt": "2026-08-06T00:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "b274d6785ee9abb7902c6d66edf9f8661ee29cd4",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
-      "title": "New ways to learn and teach with ChatGPT Work and Codex",
-      "summary": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.",
-      "publishedAt": "2026-08-04T00:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Technical or research update"
       }
     },
     {
@@ -523,293 +428,6 @@
       }
     },
     {
-      "id": "977f60f7e5e3c697f2eead0cf35e429742ba811c",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
-      "title": "Third-party cyber evaluations involving OpenAI models",
-      "summary": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
-      "publishedAt": "2026-08-04T19:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
-    }
-  ],
-  "newItems": [
-    {
-      "id": "af3c577155e7d7ce2a5d9a849ef162b4786d6db5",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPY2F6STVRR1pYdnZPZ2FPUlh4SllBNkFFY3hrQU5hQW5KeGpFTkYyTjV0bW1xVDVieFdkWFUzSWl3VnhoVjhkYnV4T3ZMYUk5M2paU25rYzVwOURhNk9DdmxCRVg3NXpBakFPdndfalRTcjd3RjNBTWJjaDhnN0J2d3E0d2RNU2VMU21POEZCOVdYZmVSdnJ5bUx4VUM0dnUyY3QwR01ZVy02ZTdFVkpJUUZ6WmhYUQ?oc=5",
-      "title": "OpenAI Asks Judge to Toss Apple’s Trade Secrets Lawsuit",
-      "summary": "",
-      "publishedAt": "2026-08-06T16:06:49.000Z",
-      "publisher": "Bloomberg.com",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "385698201e900487361b83fdb8519896f1734b6c",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWUVpNWZ2SHN0S052SFNSY3ZUNVhNb1czNGN3dHgxOXM1bUFqclB6RVZsQjM5UWtyX0VJd01XOWtnMzBkY2VTOHNscGpPdDNmNmNkMVM2aGtVZXFSY0xZUVZqTzhTaUh5TnZzcjhSaEJBYW0xRXYyS3FxOVJETW82cEI5TExQUzlLbXBJenJpenVDVGtFRFlYSEg1c0dIU3A1N0Q2dWlOekhfNmFOT05pajVZLVE1dGRuQXpRTUY1RF9ROU9jSldDTmlRclYzcmI2?oc=5",
-      "title": "OpenAI Acquired Patents from Altman-Backed AI Chip Startup Following Failed Acquisition",
-      "summary": "",
-      "publishedAt": "2026-08-06T14:06:00.000Z",
-      "publisher": "The Information",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "a217a66ab2e67e7718660b558da1260b591a9e8f",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQT3NhQVZITTY1cEdvajRQOW9nQ0VCbWVkOEJ6U2lxcUhCMDNkbmpWTzM3N3h3QkV5eTl6QnpoN1ZqeWlNRnU1MzJGOVloY1RteGNWWUFMbmpQM2ZNcHEzalNldTN2Z3pTMHY3T2NybFBLZ09qZWxxQWpqSXRuVWZaTzN0cW4?oc=5",
-      "title": "OpenAI says Apple’s trade secrets lawsuit aims to stop employees leaving",
-      "summary": "",
-      "publishedAt": "2026-08-06T06:10:39.000Z",
-      "publisher": "Financial Times",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "2318006970164efa335d55ad125a981135994ea6",
-      "company": "Google",
-      "sourceKind": "external",
-      "sourceId": "external-google-major",
-      "sourceLabel": "Major External News - Google",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRl9vZDlQSGV0RnlBNGV0UDg3eUpibFNtNW16UElGMDR0aWNuRmFjNWdNMUlXazJRWmdrRnc4eENhQzI2TlkwLXlxTFJmdC02TWU1TnNOV1B6NnFpSzB3NDAxZng0WG5UcVphLW5NNDVSUWozT0VnUjFINHZqeG9HMTBtTVI?oc=5",
-      "title": "Google just announced a major shakeup of its top AI leadership",
-      "summary": "",
-      "publishedAt": "2026-08-05T16:47:23.000Z",
-      "publisher": "The Verge",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "492bbfe932ba3a0fcba4691660d506d463f572e2",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWkhhSHBpbG5mclI5bjByY0JZME1SWEVfMkRXRVYtam9RTlJrX1RSZUZWODFIejVEZk9rdGRhbXFnMEo5UnRsY2FuRG8za3hVUUNzUlhYMjRabzlMemhCRXhva1RtOWZiUFJFaFlfNW04cmE3UlVMZndicWFlOEdDajRZUFY4SURiTkdvUG5yVjQ0X3NWd2RMcnVmUlVNN25yejlGQ2FmWm5pcEdpclE?oc=5",
-      "title": "OpenAI says Apple’s own security practices undermine its trade secrets case",
-      "summary": "",
-      "publishedAt": "2026-08-06T15:10:32.000Z",
-      "publisher": "TechCrunch",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "64287b964d7a77eff323bb00207851bdb8186079",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVTBHbmE4OGxyVXZyZEptWkozY0RhOGxuUmRSYWswVEdjcXllTXhMQWtBOHFtUllpZXJ1NHhmajRxNGZpTTFuWE52YkZGWGVWQktZUmpTYVgza3RPQ2FzUlNiWkg2ZmtKNktQR1lrOEJkaThBT21QcEpSblZtLThIZG93TG00VjFfSURiYUlScGVuVDlOa0VURFJWS0VXMkJl?oc=5",
-      "title": "UK's AI Security Institute Catches Claude and GPT Agents Lying to Humans",
-      "summary": "",
-      "publishedAt": "2026-08-06T08:21:25.000Z",
-      "publisher": "Startup Fortune",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "7c754de09ac3367c22d9910963d26ca513cc72d2",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUEp4QUZxZUl2d2NKdWFSdjA2NF8yRTE4Ul8xV3RQdG5BWDYyNnBGSDBfYUJPNjFQd2xuYlJUYzBTNl9JVlNmRUo3N1hmN01FR2FqQXBkLWJ4c1czZEQzZTY3UFQwenNsVmt2TU9Xa3hsSnN0NGFuYjNrcWphbnF4b2hPNEhPVGYzcHBOcV8yX05pbl8zZFNFWlhkZDVINU5FMGZrM1dNbTRJS0hFZDFyTTFR?oc=5",
-      "title": "OpenAI Didn’t Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree",
-      "summary": "",
-      "publishedAt": "2026-08-06T00:15:00.000Z",
-      "publisher": "WIRED",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "0bf927657130c7aa367970badb66bd06922e0878",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQllBYmI4a3FyQjZmT20yRGUtVjVBa0pzMl9YMUgtS2hmRUJ2U3lmSmtHazl0cEc2ZXY1T0xJRnZ5WnlTaWY4enlmNWN1T09UVFhfR2NYdzFrZVM2ZU1Sd3djLTV1MkZfMnpMRTRsTFpQOTVtSWlWODhna2h2STNYdUNBdXZqcTQ4RVM0RTBzMnRLdDM2TWJyZHBlelFCN282SnZUSlVsRzFtY3BFMzM3SGZFWUctM2p4VXhLdA?oc=5",
-      "title": "Google Shifts AI Leadership to California in Race Against Anthropic, OpenAI",
-      "summary": "",
-      "publishedAt": "2026-08-06T00:00:00.000Z",
-      "publisher": "Bloomberg.com",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "5a03837d0b2cbf20f14e38bd3cff340ac242afca",
-      "company": "Google",
-      "sourceKind": "external",
-      "sourceId": "external-google-major",
-      "sourceLabel": "Major External News - Google",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOU201elU5cHhhNHU1elpXWDNIN1MwYjVUYk5OelNvTjJDbVlPUVBnTUJucWpwdWVEd1F2MWRKNXVha2kyVnB1QjdqaDU3QU9xLW5jbWNCaU1Nbm9ZSTdaWThXZTIxWWw1bkVvOTZQUW5aRE1xQjRLWFUyeWZSb0dfeU8yRExPOUhQUFdNWg?oc=5",
-      "title": "Demis Hassabis steps down from Google DeepMind CEO role amid a major AI leadership shake-up",
-      "summary": "",
-      "publishedAt": "2026-08-05T18:43:00.000Z",
-      "publisher": "Fortune",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "863bc65ab24e0d3e4cb469fbc9054dc105888a12",
-      "company": "Google",
-      "sourceKind": "external",
-      "sourceId": "external-google-major",
-      "sourceLabel": "Major External News - Google",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaHV5Q1dFcHFPLTJhTmkyTG05amxnbm1QQkRGYnpCZ0tON1FJVnJ2d0pBQVZENUlJYm01cXBoWFhvVENnbklRLVZoNndsMVpiWGNhNnJ6cEt6VFdKUGdRQ0xPem5kaHo3Y24tTlFqWGFtZGZjS25UbFl5UUMxTWtsWkVRLWQzOTZWbTViWXJXbFdIYUU0STdDcTliOEJCUEFrR0x0cQ?oc=5",
-      "title": "Google shakes up AI leadership as DeepMind chief shifts role",
-      "summary": "",
-      "publishedAt": "2026-08-05T16:02:00.000Z",
-      "publisher": "Reuters",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "bf5795aa70d59a160ad8c93f75874549d84c3ffa",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-builders",
-      "title": "See what 5 builders are making with Gemini Omni",
-      "summary": "Gemini Omni makes creating videos as easy as having a conversation. Here’s how five people use it to edit videos and visualize ideas.",
-      "publishedAt": "2026-08-07T14:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "2ee94000fec4618b0a17269c2eee61e46aa1ce96",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/hsp-gruppe",
-      "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
-      "summary": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
-      "publishedAt": "2026-08-07T09:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "7fee6508a588d34243c65fb86cc66398f6f2c791",
-      "company": "Anthropic",
-      "sourceKind": "official",
-      "sourceId": "anthropic-news",
-      "sourceLabel": "Anthropic News",
-      "homepageUrl": "https://www.anthropic.com/news",
-      "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
-      "title": "Improving Fable 5&#x27;s biology safeguards",
-      "summary": "",
-      "publishedAt": "2026-08-07T00:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "anchor",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "47acca342c602e0f6201ef30bfed79dc68668b8e",
-      "company": "Meta",
-      "sourceKind": "official",
-      "sourceId": "meta-newsroom",
-      "sourceLabel": "Meta Newsroom",
-      "homepageUrl": "https://about.fb.com/news/",
-      "url": "https://about.fb.com/news/2026/08/why-meta-builds-its-own-data-centers",
-      "title": "Why Meta Builds Its Own AI Data Centers",
-      "summary": "Developer and creator Tom Shaw sits down with Meta’s VP of Data Centers Rachel Peterson to discuss how Meta is building some of the world's largest computing facilities. The post Why Meta Builds Its Own AI Data Centers",
-      "publishedAt": "2026-08-06T15:00:23.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
       "id": "97e684e658a155dfb51c8a14ee58ad64c09f5049",
       "company": "Google",
       "sourceKind": "official",
@@ -824,7 +442,7 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "digest",
-        "score": 2,
+        "score": 1,
         "reason": "Routine official update"
       }
     },
@@ -843,7 +461,7 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "digest",
-        "score": 2,
+        "score": 1,
         "reason": "Routine official update"
       }
     },
@@ -862,7 +480,7 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "digest",
-        "score": 2,
+        "score": 1,
         "reason": "Routine official update"
       }
     },
@@ -877,6 +495,160 @@
       "title": "From asking to doing: How the world is putting ChatGPT to work",
       "summary": "New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior.",
       "publishedAt": "2026-08-06T00:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 1,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "977f60f7e5e3c697f2eead0cf35e429742ba811c",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+      "title": "Third-party cyber evaluations involving OpenAI models",
+      "summary": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
+      "publishedAt": "2026-08-04T19:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 1,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "3cd0cbb150ad34c844a55ff84b84153327920662",
+      "company": "Anthropic",
+      "sourceKind": "official",
+      "sourceId": "anthropic-news",
+      "sourceLabel": "Anthropic News",
+      "homepageUrl": "https://www.anthropic.com/news",
+      "url": "https://www.anthropic.com/news/tino-cuellar",
+      "title": "Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
+      "summary": "",
+      "publishedAt": "2026-08-04T00:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "anchor",
+      "classification": {
+        "bucket": "digest",
+        "score": 1,
+        "reason": "Routine official update"
+      }
+    }
+  ],
+  "newItems": [
+    {
+      "id": "87c07911b5e51b33904acc561821c2ab17527b3d",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNd3B2a2NoaGtOdmJ5WEhERFMwbTZOX3p1MHplbG1ocnRsa25kaDFIRXU5SjVwVmFzRW1ZTWJWZ1dnYmljZ0pMVUZ1SE5RZXpaVy0ydnpjd2lVaHpuTUZEckZDSUI0MGF5N1dYZkItcmNiQkdiVlBPZFZwRENjNzIwYkVQdml5b0Z0c1Rzd3BTMXFWQ2t5N01qQ2w0T1N2bmN4US1Ra2pR?oc=5",
+      "title": "OpenAI says it slowed Astra model development over security concerns",
+      "summary": "",
+      "publishedAt": "2026-08-07T22:48:24.000Z",
+      "publisher": "TechCrunch",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "833934ee3b25f4a5a86f48ec49864f551bf31930",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+      "title": "Responding to the next frontier of critical cyber capabilities",
+      "summary": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
+      "publishedAt": "2026-08-07T15:20:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "3c0e831ed8d26f17d46a0bcf5946921dc76a47ca",
+      "company": "Google",
+      "sourceKind": "external",
+      "sourceId": "external-google-major",
+      "sourceLabel": "Major External News - Google",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOR1ptaTk4NHpkQUVGZkJ0aGduZ1o5NmpWN0xlNXNJamp2NzBLRkpmSGJLLVhoUmF5WV85MFFidWdXLXZrZzB3RWVvWGMyRlptU2xISlAyM1JfRTN5aENDVDJ2eXJScEhsX2NQeGRiSUp6M0MtSUNTbm81MmUxTWlISFY0c1RqQVBzUi1ncEpzbDBlVWhjYmpNUHFNTExPZFdp?oc=5",
+      "title": "Demis Hassabis steps down from Google DeepMind CEO role amid a major AI leadership shake-up",
+      "summary": "",
+      "publishedAt": "2026-08-05T18:43:00.000Z",
+      "publisher": "Fortune",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "e561db406dcc92f997f89841b9408ab33c6ffcb9",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQTA0NUxhZDA4VWhpV0FtRkNOODd0M1VXbDluQnlFMFVBN0tIUWFPUExEenl0WWd5RFJiTGxLVmZRN3JCcHJPdi1HQlhzRjU4RE5qZmpaYjJwWnV2Yl9ZRElvMGQ5SXNWVktWRmd6UWpMdlZLVjVQb29NLWFxS2szdzhnRzV4SE5HOVd3WlpzbjE?oc=5",
+      "title": "Google shifts AI leadership to California in race against Anthropic, OpenAI",
+      "summary": "",
+      "publishedAt": "2026-08-05T17:02:35.000Z",
+      "publisher": "Yahoo Finance Singapore",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "04a703638c5e239fe905d691f5f5f1ab29891ebe",
+      "company": "Microsoft",
+      "sourceKind": "official",
+      "sourceId": "microsoft-ai",
+      "sourceLabel": "Microsoft AI",
+      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
+      "url": "https://news.microsoft.com/source/asia/features/microsofts-newest-india-datacenter-region-goes-live-to-power-the-countrys-ai-economy-and-enable-frontier-firms",
+      "title": "Microsoft’s newest India datacenter region goes live to power the country’s AI economy and enable Frontier Firms",
+      "summary": "Microsoft’s newest India datacenter region goes live to power the country’s AI economy and enable Frontier Firms",
+      "publishedAt": "2026-08-07T18:00:40.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Technical or research update"
+      }
+    },
+    {
+      "id": "80c93b712a1cf9ff39fc99c6245abb52a37808bc",
+      "company": "Microsoft",
+      "sourceKind": "official",
+      "sourceId": "microsoft-ai",
+      "sourceLabel": "Microsoft AI",
+      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
+      "url": "https://news.microsoft.com/source/asia/2026/08/04/when-access-opens-doors-how-two-young-indonesians-are-building-digital-careers-through-ai-and-cloud",
+      "title": "How two young Indonesians are building digital careers through AI and cloud",
+      "summary": "How two young Indonesians are building digital careers through AI and cloud",
+      "publishedAt": "2026-08-07T17:51:33.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
