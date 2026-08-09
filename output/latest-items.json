@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T14:34:57.152Z",
+  "generatedAt": "2026-08-09T14:37:48.733Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -76,50 +76,31 @@
     }
   ],
   "totals": {
-    "fetched": 36,
+    "fetched": 37,
     "deduped": 24,
-    "new": 6,
+    "new": 2,
     "byKind": {
-      "official": 16,
-      "external": 8
+      "official": 15,
+      "external": 9
     }
   },
   "items": [
     {
-      "id": "385698201e900487361b83fdb8519896f1734b6c",
+      "id": "275eb5e4fb7841ee8dd1c98ccd2dc6f061b354b2",
       "company": "OpenAI",
       "sourceKind": "external",
       "sourceId": "external-openai-major",
       "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWUVpNWZ2SHN0S052SFNSY3ZUNVhNb1czNGN3dHgxOXM1bUFqclB6RVZsQjM5UWtyX0VJd01XOWtnMzBkY2VTOHNscGpPdDNmNmNkMVM2aGtVZXFSY0xZUVZqTzhTaUh5TnZzcjhSaEJBYW0xRXYyS3FxOVJETW82cEI5TExQUzlLbXBJenJpenVDVGtFRFlYSEg1c0dIU3A1N0Q2dWlOekhfNmFOT05pajVZLVE1dGRuQXpRTUY1RF9ROU9jSldDTmlRclYzcmI2?oc=5",
-      "title": "OpenAI Acquired Patents from Altman-Backed AI Chip Startup Following Failed Acquisition",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQb0ZQNkkzNmZqS00yNkN4LUtIbGxzSEI2ZzYzek5kWk5RNnVWWHc1djE4cXRGdkU2N0Rha3VySlZTRE0yZTZFY1M0UFFBcVBFS2V6MVBuT2U2Q21LX0pjQS1uYk9TWnNiaHRPeXpDNm9zdHZDa1ZPUHp2SlVKZ0s3Y1FQWXpJVjlJ?oc=5",
+      "title": "OpenAI acquires presentation startup NextSlide",
       "summary": "",
-      "publishedAt": "2026-08-06T14:06:00.000Z",
-      "publisher": "The Information",
+      "publishedAt": "2026-08-08T19:41:13.000Z",
+      "publisher": "TechCrunch",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "a217a66ab2e67e7718660b558da1260b591a9e8f",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQT3NhQVZITTY1cEdvajRQOW9nQ0VCbWVkOEJ6U2lxcUhCMDNkbmpWTzM3N3h3QkV5eTl6QnpoN1ZqeWlNRnU1MzJGOVloY1RteGNWWUFMbmpQM2ZNcHEzalNldTN2Z3pTMHY3T2NybFBLZ09qZWxxQWpqSXRuVWZaTzN0cW4?oc=5",
-      "title": "OpenAI says Apple’s trade secrets lawsuit aims to stop employees leaving",
-      "summary": "",
-      "publishedAt": "2026-08-06T06:10:39.000Z",
-      "publisher": "Financial Times",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
+        "score": 7,
         "reason": "Corporate move or major external event"
       }
     },
@@ -139,6 +120,25 @@
       "classification": {
         "bucket": "critical",
         "score": 5,
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "492bbfe932ba3a0fcba4691660d506d463f572e2",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWkhhSHBpbG5mclI5bjByY0JZME1SWEVfMkRXRVYtam9RTlJrX1RSZUZWODFIejVEZk9rdGRhbXFnMEo5UnRsY2FuRG8za3hVUUNzUlhYMjRabzlMemhCRXhva1RtOWZiUFJFaFlfNW04cmE3UlVMZndicWFlOEdDajRZUFY4SURiTkdvUG5yVjQ0X3NWd2RMcnVmUlVNN25yejlGQ2FmWm5pcEdpclE?oc=5",
+      "title": "OpenAI says Apple’s own security practices undermine its trade secrets case",
+      "summary": "",
+      "publishedAt": "2026-08-06T15:10:32.000Z",
+      "publisher": "TechCrunch",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
         "reason": "Safety, security, or policy update"
       }
     },
@@ -200,17 +200,36 @@
       }
     },
     {
-      "id": "7c754de09ac3367c22d9910963d26ca513cc72d2",
+      "id": "08738d3a4590bb5ce949fdf12d97134490eaf4f0",
       "company": "OpenAI",
       "sourceKind": "external",
       "sourceId": "external-openai-major",
       "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUWpqVld5R0JVdm1FYjhqaE5na0l0RHI2VVUzQnIxQ1Z4eWdLMm5ZTE5nX3VXTlFMRWJoaS1NZzFKVXZDY09LZ1dKTUhaQnRpNHp4X3dJUFd1cXlsbW5VQThybWE4d3p1dXJDR09DenBnQ1c1ejh2ZkNMVnBGQUlUVHBSY1FxZ2pYVWdiUlp2UUhwV3RrV0R4UDQ2Q2VyVGFPZkE?oc=5",
+      "title": "RedCloud Signs Open Weights and American AI Leadership Letter Alongside Microsoft, NVIDIA and OpenAI",
+      "summary": "",
+      "publishedAt": "2026-08-06T12:15:00.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "7c754de09ac3367c22d9910963d26ca513cc72d2",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
+      "homepageUrl": "https://news.google.com/",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUEp4QUZxZUl2d2NKdWFSdjA2NF8yRTE4Ul8xV3RQdG5BWDYyNnBGSDBfYUJPNjFQd2xuYlJUYzBTNl9JVlNmRUo3N1hmN01FR2FqQXBkLWJ4c1czZEQzZTY3UFQwenNsVmt2TU9Xa3hsSnN0NGFuYjNrcWphbnF4b2hPNEhPVGYzcHBOcV8yX05pbl8zZFNFWlhkZDVINU5FMGZrM1dNbTRJS0hFZDFyTTFR?oc=5",
       "title": "OpenAI Didn’t Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree",
       "summary": "",
       "publishedAt": "2026-08-06T00:15:00.000Z",
-      "publisher": "WIRED",
+      "publisher": "wired.com",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -333,6 +352,25 @@
       }
     },
     {
+      "id": "97cd97d27d220f15f9bc8a69f1f4b5eea602a9e8",
+      "company": "Anthropic",
+      "sourceKind": "official",
+      "sourceId": "anthropic-engineering",
+      "sourceLabel": "Anthropic Engineering",
+      "homepageUrl": "https://www.anthropic.com/engineering",
+      "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
+      "title": "Featured How we contain Claude across products As agents grow more capable, so does their potential blast radius. The engineering question is how to cap it. Here’s what we’ve learned building containment for claude.ai, Claude Code, and Cowork.",
+      "summary": "",
+      "publishedAt": null,
+      "publisher": "",
+      "discoveryMethod": "anchor",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Technical or research update"
+      }
+    },
+    {
       "id": "bf5795aa70d59a160ad8c93f75874549d84c3ffa",
       "company": "Google",
       "sourceKind": "official",
@@ -347,7 +385,7 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "digest",
-        "score": 2,
+        "score": 1,
         "reason": "Routine official update"
       }
     },
@@ -366,7 +404,7 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "digest",
-        "score": 2,
+        "score": 1,
         "reason": "Routine official update"
       }
     },
@@ -385,7 +423,7 @@
       "discoveryMethod": "anchor",
       "classification": {
         "bucket": "digest",
-        "score": 2,
+        "score": 1,
         "reason": "Routine official update"
       }
     },
@@ -404,27 +442,8 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "digest",
-        "score": 2,
+        "score": 1,
         "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "97cd97d27d220f15f9bc8a69f1f4b5eea602a9e8",
-      "company": "Anthropic",
-      "sourceKind": "official",
-      "sourceId": "anthropic-engineering",
-      "sourceLabel": "Anthropic Engineering",
-      "homepageUrl": "https://www.anthropic.com/engineering",
-      "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
-      "title": "Featured How we contain Claude across products As agents grow more capable, so does their potential blast radius. The engineering question is how to cap it. Here’s what we’ve learned building containment for claude.ai, Claude Code, and Cowork.",
-      "summary": "",
-      "publishedAt": null,
-      "publisher": "",
-      "discoveryMethod": "anchor",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Technical or research update"
       }
     },
     {
@@ -521,140 +540,45 @@
         "score": 1,
         "reason": "Routine official update"
       }
-    },
-    {
-      "id": "3cd0cbb150ad34c844a55ff84b84153327920662",
-      "company": "Anthropic",
-      "sourceKind": "official",
-      "sourceId": "anthropic-news",
-      "sourceLabel": "Anthropic News",
-      "homepageUrl": "https://www.anthropic.com/news",
-      "url": "https://www.anthropic.com/news/tino-cuellar",
-      "title": "Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
-      "summary": "",
-      "publishedAt": "2026-08-04T00:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "anchor",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
     }
   ],
   "newItems": [
     {
-      "id": "87c07911b5e51b33904acc561821c2ab17527b3d",
+      "id": "275eb5e4fb7841ee8dd1c98ccd2dc6f061b354b2",
       "company": "OpenAI",
       "sourceKind": "external",
       "sourceId": "external-openai-major",
       "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNd3B2a2NoaGtOdmJ5WEhERFMwbTZOX3p1MHplbG1ocnRsa25kaDFIRXU5SjVwVmFzRW1ZTWJWZ1dnYmljZ0pMVUZ1SE5RZXpaVy0ydnpjd2lVaHpuTUZEckZDSUI0MGF5N1dYZkItcmNiQkdiVlBPZFZwRENjNzIwYkVQdml5b0Z0c1Rzd3BTMXFWQ2t5N01qQ2w0T1N2bmN4US1Ra2pR?oc=5",
-      "title": "OpenAI says it slowed Astra model development over security concerns",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQb0ZQNkkzNmZqS00yNkN4LUtIbGxzSEI2ZzYzek5kWk5RNnVWWHc1djE4cXRGdkU2N0Rha3VySlZTRE0yZTZFY1M0UFFBcVBFS2V6MVBuT2U2Q21LX0pjQS1uYk9TWnNiaHRPeXpDNm9zdHZDa1ZPUHp2SlVKZ0s3Y1FQWXpJVjlJ?oc=5",
+      "title": "OpenAI acquires presentation startup NextSlide",
       "summary": "",
-      "publishedAt": "2026-08-07T22:48:24.000Z",
+      "publishedAt": "2026-08-08T19:41:13.000Z",
       "publisher": "TechCrunch",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 5,
-        "reason": "Safety, security, or policy update"
+        "score": 7,
+        "reason": "Corporate move or major external event"
       }
     },
     {
-      "id": "833934ee3b25f4a5a86f48ec49864f551bf31930",
+      "id": "08738d3a4590bb5ce949fdf12d97134490eaf4f0",
       "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
-      "title": "Responding to the next frontier of critical cyber capabilities",
-      "summary": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
-      "publishedAt": "2026-08-07T15:20:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "3c0e831ed8d26f17d46a0bcf5946921dc76a47ca",
-      "company": "Google",
       "sourceKind": "external",
-      "sourceId": "external-google-major",
-      "sourceLabel": "Major External News - Google",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOR1ptaTk4NHpkQUVGZkJ0aGduZ1o5NmpWN0xlNXNJamp2NzBLRkpmSGJLLVhoUmF5WV85MFFidWdXLXZrZzB3RWVvWGMyRlptU2xISlAyM1JfRTN5aENDVDJ2eXJScEhsX2NQeGRiSUp6M0MtSUNTbm81MmUxTWlISFY0c1RqQVBzUi1ncEpzbDBlVWhjYmpNUHFNTExPZFdp?oc=5",
-      "title": "Demis Hassabis steps down from Google DeepMind CEO role amid a major AI leadership shake-up",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUWpqVld5R0JVdm1FYjhqaE5na0l0RHI2VVUzQnIxQ1Z4eWdLMm5ZTE5nX3VXTlFMRWJoaS1NZzFKVXZDY09LZ1dKTUhaQnRpNHp4X3dJUFd1cXlsbW5VQThybWE4d3p1dXJDR09DenBnQ1c1ejh2ZkNMVnBGQUlUVHBSY1FxZ2pYVWdiUlp2UUhwV3RrV0R4UDQ2Q2VyVGFPZkE?oc=5",
+      "title": "RedCloud Signs Open Weights and American AI Leadership Letter Alongside Microsoft, NVIDIA and OpenAI",
       "summary": "",
-      "publishedAt": "2026-08-05T18:43:00.000Z",
-      "publisher": "Fortune",
+      "publishedAt": "2026-08-06T12:15:00.000Z",
+      "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
         "score": 3,
         "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "e561db406dcc92f997f89841b9408ab33c6ffcb9",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQTA0NUxhZDA4VWhpV0FtRkNOODd0M1VXbDluQnlFMFVBN0tIUWFPUExEenl0WWd5RFJiTGxLVmZRN3JCcHJPdi1HQlhzRjU4RE5qZmpaYjJwWnV2Yl9ZRElvMGQ5SXNWVktWRmd6UWpMdlZLVjVQb29NLWFxS2szdzhnRzV4SE5HOVd3WlpzbjE?oc=5",
-      "title": "Google shifts AI leadership to California in race against Anthropic, OpenAI",
-      "summary": "",
-      "publishedAt": "2026-08-05T17:02:35.000Z",
-      "publisher": "Yahoo Finance Singapore",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "04a703638c5e239fe905d691f5f5f1ab29891ebe",
-      "company": "Microsoft",
-      "sourceKind": "official",
-      "sourceId": "microsoft-ai",
-      "sourceLabel": "Microsoft AI",
-      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
-      "url": "https://news.microsoft.com/source/asia/features/microsofts-newest-india-datacenter-region-goes-live-to-power-the-countrys-ai-economy-and-enable-frontier-firms",
-      "title": "Microsoft’s newest India datacenter region goes live to power the country’s AI economy and enable Frontier Firms",
-      "summary": "Microsoft’s newest India datacenter region goes live to power the country’s AI economy and enable Frontier Firms",
-      "publishedAt": "2026-08-07T18:00:40.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Technical or research update"
-      }
-    },
-    {
-      "id": "80c93b712a1cf9ff39fc99c6245abb52a37808bc",
-      "company": "Microsoft",
-      "sourceKind": "official",
-      "sourceId": "microsoft-ai",
-      "sourceLabel": "Microsoft AI",
-      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
-      "url": "https://news.microsoft.com/source/asia/2026/08/04/when-access-opens-doors-how-two-young-indonesians-are-building-digital-careers-through-ai-and-cloud",
-      "title": "How two young Indonesians are building digital careers through AI and cloud",
-      "summary": "How two young Indonesians are building digital careers through AI and cloud",
-      "publishedAt": "2026-08-07T17:51:33.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
       }
     }
   ],
