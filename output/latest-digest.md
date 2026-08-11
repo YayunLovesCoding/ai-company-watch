@@ -1,53 +1,67 @@
 # AI Company Watch
 
-Generated: Aug 10, 2026, 8:01 AM PDT
+Generated: Aug 11, 2026, 8:01 AM PDT
 Lookback window: 7 day(s)
 Sources checked: 12
-Items fetched: 35
+Items fetched: 36
 Items kept: 24
-New items: 5
-External items kept: 7
-Official items kept: 17
-
-## Critical External News
-
-### OpenAI - OpenAI tightens controls on its new model over cybersecurity risks, as AI security debate intensifies
-Source: Major External News - OpenAI
-Publisher: CNBC
-Published: Aug 10, 2026
-Why it matters: Safety, security, or policy update
-Link: https://news.google.com/rss/articles/CBMieEFVX3lxTE42YVhOUXpnOEtLdW41SXZndUQ2OWd6cmstNHBhc2JqVGZZaE05Z3pIQk8tYUtVU2t1dGdpYWJvSzBWQWNFTDFLWXp0LWtJUGQ4TWNXVnZlWkFIa2Z2TkNPMGRQRWRsOXA3WjlMNDJDbm5Lc2V6SW9UR9IBfkFVX3lxTE00VHJaekgzSDJvajdabVhmN2JXSmVZeHkyS19xNHp6dkhnOHNKZ2tETHhtYlBTTHlILXNHQ3YxZW9vYTBhN0djbnhDLTJpM3NkZ1pDZ0cwZ05YeDhseVF6TWFXS0RvQUFmdXQtNVUyM0k0bTYyMGY5b0N3YmNjUQ?oc=5
+New items: 7
+External items kept: 8
+Official items kept: 16
 
 ## Important External News
 
-### OpenAI - Microsoft’s AI Revenue is 70% OpenAI
-Source: Major External News - OpenAI
-Publisher: Yahoo Finance
-Published: Aug 6, 2026
+### Meta - Louisiana leaders clash over how to keep Meta data center costs off household bills
+Source: Major External News - Meta
+Publisher: Yahoo
+Published: Aug 10, 2026
 Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMimgFBVV95cUxNYnJNUTEtWTNldE8wRWItdjhSLVo3cy1pT1laTkRxem5QWERPWFhQVVRtUnJaelA1YkstN1hLOFFZZkdXMzFCbzVXMkVZSlgwQjNFU0RhWE4ySFpMYXNXb09oXzMyMlFJQmdRd0NETzFZUm90OWYzVmZzS0xMSUNndzFQWE1RTDZON2lEblBIWFE3SFcwTjV3REhB?oc=5
+Link: https://news.google.com/rss/articles/CBMimAFBVV95cUxNYXN5ckVDTVZqOHNWU1ZjY2JQTXRZN1ZCNXJKMmpERlk3UFowR05RaEw5b3NhN2VzUkJQaC1CVkhOTEhwV1Q3dURwQ0ZqeXRsQlVaOVB2UkhIUWFDSW9peGRSYUdwaV9ianBlNTRKa3Z2OWdnYl9ERGk4Ty1jZ3RFR090dDY1T0ZVQVVqMmxJQmh4QlRRc2l3TQ?oc=5
+
+### Meta - Meta agrees to comply with Abbott’s Texas data center standards
+Source: Major External News - Meta
+Publisher: Yahoo
+Published: Aug 10, 2026
+Why it matters: Trusted external coverage
+Link: https://news.google.com/rss/articles/CBMilgFBVV95cUxOSnhqMG5vVkM1QXNMVjBPOUN2TWwtRHVPUnBwZldTWDBHc3dCTXM4MzJST1hPYmtFYkRqa2oxYk1DZERtVGxDQjFJVU9IZkVsekxPVjNZczcxVHUxOFhNTzdBT25OOEtCc0lfeEtvQUJ0ZGQ5bTdjQnlvYUQ2YkNWNUV5VzBmeDVzOHpteUZWV2VtcGtvbmc?oc=5
+
+### Google - Google stock drops amid DeepMind leadership shake-up
+Source: Major External News - Google
+Publisher: Yahoo Finance
+Published: Aug 5, 2026
+Why it matters: Trusted external coverage
+Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxPcmQzQjBOMy1CY1k5T1pURGFYT3NHa1hSSENrRjZSNTZQYzFJd1ZoaU1zUWVJRHB6MldhbHhsTHBfUi1CTzY2VEx6TWkzOFItR1FNZ2JLSGd4b0lxLXc1Q3hNbnpkeVozdjA2eVBJaG1uUUFqeTZjNk9yWlFoMjdsbHR1bmRud25lQTdPRldFT2pfTm5uTkFhSk1ZaExBTXFJYUJQU0xZellOTlZfQXFTTnNn?oc=5
+
+## Critical Official Updates
+
+### OpenAI - Putting frontier cyber models in more trusted hands
+Source: OpenAI Newsroom
+Published: Aug 10, 2026
+Why it matters: Corporate move or major external event
+Summary: Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers.
+Link: https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands
 
 ## Important Official Updates
 
-### OpenAI - OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas
+### OpenAI - Expanding Daybreak as the Cyber Defense Window Narrows
 Source: OpenAI Newsroom
 Published: Aug 10, 2026
-Why it matters: Technical or research update
-Summary: OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans.
-Link: https://openai.com/index/responsible-ai-infrastructure-texas
-
-### OpenAI - Model ML completes finance work more efficiently with GPT-5.6 Sol
-Source: OpenAI Newsroom
-Published: Aug 10, 2026
-Why it matters: Technical or research update
-Summary: Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks.
-Link: https://openai.com/index/model-ml
+Why it matters: Safety, security, or policy update
+Summary: Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.
+Link: https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows
 
 ## Official Company Updates
 
-### Meta - The Future is for Everyone
-Source: Meta Newsroom
+### OpenAI - What building an AI-native finance function taught me
+Source: OpenAI Newsroom
 Published: Aug 10, 2026
 Why it matters: Routine official update
-Summary: A letter from Mark Zuckerberg on the path to a positive AI future. The post The Future is for Everyone
-Link: https://about.fb.com/news/2026/08/the-future-is-for-everyone
+Summary: OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.
+Link: https://openai.com/index/building-an-ai-native-finance-function
+
+### OpenAI - How Zapier transformed core marketing processes with ChatGPT Work
+Source: OpenAI Newsroom
+Published: Aug 9, 2026
+Why it matters: Routine official update
+Summary: The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.
+Link: https://openai.com/index/zapier
