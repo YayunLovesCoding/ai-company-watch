@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T15:01:18.336Z",
+  "generatedAt": "2026-08-12T15:00:46.175Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -76,15 +76,34 @@
     }
   ],
   "totals": {
-    "fetched": 36,
+    "fetched": 33,
     "deduped": 24,
-    "new": 7,
+    "new": 11,
     "byKind": {
       "official": 16,
       "external": 8
     }
   },
   "items": [
+    {
+      "id": "b4127d654bf5f595e9c611f9c14e0694c77fdcd3",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWmFCUUI5VlJBbHR3TC1CcUNXRFM5N0JsTHBTTlBKX0NWRGhtdW1rb2pQbm9WYjUxOVpzXzlEMDJ3eGhJLVlOaWJtZURNbjhON3NoUzlKRHQzd1oxN1VMdnM3czNrZlVvbk9RdkdVRkdkYWFjWVd1MWJKaDJlTW9ZdTNmanVQemZ4RUFBOXFUNWtwSTFkamJqU0x4MlhuRTlmYjk2UGh3?oc=5",
+      "title": "Microsoft Rebuts Gamers’ Antitrust Claims of Valve Kickback Deal",
+      "summary": "",
+      "publishedAt": "2026-08-11T21:27:00.000Z",
+      "publisher": "Bloomberg Law News",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
     {
       "id": "275eb5e4fb7841ee8dd1c98ccd2dc6f061b354b2",
       "company": "OpenAI",
@@ -105,22 +124,79 @@
       }
     },
     {
-      "id": "7f776d7829d07edef8a9ed148664107425911d12",
-      "company": "OpenAI",
+      "id": "a18697a7882d9b1442c7b16ef16821f37ddf68e7",
+      "company": "Meta",
       "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
-      "title": "Putting frontier cyber models in more trusted hands",
-      "summary": "Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers.",
-      "publishedAt": "2026-08-10T10:00:00.000Z",
+      "sourceId": "meta-newsroom",
+      "sourceLabel": "Meta Newsroom",
+      "homepageUrl": "https://about.fb.com/news/",
+      "url": "https://about.fb.com/news/2026/08/nabtu-and-meta-partnership-to-invest-in-skilled-trades-for-ai-era",
+      "title": "NABTU and Meta Announce New Partnership to Invest In Skilled Trades for the AI Era",
+      "summary": "Meta and North America's Building Trades Unions (NABTU) are partnering to invest in skilled trades workers building America's AI infrastructure. The post NABTU and Meta Announce New Partnership to Invest In Skilled Trades for the AI Era",
+      "publishedAt": "2026-08-12T13:51:19.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
         "score": 6,
         "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "5ca0b8b3f67434c5dbf55f1d0898ccb907c19fa7",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWGpaNTRfX01VRmx2ZDRPWU5NYWEwNDg1eEtZdjFJYTVScnotWmxKeTZtbGtYWV95SlBRd0ZpU0tSNlo4emlTTWRob0wtY3NMNmVVc1FhZmo1YVF0aVhYUmRSSlYyVDZaNGE0RHNvYzBsWmVKRzdpRnRNMFNiLW5MVUk1ZDhLekE?oc=5",
+      "title": "How I use AI: BNY CEO and OpenAI board member Robin Vince",
+      "summary": "",
+      "publishedAt": "2026-08-12T09:34:36.000Z",
+      "publisher": "Axios",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "faf78018a54ce24f1dbf403b950b3d566eb271e8",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRG54U2JjUlc3RmVfeUNfV2xzT2ZvV3RPanhVcWN3Ymc5Mlp1d2JkbHFvcXR6WlBSNmhUU3pmTVNyTk1zd3ZEb3lUZ2FmNjhUaGdfRGNoeDFCTWpodWU5ZmpGMTVYS3NrSEgyVlNyeDJLRUNfbEEyTkFWWlloa0JiSm9XdkZaTDg?oc=5",
+      "title": "Meta, OpenAI join list of tech giants following Texas data center rules",
+      "summary": "",
+      "publishedAt": "2026-08-11T15:41:02.000Z",
+      "publisher": "Yahoo",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "f3e803642b7c462215f565c7ce76554d47d52b5e",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZlFOREE4TVY2RW5NMVJKbGQ2ZnY3OXFTWUhUS2ZLV2kwUW1RQTVUU29zeW1nUlpyWmN2MjNvY054aTB5WnRncTJkTERPZVR0RWVaX2JhN0pWY2xyaGtObTVxNloyalZIQnRIRFFvSGxXYWdiZkZqZExPYmxmdkk5RFp0cmh4b0tab0dPV3FfWXpGT3lzeVlF?oc=5",
+      "title": "Meta supports Texas data center guidelines",
+      "summary": "",
+      "publishedAt": "2026-08-10T19:41:00.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
       }
     },
     {
@@ -137,47 +213,9 @@
       "publisher": "cnbc.com",
       "discoveryMethod": "feed",
       "classification": {
-        "bucket": "critical",
-        "score": 5,
+        "bucket": "important",
+        "score": 4,
         "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "48d4b08ade9c83391cf8728781b2d7329c19c2c4",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYXN5ckVDTVZqOHNWU1ZjY2JQTXRZN1ZCNXJKMmpERlk3UFowR05RaEw5b3NhN2VzUkJQaC1CVkhOTEhwV1Q3dURwQ0ZqeXRsQlVaOVB2UkhIUWFDSW9peGRSYUdwaV9ianBlNTRKa3Z2OWdnYl9ERGk4Ty1jZ3RFR090dDY1T0ZVQVVqMmxJQmh4QlRRc2l3TQ?oc=5",
-      "title": "Louisiana leaders clash over how to keep Meta data center costs off household bills",
-      "summary": "",
-      "publishedAt": "2026-08-11T06:25:00.000Z",
-      "publisher": "Yahoo",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "25b8ebe31b4b036899b0dc17eaed16c7eeb99bce",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSnhqMG5vVkM1QXNMVjBPOUN2TWwtRHVPUnBwZldTWDBHc3dCTXM4MzJST1hPYmtFYkRqa2oxYk1DZERtVGxDQjFJVU9IZkVsekxPVjNZczcxVHUxOFhNTzdBT25OOEtCc0lfeEtvQUJ0ZGQ5bTdjQnlvYUQ2YkNWNUV5VzBmeDVzOHpteUZWV2VtcGtvbmc?oc=5",
-      "title": "Meta agrees to comply with Abbott’s Texas data center standards",
-      "summary": "",
-      "publishedAt": "2026-08-10T20:02:05.000Z",
-      "publisher": "Yahoo",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
       }
     },
     {
@@ -200,17 +238,17 @@
       }
     },
     {
-      "id": "492bbfe932ba3a0fcba4691660d506d463f572e2",
+      "id": "b274e00978a8c0306df3d120c050bf97ed5f1983",
       "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWkhhSHBpbG5mclI5bjByY0JZME1SWEVfMkRXRVYtam9RTlJrX1RSZUZWODFIejVEZk9rdGRhbXFnMEo5UnRsY2FuRG8za3hVUUNzUlhYMjRabzlMemhCRXhva1RtOWZiUFJFaFlfNW04cmE3UlVMZndicWFlOEdDajRZUFY4SURiTkdvUG5yVjQ0X3NWd2RMcnVmUlVNN25yejlGQ2FmWm5pcEdpclE?oc=5",
-      "title": "OpenAI says Apple’s own security practices undermine its trade secrets case",
-      "summary": "",
-      "publishedAt": "2026-08-06T15:10:32.000Z",
-      "publisher": "TechCrunch",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+      "title": "Daybreak models are now available on AWS",
+      "summary": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
+      "publishedAt": "2026-08-11T10:00:00.000Z",
+      "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -219,16 +257,16 @@
       }
     },
     {
-      "id": "3a8585570cab21df194c4115cce4c90cdf272f31",
+      "id": "de2ca3d7578dd51cbe196bf098f482b58becc321",
       "company": "OpenAI",
       "sourceKind": "official",
       "sourceId": "openai-newsroom",
       "sourceLabel": "OpenAI Newsroom",
       "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-      "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
-      "summary": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
-      "publishedAt": "2026-08-10T10:00:00.000Z",
+      "url": "https://openai.com/index/testing-ads-in-chatgpt",
+      "title": "Testing ads in ChatGPT",
+      "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+      "publishedAt": "2026-08-11T10:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -257,35 +295,16 @@
       }
     },
     {
-      "id": "ac25ef8a77e98fd24587c94b7004fd5628bfd8a4",
-      "company": "Google",
-      "sourceKind": "external",
-      "sourceId": "external-google-major",
-      "sourceLabel": "Major External News - Google",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcmQzQjBOMy1CY1k5T1pURGFYT3NHa1hSSENrRjZSNTZQYzFJd1ZoaU1zUWVJRHB6MldhbHhsTHBfUi1CTzY2VEx6TWkzOFItR1FNZ2JLSGd4b0lxLXc1Q3hNbnpkeVozdjA2eVBJaG1uUUFqeTZjNk9yWlFoMjdsbHR1bmRud25lQTdPRldFT2pfTm5uTkFhSk1ZaExBTXFJYUJQU0xZellOTlZfQXFTTnNn?oc=5",
-      "title": "Google stock drops amid DeepMind leadership shake-up",
-      "summary": "",
-      "publishedAt": "2026-08-05T17:02:19.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "61282b7420ed067525c1f91d92b2480700145654",
+      "id": "fb21820d806b1b78d97fc2960a75ac211fb61114",
       "company": "OpenAI",
       "sourceKind": "official",
       "sourceId": "openai-newsroom",
       "sourceLabel": "OpenAI Newsroom",
       "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
-      "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
-      "summary": "OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans.",
-      "publishedAt": "2026-08-10T14:00:00.000Z",
+      "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+      "title": "From assistance to execution: How enterprises put AI to work",
+      "summary": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
+      "publishedAt": "2026-08-12T06:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -295,16 +314,16 @@
       }
     },
     {
-      "id": "c7b962b1d9efaa2a9e74cd90c9ed8a5b0f0b1e1b",
-      "company": "OpenAI",
+      "id": "9514940f045b6decb4ea4221d63af5d2fb2d6a38",
+      "company": "Google",
       "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/model-ml",
-      "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
-      "summary": "Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks.",
-      "publishedAt": "2026-08-10T12:00:00.000Z",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations",
+      "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+      "summary": "Google introduces AMIE for real-time clinical video consultations in simulated settings.",
+      "publishedAt": "2026-08-11T17:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -333,6 +352,44 @@
       }
     },
     {
+      "id": "0373276798b61535e4e989e40b6ea575ed6c2639",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/new-connected-apps-services-gemini-august-2026",
+      "title": "Now you can connect even more of your favorite apps and services to Gemini.",
+      "summary": "Connect your favorite services directly to Gemini to help you plan trips, manage projects and tackle your daily to-do list.",
+      "publishedAt": "2026-08-12T14:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "f2596188172945626296f68aa6e81055a1ed9399",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/one-billion-monthly-users",
+      "title": "More than 1 billion people are using the Gemini app every month.",
+      "summary": "The Gemini app has officially surpassed 1 billion monthly users, making it the fastest-growing product in Google’s history. Here’s some data about how people are using G…",
+      "publishedAt": "2026-08-11T16:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
+      }
+    },
+    {
       "id": "7a678e9a26d7e264e59b07c8d89347737c8a5e1c",
       "company": "OpenAI",
       "sourceKind": "official",
@@ -352,41 +409,41 @@
       }
     },
     {
-      "id": "38f2e10a1ed9aa2fe6228a49134961f8d531f17d",
-      "company": "Meta",
-      "sourceKind": "official",
-      "sourceId": "meta-newsroom",
-      "sourceLabel": "Meta Newsroom",
-      "homepageUrl": "https://about.fb.com/news/",
-      "url": "https://about.fb.com/news/2026/08/the-future-is-for-everyone",
-      "title": "The Future is for Everyone",
-      "summary": "A letter from Mark Zuckerberg on the path to a positive AI future. The post The Future is for Everyone",
-      "publishedAt": "2026-08-10T10:01:23.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "1ea3eea3d9a52b4c995b7f5be1dcfad618e38c16",
+      "id": "61282b7420ed067525c1f91d92b2480700145654",
       "company": "OpenAI",
       "sourceKind": "official",
       "sourceId": "openai-newsroom",
       "sourceLabel": "OpenAI Newsroom",
       "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/zapier",
-      "title": "How Zapier transformed core marketing processes with ChatGPT Work",
-      "summary": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.",
-      "publishedAt": "2026-08-10T00:00:00.000Z",
+      "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
+      "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
+      "summary": "OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans.",
+      "publishedAt": "2026-08-10T14:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "digest",
         "score": 2,
-        "reason": "Routine official update"
+        "reason": "Technical or research update"
+      }
+    },
+    {
+      "id": "c7b962b1d9efaa2a9e74cd90c9ed8a5b0f0b1e1b",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/model-ml",
+      "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+      "summary": "Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks.",
+      "publishedAt": "2026-08-10T12:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Technical or research update"
       }
     },
     {
@@ -428,6 +485,25 @@
       }
     },
     {
+      "id": "38f2e10a1ed9aa2fe6228a49134961f8d531f17d",
+      "company": "Meta",
+      "sourceKind": "official",
+      "sourceId": "meta-newsroom",
+      "sourceLabel": "Meta Newsroom",
+      "homepageUrl": "https://about.fb.com/news/",
+      "url": "https://about.fb.com/news/2026/08/the-future-is-for-everyone",
+      "title": "The Future is for Everyone",
+      "summary": "A letter from Mark Zuckerberg on the path to a positive AI future. The post The Future is for Everyone",
+      "publishedAt": "2026-08-10T10:01:23.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 1,
+        "reason": "Routine official update"
+      }
+    },
+    {
       "id": "80c93b712a1cf9ff39fc99c6245abb52a37808bc",
       "company": "Microsoft",
       "sourceKind": "official",
@@ -438,25 +514,6 @@
       "title": "How two young Indonesians are building digital careers through AI and cloud",
       "summary": "How two young Indonesians are building digital careers through AI and cloud",
       "publishedAt": "2026-08-07T17:51:33.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "bf5795aa70d59a160ad8c93f75874549d84c3ffa",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-builders",
-      "title": "See what 5 builders are making with Gemini Omni",
-      "summary": "Gemini Omni makes creating videos as easy as having a conversation. Here’s how five people use it to edit videos and visualize ideas.",
-      "publishedAt": "2026-08-07T14:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -483,77 +540,39 @@
         "score": 1,
         "reason": "Routine official update"
       }
+    }
+  ],
+  "newItems": [
+    {
+      "id": "b4127d654bf5f595e9c611f9c14e0694c77fdcd3",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWmFCUUI5VlJBbHR3TC1CcUNXRFM5N0JsTHBTTlBKX0NWRGhtdW1rb2pQbm9WYjUxOVpzXzlEMDJ3eGhJLVlOaWJtZURNbjhON3NoUzlKRHQzd1oxN1VMdnM3czNrZlVvbk9RdkdVRkdkYWFjWVd1MWJKaDJlTW9ZdTNmanVQemZ4RUFBOXFUNWtwSTFkamJqU0x4MlhuRTlmYjk2UGh3?oc=5",
+      "title": "Microsoft Rebuts Gamers’ Antitrust Claims of Valve Kickback Deal",
+      "summary": "",
+      "publishedAt": "2026-08-11T21:27:00.000Z",
+      "publisher": "Bloomberg Law News",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
     },
     {
-      "id": "47acca342c602e0f6201ef30bfed79dc68668b8e",
+      "id": "a18697a7882d9b1442c7b16ef16821f37ddf68e7",
       "company": "Meta",
       "sourceKind": "official",
       "sourceId": "meta-newsroom",
       "sourceLabel": "Meta Newsroom",
       "homepageUrl": "https://about.fb.com/news/",
-      "url": "https://about.fb.com/news/2026/08/why-meta-builds-its-own-data-centers",
-      "title": "Why Meta Builds Its Own AI Data Centers",
-      "summary": "Developer and creator Tom Shaw sits down with Meta’s VP of Data Centers Rachel Peterson to discuss how Meta is building some of the world's largest computing facilities. The post Why Meta Builds Its Own AI Data Centers",
-      "publishedAt": "2026-08-06T15:00:23.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "97e684e658a155dfb51c8a14ee58ad64c09f5049",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/weathernext-2-cyclones",
-      "title": "Our WeatherNext 2 AI model demonstrated a massive leap forward in predicting cyclones.",
-      "summary": "Google DeepMind’s WeatherNext 2 shows state-of-the-art accuracy in cyclone prediction.",
-      "publishedAt": "2026-08-06T14:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "f7eb2a868aacbc6f7921959048830fe084f1211f",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api",
-      "title": "Expanding Managed Agents in the Gemini API",
-      "summary": "",
-      "publishedAt": null,
-      "publisher": "",
-      "discoveryMethod": "anchor",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
-    }
-  ],
-  "newItems": [
-    {
-      "id": "7f776d7829d07edef8a9ed148664107425911d12",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
-      "title": "Putting frontier cyber models in more trusted hands",
-      "summary": "Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers.",
-      "publishedAt": "2026-08-10T10:00:00.000Z",
+      "url": "https://about.fb.com/news/2026/08/nabtu-and-meta-partnership-to-invest-in-skilled-trades-for-ai-era",
+      "title": "NABTU and Meta Announce New Partnership to Invest In Skilled Trades for the AI Era",
+      "summary": "Meta and North America's Building Trades Unions (NABTU) are partnering to invest in skilled trades workers building America's AI infrastructure. The post NABTU and Meta Announce New Partnership to Invest In Skilled Trades for the AI Era",
+      "publishedAt": "2026-08-12T13:51:19.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -563,16 +582,35 @@
       }
     },
     {
-      "id": "48d4b08ade9c83391cf8728781b2d7329c19c2c4",
+      "id": "5ca0b8b3f67434c5dbf55f1d0898ccb907c19fa7",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWGpaNTRfX01VRmx2ZDRPWU5NYWEwNDg1eEtZdjFJYTVScnotWmxKeTZtbGtYWV95SlBRd0ZpU0tSNlo4emlTTWRob0wtY3NMNmVVc1FhZmo1YVF0aVhYUmRSSlYyVDZaNGE0RHNvYzBsWmVKRzdpRnRNMFNiLW5MVUk1ZDhLekE?oc=5",
+      "title": "How I use AI: BNY CEO and OpenAI board member Robin Vince",
+      "summary": "",
+      "publishedAt": "2026-08-12T09:34:36.000Z",
+      "publisher": "Axios",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "faf78018a54ce24f1dbf403b950b3d566eb271e8",
       "company": "Meta",
       "sourceKind": "external",
       "sourceId": "external-meta-major",
       "sourceLabel": "Major External News - Meta",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYXN5ckVDTVZqOHNWU1ZjY2JQTXRZN1ZCNXJKMmpERlk3UFowR05RaEw5b3NhN2VzUkJQaC1CVkhOTEhwV1Q3dURwQ0ZqeXRsQlVaOVB2UkhIUWFDSW9peGRSYUdwaV9ianBlNTRKa3Z2OWdnYl9ERGk4Ty1jZ3RFR090dDY1T0ZVQVVqMmxJQmh4QlRRc2l3TQ?oc=5",
-      "title": "Louisiana leaders clash over how to keep Meta data center costs off household bills",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRG54U2JjUlc3RmVfeUNfV2xzT2ZvV3RPanhVcWN3Ymc5Mlp1d2JkbHFvcXR6WlBSNmhUU3pmTVNyTk1zd3ZEb3lUZ2FmNjhUaGdfRGNoeDFCTWpodWU5ZmpGMTVYS3NrSEgyVlNyeDJLRUNfbEEyTkFWWlloa0JiSm9XdkZaTDg?oc=5",
+      "title": "Meta, OpenAI join list of tech giants following Texas data center rules",
       "summary": "",
-      "publishedAt": "2026-08-11T06:25:00.000Z",
+      "publishedAt": "2026-08-11T15:41:02.000Z",
       "publisher": "Yahoo",
       "discoveryMethod": "feed",
       "classification": {
@@ -582,17 +620,17 @@
       }
     },
     {
-      "id": "25b8ebe31b4b036899b0dc17eaed16c7eeb99bce",
+      "id": "f3e803642b7c462215f565c7ce76554d47d52b5e",
       "company": "Meta",
       "sourceKind": "external",
       "sourceId": "external-meta-major",
       "sourceLabel": "Major External News - Meta",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSnhqMG5vVkM1QXNMVjBPOUN2TWwtRHVPUnBwZldTWDBHc3dCTXM4MzJST1hPYmtFYkRqa2oxYk1DZERtVGxDQjFJVU9IZkVsekxPVjNZczcxVHUxOFhNTzdBT25OOEtCc0lfeEtvQUJ0ZGQ5bTdjQnlvYUQ2YkNWNUV5VzBmeDVzOHpteUZWV2VtcGtvbmc?oc=5",
-      "title": "Meta agrees to comply with Abbott’s Texas data center standards",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZlFOREE4TVY2RW5NMVJKbGQ2ZnY3OXFTWUhUS2ZLV2kwUW1RQTVUU29zeW1nUlpyWmN2MjNvY054aTB5WnRncTJkTERPZVR0RWVaX2JhN0pWY2xyaGtObTVxNloyalZIQnRIRFFvSGxXYWdiZkZqZExPYmxmdkk5RFp0cmh4b0tab0dPV3FfWXpGT3lzeVlF?oc=5",
+      "title": "Meta supports Texas data center guidelines",
       "summary": "",
-      "publishedAt": "2026-08-10T20:02:05.000Z",
-      "publisher": "Yahoo",
+      "publishedAt": "2026-08-10T19:41:00.000Z",
+      "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -601,16 +639,16 @@
       }
     },
     {
-      "id": "3a8585570cab21df194c4115cce4c90cdf272f31",
+      "id": "b274e00978a8c0306df3d120c050bf97ed5f1983",
       "company": "OpenAI",
       "sourceKind": "official",
       "sourceId": "openai-newsroom",
       "sourceLabel": "OpenAI Newsroom",
       "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-      "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
-      "summary": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
-      "publishedAt": "2026-08-10T10:00:00.000Z",
+      "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+      "title": "Daybreak models are now available on AWS",
+      "summary": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
+      "publishedAt": "2026-08-11T10:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -620,35 +658,73 @@
       }
     },
     {
-      "id": "ac25ef8a77e98fd24587c94b7004fd5628bfd8a4",
-      "company": "Google",
-      "sourceKind": "external",
-      "sourceId": "external-google-major",
-      "sourceLabel": "Major External News - Google",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcmQzQjBOMy1CY1k5T1pURGFYT3NHa1hSSENrRjZSNTZQYzFJd1ZoaU1zUWVJRHB6MldhbHhsTHBfUi1CTzY2VEx6TWkzOFItR1FNZ2JLSGd4b0lxLXc1Q3hNbnpkeVozdjA2eVBJaG1uUUFqeTZjNk9yWlFoMjdsbHR1bmRud25lQTdPRldFT2pfTm5uTkFhSk1ZaExBTXFJYUJQU0xZellOTlZfQXFTTnNn?oc=5",
-      "title": "Google stock drops amid DeepMind leadership shake-up",
-      "summary": "",
-      "publishedAt": "2026-08-05T17:02:19.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "7a678e9a26d7e264e59b07c8d89347737c8a5e1c",
+      "id": "de2ca3d7578dd51cbe196bf098f482b58becc321",
       "company": "OpenAI",
       "sourceKind": "official",
       "sourceId": "openai-newsroom",
       "sourceLabel": "OpenAI Newsroom",
       "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/building-an-ai-native-finance-function",
-      "title": "What building an AI-native finance function taught me",
-      "summary": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.",
-      "publishedAt": "2026-08-10T17:00:00.000Z",
+      "url": "https://openai.com/index/testing-ads-in-chatgpt",
+      "title": "Testing ads in ChatGPT",
+      "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+      "publishedAt": "2026-08-11T10:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "fb21820d806b1b78d97fc2960a75ac211fb61114",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+      "title": "From assistance to execution: How enterprises put AI to work",
+      "summary": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
+      "publishedAt": "2026-08-12T06:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Technical or research update"
+      }
+    },
+    {
+      "id": "9514940f045b6decb4ea4221d63af5d2fb2d6a38",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations",
+      "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+      "summary": "Google introduces AMIE for real-time clinical video consultations in simulated settings.",
+      "publishedAt": "2026-08-11T17:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Technical or research update"
+      }
+    },
+    {
+      "id": "0373276798b61535e4e989e40b6ea575ed6c2639",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/new-connected-apps-services-gemini-august-2026",
+      "title": "Now you can connect even more of your favorite apps and services to Gemini.",
+      "summary": "Connect your favorite services directly to Gemini to help you plan trips, manage projects and tackle your daily to-do list.",
+      "publishedAt": "2026-08-12T14:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -658,16 +734,16 @@
       }
     },
     {
-      "id": "1ea3eea3d9a52b4c995b7f5be1dcfad618e38c16",
-      "company": "OpenAI",
+      "id": "f2596188172945626296f68aa6e81055a1ed9399",
+      "company": "Google",
       "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/zapier",
-      "title": "How Zapier transformed core marketing processes with ChatGPT Work",
-      "summary": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.",
-      "publishedAt": "2026-08-10T00:00:00.000Z",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/one-billion-monthly-users",
+      "title": "More than 1 billion people are using the Gemini app every month.",
+      "summary": "The Gemini app has officially surpassed 1 billion monthly users, making it the fastest-growing product in Google’s history. Here’s some data about how people are using G…",
+      "publishedAt": "2026-08-11T16:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
