@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T15:00:26.438Z",
+  "generatedAt": "2026-08-14T14:54:30.593Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -76,21 +76,40 @@
     }
   ],
   "totals": {
-    "fetched": 34,
+    "fetched": 38,
     "deduped": 24,
-    "new": 7,
+    "new": 12,
     "byKind": {
-      "official": 15,
-      "external": 9
+      "official": 12,
+      "external": 12
     }
   },
   "items": [
     {
-      "id": "2f8a4b17f5c11094660f0b1247054c0689a45f2a",
+      "id": "b26969576b14834a5a8c2d68c053554b92708815",
       "company": "OpenAI",
       "sourceKind": "external",
       "sourceId": "external-openai-major",
       "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObUs0MGRiMjY0Z2YzbGlPQmJweVlRWjNZRlROT2lRd1NWbHgwOG9HMFhGdkJZTnlqbkJMUjVabm82bno0SmFfYUgySmZ1RkxDTTlMT3NKanRpV3JoME1YM0FDbVR5NndGOFlGRU1ueTdlTXVsd2xiWVVjWDYyNjAxWlc1dTZWSU1KOVB4eWpIZTJFcVU?oc=5",
+      "title": "IBM partners with OpenAI to bolster enterprise AI push",
+      "summary": "",
+      "publishedAt": "2026-08-13T19:19:49.000Z",
+      "publisher": "TechCrunch",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "2f8a4b17f5c11094660f0b1247054c0689a45f2a",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
       "homepageUrl": "https://news.google.com/",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQV000NFNPUG83UmljZkl6QTg3WnlzVHVkdWU1bkRPdWpjR21CUmtfMnBUanZtdzdxTUl5Z0ZFcTBuc1ZSNUZlOTdWZzgtQVhlRzhsa3FoOW9RWll0ZnBmRGpJOWxXYXNtbWJVOVR0QkNYUVlaR0JJWE1DTlVEX1dveF9URDFaME16ZGJXb0RFVkxRWTFKRThmRjVuSQ?oc=5",
       "title": "IBM and OpenAI Launch Enterprise AI Partnership With GPT-5.6 Integration",
@@ -124,6 +143,44 @@
       }
     },
     {
+      "id": "dd378ea08187ffc514680b6ebeec11fe5f10a53d",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash",
+      "title": "Introducing Gemini 3.7 Flash",
+      "summary": "Gemini 3.7 Flash is our most intelligent workhorse model yet for coding and agents.",
+      "publishedAt": "2026-08-13T17:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "6357d7795d215a7fa7069a167c9d8af0af3afc8a",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/previewing-ultrafast",
+      "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+      "summary": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
+      "publishedAt": "2026-08-13T10:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
       "id": "a18697a7882d9b1442c7b16ef16821f37ddf68e7",
       "company": "Meta",
       "sourceKind": "official",
@@ -138,41 +195,22 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 6,
+        "score": 5,
         "reason": "Corporate move or major external event"
       }
     },
     {
-      "id": "d02f12d70f997724c17462d18cccd70ecf41ec5a",
-      "company": "Microsoft",
+      "id": "b4d648749b2087144ae2d156956ad19b431c5473",
+      "company": "OpenAI",
       "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNalh6cnRnbXBUdldpdTQ4bENubjdTOU1WcHg3b3RBY1M3a0FnRWl3aTZxQnlUTlhOMzNON1JSUnRieW1pVVBvUjdDZE85MlRqa0dBOU1vRDBBcE55dk93RWNxZ25FYUtFWHdjeXdKUENFTmRZdDlJVHItSlhBVW9NZm5aY3BKazlScFRhOW9HWlltY1kwbGxqd1ZQVEl2MGZMeGFJTC12LXktVDR3cnBuRWE3cXRpWDVoQ1JEX3V6ZFpLTkdUVWFCOEFtckU4QQ?oc=5",
-      "title": "After Microsoft threatened legal action, a security researcher publishes a new Windows zero-day bug",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZkhxNVVQRVRVZDJyb2JnbHdKdjd4b1N4cU9aU1ZBb1k2UElvYnc0WHJSVDVjQ2s4ZFF1bmQwRHJETlJGYmhxN24wQU8xWEhTVVRlWnhhT3hnVlBLZUxfQkVUc3NHQnNTY3F1S0FlanhMblcyaDdiNzRyQnZ0dk5WS2FpQ1NIZ01CREM1Z2xLNHBBX3pxc21GLUJuRW8xZTBWSlJOWFpTUmMwQk9TVWZ3SU13?oc=5",
+      "title": "OpenAI Revenue Run Rate Tops $40 Billion, Doubling From 2025",
       "summary": "",
-      "publishedAt": "2026-08-12T15:18:55.000Z",
-      "publisher": "TechCrunch",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "5ca0b8b3f67434c5dbf55f1d0898ccb907c19fa7",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWGpaNTRfX01VRmx2ZDRPWU5NYWEwNDg1eEtZdjFJYTVScnotWmxKeTZtbGtYWV95SlBRd0ZpU0tSNlo4emlTTWRob0wtY3NMNmVVc1FhZmo1YVF0aVhYUmRSSlYyVDZaNGE0RHNvYzBsWmVKRzdpRnRNMFNiLW5MVUk1ZDhLekE?oc=5",
-      "title": "How I use AI: BNY CEO and OpenAI board member Robin Vince",
-      "summary": "",
-      "publishedAt": "2026-08-12T10:33:17.000Z",
-      "publisher": "Axios",
+      "publishedAt": "2026-08-14T13:30:16.000Z",
+      "publisher": "Bloomberg.com",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -181,17 +219,112 @@
       }
     },
     {
-      "id": "1853b046d3c1fe363ba3263cea49f55b1dd48fb0",
+      "id": "69a1dd8efb54f2eeed4fe8bbd1805c49f1d8dafd",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTjVOdW9zemhxOWQyYWV6V1NHMFpjUzY3WHBVVl83a3lNYnRaOHE4ZUpLYjd2ZFhTRWJpUmZEd3M2cFczVDZxb2ZNUURmRE9scnY2SDJSdFROdzVSdVpzNkRKYklfQS0xMko2M3A1RV94Y3RZRHpZYkdHYVVtNEhnMTRXTTY4Y3YyVGFGdVp0TnFpX3cwXzFncE1jNnhpUGs0dE83OThTVmdmOTh1UmYtdlpOZEs5X3cwSGd6dUg4a2IxYnNvSUdn?oc=5",
+      "title": "Anthropic’s $2 trillion problem: Its underlying business is nowhere near the IPO valuation it wants",
+      "summary": "",
+      "publishedAt": "2026-08-14T10:27:00.000Z",
+      "publisher": "Fortune",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "0221020831b3157cb1653f000074ca0ffe972f5b",
       "company": "OpenAI",
       "sourceKind": "external",
       "sourceId": "external-openai-major",
       "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVFJRTW1PdURzMHZtV0N0U0lTYUtsV3EyaVpDMzBqenpJbnJQWHg3WGhPREo2WjF5eTlHcDF3MjVmTDM3QW5nb1R5cDhPNFFULU1lUjRQNFp5RENYcW9aNDNLT2dFOUVwakgzNTlMUXNuWFhZTnZkeDhfX3J4SkUtTE9oVlhRMy1nMm9GcFV1MVQ?oc=5",
-      "title": "How I use AI: BNY CEO and OpenAI board member Robin Vince",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUkk5eGdSc1ZyR1ljLU9JNFZhcEFNMFNQNFNsZkp4c1dIZXlzNFdJNzY2VEZBY3JMUzdlLXZlb1lxUldjSEdfVU9iNHhFLWhEUXBqN3duWEl5QnRPYTRKX01XUjREODQ0YUVLejdJZ1NlUE5QdVFhMEhMZE5Gak1mSjdKZVlaZWFaWmR2Z1IyU282aFZndno0?oc=5",
+      "title": "Fortune Tech: OpenAI's leadership musical chairs; Microsoft's 'super app,' Tim Cook in Texas",
       "summary": "",
-      "publishedAt": "2026-08-12T09:32:04.000Z",
-      "publisher": "Yahoo Finance",
+      "publishedAt": "2026-08-14T10:20:00.000Z",
+      "publisher": "Fortune",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "b13f916970e03301ec3f40c56da4752a2a338d70",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObXZWcjRWclgycUlCeVpPY0xBVUdwMW5tZldBYjJjTkdGZ2YxYkNlMkF3eFpwNHhXYUJRTlFLeHIwUGw4RkpoRVl1dmsxRnFfaHZCc0FlMTZqQnl5dlJIU1ozZHBPcUVzbkozUzBuUU9YcnlCYU11WW1DQkxrZTI4bldBQnI?oc=5",
+      "title": "Anthropic needs to bring in Amazon-style earnings to justify its $2 trillion valuation—but it’s barely turned a profit",
+      "summary": "",
+      "publishedAt": "2026-08-14T07:02:00.000Z",
+      "publisher": "Fortune",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "5ce009b90b59259caab60584306d098016a33678",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQb1p5a2tCRDBUSmRmTFMtTFBYT0dDOWNNTjlORGNndGJjUk95dGNYQ05CS0xCQVJNbS0yOE1GS1N2eUlSMV9RVWtLSUhhUVo3Z2pCQVR0YjV5RUU0OW1ScTFkTV9wTkZ2ZHZZYmp2OFJZSWhVQThzS010UWNqR3Rfa0F1bW5ObFhra191THVHX1hYSU1NWGs4VzhsSEFHS3hkdmdUZVpNUDRjVVMtQ0I4aHhWVGxSUEJCV0gtWg?oc=5",
+      "title": "Buried in OpenAI's latest research: No correlation between AI use and revenue per employee",
+      "summary": "",
+      "publishedAt": "2026-08-13T20:28:00.000Z",
+      "publisher": "Fortune",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "09c389ca8466717ac72a17c7fca85a5a815bb9e7",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMkZyaDZ3V0c4QjNTSGZHM0FfWjhYSnJ3RkpWdUZUUUlRaW5zSHdGZVRYTU5kbEJiUnc4V3NJb1BFUnRsbk9JOURNel91VTJtOGYtdUNmbFlLNzRaeXY2VHJZR194SXdrYzlsZWhXT3ZSMkIyVWtLR1BkWXhMRUNaLUFR?oc=5",
+      "title": "ERock CEO on Anthropic power deal",
+      "summary": "",
+      "publishedAt": "2026-08-13T17:48:48.000Z",
+      "publisher": "CNBC",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "28bcb82ce2d1d8513e6d6e4cebffd4b5d9fef04b",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRlZFSERVa2Z4YzhjRVpKc0V1YktMcks5QWRlS2NIZ1Nzd0hLb2lONVVELXZILThaWnh1SXNvYURMZTVQcWRDUWkwZ2ZDMjFLNHJ3T05QQzhhVHRLazVOSzZxYmNoYnhvTW1pLW1fZy1kdUhQbjVuODRDRUgxLXE0QVd5cFp0d9IBiwFBVV95cUxPb29DaEVJYXY5Ym5xeXNLVlVuM0dKZlFsQVN4Y2FnZElCUzhSaUphd0h5RnRLT1BOdkpCQk9sbHBIZWw1cXgza3gxM1JjYkp4M1BKSUZkMF9DZTdxWjRxX2p6ei1oS2RhLVpHSEY3Q1otQUlKcmRLLXVMV095U2Rsclp2ZFl1NU9fVHZF?oc=5",
+      "title": "Anthropic CFO Krishna Rao is leading early IPO meetings with investors and has not discussed valuation, sources say",
+      "summary": "",
+      "publishedAt": "2026-08-13T17:00:49.000Z",
+      "publisher": "CNBC",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -214,46 +347,8 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
-        "score": 4,
+        "score": 3,
         "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "8e554fe37f0860eaacd58097edee44398a8c049b",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE42YVhOUXpnOEtLdW41SXZndUQ2OWd6cmstNHBhc2JqVGZZaE05Z3pIQk8tYUtVU2t1dGdpYWJvSzBWQWNFTDFLWXp0LWtJUGQ4TWNXVnZlWkFIa2Z2TkNPMGRQRWRsOXA3WjlMNDJDbm5Lc2V6SW9UR9IBfkFVX3lxTE00VHJaekgzSDJvajdabVhmN2JXSmVZeHkyS19xNHp6dkhnOHNKZ2tETHhtYlBTTHlILXNHQ3YxZW9vYTBhN0djbnhDLTJpM3NkZ1pDZ0cwZ05YeDhseVF6TWFXS0RvQUFmdXQtNVUyM0k0bTYyMGY5b0N3YmNjUQ?oc=5",
-      "title": "OpenAI tightens controls on its new model over cybersecurity risks, as AI security debate intensifies",
-      "summary": "",
-      "publishedAt": "2026-08-10T10:57:16.000Z",
-      "publisher": "CNBC",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "87c07911b5e51b33904acc561821c2ab17527b3d",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNd3B2a2NoaGtOdmJ5WEhERFMwbTZOX3p1MHplbG1ocnRsa25kaDFIRXU5SjVwVmFzRW1ZTWJWZ1dnYmljZ0pMVUZ1SE5RZXpaVy0ydnpjd2lVaHpuTUZEckZDSUI0MGF5N1dYZkItcmNiQkdiVlBPZFZwRENjNzIwYkVQdml5b0Z0c1Rzd3BTMXFWQ2t5N01qQ2w0T1N2bmN4US1Ra2pR?oc=5",
-      "title": "OpenAI says it slowed Astra model development over security concerns",
-      "summary": "",
-      "publishedAt": "2026-08-07T22:48:24.000Z",
-      "publisher": "TechCrunch",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Safety, security, or policy update"
       }
     },
     {
@@ -276,63 +371,6 @@
       }
     },
     {
-      "id": "fb21820d806b1b78d97fc2960a75ac211fb61114",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
-      "title": "From assistance to execution: How enterprises put AI to work",
-      "summary": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
-      "publishedAt": "2026-08-12T06:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Technical or research update"
-      }
-    },
-    {
-      "id": "cad35e6294feba2f66b3de50e2b5067385b0737a",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/ringcentral",
-      "title": "How RingCentral builds AI-native work from engineering to ops",
-      "summary": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.",
-      "publishedAt": "2026-08-12T00:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Technical or research update"
-      }
-    },
-    {
-      "id": "9514940f045b6decb4ea4221d63af5d2fb2d6a38",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations",
-      "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
-      "summary": "Google introduces AMIE for real-time clinical video consultations in simulated settings.",
-      "publishedAt": "2026-08-11T17:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Technical or research update"
-      }
-    },
-    {
       "id": "b274e00978a8c0306df3d120c050bf97ed5f1983",
       "company": "OpenAI",
       "sourceKind": "official",
@@ -342,25 +380,6 @@
       "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
       "title": "Daybreak models are now available on AWS",
       "summary": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
-      "publishedAt": "2026-08-11T10:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "de2ca3d7578dd51cbe196bf098f482b58becc321",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/testing-ads-in-chatgpt",
-      "title": "Testing ads in ChatGPT",
-      "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
       "publishedAt": "2026-08-11T10:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
@@ -409,6 +428,44 @@
       }
     },
     {
+      "id": "855fa77e93e122bb47dc41016310a1f3bc5ec67d",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+      "title": "The builder’s guide to GPT‑5.6",
+      "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
+      "publishedAt": "2026-08-13T11:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "9e022b7caa78cba45b7169b8166de7df4a2b0d6e",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+      "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+      "summary": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
+      "publishedAt": "2026-08-13T09:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
+      }
+    },
+    {
       "id": "dff7fdb371a16d73234e6eb1fb220f9ae7647a24",
       "company": "Meta",
       "sourceKind": "official",
@@ -428,195 +485,22 @@
       }
     },
     {
-      "id": "0373276798b61535e4e989e40b6ea575ed6c2639",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/new-connected-apps-services-gemini-august-2026",
-      "title": "Now you can connect even more of your favorite apps and services to Gemini.",
-      "summary": "Connect your favorite services directly to Gemini to help you plan trips, manage projects and tackle your daily to-do list.",
-      "publishedAt": "2026-08-12T14:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "f2596188172945626296f68aa6e81055a1ed9399",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/one-billion-monthly-users",
-      "title": "More than 1 billion people are using the Gemini app every month.",
-      "summary": "The Gemini app has officially surpassed 1 billion monthly users, making it the fastest-growing product in Google’s history. Here’s some data about how people are using G…",
-      "publishedAt": "2026-08-11T16:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "61282b7420ed067525c1f91d92b2480700145654",
+      "id": "fb21820d806b1b78d97fc2960a75ac211fb61114",
       "company": "OpenAI",
       "sourceKind": "official",
       "sourceId": "openai-newsroom",
       "sourceLabel": "OpenAI Newsroom",
       "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
-      "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
-      "summary": "OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans.",
-      "publishedAt": "2026-08-10T14:00:00.000Z",
+      "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+      "title": "From assistance to execution: How enterprises put AI to work",
+      "summary": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
+      "publishedAt": "2026-08-12T06:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "digest",
         "score": 2,
         "reason": "Technical or research update"
-      }
-    },
-    {
-      "id": "04a703638c5e239fe905d691f5f5f1ab29891ebe",
-      "company": "Microsoft",
-      "sourceKind": "official",
-      "sourceId": "microsoft-ai",
-      "sourceLabel": "Microsoft AI",
-      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
-      "url": "https://news.microsoft.com/source/asia/features/microsofts-newest-india-datacenter-region-goes-live-to-power-the-countrys-ai-economy-and-enable-frontier-firms",
-      "title": "Microsoft’s newest India datacenter region goes live to power the country’s AI economy and enable Frontier Firms",
-      "summary": "Microsoft’s newest India datacenter region goes live to power the country’s AI economy and enable Frontier Firms",
-      "publishedAt": "2026-08-07T18:00:40.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Technical or research update"
-      }
-    },
-    {
-      "id": "97cd97d27d220f15f9bc8a69f1f4b5eea602a9e8",
-      "company": "Anthropic",
-      "sourceKind": "official",
-      "sourceId": "anthropic-engineering",
-      "sourceLabel": "Anthropic Engineering",
-      "homepageUrl": "https://www.anthropic.com/engineering",
-      "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
-      "title": "Featured How we contain Claude across products As agents grow more capable, so does their potential blast radius. The engineering question is how to cap it. Here’s what we’ve learned building containment for claude.ai, Claude Code, and Cowork.",
-      "summary": "",
-      "publishedAt": null,
-      "publisher": "",
-      "discoveryMethod": "anchor",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Technical or research update"
-      }
-    },
-    {
-      "id": "7a678e9a26d7e264e59b07c8d89347737c8a5e1c",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/building-an-ai-native-finance-function",
-      "title": "What building an AI-native finance function taught me",
-      "summary": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.",
-      "publishedAt": "2026-08-10T17:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
-    }
-  ],
-  "newItems": [
-    {
-      "id": "2f8a4b17f5c11094660f0b1247054c0689a45f2a",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQV000NFNPUG83UmljZkl6QTg3WnlzVHVkdWU1bkRPdWpjR21CUmtfMnBUanZtdzdxTUl5Z0ZFcTBuc1ZSNUZlOTdWZzgtQVhlRzhsa3FoOW9RWll0ZnBmRGpJOWxXYXNtbWJVOVR0QkNYUVlaR0JJWE1DTlVEX1dveF9URDFaME16ZGJXb0RFVkxRWTFKRThmRjVuSQ?oc=5",
-      "title": "IBM and OpenAI Launch Enterprise AI Partnership With GPT-5.6 Integration",
-      "summary": "",
-      "publishedAt": "2026-08-13T10:26:38.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "63cf6eadd2ec4a17b4ab79a256ad336f99346e9c",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcktRQXY0ZDg2dVhKTUZxSUJMZjRfWmdPUXBoaUxaQ0c5V2cxWUpXcVd5a2k5eVczSktyWXlmTDRaVlR3bGxiN19FNno0WXpmeEdyUjVjNm55VnNsb2oyRTl5Zld5d09aMTl5dG4xV0VzTk1wSFJXb0paVXVIZlRZQ195ZUpFbndiU2lNTnZwVlhORzNCaU5zbTJLMUtjTlFJR3B0aG1pcUh6YjVoNXVVQjMwNTVqR2JX?oc=5",
-      "title": "Meta, 29 states head to court in biggest test yet of youth social media litigation",
-      "summary": "",
-      "publishedAt": "2026-08-12T23:35:55.000Z",
-      "publisher": "Reuters",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "d02f12d70f997724c17462d18cccd70ecf41ec5a",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNalh6cnRnbXBUdldpdTQ4bENubjdTOU1WcHg3b3RBY1M3a0FnRWl3aTZxQnlUTlhOMzNON1JSUnRieW1pVVBvUjdDZE85MlRqa0dBOU1vRDBBcE55dk93RWNxZ25FYUtFWHdjeXdKUENFTmRZdDlJVHItSlhBVW9NZm5aY3BKazlScFRhOW9HWlltY1kwbGxqd1ZQVEl2MGZMeGFJTC12LXktVDR3cnBuRWE3cXRpWDVoQ1JEX3V6ZFpLTkdUVWFCOEFtckU4QQ?oc=5",
-      "title": "After Microsoft threatened legal action, a security researcher publishes a new Windows zero-day bug",
-      "summary": "",
-      "publishedAt": "2026-08-12T15:18:55.000Z",
-      "publisher": "TechCrunch",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "1853b046d3c1fe363ba3263cea49f55b1dd48fb0",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVFJRTW1PdURzMHZtV0N0U0lTYUtsV3EyaVpDMzBqenpJbnJQWHg3WGhPREo2WjF5eTlHcDF3MjVmTDM3QW5nb1R5cDhPNFFULU1lUjRQNFp5RENYcW9aNDNLT2dFOUVwakgzNTlMUXNuWFhZTnZkeDhfX3J4SkUtTE9oVlhRMy1nMm9GcFV1MVQ?oc=5",
-      "title": "How I use AI: BNY CEO and OpenAI board member Robin Vince",
-      "summary": "",
-      "publishedAt": "2026-08-12T09:32:04.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
       }
     },
     {
@@ -633,22 +517,233 @@
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
-        "bucket": "important",
-        "score": 3,
+        "bucket": "digest",
+        "score": 2,
         "reason": "Technical or research update"
       }
     },
     {
-      "id": "fcada76fb15e341b034bb89adeddf54502fa914b",
+      "id": "9514940f045b6decb4ea4221d63af5d2fb2d6a38",
       "company": "Google",
       "sourceKind": "official",
       "sourceId": "google-ai",
       "sourceLabel": "Google AI",
       "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-experts-roundtable",
-      "title": "Omni experts share what excites them most about the model.",
-      "summary": "We interviewed some of the experts behind Gemini Omni to hear what excites them most about the model.",
-      "publishedAt": "2026-08-13T13:30:00.000Z",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations",
+      "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+      "summary": "Google introduces AMIE for real-time clinical video consultations in simulated settings.",
+      "publishedAt": "2026-08-11T17:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Technical or research update"
+      }
+    }
+  ],
+  "newItems": [
+    {
+      "id": "b26969576b14834a5a8c2d68c053554b92708815",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObUs0MGRiMjY0Z2YzbGlPQmJweVlRWjNZRlROT2lRd1NWbHgwOG9HMFhGdkJZTnlqbkJMUjVabm82bno0SmFfYUgySmZ1RkxDTTlMT3NKanRpV3JoME1YM0FDbVR5NndGOFlGRU1ueTdlTXVsd2xiWVVjWDYyNjAxWlc1dTZWSU1KOVB4eWpIZTJFcVU?oc=5",
+      "title": "IBM partners with OpenAI to bolster enterprise AI push",
+      "summary": "",
+      "publishedAt": "2026-08-13T19:19:49.000Z",
+      "publisher": "TechCrunch",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "dd378ea08187ffc514680b6ebeec11fe5f10a53d",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash",
+      "title": "Introducing Gemini 3.7 Flash",
+      "summary": "Gemini 3.7 Flash is our most intelligent workhorse model yet for coding and agents.",
+      "publishedAt": "2026-08-13T17:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "6357d7795d215a7fa7069a167c9d8af0af3afc8a",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/previewing-ultrafast",
+      "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+      "summary": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
+      "publishedAt": "2026-08-13T10:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "b4d648749b2087144ae2d156956ad19b431c5473",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZkhxNVVQRVRVZDJyb2JnbHdKdjd4b1N4cU9aU1ZBb1k2UElvYnc0WHJSVDVjQ2s4ZFF1bmQwRHJETlJGYmhxN24wQU8xWEhTVVRlWnhhT3hnVlBLZUxfQkVUc3NHQnNTY3F1S0FlanhMblcyaDdiNzRyQnZ0dk5WS2FpQ1NIZ01CREM1Z2xLNHBBX3pxc21GLUJuRW8xZTBWSlJOWFpTUmMwQk9TVWZ3SU13?oc=5",
+      "title": "OpenAI Revenue Run Rate Tops $40 Billion, Doubling From 2025",
+      "summary": "",
+      "publishedAt": "2026-08-14T13:30:16.000Z",
+      "publisher": "Bloomberg.com",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "69a1dd8efb54f2eeed4fe8bbd1805c49f1d8dafd",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTjVOdW9zemhxOWQyYWV6V1NHMFpjUzY3WHBVVl83a3lNYnRaOHE4ZUpLYjd2ZFhTRWJpUmZEd3M2cFczVDZxb2ZNUURmRE9scnY2SDJSdFROdzVSdVpzNkRKYklfQS0xMko2M3A1RV94Y3RZRHpZYkdHYVVtNEhnMTRXTTY4Y3YyVGFGdVp0TnFpX3cwXzFncE1jNnhpUGs0dE83OThTVmdmOTh1UmYtdlpOZEs5X3cwSGd6dUg4a2IxYnNvSUdn?oc=5",
+      "title": "Anthropic’s $2 trillion problem: Its underlying business is nowhere near the IPO valuation it wants",
+      "summary": "",
+      "publishedAt": "2026-08-14T10:27:00.000Z",
+      "publisher": "Fortune",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "0221020831b3157cb1653f000074ca0ffe972f5b",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUkk5eGdSc1ZyR1ljLU9JNFZhcEFNMFNQNFNsZkp4c1dIZXlzNFdJNzY2VEZBY3JMUzdlLXZlb1lxUldjSEdfVU9iNHhFLWhEUXBqN3duWEl5QnRPYTRKX01XUjREODQ0YUVLejdJZ1NlUE5QdVFhMEhMZE5Gak1mSjdKZVlaZWFaWmR2Z1IyU282aFZndno0?oc=5",
+      "title": "Fortune Tech: OpenAI's leadership musical chairs; Microsoft's 'super app,' Tim Cook in Texas",
+      "summary": "",
+      "publishedAt": "2026-08-14T10:20:00.000Z",
+      "publisher": "Fortune",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "b13f916970e03301ec3f40c56da4752a2a338d70",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObXZWcjRWclgycUlCeVpPY0xBVUdwMW5tZldBYjJjTkdGZ2YxYkNlMkF3eFpwNHhXYUJRTlFLeHIwUGw4RkpoRVl1dmsxRnFfaHZCc0FlMTZqQnl5dlJIU1ozZHBPcUVzbkozUzBuUU9YcnlCYU11WW1DQkxrZTI4bldBQnI?oc=5",
+      "title": "Anthropic needs to bring in Amazon-style earnings to justify its $2 trillion valuation—but it’s barely turned a profit",
+      "summary": "",
+      "publishedAt": "2026-08-14T07:02:00.000Z",
+      "publisher": "Fortune",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "5ce009b90b59259caab60584306d098016a33678",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQb1p5a2tCRDBUSmRmTFMtTFBYT0dDOWNNTjlORGNndGJjUk95dGNYQ05CS0xCQVJNbS0yOE1GS1N2eUlSMV9RVWtLSUhhUVo3Z2pCQVR0YjV5RUU0OW1ScTFkTV9wTkZ2ZHZZYmp2OFJZSWhVQThzS010UWNqR3Rfa0F1bW5ObFhra191THVHX1hYSU1NWGs4VzhsSEFHS3hkdmdUZVpNUDRjVVMtQ0I4aHhWVGxSUEJCV0gtWg?oc=5",
+      "title": "Buried in OpenAI's latest research: No correlation between AI use and revenue per employee",
+      "summary": "",
+      "publishedAt": "2026-08-13T20:28:00.000Z",
+      "publisher": "Fortune",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "09c389ca8466717ac72a17c7fca85a5a815bb9e7",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMkZyaDZ3V0c4QjNTSGZHM0FfWjhYSnJ3RkpWdUZUUUlRaW5zSHdGZVRYTU5kbEJiUnc4V3NJb1BFUnRsbk9JOURNel91VTJtOGYtdUNmbFlLNzRaeXY2VHJZR194SXdrYzlsZWhXT3ZSMkIyVWtLR1BkWXhMRUNaLUFR?oc=5",
+      "title": "ERock CEO on Anthropic power deal",
+      "summary": "",
+      "publishedAt": "2026-08-13T17:48:48.000Z",
+      "publisher": "CNBC",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "28bcb82ce2d1d8513e6d6e4cebffd4b5d9fef04b",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRlZFSERVa2Z4YzhjRVpKc0V1YktMcks5QWRlS2NIZ1Nzd0hLb2lONVVELXZILThaWnh1SXNvYURMZTVQcWRDUWkwZ2ZDMjFLNHJ3T05QQzhhVHRLazVOSzZxYmNoYnhvTW1pLW1fZy1kdUhQbjVuODRDRUgxLXE0QVd5cFp0d9IBiwFBVV95cUxPb29DaEVJYXY5Ym5xeXNLVlVuM0dKZlFsQVN4Y2FnZElCUzhSaUphd0h5RnRLT1BOdkpCQk9sbHBIZWw1cXgza3gxM1JjYkp4M1BKSUZkMF9DZTdxWjRxX2p6ei1oS2RhLVpHSEY3Q1otQUlKcmRLLXVMV095U2Rsclp2ZFl1NU9fVHZF?oc=5",
+      "title": "Anthropic CFO Krishna Rao is leading early IPO meetings with investors and has not discussed valuation, sources say",
+      "summary": "",
+      "publishedAt": "2026-08-13T17:00:49.000Z",
+      "publisher": "CNBC",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "855fa77e93e122bb47dc41016310a1f3bc5ec67d",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+      "title": "The builder’s guide to GPT‑5.6",
+      "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
+      "publishedAt": "2026-08-13T11:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -658,16 +753,16 @@
       }
     },
     {
-      "id": "dff7fdb371a16d73234e6eb1fb220f9ae7647a24",
-      "company": "Meta",
+      "id": "9e022b7caa78cba45b7169b8166de7df4a2b0d6e",
+      "company": "OpenAI",
       "sourceKind": "official",
-      "sourceId": "meta-newsroom",
-      "sourceLabel": "Meta Newsroom",
-      "homepageUrl": "https://about.fb.com/news/",
-      "url": "https://about.fb.com/news/2026/08/the-future-is-for-everyone-free-ai-glasses-for-every-blind-and-visually-impaired-adult-vision-ireland-supports",
-      "title": "The Future Is for Everyone: Free AI Glasses for Every Blind and Visually Impaired Adult Vision Ireland Supports",
-      "summary": "“What I really like about the glasses is the speed at which I get the information I need &#8211; instead of waiting for someone to read a letter or waiting for someone to tell me what I have in the fridge, I’ll just do it on impulse. Now I’m doing things for myself independently...",
-      "publishedAt": "2026-08-13T05:00:08.000Z",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+      "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+      "summary": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
+      "publishedAt": "2026-08-13T09:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
