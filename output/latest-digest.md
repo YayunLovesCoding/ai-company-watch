@@ -1,102 +1,57 @@
 # AI Company Watch
 
-Generated: Aug 14, 2026, 7:54 AM PDT
+Generated: Aug 15, 2026, 7:26 AM PDT
 Lookback window: 7 day(s)
 Sources checked: 12
-Items fetched: 38
+Items fetched: 37
 Items kept: 24
-New items: 12
-External items kept: 12
-Official items kept: 12
+New items: 6
+External items kept: 15
+Official items kept: 9
 
 ## Critical External News
 
-### OpenAI - IBM partners with OpenAI to bolster enterprise AI push
+### OpenAI - IBM Stock Drops Despite Major OpenAI Partnership
 Source: Major External News - OpenAI
-Publisher: TechCrunch
-Published: Aug 13, 2026
+Publisher: Yahoo Finance UK
+Published: Aug 14, 2026
 Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMikwFBVV95cUxObUs0MGRiMjY0Z2YzbGlPQmJweVlRWjNZRlROT2lRd1NWbHgwOG9HMFhGdkJZTnlqbkJMUjVabm82bno0SmFfYUgySmZ1RkxDTTlMT3NKanRpV3JoME1YM0FDbVR5NndGOFlGRU1ueTdlTXVsd2xiWVVjWDYyNjAxWlc1dTZWSU1KOVB4eWpIZTJFcVU?oc=5
+Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ0pnMnJvSkdQellKdjBiRkFYRjVCNlgycWdzUlp1eXEya1otRFMtdklobE9nMHJORWs4ZGdEUUt2RVd6aV9hclZXY1RrNUZPU1Vtb0RrLUdEa3N5WXhDVVpjUVk3clc3NllkT0JmWEJGc3FaQktLQVN6OG9Pb0tkNjBHd0Y?oc=5
+
+### Google - Zocdoc CEO on Gemini partnership: Opening our infrastructure to third party players
+Source: Major External News - Google
+Publisher: CNBC
+Published: Aug 14, 2026
+Why it matters: Corporate move or major external event
+Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxPV18wMmRRU0c2ejNyQ3RBVXJiWjdXQUxsZjZaQzE3eThxYzlDQUYzOUc0WldmN3RqSjh3akk1ZWR5VWpId2hoMjNEWi1qZ3JubXhla2RYTHpFWWp3ZmJteHBjQWR1STdZb1VKZDh2OVQ5RTd6WHdPdHlEOXJ0RjNLdWw2Yk5YWGRoT2pYMVFpeWVyQnl6WV9SVXdEc1RmLWtmOGhIQUp4OWdvcG9LNndfTTYzZUtHY2c2OWdCaDhReUZuRkk?oc=5
 
 ## Important External News
 
-### OpenAI - OpenAI Revenue Run Rate Tops $40 Billion, Doubling From 2025
+### OpenAI - Nvidia scales back funding guarantee for Ohio OpenAI data center, WSJ reports
 Source: Major External News - OpenAI
-Publisher: Bloomberg.com
+Publisher: Reuters
 Published: Aug 14, 2026
 Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxOZkhxNVVQRVRVZDJyb2JnbHdKdjd4b1N4cU9aU1ZBb1k2UElvYnc0WHJSVDVjQ2s4ZFF1bmQwRHJETlJGYmhxN24wQU8xWEhTVVRlWnhhT3hnVlBLZUxfQkVUc3NHQnNTY3F1S0FlanhMblcyaDdiNzRyQnZ0dk5WS2FpQ1NIZ01CREM1Z2xLNHBBX3pxc21GLUJuRW8xZTBWSlJOWFpTUmMwQk9TVWZ3SU13?oc=5
+Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxPWjY4Y0RmbnNIZU5fWV83TGxRb0M1T0hva0dCRUtWQzcxclJ5TW02NExHQzREZmwwenZIQjh5eU01YjYycGMxNUg5MlJuZVh5RGQyM0M1MHB1Znhld2x2OXFFNF93OGg3SUJMYUNsMTZjZ2VQemtkM3M0SnVDam1vSHNKVUJCWHpKbzVzLXdLWmtlZElxYW5BS0c3MU9iRk41Ty1LUzY4TWl4YVQtRElKWHNFSzg0dTA?oc=5
 
-### Anthropic - Anthropic’s $2 trillion problem: Its underlying business is nowhere near the IPO valuation it wants
-Source: Major External News - Anthropic
-Publisher: Fortune
-Published: Aug 14, 2026
-Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMixwFBVV95cUxPTjVOdW9zemhxOWQyYWV6V1NHMFpjUzY3WHBVVl83a3lNYnRaOHE4ZUpLYjd2ZFhTRWJpUmZEd3M2cFczVDZxb2ZNUURmRE9scnY2SDJSdFROdzVSdVpzNkRKYklfQS0xMko2M3A1RV94Y3RZRHpZYkdHYVVtNEhnMTRXTTY4Y3YyVGFGdVp0TnFpX3cwXzFncE1jNnhpUGs0dE83OThTVmdmOTh1UmYtdlpOZEs5X3cwSGd6dUg4a2IxYnNvSUdn?oc=5
-
-### OpenAI - Fortune Tech: OpenAI's leadership musical chairs; Microsoft's 'super app,' Tim Cook in Texas
+### OpenAI - Nvidia scales back $250 billion OpenAI data center guarantee, WSJ reports
 Source: Major External News - OpenAI
-Publisher: Fortune
+Publisher: Yahoo Finance
 Published: Aug 14, 2026
 Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMilwFBVV95cUxNUkk5eGdSc1ZyR1ljLU9JNFZhcEFNMFNQNFNsZkp4c1dIZXlzNFdJNzY2VEZBY3JMUzdlLXZlb1lxUldjSEdfVU9iNHhFLWhEUXBqN3duWEl5QnRPYTRKX01XUjREODQ0YUVLejdJZ1NlUE5QdVFhMEhMZE5Gak1mSjdKZVlaZWFaWmR2Z1IyU282aFZndno0?oc=5
+Link: https://news.google.com/rss/articles/CBMimgFBVV95cUxNTDczTGtXVlBJQ3hQdHdzRkdweXgyWEloWUlpYVFaWVBKVl9aMUJsOWRaUjRGQXVUYkJ5LWlTU01fNjVmNV9lX1NuNlMxY0g3NFBsMzFBejdNOHJvbzN1WExlRFlwSHp5M1pRZTVPZi12U3cxaVpmNzVHUm5EZ3MtNXNxNWRCTUhPZGJrcDhpSVM0Mmxxa3N0NWN3?oc=5
 
-### Anthropic - Anthropic needs to bring in Amazon-style earnings to justify its $2 trillion valuation—but it’s barely turned a profit
-Source: Major External News - Anthropic
-Publisher: Fortune
-Published: Aug 14, 2026
+### Meta - Meta dangles $1 billion fund for ‘customized investments and programs’ in its data center towns
+Source: Major External News - Meta
+Publisher: Yahoo Finance
+Published: Aug 10, 2026
 Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxObXZWcjRWclgycUlCeVpPY0xBVUdwMW5tZldBYjJjTkdGZ2YxYkNlMkF3eFpwNHhXYUJRTlFLeHIwUGw4RkpoRVl1dmsxRnFfaHZCc0FlMTZqQnl5dlJIU1ozZHBPcUVzbkozUzBuUU9YcnlCYU11WW1DQkxrZTI4bldBQnI?oc=5
-
-### OpenAI - Buried in OpenAI's latest research: No correlation between AI use and revenue per employee
-Source: Major External News - OpenAI
-Publisher: Fortune
-Published: Aug 13, 2026
-Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMivAFBVV95cUxQb1p5a2tCRDBUSmRmTFMtTFBYT0dDOWNNTjlORGNndGJjUk95dGNYQ05CS0xCQVJNbS0yOE1GS1N2eUlSMV9RVWtLSUhhUVo3Z2pCQVR0YjV5RUU0OW1ScTFkTV9wTkZ2ZHZZYmp2OFJZSWhVQThzS010UWNqR3Rfa0F1bW5ObFhra191THVHX1hYSU1NWGs4VzhsSEFHS3hkdmdUZVpNUDRjVVMtQ0I4aHhWVGxSUEJCV0gtWg?oc=5
-
-### Anthropic - ERock CEO on Anthropic power deal
-Source: Major External News - Anthropic
-Publisher: CNBC
-Published: Aug 13, 2026
-Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMiggFBVV95cUxNMkZyaDZ3V0c4QjNTSGZHM0FfWjhYSnJ3RkpWdUZUUUlRaW5zSHdGZVRYTU5kbEJiUnc4V3NJb1BFUnRsbk9JOURNel91VTJtOGYtdUNmbFlLNzRaeXY2VHJZR194SXdrYzlsZWhXT3ZSMkIyVWtLR1BkWXhMRUNaLUFR?oc=5
-
-### Anthropic - Anthropic CFO Krishna Rao is leading early IPO meetings with investors and has not discussed valuation, sources say
-Source: Major External News - Anthropic
-Publisher: CNBC
-Published: Aug 13, 2026
-Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMihgFBVV95cUxPRlZFSERVa2Z4YzhjRVpKc0V1YktMcks5QWRlS2NIZ1Nzd0hLb2lONVVELXZILThaWnh1SXNvYURMZTVQcWRDUWkwZ2ZDMjFLNHJ3T05QQzhhVHRLazVOSzZxYmNoYnhvTW1pLW1fZy1kdUhQbjVuODRDRUgxLXE0QVd5cFp0d9IBiwFBVV95cUxPb29DaEVJYXY5Ym5xeXNLVlVuM0dKZlFsQVN4Y2FnZElCUzhSaUphd0h5RnRLT1BOdkpCQk9sbHBIZWw1cXgza3gxM1JjYkp4M1BKSUZkMF9DZTdxWjRxX2p6ei1oS2RhLVpHSEY3Q1otQUlKcmRLLXVMV095U2Rsclp2ZFl1NU9fVHZF?oc=5
-
-## Critical Official Updates
-
-### Google - Introducing Gemini 3.7 Flash
-Source: Google AI
-Published: Aug 13, 2026
-Why it matters: Flagship model or product launch
-Summary: Gemini 3.7 Flash is our most intelligent workhorse model yet for coding and agents.
-Link: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash
-
-### OpenAI - Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed
-Source: OpenAI Newsroom
-Published: Aug 13, 2026
-Why it matters: Flagship model or product launch
-Summary: Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.
-Link: https://openai.com/index/previewing-ultrafast
+Link: https://news.google.com/rss/articles/CBMilgFBVV95cUxQMXJMbzZOTGRDTDl4cmhtd1llUVBzWVA5S2tFaFpJTEZNLWxQWFF4dDZSRm5fYzBaLS00eXBMeTk3VnV0cWh2SC0wWGhZTm1jMHNNM2xwb0g3QmNtTW9Vb2hZUW9GeHgxS3Fzb3htbWJjd0JsZ2RUWnpTSTRjd01zcURkXzNTVDFwRzlJT3VKTzNwY2JwZXc?oc=5
 
 ## Official Company Updates
 
-### OpenAI - The builder’s guide to GPT‑5.6
-Source: OpenAI Newsroom
+### Anthropic - How Claude’s text watermark works
+Source: Anthropic News
 Published: Aug 13, 2026
 Why it matters: Routine official update
-Summary: Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.
-Link: https://openai.com/index/builders-guide-to-gpt-5-6
-
-### OpenAI - OpenAI appoints Dali Rajic as Chief Revenue Officer
-Source: OpenAI Newsroom
-Published: Aug 13, 2026
-Why it matters: Routine official update
-Summary: OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.
-Link: https://openai.com/index/dali-rajic-chief-revenue-officer
+Link: https://www.anthropic.com/news/claude-text-watermark
