@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T14:26:02.910Z",
+  "generatedAt": "2026-08-16T14:26:21.626Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -78,10 +78,10 @@
   "totals": {
     "fetched": 37,
     "deduped": 24,
-    "new": 6,
+    "new": 2,
     "byKind": {
-      "official": 9,
-      "external": 15
+      "official": 10,
+      "external": 14
     }
   },
   "items": [
@@ -124,44 +124,6 @@
       }
     },
     {
-      "id": "b26969576b14834a5a8c2d68c053554b92708815",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObUs0MGRiMjY0Z2YzbGlPQmJweVlRWjNZRlROT2lRd1NWbHgwOG9HMFhGdkJZTnlqbkJMUjVabm82bno0SmFfYUgySmZ1RkxDTTlMT3NKanRpV3JoME1YM0FDbVR5NndGOFlGRU1ueTdlTXVsd2xiWVVjWDYyNjAxWlc1dTZWSU1KOVB4eWpIZTJFcVU?oc=5",
-      "title": "IBM partners with OpenAI to bolster enterprise AI push",
-      "summary": "",
-      "publishedAt": "2026-08-13T19:19:49.000Z",
-      "publisher": "TechCrunch",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "2f8a4b17f5c11094660f0b1247054c0689a45f2a",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQV000NFNPUG83UmljZkl6QTg3WnlzVHVkdWU1bkRPdWpjR21CUmtfMnBUanZtdzdxTUl5Z0ZFcTBuc1ZSNUZlOTdWZzgtQVhlRzhsa3FoOW9RWll0ZnBmRGpJOWxXYXNtbWJVOVR0QkNYUVlaR0JJWE1DTlVEX1dveF9URDFaME16ZGJXb0RFVkxRWTFKRThmRjVuSQ?oc=5",
-      "title": "IBM and OpenAI Launch Enterprise AI Partnership With GPT-5.6 Integration",
-      "summary": "",
-      "publishedAt": "2026-08-13T10:26:38.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
       "id": "63cf6eadd2ec4a17b4ab79a256ad336f99346e9c",
       "company": "Meta",
       "sourceKind": "external",
@@ -181,22 +143,22 @@
       }
     },
     {
-      "id": "dd378ea08187ffc514680b6ebeec11fe5f10a53d",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash",
-      "title": "Introducing Gemini 3.7 Flash",
-      "summary": "Gemini 3.7 Flash is our most intelligent workhorse model yet for coding and agents.",
-      "publishedAt": "2026-08-13T17:00:00.000Z",
-      "publisher": "",
+      "id": "5295101a5201865d07efe35b6bdce2260275c14a",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSy1xWUFxU0RSRy1uVXV1Vy1MemRKZ2ZRbWFST3h5b2JlLUZHSGJEMExWM3VVQTc5OEk3SGlZQ2hfZnV5TjdiOUVJUVZ4MkNuYzc4dmsyVW5hZVlQbjJ0UzJtazNpT1NWXzV5WkZfQlR6OW40ekRoMHlkb1ZOQmhHRUdCdDNWcUN4Q3c?oc=5",
+      "title": "OpenAI CEO Sam Altman’s Sister Claims She Has PTSD From Being Abused by Him in Bombshell Court Filing",
+      "summary": "",
+      "publishedAt": "2026-08-12T16:14:37.000Z",
+      "publisher": "Yahoo",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 5,
-        "reason": "Flagship model or product launch"
+        "score": 6,
+        "reason": "Corporate move or major external event"
       }
     },
     {
@@ -228,7 +190,7 @@
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWjY4Y0RmbnNIZU5fWV83TGxRb0M1T0hva0dCRUtWQzcxclJ5TW02NExHQzREZmwwenZIQjh5eU01YjYycGMxNUg5MlJuZVh5RGQyM0M1MHB1Znhld2x2OXFFNF93OGg3SUJMYUNsMTZjZ2VQemtkM3M0SnVDam1vSHNKVUJCWHpKbzVzLXdLWmtlZElxYW5BS0c3MU9iRk41Ty1LUzY4TWl4YVQtRElKWHNFSzg0dTA?oc=5",
       "title": "Nvidia scales back funding guarantee for Ohio OpenAI data center, WSJ reports",
       "summary": "",
-      "publishedAt": "2026-08-14T23:44:00.000Z",
+      "publishedAt": "2026-08-15T23:33:33.000Z",
       "publisher": "Reuters",
       "discoveryMethod": "feed",
       "classification": {
@@ -238,17 +200,17 @@
       }
     },
     {
-      "id": "5632dc23289d96b8e369db10a92eb7ccd8b1f511",
-      "company": "OpenAI",
+      "id": "c951ebe3a8f3b797290bfeda4d2958184e37464c",
+      "company": "Anthropic",
       "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTDczTGtXVlBJQ3hQdHdzRkdweXgyWEloWUlpYVFaWVBKVl9aMUJsOWRaUjRGQXVUYkJ5LWlTU01fNjVmNV9lX1NuNlMxY0g3NFBsMzFBejdNOHJvbzN1WExlRFlwSHp5M1pRZTVPZi12U3cxaVpmNzVHUm5EZ3MtNXNxNWRCTUhPZGJrcDhpSVM0Mmxxa3N0NWN3?oc=5",
-      "title": "Nvidia scales back $250 billion OpenAI data center guarantee, WSJ reports",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbHVOU3cyY0NpeTY1ZHJia1FPdEpGaEhFX2ZzdnNDY2F3ejN6R1YtbTNSUWEyT1MzaXhiS2VIb1ZQb2JuNXp0UTN1aFZIaGM2R0ZQMEJhNXhTaHV4VjlQTFRWbnl5VS15MTFPcVIxTTZCYXJCNGNlLUQ1QXkyYnVEeG14cjhNUQ?oc=5",
+      "title": "Anthropic revenue surges to over $11.5 billion in second quarter",
       "summary": "",
-      "publishedAt": "2026-08-14T23:43:56.000Z",
-      "publisher": "Yahoo Finance",
+      "publishedAt": "2026-08-15T14:52:00.000Z",
+      "publisher": "Fortune",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -276,98 +238,41 @@
       }
     },
     {
-      "id": "69a1dd8efb54f2eeed4fe8bbd1805c49f1d8dafd",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTjVOdW9zemhxOWQyYWV6V1NHMFpjUzY3WHBVVl83a3lNYnRaOHE4ZUpLYjd2ZFhTRWJpUmZEd3M2cFczVDZxb2ZNUURmRE9scnY2SDJSdFROdzVSdVpzNkRKYklfQS0xMko2M3A1RV94Y3RZRHpZYkdHYVVtNEhnMTRXTTY4Y3YyVGFGdVp0TnFpX3cwXzFncE1jNnhpUGs0dE83OThTVmdmOTh1UmYtdlpOZEs5X3cwSGd6dUg4a2IxYnNvSUdn?oc=5",
-      "title": "Anthropic’s $2 trillion problem: Its underlying business is nowhere near the IPO valuation it wants",
-      "summary": "",
-      "publishedAt": "2026-08-14T10:27:00.000Z",
-      "publisher": "Fortune",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "0221020831b3157cb1653f000074ca0ffe972f5b",
+      "id": "d02f12d70f997724c17462d18cccd70ecf41ec5a",
       "company": "Microsoft",
       "sourceKind": "external",
       "sourceId": "external-microsoft-major",
       "sourceLabel": "Major External News - Microsoft",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUkk5eGdSc1ZyR1ljLU9JNFZhcEFNMFNQNFNsZkp4c1dIZXlzNFdJNzY2VEZBY3JMUzdlLXZlb1lxUldjSEdfVU9iNHhFLWhEUXBqN3duWEl5QnRPYTRKX01XUjREODQ0YUVLejdJZ1NlUE5QdVFhMEhMZE5Gak1mSjdKZVlaZWFaWmR2Z1IyU282aFZndno0?oc=5",
-      "title": "Fortune Tech: OpenAI's leadership musical chairs; Microsoft's 'super app,' Tim Cook in Texas",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNalh6cnRnbXBUdldpdTQ4bENubjdTOU1WcHg3b3RBY1M3a0FnRWl3aTZxQnlUTlhOMzNON1JSUnRieW1pVVBvUjdDZE85MlRqa0dBOU1vRDBBcE55dk93RWNxZ25FYUtFWHdjeXdKUENFTmRZdDlJVHItSlhBVW9NZm5aY3BKazlScFRhOW9HWlltY1kwbGxqd1ZQVEl2MGZMeGFJTC12LXktVDR3cnBuRWE3cXRpWDVoQ1JEX3V6ZFpLTkdUVWFCOEFtckU4QQ?oc=5",
+      "title": "After Microsoft threatened legal action, a security researcher publishes a new Windows zero-day bug",
       "summary": "",
-      "publishedAt": "2026-08-14T10:20:00.000Z",
-      "publisher": "Fortune",
+      "publishedAt": "2026-08-12T15:18:55.000Z",
+      "publisher": "TechCrunch",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
         "score": 4,
-        "reason": "Trusted external coverage"
+        "reason": "Safety, security, or policy update"
       }
     },
     {
-      "id": "b13f916970e03301ec3f40c56da4752a2a338d70",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObXZWcjRWclgycUlCeVpPY0xBVUdwMW5tZldBYjJjTkdGZ2YxYkNlMkF3eFpwNHhXYUJRTlFLeHIwUGw4RkpoRVl1dmsxRnFfaHZCc0FlMTZqQnl5dlJIU1ozZHBPcUVzbkozUzBuUU9YcnlCYU11WW1DQkxrZTI4bldBQnI?oc=5",
-      "title": "Anthropic needs to bring in Amazon-style earnings to justify its $2 trillion valuation—but it’s barely turned a profit",
-      "summary": "",
-      "publishedAt": "2026-08-14T07:02:00.000Z",
-      "publisher": "Fortune",
+      "id": "dd378ea08187ffc514680b6ebeec11fe5f10a53d",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash",
+      "title": "Introducing Gemini 3.7 Flash",
+      "summary": "Gemini 3.7 Flash is our most intelligent workhorse model yet for coding and agents.",
+      "publishedAt": "2026-08-13T17:00:00.000Z",
+      "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
         "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "5ce009b90b59259caab60584306d098016a33678",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQb1p5a2tCRDBUSmRmTFMtTFBYT0dDOWNNTjlORGNndGJjUk95dGNYQ05CS0xCQVJNbS0yOE1GS1N2eUlSMV9RVWtLSUhhUVo3Z2pCQVR0YjV5RUU0OW1ScTFkTV9wTkZ2ZHZZYmp2OFJZSWhVQThzS010UWNqR3Rfa0F1bW5ObFhra191THVHX1hYSU1NWGs4VzhsSEFHS3hkdmdUZVpNUDRjVVMtQ0I4aHhWVGxSUEJCV0gtWg?oc=5",
-      "title": "Buried in OpenAI's latest research: No correlation between AI use and revenue per employee",
-      "summary": "",
-      "publishedAt": "2026-08-13T20:28:00.000Z",
-      "publisher": "Fortune",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "09c389ca8466717ac72a17c7fca85a5a815bb9e7",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMkZyaDZ3V0c4QjNTSGZHM0FfWjhYSnJ3RkpWdUZUUUlRaW5zSHdGZVRYTU5kbEJiUnc4V3NJb1BFUnRsbk9JOURNel91VTJtOGYtdUNmbFlLNzRaeXY2VHJZR194SXdrYzlsZWhXT3ZSMkIyVWtLR1BkWXhMRUNaLUFR?oc=5",
-      "title": "ERock CEO on Anthropic power deal",
-      "summary": "",
-      "publishedAt": "2026-08-13T17:48:48.000Z",
-      "publisher": "CNBC",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
+        "reason": "Flagship model or product launch"
       }
     },
     {
@@ -390,6 +295,101 @@
       }
     },
     {
+      "id": "69a1dd8efb54f2eeed4fe8bbd1805c49f1d8dafd",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTjVOdW9zemhxOWQyYWV6V1NHMFpjUzY3WHBVVl83a3lNYnRaOHE4ZUpLYjd2ZFhTRWJpUmZEd3M2cFczVDZxb2ZNUURmRE9scnY2SDJSdFROdzVSdVpzNkRKYklfQS0xMko2M3A1RV94Y3RZRHpZYkdHYVVtNEhnMTRXTTY4Y3YyVGFGdVp0TnFpX3cwXzFncE1jNnhpUGs0dE83OThTVmdmOTh1UmYtdlpOZEs5X3cwSGd6dUg4a2IxYnNvSUdn?oc=5",
+      "title": "Anthropic’s $2 trillion problem: Its underlying business is nowhere near the IPO valuation it wants",
+      "summary": "",
+      "publishedAt": "2026-08-14T10:27:00.000Z",
+      "publisher": "Fortune",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "0221020831b3157cb1653f000074ca0ffe972f5b",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUkk5eGdSc1ZyR1ljLU9JNFZhcEFNMFNQNFNsZkp4c1dIZXlzNFdJNzY2VEZBY3JMUzdlLXZlb1lxUldjSEdfVU9iNHhFLWhEUXBqN3duWEl5QnRPYTRKX01XUjREODQ0YUVLejdJZ1NlUE5QdVFhMEhMZE5Gak1mSjdKZVlaZWFaWmR2Z1IyU282aFZndno0?oc=5",
+      "title": "Fortune Tech: OpenAI's leadership musical chairs; Microsoft's 'super app,' Tim Cook in Texas",
+      "summary": "",
+      "publishedAt": "2026-08-14T10:20:00.000Z",
+      "publisher": "Fortune",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "b13f916970e03301ec3f40c56da4752a2a338d70",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObXZWcjRWclgycUlCeVpPY0xBVUdwMW5tZldBYjJjTkdGZ2YxYkNlMkF3eFpwNHhXYUJRTlFLeHIwUGw4RkpoRVl1dmsxRnFfaHZCc0FlMTZqQnl5dlJIU1ozZHBPcUVzbkozUzBuUU9YcnlCYU11WW1DQkxrZTI4bldBQnI?oc=5",
+      "title": "Anthropic needs to bring in Amazon-style earnings to justify its $2 trillion valuation—but it’s barely turned a profit",
+      "summary": "",
+      "publishedAt": "2026-08-14T07:02:00.000Z",
+      "publisher": "Fortune",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "5ce009b90b59259caab60584306d098016a33678",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQb1p5a2tCRDBUSmRmTFMtTFBYT0dDOWNNTjlORGNndGJjUk95dGNYQ05CS0xCQVJNbS0yOE1GS1N2eUlSMV9RVWtLSUhhUVo3Z2pCQVR0YjV5RUU0OW1ScTFkTV9wTkZ2ZHZZYmp2OFJZSWhVQThzS010UWNqR3Rfa0F1bW5ObFhra191THVHX1hYSU1NWGs4VzhsSEFHS3hkdmdUZVpNUDRjVVMtQ0I4aHhWVGxSUEJCV0gtWg?oc=5",
+      "title": "Buried in OpenAI's latest research: No correlation between AI use and revenue per employee",
+      "summary": "",
+      "publishedAt": "2026-08-13T20:28:00.000Z",
+      "publisher": "Fortune",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "09c389ca8466717ac72a17c7fca85a5a815bb9e7",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMkZyaDZ3V0c4QjNTSGZHM0FfWjhYSnJ3RkpWdUZUUUlRaW5zSHdGZVRYTU5kbEJiUnc4V3NJb1BFUnRsbk9JOURNel91VTJtOGYtdUNmbFlLNzRaeXY2VHJZR194SXdrYzlsZWhXT3ZSMkIyVWtLR1BkWXhMRUNaLUFR?oc=5",
+      "title": "ERock CEO on Anthropic power deal",
+      "summary": "",
+      "publishedAt": "2026-08-13T17:48:48.000Z",
+      "publisher": "CNBC",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
       "id": "faf78018a54ce24f1dbf403b950b3d566eb271e8",
       "company": "Meta",
       "sourceKind": "external",
@@ -401,25 +401,6 @@
       "summary": "",
       "publishedAt": "2026-08-11T15:41:02.000Z",
       "publisher": "Yahoo",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "004569dcf98cf51a4e490400872e250958eb9147",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMXJMbzZOTGRDTDl4cmhtd1llUVBzWVA5S2tFaFpJTEZNLWxQWFF4dDZSRm5fYzBaLS00eXBMeTk3VnV0cWh2SC0wWGhZTm1jMHNNM2xwb0g3QmNtTW9Vb2hZUW9GeHgxS3Fzb3htbWJjd0JsZ2RUWnpTSTRjd01zcURkXzNTVDFwRzlJT3VKTzNwY2JwZXc?oc=5",
-      "title": "Meta dangles $1 billion fund for ‘customized investments and programs’ in its data center towns",
-      "summary": "",
-      "publishedAt": "2026-08-10T19:15:00.000Z",
-      "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -463,25 +444,6 @@
         "bucket": "important",
         "score": 3,
         "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "8a4a811ddfc4a6b4b51d185621efb1cf48cdf230",
-      "company": "Anthropic",
-      "sourceKind": "official",
-      "sourceId": "anthropic-news",
-      "sourceLabel": "Anthropic News",
-      "homepageUrl": "https://www.anthropic.com/news",
-      "url": "https://www.anthropic.com/news/claude-text-watermark",
-      "title": "How Claude’s text watermark works",
-      "summary": "",
-      "publishedAt": "2026-08-14T00:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "anchor",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
       }
     },
     {
@@ -540,102 +502,24 @@
         "score": 2,
         "reason": "Technical or research update"
       }
-    }
-  ],
-  "newItems": [
-    {
-      "id": "ef32170ef821be684492cdb289c88499265e6d1c",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ0pnMnJvSkdQellKdjBiRkFYRjVCNlgycWdzUlp1eXEya1otRFMtdklobE9nMHJORWs4ZGdEUUt2RVd6aV9hclZXY1RrNUZPU1Vtb0RrLUdEa3N5WXhDVVpjUVk3clc3NllkT0JmWEJGc3FaQktLQVN6OG9Pb0tkNjBHd0Y?oc=5",
-      "title": "IBM Stock Drops Despite Major OpenAI Partnership",
-      "summary": "",
-      "publishedAt": "2026-08-14T18:52:01.000Z",
-      "publisher": "Yahoo Finance UK",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
     },
     {
-      "id": "c33bc69b5824684d84233f4ba11bf977cbc78259",
-      "company": "Google",
-      "sourceKind": "external",
-      "sourceId": "external-google-major",
-      "sourceLabel": "Major External News - Google",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPV18wMmRRU0c2ejNyQ3RBVXJiWjdXQUxsZjZaQzE3eThxYzlDQUYzOUc0WldmN3RqSjh3akk1ZWR5VWpId2hoMjNEWi1qZ3JubXhla2RYTHpFWWp3ZmJteHBjQWR1STdZb1VKZDh2OVQ5RTd6WHdPdHlEOXJ0RjNLdWw2Yk5YWGRoT2pYMVFpeWVyQnl6WV9SVXdEc1RmLWtmOGhIQUp4OWdvcG9LNndfTTYzZUtHY2c2OWdCaDhReUZuRkk?oc=5",
-      "title": "Zocdoc CEO on Gemini partnership: Opening our infrastructure to third party players",
+      "id": "97cd97d27d220f15f9bc8a69f1f4b5eea602a9e8",
+      "company": "Anthropic",
+      "sourceKind": "official",
+      "sourceId": "anthropic-engineering",
+      "sourceLabel": "Anthropic Engineering",
+      "homepageUrl": "https://www.anthropic.com/engineering",
+      "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
+      "title": "Featured How we contain Claude across products As agents grow more capable, so does their potential blast radius. The engineering question is how to cap it. Here’s what we’ve learned building containment for claude.ai, Claude Code, and Cowork.",
       "summary": "",
-      "publishedAt": "2026-08-14T18:23:32.000Z",
-      "publisher": "CNBC",
-      "discoveryMethod": "feed",
+      "publishedAt": null,
+      "publisher": "",
+      "discoveryMethod": "anchor",
       "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "5efdfbe5612664ae1bedf908e07b6b12ac2bc205",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWjY4Y0RmbnNIZU5fWV83TGxRb0M1T0hva0dCRUtWQzcxclJ5TW02NExHQzREZmwwenZIQjh5eU01YjYycGMxNUg5MlJuZVh5RGQyM0M1MHB1Znhld2x2OXFFNF93OGg3SUJMYUNsMTZjZ2VQemtkM3M0SnVDam1vSHNKVUJCWHpKbzVzLXdLWmtlZElxYW5BS0c3MU9iRk41Ty1LUzY4TWl4YVQtRElKWHNFSzg0dTA?oc=5",
-      "title": "Nvidia scales back funding guarantee for Ohio OpenAI data center, WSJ reports",
-      "summary": "",
-      "publishedAt": "2026-08-14T23:44:00.000Z",
-      "publisher": "Reuters",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "5632dc23289d96b8e369db10a92eb7ccd8b1f511",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTDczTGtXVlBJQ3hQdHdzRkdweXgyWEloWUlpYVFaWVBKVl9aMUJsOWRaUjRGQXVUYkJ5LWlTU01fNjVmNV9lX1NuNlMxY0g3NFBsMzFBejdNOHJvbzN1WExlRFlwSHp5M1pRZTVPZi12U3cxaVpmNzVHUm5EZ3MtNXNxNWRCTUhPZGJrcDhpSVM0Mmxxa3N0NWN3?oc=5",
-      "title": "Nvidia scales back $250 billion OpenAI data center guarantee, WSJ reports",
-      "summary": "",
-      "publishedAt": "2026-08-14T23:43:56.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "004569dcf98cf51a4e490400872e250958eb9147",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMXJMbzZOTGRDTDl4cmhtd1llUVBzWVA5S2tFaFpJTEZNLWxQWFF4dDZSRm5fYzBaLS00eXBMeTk3VnV0cWh2SC0wWGhZTm1jMHNNM2xwb0g3QmNtTW9Vb2hZUW9GeHgxS3Fzb3htbWJjd0JsZ2RUWnpTSTRjd01zcURkXzNTVDFwRzlJT3VKTzNwY2JwZXc?oc=5",
-      "title": "Meta dangles $1 billion fund for ‘customized investments and programs’ in its data center towns",
-      "summary": "",
-      "publishedAt": "2026-08-10T19:15:00.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Trusted external coverage"
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Technical or research update"
       }
     },
     {
@@ -653,8 +537,48 @@
       "discoveryMethod": "anchor",
       "classification": {
         "bucket": "digest",
-        "score": 2,
+        "score": 1,
         "reason": "Routine official update"
+      }
+    }
+  ],
+  "newItems": [
+    {
+      "id": "5295101a5201865d07efe35b6bdce2260275c14a",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSy1xWUFxU0RSRy1uVXV1Vy1MemRKZ2ZRbWFST3h5b2JlLUZHSGJEMExWM3VVQTc5OEk3SGlZQ2hfZnV5TjdiOUVJUVZ4MkNuYzc4dmsyVW5hZVlQbjJ0UzJtazNpT1NWXzV5WkZfQlR6OW40ekRoMHlkb1ZOQmhHRUdCdDNWcUN4Q3c?oc=5",
+      "title": "OpenAI CEO Sam Altman’s Sister Claims She Has PTSD From Being Abused by Him in Bombshell Court Filing",
+      "summary": "",
+      "publishedAt": "2026-08-12T16:14:37.000Z",
+      "publisher": "Yahoo",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "c951ebe3a8f3b797290bfeda4d2958184e37464c",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbHVOU3cyY0NpeTY1ZHJia1FPdEpGaEhFX2ZzdnNDY2F3ejN6R1YtbTNSUWEyT1MzaXhiS2VIb1ZQb2JuNXp0UTN1aFZIaGM2R0ZQMEJhNXhTaHV4VjlQTFRWbnl5VS15MTFPcVIxTTZCYXJCNGNlLUQ1QXkyYnVEeG14cjhNUQ?oc=5",
+      "title": "Anthropic revenue surges to over $11.5 billion in second quarter",
+      "summary": "",
+      "publishedAt": "2026-08-15T14:52:00.000Z",
+      "publisher": "Fortune",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
       }
     }
   ],
