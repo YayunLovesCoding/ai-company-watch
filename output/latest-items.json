@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T14:31:03.083Z",
+  "generatedAt": "2026-08-18T14:36:19.594Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -76,21 +76,59 @@
     }
   ],
   "totals": {
-    "fetched": 36,
+    "fetched": 34,
     "deduped": 24,
-    "new": 7,
+    "new": 8,
     "byKind": {
-      "official": 11,
-      "external": 13
+      "official": 14,
+      "external": 10
     }
   },
   "items": [
     {
-      "id": "42f9a7d914ab55eac6a2e3d52c024ee786035a46",
+      "id": "b79e0fffd02cd69c376789fd2cd4cde3c6ce2d0b",
       "company": "OpenAI",
       "sourceKind": "external",
       "sourceId": "external-openai-major",
       "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE54UnNTaE5RWVB4VHo2V05NdTZSZExNaUo5SGNOMFlMZFZhajVBRTZQSzF2aVh0RU9hMTJKcHZ3OVpBeU11UmsxMXkzOGxrTFAzSURhdmg5WEJ1ZmwxNWRWUkR5SdIBaEFVX3lxTE5qWndoSTJvOXBDQXRLVl9mWUNoSTN4Mkw1dEdzNXdnUUdzSS14cUZfMkNBVzZrZUpJaFVaZzN3cVl5czd5Nkx3NXJoc2ZmMHdHLTUwS1hYSzZNQ3ZtdjYzaDZiLW9HUUpV?oc=5",
+      "title": "Credit card issuer Synchrony announces partnership with OpenAI",
+      "summary": "",
+      "publishedAt": "2026-08-17T15:03:08.000Z",
+      "publisher": "CNBC",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "aa256ec1e7704873eb343fb052c34def3fcc837e",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdG1heWR6MlNOWUI3azZrbXFBYkpHbjE5RDl4OURnREhaWmJDTzNRNDgwc1NRQ2lPVV9MZW9pRG5oOTFJM3hvODBBZkE1TVdROHBrRWpOWGlHTVRtR09ySWFoTXFmY2h2dnZ0UU9LYlFwTWlkOTVQeDFneTNWc0xGN1ptcy1LeE5wRTJ6eU93MnFlOEdxTjFKUjFsRVBlaTRsV3lsY3Fpa0FyOUR6WC1IU1FOc1psX0x0Mnc?oc=5",
+      "title": "Man charged with arranging fatal ambush of Microsoft manager faces murder trial in Florida",
+      "summary": "",
+      "publishedAt": "2026-08-17T11:21:15.000Z",
+      "publisher": "NBC News",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "42f9a7d914ab55eac6a2e3d52c024ee786035a46",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
       "homepageUrl": "https://news.google.com/",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVklPR1ZhbGlORWx2T2tZbXJaSGFyaFYyWmZHT0tGUDVtbk1DZGR5YVg2dkg0LXhXRWxIRWlURzN2RGRHQ2p2WnlsUDlpUmR2U01iYkRNT3FjU294REwyLVR2dlhQY3N3dHBCcS1EY2ZLUUwyWXV4NVBFVldxY25oZEpmNTFReXdlUUNpMHJtNEtIX2ZVUXVucUJn?oc=5",
       "title": "IBM Stock Drops Despite Major OpenAI Partnership",
@@ -114,8 +152,27 @@
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPV18wMmRRU0c2ejNyQ3RBVXJiWjdXQUxsZjZaQzE3eThxYzlDQUYzOUc0WldmN3RqSjh3akk1ZWR5VWpId2hoMjNEWi1qZ3JubXhla2RYTHpFWWp3ZmJteHBjQWR1STdZb1VKZDh2OVQ5RTd6WHdPdHlEOXJ0RjNLdWw2Yk5YWGRoT2pYMVFpeWVyQnl6WV9SVXdEc1RmLWtmOGhIQUp4OWdvcG9LNndfTTYzZUtHY2c2OWdCaDhReUZuRkk?oc=5",
       "title": "Zocdoc CEO on Gemini partnership: Opening our infrastructure to third party players",
       "summary": "",
-      "publishedAt": "2026-08-14T18:23:32.000Z",
+      "publishedAt": "2026-08-14T18:23:00.000Z",
       "publisher": "CNBC",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "a986df4fdeb4aa993d3065bcffd7ab3d5ba39b59",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/blue-skies",
+      "title": "Operation Blue Skies: Reducing aviation climate impact with AI",
+      "summary": "Google is partnering with the UK on Operation Blue Skies, an airspace-scale, AI-powered contrail avoidance trial.",
+      "publishedAt": "2026-08-18T09:00:00.000Z",
+      "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -162,6 +219,25 @@
       }
     },
     {
+      "id": "01003c6680bc2ecc56a2f52dd87efa12aca00da7",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/chatgpt-for-teens",
+      "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+      "summary": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
+      "publishedAt": "2026-08-18T11:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
       "id": "a18697a7882d9b1442c7b16ef16821f37ddf68e7",
       "company": "Meta",
       "sourceKind": "official",
@@ -181,14 +257,52 @@
       }
     },
     {
-      "id": "66352881befcb00d7ca951575a602c3e19f66da8",
-      "company": "Microsoft",
+      "id": "2e8a9aa64ff663b8e09b5836aa1787b531f240d4",
+      "company": "Anthropic",
       "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMnpDcllWWXdBcDQtQzdDajFvRlF2aUhoaTFvRGh1VjUtR2lsWUVGVmFxaHd0dHZMOE00MVQtTndYbWlNT1NjMFFCcGkxTk5mUFlOay1aa1YzUWRhMWxrVll4dTdOZVFYMVUwWHBiTzZGYjQwVUEzcG1zcDRQRGg4NWh4UU4?oc=5",
+      "title": "Anthropic’s annualized revenue surges to $65B",
+      "summary": "",
+      "publishedAt": "2026-08-17T23:56:26.000Z",
+      "publisher": "TechCrunch",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "30a9b2a9cc627d720c6e56d80e9c10a4f91d7e6c",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZkxQZ0FIUUQ0X2p6bVF1NWw1eF9PQnBtRVJVbUk4eV83UkU5X0JjdmE0RnFDdkZOLVJNWWlCejVmOTdmdTFoT3FGWmhGOGVYdFdwcXNwWlAtaEVNRnFPYkZFVzhmY3ZBQ0xERGUtWFF6QWdxcVFqR2k4dkdDTkJHNURIdUJ0Rk05NE94ekVPMjYtaWNodnItODdIdGU4Qmw5bndYZ095UF9nRFc5RnRheGxtNXFCM2VWbXd5M2pCTGw?oc=5",
+      "title": "Nvidia to provide up to $105 billion guarantee for OpenAI's Ohio data center",
+      "summary": "",
+      "publishedAt": "2026-08-17T19:36:14.000Z",
+      "publisher": "Reuters",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "66352881befcb00d7ca951575a602c3e19f66da8",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONTY0SXEyaEQ3Q1pRaUhyaVdKNzBHWUJNNVdQX3V5SHRSWVdfYmYzTWJpQjhKVHd5OGRmdjFzT25reUNJX21IWFc0Z2FwY0hQcWFSRm16bURnUVVydUVuT2FDYy11TmV0T09nMDJEdVBsbTdvRWN0ckoxQ2p4b3NPRVVSd3TSAYoBQVVfeXFMUGE1ZTROeEprR2lWenlwXy12a09IbkgwRGdzQ1lTSlhzSzRUb2M2LUF1OXVwT1g5NkxMeEFxX2hleklhU0Z0Q0pZVE40eDVNT2xzRGtFQnp0U2luSVQ3bjlGMkpYNlV6UzVSRXBqUXJqV2Q2SHpkdFZIWDdSRUk1R21LbThheEN5c1VB?oc=5",
-      "title": "Nvidia backs financing for OpenAI data center in Ohio",
+      "title": "Nvidia backing $105 billion in financing for OpenAI data center in Ohio",
       "summary": "",
       "publishedAt": "2026-08-17T14:10:16.000Z",
       "publisher": "CNBC",
@@ -200,13 +314,13 @@
       }
     },
     {
-      "id": "c506d1b1a62df3ffd0b0ff6d2aee2a81d05885e8",
+      "id": "63f60c4fe8e3928fe933a7efa5f1b6d0708ba316",
       "company": "OpenAI",
       "sourceKind": "external",
       "sourceId": "external-openai-major",
       "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBlWkxWTDU5RUw5STVsVHhYSTltRElCd3ZiUmFRLWFzM1preUZ0V3BBY3RXMVVHdU43WjNqNmFtS2pRbTVxMVIyc3VxcDV3VDJMeVpZeVI5T2k4OFFsbmRTdWVST0VIemdscy1QckhLMS1VWmhyS2RGNUZVVQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBlWkxWTDU5RUw5STVsVHhYSTltRElCd3ZiUmFRLWFzM1preUZ0V3BBY3RXMVVHdU43WjNqNmFtS2pRbTVxMVIyc3VxcDV3VDJMeVpZeVI5T2k4OFFsbmRTdWVST0VIemdscy1QckhLMS1VWmhyS2RGNUZVVdIBgAFBVV95cUxPUExPRE4xdUpqRjE5UC1UcWNmVU1tSzMtSXN2cmlpd2hIN3ZZQkhlRjIyVlRWRTBjc2hnWnVUZkhjUnphR2VMcHIwaEJfQndWaE9YUkVnLU9PbHpjYzZqN1lKSDluVUpqTEJYWFl5OEwyYk9LSmZ3VlN3V3ZzdDNSRw?oc=5",
       "title": "OpenAI's Brockman brushes off concerns about leadership changes in CNBC exclusive",
       "summary": "",
       "publishedAt": "2026-08-17T12:46:19.000Z",
@@ -276,139 +390,6 @@
       }
     },
     {
-      "id": "6357d7795d215a7fa7069a167c9d8af0af3afc8a",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/previewing-ultrafast",
-      "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
-      "summary": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
-      "publishedAt": "2026-08-13T10:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "5efdfbe5612664ae1bedf908e07b6b12ac2bc205",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWjY4Y0RmbnNIZU5fWV83TGxRb0M1T0hva0dCRUtWQzcxclJ5TW02NExHQzREZmwwenZIQjh5eU01YjYycGMxNUg5MlJuZVh5RGQyM0M1MHB1Znhld2x2OXFFNF93OGg3SUJMYUNsMTZjZ2VQemtkM3M0SnVDam1vSHNKVUJCWHpKbzVzLXdLWmtlZElxYW5BS0c3MU9iRk41Ty1LUzY4TWl4YVQtRElKWHNFSzg0dTA?oc=5",
-      "title": "Nvidia scales back funding guarantee for Ohio OpenAI data center, WSJ reports",
-      "summary": "",
-      "publishedAt": "2026-08-14T23:44:00.000Z",
-      "publisher": "Reuters",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "5632dc23289d96b8e369db10a92eb7ccd8b1f511",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTDczTGtXVlBJQ3hQdHdzRkdweXgyWEloWUlpYVFaWVBKVl9aMUJsOWRaUjRGQXVUYkJ5LWlTU01fNjVmNV9lX1NuNlMxY0g3NFBsMzFBejdNOHJvbzN1WExlRFlwSHp5M1pRZTVPZi12U3cxaVpmNzVHUm5EZ3MtNXNxNWRCTUhPZGJrcDhpSVM0Mmxxa3N0NWN3?oc=5",
-      "title": "Nvidia scales back $250 billion OpenAI data center guarantee, WSJ reports",
-      "summary": "",
-      "publishedAt": "2026-08-14T23:43:56.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "69a1dd8efb54f2eeed4fe8bbd1805c49f1d8dafd",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTjVOdW9zemhxOWQyYWV6V1NHMFpjUzY3WHBVVl83a3lNYnRaOHE4ZUpLYjd2ZFhTRWJpUmZEd3M2cFczVDZxb2ZNUURmRE9scnY2SDJSdFROdzVSdVpzNkRKYklfQS0xMko2M3A1RV94Y3RZRHpZYkdHYVVtNEhnMTRXTTY4Y3YyVGFGdVp0TnFpX3cwXzFncE1jNnhpUGs0dE83OThTVmdmOTh1UmYtdlpOZEs5X3cwSGd6dUg4a2IxYnNvSUdn?oc=5",
-      "title": "Anthropic’s $2 trillion problem: Its underlying business is nowhere near the IPO valuation it wants",
-      "summary": "",
-      "publishedAt": "2026-08-14T10:27:00.000Z",
-      "publisher": "Fortune",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "0221020831b3157cb1653f000074ca0ffe972f5b",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUkk5eGdSc1ZyR1ljLU9JNFZhcEFNMFNQNFNsZkp4c1dIZXlzNFdJNzY2VEZBY3JMUzdlLXZlb1lxUldjSEdfVU9iNHhFLWhEUXBqN3duWEl5QnRPYTRKX01XUjREODQ0YUVLejdJZ1NlUE5QdVFhMEhMZE5Gak1mSjdKZVlaZWFaWmR2Z1IyU282aFZndno0?oc=5",
-      "title": "Fortune Tech: OpenAI's leadership musical chairs; Microsoft's 'super app,' Tim Cook in Texas",
-      "summary": "",
-      "publishedAt": "2026-08-14T10:20:00.000Z",
-      "publisher": "Fortune",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "b13f916970e03301ec3f40c56da4752a2a338d70",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObXZWcjRWclgycUlCeVpPY0xBVUdwMW5tZldBYjJjTkdGZ2YxYkNlMkF3eFpwNHhXYUJRTlFLeHIwUGw4RkpoRVl1dmsxRnFfaHZCc0FlMTZqQnl5dlJIU1ozZHBPcUVzbkozUzBuUU9YcnlCYU11WW1DQkxrZTI4bldBQnI?oc=5",
-      "title": "Anthropic needs to bring in Amazon-style earnings to justify its $2 trillion valuation—but it’s barely turned a profit",
-      "summary": "",
-      "publishedAt": "2026-08-14T07:02:00.000Z",
-      "publisher": "Fortune",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "5ce009b90b59259caab60584306d098016a33678",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQb1p5a2tCRDBUSmRmTFMtTFBYT0dDOWNNTjlORGNndGJjUk95dGNYQ05CS0xCQVJNbS0yOE1GS1N2eUlSMV9RVWtLSUhhUVo3Z2pCQVR0YjV5RUU0OW1ScTFkTV9wTkZ2ZHZZYmp2OFJZSWhVQThzS010UWNqR3Rfa0F1bW5ObFhra191THVHX1hYSU1NWGs4VzhsSEFHS3hkdmdUZVpNUDRjVVMtQ0I4aHhWVGxSUEJCV0gtWg?oc=5",
-      "title": "Buried in OpenAI's latest research: No correlation between AI use and revenue per employee",
-      "summary": "",
-      "publishedAt": "2026-08-13T20:28:00.000Z",
-      "publisher": "Fortune",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
       "id": "09c389ca8466717ac72a17c7fca85a5a815bb9e7",
       "company": "Anthropic",
       "sourceKind": "external",
@@ -418,27 +399,8 @@
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMkZyaDZ3V0c4QjNTSGZHM0FfWjhYSnJ3RkpWdUZUUUlRaW5zSHdGZVRYTU5kbEJiUnc4V3NJb1BFUnRsbk9JOURNel91VTJtOGYtdUNmbFlLNzRaeXY2VHJZR194SXdrYzlsZWhXT3ZSMkIyVWtLR1BkWXhMRUNaLUFR?oc=5",
       "title": "ERock CEO on Anthropic power deal",
       "summary": "",
-      "publishedAt": "2026-08-13T17:48:48.000Z",
+      "publishedAt": "2026-08-13T18:00:00.000Z",
       "publisher": "CNBC",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "004569dcf98cf51a4e490400872e250958eb9147",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMXJMbzZOTGRDTDl4cmhtd1llUVBzWVA5S2tFaFpJTEZNLWxQWFF4dDZSRm5fYzBaLS00eXBMeTk3VnV0cWh2SC0wWGhZTm1jMHNNM2xwb0g3QmNtTW9Vb2hZUW9GeHgxS3Fzb3htbWJjd0JsZ2RUWnpTSTRjd01zcURkXzNTVDFwRzlJT3VKTzNwY2JwZXc?oc=5",
-      "title": "Meta dangles $1 billion fund for ‘customized investments and programs’ in its data center towns",
-      "summary": "",
-      "publishedAt": "2026-08-10T19:15:00.000Z",
-      "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -463,6 +425,25 @@
         "bucket": "important",
         "score": 3,
         "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "9765648ad527edb666ee1df6ba69a5bb92d8a9c9",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/partnering-with-codeai",
+      "title": "Partnering with CodeAI to prepare the first AI generation",
+      "summary": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.",
+      "publishedAt": "2026-08-18T11:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
       }
     },
     {
@@ -540,39 +521,77 @@
         "score": 1,
         "reason": "Routine official update"
       }
-    }
-  ],
-  "newItems": [
-    {
-      "id": "42f9a7d914ab55eac6a2e3d52c024ee786035a46",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVklPR1ZhbGlORWx2T2tZbXJaSGFyaFYyWmZHT0tGUDVtbk1DZGR5YVg2dkg0LXhXRWxIRWlURzN2RGRHQ2p2WnlsUDlpUmR2U01iYkRNT3FjU294REwyLVR2dlhQY3N3dHBCcS1EY2ZLUUwyWXV4NVBFVldxY25oZEpmNTFReXdlUUNpMHJtNEtIX2ZVUXVucUJn?oc=5",
-      "title": "IBM Stock Drops Despite Major OpenAI Partnership",
-      "summary": "",
-      "publishedAt": "2026-08-14T18:52:01.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
-      }
     },
     {
-      "id": "ad5623d5cc7091de096da3991d1163fefa52afdc",
+      "id": "855fa77e93e122bb47dc41016310a1f3bc5ec67d",
       "company": "OpenAI",
       "sourceKind": "official",
       "sourceId": "openai-newsroom",
       "sourceLabel": "OpenAI Newsroom",
       "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/openai-joins-ports-pike-project",
-      "title": "OpenAI joins PORTS-Pike project",
-      "summary": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs",
-      "publishedAt": "2026-08-17T05:00:00.000Z",
+      "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+      "title": "The builder’s guide to GPT‑5.6",
+      "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
+      "publishedAt": "2026-08-13T11:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 1,
+        "reason": "Routine official update"
+      }
+    }
+  ],
+  "newItems": [
+    {
+      "id": "b79e0fffd02cd69c376789fd2cd4cde3c6ce2d0b",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE54UnNTaE5RWVB4VHo2V05NdTZSZExNaUo5SGNOMFlMZFZhajVBRTZQSzF2aVh0RU9hMTJKcHZ3OVpBeU11UmsxMXkzOGxrTFAzSURhdmg5WEJ1ZmwxNWRWUkR5SdIBaEFVX3lxTE5qWndoSTJvOXBDQXRLVl9mWUNoSTN4Mkw1dEdzNXdnUUdzSS14cUZfMkNBVzZrZUpJaFVaZzN3cVl5czd5Nkx3NXJoc2ZmMHdHLTUwS1hYSzZNQ3ZtdjYzaDZiLW9HUUpV?oc=5",
+      "title": "Credit card issuer Synchrony announces partnership with OpenAI",
+      "summary": "",
+      "publishedAt": "2026-08-17T15:03:08.000Z",
+      "publisher": "CNBC",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "aa256ec1e7704873eb343fb052c34def3fcc837e",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdG1heWR6MlNOWUI3azZrbXFBYkpHbjE5RDl4OURnREhaWmJDTzNRNDgwc1NRQ2lPVV9MZW9pRG5oOTFJM3hvODBBZkE1TVdROHBrRWpOWGlHTVRtR09ySWFoTXFmY2h2dnZ0UU9LYlFwTWlkOTVQeDFneTNWc0xGN1ptcy1LeE5wRTJ6eU93MnFlOEdxTjFKUjFsRVBlaTRsV3lsY3Fpa0FyOUR6WC1IU1FOc1psX0x0Mnc?oc=5",
+      "title": "Man charged with arranging fatal ambush of Microsoft manager faces murder trial in Florida",
+      "summary": "",
+      "publishedAt": "2026-08-17T11:21:15.000Z",
+      "publisher": "NBC News",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "a986df4fdeb4aa993d3065bcffd7ab3d5ba39b59",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/blue-skies",
+      "title": "Operation Blue Skies: Reducing aviation climate impact with AI",
+      "summary": "Google is partnering with the UK on Operation Blue Skies, an airspace-scale, AI-powered contrail avoidance trial.",
+      "publishedAt": "2026-08-18T09:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -582,17 +601,17 @@
       }
     },
     {
-      "id": "e9d00391df7866c3e499ff401f458d96a87f1ed1",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNelRjU1A3YXJBNm56NDJYMVhQU0JIdUJMdGRqcHpwa0Z1Vkd3WnhYbG5CZ25nSWxjZEtwV3N4ZGNORUlZRzQ2eXhJWHViMkdUQlZVOG0tRzk0eTFfZGhpWFpNZ3BaQ3NxRngydE1pYlBBQktYa0xVM1M2Q0dmOVVHRldkNDdpbElrMEw0U0dpc3RnRDR6?oc=5",
-      "title": "Meta Launches $1B Fund Amid AI Data Center Pushback",
-      "summary": "",
-      "publishedAt": "2026-08-13T06:29:00.000Z",
-      "publisher": "Yahoo Finance",
+      "id": "01003c6680bc2ecc56a2f52dd87efa12aca00da7",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/chatgpt-for-teens",
+      "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+      "summary": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
+      "publishedAt": "2026-08-18T11:00:00.000Z",
+      "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -601,17 +620,17 @@
       }
     },
     {
-      "id": "66352881befcb00d7ca951575a602c3e19f66da8",
-      "company": "Microsoft",
+      "id": "2e8a9aa64ff663b8e09b5836aa1787b531f240d4",
+      "company": "Anthropic",
       "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONTY0SXEyaEQ3Q1pRaUhyaVdKNzBHWUJNNVdQX3V5SHRSWVdfYmYzTWJpQjhKVHd5OGRmdjFzT25reUNJX21IWFc0Z2FwY0hQcWFSRm16bURnUVVydUVuT2FDYy11TmV0T09nMDJEdVBsbTdvRWN0ckoxQ2p4b3NPRVVSd3TSAYoBQVVfeXFMUGE1ZTROeEprR2lWenlwXy12a09IbkgwRGdzQ1lTSlhzSzRUb2M2LUF1OXVwT1g5NkxMeEFxX2hleklhU0Z0Q0pZVE40eDVNT2xzRGtFQnp0U2luSVQ3bjlGMkpYNlV6UzVSRXBqUXJqV2Q2SHpkdFZIWDdSRUk1R21LbThheEN5c1VB?oc=5",
-      "title": "Nvidia backs financing for OpenAI data center in Ohio",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMnpDcllWWXdBcDQtQzdDajFvRlF2aUhoaTFvRGh1VjUtR2lsWUVGVmFxaHd0dHZMOE00MVQtTndYbWlNT1NjMFFCcGkxTk5mUFlOay1aa1YzUWRhMWxrVll4dTdOZVFYMVUwWHBiTzZGYjQwVUEzcG1zcDRQRGg4NWh4UU4?oc=5",
+      "title": "Anthropic’s annualized revenue surges to $65B",
       "summary": "",
-      "publishedAt": "2026-08-17T14:10:16.000Z",
-      "publisher": "CNBC",
+      "publishedAt": "2026-08-17T23:56:26.000Z",
+      "publisher": "TechCrunch",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -620,13 +639,32 @@
       }
     },
     {
-      "id": "c506d1b1a62df3ffd0b0ff6d2aee2a81d05885e8",
+      "id": "30a9b2a9cc627d720c6e56d80e9c10a4f91d7e6c",
       "company": "OpenAI",
       "sourceKind": "external",
       "sourceId": "external-openai-major",
       "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBlWkxWTDU5RUw5STVsVHhYSTltRElCd3ZiUmFRLWFzM1preUZ0V3BBY3RXMVVHdU43WjNqNmFtS2pRbTVxMVIyc3VxcDV3VDJMeVpZeVI5T2k4OFFsbmRTdWVST0VIemdscy1QckhLMS1VWmhyS2RGNUZVVQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZkxQZ0FIUUQ0X2p6bVF1NWw1eF9PQnBtRVJVbUk4eV83UkU5X0JjdmE0RnFDdkZOLVJNWWlCejVmOTdmdTFoT3FGWmhGOGVYdFdwcXNwWlAtaEVNRnFPYkZFVzhmY3ZBQ0xERGUtWFF6QWdxcVFqR2k4dkdDTkJHNURIdUJ0Rk05NE94ekVPMjYtaWNodnItODdIdGU4Qmw5bndYZ095UF9nRFc5RnRheGxtNXFCM2VWbXd5M2pCTGw?oc=5",
+      "title": "Nvidia to provide up to $105 billion guarantee for OpenAI's Ohio data center",
+      "summary": "",
+      "publishedAt": "2026-08-17T19:36:14.000Z",
+      "publisher": "Reuters",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "63f60c4fe8e3928fe933a7efa5f1b6d0708ba316",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBlWkxWTDU5RUw5STVsVHhYSTltRElCd3ZiUmFRLWFzM1preUZ0V3BBY3RXMVVHdU43WjNqNmFtS2pRbTVxMVIyc3VxcDV3VDJMeVpZeVI5T2k4OFFsbmRTdWVST0VIemdscy1QckhLMS1VWmhyS2RGNUZVVdIBgAFBVV95cUxPUExPRE4xdUpqRjE5UC1UcWNmVU1tSzMtSXN2cmlpd2hIN3ZZQkhlRjIyVlRWRTBjc2hnWnVUZkhjUnphR2VMcHIwaEJfQndWaE9YUkVnLU9PbHpjYzZqN1lKSDluVUpqTEJYWFl5OEwyYk9LSmZ3VlN3V3ZzdDNSRw?oc=5",
       "title": "OpenAI's Brockman brushes off concerns about leadership changes in CNBC exclusive",
       "summary": "",
       "publishedAt": "2026-08-17T12:46:19.000Z",
@@ -639,41 +677,22 @@
       }
     },
     {
-      "id": "f137d9ea2f9f034dccd0bfc189f81096ee6a010f",
+      "id": "9765648ad527edb666ee1df6ba69a5bb92d8a9c9",
       "company": "OpenAI",
       "sourceKind": "official",
       "sourceId": "openai-newsroom",
       "sourceLabel": "OpenAI Newsroom",
       "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/the-defenders-window",
-      "title": "The Defender’s Window",
-      "summary": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.",
-      "publishedAt": "2026-08-17T05:30:00.000Z",
+      "url": "https://openai.com/index/partnering-with-codeai",
+      "title": "Partnering with CodeAI to prepare the first AI generation",
+      "summary": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.",
+      "publishedAt": "2026-08-18T11:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "96670aeff66e996d93df8bc7b8714d065b6bbd15",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
-      "title": "New policy ideas for the Intelligence Age",
-      "summary": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.",
-      "publishedAt": "2026-08-17T03:15:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Safety, security, or policy update"
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
       }
     }
   ],
