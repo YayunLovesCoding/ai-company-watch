@@ -1,74 +1,125 @@
 # AI Company Watch
 
-Generated: Aug 18, 2026, 7:36 AM PDT
+Generated: Aug 19, 2026, 7:37 AM PDT
 Lookback window: 7 day(s)
 Sources checked: 12
-Items fetched: 34
+Items fetched: 36
 Items kept: 24
-New items: 8
-External items kept: 10
-Official items kept: 14
+New items: 15
+External items kept: 9
+Official items kept: 15
 
 ## Critical External News
 
-### OpenAI - Credit card issuer Synchrony announces partnership with OpenAI
-Source: Major External News - OpenAI
-Publisher: CNBC
-Published: Aug 17, 2026
+### Meta - Meta spars with states in opening arguments of child safety trial
+Source: Major External News - Meta
+Publisher: Axios
+Published: Aug 18, 2026
 Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMiY0FVX3lxTE54UnNTaE5RWVB4VHo2V05NdTZSZExNaUo5SGNOMFlMZFZhajVBRTZQSzF2aVh0RU9hMTJKcHZ3OVpBeU11UmsxMXkzOGxrTFAzSURhdmg5WEJ1ZmwxNWRWUkR5SdIBaEFVX3lxTE5qWndoSTJvOXBDQXRLVl9mWUNoSTN4Mkw1dEdzNXdnUUdzSS14cUZfMkNBVzZrZUpJaFVaZzN3cVl5czd5Nkx3NXJoc2ZmMHdHLTUwS1hYSzZNQ3ZtdjYzaDZiLW9HUUpV?oc=5
+Link: https://news.google.com/rss/articles/CBMijAFBVV95cUxORU92SWVTV1JzOFFjWXdqMWZmbTMwTDA1d252bHkwb2tyMTUxdW13SE1MaUhfQnpBMTFVMUtDekRJeEYtVVBwaXg1OG03U3UyTFpjZDJ0WjNDcXhLdHpkWGhQTGFnQk85VEtKNFcwQ1dGSi1mbUFFbHVKVVBGd1Z4UHZGTk9FMW93dmxDMw?oc=5
 
-### Microsoft - Man charged with arranging fatal ambush of Microsoft manager faces murder trial in Florida
-Source: Major External News - Microsoft
-Publisher: NBC News
-Published: Aug 17, 2026
+### Meta - Meta Exploits Kids on Social Media, States Allege at Trial (1)
+Source: Major External News - Meta
+Publisher: Bloomberg Law News
+Published: Aug 18, 2026
 Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxOdG1heWR6MlNOWUI3azZrbXFBYkpHbjE5RDl4OURnREhaWmJDTzNRNDgwc1NRQ2lPVV9MZW9pRG5oOTFJM3hvODBBZkE1TVdROHBrRWpOWGlHTVRtR09ySWFoTXFmY2h2dnZ0UU9LYlFwTWlkOTVQeDFneTNWc0xGN1ptcy1LeE5wRTJ6eU93MnFlOEdxTjFKUjFsRVBlaTRsV3lsY3Fpa0FyOUR6WC1IU1FOc1psX0x0Mnc?oc=5
+Link: https://news.google.com/rss/articles/CBMirwFBVV95cUxOU3d6Z3dOTDBBbU5OSFFiQ1JvQmRaYnpPT0RWeVJ2cjE2SWgxLW44dE1NY2NHT2lmZVh1RVE2cFlqajl4dURvUWp2RFlKTXAxVzljMXRVVzFZNUtaWGIzaFZwTDlETGdGZ051Qm5wM0E1UHNGNkJMUGJ3WTdOanN0U1NmRUtNNV9SeVFIZGc5akl5dmFVSFNMTU1KSmhWRG9OZWhia24yWXkxTDkzcVcw?oc=5
+
+### Meta - What the Meta Platforms trial means for investors
+Source: Major External News - Meta
+Publisher: CNBC
+Published: Aug 18, 2026
+Why it matters: Corporate move or major external event
+Link: https://news.google.com/rss/articles/CBMijgFBVV95cUxOdWlqOUt2U3kxdGtNYU4tZkl6V2dRLTNWUFdCU2c3bE1sWlRFRnpCbzREQUptNHE1QTg5SklFcERTR3doZlJDVEV3NmZ0NWhMcTlab2F1OUdMOVpxTUd6Y09Ob08yNl9RX3ZRajFTTmd3OXhuRndGOGdhYjFKRFp1alREczczWU1kZHl3bmpR?oc=5
+
+### OpenAI - OpenAI lays out new security changes after its AI hacked Hugging Face
+Source: Major External News - OpenAI
+Publisher: The Verge
+Published: Aug 18, 2026
+Why it matters: Safety, security, or policy update
+Link: https://news.google.com/rss/articles/CBMipgFBVV95cUxNRnk1U2h1Tm1CeFBYcFBRWHhPRFBqbXhLVXhfOE1DRkhfYzVOampPTU04NC1SWU1NSldDazZ3bHVhMXlGdGVPMHJCbktmcEFCMEFSZEZyRVJ6X2R4YW5rUUdtXzZrVXhwU1psazlObk5TMWI1dC1IVTNyRXU4VzdpaE0wTjRVcVA5cUFLaUprQzBCSFJkckhlQkQ1VnhOX3RfRUN0LWtn?oc=5
+
+### OpenAI - OpenAI slows model training to bolster security after Hugging Face hack
+Source: Major External News - OpenAI
+Publisher: Reuters
+Published: Aug 18, 2026
+Why it matters: Safety, security, or policy update
+Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxQeDJTaTlYUTJwMk9Ea25zUWNwU0xPTERvVTU3OEdzWUhQcEt4YTZFR0ZZZ0l3MFd6SHNiRG5fMGtkRGNZYmpQR25KR2FXUmVvTFVOVm44Ql8wZ2ppMm9ZZ19NOFJJYzFnbXJmbDQ4ZW5vTHhVU2VGMExGNVZtaWhiVml1ODA0dUhKQ2pKaDN3XzkySFVibXI2T2FEREMxSTBLYlBWbnFlNkl3V0lfX0NoYVZOaTdpdw?oc=5
+
+### OpenAI - OpenAI Makes AI Safety Changes in Wake of Hugging Face Breach
+Source: Major External News - OpenAI
+Publisher: Bloomberg.com
+Published: Aug 18, 2026
+Why it matters: Safety, security, or policy update
+Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxQLThmcXVJa0VyV0dXRVVsX0Q2YW5kTXE1czlsdnFSTUtaRjdmcW5FRzdScE1fajAwNm5lb0dCOGQyRjdqbXZRWk96dHZOUk1uYVBOS1hhSTFscTdwZnR0cTdlaGFpbUpyTzgwbkFrekh3Z1VvNG94d2VyTUxlVndnZVQ1eEt1YTJxelJmS2Qzb3kyRFMzYWMxMWJSZkFad1pRVTVoZmJDQ3JILUZhM2lJX3FB?oc=5
 
 ## Important External News
 
-### Anthropic - Anthropic’s annualized revenue surges to $65B
-Source: Major External News - Anthropic
+### OpenAI - OpenAI institutes new safeguards after Hugging Face breach
+Source: Major External News - OpenAI
 Publisher: TechCrunch
-Published: Aug 17, 2026
+Published: Aug 18, 2026
 Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxNMnpDcllWWXdBcDQtQzdDajFvRlF2aUhoaTFvRGh1VjUtR2lsWUVGVmFxaHd0dHZMOE00MVQtTndYbWlNT1NjMFFCcGkxTk5mUFlOay1aa1YzUWRhMWxrVll4dTdOZVFYMVUwWHBiTzZGYjQwVUEzcG1zcDRQRGg4NWh4UU4?oc=5
-
-### OpenAI - Nvidia to provide up to $105 billion guarantee for OpenAI's Ohio data center
-Source: Major External News - OpenAI
-Publisher: Reuters
-Published: Aug 17, 2026
-Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZkxQZ0FIUUQ0X2p6bVF1NWw1eF9PQnBtRVJVbUk4eV83UkU5X0JjdmE0RnFDdkZOLVJNWWlCejVmOTdmdTFoT3FGWmhGOGVYdFdwcXNwWlAtaEVNRnFPYkZFVzhmY3ZBQ0xERGUtWFF6QWdxcVFqR2k4dkdDTkJHNURIdUJ0Rk05NE94ekVPMjYtaWNodnItODdIdGU4Qmw5bndYZ095UF9nRFc5RnRheGxtNXFCM2VWbXd5M2pCTGw?oc=5
-
-### OpenAI - OpenAI's Brockman brushes off concerns about leadership changes in CNBC exclusive
-Source: Major External News - OpenAI
-Publisher: CNBC
-Published: Aug 17, 2026
-Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMie0FVX3lxTFBlWkxWTDU5RUw5STVsVHhYSTltRElCd3ZiUmFRLWFzM1preUZ0V3BBY3RXMVVHdU43WjNqNmFtS2pRbTVxMVIyc3VxcDV3VDJMeVpZeVI5T2k4OFFsbmRTdWVST0VIemdscy1QckhLMS1VWmhyS2RGNUZVVdIBgAFBVV95cUxPUExPRE4xdUpqRjE5UC1UcWNmVU1tSzMtSXN2cmlpd2hIN3ZZQkhlRjIyVlRWRTBjc2hnWnVUZkhjUnphR2VMcHIwaEJfQndWaE9YUkVnLU9PbHpjYzZqN1lKSDluVUpqTEJYWFl5OEwyYk9LSmZ3VlN3V3ZzdDNSRw?oc=5
+Link: https://news.google.com/rss/articles/CBMimAFBVV95cUxQUmVnbUJFMHBjbC1tYUlxMjJhMVV0X2FXWkRieTg1d3Q0UktOUFoxSjc0bkZaVGZfUU1vOFk0alM1UUJxNmJaZUVGNEdTSUwyLWRGOURFNEliTXhwUEVEWXo0R1NQcWFyR0FPV3RZTF9JMlJYNXVBenV0ZElzVXdTMEtsZjFUdnVWcHliZzJaUFJtbjBPR1NFRA?oc=5
 
 ## Critical Official Updates
 
-### Google - Operation Blue Skies: Reducing aviation climate impact with AI
-Source: Google AI
-Published: Aug 18, 2026
-Why it matters: Corporate move or major external event
-Summary: Google is partnering with the UK on Operation Blue Skies, an airspace-scale, AI-powered contrail avoidance trial.
-Link: https://blog.google/innovation-and-ai/models-and-research/google-research/blue-skies
-
-### OpenAI - Introducing ChatGPT for Teens: Built for learning, backed by protections
+### OpenAI - Strengthening democratic oversight in national security
 Source: OpenAI Newsroom
 Published: Aug 18, 2026
 Why it matters: Flagship model or product launch
-Summary: ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.
-Link: https://openai.com/index/chatgpt-for-teens
+Summary: OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.
+Link: https://openai.com/index/strengthening-democratic-oversight-in-national-security
+
+## Important Official Updates
+
+### OpenAI - Pacing model development in an era of cyber-critical capabilities
+Source: OpenAI Newsroom
+Published: Aug 18, 2026
+Why it matters: Safety, security, or policy update
+Summary: OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.
+Link: https://openai.com/index/pacing-model-development-cyber-capabilities
 
 ## Official Company Updates
 
-### OpenAI - Partnering with CodeAI to prepare the first AI generation
+### OpenAI - Replit expands access to software creation with GPT-5.6 Luna
+Source: OpenAI Newsroom
+Published: Aug 19, 2026
+Why it matters: Routine official update
+Summary: Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.
+Link: https://openai.com/index/replit
+
+### OpenAI - ChatGPT Ads expands across Europe
 Source: OpenAI Newsroom
 Published: Aug 18, 2026
 Why it matters: Routine official update
-Summary: OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.
-Link: https://openai.com/index/partnering-with-codeai
+Summary: ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.
+Link: https://openai.com/index/chatgpt-ads-expands-across-europe
+
+### Google - Try 4 new interactive BTS experiences inside the Gemini app
+Source: Google AI
+Published: Aug 18, 2026
+Why it matters: Routine official update
+Summary: Google Gemini and BTS are collaborating on a series of interactive features inside the Gemini app.
+Link: https://blog.google/innovation-and-ai/products/gemini-app/four-new-interactive-bts-experiences
+
+### Microsoft - How EDOTCO Group uses AI to make smarter network planning decisions in minutes
+Source: Microsoft AI
+Published: Aug 18, 2026
+Why it matters: Routine official update
+Summary: How EDOTCO Group uses AI to make smarter network planning decisions in minutes
+Link: https://news.microsoft.com/source/asia/features/high-stakes-network-decisions-made-in-minutes-how-edotco-group-is-transforming-network-planning-with-ai
+
+### Google - Ask a Scientist: How can researchers use AI to predict a flood?
+Source: Google AI
+Published: Aug 18, 2026
+Why it matters: Routine official update
+Summary: A Google researcher explains how AI technology like Flood Hub and Groundsource can predict floods and help people around the world.
+Link: https://blog.google/innovation-and-ai/technology/research/flood-prediction-ai
+
+### Google - Keep your SAT prep on track with practice tests in Gemini.
+Source: Google AI
+Published: Aug 18, 2026
+Why it matters: Routine official update
+Summary: Google’s Gemini app offers full-length practice SAT tests at no cost. Here’s how to take these SAT practice tests as you prep.
+Link: https://blog.google/innovation-and-ai/products/gemini-app/how-to-take-practice-sat
