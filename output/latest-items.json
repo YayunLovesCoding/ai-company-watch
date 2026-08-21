@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T14:39:19.188Z",
+  "generatedAt": "2026-08-21T14:38:16.634Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -76,15 +76,34 @@
     }
   ],
   "totals": {
-    "fetched": 38,
+    "fetched": 37,
     "deduped": 24,
-    "new": 11,
+    "new": 5,
     "byKind": {
       "official": 11,
       "external": 13
     }
   },
   "items": [
+    {
+      "id": "1adeade77e570eb61f0757744b0881357389282e",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTmZZOVpTeE9QNkl5eTlySlRJbHF4VkRuRkJ3bXhrUnJ0V1V3c0l6bjc4UlM4NmdUMG5wTXRTcTNKSUU4LVl2MUhCY2MtZ3UtQlQtRUUybGcwT0lkaGpxMHhWSENMdXJtTEZqejBma2poRGxjOE54UnpybElURHBpRHAwWTdfZ1RHeHIwYk5JZFA?oc=5",
+      "title": "No more doom scrolling or Instagram Stories? A Meta trial loss could end the social media we know",
+      "summary": "",
+      "publishedAt": "2026-08-21T11:00:01.000Z",
+      "publisher": "CNBC",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
     {
       "id": "c4dac00ed50540239e8d97f504f914e21126ff1a",
       "company": "Meta",
@@ -116,44 +135,6 @@
       "summary": "",
       "publishedAt": "2026-08-19T21:15:07.000Z",
       "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "40a1f57ca95948b1b8ae740438f28df163aec8ef",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORU92SWVTV1JzOFFjWXdqMWZmbTMwTDA1d252bHkwb2tyMTUxdW13SE1MaUhfQnpBMTFVMUtDekRJeEYtVVBwaXg1OG03U3UyTFpjZDJ0WjNDcXhLdHpkWGhQTGFnQk85VEtKNFcwQ1dGSi1mbUFFbHVKVVBGd1Z4UHZGTk9FMW93dmxDMw?oc=5",
-      "title": "Meta spars with states in opening arguments of child safety trial",
-      "summary": "",
-      "publishedAt": "2026-08-19T16:31:38.000Z",
-      "publisher": "Axios",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "58360697c2e76dab6b881dda2ee89414bcbc8b95",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOU3d6Z3dOTDBBbU5OSFFiQ1JvQmRaYnpPT0RWeVJ2cjE2SWgxLW44dE1NY2NHT2lmZVh1RVE2cFlqajl4dURvUWp2RFlKTXAxVzljMXRVVzFZNUtaWGIzaFZwTDlETGdGZ051Qm5wM0E1UHNGNkJMUGJ3WTdOanN0U1NmRUtNNV9SeVFIZGc5akl5dmFVSFNMTU1KSmhWRG9OZWhia24yWXkxTDkzcVcw?oc=5",
-      "title": "Meta Exploits Kids on Social Media, States Allege at Trial (1)",
-      "summary": "",
-      "publishedAt": "2026-08-18T18:56:00.000Z",
-      "publisher": "Bloomberg Law News",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -219,92 +200,35 @@
       }
     },
     {
-      "id": "5ae7431995c163143267ab94b0982c11fe3a0b39",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeGE2ek0wODJIN3VVWUZtdTVZam5wLXB2cmtsRGZqWWZWbVhZSlp2NmNGZ2RUQk5sRmRYalQxWko3ZjNVeXAyY1ZIaUJVQXl4eHR5NDRQT0FWemdOVlQ0ajctb0pjc3NqaDNpR3lBWE1LLXBOX05nb3o5NW5PeHQ5VWNlbFhlME1UODlwdjhMVEROeFBWZnVVVm9hZ2RxaWEwLVlUZG9tX0FQRnNEMkJQdWlhSEhQZFFJb0E?oc=5",
-      "title": "OpenAI Raises the Safety Bar on Anthropic; Anthropic Expands Its Revenue Lead",
-      "summary": "",
-      "publishedAt": "2026-08-19T14:01:00.000Z",
-      "publisher": "The Information",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "05f3d4d49f38756c32be7435dfadf2f989c7e556",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wbThKR0piUV9Ca3pYekRiNHpfa1RGanpUbXNFVVhZajNOOXhMdzQ1R29ZMDZvcFMwLWc4RVhHdmVOUWV4WHpGUmJ1VktxNS1uN3BvMnBjaVJVX0FoSVVIN0JvMXdRNS0tVk95Sk5haHE?oc=5",
-      "title": "The Real Cost of OpenAI’s Security Breaches",
-      "summary": "",
-      "publishedAt": "2026-08-19T00:00:00.000Z",
-      "publisher": "Fortune",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "c7ec213f8b39b2d6012ad3da0c9020ec0136a94d",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRnk1U2h1Tm1CeFBYcFBRWHhPRFBqbXhLVXhfOE1DRkhfYzVOampPTU04NC1SWU1NSldDazZ3bHVhMXlGdGVPMHJCbktmcEFCMEFSZEZyRVJ6X2R4YW5rUUdtXzZrVXhwU1psazlObk5TMWI1dC1IVTNyRXU4VzdpaE0wTjRVcVA5cUFLaUprQzBCSFJkckhlQkQ1VnhOX3RfRUN0LWtn?oc=5",
-      "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
-      "summary": "",
-      "publishedAt": "2026-08-18T19:28:30.000Z",
-      "publisher": "The Verge",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "392c403e540166ee4853289f20f59abbf7f69c94",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeDJTaTlYUTJwMk9Ea25zUWNwU0xPTERvVTU3OEdzWUhQcEt4YTZFR0ZZZ0l3MFd6SHNiRG5fMGtkRGNZYmpQR25KR2FXUmVvTFVOVm44Ql8wZ2ppMm9ZZ19NOFJJYzFnbXJmbDQ4ZW5vTHhVU2VGMExGNVZtaWhiVml1ODA0dUhKQ2pKaDN3XzkySFVibXI2T2FEREMxSTBLYlBWbnFlNkl3V0lfX0NoYVZOaTdpdw?oc=5",
-      "title": "OpenAI slows model training to bolster security after Hugging Face hack",
-      "summary": "",
-      "publishedAt": "2026-08-18T19:03:27.000Z",
-      "publisher": "Reuters",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "67f37d861d340b85b022037b65b3e9a60f1c90a5",
+      "id": "027379c08484bed24af91415c1d7d96dc8273daa",
       "company": "OpenAI",
       "sourceKind": "official",
       "sourceId": "openai-newsroom",
       "sourceLabel": "OpenAI Newsroom",
       "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-      "title": "Strengthening democratic oversight in national security",
-      "summary": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
-      "publishedAt": "2026-08-18T19:00:00.000Z",
+      "url": "https://openai.com/index/introducing-ai-futures",
+      "title": "Introducing AI Futures",
+      "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
+      "publishedAt": "2026-08-20T07:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "cb030de2dd9418a323244c2095c99bb8a7fc97ca",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/stampli",
+      "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
+      "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
+      "publishedAt": "2026-08-20T00:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -352,17 +276,36 @@
       }
     },
     {
-      "id": "bfc24caaf2f6e7c5f4c6f9a98fe22ec5f6c5a1c8",
+      "id": "65d2c830b4a66c1e91cfd7189215e36c18b2f4c4",
       "company": "Meta",
       "sourceKind": "external",
       "sourceId": "external-meta-major",
       "sourceLabel": "Major External News - Meta",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPemN6SWZQYzFXeFVOM0tRM3ZvZ0RFUGJ0bzRDN0owNm9tVWVxb3czei1IcVNzSGp6M0NOYmFIeGJYQWpEM1p2STFDak1MYWFZWHJscjRyNkF5ZEJaTHNiU1V2bE9Cc2p2a2tadVV6VjFlRTB0RGdMRGZtOFFreU8yclhBcW9kVEJwVDlRZGhwVHMtQQ?oc=5",
-      "title": "Neighbors of a $1.5 billion Meta data center revolt over 183% property tax hike",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNa1ZIWUR5V09teFBRejJEN25keDZyaXpQVHhVdVVYSDlZRXhJNFNXNXR0bGwxeWd2amY4cXVGbjZ3Y1VRdEdUbDVKVnRKSm43U1RpVks0UGh5dXY2RVAwaGFtYU5ZT2Y1clVQdVVweUpFaUFSXzhnUGk4MW1RaFR2Q19TbFFjT0YzQVJmdFNpQnF3c0RfZy1pODJKYmktT214MkdocFhVVi03OVow?oc=5",
+      "title": "OpenAI, Meta Seek Help to Combat Data Center PR Problem",
       "summary": "",
-      "publishedAt": "2026-08-19T16:30:00.000Z",
-      "publisher": "Yahoo Finance",
+      "publishedAt": "2026-08-20T07:00:00.000Z",
+      "publisher": "Bloomberg.com",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "16c4bf21edc95057f8788b49cb456b9da5515454",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPV3hibTg3QUN0WTIwcEl0cDdTdzdEaWx6bVg3Mld3Y2lqTFJmUzlza1Zmd2tlVlZDblljSElKbzJzZnVTVF9zaFlUUk1mSnZMRlM2VThRWlZzTXdLb0Y5WS1DamJGOTdRWXR5Qmx4Q01BalJVMTl3Yk45cFA1TExxSlZXN3Yzd1loMm9ocmg0V2tMME55ZUE?oc=5",
+      "title": "Huntsville residents seek answers on impact of Meta data center expansion",
+      "summary": "",
+      "publishedAt": "2026-08-20T02:31:00.000Z",
+      "publisher": "Yahoo",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -390,6 +333,63 @@
       }
     },
     {
+      "id": "5ae7431995c163143267ab94b0982c11fe3a0b39",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeGE2ek0wODJIN3VVWUZtdTVZam5wLXB2cmtsRGZqWWZWbVhZSlp2NmNGZ2RUQk5sRmRYalQxWko3ZjNVeXAyY1ZIaUJVQXl4eHR5NDRQT0FWemdOVlQ0ajctb0pjc3NqaDNpR3lBWE1LLXBOX05nb3o5NW5PeHQ5VWNlbFhlME1UODlwdjhMVEROeFBWZnVVVm9hZ2RxaWEwLVlUZG9tX0FQRnNEMkJQdWlhSEhQZFFJb0E?oc=5",
+      "title": "OpenAI Raises the Safety Bar on Anthropic; Anthropic Expands Its Revenue Lead",
+      "summary": "",
+      "publishedAt": "2026-08-19T14:01:00.000Z",
+      "publisher": "The Information",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "05f3d4d49f38756c32be7435dfadf2f989c7e556",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wbThKR0piUV9Ca3pYekRiNHpfa1RGanpUbXNFVVhZajNOOXhMdzQ1R29ZMDZvcFMwLWc4RVhHdmVOUWV4WHpGUmJ1VktxNS1uN3BvMnBjaVJVX0FoSVVIN0JvMXdRNS0tVk95Sk5haHE?oc=5",
+      "title": "The Real Cost of OpenAI’s Security Breaches",
+      "summary": "",
+      "publishedAt": "2026-08-19T00:00:00.000Z",
+      "publisher": "Fortune",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "392c403e540166ee4853289f20f59abbf7f69c94",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeDJTaTlYUTJwMk9Ea25zUWNwU0xPTERvVTU3OEdzWUhQcEt4YTZFR0ZZZ0l3MFd6SHNiRG5fMGtkRGNZYmpQR25KR2FXUmVvTFVOVm44Ql8wZ2ppMm9ZZ19NOFJJYzFnbXJmbDQ4ZW5vTHhVU2VGMExGNVZtaWhiVml1ODA0dUhKQ2pKaDN3XzkySFVibXI2T2FEREMxSTBLYlBWbnFlNkl3V0lfX0NoYVZOaTdpdw?oc=5",
+      "title": "OpenAI slows model training to bolster security after Hugging Face hack",
+      "summary": "",
+      "publishedAt": "2026-08-18T19:03:27.000Z",
+      "publisher": "Reuters",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
       "id": "ef913e9fdabc01a874a34c945cc71d8f36dedf16",
       "company": "OpenAI",
       "sourceKind": "official",
@@ -409,16 +409,16 @@
       }
     },
     {
-      "id": "01003c6680bc2ecc56a2f52dd87efa12aca00da7",
+      "id": "67f37d861d340b85b022037b65b3e9a60f1c90a5",
       "company": "OpenAI",
       "sourceKind": "official",
       "sourceId": "openai-newsroom",
       "sourceLabel": "OpenAI Newsroom",
       "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/chatgpt-for-teens",
-      "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
-      "summary": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
-      "publishedAt": "2026-08-18T11:00:00.000Z",
+      "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+      "title": "Strengthening democratic oversight in national security",
+      "summary": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
+      "publishedAt": "2026-08-18T19:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -428,22 +428,22 @@
       }
     },
     {
-      "id": "68c52c81310f1d0ec0abcd09b33a42cea3d6cc87",
+      "id": "e0060c0494b4abcec8f031bae05dd8dcfb68e6bb",
       "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-      "title": "Pacing model development in an era of cyber-critical capabilities",
-      "summary": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.",
-      "publishedAt": "2026-08-18T11:00:00.000Z",
-      "publisher": "",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUmVnbUJFMHBjbC1tYUlxMjJhMVV0X2FXWkRieTg1d3Q0UktOUFoxSjc0bkZaVGZfUU1vOFk0alM1UUJxNmJaZUVGNEdTSUwyLWRGOURFNEliTXhwUEVEWXo0R1NQcWFyR0FPV3RZTF9JMlJYNXVBenV0ZElzVXdTMEtsZjFUdnVWcHliZzJaUFJtbjBPR1NFRA?oc=5",
+      "title": "OpenAI institutes new safeguards after Hugging Face breach",
+      "summary": "",
+      "publishedAt": "2026-08-18T18:00:00.000Z",
+      "publisher": "TechCrunch",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
         "score": 3,
-        "reason": "Safety, security, or policy update"
+        "reason": "Trusted external coverage"
       }
     },
     {
@@ -504,6 +504,25 @@
       }
     },
     {
+      "id": "97cd97d27d220f15f9bc8a69f1f4b5eea602a9e8",
+      "company": "Anthropic",
+      "sourceKind": "official",
+      "sourceId": "anthropic-engineering",
+      "sourceLabel": "Anthropic Engineering",
+      "homepageUrl": "https://www.anthropic.com/engineering",
+      "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
+      "title": "Featured How we contain Claude across products As agents grow more capable, so does their potential blast radius. The engineering question is how to cap it. Here’s what we’ve learned building containment for claude.ai, Claude Code, and Cowork.",
+      "summary": "",
+      "publishedAt": null,
+      "publisher": "",
+      "discoveryMethod": "anchor",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Technical or research update"
+      }
+    },
+    {
       "id": "9ac0643f24279d0897e7405abdd55cab96f6b9c7",
       "company": "OpenAI",
       "sourceKind": "official",
@@ -518,238 +537,105 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "e4563871866d3a635b91bc2e29178f947db9e1c3",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
-      "title": "ChatGPT Ads expands across Europe",
-      "summary": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.",
-      "publishedAt": "2026-08-18T22:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
+        "score": 1,
         "reason": "Routine official update"
       }
     }
   ],
   "newItems": [
     {
-      "id": "c4dac00ed50540239e8d97f504f914e21126ff1a",
+      "id": "1adeade77e570eb61f0757744b0881357389282e",
       "company": "Meta",
       "sourceKind": "external",
       "sourceId": "external-meta-major",
       "sourceLabel": "Major External News - Meta",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWEF4WlNJc2c1RjE1QVBCMDVobUhWSXotRWswaWtpQnVTem02RUF4Ykw3QTJzWnI0NmlCQmVkY1NDNUxJdVhfcGEtbEpPd3VaSkZsQUdGTjh1RnNNaGFWNTZEdi1jdmsxRFR5cGp3WDdKT1lRbmgtOUZuMm9VcDRDcE1TS2VKLWxlRVFvM2J1c2hscnBsaXRNcmd6cHZlQmRoNnBCTV80WTZDYW1qZG8yVEVZUXhUUXI0T0NJaS1VQ1ZlSi1pSWRYQUp3?oc=5",
-      "title": "Mark Zuckerberg encouraged growth over child safety, ex-Meta executive testifies at trial",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTmZZOVpTeE9QNkl5eTlySlRJbHF4VkRuRkJ3bXhrUnJ0V1V3c0l6bjc4UlM4NmdUMG5wTXRTcTNKSUU4LVl2MUhCY2MtZ3UtQlQtRUUybGcwT0lkaGpxMHhWSENMdXJtTEZqejBma2poRGxjOE54UnpybElURHBpRHAwWTdfZ1RHeHIwYk5JZFA?oc=5",
+      "title": "No more doom scrolling or Instagram Stories? A Meta trial loss could end the social media we know",
       "summary": "",
-      "publishedAt": "2026-08-19T21:58:39.000Z",
-      "publisher": "Reuters",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "1e4e7d05362fcf57253874046640ee132d4420c9",
-      "company": "Google",
-      "sourceKind": "external",
-      "sourceId": "external-google-major",
-      "sourceLabel": "Major External News - Google",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQnUyd2dFNllXRzE1WFpJX0wxQTN6U3ZldjZ0MVN3RW9tN1RST3pOQjdNdW45eEFHUkFTU2FNVEd1MkswME1rQWxZcXItOExxcFVFb3hjVGp1ZEVxcUlGQ2QwcUp1ck5YSGxwaGN6VFUtczBRNWJsWENpaWhoWkZJeTB5NndWaXFGQWpSc3Rxb3haZGhsZ1R3OWdSOTh3ZE1vTVVRRQ?oc=5",
-      "title": "Marvell Technology (MRVL) Expands Google AI Partnership: What Investors Need to Know",
-      "summary": "",
-      "publishedAt": "2026-08-19T21:15:07.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "ab8385c52b7a3bd57fcf8f7166b7b5d043ae25dc",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUDU1YUg3MHBUVGgwWUpqc3lWRHl0YVo1ektucVhhQk9UNDJvREctNHczSWlxQzladnlOZE1PNXI3aHNYcGZ5WjFuYlg0SXNwbTk2LVVSMFIyZ05HZVhGd3BMUUxaTUQySlVaWDdfNnF2Q0xDOUN4c2YwRjZNM1FSWlRGMGpDemZhaU43Z1VPNGVhZ3ZrQzZJa0VBSVg?oc=5",
-      "title": "OpenAI announces stricter security on AI testing",
-      "summary": "",
-      "publishedAt": "2026-08-19T20:38:23.000Z",
-      "publisher": "CNN",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "714e5ccd5841da0d0bd4117f2ea9702dd62b3d28",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRGZHUVhsajE3N25kNXJKcDZHcGRybnBpbUF0M2dJQWZIR1p0VTZhbnRLNVhvdDNKZGdPWVZrU1Zqdl9GMUYzNU9aNXpUSU1MSkJKTEJxWDYzTmhEVnVMMERFNFgtRGt1Mk96dHc4UXlaQzg4b2lBWWY0LUh5RjYwY182TmEyX3BtVGEyVllxUFlWc2c1VE5tLWxXV0RiWTh0SG45dnh5djRpUQ?oc=5",
-      "title": "OpenAI to Launch Security Analysis System With Better Privacy Protections",
-      "summary": "",
-      "publishedAt": "2026-08-19T17:43:00.000Z",
-      "publisher": "The Information",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "5ae7431995c163143267ab94b0982c11fe3a0b39",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeGE2ek0wODJIN3VVWUZtdTVZam5wLXB2cmtsRGZqWWZWbVhZSlp2NmNGZ2RUQk5sRmRYalQxWko3ZjNVeXAyY1ZIaUJVQXl4eHR5NDRQT0FWemdOVlQ0ajctb0pjc3NqaDNpR3lBWE1LLXBOX05nb3o5NW5PeHQ5VWNlbFhlME1UODlwdjhMVEROeFBWZnVVVm9hZ2RxaWEwLVlUZG9tX0FQRnNEMkJQdWlhSEhQZFFJb0E?oc=5",
-      "title": "OpenAI Raises the Safety Bar on Anthropic; Anthropic Expands Its Revenue Lead",
-      "summary": "",
-      "publishedAt": "2026-08-19T14:01:00.000Z",
-      "publisher": "The Information",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "05f3d4d49f38756c32be7435dfadf2f989c7e556",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wbThKR0piUV9Ca3pYekRiNHpfa1RGanpUbXNFVVhZajNOOXhMdzQ1R29ZMDZvcFMwLWc4RVhHdmVOUWV4WHpGUmJ1VktxNS1uN3BvMnBjaVJVX0FoSVVIN0JvMXdRNS0tVk95Sk5haHE?oc=5",
-      "title": "The Real Cost of OpenAI’s Security Breaches",
-      "summary": "",
-      "publishedAt": "2026-08-19T00:00:00.000Z",
-      "publisher": "Fortune",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "bfc24caaf2f6e7c5f4c6f9a98fe22ec5f6c5a1c8",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPemN6SWZQYzFXeFVOM0tRM3ZvZ0RFUGJ0bzRDN0owNm9tVWVxb3czei1IcVNzSGp6M0NOYmFIeGJYQWpEM1p2STFDak1MYWFZWHJscjRyNkF5ZEJaTHNiU1V2bE9Cc2p2a2tadVV6VjFlRTB0RGdMRGZtOFFreU8yclhBcW9kVEJwVDlRZGhwVHMtQQ?oc=5",
-      "title": "Neighbors of a $1.5 billion Meta data center revolt over 183% property tax hike",
-      "summary": "",
-      "publishedAt": "2026-08-19T16:30:00.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "15fba55737e49a6c35e020a8bb401caa090893d7",
-      "company": "Google",
-      "sourceKind": "external",
-      "sourceId": "external-google-major",
-      "sourceLabel": "Major External News - Google",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE01ZjN6RG5qZ2hsZU5Db1FlOVdDNWJsX2dpVHVlMnAwdEpIa1BaV21fZ290eTNhVUdqOEVqSkdlRGZCclRtellnd05GQm9JWlpKRC11X1p6Y21CLUdyUWUwaThFUDFwQ01TWmNDUdIBckFVX3lxTE1mNEJ4WHBveW1zdm5DeGU2X3RTcndUbDdfNW5ZcjVlX1g0dGZERE5YdVJjbG9ZVHZnaDhzSklJcnRkb08wd1Bsd1pLeHZCd0xfbkx2dHJkaXJNVHZyaUZhMWw2V1hZVThYclhzdHJVVVh6Zw?oc=5",
-      "title": "Marvell's stock pops 10% on AI chip deal that lets Google buy up to $12.2 billion in shares",
-      "summary": "",
-      "publishedAt": "2026-08-19T15:08:05.000Z",
+      "publishedAt": "2026-08-21T11:00:01.000Z",
       "publisher": "CNBC",
       "discoveryMethod": "feed",
       "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
       }
     },
     {
-      "id": "ef913e9fdabc01a874a34c945cc71d8f36dedf16",
+      "id": "027379c08484bed24af91415c1d7d96dc8273daa",
       "company": "OpenAI",
       "sourceKind": "official",
       "sourceId": "openai-newsroom",
       "sourceLabel": "OpenAI Newsroom",
       "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
-      "title": "Offering Zero Data Retention for frontier models",
-      "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
-      "publishedAt": "2026-08-19T19:00:00.000Z",
+      "url": "https://openai.com/index/introducing-ai-futures",
+      "title": "Introducing AI Futures",
+      "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
+      "publishedAt": "2026-08-20T07:00:00.000Z",
       "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "cb030de2dd9418a323244c2095c99bb8a7fc97ca",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/stampli",
+      "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
+      "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
+      "publishedAt": "2026-08-20T00:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "65d2c830b4a66c1e91cfd7189215e36c18b2f4c4",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNa1ZIWUR5V09teFBRejJEN25keDZyaXpQVHhVdVVYSDlZRXhJNFNXNXR0bGwxeWd2amY4cXVGbjZ3Y1VRdEdUbDVKVnRKSm43U1RpVks0UGh5dXY2RVAwaGFtYU5ZT2Y1clVQdVVweUpFaUFSXzhnUGk4MW1RaFR2Q19TbFFjT0YzQVJmdFNpQnF3c0RfZy1pODJKYmktT214MkdocFhVVi03OVow?oc=5",
+      "title": "OpenAI, Meta Seek Help to Combat Data Center PR Problem",
+      "summary": "",
+      "publishedAt": "2026-08-20T07:00:00.000Z",
+      "publisher": "Bloomberg.com",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
         "score": 4,
-        "reason": "Safety, security, or policy update"
+        "reason": "Trusted external coverage"
       }
     },
     {
-      "id": "2cd65b93e2a06a0cd6a830ca275b95632e4bc61f",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/student-offer-google-ai",
-      "title": "Start the semester with one year of Gemini, on us",
-      "summary": "College students around the world can claim 12 months of a Google AI plan, free of charge.",
-      "publishedAt": "2026-08-19T19:00:00.000Z",
-      "publisher": "",
+      "id": "16c4bf21edc95057f8788b49cb456b9da5515454",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPV3hibTg3QUN0WTIwcEl0cDdTdzdEaWx6bVg3Mld3Y2lqTFJmUzlza1Zmd2tlVlZDblljSElKbzJzZnVTVF9zaFlUUk1mSnZMRlM2VThRWlZzTXdLb0Y5WS1DamJGOTdRWXR5Qmx4Q01BalJVMTl3Yk45cFA1TExxSlZXN3Yzd1loMm9ocmg0V2tMME55ZUE?oc=5",
+      "title": "Huntsville residents seek answers on impact of Meta data center expansion",
+      "summary": "",
+      "publishedAt": "2026-08-20T02:31:00.000Z",
+      "publisher": "Yahoo",
       "discoveryMethod": "feed",
       "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "d0e481d572cb2e9312aacd142832b3d689d40ed6",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-waymo",
-      "title": "Waymo is bringing Gemini into its custom Ojai vehicles.",
-      "summary": "Waymo is bringing Gemini to its custom-built Ojai vehicles to create a more helpful and personalized ride.",
-      "publishedAt": "2026-08-19T17:30:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
       }
     }
   ],
