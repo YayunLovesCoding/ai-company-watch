@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T14:38:16.634Z",
+  "generatedAt": "2026-08-22T14:24:49.616Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -76,9 +76,9 @@
     }
   ],
   "totals": {
-    "fetched": 37,
+    "fetched": 38,
     "deduped": 24,
-    "new": 5,
+    "new": 6,
     "byKind": {
       "official": 11,
       "external": 13
@@ -86,13 +86,32 @@
   },
   "items": [
     {
-      "id": "1adeade77e570eb61f0757744b0881357389282e",
+      "id": "1d9c68ba527156f52f37a720d6efea99217de645",
+      "company": "Google",
+      "sourceKind": "external",
+      "sourceId": "external-google-major",
+      "sourceLabel": "Major External News - Google",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTDRaem5IYVhYOElFekVzbzAzWFZ5RHpySUU1TjY2MmIwd0Jjb1otLWIzLTg3VTBucWxmRXlqeXloVkdMME1hRE94SUdMZUVYMDY4dGhvRDJqS2NQTnlDSmVld1lSV016OTBoQXdldEs5OUxaQUlNaU9LbDBaMnN1QkJJbFpCUDhCUzNmSWdjR21zSmx0aW9DUzRldHFCRG9P?oc=5",
+      "title": "Marvell Technology (MRVL) Stock Fair Value Edges Higher After Google AI Partnership Expansion",
+      "summary": "",
+      "publishedAt": "2026-08-21T21:10:42.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "6e05a83b94efbff7be65a9460f173c9a29f50845",
       "company": "Meta",
       "sourceKind": "external",
       "sourceId": "external-meta-major",
       "sourceLabel": "Major External News - Meta",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTmZZOVpTeE9QNkl5eTlySlRJbHF4VkRuRkJ3bXhrUnJ0V1V3c0l6bjc4UlM4NmdUMG5wTXRTcTNKSUU4LVl2MUhCY2MtZ3UtQlQtRUUybGcwT0lkaGpxMHhWSENMdXJtTEZqejBma2poRGxjOE54UnpybElURHBpRHAwWTdfZ1RHeHIwYk5JZFA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTmZZOVpTeE9QNkl5eTlySlRJbHF4VkRuRkJ3bXhrUnJ0V1V3c0l6bjc4UlM4NmdUMG5wTXRTcTNKSUU4LVl2MUhCY2MtZ3UtQlQtRUUybGcwT0lkaGpxMHhWSENMdXJtTEZqejBma2poRGxjOE54UnpybElURHBpRHAwWTdfZ1RHeHIwYk5JZFDSAZYBQVVfeXFMT0ZQMG1zcUEyQmF1Ung1Z2xrc1NnMnQ3TTdDdlN3T2UzN2VjMFFCVkYyUFQ1UXJhdUhnYWFRRmVreWlmbDdEalcwX2gxcXk0TWVHQ3lmZjE3MUdya3FUejBlRUUxUUZIUWhLWXo1QUJBdnVTWW45ZlZKZEE3aEZudDRTazFxYmVtZHhUQXFmWC1nTU9nV3Fn?oc=5",
       "title": "No more doom scrolling or Instagram Stories? A Meta trial loss could end the social media we know",
       "summary": "",
       "publishedAt": "2026-08-21T11:00:01.000Z",
@@ -105,21 +124,21 @@
       }
     },
     {
-      "id": "c4dac00ed50540239e8d97f504f914e21126ff1a",
+      "id": "e55ef75ca530487d71ed9975af9da5e87b6063c5",
       "company": "Meta",
       "sourceKind": "external",
       "sourceId": "external-meta-major",
       "sourceLabel": "Major External News - Meta",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWEF4WlNJc2c1RjE1QVBCMDVobUhWSXotRWswaWtpQnVTem02RUF4Ykw3QTJzWnI0NmlCQmVkY1NDNUxJdVhfcGEtbEpPd3VaSkZsQUdGTjh1RnNNaGFWNTZEdi1jdmsxRFR5cGp3WDdKT1lRbmgtOUZuMm9VcDRDcE1TS2VKLWxlRVFvM2J1c2hscnBsaXRNcmd6cHZlQmRoNnBCTV80WTZDYW1qZG8yVEVZUXhUUXI0T0NJaS1VQ1ZlSi1pSWRYQUp3?oc=5",
-      "title": "Mark Zuckerberg encouraged growth over child safety, ex-Meta executive testifies at trial",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPM2NHb2hVLVFHX1g4YjVxenZERlJHN1FYOEJXMDQwSjBlakFxZ1JuYWxJZGRCWG1VZ2RYYkctdG5oX1UxcXQ4UU5QRWN5cVhURGpzZGRZelBDUGpnT0FpS1JyUFhlR0tnaHJjbnNLWjZrV0lIa3hnVWhPWU1aU3ppNTdUUldpbV9fNlROaDJBYmVNdlNiUGNfMDZrVFVtY25zeS12N25RMFNmRjZOX3dGLU1iYXNHUQ?oc=5",
+      "title": "Meta’s Trial Adds a Trillion-Dollar Risk to Its Struggling Stock",
       "summary": "",
-      "publishedAt": "2026-08-19T21:58:39.000Z",
-      "publisher": "Reuters",
+      "publishedAt": "2026-08-20T13:34:15.000Z",
+      "publisher": "Bloomberg.com",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 7,
+        "score": 6,
         "reason": "Corporate move or major external event"
       }
     },
@@ -138,27 +157,27 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 7,
+        "score": 6,
         "reason": "Corporate move or major external event"
       }
     },
     {
-      "id": "ab8385c52b7a3bd57fcf8f7166b7b5d043ae25dc",
-      "company": "OpenAI",
+      "id": "ea34a5fc8b53335d4bad83e45f2d37f0ba48c76c",
+      "company": "Anthropic",
       "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUDU1YUg3MHBUVGgwWUpqc3lWRHl0YVo1ektucVhhQk9UNDJvREctNHczSWlxQzladnlOZE1PNXI3aHNYcGZ5WjFuYlg0SXNwbTk2LVVSMFIyZ05HZVhGd3BMUUxaTUQySlVaWDdfNnF2Q0xDOUN4c2YwRjZNM1FSWlRGMGpDemZhaU43Z1VPNGVhZ3ZrQzZJa0VBSVg?oc=5",
-      "title": "OpenAI announces stricter security on AI testing",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPN2cwUVdmLVBEM09BbWpsWl8tVkZIZmhKUVN3RHJHbHE1V3lWN2NZOFQwbXMyV1BvalkxWUZ1a2VSOWVJdFhmVnYweUxXa2dZNllPNWRMTDhBaVI2UUVWWkdmemloN2FnYVFoemprdkxQVWtUeklfcVl6RWtyS3RTaFF0ak1tVnF5OGNjeXlXMHFZS3RtTU42T21fd3lZc0EtZUFqTXdNWEY?oc=5",
+      "title": "Anthropic Puts Its Most Restricted Model Claude Mythos 5 Into Claude Security",
       "summary": "",
-      "publishedAt": "2026-08-19T20:38:23.000Z",
-      "publisher": "CNN",
+      "publishedAt": "2026-08-22T06:14:39.000Z",
+      "publisher": "Startup Fortune",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 6,
-        "reason": "Flagship model or product launch"
+        "score": 5,
+        "reason": "Safety, security, or policy update"
       }
     },
     {
@@ -176,84 +195,27 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 6,
+        "score": 5,
         "reason": "Flagship model or product launch"
       }
     },
     {
-      "id": "c33bc69b5824684d84233f4ba11bf977cbc78259",
-      "company": "Google",
+      "id": "0b9ced60cd89a283a5c28e75c6bf27521776dc7c",
+      "company": "OpenAI",
       "sourceKind": "external",
-      "sourceId": "external-google-major",
-      "sourceLabel": "Major External News - Google",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPV18wMmRRU0c2ejNyQ3RBVXJiWjdXQUxsZjZaQzE3eThxYzlDQUYzOUc0WldmN3RqSjh3akk1ZWR5VWpId2hoMjNEWi1qZ3JubXhla2RYTHpFWWp3ZmJteHBjQWR1STdZb1VKZDh2OVQ5RTd6WHdPdHlEOXJ0RjNLdWw2Yk5YWGRoT2pYMVFpeWVyQnl6WV9SVXdEc1RmLWtmOGhIQUp4OWdvcG9LNndfTTYzZUtHY2c2OWdCaDhReUZuRkk?oc=5",
-      "title": "Zocdoc CEO on Gemini partnership: Opening our infrastructure to third party players",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQeVNPSktJWTh2R05IWG9tNkVJbnNLOHFNNk5GVlhLZVRUN0JhNnpDc2ZLRFoxY1BYdWNRQjVsblVwQ3pkR0RwX1VnajJ5MzRVTXR3OUR4Y0xBWGxRMDhTbktERDdLUHZTSTVoWVN2WVlveV9PMXdXTUtBdk5tY0l5dlNCblcwN0FNT0wtVnhlcktOd05UZS1TTGl0VjZYTk5FWjRWNVhsckRqcG5BN1h2S2xzVnRhTkxWcklxTllkdkw5TFBEclRlMGMtR19jWTR5ekI3YnRQSGw1Vmx4?oc=5",
+      "title": "OpenAI says it paused AI training for two weeks and announces new security protocols following Hugging Face hack",
       "summary": "",
-      "publishedAt": "2026-08-14T18:23:00.000Z",
-      "publisher": "CNBC",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "027379c08484bed24af91415c1d7d96dc8273daa",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/introducing-ai-futures",
-      "title": "Introducing AI Futures",
-      "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
-      "publishedAt": "2026-08-20T07:00:00.000Z",
-      "publisher": "",
+      "publishedAt": "2026-08-18T18:33:00.000Z",
+      "publisher": "Fortune",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
         "score": 5,
         "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "cb030de2dd9418a323244c2095c99bb8a7fc97ca",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/stampli",
-      "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
-      "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
-      "publishedAt": "2026-08-20T00:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "a986df4fdeb4aa993d3065bcffd7ab3d5ba39b59",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/blue-skies",
-      "title": "Operation Blue Skies: Reducing aviation climate impact with AI",
-      "summary": "Google is partnering with the UK on Operation Blue Skies, an airspace-scale, AI-powered contrail avoidance trial.",
-      "publishedAt": "2026-08-18T09:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Corporate move or major external event"
       }
     },
     {
@@ -276,63 +238,6 @@
       }
     },
     {
-      "id": "65d2c830b4a66c1e91cfd7189215e36c18b2f4c4",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNa1ZIWUR5V09teFBRejJEN25keDZyaXpQVHhVdVVYSDlZRXhJNFNXNXR0bGwxeWd2amY4cXVGbjZ3Y1VRdEdUbDVKVnRKSm43U1RpVks0UGh5dXY2RVAwaGFtYU5ZT2Y1clVQdVVweUpFaUFSXzhnUGk4MW1RaFR2Q19TbFFjT0YzQVJmdFNpQnF3c0RfZy1pODJKYmktT214MkdocFhVVi03OVow?oc=5",
-      "title": "OpenAI, Meta Seek Help to Combat Data Center PR Problem",
-      "summary": "",
-      "publishedAt": "2026-08-20T07:00:00.000Z",
-      "publisher": "Bloomberg.com",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "16c4bf21edc95057f8788b49cb456b9da5515454",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPV3hibTg3QUN0WTIwcEl0cDdTdzdEaWx6bVg3Mld3Y2lqTFJmUzlza1Zmd2tlVlZDblljSElKbzJzZnVTVF9zaFlUUk1mSnZMRlM2VThRWlZzTXdLb0Y5WS1DamJGOTdRWXR5Qmx4Q01BalJVMTl3Yk45cFA1TExxSlZXN3Yzd1loMm9ocmg0V2tMME55ZUE?oc=5",
-      "title": "Huntsville residents seek answers on impact of Meta data center expansion",
-      "summary": "",
-      "publishedAt": "2026-08-20T02:31:00.000Z",
-      "publisher": "Yahoo",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "15fba55737e49a6c35e020a8bb401caa090893d7",
-      "company": "Google",
-      "sourceKind": "external",
-      "sourceId": "external-google-major",
-      "sourceLabel": "Major External News - Google",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE01ZjN6RG5qZ2hsZU5Db1FlOVdDNWJsX2dpVHVlMnAwdEpIa1BaV21fZ290eTNhVUdqOEVqSkdlRGZCclRtellnd05GQm9JWlpKRC11X1p6Y21CLUdyUWUwaThFUDFwQ01TWmNDUdIBckFVX3lxTE1mNEJ4WHBveW1zdm5DeGU2X3RTcndUbDdfNW5ZcjVlX1g0dGZERE5YdVJjbG9ZVHZnaDhzSklJcnRkb08wd1Bsd1pLeHZCd0xfbkx2dHJkaXJNVHZyaUZhMWw2V1hZVThYclhzdHJVVVh6Zw?oc=5",
-      "title": "Marvell's stock pops 10% on AI chip deal that lets Google buy up to $12.2 billion in shares",
-      "summary": "",
-      "publishedAt": "2026-08-19T15:08:05.000Z",
-      "publisher": "CNBC",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
       "id": "5ae7431995c163143267ab94b0982c11fe3a0b39",
       "company": "OpenAI",
       "sourceKind": "external",
@@ -352,36 +257,17 @@
       }
     },
     {
-      "id": "05f3d4d49f38756c32be7435dfadf2f989c7e556",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wbThKR0piUV9Ca3pYekRiNHpfa1RGanpUbXNFVVhZajNOOXhMdzQ1R29ZMDZvcFMwLWc4RVhHdmVOUWV4WHpGUmJ1VktxNS1uN3BvMnBjaVJVX0FoSVVIN0JvMXdRNS0tVk95Sk5haHE?oc=5",
-      "title": "The Real Cost of OpenAI’s Security Breaches",
-      "summary": "",
-      "publishedAt": "2026-08-19T00:00:00.000Z",
-      "publisher": "Fortune",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "392c403e540166ee4853289f20f59abbf7f69c94",
+      "id": "28b5129be6ffdb5918b4dea2b7b8f83c691178c3",
       "company": "OpenAI",
       "sourceKind": "external",
       "sourceId": "external-openai-major",
       "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeDJTaTlYUTJwMk9Ea25zUWNwU0xPTERvVTU3OEdzWUhQcEt4YTZFR0ZZZ0l3MFd6SHNiRG5fMGtkRGNZYmpQR25KR2FXUmVvTFVOVm44Ql8wZ2ppMm9ZZ19NOFJJYzFnbXJmbDQ4ZW5vTHhVU2VGMExGNVZtaWhiVml1ODA0dUhKQ2pKaDN3XzkySFVibXI2T2FEREMxSTBLYlBWbnFlNkl3V0lfX0NoYVZOaTdpdw?oc=5",
-      "title": "OpenAI slows model training to bolster security after Hugging Face hack",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQLThmcXVJa0VyV0dXRVVsX0Q2YW5kTXE1czlsdnFSTUtaRjdmcW5FRzdScE1fajAwNm5lb0dCOGQyRjdqbXZRWk96dHZOUk1uYVBOS1hhSTFscTdwZnR0cTdlaGFpbUpyTzgwbkFrekh3Z1VvNG94d2VyTUxlVndnZVQ1eEt1YTJxelJmS2Qzb3kyRFMzYWMxMWJSZkFad1pRVTVoZmJDQ3JILUZhM2lJX3FB?oc=5",
+      "title": "OpenAI Makes AI Safety Changes in Wake of Hugging Face Breach",
       "summary": "",
-      "publishedAt": "2026-08-18T19:03:27.000Z",
-      "publisher": "Reuters",
+      "publishedAt": "2026-08-18T18:00:00.000Z",
+      "publisher": "Bloomberg.com",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -390,22 +276,41 @@
       }
     },
     {
-      "id": "ef913e9fdabc01a874a34c945cc71d8f36dedf16",
+      "id": "027379c08484bed24af91415c1d7d96dc8273daa",
       "company": "OpenAI",
       "sourceKind": "official",
       "sourceId": "openai-newsroom",
       "sourceLabel": "OpenAI Newsroom",
       "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
-      "title": "Offering Zero Data Retention for frontier models",
-      "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
-      "publishedAt": "2026-08-19T19:00:00.000Z",
+      "url": "https://openai.com/index/introducing-ai-futures",
+      "title": "Introducing AI Futures",
+      "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
+      "publishedAt": "2026-08-20T07:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
         "score": 4,
-        "reason": "Safety, security, or policy update"
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "cb030de2dd9418a323244c2095c99bb8a7fc97ca",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/stampli",
+      "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
+      "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
+      "publishedAt": "2026-08-20T00:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Flagship model or product launch"
       }
     },
     {
@@ -428,6 +333,63 @@
       }
     },
     {
+      "id": "65d2c830b4a66c1e91cfd7189215e36c18b2f4c4",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNa1ZIWUR5V09teFBRejJEN25keDZyaXpQVHhVdVVYSDlZRXhJNFNXNXR0bGwxeWd2amY4cXVGbjZ3Y1VRdEdUbDVKVnRKSm43U1RpVks0UGh5dXY2RVAwaGFtYU5ZT2Y1clVQdVVweUpFaUFSXzhnUGk4MW1RaFR2Q19TbFFjT0YzQVJmdFNpQnF3c0RfZy1pODJKYmktT214MkdocFhVVi03OVow?oc=5",
+      "title": "OpenAI, Meta Seek Help to Combat Data Center PR Problem",
+      "summary": "",
+      "publishedAt": "2026-08-20T07:00:00.000Z",
+      "publisher": "Bloomberg.com",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "16c4bf21edc95057f8788b49cb456b9da5515454",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPV3hibTg3QUN0WTIwcEl0cDdTdzdEaWx6bVg3Mld3Y2lqTFJmUzlza1Zmd2tlVlZDblljSElKbzJzZnVTVF9zaFlUUk1mSnZMRlM2VThRWlZzTXdLb0Y5WS1DamJGOTdRWXR5Qmx4Q01BalJVMTl3Yk45cFA1TExxSlZXN3Yzd1loMm9ocmg0V2tMME55ZUE?oc=5",
+      "title": "Huntsville residents seek answers on impact of Meta data center expansion",
+      "summary": "",
+      "publishedAt": "2026-08-20T02:31:00.000Z",
+      "publisher": "Yahoo",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "15fba55737e49a6c35e020a8bb401caa090893d7",
+      "company": "Google",
+      "sourceKind": "external",
+      "sourceId": "external-google-major",
+      "sourceLabel": "Major External News - Google",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE01ZjN6RG5qZ2hsZU5Db1FlOVdDNWJsX2dpVHVlMnAwdEpIa1BaV21fZ290eTNhVUdqOEVqSkdlRGZCclRtellnd05GQm9JWlpKRC11X1p6Y21CLUdyUWUwaThFUDFwQ01TWmNDUdIBckFVX3lxTE1mNEJ4WHBveW1zdm5DeGU2X3RTcndUbDdfNW5ZcjVlX1g0dGZERE5YdVJjbG9ZVHZnaDhzSklJcnRkb08wd1Bsd1pLeHZCd0xfbkx2dHJkaXJNVHZyaUZhMWw2V1hZVThYclhzdHJVVVh6Zw?oc=5",
+      "title": "Marvell's stock pops 10% on AI chip deal that lets Google buy up to $12.2 billion in shares",
+      "summary": "",
+      "publishedAt": "2026-08-19T15:08:05.000Z",
+      "publisher": "CNBC",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
       "id": "e0060c0494b4abcec8f031bae05dd8dcfb68e6bb",
       "company": "OpenAI",
       "sourceKind": "external",
@@ -444,6 +406,25 @@
         "bucket": "important",
         "score": 3,
         "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "ef913e9fdabc01a874a34c945cc71d8f36dedf16",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+      "title": "Offering Zero Data Retention for frontier models",
+      "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
+      "publishedAt": "2026-08-19T19:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Safety, security, or policy update"
       }
     },
     {
@@ -466,35 +447,16 @@
       }
     },
     {
-      "id": "2cd65b93e2a06a0cd6a830ca275b95632e4bc61f",
+      "id": "f088d3dd589052cc578e4fff2ea7ca5ad6c77c58",
       "company": "Google",
       "sourceKind": "official",
       "sourceId": "google-ai",
       "sourceLabel": "Google AI",
       "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/student-offer-google-ai",
-      "title": "Start the semester with one year of Gemini, on us",
-      "summary": "College students around the world can claim 12 months of a Google AI plan, free of charge.",
-      "publishedAt": "2026-08-19T19:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "d0e481d572cb2e9312aacd142832b3d689d40ed6",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-waymo",
-      "title": "Waymo is bringing Gemini into its custom Ojai vehicles.",
-      "summary": "Waymo is bringing Gemini to its custom-built Ojai vehicles to create a more helpful and personalized ride.",
-      "publishedAt": "2026-08-19T17:30:00.000Z",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/what-full-stack-development-means",
+      "title": "What does “full-stack” AI actually mean?",
+      "summary": "A Google DeepMind engineer breaks full-stack development into five simple layers and explains how it affects everyday users.",
+      "publishedAt": "2026-08-21T16:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -523,6 +485,44 @@
       }
     },
     {
+      "id": "2cd65b93e2a06a0cd6a830ca275b95632e4bc61f",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/student-offer-google-ai",
+      "title": "Start the semester with one year of Gemini, on us",
+      "summary": "College students around the world can claim 12 months of a Google AI plan, free of charge.",
+      "publishedAt": "2026-08-19T19:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 1,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "d0e481d572cb2e9312aacd142832b3d689d40ed6",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-waymo",
+      "title": "Waymo is bringing Gemini into its custom Ojai vehicles.",
+      "summary": "Waymo is bringing Gemini to its custom-built Ojai vehicles to create a more helpful and personalized ride.",
+      "publishedAt": "2026-08-19T17:30:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 1,
+        "reason": "Routine official update"
+      }
+    },
+    {
       "id": "9ac0643f24279d0897e7405abdd55cab96f6b9c7",
       "company": "OpenAI",
       "sourceKind": "official",
@@ -544,13 +544,32 @@
   ],
   "newItems": [
     {
-      "id": "1adeade77e570eb61f0757744b0881357389282e",
+      "id": "1d9c68ba527156f52f37a720d6efea99217de645",
+      "company": "Google",
+      "sourceKind": "external",
+      "sourceId": "external-google-major",
+      "sourceLabel": "Major External News - Google",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTDRaem5IYVhYOElFekVzbzAzWFZ5RHpySUU1TjY2MmIwd0Jjb1otLWIzLTg3VTBucWxmRXlqeXloVkdMME1hRE94SUdMZUVYMDY4dGhvRDJqS2NQTnlDSmVld1lSV016OTBoQXdldEs5OUxaQUlNaU9LbDBaMnN1QkJJbFpCUDhCUzNmSWdjR21zSmx0aW9DUzRldHFCRG9P?oc=5",
+      "title": "Marvell Technology (MRVL) Stock Fair Value Edges Higher After Google AI Partnership Expansion",
+      "summary": "",
+      "publishedAt": "2026-08-21T21:10:42.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "6e05a83b94efbff7be65a9460f173c9a29f50845",
       "company": "Meta",
       "sourceKind": "external",
       "sourceId": "external-meta-major",
       "sourceLabel": "Major External News - Meta",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTmZZOVpTeE9QNkl5eTlySlRJbHF4VkRuRkJ3bXhrUnJ0V1V3c0l6bjc4UlM4NmdUMG5wTXRTcTNKSUU4LVl2MUhCY2MtZ3UtQlQtRUUybGcwT0lkaGpxMHhWSENMdXJtTEZqejBma2poRGxjOE54UnpybElURHBpRHAwWTdfZ1RHeHIwYk5JZFA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTmZZOVpTeE9QNkl5eTlySlRJbHF4VkRuRkJ3bXhrUnJ0V1V3c0l6bjc4UlM4NmdUMG5wTXRTcTNKSUU4LVl2MUhCY2MtZ3UtQlQtRUUybGcwT0lkaGpxMHhWSENMdXJtTEZqejBma2poRGxjOE54UnpybElURHBpRHAwWTdfZ1RHeHIwYk5JZFDSAZYBQVVfeXFMT0ZQMG1zcUEyQmF1Ung1Z2xrc1NnMnQ3TTdDdlN3T2UzN2VjMFFCVkYyUFQ1UXJhdUhnYWFRRmVreWlmbDdEalcwX2gxcXk0TWVHQ3lmZjE3MUdya3FUejBlRUUxUUZIUWhLWXo1QUJBdnVTWW45ZlZKZEE3aEZudDRTazFxYmVtZHhUQXFmWC1nTU9nV3Fn?oc=5",
       "title": "No more doom scrolling or Instagram Stories? A Meta trial loss could end the social media we know",
       "summary": "",
       "publishedAt": "2026-08-21T11:00:01.000Z",
@@ -563,79 +582,79 @@
       }
     },
     {
-      "id": "027379c08484bed24af91415c1d7d96dc8273daa",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/introducing-ai-futures",
-      "title": "Introducing AI Futures",
-      "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
-      "publishedAt": "2026-08-20T07:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "cb030de2dd9418a323244c2095c99bb8a7fc97ca",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/stampli",
-      "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
-      "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
-      "publishedAt": "2026-08-20T00:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "65d2c830b4a66c1e91cfd7189215e36c18b2f4c4",
+      "id": "e55ef75ca530487d71ed9975af9da5e87b6063c5",
       "company": "Meta",
       "sourceKind": "external",
       "sourceId": "external-meta-major",
       "sourceLabel": "Major External News - Meta",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNa1ZIWUR5V09teFBRejJEN25keDZyaXpQVHhVdVVYSDlZRXhJNFNXNXR0bGwxeWd2amY4cXVGbjZ3Y1VRdEdUbDVKVnRKSm43U1RpVks0UGh5dXY2RVAwaGFtYU5ZT2Y1clVQdVVweUpFaUFSXzhnUGk4MW1RaFR2Q19TbFFjT0YzQVJmdFNpQnF3c0RfZy1pODJKYmktT214MkdocFhVVi03OVow?oc=5",
-      "title": "OpenAI, Meta Seek Help to Combat Data Center PR Problem",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPM2NHb2hVLVFHX1g4YjVxenZERlJHN1FYOEJXMDQwSjBlakFxZ1JuYWxJZGRCWG1VZ2RYYkctdG5oX1UxcXQ4UU5QRWN5cVhURGpzZGRZelBDUGpnT0FpS1JyUFhlR0tnaHJjbnNLWjZrV0lIa3hnVWhPWU1aU3ppNTdUUldpbV9fNlROaDJBYmVNdlNiUGNfMDZrVFVtY25zeS12N25RMFNmRjZOX3dGLU1iYXNHUQ?oc=5",
+      "title": "Meta’s Trial Adds a Trillion-Dollar Risk to Its Struggling Stock",
       "summary": "",
-      "publishedAt": "2026-08-20T07:00:00.000Z",
+      "publishedAt": "2026-08-20T13:34:15.000Z",
       "publisher": "Bloomberg.com",
       "discoveryMethod": "feed",
       "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Corporate move or major external event"
       }
     },
     {
-      "id": "16c4bf21edc95057f8788b49cb456b9da5515454",
-      "company": "Meta",
+      "id": "ea34a5fc8b53335d4bad83e45f2d37f0ba48c76c",
+      "company": "Anthropic",
       "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPV3hibTg3QUN0WTIwcEl0cDdTdzdEaWx6bVg3Mld3Y2lqTFJmUzlza1Zmd2tlVlZDblljSElKbzJzZnVTVF9zaFlUUk1mSnZMRlM2VThRWlZzTXdLb0Y5WS1DamJGOTdRWXR5Qmx4Q01BalJVMTl3Yk45cFA1TExxSlZXN3Yzd1loMm9ocmg0V2tMME55ZUE?oc=5",
-      "title": "Huntsville residents seek answers on impact of Meta data center expansion",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPN2cwUVdmLVBEM09BbWpsWl8tVkZIZmhKUVN3RHJHbHE1V3lWN2NZOFQwbXMyV1BvalkxWUZ1a2VSOWVJdFhmVnYweUxXa2dZNllPNWRMTDhBaVI2UUVWWkdmemloN2FnYVFoemprdkxQVWtUeklfcVl6RWtyS3RTaFF0ak1tVnF5OGNjeXlXMHFZS3RtTU42T21fd3lZc0EtZUFqTXdNWEY?oc=5",
+      "title": "Anthropic Puts Its Most Restricted Model Claude Mythos 5 Into Claude Security",
       "summary": "",
-      "publishedAt": "2026-08-20T02:31:00.000Z",
-      "publisher": "Yahoo",
+      "publishedAt": "2026-08-22T06:14:39.000Z",
+      "publisher": "Startup Fortune",
       "discoveryMethod": "feed",
       "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "0b9ced60cd89a283a5c28e75c6bf27521776dc7c",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQeVNPSktJWTh2R05IWG9tNkVJbnNLOHFNNk5GVlhLZVRUN0JhNnpDc2ZLRFoxY1BYdWNRQjVsblVwQ3pkR0RwX1VnajJ5MzRVTXR3OUR4Y0xBWGxRMDhTbktERDdLUHZTSTVoWVN2WVlveV9PMXdXTUtBdk5tY0l5dlNCblcwN0FNT0wtVnhlcktOd05UZS1TTGl0VjZYTk5FWjRWNVhsckRqcG5BN1h2S2xzVnRhTkxWcklxTllkdkw5TFBEclRlMGMtR19jWTR5ekI3YnRQSGw1Vmx4?oc=5",
+      "title": "OpenAI says it paused AI training for two weeks and announces new security protocols following Hugging Face hack",
+      "summary": "",
+      "publishedAt": "2026-08-18T18:33:00.000Z",
+      "publisher": "Fortune",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "f088d3dd589052cc578e4fff2ea7ca5ad6c77c58",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/what-full-stack-development-means",
+      "title": "What does “full-stack” AI actually mean?",
+      "summary": "A Google DeepMind engineer breaks full-stack development into five simple layers and explains how it affects everyday users.",
+      "publishedAt": "2026-08-21T16:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
       }
     }
   ],
