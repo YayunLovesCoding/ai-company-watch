@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T14:24:49.616Z",
+  "generatedAt": "2026-08-23T14:26:25.590Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -78,10 +78,10 @@
   "totals": {
     "fetched": 38,
     "deduped": 24,
-    "new": 6,
+    "new": 1,
     "byKind": {
-      "official": 11,
-      "external": 13
+      "official": 10,
+      "external": 14
     }
   },
   "items": [
@@ -119,22 +119,22 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 7,
+        "score": 6,
         "reason": "Corporate move or major external event"
       }
     },
     {
-      "id": "e55ef75ca530487d71ed9975af9da5e87b6063c5",
+      "id": "c4dac00ed50540239e8d97f504f914e21126ff1a",
       "company": "Meta",
       "sourceKind": "external",
       "sourceId": "external-meta-major",
       "sourceLabel": "Major External News - Meta",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPM2NHb2hVLVFHX1g4YjVxenZERlJHN1FYOEJXMDQwSjBlakFxZ1JuYWxJZGRCWG1VZ2RYYkctdG5oX1UxcXQ4UU5QRWN5cVhURGpzZGRZelBDUGpnT0FpS1JyUFhlR0tnaHJjbnNLWjZrV0lIa3hnVWhPWU1aU3ppNTdUUldpbV9fNlROaDJBYmVNdlNiUGNfMDZrVFVtY25zeS12N25RMFNmRjZOX3dGLU1iYXNHUQ?oc=5",
-      "title": "Meta’s Trial Adds a Trillion-Dollar Risk to Its Struggling Stock",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWEF4WlNJc2c1RjE1QVBCMDVobUhWSXotRWswaWtpQnVTem02RUF4Ykw3QTJzWnI0NmlCQmVkY1NDNUxJdVhfcGEtbEpPd3VaSkZsQUdGTjh1RnNNaGFWNTZEdi1jdmsxRFR5cGp3WDdKT1lRbmgtOUZuMm9VcDRDcE1TS2VKLWxlRVFvM2J1c2hscnBsaXRNcmd6cHZlQmRoNnBCTV80WTZDYW1qZG8yVEVZUXhUUXI0T0NJaS1VQ1ZlSi1pSWRYQUp3?oc=5",
+      "title": "Mark Zuckerberg encouraged growth over child safety, ex-Meta executive testifies at trial",
       "summary": "",
-      "publishedAt": "2026-08-20T13:34:15.000Z",
-      "publisher": "Bloomberg.com",
+      "publishedAt": "2026-08-19T21:58:39.000Z",
+      "publisher": "Reuters",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -181,11 +181,30 @@
       }
     },
     {
-      "id": "714e5ccd5841da0d0bd4117f2ea9702dd62b3d28",
-      "company": "Microsoft",
+      "id": "ab8385c52b7a3bd57fcf8f7166b7b5d043ae25dc",
+      "company": "OpenAI",
       "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUDU1YUg3MHBUVGgwWUpqc3lWRHl0YVo1ektucVhhQk9UNDJvREctNHczSWlxQzladnlOZE1PNXI3aHNYcGZ5WjFuYlg0SXNwbTk2LVVSMFIyZ05HZVhGd3BMUUxaTUQySlVaWDdfNnF2Q0xDOUN4c2YwRjZNM1FSWlRGMGpDemZhaU43Z1VPNGVhZ3ZrQzZJa0VBSVg?oc=5",
+      "title": "OpenAI announces stricter security on AI testing",
+      "summary": "",
+      "publishedAt": "2026-08-19T20:38:23.000Z",
+      "publisher": "CNN",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "714e5ccd5841da0d0bd4117f2ea9702dd62b3d28",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRGZHUVhsajE3N25kNXJKcDZHcGRybnBpbUF0M2dJQWZIR1p0VTZhbnRLNVhvdDNKZGdPWVZrU1Zqdl9GMUYzNU9aNXpUSU1MSkJKTEJxWDYzTmhEVnVMMERFNFgtRGt1Mk96dHc4UXlaQzg4b2lBWWY0LUh5RjYwY182TmEyX3BtVGEyVllxUFlWc2c1VE5tLWxXV0RiWTh0SG45dnh5djRpUQ?oc=5",
       "title": "OpenAI to Launch Security Analysis System With Better Privacy Protections",
@@ -201,12 +220,31 @@
     },
     {
       "id": "0b9ced60cd89a283a5c28e75c6bf27521776dc7c",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQeVNPSktJWTh2R05IWG9tNkVJbnNLOHFNNk5GVlhLZVRUN0JhNnpDc2ZLRFoxY1BYdWNRQjVsblVwQ3pkR0RwX1VnajJ5MzRVTXR3OUR4Y0xBWGxRMDhTbktERDdLUHZTSTVoWVN2WVlveV9PMXdXTUtBdk5tY0l5dlNCblcwN0FNT0wtVnhlcktOd05UZS1TTGl0VjZYTk5FWjRWNVhsckRqcG5BN1h2S2xzVnRhTkxWcklxTllkdkw5TFBEclRlMGMtR19jWTR5ekI3YnRQSGw1Vmx4?oc=5",
+      "title": "OpenAI says it paused AI training for two weeks and announces new security protocols following Hugging Face hack",
+      "summary": "",
+      "publishedAt": "2026-08-18T18:33:00.000Z",
+      "publisher": "Fortune",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "c24079965194c162380ead6531c56b5209544095",
       "company": "OpenAI",
       "sourceKind": "external",
       "sourceId": "external-openai-major",
       "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQeVNPSktJWTh2R05IWG9tNkVJbnNLOHFNNk5GVlhLZVRUN0JhNnpDc2ZLRFoxY1BYdWNRQjVsblVwQ3pkR0RwX1VnajJ5MzRVTXR3OUR4Y0xBWGxRMDhTbktERDdLUHZTSTVoWVN2WVlveV9PMXdXTUtBdk5tY0l5dlNCblcwN0FNT0wtVnhlcktOd05UZS1TTGl0VjZYTk5FWjRWNVhsckRqcG5BN1h2S2xzVnRhTkxWcklxTllkdkw5TFBEclRlMGMtR19jWTR5ekI3YnRQSGw1Vmx4?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOVTRsVzB6SlZBU25SUzRZbksycEpWX1FucE04WkstYmZCaWk4LTMzSkpPU1NWeUhRQ0R4SGdXMFZWXzVZUmZHay1naGJ6UG1vcmFfem5TSmptdUNLTEhvVkpGcXEzeEt3MUdLUVlkNDczTDZ3WXdmaVhxNTlTQVlZUW9aclFFLVFwbjZNN1FuQW16OG5mdE1lTlNJTDFxcHFLSWxuM2tEazlodVVLN0dibnhLYmxyWUNYTEVUZDFMY3pBRnViX0ExczN2d3lRa3lKcGZaT2Ftbk1uQ3BhM0ZNRDgxODhHd20xOW5TdWpoV1Q?oc=5",
       "title": "OpenAI says it paused AI training for two weeks and announces new security protocols following Hugging Face hack",
       "summary": "",
       "publishedAt": "2026-08-18T18:33:00.000Z",
@@ -238,30 +276,11 @@
       }
     },
     {
-      "id": "5ae7431995c163143267ab94b0982c11fe3a0b39",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeGE2ek0wODJIN3VVWUZtdTVZam5wLXB2cmtsRGZqWWZWbVhZSlp2NmNGZ2RUQk5sRmRYalQxWko3ZjNVeXAyY1ZIaUJVQXl4eHR5NDRQT0FWemdOVlQ0ajctb0pjc3NqaDNpR3lBWE1LLXBOX05nb3o5NW5PeHQ5VWNlbFhlME1UODlwdjhMVEROeFBWZnVVVm9hZ2RxaWEwLVlUZG9tX0FQRnNEMkJQdWlhSEhQZFFJb0E?oc=5",
-      "title": "OpenAI Raises the Safety Bar on Anthropic; Anthropic Expands Its Revenue Lead",
-      "summary": "",
-      "publishedAt": "2026-08-19T14:01:00.000Z",
-      "publisher": "The Information",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
       "id": "28b5129be6ffdb5918b4dea2b7b8f83c691178c3",
-      "company": "OpenAI",
+      "company": "Microsoft",
       "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
       "homepageUrl": "https://news.google.com/",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQLThmcXVJa0VyV0dXRVVsX0Q2YW5kTXE1czlsdnFSTUtaRjdmcW5FRzdScE1fajAwNm5lb0dCOGQyRjdqbXZRWk96dHZOUk1uYVBOS1hhSTFscTdwZnR0cTdlaGFpbUpyTzgwbkFrekh3Z1VvNG94d2VyTUxlVndnZVQ1eEt1YTJxelJmS2Qzb3kyRFMzYWMxMWJSZkFad1pRVTVoZmJDQ3JILUZhM2lJX3FB?oc=5",
       "title": "OpenAI Makes AI Safety Changes in Wake of Hugging Face Breach",
@@ -521,112 +540,17 @@
         "score": 1,
         "reason": "Routine official update"
       }
-    },
-    {
-      "id": "9ac0643f24279d0897e7405abdd55cab96f6b9c7",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/replit",
-      "title": "Replit expands access to software creation with GPT-5.6 Luna",
-      "summary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
-      "publishedAt": "2026-08-19T07:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
     }
   ],
   "newItems": [
     {
-      "id": "1d9c68ba527156f52f37a720d6efea99217de645",
-      "company": "Google",
-      "sourceKind": "external",
-      "sourceId": "external-google-major",
-      "sourceLabel": "Major External News - Google",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTDRaem5IYVhYOElFekVzbzAzWFZ5RHpySUU1TjY2MmIwd0Jjb1otLWIzLTg3VTBucWxmRXlqeXloVkdMME1hRE94SUdMZUVYMDY4dGhvRDJqS2NQTnlDSmVld1lSV016OTBoQXdldEs5OUxaQUlNaU9LbDBaMnN1QkJJbFpCUDhCUzNmSWdjR21zSmx0aW9DUzRldHFCRG9P?oc=5",
-      "title": "Marvell Technology (MRVL) Stock Fair Value Edges Higher After Google AI Partnership Expansion",
-      "summary": "",
-      "publishedAt": "2026-08-21T21:10:42.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "6e05a83b94efbff7be65a9460f173c9a29f50845",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTmZZOVpTeE9QNkl5eTlySlRJbHF4VkRuRkJ3bXhrUnJ0V1V3c0l6bjc4UlM4NmdUMG5wTXRTcTNKSUU4LVl2MUhCY2MtZ3UtQlQtRUUybGcwT0lkaGpxMHhWSENMdXJtTEZqejBma2poRGxjOE54UnpybElURHBpRHAwWTdfZ1RHeHIwYk5JZFDSAZYBQVVfeXFMT0ZQMG1zcUEyQmF1Ung1Z2xrc1NnMnQ3TTdDdlN3T2UzN2VjMFFCVkYyUFQ1UXJhdUhnYWFRRmVreWlmbDdEalcwX2gxcXk0TWVHQ3lmZjE3MUdya3FUejBlRUUxUUZIUWhLWXo1QUJBdnVTWW45ZlZKZEE3aEZudDRTazFxYmVtZHhUQXFmWC1nTU9nV3Fn?oc=5",
-      "title": "No more doom scrolling or Instagram Stories? A Meta trial loss could end the social media we know",
-      "summary": "",
-      "publishedAt": "2026-08-21T11:00:01.000Z",
-      "publisher": "CNBC",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "e55ef75ca530487d71ed9975af9da5e87b6063c5",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPM2NHb2hVLVFHX1g4YjVxenZERlJHN1FYOEJXMDQwSjBlakFxZ1JuYWxJZGRCWG1VZ2RYYkctdG5oX1UxcXQ4UU5QRWN5cVhURGpzZGRZelBDUGpnT0FpS1JyUFhlR0tnaHJjbnNLWjZrV0lIa3hnVWhPWU1aU3ppNTdUUldpbV9fNlROaDJBYmVNdlNiUGNfMDZrVFVtY25zeS12N25RMFNmRjZOX3dGLU1iYXNHUQ?oc=5",
-      "title": "Meta’s Trial Adds a Trillion-Dollar Risk to Its Struggling Stock",
-      "summary": "",
-      "publishedAt": "2026-08-20T13:34:15.000Z",
-      "publisher": "Bloomberg.com",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "ea34a5fc8b53335d4bad83e45f2d37f0ba48c76c",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPN2cwUVdmLVBEM09BbWpsWl8tVkZIZmhKUVN3RHJHbHE1V3lWN2NZOFQwbXMyV1BvalkxWUZ1a2VSOWVJdFhmVnYweUxXa2dZNllPNWRMTDhBaVI2UUVWWkdmemloN2FnYVFoemprdkxQVWtUeklfcVl6RWtyS3RTaFF0ak1tVnF5OGNjeXlXMHFZS3RtTU42T21fd3lZc0EtZUFqTXdNWEY?oc=5",
-      "title": "Anthropic Puts Its Most Restricted Model Claude Mythos 5 Into Claude Security",
-      "summary": "",
-      "publishedAt": "2026-08-22T06:14:39.000Z",
-      "publisher": "Startup Fortune",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "0b9ced60cd89a283a5c28e75c6bf27521776dc7c",
+      "id": "c24079965194c162380ead6531c56b5209544095",
       "company": "OpenAI",
       "sourceKind": "external",
       "sourceId": "external-openai-major",
       "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQeVNPSktJWTh2R05IWG9tNkVJbnNLOHFNNk5GVlhLZVRUN0JhNnpDc2ZLRFoxY1BYdWNRQjVsblVwQ3pkR0RwX1VnajJ5MzRVTXR3OUR4Y0xBWGxRMDhTbktERDdLUHZTSTVoWVN2WVlveV9PMXdXTUtBdk5tY0l5dlNCblcwN0FNT0wtVnhlcktOd05UZS1TTGl0VjZYTk5FWjRWNVhsckRqcG5BN1h2S2xzVnRhTkxWcklxTllkdkw5TFBEclRlMGMtR19jWTR5ekI3YnRQSGw1Vmx4?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOVTRsVzB6SlZBU25SUzRZbksycEpWX1FucE04WkstYmZCaWk4LTMzSkpPU1NWeUhRQ0R4SGdXMFZWXzVZUmZHay1naGJ6UG1vcmFfem5TSmptdUNLTEhvVkpGcXEzeEt3MUdLUVlkNDczTDZ3WXdmaVhxNTlTQVlZUW9aclFFLVFwbjZNN1FuQW16OG5mdE1lTlNJTDFxcHFLSWxuM2tEazlodVVLN0dibnhLYmxyWUNYTEVUZDFMY3pBRnViX0ExczN2d3lRa3lKcGZaT2Ftbk1uQ3BhM0ZNRDgxODhHd20xOW5TdWpoV1Q?oc=5",
       "title": "OpenAI says it paused AI training for two weeks and announces new security protocols following Hugging Face hack",
       "summary": "",
       "publishedAt": "2026-08-18T18:33:00.000Z",
@@ -636,25 +560,6 @@
         "bucket": "critical",
         "score": 5,
         "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "f088d3dd589052cc578e4fff2ea7ca5ad6c77c58",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/what-full-stack-development-means",
-      "title": "What does “full-stack” AI actually mean?",
-      "summary": "A Google DeepMind engineer breaks full-stack development into five simple layers and explains how it affects everyday users.",
-      "publishedAt": "2026-08-21T16:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
       }
     }
   ],
