@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T14:26:25.590Z",
+  "generatedAt": "2026-08-24T14:45:57.265Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -76,12 +76,12 @@
     }
   ],
   "totals": {
-    "fetched": 38,
+    "fetched": 35,
     "deduped": 24,
     "new": 1,
     "byKind": {
-      "official": 10,
-      "external": 14
+      "official": 13,
+      "external": 11
     }
   },
   "items": [
@@ -100,7 +100,7 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 7,
+        "score": 6,
         "reason": "Corporate move or major external event"
       }
     },
@@ -162,17 +162,36 @@
       }
     },
     {
-      "id": "ea34a5fc8b53335d4bad83e45f2d37f0ba48c76c",
-      "company": "Anthropic",
+      "id": "b79e0fffd02cd69c376789fd2cd4cde3c6ce2d0b",
+      "company": "OpenAI",
       "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPN2cwUVdmLVBEM09BbWpsWl8tVkZIZmhKUVN3RHJHbHE1V3lWN2NZOFQwbXMyV1BvalkxWUZ1a2VSOWVJdFhmVnYweUxXa2dZNllPNWRMTDhBaVI2UUVWWkdmemloN2FnYVFoemprdkxQVWtUeklfcVl6RWtyS3RTaFF0ak1tVnF5OGNjeXlXMHFZS3RtTU42T21fd3lZc0EtZUFqTXdNWEY?oc=5",
-      "title": "Anthropic Puts Its Most Restricted Model Claude Mythos 5 Into Claude Security",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE54UnNTaE5RWVB4VHo2V05NdTZSZExNaUo5SGNOMFlMZFZhajVBRTZQSzF2aVh0RU9hMTJKcHZ3OVpBeU11UmsxMXkzOGxrTFAzSURhdmg5WEJ1ZmwxNWRWUkR5SdIBaEFVX3lxTE5qWndoSTJvOXBDQXRLVl9mWUNoSTN4Mkw1dEdzNXdnUUdzSS14cUZfMkNBVzZrZUpJaFVaZzN3cVl5czd5Nkx3NXJoc2ZmMHdHLTUwS1hYSzZNQ3ZtdjYzaDZiLW9HUUpV?oc=5",
+      "title": "Credit card issuer Synchrony announces partnership with OpenAI",
       "summary": "",
-      "publishedAt": "2026-08-22T06:14:39.000Z",
-      "publisher": "Startup Fortune",
+      "publishedAt": "2026-08-17T15:03:08.000Z",
+      "publisher": "CNBC",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "b0375cb212d56354b3070d98f379e232bf2aacfc",
+      "company": "Google",
+      "sourceKind": "external",
+      "sourceId": "external-google-major",
+      "sourceLabel": "Major External News - Google",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTE1jaC1ZRHpOd09fRDEycFE3cERiMUQ3d29YRnBBTW1FV3lleWRJSEYwV2M2VDVibDVqbE44ZVhGUDBpYzVlcVBBazM5ZXBaajF2MVJBSWFmMEwzVW4xSXNfeXd6UjVfSnp6M2E2Y3V0VFgyYjcwVVFucXdZaGlNMkNNUkh4NjFhVFBxbUJ6cmdCaDI0SUgyUWRXQQ?oc=5",
+      "title": "Gemini crypto exchange review 2026: Bank-grade security comes at a price",
+      "summary": "",
+      "publishedAt": "2026-08-24T13:00:00.000Z",
+      "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -181,70 +200,13 @@
       }
     },
     {
-      "id": "ab8385c52b7a3bd57fcf8f7166b7b5d043ae25dc",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUDU1YUg3MHBUVGgwWUpqc3lWRHl0YVo1ektucVhhQk9UNDJvREctNHczSWlxQzladnlOZE1PNXI3aHNYcGZ5WjFuYlg0SXNwbTk2LVVSMFIyZ05HZVhGd3BMUUxaTUQySlVaWDdfNnF2Q0xDOUN4c2YwRjZNM1FSWlRGMGpDemZhaU43Z1VPNGVhZ3ZrQzZJa0VBSVg?oc=5",
-      "title": "OpenAI announces stricter security on AI testing",
-      "summary": "",
-      "publishedAt": "2026-08-19T20:38:23.000Z",
-      "publisher": "CNN",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "714e5ccd5841da0d0bd4117f2ea9702dd62b3d28",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRGZHUVhsajE3N25kNXJKcDZHcGRybnBpbUF0M2dJQWZIR1p0VTZhbnRLNVhvdDNKZGdPWVZrU1Zqdl9GMUYzNU9aNXpUSU1MSkJKTEJxWDYzTmhEVnVMMERFNFgtRGt1Mk96dHc4UXlaQzg4b2lBWWY0LUh5RjYwY182TmEyX3BtVGEyVllxUFlWc2c1VE5tLWxXV0RiWTh0SG45dnh5djRpUQ?oc=5",
-      "title": "OpenAI to Launch Security Analysis System With Better Privacy Protections",
-      "summary": "",
-      "publishedAt": "2026-08-19T17:43:00.000Z",
-      "publisher": "The Information",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
       "id": "0b9ced60cd89a283a5c28e75c6bf27521776dc7c",
-      "company": "Microsoft",
+      "company": "OpenAI",
       "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQeVNPSktJWTh2R05IWG9tNkVJbnNLOHFNNk5GVlhLZVRUN0JhNnpDc2ZLRFoxY1BYdWNRQjVsblVwQ3pkR0RwX1VnajJ5MzRVTXR3OUR4Y0xBWGxRMDhTbktERDdLUHZTSTVoWVN2WVlveV9PMXdXTUtBdk5tY0l5dlNCblcwN0FNT0wtVnhlcktOd05UZS1TTGl0VjZYTk5FWjRWNVhsckRqcG5BN1h2S2xzVnRhTkxWcklxTllkdkw5TFBEclRlMGMtR19jWTR5ekI3YnRQSGw1Vmx4?oc=5",
-      "title": "OpenAI says it paused AI training for two weeks and announces new security protocols following Hugging Face hack",
-      "summary": "",
-      "publishedAt": "2026-08-18T18:33:00.000Z",
-      "publisher": "Fortune",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "c24079965194c162380ead6531c56b5209544095",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOVTRsVzB6SlZBU25SUzRZbksycEpWX1FucE04WkstYmZCaWk4LTMzSkpPU1NWeUhRQ0R4SGdXMFZWXzVZUmZHay1naGJ6UG1vcmFfem5TSmptdUNLTEhvVkpGcXEzeEt3MUdLUVlkNDczTDZ3WXdmaVhxNTlTQVlZUW9aclFFLVFwbjZNN1FuQW16OG5mdE1lTlNJTDFxcHFLSWxuM2tEazlodVVLN0dibnhLYmxyWUNYTEVUZDFMY3pBRnViX0ExczN2d3lRa3lKcGZaT2Ftbk1uQ3BhM0ZNRDgxODhHd20xOW5TdWpoV1Q?oc=5",
       "title": "OpenAI says it paused AI training for two weeks and announces new security protocols following Hugging Face hack",
       "summary": "",
       "publishedAt": "2026-08-18T18:33:00.000Z",
@@ -276,17 +238,17 @@
       }
     },
     {
-      "id": "28b5129be6ffdb5918b4dea2b7b8f83c691178c3",
-      "company": "Microsoft",
+      "id": "ea34a5fc8b53335d4bad83e45f2d37f0ba48c76c",
+      "company": "Anthropic",
       "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQLThmcXVJa0VyV0dXRVVsX0Q2YW5kTXE1czlsdnFSTUtaRjdmcW5FRzdScE1fajAwNm5lb0dCOGQyRjdqbXZRWk96dHZOUk1uYVBOS1hhSTFscTdwZnR0cTdlaGFpbUpyTzgwbkFrekh3Z1VvNG94d2VyTUxlVndnZVQ1eEt1YTJxelJmS2Qzb3kyRFMzYWMxMWJSZkFad1pRVTVoZmJDQ3JILUZhM2lJX3FB?oc=5",
-      "title": "OpenAI Makes AI Safety Changes in Wake of Hugging Face Breach",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPN2cwUVdmLVBEM09BbWpsWl8tVkZIZmhKUVN3RHJHbHE1V3lWN2NZOFQwbXMyV1BvalkxWUZ1a2VSOWVJdFhmVnYweUxXa2dZNllPNWRMTDhBaVI2UUVWWkdmemloN2FnYVFoemprdkxQVWtUeklfcVl6RWtyS3RTaFF0ak1tVnF5OGNjeXlXMHFZS3RtTU42T21fd3lZc0EtZUFqTXdNWEY?oc=5",
+      "title": "Anthropic Puts Its Most Restricted Model Claude Mythos 5 Into Claude Security",
       "summary": "",
-      "publishedAt": "2026-08-18T18:00:00.000Z",
-      "publisher": "Bloomberg.com",
+      "publishedAt": "2026-08-22T06:14:39.000Z",
+      "publisher": "Startup Fortune",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -362,7 +324,7 @@
       "title": "OpenAI, Meta Seek Help to Combat Data Center PR Problem",
       "summary": "",
       "publishedAt": "2026-08-20T07:00:00.000Z",
-      "publisher": "Bloomberg.com",
+      "publisher": "Bloomberg",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -382,25 +344,6 @@
       "summary": "",
       "publishedAt": "2026-08-20T02:31:00.000Z",
       "publisher": "Yahoo",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "15fba55737e49a6c35e020a8bb401caa090893d7",
-      "company": "Google",
-      "sourceKind": "external",
-      "sourceId": "external-google-major",
-      "sourceLabel": "Major External News - Google",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE01ZjN6RG5qZ2hsZU5Db1FlOVdDNWJsX2dpVHVlMnAwdEpIa1BaV21fZ290eTNhVUdqOEVqSkdlRGZCclRtellnd05GQm9JWlpKRC11X1p6Y21CLUdyUWUwaThFUDFwQ01TWmNDUdIBckFVX3lxTE1mNEJ4WHBveW1zdm5DeGU2X3RTcndUbDdfNW5ZcjVlX1g0dGZERE5YdVJjbG9ZVHZnaDhzSklJcnRkb08wd1Bsd1pLeHZCd0xfbkx2dHJkaXJNVHZyaUZhMWw2V1hZVThYclhzdHJVVVh6Zw?oc=5",
-      "title": "Marvell's stock pops 10% on AI chip deal that lets Google buy up to $12.2 billion in shares",
-      "summary": "",
-      "publishedAt": "2026-08-19T15:08:05.000Z",
-      "publisher": "CNBC",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -466,25 +409,6 @@
       }
     },
     {
-      "id": "f088d3dd589052cc578e4fff2ea7ca5ad6c77c58",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/what-full-stack-development-means",
-      "title": "What does “full-stack” AI actually mean?",
-      "summary": "A Google DeepMind engineer breaks full-stack development into five simple layers and explains how it affects everyday users.",
-      "publishedAt": "2026-08-21T16:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
       "id": "97cd97d27d220f15f9bc8a69f1f4b5eea602a9e8",
       "company": "Anthropic",
       "sourceKind": "official",
@@ -501,6 +425,25 @@
         "bucket": "digest",
         "score": 2,
         "reason": "Technical or research update"
+      }
+    },
+    {
+      "id": "f088d3dd589052cc578e4fff2ea7ca5ad6c77c58",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/what-full-stack-development-means",
+      "title": "What does “full-stack” AI actually mean?",
+      "summary": "A Google DeepMind engineer breaks full-stack development into five simple layers and explains how it affects everyday users.",
+      "publishedAt": "2026-08-21T16:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 1,
+        "reason": "Routine official update"
       }
     },
     {
@@ -540,26 +483,83 @@
         "score": 1,
         "reason": "Routine official update"
       }
+    },
+    {
+      "id": "9ac0643f24279d0897e7405abdd55cab96f6b9c7",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/replit",
+      "title": "Replit expands access to software creation with GPT-5.6 Luna",
+      "summary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
+      "publishedAt": "2026-08-19T07:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 1,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "e4563871866d3a635b91bc2e29178f947db9e1c3",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+      "title": "ChatGPT Ads expands across Europe",
+      "summary": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.",
+      "publishedAt": "2026-08-18T22:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 1,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "56f35c6f0d433ce60ac02f0a7e2a2dde53d9533a",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/four-new-interactive-bts-experiences",
+      "title": "Try 4 new interactive BTS experiences inside the Gemini app",
+      "summary": "Google Gemini and BTS are collaborating on a series of interactive features inside the Gemini app.",
+      "publishedAt": "2026-08-18T17:30:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 1,
+        "reason": "Routine official update"
+      }
     }
   ],
   "newItems": [
     {
-      "id": "c24079965194c162380ead6531c56b5209544095",
-      "company": "OpenAI",
+      "id": "b0375cb212d56354b3070d98f379e232bf2aacfc",
+      "company": "Google",
       "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
+      "sourceId": "external-google-major",
+      "sourceLabel": "Major External News - Google",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOVTRsVzB6SlZBU25SUzRZbksycEpWX1FucE04WkstYmZCaWk4LTMzSkpPU1NWeUhRQ0R4SGdXMFZWXzVZUmZHay1naGJ6UG1vcmFfem5TSmptdUNLTEhvVkpGcXEzeEt3MUdLUVlkNDczTDZ3WXdmaVhxNTlTQVlZUW9aclFFLVFwbjZNN1FuQW16OG5mdE1lTlNJTDFxcHFLSWxuM2tEazlodVVLN0dibnhLYmxyWUNYTEVUZDFMY3pBRnViX0ExczN2d3lRa3lKcGZaT2Ftbk1uQ3BhM0ZNRDgxODhHd20xOW5TdWpoV1Q?oc=5",
-      "title": "OpenAI says it paused AI training for two weeks and announces new security protocols following Hugging Face hack",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTE1jaC1ZRHpOd09fRDEycFE3cERiMUQ3d29YRnBBTW1FV3lleWRJSEYwV2M2VDVibDVqbE44ZVhGUDBpYzVlcVBBazM5ZXBaajF2MVJBSWFmMEwzVW4xSXNfeXd6UjVfSnp6M2E2Y3V0VFgyYjcwVVFucXdZaGlNMkNNUkh4NjFhVFBxbUJ6cmdCaDI0SUgyUWRXQQ?oc=5",
+      "title": "Gemini crypto exchange review 2026: Bank-grade security comes at a price",
       "summary": "",
-      "publishedAt": "2026-08-18T18:33:00.000Z",
-      "publisher": "Fortune",
+      "publishedAt": "2026-08-24T13:00:00.000Z",
+      "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
         "score": 5,
-        "reason": "Flagship model or product launch"
+        "reason": "Safety, security, or policy update"
       }
     }
   ],
