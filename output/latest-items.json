@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T14:45:57.265Z",
+  "generatedAt": "2026-08-25T14:49:51.073Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -76,15 +76,72 @@
     }
   ],
   "totals": {
-    "fetched": 35,
+    "fetched": 34,
     "deduped": 24,
-    "new": 1,
+    "new": 8,
     "byKind": {
-      "official": 13,
-      "external": 11
+      "official": 14,
+      "external": 10
     }
   },
   "items": [
+    {
+      "id": "66ffd9b6fcd11e58d5a64c95f3801ec025fcb0e4",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbEpUUVNqdVEtZ2FQaGFZSnhRQ3BOa21DYlc3aEtLY2g1VFVINnR4MUFtTTlsdGUydkJsZllRQ3pJR3dNWnBjQlRrTjRVSWdVY2ZBdThOcXRlSkM1dTNYMlZlSF9MNnZ2M1dFc1BvNmVKTUZUYi1aR3RSeC1NWTk4d0F6aDNUbnlqZjNrMng2NFh2VVcwZk9UVkgwajFnOU9lOFRZSGJFRVF4MlBPUVhOSzF4UQ?oc=5",
+      "title": "Alabama launches probe into OpenAI after Hugging Face breach",
+      "summary": "",
+      "publishedAt": "2026-08-25T00:47:00.000Z",
+      "publisher": "Reuters",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "8d8d8d1dadf5f1546fe98fc13a0c76b28b557cde",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMlJMVFN0ZmZTc3A2ZUMybzdGZDdMN0dveXpYbXIyU25qLVRWdU1NSF9UV1NoM19jUmZPUjBoVE1wbTEwV2NYaEpydFNOYUxia0ZCZXJqOEVydmpuQ1E5a09vaWVIczM2YTlxMW01WHVmR2lfX3RULXBqZjR5QjRaRG5LSlVVUG9weWM0Rjg1c1ltQmRVY2YzN1ItUDh1bHVQ?oc=5",
+      "title": "Alabama launches investigation into OpenAI’s hack of Hugging Face",
+      "summary": "",
+      "publishedAt": "2026-08-24T19:58:17.000Z",
+      "publisher": "TechCrunch",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "00063147a3d539c65904d38c70dbfb67f3492b02",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUjE5VURUUWpjenJuVXNyV2ZYMU9aVEpqSkFxNEdud3FIMFgxNS01TG1JNG9kbTBNdUtLUGk4dWdzalhsOUJRTEJoQzdWWmdnU2JLdFZ2bkhVcnoyZ2xYSDlkYmR1NlY1MnJ2ZTJSZWlCNWxrbTZRU2FYUG9uckM2MER5aUlxbnl5dnBOLWpR0gGTAUFVX3lxTE5EcWRXNm5UZGdzc2RQWmRhQnZyYWJMZGpSMUREb2J4MjNzVWNIcXBmQWVpQU5Fa3dsOXpFbEVITWRtSlhmVldqZmxZSE05dGN0OTNwOUlYQURadU5rLV9pVEJ5V0RWMGhucUpfUnlpSmtIZWhDdVd0aUtLTGtJNjFMWTljXzZqMDk5Zml5VGk0Q2NvVQ?oc=5",
+      "title": "Meta is the latest tech giant to land in her courtroom. Meet Judge Yvonne Gonzalez Rogers",
+      "summary": "",
+      "publishedAt": "2026-08-22T12:00:01.000Z",
+      "publisher": "CNBC",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Corporate move or major external event"
+      }
+    },
     {
       "id": "1d9c68ba527156f52f37a720d6efea99217de645",
       "company": "Google",
@@ -124,60 +181,22 @@
       }
     },
     {
-      "id": "c4dac00ed50540239e8d97f504f914e21126ff1a",
-      "company": "Meta",
+      "id": "a4e8d5d221f6cf745e4fc28b3fa8e2e6d0fc99c4",
+      "company": "Anthropic",
       "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWEF4WlNJc2c1RjE1QVBCMDVobUhWSXotRWswaWtpQnVTem02RUF4Ykw3QTJzWnI0NmlCQmVkY1NDNUxJdVhfcGEtbEpPd3VaSkZsQUdGTjh1RnNNaGFWNTZEdi1jdmsxRFR5cGp3WDdKT1lRbmgtOUZuMm9VcDRDcE1TS2VKLWxlRVFvM2J1c2hscnBsaXRNcmd6cHZlQmRoNnBCTV80WTZDYW1qZG8yVEVZUXhUUXI0T0NJaS1VQ1ZlSi1pSWRYQUp3?oc=5",
-      "title": "Mark Zuckerberg encouraged growth over child safety, ex-Meta executive testifies at trial",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNa3ZQWHh3TzAxM0Y4QWRYUjlwWUp4aHEzcXRDbEQ5dXo4V2RoX1Vud3E0SzFQeVM2V1o0SHJyeUx3bmVNeDNrTWg3N244cG1wSno4OUIzWXR4NFZOZzVHMWVLMHVIa3hVRVFqN2FkNXFyV3VWb0dDenhiZGZNblRUWHJtNy1sN1p3czc0U3lHTVFqMEVEZURENTFGbGFrdEVUTHNhY1NlckJQUFNZTzJnR3lhWTVfX1Vrbkl5X3hR?oc=5",
+      "title": "AI Security Startup Working With Anthropic and Google Raises $140 Million",
       "summary": "",
-      "publishedAt": "2026-08-19T21:58:39.000Z",
-      "publisher": "Reuters",
+      "publishedAt": "2026-08-25T13:00:00.000Z",
+      "publisher": "Bloomberg.com",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "1e4e7d05362fcf57253874046640ee132d4420c9",
-      "company": "Google",
-      "sourceKind": "external",
-      "sourceId": "external-google-major",
-      "sourceLabel": "Major External News - Google",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQnUyd2dFNllXRzE1WFpJX0wxQTN6U3ZldjZ0MVN3RW9tN1RST3pOQjdNdW45eEFHUkFTU2FNVEd1MkswME1rQWxZcXItOExxcFVFb3hjVGp1ZEVxcUlGQ2QwcUp1ck5YSGxwaGN6VFUtczBRNWJsWENpaWhoWkZJeTB5NndWaXFGQWpSc3Rxb3haZGhsZ1R3OWdSOTh3ZE1vTVVRRQ?oc=5",
-      "title": "Marvell Technology (MRVL) Expands Google AI Partnership: What Investors Need to Know",
-      "summary": "",
-      "publishedAt": "2026-08-19T21:15:07.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "b79e0fffd02cd69c376789fd2cd4cde3c6ce2d0b",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE54UnNTaE5RWVB4VHo2V05NdTZSZExNaUo5SGNOMFlMZFZhajVBRTZQSzF2aVh0RU9hMTJKcHZ3OVpBeU11UmsxMXkzOGxrTFAzSURhdmg5WEJ1ZmwxNWRWUkR5SdIBaEFVX3lxTE5qWndoSTJvOXBDQXRLVl9mWUNoSTN4Mkw1dEdzNXdnUUdzSS14cUZfMkNBVzZrZUpJaFVaZzN3cVl5czd5Nkx3NXJoc2ZmMHdHLTUwS1hYSzZNQ3ZtdjYzaDZiLW9HUUpV?oc=5",
-      "title": "Credit card issuer Synchrony announces partnership with OpenAI",
-      "summary": "",
-      "publishedAt": "2026-08-17T15:03:08.000Z",
-      "publisher": "CNBC",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
+        "score": 5,
+        "reason": "Safety, security, or policy update"
       }
     },
     {
@@ -197,25 +216,6 @@
         "bucket": "critical",
         "score": 5,
         "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "0b9ced60cd89a283a5c28e75c6bf27521776dc7c",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQeVNPSktJWTh2R05IWG9tNkVJbnNLOHFNNk5GVlhLZVRUN0JhNnpDc2ZLRFoxY1BYdWNRQjVsblVwQ3pkR0RwX1VnajJ5MzRVTXR3OUR4Y0xBWGxRMDhTbktERDdLUHZTSTVoWVN2WVlveV9PMXdXTUtBdk5tY0l5dlNCblcwN0FNT0wtVnhlcktOd05UZS1TTGl0VjZYTk5FWjRWNVhsckRqcG5BN1h2S2xzVnRhTkxWcklxTllkdkw5TFBEclRlMGMtR19jWTR5ekI3YnRQSGw1Vmx4?oc=5",
-      "title": "OpenAI says it paused AI training for two weeks and announces new security protocols following Hugging Face hack",
-      "summary": "",
-      "publishedAt": "2026-08-18T18:33:00.000Z",
-      "publisher": "Fortune",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Flagship model or product launch"
       }
     },
     {
@@ -295,55 +295,17 @@
       }
     },
     {
-      "id": "67f37d861d340b85b022037b65b3e9a60f1c90a5",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-      "title": "Strengthening democratic oversight in national security",
-      "summary": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
-      "publishedAt": "2026-08-18T19:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "65d2c830b4a66c1e91cfd7189215e36c18b2f4c4",
+      "id": "bfc24caaf2f6e7c5f4c6f9a98fe22ec5f6c5a1c8",
       "company": "Meta",
       "sourceKind": "external",
       "sourceId": "external-meta-major",
       "sourceLabel": "Major External News - Meta",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNa1ZIWUR5V09teFBRejJEN25keDZyaXpQVHhVdVVYSDlZRXhJNFNXNXR0bGwxeWd2amY4cXVGbjZ3Y1VRdEdUbDVKVnRKSm43U1RpVks0UGh5dXY2RVAwaGFtYU5ZT2Y1clVQdVVweUpFaUFSXzhnUGk4MW1RaFR2Q19TbFFjT0YzQVJmdFNpQnF3c0RfZy1pODJKYmktT214MkdocFhVVi03OVow?oc=5",
-      "title": "OpenAI, Meta Seek Help to Combat Data Center PR Problem",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPemN6SWZQYzFXeFVOM0tRM3ZvZ0RFUGJ0bzRDN0owNm9tVWVxb3czei1IcVNzSGp6M0NOYmFIeGJYQWpEM1p2STFDak1MYWFZWHJscjRyNkF5ZEJaTHNiU1V2bE9Cc2p2a2tadVV6VjFlRTB0RGdMRGZtOFFreU8yclhBcW9kVEJwVDlRZGhwVHMtQQ?oc=5",
+      "title": "Neighbors of a $1.5 billion Meta data center revolt over 183% property tax hike",
       "summary": "",
-      "publishedAt": "2026-08-20T07:00:00.000Z",
-      "publisher": "Bloomberg",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "16c4bf21edc95057f8788b49cb456b9da5515454",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPV3hibTg3QUN0WTIwcEl0cDdTdzdEaWx6bVg3Mld3Y2lqTFJmUzlza1Zmd2tlVlZDblljSElKbzJzZnVTVF9zaFlUUk1mSnZMRlM2VThRWlZzTXdLb0Y5WS1DamJGOTdRWXR5Qmx4Q01BalJVMTl3Yk45cFA1TExxSlZXN3Yzd1loMm9ocmg0V2tMME55ZUE?oc=5",
-      "title": "Huntsville residents seek answers on impact of Meta data center expansion",
-      "summary": "",
-      "publishedAt": "2026-08-20T02:31:00.000Z",
-      "publisher": "Yahoo",
+      "publishedAt": "2026-08-19T16:30:00.000Z",
+      "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -368,6 +330,25 @@
         "bucket": "important",
         "score": 3,
         "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "9ad99bb5f40a3110bd8575be9a0ebe1e31025100",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/jalapeno-first-results",
+      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+      "summary": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
+      "publishedAt": "2026-08-25T07:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Technical or research update"
       }
     },
     {
@@ -406,6 +387,63 @@
         "bucket": "important",
         "score": 3,
         "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "da55f7d7bd9decaab106ee015dff29c37cee5a81",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+      "title": "Disrupting a new covert influence campaign from Russia",
+      "summary": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.",
+      "publishedAt": "2026-08-25T00:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "48bd84efddddc8cc2f5783b557d64985de53b86a",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/winning-entries-gemma-4-good-challenge",
+      "title": "How developers build AI for good with Gemma 4",
+      "summary": "A look at the winning entries from the Gemma 4 Good Challenge.",
+      "publishedAt": "2026-08-24T16:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "df015003760c1205d1ecb2a52df5318737a517cb",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/gpt-5-6-in-kiro",
+      "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+      "summary": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
+      "publishedAt": "2026-08-24T12:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
       }
     },
     {
@@ -485,44 +523,6 @@
       }
     },
     {
-      "id": "9ac0643f24279d0897e7405abdd55cab96f6b9c7",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/replit",
-      "title": "Replit expands access to software creation with GPT-5.6 Luna",
-      "summary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
-      "publishedAt": "2026-08-19T07:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "e4563871866d3a635b91bc2e29178f947db9e1c3",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
-      "title": "ChatGPT Ads expands across Europe",
-      "summary": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.",
-      "publishedAt": "2026-08-18T22:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
-    },
-    {
       "id": "56f35c6f0d433ce60ac02f0a7e2a2dde53d9533a",
       "company": "Google",
       "sourceKind": "official",
@@ -544,22 +544,155 @@
   ],
   "newItems": [
     {
-      "id": "b0375cb212d56354b3070d98f379e232bf2aacfc",
-      "company": "Google",
+      "id": "66ffd9b6fcd11e58d5a64c95f3801ec025fcb0e4",
+      "company": "OpenAI",
       "sourceKind": "external",
-      "sourceId": "external-google-major",
-      "sourceLabel": "Major External News - Google",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTE1jaC1ZRHpOd09fRDEycFE3cERiMUQ3d29YRnBBTW1FV3lleWRJSEYwV2M2VDVibDVqbE44ZVhGUDBpYzVlcVBBazM5ZXBaajF2MVJBSWFmMEwzVW4xSXNfeXd6UjVfSnp6M2E2Y3V0VFgyYjcwVVFucXdZaGlNMkNNUkh4NjFhVFBxbUJ6cmdCaDI0SUgyUWRXQQ?oc=5",
-      "title": "Gemini crypto exchange review 2026: Bank-grade security comes at a price",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbEpUUVNqdVEtZ2FQaGFZSnhRQ3BOa21DYlc3aEtLY2g1VFVINnR4MUFtTTlsdGUydkJsZllRQ3pJR3dNWnBjQlRrTjRVSWdVY2ZBdThOcXRlSkM1dTNYMlZlSF9MNnZ2M1dFc1BvNmVKTUZUYi1aR3RSeC1NWTk4d0F6aDNUbnlqZjNrMng2NFh2VVcwZk9UVkgwajFnOU9lOFRZSGJFRVF4MlBPUVhOSzF4UQ?oc=5",
+      "title": "Alabama launches probe into OpenAI after Hugging Face breach",
       "summary": "",
-      "publishedAt": "2026-08-24T13:00:00.000Z",
-      "publisher": "Yahoo Finance",
+      "publishedAt": "2026-08-25T00:47:00.000Z",
+      "publisher": "Reuters",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "8d8d8d1dadf5f1546fe98fc13a0c76b28b557cde",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMlJMVFN0ZmZTc3A2ZUMybzdGZDdMN0dveXpYbXIyU25qLVRWdU1NSF9UV1NoM19jUmZPUjBoVE1wbTEwV2NYaEpydFNOYUxia0ZCZXJqOEVydmpuQ1E5a09vaWVIczM2YTlxMW01WHVmR2lfX3RULXBqZjR5QjRaRG5LSlVVUG9weWM0Rjg1c1ltQmRVY2YzN1ItUDh1bHVQ?oc=5",
+      "title": "Alabama launches investigation into OpenAI’s hack of Hugging Face",
+      "summary": "",
+      "publishedAt": "2026-08-24T19:58:17.000Z",
+      "publisher": "TechCrunch",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "00063147a3d539c65904d38c70dbfb67f3492b02",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUjE5VURUUWpjenJuVXNyV2ZYMU9aVEpqSkFxNEdud3FIMFgxNS01TG1JNG9kbTBNdUtLUGk4dWdzalhsOUJRTEJoQzdWWmdnU2JLdFZ2bkhVcnoyZ2xYSDlkYmR1NlY1MnJ2ZTJSZWlCNWxrbTZRU2FYUG9uckM2MER5aUlxbnl5dnBOLWpR0gGTAUFVX3lxTE5EcWRXNm5UZGdzc2RQWmRhQnZyYWJMZGpSMUREb2J4MjNzVWNIcXBmQWVpQU5Fa3dsOXpFbEVITWRtSlhmVldqZmxZSE05dGN0OTNwOUlYQURadU5rLV9pVEJ5V0RWMGhucUpfUnlpSmtIZWhDdVd0aUtLTGtJNjFMWTljXzZqMDk5Zml5VGk0Q2NvVQ?oc=5",
+      "title": "Meta is the latest tech giant to land in her courtroom. Meet Judge Yvonne Gonzalez Rogers",
+      "summary": "",
+      "publishedAt": "2026-08-22T12:00:01.000Z",
+      "publisher": "CNBC",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "a4e8d5d221f6cf745e4fc28b3fa8e2e6d0fc99c4",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNa3ZQWHh3TzAxM0Y4QWRYUjlwWUp4aHEzcXRDbEQ5dXo4V2RoX1Vud3E0SzFQeVM2V1o0SHJyeUx3bmVNeDNrTWg3N244cG1wSno4OUIzWXR4NFZOZzVHMWVLMHVIa3hVRVFqN2FkNXFyV3VWb0dDenhiZGZNblRUWHJtNy1sN1p3czc0U3lHTVFqMEVEZURENTFGbGFrdEVUTHNhY1NlckJQUFNZTzJnR3lhWTVfX1Vrbkl5X3hR?oc=5",
+      "title": "AI Security Startup Working With Anthropic and Google Raises $140 Million",
+      "summary": "",
+      "publishedAt": "2026-08-25T13:00:00.000Z",
+      "publisher": "Bloomberg.com",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
         "score": 5,
         "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "9ad99bb5f40a3110bd8575be9a0ebe1e31025100",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/jalapeno-first-results",
+      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+      "summary": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
+      "publishedAt": "2026-08-25T07:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Technical or research update"
+      }
+    },
+    {
+      "id": "da55f7d7bd9decaab106ee015dff29c37cee5a81",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+      "title": "Disrupting a new covert influence campaign from Russia",
+      "summary": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.",
+      "publishedAt": "2026-08-25T00:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "48bd84efddddc8cc2f5783b557d64985de53b86a",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/winning-entries-gemma-4-good-challenge",
+      "title": "How developers build AI for good with Gemma 4",
+      "summary": "A look at the winning entries from the Gemma 4 Good Challenge.",
+      "publishedAt": "2026-08-24T16:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "df015003760c1205d1ecb2a52df5318737a517cb",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/gpt-5-6-in-kiro",
+      "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+      "summary": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
+      "publishedAt": "2026-08-24T12:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
       }
     }
   ],
