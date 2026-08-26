@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T14:49:51.073Z",
+  "generatedAt": "2026-08-26T14:47:50.648Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -76,15 +76,72 @@
     }
   ],
   "totals": {
-    "fetched": 34,
+    "fetched": 33,
     "deduped": 24,
-    "new": 8,
+    "new": 10,
     "byKind": {
-      "official": 14,
-      "external": 10
+      "official": 15,
+      "external": 9
     }
   },
   "items": [
+    {
+      "id": "85da2e7e9a0d232dc0bf4496b4062cfbce03b351",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNV18zTWcxaWxvX1Nxd1RaRk9oOVZLOHRNQ2pxS2FrYnZoVmdsOFZZeHpsMXJ4YTNVZmdHSy1HTU1mYWFzVEZvelhZLUVWUUxrUkd0WkpfWkgzSTNaVFZqNWNuN3YwQ1ZxM0tJaHlIcS1xU1ZGak9yYmpqOVduNXZLWjNBdTVUc28?oc=5",
+      "title": "Instagram's CEO takes the stand in Meta trial",
+      "summary": "",
+      "publishedAt": "2026-08-26T07:57:07.000Z",
+      "publisher": "Yahoo",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "927483bb50d6492e2f46ce29d8d243e16d5d6ab4",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMDM2dUxiZXc5TWtCTUE4M2NPbkpsRTF2UVl1bnFiTzRlNUhFX2VfZHU5a2pHcW5pUlRXcnRoaWp5UkxkdFNjaWRpV3VoTV9JdzVVdHExWjE5d0NxanQ5SUJpQmROOVNqd0llTnV2RnQ3WG1GZWFFX19XQnZaMzBCLW1pUUd6cDNtVUViMUdBV3lXay0wS3F2MWNwLUs1Wkc1akktV2ViZ2Ywc1U?oc=5",
+      "title": "Watch Meta Agrees to $16.7 Billion Settlement in Social Media Case",
+      "summary": "",
+      "publishedAt": "2026-08-26T00:00:00.000Z",
+      "publisher": "Bloomberg.com",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "e29fe49fddc4e64020afec35f038a55bafc4011b",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbS00WmdpVEpvMFhYdmwxNlZsRzhQS2hfNUFocmJYQU1ZVnZKVC0yWkZ4cWtJR3V4SkVleHZQYjlzc0FvSTZ2SVN0TzNCYy1KTS02XzJhUUhJTWhJOHVJTUQwTTkxMTIzVHVQSWg0RDJYOF9xZ3ZtY0U4eHNNV3hKMkJIMndaMjROb1VfdWRWenhubWt2T1hGcV9tVk5NUnA3V2xtaXVWODNyaXJr?oc=5",
+      "title": "Watch Meta and State Attorneys Discuss Possible Mid-Trial Settlement in Landmark Teen Addiction Case",
+      "summary": "",
+      "publishedAt": "2026-08-26T00:00:00.000Z",
+      "publisher": "Bloomberg.com",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
     {
       "id": "66ffd9b6fcd11e58d5a64c95f3801ec025fcb0e4",
       "company": "OpenAI",
@@ -96,6 +153,25 @@
       "title": "Alabama launches probe into OpenAI after Hugging Face breach",
       "summary": "",
       "publishedAt": "2026-08-25T00:47:00.000Z",
+      "publisher": "Reuters",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "1936f844abfbb00956e82a7ebf8aa4f76f5fd46d",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcE9VRU1RcnNURlNNbzNHNE1zVTFqZ1dHVklHaVhhQVZhWjJXVEZYdzczT3Q4ZVhmdFFkOGRSeTdZVjBhaWVsQkdRUUwtQkZqSmE2V0ZheXRTeXBpbjVORWhnZURGTk1UZTBHTHhMMWRic004R0l4QXVKRHNmSmtucF96U1hKSnd4cXFqOG94d0J1ZWx6V2FYRjVxa3VyNlBNRnladmJhT3J6dzFXVjhQZ3pWY1BuZw?oc=5",
+      "title": "WikiHow sues OpenAI for copyright infringement over AI training",
+      "summary": "",
+      "publishedAt": "2026-08-24T22:00:45.000Z",
       "publisher": "Reuters",
       "discoveryMethod": "feed",
       "classification": {
@@ -124,98 +200,22 @@
       }
     },
     {
-      "id": "00063147a3d539c65904d38c70dbfb67f3492b02",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUjE5VURUUWpjenJuVXNyV2ZYMU9aVEpqSkFxNEdud3FIMFgxNS01TG1JNG9kbTBNdUtLUGk4dWdzalhsOUJRTEJoQzdWWmdnU2JLdFZ2bkhVcnoyZ2xYSDlkYmR1NlY1MnJ2ZTJSZWlCNWxrbTZRU2FYUG9uckM2MER5aUlxbnl5dnBOLWpR0gGTAUFVX3lxTE5EcWRXNm5UZGdzc2RQWmRhQnZyYWJMZGpSMUREb2J4MjNzVWNIcXBmQWVpQU5Fa3dsOXpFbEVITWRtSlhmVldqZmxZSE05dGN0OTNwOUlYQURadU5rLV9pVEJ5V0RWMGhucUpfUnlpSmtIZWhDdVd0aUtLTGtJNjFMWTljXzZqMDk5Zml5VGk0Q2NvVQ?oc=5",
-      "title": "Meta is the latest tech giant to land in her courtroom. Meet Judge Yvonne Gonzalez Rogers",
-      "summary": "",
-      "publishedAt": "2026-08-22T12:00:01.000Z",
-      "publisher": "CNBC",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "1d9c68ba527156f52f37a720d6efea99217de645",
-      "company": "Google",
-      "sourceKind": "external",
-      "sourceId": "external-google-major",
-      "sourceLabel": "Major External News - Google",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTDRaem5IYVhYOElFekVzbzAzWFZ5RHpySUU1TjY2MmIwd0Jjb1otLWIzLTg3VTBucWxmRXlqeXloVkdMME1hRE94SUdMZUVYMDY4dGhvRDJqS2NQTnlDSmVld1lSV016OTBoQXdldEs5OUxaQUlNaU9LbDBaMnN1QkJJbFpCUDhCUzNmSWdjR21zSmx0aW9DUzRldHFCRG9P?oc=5",
-      "title": "Marvell Technology (MRVL) Stock Fair Value Edges Higher After Google AI Partnership Expansion",
-      "summary": "",
-      "publishedAt": "2026-08-21T21:10:42.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "6e05a83b94efbff7be65a9460f173c9a29f50845",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTmZZOVpTeE9QNkl5eTlySlRJbHF4VkRuRkJ3bXhrUnJ0V1V3c0l6bjc4UlM4NmdUMG5wTXRTcTNKSUU4LVl2MUhCY2MtZ3UtQlQtRUUybGcwT0lkaGpxMHhWSENMdXJtTEZqejBma2poRGxjOE54UnpybElURHBpRHAwWTdfZ1RHeHIwYk5JZFDSAZYBQVVfeXFMT0ZQMG1zcUEyQmF1Ung1Z2xrc1NnMnQ3TTdDdlN3T2UzN2VjMFFCVkYyUFQ1UXJhdUhnYWFRRmVreWlmbDdEalcwX2gxcXk0TWVHQ3lmZjE3MUdya3FUejBlRUUxUUZIUWhLWXo1QUJBdnVTWW45ZlZKZEE3aEZudDRTazFxYmVtZHhUQXFmWC1nTU9nV3Fn?oc=5",
-      "title": "No more doom scrolling or Instagram Stories? A Meta trial loss could end the social media we know",
-      "summary": "",
-      "publishedAt": "2026-08-21T11:00:01.000Z",
-      "publisher": "CNBC",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "a4e8d5d221f6cf745e4fc28b3fa8e2e6d0fc99c4",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNa3ZQWHh3TzAxM0Y4QWRYUjlwWUp4aHEzcXRDbEQ5dXo4V2RoX1Vud3E0SzFQeVM2V1o0SHJyeUx3bmVNeDNrTWg3N244cG1wSno4OUIzWXR4NFZOZzVHMWVLMHVIa3hVRVFqN2FkNXFyV3VWb0dDenhiZGZNblRUWHJtNy1sN1p3czc0U3lHTVFqMEVEZURENTFGbGFrdEVUTHNhY1NlckJQUFNZTzJnR3lhWTVfX1Vrbkl5X3hR?oc=5",
-      "title": "AI Security Startup Working With Anthropic and Google Raises $140 Million",
-      "summary": "",
-      "publishedAt": "2026-08-25T13:00:00.000Z",
-      "publisher": "Bloomberg.com",
+      "id": "cfc376addf8c822433f0700057e399bca195ee0e",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/introducing-admin-plugin",
+      "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
+      "summary": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.",
+      "publishedAt": "2026-08-25T00:00:00.000Z",
+      "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
         "score": 5,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "b0375cb212d56354b3070d98f379e232bf2aacfc",
-      "company": "Google",
-      "sourceKind": "external",
-      "sourceId": "external-google-major",
-      "sourceLabel": "Major External News - Google",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTE1jaC1ZRHpOd09fRDEycFE3cERiMUQ3d29YRnBBTW1FV3lleWRJSEYwV2M2VDVibDVqbE44ZVhGUDBpYzVlcVBBazM5ZXBaajF2MVJBSWFmMEwzVW4xSXNfeXd6UjVfSnp6M2E2Y3V0VFgyYjcwVVFucXdZaGlNMkNNUkh4NjFhVFBxbUJ6cmdCaDI0SUgyUWRXQQ?oc=5",
-      "title": "Gemini crypto exchange review 2026: Bank-grade security comes at a price",
-      "summary": "",
-      "publishedAt": "2026-08-24T13:00:00.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Safety, security, or policy update"
+        "reason": "Flagship model or product launch"
       }
     },
     {
@@ -238,60 +238,41 @@
       }
     },
     {
-      "id": "ea34a5fc8b53335d4bad83e45f2d37f0ba48c76c",
-      "company": "Anthropic",
+      "id": "e030dd5b4b920e5f4b005017ae60749546b57056",
+      "company": "OpenAI",
       "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPN2cwUVdmLVBEM09BbWpsWl8tVkZIZmhKUVN3RHJHbHE1V3lWN2NZOFQwbXMyV1BvalkxWUZ1a2VSOWVJdFhmVnYweUxXa2dZNllPNWRMTDhBaVI2UUVWWkdmemloN2FnYVFoemprdkxQVWtUeklfcVl6RWtyS3RTaFF0ak1tVnF5OGNjeXlXMHFZS3RtTU42T21fd3lZc0EtZUFqTXdNWEY?oc=5",
-      "title": "Anthropic Puts Its Most Restricted Model Claude Mythos 5 Into Claude Security",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSHJSZ1U2QkNXR2FPTU9VSHRQczRCbkg3ZFI0SE1zRVBtajVLejRwTTJNeG1hNnVfOUl0Ykk5ZmFYNlNWRXN6N0RzUkViZmxsVlIxLWpReS1Kb2hTaUlCb2hUdm1ybzJqQ1AxVmFhVjJmMU83Y1ptUHRiaUlPYlJjbGtqZUFUSGZ4LTRTYVcwOWl0WVgwcW5mUWtmMHlrb0lUZzFF?oc=5",
+      "title": "OpenAI’s new revenue chief has a simple mission: make the money match the hype",
       "summary": "",
-      "publishedAt": "2026-08-22T06:14:39.000Z",
-      "publisher": "Startup Fortune",
+      "publishedAt": "2026-08-26T10:35:00.000Z",
+      "publisher": "Fortune",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "b0375cb212d56354b3070d98f379e232bf2aacfc",
+      "company": "Google",
+      "sourceKind": "external",
+      "sourceId": "external-google-major",
+      "sourceLabel": "Major External News - Google",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTE1jaC1ZRHpOd09fRDEycFE3cERiMUQ3d29YRnBBTW1FV3lleWRJSEYwV2M2VDVibDVqbE44ZVhGUDBpYzVlcVBBazM5ZXBaajF2MVJBSWFmMEwzVW4xSXNfeXd6UjVfSnp6M2E2Y3V0VFgyYjcwVVFucXdZaGlNMkNNUkh4NjFhVFBxbUJ6cmdCaDI0SUgyUWRXQQ?oc=5",
+      "title": "Gemini crypto exchange review 2026: Bank-grade security comes at a price",
+      "summary": "",
+      "publishedAt": "2026-08-24T13:00:00.000Z",
+      "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
         "score": 4,
         "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "027379c08484bed24af91415c1d7d96dc8273daa",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/introducing-ai-futures",
-      "title": "Introducing AI Futures",
-      "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
-      "publishedAt": "2026-08-20T07:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "cb030de2dd9418a323244c2095c99bb8a7fc97ca",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/stampli",
-      "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
-      "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
-      "publishedAt": "2026-08-20T00:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Flagship model or product launch"
       }
     },
     {
@@ -306,25 +287,6 @@
       "summary": "",
       "publishedAt": "2026-08-19T16:30:00.000Z",
       "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "e0060c0494b4abcec8f031bae05dd8dcfb68e6bb",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUmVnbUJFMHBjbC1tYUlxMjJhMVV0X2FXWkRieTg1d3Q0UktOUFoxSjc0bkZaVGZfUU1vOFk0alM1UUJxNmJaZUVGNEdTSUwyLWRGOURFNEliTXhwUEVEWXo0R1NQcWFyR0FPV3RZTF9JMlJYNXVBenV0ZElzVXdTMEtsZjFUdnVWcHliZzJaUFJtbjBPR1NFRA?oc=5",
-      "title": "OpenAI institutes new safeguards after Hugging Face breach",
-      "summary": "",
-      "publishedAt": "2026-08-18T18:00:00.000Z",
-      "publisher": "TechCrunch",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -352,25 +314,6 @@
       }
     },
     {
-      "id": "ef913e9fdabc01a874a34c945cc71d8f36dedf16",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
-      "title": "Offering Zero Data Retention for frontier models",
-      "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
-      "publishedAt": "2026-08-19T19:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
       "id": "3a0b4572422c1a8cbc95ae7fb7158fc8dc49f9d0",
       "company": "Anthropic",
       "sourceKind": "official",
@@ -387,6 +330,82 @@
         "bucket": "important",
         "score": 3,
         "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "d34e82eae2f299fc3396509dda763281f9e18782",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/loveholidays",
+      "title": "How loveholidays is making everyone a builder with Codex",
+      "summary": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.",
+      "publishedAt": "2026-08-26T00:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "c8391a323659790e679dd628fc380cff5339a111",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/enable-intelligent-dictation-macos",
+      "title": "Here’s how to use intelligent dictation in Gemini for macOS.",
+      "summary": "Enable Google’s new intelligent dictation feature in the Gemini app for macOS and speak naturally into any window on your desktop.",
+      "publishedAt": "2026-08-25T16:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "829e237a888dfb1db7a5721c66a265431ed0f320",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+      "title": "The full stack behind abundant intelligence",
+      "summary": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
+      "publishedAt": "2026-08-25T07:05:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "0c54f135033108d068ad84c31c80ba0069c8ec94",
+      "company": "Anthropic",
+      "sourceKind": "official",
+      "sourceId": "anthropic-news",
+      "sourceLabel": "Anthropic News",
+      "homepageUrl": "https://www.anthropic.com/news",
+      "url": "https://www.anthropic.com/news/wellbeing-research-grants",
+      "title": "Funding better evaluations of AI’s impact on wellbeing",
+      "summary": "",
+      "publishedAt": "2026-08-25T00:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "anchor",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
       }
     },
     {
@@ -428,25 +447,6 @@
       }
     },
     {
-      "id": "df015003760c1205d1ecb2a52df5318737a517cb",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/gpt-5-6-in-kiro",
-      "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
-      "summary": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
-      "publishedAt": "2026-08-24T12:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
       "id": "97cd97d27d220f15f9bc8a69f1f4b5eea602a9e8",
       "company": "Anthropic",
       "sourceKind": "official",
@@ -463,6 +463,44 @@
         "bucket": "digest",
         "score": 2,
         "reason": "Technical or research update"
+      }
+    },
+    {
+      "id": "9514940f045b6decb4ea4221d63af5d2fb2d6a38",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations",
+      "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+      "summary": "",
+      "publishedAt": null,
+      "publisher": "",
+      "discoveryMethod": "anchor",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Technical or research update"
+      }
+    },
+    {
+      "id": "df015003760c1205d1ecb2a52df5318737a517cb",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/gpt-5-6-in-kiro",
+      "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+      "summary": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
+      "publishedAt": "2026-08-24T12:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 1,
+        "reason": "Routine official update"
       }
     },
     {
@@ -502,58 +540,77 @@
         "score": 1,
         "reason": "Routine official update"
       }
-    },
-    {
-      "id": "d0e481d572cb2e9312aacd142832b3d689d40ed6",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-waymo",
-      "title": "Waymo is bringing Gemini into its custom Ojai vehicles.",
-      "summary": "Waymo is bringing Gemini to its custom-built Ojai vehicles to create a more helpful and personalized ride.",
-      "publishedAt": "2026-08-19T17:30:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "56f35c6f0d433ce60ac02f0a7e2a2dde53d9533a",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/four-new-interactive-bts-experiences",
-      "title": "Try 4 new interactive BTS experiences inside the Gemini app",
-      "summary": "Google Gemini and BTS are collaborating on a series of interactive features inside the Gemini app.",
-      "publishedAt": "2026-08-18T17:30:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
     }
   ],
   "newItems": [
     {
-      "id": "66ffd9b6fcd11e58d5a64c95f3801ec025fcb0e4",
+      "id": "85da2e7e9a0d232dc0bf4496b4062cfbce03b351",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNV18zTWcxaWxvX1Nxd1RaRk9oOVZLOHRNQ2pxS2FrYnZoVmdsOFZZeHpsMXJ4YTNVZmdHSy1HTU1mYWFzVEZvelhZLUVWUUxrUkd0WkpfWkgzSTNaVFZqNWNuN3YwQ1ZxM0tJaHlIcS1xU1ZGak9yYmpqOVduNXZLWjNBdTVUc28?oc=5",
+      "title": "Instagram's CEO takes the stand in Meta trial",
+      "summary": "",
+      "publishedAt": "2026-08-26T07:57:07.000Z",
+      "publisher": "Yahoo",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "927483bb50d6492e2f46ce29d8d243e16d5d6ab4",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMDM2dUxiZXc5TWtCTUE4M2NPbkpsRTF2UVl1bnFiTzRlNUhFX2VfZHU5a2pHcW5pUlRXcnRoaWp5UkxkdFNjaWRpV3VoTV9JdzVVdHExWjE5d0NxanQ5SUJpQmROOVNqd0llTnV2RnQ3WG1GZWFFX19XQnZaMzBCLW1pUUd6cDNtVUViMUdBV3lXay0wS3F2MWNwLUs1Wkc1akktV2ViZ2Ywc1U?oc=5",
+      "title": "Watch Meta Agrees to $16.7 Billion Settlement in Social Media Case",
+      "summary": "",
+      "publishedAt": "2026-08-26T00:00:00.000Z",
+      "publisher": "Bloomberg.com",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "e29fe49fddc4e64020afec35f038a55bafc4011b",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbS00WmdpVEpvMFhYdmwxNlZsRzhQS2hfNUFocmJYQU1ZVnZKVC0yWkZ4cWtJR3V4SkVleHZQYjlzc0FvSTZ2SVN0TzNCYy1KTS02XzJhUUhJTWhJOHVJTUQwTTkxMTIzVHVQSWg0RDJYOF9xZ3ZtY0U4eHNNV3hKMkJIMndaMjROb1VfdWRWenhubWt2T1hGcV9tVk5NUnA3V2xtaXVWODNyaXJr?oc=5",
+      "title": "Watch Meta and State Attorneys Discuss Possible Mid-Trial Settlement in Landmark Teen Addiction Case",
+      "summary": "",
+      "publishedAt": "2026-08-26T00:00:00.000Z",
+      "publisher": "Bloomberg.com",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "1936f844abfbb00956e82a7ebf8aa4f76f5fd46d",
       "company": "OpenAI",
       "sourceKind": "external",
       "sourceId": "external-openai-major",
       "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbEpUUVNqdVEtZ2FQaGFZSnhRQ3BOa21DYlc3aEtLY2g1VFVINnR4MUFtTTlsdGUydkJsZllRQ3pJR3dNWnBjQlRrTjRVSWdVY2ZBdThOcXRlSkM1dTNYMlZlSF9MNnZ2M1dFc1BvNmVKTUZUYi1aR3RSeC1NWTk4d0F6aDNUbnlqZjNrMng2NFh2VVcwZk9UVkgwajFnOU9lOFRZSGJFRVF4MlBPUVhOSzF4UQ?oc=5",
-      "title": "Alabama launches probe into OpenAI after Hugging Face breach",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcE9VRU1RcnNURlNNbzNHNE1zVTFqZ1dHVklHaVhhQVZhWjJXVEZYdzczT3Q4ZVhmdFFkOGRSeTdZVjBhaWVsQkdRUUwtQkZqSmE2V0ZheXRTeXBpbjVORWhnZURGTk1UZTBHTHhMMWRic004R0l4QXVKRHNmSmtucF96U1hKSnd4cXFqOG94d0J1ZWx6V2FYRjVxa3VyNlBNRnladmJhT3J6dzFXVjhQZ3pWY1BuZw?oc=5",
+      "title": "WikiHow sues OpenAI for copyright infringement over AI training",
       "summary": "",
-      "publishedAt": "2026-08-25T00:47:00.000Z",
+      "publishedAt": "2026-08-24T22:00:45.000Z",
       "publisher": "Reuters",
       "discoveryMethod": "feed",
       "classification": {
@@ -563,92 +620,54 @@
       }
     },
     {
-      "id": "8d8d8d1dadf5f1546fe98fc13a0c76b28b557cde",
+      "id": "cfc376addf8c822433f0700057e399bca195ee0e",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/introducing-admin-plugin",
+      "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
+      "summary": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.",
+      "publishedAt": "2026-08-25T00:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "e030dd5b4b920e5f4b005017ae60749546b57056",
       "company": "OpenAI",
       "sourceKind": "external",
       "sourceId": "external-openai-major",
       "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMlJMVFN0ZmZTc3A2ZUMybzdGZDdMN0dveXpYbXIyU25qLVRWdU1NSF9UV1NoM19jUmZPUjBoVE1wbTEwV2NYaEpydFNOYUxia0ZCZXJqOEVydmpuQ1E5a09vaWVIczM2YTlxMW01WHVmR2lfX3RULXBqZjR5QjRaRG5LSlVVUG9weWM0Rjg1c1ltQmRVY2YzN1ItUDh1bHVQ?oc=5",
-      "title": "Alabama launches investigation into OpenAI’s hack of Hugging Face",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSHJSZ1U2QkNXR2FPTU9VSHRQczRCbkg3ZFI0SE1zRVBtajVLejRwTTJNeG1hNnVfOUl0Ykk5ZmFYNlNWRXN6N0RzUkViZmxsVlIxLWpReS1Kb2hTaUlCb2hUdm1ybzJqQ1AxVmFhVjJmMU83Y1ptUHRiaUlPYlJjbGtqZUFUSGZ4LTRTYVcwOWl0WVgwcW5mUWtmMHlrb0lUZzFF?oc=5",
+      "title": "OpenAI’s new revenue chief has a simple mission: make the money match the hype",
       "summary": "",
-      "publishedAt": "2026-08-24T19:58:17.000Z",
-      "publisher": "TechCrunch",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "00063147a3d539c65904d38c70dbfb67f3492b02",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUjE5VURUUWpjenJuVXNyV2ZYMU9aVEpqSkFxNEdud3FIMFgxNS01TG1JNG9kbTBNdUtLUGk4dWdzalhsOUJRTEJoQzdWWmdnU2JLdFZ2bkhVcnoyZ2xYSDlkYmR1NlY1MnJ2ZTJSZWlCNWxrbTZRU2FYUG9uckM2MER5aUlxbnl5dnBOLWpR0gGTAUFVX3lxTE5EcWRXNm5UZGdzc2RQWmRhQnZyYWJMZGpSMUREb2J4MjNzVWNIcXBmQWVpQU5Fa3dsOXpFbEVITWRtSlhmVldqZmxZSE05dGN0OTNwOUlYQURadU5rLV9pVEJ5V0RWMGhucUpfUnlpSmtIZWhDdVd0aUtLTGtJNjFMWTljXzZqMDk5Zml5VGk0Q2NvVQ?oc=5",
-      "title": "Meta is the latest tech giant to land in her courtroom. Meet Judge Yvonne Gonzalez Rogers",
-      "summary": "",
-      "publishedAt": "2026-08-22T12:00:01.000Z",
-      "publisher": "CNBC",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "a4e8d5d221f6cf745e4fc28b3fa8e2e6d0fc99c4",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNa3ZQWHh3TzAxM0Y4QWRYUjlwWUp4aHEzcXRDbEQ5dXo4V2RoX1Vud3E0SzFQeVM2V1o0SHJyeUx3bmVNeDNrTWg3N244cG1wSno4OUIzWXR4NFZOZzVHMWVLMHVIa3hVRVFqN2FkNXFyV3VWb0dDenhiZGZNblRUWHJtNy1sN1p3czc0U3lHTVFqMEVEZURENTFGbGFrdEVUTHNhY1NlckJQUFNZTzJnR3lhWTVfX1Vrbkl5X3hR?oc=5",
-      "title": "AI Security Startup Working With Anthropic and Google Raises $140 Million",
-      "summary": "",
-      "publishedAt": "2026-08-25T13:00:00.000Z",
-      "publisher": "Bloomberg.com",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "9ad99bb5f40a3110bd8575be9a0ebe1e31025100",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/jalapeno-first-results",
-      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
-      "summary": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
-      "publishedAt": "2026-08-25T07:00:00.000Z",
-      "publisher": "",
+      "publishedAt": "2026-08-26T10:35:00.000Z",
+      "publisher": "Fortune",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
-        "score": 3,
-        "reason": "Technical or research update"
+        "score": 4,
+        "reason": "Trusted external coverage"
       }
     },
     {
-      "id": "da55f7d7bd9decaab106ee015dff29c37cee5a81",
+      "id": "d34e82eae2f299fc3396509dda763281f9e18782",
       "company": "OpenAI",
       "sourceKind": "official",
       "sourceId": "openai-newsroom",
       "sourceLabel": "OpenAI Newsroom",
       "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
-      "title": "Disrupting a new covert influence campaign from Russia",
-      "summary": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.",
-      "publishedAt": "2026-08-25T00:00:00.000Z",
+      "url": "https://openai.com/index/loveholidays",
+      "title": "How loveholidays is making everyone a builder with Codex",
+      "summary": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.",
+      "publishedAt": "2026-08-26T00:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -658,16 +677,16 @@
       }
     },
     {
-      "id": "48bd84efddddc8cc2f5783b557d64985de53b86a",
+      "id": "c8391a323659790e679dd628fc380cff5339a111",
       "company": "Google",
       "sourceKind": "official",
       "sourceId": "google-ai",
       "sourceLabel": "Google AI",
       "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/winning-entries-gemma-4-good-challenge",
-      "title": "How developers build AI for good with Gemma 4",
-      "summary": "A look at the winning entries from the Gemma 4 Good Challenge.",
-      "publishedAt": "2026-08-24T16:00:00.000Z",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/enable-intelligent-dictation-macos",
+      "title": "Here’s how to use intelligent dictation in Gemini for macOS.",
+      "summary": "Enable Google’s new intelligent dictation feature in the Gemini app for macOS and speak naturally into any window on your desktop.",
+      "publishedAt": "2026-08-25T16:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -677,18 +696,37 @@
       }
     },
     {
-      "id": "df015003760c1205d1ecb2a52df5318737a517cb",
+      "id": "829e237a888dfb1db7a5721c66a265431ed0f320",
       "company": "OpenAI",
       "sourceKind": "official",
       "sourceId": "openai-newsroom",
       "sourceLabel": "OpenAI Newsroom",
       "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/gpt-5-6-in-kiro",
-      "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
-      "summary": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
-      "publishedAt": "2026-08-24T12:00:00.000Z",
+      "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+      "title": "The full stack behind abundant intelligence",
+      "summary": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
+      "publishedAt": "2026-08-25T07:05:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "0c54f135033108d068ad84c31c80ba0069c8ec94",
+      "company": "Anthropic",
+      "sourceKind": "official",
+      "sourceId": "anthropic-news",
+      "sourceLabel": "Anthropic News",
+      "homepageUrl": "https://www.anthropic.com/news",
+      "url": "https://www.anthropic.com/news/wellbeing-research-grants",
+      "title": "Funding better evaluations of AI’s impact on wellbeing",
+      "summary": "",
+      "publishedAt": "2026-08-25T00:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "anchor",
       "classification": {
         "bucket": "digest",
         "score": 2,
