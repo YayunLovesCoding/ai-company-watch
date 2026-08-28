@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T23:39:59.872Z",
+  "generatedAt": "2026-08-28T23:28:16.585Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -78,7 +78,7 @@
   "totals": {
     "fetched": 41,
     "deduped": 24,
-    "new": 21,
+    "new": 9,
     "byKind": {
       "official": 10,
       "external": 14
@@ -86,16 +86,54 @@
   },
   "items": [
     {
-      "id": "b61ae05a70e4806b374a89e5376957a1f253ca09",
-      "company": "OpenAI",
+      "id": "768e0ca02edd6c40c2261ed2a0a280724fd95fc4",
+      "company": "Anthropic",
       "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWUEwc0tBU0JsSzFIZzZUelhmdVhPZVJCNEpacGt2SnVPa2MyMnM0WWFtOVVqRzZpVkEydXdvZ3NXdlQyQTNnVnVkcmp2NDR3YnhCTS1zRjh6Y2ZLZ3FFQ2dHXzVLUUlPU2k0c0RycnBab3hoVEtEbE44NlJSWDRBZWlxZ0k2TXVuaTdxWGlYTU0?oc=5",
-      "title": "Georgia Power official discusses local OpenAI partnership",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQejY3VGVOMFdYa3ZmY1BGeS1IYWNXZjdyVlcwLWVYTW1Zb1B3UkhpdnEtdGdjQUZUUEpFbUN4LW8tVTBCMGh5OExPU01xRVdkM1NaYmNCU1NhVmJqazB5NG5ZQUlsUFhBenZUN29GRENVR0JGVmJycXVZbFlDSzhrY0Y2SXVpUkFfV2VIdGdUTHBOVkw4N1ZVNVRR?oc=5",
+      "title": "Jim Cramer Says Salesforce’s (CRM) Anthropic Partnership Silences AI Disruption Fears",
       "summary": "",
-      "publishedAt": "2026-08-27T22:22:47.000Z",
+      "publishedAt": "2026-08-28T20:15:35.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "ce66a01e989eecba3014a7496bbee7d241899f2b",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQblFHajhwU1JpNFRXUU0tZi1QUUJKeUNpM0ZKbDY0M3JTMGQtaHV1NWdwZmFoTS1jZjc2M0RJOEwxanJVb3FDSE5qZ3oxVE8xanRid1lsOEthZXZrQmxaZXZzRk9qMGI1UGN0MUp3bTRDRG84QUlsTjhLV2VDcVQ1bFNvenpvU09k?oc=5",
+      "title": "Jackson Hole, Anthropic’s Court Win and PayPal Deal Collapse",
+      "summary": "",
+      "publishedAt": "2026-08-28T17:52:43.000Z",
+      "publisher": "Bloomberg.com",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "34160053a77c50ef360e37c923751262bd2d4d93",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPS1VyeW9GODBPWkNOdFlTY3V4dS1QS2JhQjZ1THl3V3M0bGZLZU15MzNobEhDckx3Sk5xSnRqZlo1Y0hLUHFCUWVFcl9WWlV0ODk3cWdrVXoxSEE2TExKamRXLVJncmxoUkVCRFl2cmdWSm1DMHJaaUh3MlF2MGQ4VjV1amdWZ2hWaXhaZ1doX2Z2amFtSk1lNG1R?oc=5",
+      "title": "Judge Rules that Pete Hegseth's Pentagon Illegally Retaliated Against Anthropic",
+      "summary": "",
+      "publishedAt": "2026-08-28T15:04:57.000Z",
       "publisher": "Yahoo",
       "discoveryMethod": "feed",
       "classification": {
@@ -105,16 +143,35 @@
       }
     },
     {
-      "id": "8c2dae4371e81643848c0c5c90675ac0e3706100",
+      "id": "30e43b9ac10c670168b2363572817a0b0d6af7ef",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV0dBUjFJMmtBdkx4UGtGc1dSUjhFcHFZQnowRmNNVXpBbVBFYTQ1WGtuQ2tkYzh5b2Jib3BrRnVqNWtfemdpNk5KUUM3b1VMYlQ5UlBrWThMVGt4b0ZTXzVqMm9PX0pVSEFZWkVVN0NaNXg3RTg0VF94R2daV2QwY042cDNHNTZabTJYUkNyNlFkb2VBUkgzYXB1Y1FLeGhrTXZ3NHQ1dEZPZGM?oc=5",
+      "title": "SaaSpocalypse Is ‘Nonsense’ Says Salesforce CEO Amid Earnings Beat and Anthropic Partnership",
+      "summary": "",
+      "publishedAt": "2026-08-28T04:01:00.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "b61ae05a70e4806b374a89e5376957a1f253ca09",
       "company": "Microsoft",
       "sourceKind": "external",
       "sourceId": "external-microsoft-major",
       "sourceLabel": "Major External News - Microsoft",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcFFYLW5UQlVtd0k4T1FoNHZUdzkxRXB2SDkxUzZoaGhzeGtpYjB1TXhVaXNsSXBnV2ZDTW1QX0FjdGQ3OTN3anExVmJkRnF2bzFDck1NUEVBanFQdTRpQ1pkengyR3c2M0F6TUhwaU9RZ2VqOUdBR0oxNjJSYVJRSkRLR0FBQ3FWY05vZ2I5bDlyMFlEVEVJ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWUEwc0tBU0JsSzFIZzZUelhmdVhPZVJCNEpacGt2SnVPa2MyMnM0WWFtOVVqRzZpVkEydXdvZ3NXdlQyQTNnVnVkcmp2NDR3YnhCTS1zRjh6Y2ZLZ3FFQ2dHXzVLUUlPU2k0c0RycnBab3hoVEtEbE44NlJSWDRBZWlxZ0k2TXVuaTdxWGlYTU0?oc=5",
       "title": "Georgia Power official discusses local OpenAI partnership",
       "summary": "",
-      "publishedAt": "2026-08-27T20:00:39.000Z",
+      "publishedAt": "2026-08-27T22:22:47.000Z",
       "publisher": "Yahoo",
       "discoveryMethod": "feed",
       "classification": {
@@ -200,40 +257,21 @@
       }
     },
     {
-      "id": "0195b7779eff71dc4c9bafcca4208a4adc1f17e9",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZ2xmQXAtT2Y4Q1pITXYydG5obFRURzRwZlNaNkxmdVVXN1V5R1J2TjNSdVc4R2RfNmVjeFVaSnhMWFhTY19kd09EbFNBYWVjWjMwQTIxbGhZRzBUUWN6ZklIblotV3VHWERFVnRROUxIVGdKa1dwMkY0M19GTWxjUDFJWGNSWW4tNXMwRTRRMTlCenc?oc=5",
-      "title": "CRM Stock Soars 13% After-Hours — Salesforce Crushes Earnings, Raises Guidance And Expands Partnership With Anthropic’s Claude",
-      "summary": "",
-      "publishedAt": "2026-08-26T22:03:23.000Z",
-      "publisher": "Yahoo Finance",
+      "id": "2d626c5a542dff6f57ce58b7c8790cc211cd971c",
+      "company": "Microsoft",
+      "sourceKind": "official",
+      "sourceId": "microsoft-ai",
+      "sourceLabel": "Microsoft AI",
+      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
+      "url": "https://news.microsoft.com/source/asia/2026/08/27/deped-and-microsoft-partner-to-advance-philippine-education-in-the-ai-era-equip-1m-teachers-with-microsoft-copilot",
+      "title": "Microsoft and DepEd partner to bring AI tools to 1 million teachers across the Philippines",
+      "summary": "Microsoft and DepEd partner to bring AI tools to 1 million teachers across the Philippines",
+      "publishedAt": "2026-08-27T17:33:41.000Z",
+      "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "0446326ffda72031723f5616ad37f9622fd39bff",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeDU0UHo4UERDMHZlcjVyV1I4S0dWWEQ1SGhYOXFURmJmZUJiZHpud1pGVXRKQmx1ZXl6Sy01NjBkTlkyQXFRWEJfeTVkYXVHODNvZ0p3YTVudnVSNEN4WTJQLWpad0JJa09WZ1Roay1JZ3JUZDlNdFJNRGNZYzMyNHd1TmRzTVJQ0gGOAUFVX3lxTE5oWUF2YXIzVjUzOE5zUzVNT05nemItSm9rdm1OMmRvQWFPc05NRWVteG5mNnM3dmtzSHZOYlowYTNFTnNFT0M0UmY3ZTRhN1FGTUV1U1NKcnZhcUp0LUpVU2dMa1ZCazZvSUFWNTNBNWhzNlUtekUwR1J1a2UtZ25wT3JaVzUzZGFWV1BpX1E?oc=5",
-      "title": "Salesforce, Anthropic expand partnership as Benioff responds to ‘SaaSpocalypse’ concerns",
-      "summary": "",
-      "publishedAt": "2026-08-26T20:05:14.000Z",
-      "publisher": "CNBC",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
+        "score": 6,
         "reason": "Corporate move or major external event"
       }
     },
@@ -252,46 +290,46 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 6,
+        "score": 5,
         "reason": "Flagship model or product launch"
       }
     },
     {
-      "id": "66ffd9b6fcd11e58d5a64c95f3801ec025fcb0e4",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbEpUUVNqdVEtZ2FQaGFZSnhRQ3BOa21DYlc3aEtLY2g1VFVINnR4MUFtTTlsdGUydkJsZllRQ3pJR3dNWnBjQlRrTjRVSWdVY2ZBdThOcXRlSkM1dTNYMlZlSF9MNnZ2M1dFc1BvNmVKTUZUYi1aR3RSeC1NWTk4d0F6aDNUbnlqZjNrMng2NFh2VVcwZk9UVkgwajFnOU9lOFRZSGJFRVF4MlBPUVhOSzF4UQ?oc=5",
-      "title": "Alabama launches probe into OpenAI after Hugging Face breach",
-      "summary": "",
-      "publishedAt": "2026-08-25T04:30:26.000Z",
-      "publisher": "Reuters",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "2d626c5a542dff6f57ce58b7c8790cc211cd971c",
-      "company": "Microsoft",
+      "id": "87917ca97ec0c42d35cb0a90a594c7335768e411",
+      "company": "Google",
       "sourceKind": "official",
-      "sourceId": "microsoft-ai",
-      "sourceLabel": "Microsoft AI",
-      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
-      "url": "https://news.microsoft.com/source/asia/2026/08/27/deped-and-microsoft-partner-to-advance-philippine-education-in-the-ai-era-equip-1m-teachers-with-microsoft-copilot",
-      "title": "Microsoft and DepEd partner to bring AI tools to 1 million teachers across the Philippines",
-      "summary": "Microsoft and DepEd partner to bring AI tools to 1 million teachers across the Philippines",
-      "publishedAt": "2026-08-27T17:33:41.000Z",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/new-flexible-usage-limits",
+      "title": "We’re introducing flexible usage limits for Gemini Notebook.",
+      "summary": "We’re introducing new flexible, compute-specific usage limits to Gemini Notebook.",
+      "publishedAt": "2026-08-28T17:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
+        "score": 5,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "0b00c80d502cc3ab98e0f64ac864e5a386422b64",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+      "title": "Supporting Thailand’s next generation of AI startups",
+      "summary": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
+      "publishedAt": "2026-08-28T02:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Flagship model or product launch"
       }
     },
     {
@@ -352,17 +390,36 @@
       }
     },
     {
-      "id": "ddb0405ba4d048a7b5ad175f4aa048c690819428",
+      "id": "a99128d5ea96ea5ca32447a05b36ddb899b7f7d1",
+      "company": "Google",
+      "sourceKind": "external",
+      "sourceId": "external-google-major",
+      "sourceLabel": "Major External News - Google",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVkt0SmdxUTF6c3JoZjhpNTluVEZialdkTmc5RDRWRjVGcXlFeFE5RlFROXR3WnJCR2tNazM4RWsyTlpNeXFqb0ttanlLQkpJMVAxaFJfYVV0Q19MMFNqdzhwdjdRWC1XdHBSelIzcWNzLWc4NWsyNmd1VlBnTng4bDB5Sm15RWFNeml5LTNQQ0xZY2NEeDRFaF81UTEzcHZiODREb1RZWnZCME9nblNUWVBwNDF3Y2QxdFFIbE5fbDNmUQ?oc=5",
+      "title": "Marvell selloff deepens as investors seek clarity on Google AI deal payoff",
+      "summary": "",
+      "publishedAt": "2026-08-28T14:15:28.000Z",
+      "publisher": "Reuters",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "98e7a4996e8a117ed49f38db183819da43e0293e",
       "company": "Meta",
       "sourceKind": "external",
       "sourceId": "external-meta-major",
       "sourceLabel": "Major External News - Meta",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOU2J2MGV1VW4zcFFDcHU5YjhJNzFULXRTalE5ZHFQQXFScndPeE9qOUstYThRbjZIN2ZMa09GTWd5RG50Y3dCVnlTTm5vV1ZLQ21wRU1wQXROdEpvYVpoZlhxTzk2V09xV0QzT2Nvc3NtYVhTWHNNMWVsenQ1akM4bDhvU3Z0UWs?oc=5",
-      "title": "Meta’s Data Center Will Be the Biggest in the U.S., but No One Knows Who They’re Hiring",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9uVzBDUEcwVFpxdXpVOE8tSVI4VHpCbk5zT24xRmo2VFpBR3NXVXd5MmhvNjk4TzNHRkRoS1JTMGRoUmdnaUNObE53YmF1RFgzVGQycTdvQk5pa2pBSXBnMk90ajdIVkpDdHNwdWJOcndJTjUzWTFoNU9OUmQtdw?oc=5",
+      "title": "Meta Shifts the Blame + Do Data Center Bans Work? + The Final HatGPT",
       "summary": "",
-      "publishedAt": "2026-08-27T17:20:00.000Z",
-      "publisher": "Yahoo",
+      "publishedAt": "2026-08-28T11:00:03.000Z",
+      "publisher": "The New York Times",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -371,60 +428,22 @@
       }
     },
     {
-      "id": "aa3d2c1dc7929cd6c464280fad9b15091dfc7c2d",
-      "company": "Anthropic",
+      "id": "88fb08a9d90106e7b6ed3d76e24f2121c13482c1",
+      "company": "OpenAI",
       "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxObW1iOEpzT2dpUUlYU2RHaGpLWjdmd1g5cnFvbWZQVldOTVNqT1F5Skk1alFibjJKT2Jkam4xdm54VEVHRVM2UEJEekZnQ3cwLU9lNHNHa0pWVG4yRkFkZ2FqNlUtVFVYSk1hYXVXcTFVNVRmOU9jRFZNcEdVZzR5eDdHRzl4NENjb2hpS014eWxyUXhEbTFDZHFBY1hGNnZ2bi1rVG5uTU9FQ1JrckNON05FRkxtZFNzYUtsUFdZWF9ZODZPR2lBYmVhSW9jSG9xM2wtdDE0ci0wOU5LZVJmaWRPM3pUOWkzZUw5ZERERTlVSHZqVk9BdUdUY2dZYnlzQXlmaUxJZmNCd2ZSTjhtdHZvMXg0ZEo4WG00R0ZxQktDdG_SAagCQVVfeXFMTzRCVTAyVV9wN0tuWnpkbHd6TWVUREM2c3V4UWc4OTU0LTA2dG5wVmppeEx6WHRCSkoyS2xiV2kyVkEwdkQzUVZqT0JKVFkzaWhMUl9WbTVaaDRaUl8xS2hxS0RXQmFTVDhkdlQzZ3VzWHRLV1JzTzFnOGw4TGJybks5SVRMU0FzWTNoRVV5SVJwOFptWXpDY0tCV3gyX1FMNExzS1dqOEJNWEthS0Y0TFRNN3lBcFZGeTBxN3hDQVhpT0sycTA1MkZuN0lvZFMyVkJiVTU5RE0wNVg4TExHSk9UVWs0MHVBOHBKX2p6SEQ1YnYzZ2ZuX3Q0RElESmJTZC1ZeGtNMXRiMDhEVnI0d1ZRdW5wX3Z6RzJTT3VQcWRXOGU1QU44WHc?oc=5",
-      "title": "CNBC Exclusive: Transcript: Salesforce Chair & CEO Marc Benioff and Anthropic Co-Founder & CEO Dario Amodei Speak with CNBC’s Jim Cramer on “Closing Bell: Overtime” Today",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMWwyWWJqTmNhQ0dDN2JwSHRFQWljX0JTUFo0OWt3LWVFRkN4LS1tVVVRdlNEcXBzN3VLS2dITk5feTB2Y2hrMmlKTWJNdDBESGZjSjFuZTg0TDVXT0dYQTJNalhIbmZHMU9RSTBUdWt1UmszSGMzRGF1U1RLT2t1d01PWXBHakY4NjdZOW5YejRzWjZQczdTVHQ3eWRzNUlRS0JYcElHRDBXWmt2Um9zWGxCc1k?oc=5",
+      "title": "SoftBank Seeks Another $10 Billion Loan for OpenAI Stake Funding",
       "summary": "",
-      "publishedAt": "2026-08-26T23:43:20.000Z",
-      "publisher": "CNBC",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "68176e1744514a019395993da850a22996f1450e",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRXJxUHN6UVh1WEtwcTJ2ckVMUGJvdElXVEdOeTJiRTR1REJMWnV6eHpOZVF1SThfb3hDZENxbnZTTEFtdDM3S216YmtUWUtDSjZmbmJiRU1tTDBCdGEwQmhHWDYwUVc4WHlNcWFvbld6UTZqMFdpakxjNWE4clJySGgyYm42U2dITjBLSmhUcG5OLU1ZbzYtZWdFaDA4bXZlUld2dkVGWXdTUQ?oc=5",
-      "title": "Salesforce Jumps Most Since 2020 on Outlook, Anthropic Deal",
-      "summary": "",
-      "publishedAt": "2026-08-26T20:07:18.000Z",
+      "publishedAt": "2026-08-28T06:50:00.000Z",
       "publisher": "Bloomberg.com",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
         "score": 4,
         "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "504dd1ec950803b896fd5f67b4c0caebf6b6fbe6",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
-      "title": "The Hugging Face incident and the road ahead",
-      "summary": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.",
-      "publishedAt": "2026-08-26T00:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Safety, security, or policy update"
       }
     },
     {
@@ -521,153 +540,20 @@
         "score": 2,
         "reason": "Routine official update"
       }
-    },
-    {
-      "id": "9411c1d36bb5cf9a8a7cbf78b730f3f63edd67c2",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash",
-      "title": "Gemini Omni 1.1 Flash lets you build with more control",
-      "summary": "Gemini Omni 1.1 Flash brings a new suite of creative controls and generative video capabilities to developers.",
-      "publishedAt": "2026-08-27T16:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
     }
   ],
   "newItems": [
     {
-      "id": "b61ae05a70e4806b374a89e5376957a1f253ca09",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWUEwc0tBU0JsSzFIZzZUelhmdVhPZVJCNEpacGt2SnVPa2MyMnM0WWFtOVVqRzZpVkEydXdvZ3NXdlQyQTNnVnVkcmp2NDR3YnhCTS1zRjh6Y2ZLZ3FFQ2dHXzVLUUlPU2k0c0RycnBab3hoVEtEbE44NlJSWDRBZWlxZ0k2TXVuaTdxWGlYTU0?oc=5",
-      "title": "Georgia Power official discusses local OpenAI partnership",
-      "summary": "",
-      "publishedAt": "2026-08-27T22:22:47.000Z",
-      "publisher": "Yahoo",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "8c2dae4371e81643848c0c5c90675ac0e3706100",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcFFYLW5UQlVtd0k4T1FoNHZUdzkxRXB2SDkxUzZoaGhzeGtpYjB1TXhVaXNsSXBnV2ZDTW1QX0FjdGQ3OTN3anExVmJkRnF2bzFDck1NUEVBanFQdTRpQ1pkengyR3c2M0F6TUhwaU9RZ2VqOUdBR0oxNjJSYVJRSkRLR0FBQ3FWY05vZ2I5bDlyMFlEVEVJ?oc=5",
-      "title": "Georgia Power official discusses local OpenAI partnership",
-      "summary": "",
-      "publishedAt": "2026-08-27T20:00:39.000Z",
-      "publisher": "Yahoo",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "692ce140a47e513c8b80ceb5432ec3966a865dbd",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaFpWQndmU29uTDNZMHYtNnFEZkFvUWtDNGVUUVlyZVVUV1hSeDNHb0wtcjZaQ1h2dldvZWkyN2pUQ09KbENMcVMtdGp6cE5TNWVqNF9XVXo2eTFCcVFHMnk3SEZxVlhLWGJjQk1kUEpWeFl4QmwxVks2TFhPUzdaSWktU1VMbDhVVUhPNTE3SFVBX3J5dGVrWmpHNVdyLXdVNmc?oc=5",
-      "title": "Alabama’s OpenAI Probe Charts Next Stage of Multi-State Scrutiny",
-      "summary": "",
-      "publishedAt": "2026-08-27T17:31:00.000Z",
-      "publisher": "Bloomberg Law News",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "490203f58af24f06bd142d7072a4bbb5378dd4fa",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeEl0QjIzT2pDZ0lqR0ZLa0ltNTB3MDhSMWVWMVozV2h5cy1UWEFtSC1rM1h0RjJfWVl2cUZac1owbEwzVF9FSlFKalc1akhSZEY0SXl1cVlnLUJzU0JxclBQS0lnU2tlYjR3NHRjNEFfMFEzWVlnQXhMdHIzMnphRXpmSlNVQQ?oc=5",
-      "title": "Did Meta’s Big Settlement Actually Help It?",
-      "summary": "",
-      "publishedAt": "2026-08-27T11:59:04.000Z",
-      "publisher": "The New York Times",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "fd59df5d254af8448e5bb0570255a5d35ce4b6b4",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5PQUNnVm02ZFdsdVVWdUo1UHhGdEhYNDVuWmVpX1JsV3ZaTFJ0TWpvQVgtM0RYVUpkRWhQMWdqMkZVaHpYXzlXSFc4VHR0VHF1MGZuY0Ywb3NIdTVvOEgxRlRWUkhjM1BnYUxiLQ?oc=5",
-      "title": "Fortune Tech: Meta’s record settlement, Nvidia Q2 earnings, DraftKings’ co-founder contract",
-      "summary": "",
-      "publishedAt": "2026-08-27T11:01:00.000Z",
-      "publisher": "Fortune",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "58170106f7e6af2451c2ef5f21697204022043a4",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZGh1SG12NlFCMGRTcWFuOUlBcFJ2MTBPc1hzM2VJeW1sMXdiQ1JDSm05eU9nSVc0czFYQWJJR3hWR2hJcEt6cWtiRE9TZlJPOExJa0RTNklNbmt6TG0wQ2Vkd250UHBfQ3JQX293a1FuNjh4Mnlta2dYMmp5dFpFVmxR?oc=5",
-      "title": "Meta’s $18 billion settlement won’t be enough to escape its trust problem",
-      "summary": "",
-      "publishedAt": "2026-08-27T09:55:00.000Z",
-      "publisher": "Fortune",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "0195b7779eff71dc4c9bafcca4208a4adc1f17e9",
+      "id": "768e0ca02edd6c40c2261ed2a0a280724fd95fc4",
       "company": "Anthropic",
       "sourceKind": "external",
       "sourceId": "external-anthropic-major",
       "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZ2xmQXAtT2Y4Q1pITXYydG5obFRURzRwZlNaNkxmdVVXN1V5R1J2TjNSdVc4R2RfNmVjeFVaSnhMWFhTY19kd09EbFNBYWVjWjMwQTIxbGhZRzBUUWN6ZklIblotV3VHWERFVnRROUxIVGdKa1dwMkY0M19GTWxjUDFJWGNSWW4tNXMwRTRRMTlCenc?oc=5",
-      "title": "CRM Stock Soars 13% After-Hours — Salesforce Crushes Earnings, Raises Guidance And Expands Partnership With Anthropic’s Claude",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQejY3VGVOMFdYa3ZmY1BGeS1IYWNXZjdyVlcwLWVYTW1Zb1B3UkhpdnEtdGdjQUZUUEpFbUN4LW8tVTBCMGh5OExPU01xRVdkM1NaYmNCU1NhVmJqazB5NG5ZQUlsUFhBenZUN29GRENVR0JGVmJycXVZbFlDSzhrY0Y2SXVpUkFfV2VIdGdUTHBOVkw4N1ZVNVRR?oc=5",
+      "title": "Jim Cramer Says Salesforce’s (CRM) Anthropic Partnership Silences AI Disruption Fears",
       "summary": "",
-      "publishedAt": "2026-08-26T22:03:23.000Z",
+      "publishedAt": "2026-08-28T20:15:35.000Z",
       "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
@@ -677,17 +563,17 @@
       }
     },
     {
-      "id": "0446326ffda72031723f5616ad37f9622fd39bff",
+      "id": "ce66a01e989eecba3014a7496bbee7d241899f2b",
       "company": "Anthropic",
       "sourceKind": "external",
       "sourceId": "external-anthropic-major",
       "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeDU0UHo4UERDMHZlcjVyV1I4S0dWWEQ1SGhYOXFURmJmZUJiZHpud1pGVXRKQmx1ZXl6Sy01NjBkTlkyQXFRWEJfeTVkYXVHODNvZ0p3YTVudnVSNEN4WTJQLWpad0JJa09WZ1Roay1JZ3JUZDlNdFJNRGNZYzMyNHd1TmRzTVJQ0gGOAUFVX3lxTE5oWUF2YXIzVjUzOE5zUzVNT05nemItSm9rdm1OMmRvQWFPc05NRWVteG5mNnM3dmtzSHZOYlowYTNFTnNFT0M0UmY3ZTRhN1FGTUV1U1NKcnZhcUp0LUpVU2dMa1ZCazZvSUFWNTNBNWhzNlUtekUwR1J1a2UtZ25wT3JaVzUzZGFWV1BpX1E?oc=5",
-      "title": "Salesforce, Anthropic expand partnership as Benioff responds to ‘SaaSpocalypse’ concerns",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQblFHajhwU1JpNFRXUU0tZi1QUUJKeUNpM0ZKbDY0M3JTMGQtaHV1NWdwZmFoTS1jZjc2M0RJOEwxanJVb3FDSE5qZ3oxVE8xanRid1lsOEthZXZrQmxaZXZzRk9qMGI1UGN0MUp3bTRDRG84QUlsTjhLV2VDcVQ1bFNvenpvU09k?oc=5",
+      "title": "Jackson Hole, Anthropic’s Court Win and PayPal Deal Collapse",
       "summary": "",
-      "publishedAt": "2026-08-26T20:05:14.000Z",
-      "publisher": "CNBC",
+      "publishedAt": "2026-08-28T17:52:43.000Z",
+      "publisher": "Bloomberg.com",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -696,54 +582,54 @@
       }
     },
     {
-      "id": "38c6e922e4556f89ed7154224ab7b986c4ba1f1b",
-      "company": "OpenAI",
+      "id": "34160053a77c50ef360e37c923751262bd2d4d93",
+      "company": "Anthropic",
       "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUkFydW9NRDN6MGdpelgtTXlVMWVDRmR2cWh1YjZ1VTZHWi11bjR5X2hUSWhJbDdlQnhlclVYcHN0aTloTVE5QkNPM1FyRXpOXy03UG9STHB0M0ZqOFUxN2stcmZCbjlSd1liV3lTSzdjTW15NktSai1ibnpOU0taM1E4LTZ2dF9aUHhKV0JReE5JUlhuNlpseGdsdHBKdw?oc=5",
-      "title": "OpenAI releases its official report on the Hugging Face breach",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPS1VyeW9GODBPWkNOdFlTY3V4dS1QS2JhQjZ1THl3V3M0bGZLZU15MzNobEhDckx3Sk5xSnRqZlo1Y0hLUHFCUWVFcl9WWlV0ODk3cWdrVXoxSEE2TExKamRXLVJncmxoUkVCRFl2cmdWSm1DMHJaaUh3MlF2MGQ4VjV1amdWZ2hWaXhaZ1doX2Z2amFtSk1lNG1R?oc=5",
+      "title": "Judge Rules that Pete Hegseth's Pentagon Illegally Retaliated Against Anthropic",
       "summary": "",
-      "publishedAt": "2026-08-26T19:05:22.000Z",
-      "publisher": "TechCrunch",
+      "publishedAt": "2026-08-28T15:04:57.000Z",
+      "publisher": "Yahoo",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 6,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "2d626c5a542dff6f57ce58b7c8790cc211cd971c",
-      "company": "Microsoft",
-      "sourceKind": "official",
-      "sourceId": "microsoft-ai",
-      "sourceLabel": "Microsoft AI",
-      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
-      "url": "https://news.microsoft.com/source/asia/2026/08/27/deped-and-microsoft-partner-to-advance-philippine-education-in-the-ai-era-equip-1m-teachers-with-microsoft-copilot",
-      "title": "Microsoft and DepEd partner to bring AI tools to 1 million teachers across the Philippines",
-      "summary": "Microsoft and DepEd partner to bring AI tools to 1 million teachers across the Philippines",
-      "publishedAt": "2026-08-27T17:33:41.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
+        "score": 7,
         "reason": "Corporate move or major external event"
       }
     },
     {
-      "id": "b1fb9f7de9ed066e35ec4ccc5eed5ad3fec6e8e2",
+      "id": "30e43b9ac10c670168b2363572817a0b0d6af7ef",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV0dBUjFJMmtBdkx4UGtGc1dSUjhFcHFZQnowRmNNVXpBbVBFYTQ1WGtuQ2tkYzh5b2Jib3BrRnVqNWtfemdpNk5KUUM3b1VMYlQ5UlBrWThMVGt4b0ZTXzVqMm9PX0pVSEFZWkVVN0NaNXg3RTg0VF94R2daV2QwY042cDNHNTZabTJYUkNyNlFkb2VBUkgzYXB1Y1FLeGhrTXZ3NHQ1dEZPZGM?oc=5",
+      "title": "SaaSpocalypse Is ‘Nonsense’ Says Salesforce CEO Amid Earnings Beat and Anthropic Partnership",
+      "summary": "",
+      "publishedAt": "2026-08-28T04:01:00.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "87917ca97ec0c42d35cb0a90a594c7335768e411",
       "company": "Google",
       "sourceKind": "official",
       "sourceId": "google-ai",
       "sourceLabel": "Google AI",
       "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/new-creative-controls-google-flow",
-      "title": "Google Flow brings new creative control features to enhance video editing.",
-      "summary": "At Google I/O, we launched Gemini Omni Flash in Google Flow, bringing new video editing capabilities to creatives. Today we’re rolling out updates via Gemini Omni 1.1 Fl…",
-      "publishedAt": "2026-08-27T16:00:00.000Z",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/new-flexible-usage-limits",
+      "title": "We’re introducing flexible usage limits for Gemini Notebook.",
+      "summary": "We’re introducing new flexible, compute-specific usage limits to Gemini Notebook.",
+      "publishedAt": "2026-08-28T17:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -753,18 +639,18 @@
       }
     },
     {
-      "id": "e8e7441ac397b5268926e451bcb70303e6ae9b2c",
-      "company": "Anthropic",
+      "id": "0b00c80d502cc3ab98e0f64ac864e5a386422b64",
+      "company": "OpenAI",
       "sourceKind": "official",
-      "sourceId": "anthropic-news",
-      "sourceLabel": "Anthropic News",
-      "homepageUrl": "https://www.anthropic.com/news",
-      "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
-      "title": "Previewing the Model Hardware Standard Announcements We’re opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and advanced manufacturers.",
-      "summary": "",
-      "publishedAt": "2026-08-27T00:00:00.000Z",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+      "title": "Supporting Thailand’s next generation of AI startups",
+      "summary": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
+      "publishedAt": "2026-08-28T02:00:00.000Z",
       "publisher": "",
-      "discoveryMethod": "anchor",
+      "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
         "score": 5,
@@ -772,17 +658,36 @@
       }
     },
     {
-      "id": "ddb0405ba4d048a7b5ad175f4aa048c690819428",
+      "id": "a99128d5ea96ea5ca32447a05b36ddb899b7f7d1",
+      "company": "Google",
+      "sourceKind": "external",
+      "sourceId": "external-google-major",
+      "sourceLabel": "Major External News - Google",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVkt0SmdxUTF6c3JoZjhpNTluVEZialdkTmc5RDRWRjVGcXlFeFE5RlFROXR3WnJCR2tNazM4RWsyTlpNeXFqb0ttanlLQkpJMVAxaFJfYVV0Q19MMFNqdzhwdjdRWC1XdHBSelIzcWNzLWc4NWsyNmd1VlBnTng4bDB5Sm15RWFNeml5LTNQQ0xZY2NEeDRFaF81UTEzcHZiODREb1RZWnZCME9nblNUWVBwNDF3Y2QxdFFIbE5fbDNmUQ?oc=5",
+      "title": "Marvell selloff deepens as investors seek clarity on Google AI deal payoff",
+      "summary": "",
+      "publishedAt": "2026-08-28T14:15:28.000Z",
+      "publisher": "Reuters",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "98e7a4996e8a117ed49f38db183819da43e0293e",
       "company": "Meta",
       "sourceKind": "external",
       "sourceId": "external-meta-major",
       "sourceLabel": "Major External News - Meta",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOU2J2MGV1VW4zcFFDcHU5YjhJNzFULXRTalE5ZHFQQXFScndPeE9qOUstYThRbjZIN2ZMa09GTWd5RG50Y3dCVnlTTm5vV1ZLQ21wRU1wQXROdEpvYVpoZlhxTzk2V09xV0QzT2Nvc3NtYVhTWHNNMWVsenQ1akM4bDhvU3Z0UWs?oc=5",
-      "title": "Meta’s Data Center Will Be the Biggest in the U.S., but No One Knows Who They’re Hiring",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9uVzBDUEcwVFpxdXpVOE8tSVI4VHpCbk5zT24xRmo2VFpBR3NXVXd5MmhvNjk4TzNHRkRoS1JTMGRoUmdnaUNObE53YmF1RFgzVGQycTdvQk5pa2pBSXBnMk90ajdIVkpDdHNwdWJOcndJTjUzWTFoNU9OUmQtdw?oc=5",
+      "title": "Meta Shifts the Blame + Do Data Center Bans Work? + The Final HatGPT",
       "summary": "",
-      "publishedAt": "2026-08-27T17:20:00.000Z",
-      "publisher": "Yahoo",
+      "publishedAt": "2026-08-28T11:00:03.000Z",
+      "publisher": "The New York Times",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -791,155 +696,22 @@
       }
     },
     {
-      "id": "aa3d2c1dc7929cd6c464280fad9b15091dfc7c2d",
-      "company": "Anthropic",
+      "id": "88fb08a9d90106e7b6ed3d76e24f2121c13482c1",
+      "company": "OpenAI",
       "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxObW1iOEpzT2dpUUlYU2RHaGpLWjdmd1g5cnFvbWZQVldOTVNqT1F5Skk1alFibjJKT2Jkam4xdm54VEVHRVM2UEJEekZnQ3cwLU9lNHNHa0pWVG4yRkFkZ2FqNlUtVFVYSk1hYXVXcTFVNVRmOU9jRFZNcEdVZzR5eDdHRzl4NENjb2hpS014eWxyUXhEbTFDZHFBY1hGNnZ2bi1rVG5uTU9FQ1JrckNON05FRkxtZFNzYUtsUFdZWF9ZODZPR2lBYmVhSW9jSG9xM2wtdDE0ci0wOU5LZVJmaWRPM3pUOWkzZUw5ZERERTlVSHZqVk9BdUdUY2dZYnlzQXlmaUxJZmNCd2ZSTjhtdHZvMXg0ZEo4WG00R0ZxQktDdG_SAagCQVVfeXFMTzRCVTAyVV9wN0tuWnpkbHd6TWVUREM2c3V4UWc4OTU0LTA2dG5wVmppeEx6WHRCSkoyS2xiV2kyVkEwdkQzUVZqT0JKVFkzaWhMUl9WbTVaaDRaUl8xS2hxS0RXQmFTVDhkdlQzZ3VzWHRLV1JzTzFnOGw4TGJybks5SVRMU0FzWTNoRVV5SVJwOFptWXpDY0tCV3gyX1FMNExzS1dqOEJNWEthS0Y0TFRNN3lBcFZGeTBxN3hDQVhpT0sycTA1MkZuN0lvZFMyVkJiVTU5RE0wNVg4TExHSk9UVWs0MHVBOHBKX2p6SEQ1YnYzZ2ZuX3Q0RElESmJTZC1ZeGtNMXRiMDhEVnI0d1ZRdW5wX3Z6RzJTT3VQcWRXOGU1QU44WHc?oc=5",
-      "title": "CNBC Exclusive: Transcript: Salesforce Chair & CEO Marc Benioff and Anthropic Co-Founder & CEO Dario Amodei Speak with CNBC’s Jim Cramer on “Closing Bell: Overtime” Today",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMWwyWWJqTmNhQ0dDN2JwSHRFQWljX0JTUFo0OWt3LWVFRkN4LS1tVVVRdlNEcXBzN3VLS2dITk5feTB2Y2hrMmlKTWJNdDBESGZjSjFuZTg0TDVXT0dYQTJNalhIbmZHMU9RSTBUdWt1UmszSGMzRGF1U1RLT2t1d01PWXBHakY4NjdZOW5YejRzWjZQczdTVHQ3eWRzNUlRS0JYcElHRDBXWmt2Um9zWGxCc1k?oc=5",
+      "title": "SoftBank Seeks Another $10 Billion Loan for OpenAI Stake Funding",
       "summary": "",
-      "publishedAt": "2026-08-26T23:43:20.000Z",
-      "publisher": "CNBC",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "68176e1744514a019395993da850a22996f1450e",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRXJxUHN6UVh1WEtwcTJ2ckVMUGJvdElXVEdOeTJiRTR1REJMWnV6eHpOZVF1SThfb3hDZENxbnZTTEFtdDM3S216YmtUWUtDSjZmbmJiRU1tTDBCdGEwQmhHWDYwUVc4WHlNcWFvbld6UTZqMFdpakxjNWE4clJySGgyYm42U2dITjBLSmhUcG5OLU1ZbzYtZWdFaDA4bXZlUld2dkVGWXdTUQ?oc=5",
-      "title": "Salesforce Jumps Most Since 2020 on Outlook, Anthropic Deal",
-      "summary": "",
-      "publishedAt": "2026-08-26T20:07:18.000Z",
+      "publishedAt": "2026-08-28T06:50:00.000Z",
       "publisher": "Bloomberg.com",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
         "score": 4,
         "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "504dd1ec950803b896fd5f67b4c0caebf6b6fbe6",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
-      "title": "The Hugging Face incident and the road ahead",
-      "summary": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.",
-      "publishedAt": "2026-08-26T00:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "28c844be9063e04dff593a03ed5967000dd70c27",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdlE2bVR3UFAwRV80akdTekNTajNURldEZWl0elhCNVIyb0JwaU90UmlWdFVLdjd1N1FobmZoelpmOW1qVzRoeWxrMG44ZlZiVjhDUEh4WTNaMk1oSlNDNGZmcGhHRWVoMFJvek93U2Z5cERzUnliU3pIX3ZjUEJYUlh5ZzZHRnVHd1UtTkM0R1c4b1pBX0FxT3VvcUttSkJNTkN2OGM1OE5WYjBleEE?oc=5",
-      "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
-      "summary": "",
-      "publishedAt": "2026-08-25T14:22:04.000Z",
-      "publisher": "TechCrunch",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "3062d8cdad5fdcd904c8ee54664b2aa34880672b",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
-      "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
-      "summary": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
-      "publishedAt": "2026-08-27T09:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Technical or research update"
-      }
-    },
-    {
-      "id": "50690b3cc5a91051c9eb9137b3969621c73d07a5",
-      "company": "Meta",
-      "sourceKind": "official",
-      "sourceId": "meta-newsroom",
-      "sourceLabel": "Meta Newsroom",
-      "homepageUrl": "https://about.fb.com/news/",
-      "url": "https://about.fb.com/news/2026/08/closed-loop-cooling-explained-the-plumbing-behind-metas-ai",
-      "title": "Closed-Loop Cooling Explained: The Plumbing Behind Meta&#8217;s AI",
-      "summary": "Tom Shaw explains how Meta is using closed-loop liquid cooling to power AI more efficiently. The post Closed-Loop Cooling Explained: The Plumbing Behind Meta&#8217;s AI",
-      "publishedAt": "2026-08-27T21:44:08.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "af35faf87d0c5195a80f6336dd4a3b6e3812a566",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/expert-intelligence-leading-sources",
-      "title": "Expert Intelligence: a new way for you to engage with trusted content",
-      "summary": "Expert Intelligence lets you add ebooks like those you’ve purchased from Google Play Books directly to a Gemini Notebook.",
-      "publishedAt": "2026-08-27T19:30:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "9411c1d36bb5cf9a8a7cbf78b730f3f63edd67c2",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash",
-      "title": "Gemini Omni 1.1 Flash lets you build with more control",
-      "summary": "Gemini Omni 1.1 Flash brings a new suite of creative controls and generative video capabilities to developers.",
-      "publishedAt": "2026-08-27T16:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
       }
     }
   ],
