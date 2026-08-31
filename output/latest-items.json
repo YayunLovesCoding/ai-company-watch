@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T17:58:52.400Z",
+  "generatedAt": "2026-08-31T19:52:34.139Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -76,27 +76,27 @@
     }
   ],
   "totals": {
-    "fetched": 43,
+    "fetched": 41,
     "deduped": 24,
-    "new": 9,
+    "new": 4,
     "byKind": {
-      "official": 10,
-      "external": 14
+      "official": 11,
+      "external": 13
     }
   },
   "items": [
     {
-      "id": "d5e28604f81f649c257762e944124e1a35ea5696",
-      "company": "OpenAI",
+      "id": "39e56e97007d94cba1ff9358d78a6022b6a8c3bd",
+      "company": "Anthropic",
       "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQklJdXdQdU9IVmpFR2dIRlYxTVZmTm5MTU1OWjhIOHRGaURtcDI3VGlwYW5wb1VTVFM5Uk1QNVRDTlNtbmhpaTdNLVg5cDlwVFMzblVaUUQ2R2hXLTh3QTYyQ3htRGVycDEtYThrV2Nta2UzQjNPYThPak9DZURBSzdmYW4xOWt4?oc=5",
-      "title": "The 5 craziest discoveries from OpenAI's HuggingFace investigation",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQVh4aENUcjZvQVF3R0ZweUhDMjU2c3BHMEJiVjBQWnZXZGptS3p6blBocWcyVDBtQVU0aG5LR25WUzBsMHdNOXB3UERUbU5KeVR6T0FPY1NyN1lGWGJ5RTRXS01oSWJkRGxVVV9FODV2eFNBckY2OWY1SGNZU1QxWC04YTNuck0zVi04WG53T1p2SnZ5dk9LNmFMcC0yMEcyd0xSVlB0cWdPRVZCaXgwdGJR?oc=5",
+      "title": "Sony, Warner Music sue Anthropic over songs used in AI training",
       "summary": "",
-      "publishedAt": "2026-08-30T05:32:36.000Z",
-      "publisher": "Axios",
+      "publishedAt": "2026-08-31T16:37:12.000Z",
+      "publisher": "Reuters",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -105,17 +105,17 @@
       }
     },
     {
-      "id": "32df4966077a59826aeb6f676c613d20f96cc9a6",
+      "id": "e2433715280bca41085740810b0794116c119117",
       "company": "Anthropic",
       "sourceKind": "external",
       "sourceId": "external-anthropic-major",
       "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4yWkVsWkZ5bXMySGRnSmIwVWNQR2x6Z3B6ZzF0TVU1WGZtN1R2bVczRkFJOU5HZE93VlJFbmZGU3RVeEdPWC1IalN4bXEzbmhPb3RpTGt2TmE0U0lqcTdrR0QtT1VYY05za0hkRGVrOV9sU3hvU2JOX1JR?oc=5",
-      "title": "Music publishers sue Anthropic, allege \"blantant theft\" of copyrighted music",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQa3VaOXpKaWFLUVVhd2ZTc2RJd1dTUnMzMmlLOEVoOF8zSFhnUVFlUXdOaXkzNzdIR25HV2Qzdkl3NGo3U0l5TzFKTEhNMWJnbDB1aFVpRXp0blBYLW12a0didGM2cmJscTdWT2ttVnVVMWNRVlRSak5wbXpIUUVsRTgtMHUxa2c2a1NhYmhfOTlqV0lmaERQY3FCUkNrWlJNSWZOVQ?oc=5",
+      "title": "Anthropic Sued Over Claude Max Plans That Deliver Far Less Than Advertised",
       "summary": "",
-      "publishedAt": "2026-08-29T23:34:38.000Z",
-      "publisher": "Axios",
+      "publishedAt": "2026-08-31T00:17:26.000Z",
+      "publisher": "Startup Fortune",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -138,45 +138,64 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 7,
+        "score": 6,
         "reason": "Corporate move or major external event"
       }
     },
     {
-      "id": "3d3c3d1687ad4077ed6fb89a2b4e741f395c5a55",
+      "id": "32df4966077a59826aeb6f676c613d20f96cc9a6",
       "company": "Anthropic",
       "sourceKind": "external",
       "sourceId": "external-anthropic-major",
       "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQejY1TWtSaGE0bDJPNF92ZEZBeTlSYnAycFpjN2dwS2JYZmlCQ2F3SnMzY01vSUlwdGljVzZsYU9mSk50dm9LMENkWW9fSnM5dnN0QVpFdlktalYwYXBGZWVkQ0ltcXRQdjdDYUNRNDExSkFQVXFQWk1ZSlVQLURWNXBZZTVhU2FoWE9vcjlXUURmSlBOOWdIczBtN0U5aF9BM2NoNnVPLTVjTmdhWG9sNGlhb1hXNXZ6Y3NCaTZpU2VBUQ?oc=5",
-      "title": "Sony Music, Warner sue Anthropic, alleging a \"brazen campaign\" of intellectual property theft",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4yWkVsWkZ5bXMySGRnSmIwVWNQR2x6Z3B6ZzF0TVU1WGZtN1R2bVczRkFJOU5HZE93VlJFbmZGU3RVeEdPWC1IalN4bXEzbmhPb3RpTGt2TmE0U0lqcTdrR0QtT1VYY05za0hkRGVrOV9sU3hvU2JOX1JR?oc=5",
+      "title": "Music publishers sue Anthropic, allege \"blantant theft\" of copyrighted music",
       "summary": "",
-      "publishedAt": "2026-08-29T18:41:59.000Z",
-      "publisher": "TechCrunch",
+      "publishedAt": "2026-08-29T16:44:27.000Z",
+      "publisher": "Axios",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 7,
+        "score": 6,
         "reason": "Corporate move or major external event"
       }
     },
     {
-      "id": "cf75263dca0427f391ef8e9e922465db0a9d7282",
+      "id": "d5e28604f81f649c257762e944124e1a35ea5696",
       "company": "OpenAI",
       "sourceKind": "external",
       "sourceId": "external-openai-major",
       "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTWRCTVBjQnVPR3d0TjdTNmJJVnhMOHd0RTdueFBlM2R5OVdXRDJpdGZkNnY3QVpWYXJQRk9GV3dvcGtKVHJFbXBiRkNBNWpoaFhfblVLclk2bVNNb3EzRzJVWWFaLUNLWjJ2eHdlUm9zUXlOV2kyblQzVTRrQ3BRR2sxUDRsSGdIVTNSbW5Uc3RHY2lQekxTdWRhdFk5dw?oc=5",
-      "title": "Altman-Musk Feud Escalates as OpenAI Cuts Off Cursor Access After SpaceX Merger",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQklJdXdQdU9IVmpFR2dIRlYxTVZmTm5MTU1OWjhIOHRGaURtcDI3VGlwYW5wb1VTVFM5Uk1QNVRDTlNtbmhpaTdNLVg5cDlwVFMzblVaUUQ2R2hXLTh3QTYyQ3htRGVycDEtYThrV2Nta2UzQjNPYThPak9DZURBSzdmYW4xOWt4?oc=5",
+      "title": "The 5 craziest discoveries from OpenAI's HuggingFace investigation",
       "summary": "",
-      "publishedAt": "2026-08-29T15:05:10.000Z",
-      "publisher": "Yahoo Finance",
+      "publishedAt": "2026-08-29T13:12:21.000Z",
+      "publisher": "Axios",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 7,
+        "score": 6,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "ab6780f6467e1fc80cac7249df403589e7da8c2e",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOb0FpdFpiTHhKTkxIbDVYT0hhc0Y4ZFRseXB1QmtJd2h3QXBmWDA1QWs2VVJOQ1N6NU85Y1pHRGlNYW1lOElmdHdkX3VSejI1cWdPMENtenZfcE5UaW1wUnhndm1Cb201MUplR3pyX3NoNUxJVW92TVEwNHZSc0ZHWVNwZjdQLWRRM0ZYQktR?oc=5",
+      "title": "OpenAI to End Partnership With Cursor After SpaceX Acquisition",
+      "summary": "",
+      "publishedAt": "2026-08-29T02:16:00.000Z",
+      "publisher": "Yahoo Finance UK",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
         "reason": "Corporate move or major external event"
       }
     },
@@ -195,7 +214,7 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 7,
+        "score": 6,
         "reason": "Corporate move or major external event"
       }
     },
@@ -211,44 +230,6 @@
       "summary": "",
       "publishedAt": "2026-08-28T20:15:35.000Z",
       "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "750ef333d9425b0663b947b316d5e9ae9e87acff",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa09yMVhMdS1vQWlmbE9Qc0w4TDFNdUFGYmljZUhJRWtMMGpReFdtd0x4Skh5Sk9ZX0owYzBTX0lZZVNpcHNqNGoxbk1zR3NkaVNuOXJ1WlhkczZYeU1RTlVJSTBlT1Q3NUQ0RkI5Ujd0bVJTQ0M1U2dmWGozMGo3RF9ieWhfdGxmVGlFNUwyZ1c3ZkNCUmFVNldJVXJ5Q0xXZGIxclhZRVUzVXV5d2x5NkRn?oc=5",
-      "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
-      "summary": "",
-      "publishedAt": "2026-08-28T12:46:12.000Z",
-      "publisher": "TechCrunch",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "85e3e8852597e6795aee181b05f633fdbf45b793",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaDJYeHEtMkV1bHdUVDBCdmNJM2d4anNydG1wcnh4QkpkSzF5VHpjOFUyMDRodmxzWURNa3A1SFB4N2o3NE5KTmtmckluRU9QN2xDTnQwRnI5UDl2b083M2FGR3dqendXYl9HQmNBYmpIZ1V3OHlXY1BKQjZ1bEdNLWNSWVU4eC1hVFN5VUFsQnBIM1pRc0czUHIyM0FZdVZrR1E?oc=5",
-      "title": "Watch Meta Settlement a ‘Pittance,’ Law Professor Says",
-      "summary": "",
-      "publishedAt": "2026-08-27T18:46:52.000Z",
-      "publisher": "Bloomberg.com",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -268,25 +249,6 @@
       "summary": "",
       "publishedAt": "2026-08-27T11:59:04.000Z",
       "publisher": "The New York Times",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "fd59df5d254af8448e5bb0570255a5d35ce4b6b4",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5PQUNnVm02ZFdsdVVWdUo1UHhGdEhYNDVuWmVpX1JsV3ZaTFJ0TWpvQVgtM0RYVUpkRWhQMWdqMkZVaHpYXzlXSFc4VHR0VHF1MGZuY0Ywb3NIdTVvOEgxRlRWUkhjM1BnYUxiLQ?oc=5",
-      "title": "Fortune Tech: Meta’s record settlement, Nvidia Q2 earnings, DraftKings’ co-founder contract",
-      "summary": "",
-      "publishedAt": "2026-08-27T11:01:00.000Z",
-      "publisher": "Fortune",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -349,25 +311,6 @@
         "bucket": "critical",
         "score": 5,
         "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "4eaffe39d1eb9806ec62e174f3414fdd97524c95",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcVhwbkhiSWZuTng5RUlsX1llWUdxaGVJWXFua1FNTXdHczIxb2VZZ2J1ZkhSbUNqYXpFRGEtRjdNSE82NzdqWlN0UUIyNlN5c1NVVkpFaTZaWEFwX3Nndjg2Ri1mN0Nxa2dJUnNzTFZwOE1NSmRvc1JyTHNPdUlBeDFvWERCRk5oU0VuRUQ3Y0lDdENSekE?oc=5",
-      "title": "Nvidia CEO Jensen Huang Not Taking OpenAI's 'Jalapeño' Chip Personally: 'Lots of Projects Get Started. Lots of Projects Get Canceled'",
-      "summary": "",
-      "publishedAt": "2026-08-29T03:31:00.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
       }
     },
     {
@@ -447,6 +390,25 @@
       }
     },
     {
+      "id": "4eaffe39d1eb9806ec62e174f3414fdd97524c95",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcVhwbkhiSWZuTng5RUlsX1llWUdxaGVJWXFua1FNTXdHczIxb2VZZ2J1ZkhSbUNqYXpFRGEtRjdNSE82NzdqWlN0UUIyNlN5c1NVVkpFaTZaWEFwX3Nndjg2Ri1mN0Nxa2dJUnNzTFZwOE1NSmRvc1JyTHNPdUlBeDFvWERCRk5oU0VuRUQ3Y0lDdENSekE?oc=5",
+      "title": "Nvidia CEO Jensen Huang Not Taking OpenAI's 'Jalapeño' Chip Personally: 'Lots of Projects Get Started. Lots of Projects Get Canceled'",
+      "summary": "",
+      "publishedAt": "2026-08-29T03:31:00.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
       "id": "a99128d5ea96ea5ca32447a05b36ddb899b7f7d1",
       "company": "Google",
       "sourceKind": "external",
@@ -485,6 +447,25 @@
       }
     },
     {
+      "id": "88fb08a9d90106e7b6ed3d76e24f2121c13482c1",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMWwyWWJqTmNhQ0dDN2JwSHRFQWljX0JTUFo0OWt3LWVFRkN4LS1tVVVRdlNEcXBzN3VLS2dITk5feTB2Y2hrMmlKTWJNdDBESGZjSjFuZTg0TDVXT0dYQTJNalhIbmZHMU9RSTBUdWt1UmszSGMzRGF1U1RLT2t1d01PWXBHakY4NjdZOW5YejRzWjZQczdTVHQ3eWRzNUlRS0JYcElHRDBXWmt2Um9zWGxCc1k?oc=5",
+      "title": "SoftBank Seeks Another $10 Billion Loan for OpenAI Stake Funding",
+      "summary": "",
+      "publishedAt": "2026-08-28T06:50:00.000Z",
+      "publisher": "Bloomberg.com",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
       "id": "3a0b4572422c1a8cbc95ae7fb7158fc8dc49f9d0",
       "company": "Anthropic",
       "sourceKind": "official",
@@ -501,6 +482,25 @@
         "bucket": "important",
         "score": 3,
         "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "44f61163770f758b1f0f7a7a6d001be1ca835622",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+      "title": "A milestone in expanding access to AI",
+      "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
+      "publishedAt": "2026-08-31T04:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
       }
     },
     {
@@ -544,36 +544,17 @@
   ],
   "newItems": [
     {
-      "id": "d5e28604f81f649c257762e944124e1a35ea5696",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQklJdXdQdU9IVmpFR2dIRlYxTVZmTm5MTU1OWjhIOHRGaURtcDI3VGlwYW5wb1VTVFM5Uk1QNVRDTlNtbmhpaTdNLVg5cDlwVFMzblVaUUQ2R2hXLTh3QTYyQ3htRGVycDEtYThrV2Nta2UzQjNPYThPak9DZURBSzdmYW4xOWt4?oc=5",
-      "title": "The 5 craziest discoveries from OpenAI's HuggingFace investigation",
-      "summary": "",
-      "publishedAt": "2026-08-30T05:32:36.000Z",
-      "publisher": "Axios",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "32df4966077a59826aeb6f676c613d20f96cc9a6",
+      "id": "39e56e97007d94cba1ff9358d78a6022b6a8c3bd",
       "company": "Anthropic",
       "sourceKind": "external",
       "sourceId": "external-anthropic-major",
       "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4yWkVsWkZ5bXMySGRnSmIwVWNQR2x6Z3B6ZzF0TVU1WGZtN1R2bVczRkFJOU5HZE93VlJFbmZGU3RVeEdPWC1IalN4bXEzbmhPb3RpTGt2TmE0U0lqcTdrR0QtT1VYY05za0hkRGVrOV9sU3hvU2JOX1JR?oc=5",
-      "title": "Music publishers sue Anthropic, allege \"blantant theft\" of copyrighted music",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQVh4aENUcjZvQVF3R0ZweUhDMjU2c3BHMEJiVjBQWnZXZGptS3p6blBocWcyVDBtQVU0aG5LR25WUzBsMHdNOXB3UERUbU5KeVR6T0FPY1NyN1lGWGJ5RTRXS01oSWJkRGxVVV9FODV2eFNBckY2OWY1SGNZU1QxWC04YTNuck0zVi04WG53T1p2SnZ5dk9LNmFMcC0yMEcyd0xSVlB0cWdPRVZCaXgwdGJR?oc=5",
+      "title": "Sony, Warner Music sue Anthropic over songs used in AI training",
       "summary": "",
-      "publishedAt": "2026-08-29T23:34:38.000Z",
-      "publisher": "Axios",
+      "publishedAt": "2026-08-31T16:37:12.000Z",
+      "publisher": "Reuters",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -582,36 +563,17 @@
       }
     },
     {
-      "id": "3cbec68266030916cbbf6161f53cba9d0bbc799a",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE90bmQ0enBvenh2RFZzWDJtV2FWRnFMVzNRMEJrbG1RSmtWbnZ6MU1XcHV0TUJ1dll3YkJJM1RSMUgyRWVsV3NTeHpUV1JOeEZVb01TRkctT0c0NjZIc0haWFVTdzVkSmFLM1htanRGeVJZMmxNb2NaWnBn0gF_QVVfeXFMTnNMYVB6Q3hkc1l0NnRTSVhOeU5uT21nbUxOZDZjU2ota0tocTk2a3JjOWdxeUp0M2ttVUpHNk1ZTlB5MWp6QkR5c21aUlduUERGbzRZenhNZ1ZIQVVWTWt6RmJJdW8xcVAtRW05NnIxVGI5UE1uaVA4Q0V6NWd4cw?oc=5",
-      "title": "OpenAI to end model access to Cursor after acquisition by Elon Musk's SpaceX",
-      "summary": "",
-      "publishedAt": "2026-08-29T19:05:55.000Z",
-      "publisher": "CNBC",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "3d3c3d1687ad4077ed6fb89a2b4e741f395c5a55",
+      "id": "e2433715280bca41085740810b0794116c119117",
       "company": "Anthropic",
       "sourceKind": "external",
       "sourceId": "external-anthropic-major",
       "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQejY1TWtSaGE0bDJPNF92ZEZBeTlSYnAycFpjN2dwS2JYZmlCQ2F3SnMzY01vSUlwdGljVzZsYU9mSk50dm9LMENkWW9fSnM5dnN0QVpFdlktalYwYXBGZWVkQ0ltcXRQdjdDYUNRNDExSkFQVXFQWk1ZSlVQLURWNXBZZTVhU2FoWE9vcjlXUURmSlBOOWdIczBtN0U5aF9BM2NoNnVPLTVjTmdhWG9sNGlhb1hXNXZ6Y3NCaTZpU2VBUQ?oc=5",
-      "title": "Sony Music, Warner sue Anthropic, alleging a \"brazen campaign\" of intellectual property theft",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQa3VaOXpKaWFLUVVhd2ZTc2RJd1dTUnMzMmlLOEVoOF8zSFhnUVFlUXdOaXkzNzdIR25HV2Qzdkl3NGo3U0l5TzFKTEhNMWJnbDB1aFVpRXp0blBYLW12a0didGM2cmJscTdWT2ttVnVVMWNRVlRSak5wbXpIUUVsRTgtMHUxa2c2a1NhYmhfOTlqV0lmaERQY3FCUkNrWlJNSWZOVQ?oc=5",
+      "title": "Anthropic Sued Over Claude Max Plans That Deliver Far Less Than Advertised",
       "summary": "",
-      "publishedAt": "2026-08-29T18:41:59.000Z",
-      "publisher": "TechCrunch",
+      "publishedAt": "2026-08-31T00:17:26.000Z",
+      "publisher": "Startup Fortune",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -620,98 +582,41 @@
       }
     },
     {
-      "id": "cf75263dca0427f391ef8e9e922465db0a9d7282",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTWRCTVBjQnVPR3d0TjdTNmJJVnhMOHd0RTdueFBlM2R5OVdXRDJpdGZkNnY3QVpWYXJQRk9GV3dvcGtKVHJFbXBiRkNBNWpoaFhfblVLclk2bVNNb3EzRzJVWWFaLUNLWjJ2eHdlUm9zUXlOV2kyblQzVTRrQ3BRR2sxUDRsSGdIVTNSbW5Uc3RHY2lQekxTdWRhdFk5dw?oc=5",
-      "title": "Altman-Musk Feud Escalates as OpenAI Cuts Off Cursor Access After SpaceX Merger",
-      "summary": "",
-      "publishedAt": "2026-08-29T15:05:10.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "06c1fe64dfc5ce4abb053cbcf945945d779e5277",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQejhSSDV2SHJEdUlBZ1RtYmZQNVR3TjNTMVkwS1BaLWlLYldadFZ1ZnM2NmRsM01BT2UwdVNBaVJMY1Y1RzEzNVQxNkZDZXFHSjhFTHlLeWxFVkZ6T3o4cVZfem9KS2RFWjNnSGZ2Mk5MU0hVTGJaellRZi1rQnQ4enlpeklTUjkwX29JT1I4ZFNpVXoteDFaRlpSNXFRd210QTBuekw3XzRNdkxfS1pSZnZlcw?oc=5",
-      "title": "OpenAI to End Partnership With Cursor After SpaceX Acquisition",
-      "summary": "",
-      "publishedAt": "2026-08-29T02:16:00.000Z",
-      "publisher": "Bloomberg.com",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "750ef333d9425b0663b947b316d5e9ae9e87acff",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa09yMVhMdS1vQWlmbE9Qc0w4TDFNdUFGYmljZUhJRWtMMGpReFdtd0x4Skh5Sk9ZX0owYzBTX0lZZVNpcHNqNGoxbk1zR3NkaVNuOXJ1WlhkczZYeU1RTlVJSTBlT1Q3NUQ0RkI5Ujd0bVJTQ0M1U2dmWGozMGo3RF9ieWhfdGxmVGlFNUwyZ1c3ZkNCUmFVNldJVXJ5Q0xXZGIxclhZRVUzVXV5d2x5NkRn?oc=5",
-      "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
-      "summary": "",
-      "publishedAt": "2026-08-28T12:46:12.000Z",
-      "publisher": "TechCrunch",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "85e3e8852597e6795aee181b05f633fdbf45b793",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaDJYeHEtMkV1bHdUVDBCdmNJM2d4anNydG1wcnh4QkpkSzF5VHpjOFUyMDRodmxzWURNa3A1SFB4N2o3NE5KTmtmckluRU9QN2xDTnQwRnI5UDl2b083M2FGR3dqendXYl9HQmNBYmpIZ1V3OHlXY1BKQjZ1bEdNLWNSWVU4eC1hVFN5VUFsQnBIM1pRc0czUHIyM0FZdVZrR1E?oc=5",
-      "title": "Watch Meta Settlement a ‘Pittance,’ Law Professor Says",
-      "summary": "",
-      "publishedAt": "2026-08-27T18:46:52.000Z",
-      "publisher": "Bloomberg.com",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "4eaffe39d1eb9806ec62e174f3414fdd97524c95",
+      "id": "ab6780f6467e1fc80cac7249df403589e7da8c2e",
       "company": "Microsoft",
       "sourceKind": "external",
       "sourceId": "external-microsoft-major",
       "sourceLabel": "Major External News - Microsoft",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcVhwbkhiSWZuTng5RUlsX1llWUdxaGVJWXFua1FNTXdHczIxb2VZZ2J1ZkhSbUNqYXpFRGEtRjdNSE82NzdqWlN0UUIyNlN5c1NVVkpFaTZaWEFwX3Nndjg2Ri1mN0Nxa2dJUnNzTFZwOE1NSmRvc1JyTHNPdUlBeDFvWERCRk5oU0VuRUQ3Y0lDdENSekE?oc=5",
-      "title": "Nvidia CEO Jensen Huang Not Taking OpenAI's 'Jalapeño' Chip Personally: 'Lots of Projects Get Started. Lots of Projects Get Canceled'",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOb0FpdFpiTHhKTkxIbDVYT0hhc0Y4ZFRseXB1QmtJd2h3QXBmWDA1QWs2VVJOQ1N6NU85Y1pHRGlNYW1lOElmdHdkX3VSejI1cWdPMENtenZfcE5UaW1wUnhndm1Cb201MUplR3pyX3NoNUxJVW92TVEwNHZSc0ZHWVNwZjdQLWRRM0ZYQktR?oc=5",
+      "title": "OpenAI to End Partnership With Cursor After SpaceX Acquisition",
       "summary": "",
-      "publishedAt": "2026-08-29T03:31:00.000Z",
-      "publisher": "Yahoo Finance",
+      "publishedAt": "2026-08-29T02:16:00.000Z",
+      "publisher": "Yahoo Finance UK",
       "discoveryMethod": "feed",
       "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "44f61163770f758b1f0f7a7a6d001be1ca835622",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+      "title": "A milestone in expanding access to AI",
+      "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
+      "publishedAt": "2026-08-31T04:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
       }
     }
   ],
