@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T17:42:23.113Z",
+  "generatedAt": "2026-09-02T17:44:24.670Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -78,24 +78,24 @@
   "totals": {
     "fetched": 38,
     "deduped": 24,
-    "new": 9,
+    "new": 13,
     "byKind": {
-      "official": 14,
-      "external": 10
+      "official": 15,
+      "external": 9
     }
   },
   "items": [
     {
-      "id": "88394dc6e3c99ffb53288186391fbd54c6233b2e",
-      "company": "Anthropic",
+      "id": "2273cc2e7fd4485f7ea953eb3e97a702384c06d7",
+      "company": "Microsoft",
       "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQk5zeEdSY0R1QkZvUWFhd0VBNUpSdmVUWXgyTl8xYVA2dTJ5d0dRX0tNOU1nTHh2WGloYzdxMWNqMUU5TldXeFVHTWRodkdsOXpiMTJBLUNPSEI0c2tIanBhbEs0RU96TDlGZEgyazVRbE9OVkRMNmpoX1YwdHJta1UzZFZoMjIwTUxjM29DYjk3WkwzQ1hjRURvWUlLQQ?oc=5",
-      "title": "CLAUDE ANDRÉ HÉBERT CELEBRATES NEARLY FOUR DECADES IN PERFUMERY WITH A PANEL, A NEW MONTREAL BOUTIQUE, AND A PARTNERSHIP AROUND THE VICTORIA FRAGRANCE",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNR2ZDRVZRVGk5UGp3MW9MbUZRbGZSWGk1VHFPRVJGbE5ORFc5NkNsU2JOb2N4MEN6S3RUMWMwLTZudFZqNXBuOWtVeFpxTEd1NlR4Z05qY3pBM09DaFhBVWo2SWU0RDBNQWQzTFJFQ0l2R0htQmt2R1E4TzZlZU8wSkxvdl9RQ3VLV0JNS1RTbU1kSTRDOFVLdW1fYUY4QnFqM3hnOFdWZkRDdw?oc=5",
+      "title": "Darwinbox Expands Partnership with Microsoft to Drive Delivered Value Across Enterprises with Frontier Tuning",
       "summary": "",
-      "publishedAt": "2026-09-01T14:26:00.000Z",
+      "publishedAt": "2026-09-02T12:10:00.000Z",
       "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
@@ -105,17 +105,17 @@
       }
     },
     {
-      "id": "196c1563cf5a2c13917f358c9cdc24ff3f0beedc",
-      "company": "Anthropic",
+      "id": "3710272d401b8dd2426871c070f7a9ba129d9689",
+      "company": "OpenAI",
       "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1sV01tRm5FMHVMTGZmWEJmUnpTTVVJTFY2WFVDZVVzend5S2ppQjQ4bm9SbWNkTzd5V3c2dGZNdHo3Z2k2UzUzNnMxdUNYZXppS2dOZmdma3RCelVmTVpPdnlESVB1R0w2dEpDV2tmWWx2R09qZWpSVjMtTFFvZw?oc=5",
-      "title": "Sony and Warner Music sue Anthropic over alleged theft of 'tens of thousands' of songs",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONUZ3UkluZXloeUM5ZnFIYVBXMFREalZvZ056MjBJLXJTNkpvLVE0T1lFMlF6T3VNbkllWmZXYXgxeTdTNE02SXFPS1RNQjZ5b0FHYnliM0dublhDMENqZThVOTdnbS0yWTFLVTVDbExNUXh0eXVXbVhUWlo1WEZyQTdlU2d2cEZUVXFNOVB1NFRDb0UzbEVCdg?oc=5",
+      "title": "CrowdStrike and OpenAI Expand Partnership to Secure the Agentic Era",
       "summary": "",
-      "publishedAt": "2026-09-01T07:00:00.000Z",
-      "publisher": "Fortune",
+      "publishedAt": "2026-09-02T12:06:00.000Z",
+      "publisher": "Yahoo Finance Singapore",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -124,17 +124,17 @@
       }
     },
     {
-      "id": "39e56e97007d94cba1ff9358d78a6022b6a8c3bd",
+      "id": "5b99f9a4a56fabb6cf5c39835dcd9d117ad6f5af",
       "company": "Anthropic",
       "sourceKind": "external",
       "sourceId": "external-anthropic-major",
       "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQVh4aENUcjZvQVF3R0ZweUhDMjU2c3BHMEJiVjBQWnZXZGptS3p6blBocWcyVDBtQVU0aG5LR25WUzBsMHdNOXB3UERUbU5KeVR6T0FPY1NyN1lGWGJ5RTRXS01oSWJkRGxVVV9FODV2eFNBckY2OWY1SGNZU1QxWC04YTNuck0zVi04WG53T1p2SnZ5dk9LNmFMcC0yMEcyd0xSVlB0cWdPRVZCaXgwdGJR?oc=5",
-      "title": "Sony, Warner Music sue Anthropic over songs used in AI training",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONFlTbW93cUUwcUdPODVDMlpBS29hb0wwNVhCdmVOQXZSMFVsWUQ0cmkyb09JcGFlbW84bkc3RUhFRnhvSENzTjR4NE9ON0ZQVW9RMFlvQW5hRV9SdW9XVFFEU2RwTkJPLTBXMVRqcXRZYU54MkE4VDRQS2xDc2s1SHRLYTJnbDRGZnhrMmpiSjN1X2VFUTFXSkgzN0FlbTRNQy1qQjBRVDdOZ1M4VzY5d1B4ZnItcGtucmV2OUM5OXU3RGhvZ2t0dUdn?oc=5",
+      "title": "Anthropic’s Court Win Sets Proper Limits on Government Conduct",
       "summary": "",
-      "publishedAt": "2026-08-31T16:37:12.000Z",
-      "publisher": "Reuters",
+      "publishedAt": "2026-09-02T08:30:00.000Z",
+      "publisher": "Bloomberg Law News",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -143,36 +143,55 @@
       }
     },
     {
-      "id": "3cbec68266030916cbbf6161f53cba9d0bbc799a",
+      "id": "b810a27bc702509317f98e08132ea69e919c5ac8",
       "company": "OpenAI",
       "sourceKind": "external",
       "sourceId": "external-openai-major",
       "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE90bmQ0enBvenh2RFZzWDJtV2FWRnFMVzNRMEJrbG1RSmtWbnZ6MU1XcHV0TUJ1dll3YkJJM1RSMUgyRWVsV3NTeHpUV1JOeEZVb01TRkctT0c0NjZIc0haWFVTdzVkSmFLM1htanRGeVJZMmxNb2NaWnBn0gF_QVVfeXFMTnNMYVB6Q3hkc1l0NnRTSVhOeU5uT21nbUxOZDZjU2ota0tocTk2a3JjOWdxeUp0M2ttVUpHNk1ZTlB5MWp6QkR5c21aUlduUERGbzRZenhNZ1ZIQVVWTWt6RmJJdW8xcVAtRW05NnIxVGI5UE1uaVA4Q0V6NWd4cw?oc=5",
-      "title": "OpenAI to end model access to Cursor after acquisition by Elon Musk's SpaceX",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZ1FGWDNpWkJPOW41c0QwLTFuUWllMVN6OUVaaUYtTEZWZUZ5SkFYQUJna1czdTNDY2pKVzY0VFdLcVpMR19vM0JJc3NmVTZtMnVvRHBzYkJwSE1mRDZaeGRfeG56ajlBQlhaQ2pYVUI5Y2RhZjFSOXhvWmZKVm52TlV0VXhJRVlfNHhwT2F6cTktczBvQ2h1WUc4dGNmeUNYX1Q2NXI1T3VhaTlaaWJsQg?oc=5",
+      "title": "Montana Joins Alabama, Others Launching OpenAI Security Probe",
       "summary": "",
-      "publishedAt": "2026-08-29T19:05:55.000Z",
-      "publisher": "CNBC",
+      "publishedAt": "2026-09-01T21:43:00.000Z",
+      "publisher": "Bloomberg Law News",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 6,
+        "score": 7,
         "reason": "Corporate move or major external event"
       }
     },
     {
-      "id": "32df4966077a59826aeb6f676c613d20f96cc9a6",
+      "id": "192a917f61c2384344bf2fb83ba7fffb1cfd31bd",
+      "company": "Google",
+      "sourceKind": "external",
+      "sourceId": "external-google-major",
+      "sourceLabel": "Major External News - Google",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQM3ZuSzV0eDN5dmp1amtEMFZnNjc4UlNvTERweEhFYmJVYTc4NURmM2U2QnZSN0k1WEFGbVh5dkhaT2hQTWgwY1Z3MnU1Q182dm1PQkd2Q19NQmZXUFpYbFk1VEhQbFhYeWRGWVF2WWgzWVhmRlVrUF80TVJYODgyVFRFdEJOS3NhV0VBMTMxSDc4b0tHM3RCcENHMDhocFNUakxDNDVwa3pXR0NSUDBtRGgyYjBCWUJjeWc?oc=5",
+      "title": "EU antitrust regulators quiz publishers on Google's AI search opt-out",
+      "summary": "",
+      "publishedAt": "2026-09-01T18:02:00.000Z",
+      "publisher": "reuters.com",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "30e43b9ac10c670168b2363572817a0b0d6af7ef",
       "company": "Anthropic",
       "sourceKind": "external",
       "sourceId": "external-anthropic-major",
       "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4yWkVsWkZ5bXMySGRnSmIwVWNQR2x6Z3B6ZzF0TVU1WGZtN1R2bVczRkFJOU5HZE93VlJFbmZGU3RVeEdPWC1IalN4bXEzbmhPb3RpTGt2TmE0U0lqcTdrR0QtT1VYY05za0hkRGVrOV9sU3hvU2JOX1JR?oc=5",
-      "title": "Music publishers sue Anthropic, allege \"blantant theft\" of copyrighted music",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV0dBUjFJMmtBdkx4UGtGc1dSUjhFcHFZQnowRmNNVXpBbVBFYTQ1WGtuQ2tkYzh5b2Jib3BrRnVqNWtfemdpNk5KUUM3b1VMYlQ5UlBrWThMVGt4b0ZTXzVqMm9PX0pVSEFZWkVVN0NaNXg3RTg0VF94R2daV2QwY042cDNHNTZabTJYUkNyNlFkb2VBUkgzYXB1Y1FLeGhrTXZ3NHQ1dEZPZGM?oc=5",
+      "title": "SaaSpocalypse Is ‘Nonsense’ Says Salesforce CEO Amid Earnings Beat and Anthropic Partnership",
       "summary": "",
-      "publishedAt": "2026-08-29T16:44:27.000Z",
-      "publisher": "Axios",
+      "publishedAt": "2026-08-28T04:01:00.000Z",
+      "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -181,16 +200,16 @@
       }
     },
     {
-      "id": "06c1fe64dfc5ce4abb053cbcf945945d779e5277",
-      "company": "OpenAI",
+      "id": "8655288f79a1dc27c2690dda1627ef0524eb06b7",
+      "company": "Anthropic",
       "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQejhSSDV2SHJEdUlBZ1RtYmZQNVR3TjNTMVkwS1BaLWlLYldadFZ1ZnM2NmRsM01BT2UwdVNBaVJMY1Y1RzEzNVQxNkZDZXFHSjhFTHlLeWxFVkZ6T3o4cVZfem9KS2RFWjNnSGZ2Mk5MU0hVTGJaellRZi1rQnQ4enlpeklTUjkwX29JT1I4ZFNpVXoteDFaRlpSNXFRd210QTBuekw3XzRNdkxfS1pSZnZlcw?oc=5",
-      "title": "OpenAI to End Partnership With Cursor After SpaceX Acquisition",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZ0RBUzJ2eUcwYnNFNnhCS2hsZWVXZDdvWlVpNnlkWF91V0hrTkNEc0xFR083MTVpa1lVUktWVVV1UVR3cW01WTN2TE8wTVpMSTZudWc4Ykh5bFk4VXZpY1BPVVFJRWVpaFpMdVh0NV9ZeFJWeVlLS2pTaURfeHJqdEhTbE1idw?oc=5",
+      "title": "Watch Jackson Hole, Anthropic’s Court Win and PayPal Deal Collapse",
       "summary": "",
-      "publishedAt": "2026-08-29T02:16:00.000Z",
+      "publishedAt": "2026-08-28T00:00:00.000Z",
       "publisher": "Bloomberg.com",
       "discoveryMethod": "feed",
       "classification": {
@@ -200,17 +219,17 @@
       }
     },
     {
-      "id": "490203f58af24f06bd142d7072a4bbb5378dd4fa",
+      "id": "fd59df5d254af8448e5bb0570255a5d35ce4b6b4",
       "company": "Meta",
       "sourceKind": "external",
       "sourceId": "external-meta-major",
       "sourceLabel": "Major External News - Meta",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeEl0QjIzT2pDZ0lqR0ZLa0ltNTB3MDhSMWVWMVozV2h5cy1UWEFtSC1rM1h0RjJfWVl2cUZac1owbEwzVF9FSlFKalc1akhSZEY0SXl1cVlnLUJzU0JxclBQS0lnU2tlYjR3NHRjNEFfMFEzWVlnQXhMdHIzMnphRXpmSlNVQQ?oc=5",
-      "title": "Did Meta’s Big Settlement Actually Help It?",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5PQUNnVm02ZFdsdVVWdUo1UHhGdEhYNDVuWmVpX1JsV3ZaTFJ0TWpvQVgtM0RYVUpkRWhQMWdqMkZVaHpYXzlXSFc4VHR0VHF1MGZuY0Ywb3NIdTVvOEgxRlRWUkhjM1BnYUxiLQ?oc=5",
+      "title": "Fortune Tech: Meta’s record settlement, Nvidia Q2 earnings, DraftKings’ co-founder contract",
       "summary": "",
-      "publishedAt": "2026-08-27T11:59:04.000Z",
-      "publisher": "The New York Times",
+      "publishedAt": "2026-08-27T11:01:00.000Z",
+      "publisher": "Fortune",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -219,17 +238,55 @@
       }
     },
     {
-      "id": "38c6e922e4556f89ed7154224ab7b986c4ba1f1b",
-      "company": "OpenAI",
+      "id": "ba44b09e34b1dfbe55a5d1102ce8d430f4bd6ffb",
+      "company": "Microsoft",
       "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUkFydW9NRDN6MGdpelgtTXlVMWVDRmR2cWh1YjZ1VTZHWi11bjR5X2hUSWhJbDdlQnhlclVYcHN0aTloTVE5QkNPM1FyRXpOXy03UG9STHB0M0ZqOFUxN2stcmZCbjlSd1liV3lTSzdjTW15NktSai1ibnpOU0taM1E4LTZ2dF9aUHhKV0JReE5JUlhuNlpseGdsdHBKdw?oc=5",
-      "title": "OpenAI releases its official report on the Hugging Face breach",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTGxPRFhSWmRuamtJUndyS0laUXpMb1hHbzVUeWhNUWpmdVRIMWVRX2pfdnh6bjNhSGRrXzh2b204UFpHd1dZNm5BbGlYeUtlOUdrVG9zSW9fbFBTX25PaVZ6am5YbEowWm5YWDNtUm9TTmNCb3FfZ2JGdE82RXhseXhZbWoyeE5EempjUEJUSGxMWGFKWEIxRXUtcw?oc=5",
+      "title": "Microsoft is enabling a Windows 11 security feature that can hurt gaming performance",
       "summary": "",
-      "publishedAt": "2026-08-26T19:05:22.000Z",
-      "publisher": "TechCrunch",
+      "publishedAt": "2026-09-02T08:57:40.000Z",
+      "publisher": "The Verge",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "7bf309317e3edd1e5a56dcebf916551fe5d6aca4",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber",
+      "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "summary": "Gemini 3.8 Flash and 3.8 Flash Cyber deliver next-generation intelligence for agentic workflows and cybersecurity.",
+      "publishedAt": "2026-09-02T15:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "4df22e2911252dabe9cbbe5222d34610ca1c4111",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026",
+      "title": "The latest AI news we announced in August 2026",
+      "summary": "Here are Google’s latest AI updates from August 2026",
+      "publishedAt": "2026-09-01T20:45:00.000Z",
+      "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -257,22 +314,22 @@
       }
     },
     {
-      "id": "092c8de02e8b135ec330a69dfe0e592abd521d97",
+      "id": "309be27bdcfe3156d3369d0a4cf6b27fb7f7b99f",
       "company": "OpenAI",
       "sourceKind": "official",
       "sourceId": "openai-newsroom",
       "sourceLabel": "OpenAI Newsroom",
       "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-      "title": "Our decision on Cursor following its acquisition by SpaceX",
-      "summary": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
-      "publishedAt": "2026-08-28T06:00:00.000Z",
+      "url": "https://openai.com/index/path-to-astra",
+      "title": "Path to Astra: critical capabilities and frontier safeguards",
+      "summary": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
+      "publishedAt": "2026-09-01T13:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
         "score": 5,
-        "reason": "Corporate move or major external event"
+        "reason": "Flagship model or product launch"
       }
     },
     {
@@ -314,16 +371,16 @@
       }
     },
     {
-      "id": "0703988e3a3319168a4bed769fe486164f0f87f1",
-      "company": "OpenAI",
+      "id": "a0fc52c7c407bf11d8b68ccf62e1b5e671a984b4",
+      "company": "Microsoft",
       "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
-      "title": "OpenAI supports California’s bill to advance youth AI safety",
-      "summary": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
-      "publishedAt": "2026-08-31T07:00:00.000Z",
+      "sourceId": "microsoft-ai",
+      "sourceLabel": "Microsoft AI",
+      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
+      "url": "https://news.microsoft.com/source/emea/features/how-kier-groups-louisa-finlay-is-using-copilot-to-drive-safety-and-productivity-in-the-construction-industry",
+      "title": "How Kier Group’s Louisa Finlay is using Copilot to drive safety and productivity in the construction industry",
+      "summary": "How Kier Group’s Louisa Finlay is using Copilot to drive safety and productivity in the construction industry",
+      "publishedAt": "2026-09-02T16:28:46.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -333,18 +390,18 @@
       }
     },
     {
-      "id": "e83ff5faec702b5af3f509f77b67c0a370580d1c",
-      "company": "Anthropic",
+      "id": "631a857c7a24a6f9d6625557188024197f34a5d5",
+      "company": "OpenAI",
       "sourceKind": "official",
-      "sourceId": "anthropic-news",
-      "sourceLabel": "Anthropic News",
-      "homepageUrl": "https://www.anthropic.com/news",
-      "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
-      "title": "Improving our alignment and security efforts",
-      "summary": "",
-      "publishedAt": "2026-08-31T00:00:00.000Z",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/gilbert-tobin",
+      "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
+      "summary": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.",
+      "publishedAt": "2026-09-01T01:00:00.000Z",
       "publisher": "",
-      "discoveryMethod": "anchor",
+      "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
         "score": 4,
@@ -371,25 +428,6 @@
       }
     },
     {
-      "id": "b1fb9f7de9ed066e35ec4ccc5eed5ad3fec6e8e2",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/new-creative-controls-google-flow",
-      "title": "Google Flow brings new creative control features to enhance video editing.",
-      "summary": "At Google I/O, we launched Gemini Omni Flash in Google Flow, bringing new video editing capabilities to creatives. Today we’re rolling out updates via Gemini Omni 1.1 Fl…",
-      "publishedAt": "2026-08-27T16:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
       "id": "e8e7441ac397b5268926e451bcb70303e6ae9b2c",
       "company": "Anthropic",
       "sourceKind": "official",
@@ -397,7 +435,7 @@
       "sourceLabel": "Anthropic News",
       "homepageUrl": "https://www.anthropic.com/news",
       "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
-      "title": "Previewing the Model Hardware Standard Announcements We’re opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and advanced manufacturers.",
+      "title": "Previewing the Model Hardware Standard We’re opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and advanced manufacturers.",
       "summary": "",
       "publishedAt": "2026-08-27T00:00:00.000Z",
       "publisher": "",
@@ -409,41 +447,22 @@
       }
     },
     {
-      "id": "4eaffe39d1eb9806ec62e174f3414fdd97524c95",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcVhwbkhiSWZuTng5RUlsX1llWUdxaGVJWXFua1FNTXdHczIxb2VZZ2J1ZkhSbUNqYXpFRGEtRjdNSE82NzdqWlN0UUIyNlN5c1NVVkpFaTZaWEFwX3Nndjg2Ri1mN0Nxa2dJUnNzTFZwOE1NSmRvc1JyTHNPdUlBeDFvWERCRk5oU0VuRUQ3Y0lDdENSekE?oc=5",
-      "title": "Nvidia CEO Jensen Huang Not Taking OpenAI's 'Jalapeño' Chip Personally: 'Lots of Projects Get Started. Lots of Projects Get Canceled'",
-      "summary": "",
-      "publishedAt": "2026-08-29T03:31:00.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "98e7a4996e8a117ed49f38db183819da43e0293e",
+      "id": "478b7cdcbc40a552afd22640a6787af823be18a5",
       "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9uVzBDUEcwVFpxdXpVOE8tSVI4VHpCbk5zT24xRmo2VFpBR3NXVXd5MmhvNjk4TzNHRkRoS1JTMGRoUmdnaUNObE53YmF1RFgzVGQycTdvQk5pa2pBSXBnMk90ajdIVkpDdHNwdWJOcndJTjUzWTFoNU9OUmQtdw?oc=5",
-      "title": "Meta Shifts the Blame + Do Data Center Bans Work? + The Final HatGPT",
-      "summary": "",
-      "publishedAt": "2026-08-28T11:00:03.000Z",
-      "publisher": "The New York Times",
+      "sourceKind": "official",
+      "sourceId": "meta-newsroom",
+      "sourceLabel": "Meta Newsroom",
+      "homepageUrl": "https://about.fb.com/news/",
+      "url": "https://about.fb.com/news/2026/09/inside-metas-infrastructure-lab",
+      "title": "Inside Meta’s Infrastructure Lab",
+      "summary": "Join Tom Shaw for a look inside Meta's Infrastructure Lab to explore the hardware being developed to power the next generation of AI. The post Inside Meta’s Infrastructure Lab",
+      "publishedAt": "2026-09-01T20:24:43.000Z",
+      "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
         "score": 3,
-        "reason": "Trusted external coverage"
+        "reason": "Technical or research update"
       }
     },
     {
@@ -485,122 +504,6 @@
       }
     },
     {
-      "id": "7bc34157143210082026cf6b4abadaaff713ea65",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/polimill",
-      "title": "Polimill builds Japan's next-generation public AI infrastructure",
-      "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
-      "publishedAt": "2026-08-31T07:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Technical or research update"
-      }
-    },
-    {
-      "id": "3a0b4572422c1a8cbc95ae7fb7158fc8dc49f9d0",
-      "company": "Anthropic",
-      "sourceKind": "official",
-      "sourceId": "anthropic-news",
-      "sourceLabel": "Anthropic News",
-      "homepageUrl": "https://www.anthropic.com/news",
-      "url": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy",
-      "title": "Responsible Scaling Policy",
-      "summary": "",
-      "publishedAt": null,
-      "publisher": "",
-      "discoveryMethod": "anchor",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "3b5f2688fec1191a6e1065794360de4557d49aa5",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/ai-native-company-workflows",
-      "title": "How AI-native companies turn workflows into operating capability",
-      "summary": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
-      "publishedAt": "2026-09-01T17:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    }
-  ],
-  "newItems": [
-    {
-      "id": "88394dc6e3c99ffb53288186391fbd54c6233b2e",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQk5zeEdSY0R1QkZvUWFhd0VBNUpSdmVUWXgyTl8xYVA2dTJ5d0dRX0tNOU1nTHh2WGloYzdxMWNqMUU5TldXeFVHTWRodkdsOXpiMTJBLUNPSEI0c2tIanBhbEs0RU96TDlGZEgyazVRbE9OVkRMNmpoX1YwdHJta1UzZFZoMjIwTUxjM29DYjk3WkwzQ1hjRURvWUlLQQ?oc=5",
-      "title": "CLAUDE ANDRÉ HÉBERT CELEBRATES NEARLY FOUR DECADES IN PERFUMERY WITH A PANEL, A NEW MONTREAL BOUTIQUE, AND A PARTNERSHIP AROUND THE VICTORIA FRAGRANCE",
-      "summary": "",
-      "publishedAt": "2026-09-01T14:26:00.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "196c1563cf5a2c13917f358c9cdc24ff3f0beedc",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1sV01tRm5FMHVMTGZmWEJmUnpTTVVJTFY2WFVDZVVzend5S2ppQjQ4bm9SbWNkTzd5V3c2dGZNdHo3Z2k2UzUzNnMxdUNYZXppS2dOZmdma3RCelVmTVpPdnlESVB1R0w2dEpDV2tmWWx2R09qZWpSVjMtTFFvZw?oc=5",
-      "title": "Sony and Warner Music sue Anthropic over alleged theft of 'tens of thousands' of songs",
-      "summary": "",
-      "publishedAt": "2026-09-01T07:00:00.000Z",
-      "publisher": "Fortune",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "ec4d22acc2bd0ee11629440892256166f203ea23",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-agentic-video-in-gemini",
-      "title": "Introducing agentic video understanding with Gemini",
-      "summary": "We’re launching agentic video understanding across our latest Gemini models for improved accuracy and lower costs and token usage.",
-      "publishedAt": "2026-09-01T17:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
       "id": "0703988e3a3319168a4bed769fe486164f0f87f1",
       "company": "OpenAI",
       "sourceKind": "official",
@@ -615,7 +518,7 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
-        "score": 4,
+        "score": 3,
         "reason": "Safety, security, or policy update"
       }
     },
@@ -634,84 +537,257 @@
       "discoveryMethod": "anchor",
       "classification": {
         "bucket": "important",
-        "score": 4,
+        "score": 3,
+        "reason": "Safety, security, or policy update"
+      }
+    }
+  ],
+  "newItems": [
+    {
+      "id": "2273cc2e7fd4485f7ea953eb3e97a702384c06d7",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNR2ZDRVZRVGk5UGp3MW9MbUZRbGZSWGk1VHFPRVJGbE5ORFc5NkNsU2JOb2N4MEN6S3RUMWMwLTZudFZqNXBuOWtVeFpxTEd1NlR4Z05qY3pBM09DaFhBVWo2SWU0RDBNQWQzTFJFQ0l2R0htQmt2R1E4TzZlZU8wSkxvdl9RQ3VLV0JNS1RTbU1kSTRDOFVLdW1fYUY4QnFqM3hnOFdWZkRDdw?oc=5",
+      "title": "Darwinbox Expands Partnership with Microsoft to Drive Delivered Value Across Enterprises with Frontier Tuning",
+      "summary": "",
+      "publishedAt": "2026-09-02T12:10:00.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "3710272d401b8dd2426871c070f7a9ba129d9689",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONUZ3UkluZXloeUM5ZnFIYVBXMFREalZvZ056MjBJLXJTNkpvLVE0T1lFMlF6T3VNbkllWmZXYXgxeTdTNE02SXFPS1RNQjZ5b0FHYnliM0dublhDMENqZThVOTdnbS0yWTFLVTVDbExNUXh0eXVXbVhUWlo1WEZyQTdlU2d2cEZUVXFNOVB1NFRDb0UzbEVCdg?oc=5",
+      "title": "CrowdStrike and OpenAI Expand Partnership to Secure the Agentic Era",
+      "summary": "",
+      "publishedAt": "2026-09-02T12:06:00.000Z",
+      "publisher": "Yahoo Finance Singapore",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "5b99f9a4a56fabb6cf5c39835dcd9d117ad6f5af",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONFlTbW93cUUwcUdPODVDMlpBS29hb0wwNVhCdmVOQXZSMFVsWUQ0cmkyb09JcGFlbW84bkc3RUhFRnhvSENzTjR4NE9ON0ZQVW9RMFlvQW5hRV9SdW9XVFFEU2RwTkJPLTBXMVRqcXRZYU54MkE4VDRQS2xDc2s1SHRLYTJnbDRGZnhrMmpiSjN1X2VFUTFXSkgzN0FlbTRNQy1qQjBRVDdOZ1M4VzY5d1B4ZnItcGtucmV2OUM5OXU3RGhvZ2t0dUdn?oc=5",
+      "title": "Anthropic’s Court Win Sets Proper Limits on Government Conduct",
+      "summary": "",
+      "publishedAt": "2026-09-02T08:30:00.000Z",
+      "publisher": "Bloomberg Law News",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "b810a27bc702509317f98e08132ea69e919c5ac8",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZ1FGWDNpWkJPOW41c0QwLTFuUWllMVN6OUVaaUYtTEZWZUZ5SkFYQUJna1czdTNDY2pKVzY0VFdLcVpMR19vM0JJc3NmVTZtMnVvRHBzYkJwSE1mRDZaeGRfeG56ajlBQlhaQ2pYVUI5Y2RhZjFSOXhvWmZKVm52TlV0VXhJRVlfNHhwT2F6cTktczBvQ2h1WUc4dGNmeUNYX1Q2NXI1T3VhaTlaaWJsQg?oc=5",
+      "title": "Montana Joins Alabama, Others Launching OpenAI Security Probe",
+      "summary": "",
+      "publishedAt": "2026-09-01T21:43:00.000Z",
+      "publisher": "Bloomberg Law News",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "192a917f61c2384344bf2fb83ba7fffb1cfd31bd",
+      "company": "Google",
+      "sourceKind": "external",
+      "sourceId": "external-google-major",
+      "sourceLabel": "Major External News - Google",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQM3ZuSzV0eDN5dmp1amtEMFZnNjc4UlNvTERweEhFYmJVYTc4NURmM2U2QnZSN0k1WEFGbVh5dkhaT2hQTWgwY1Z3MnU1Q182dm1PQkd2Q19NQmZXUFpYbFk1VEhQbFhYeWRGWVF2WWgzWVhmRlVrUF80TVJYODgyVFRFdEJOS3NhV0VBMTMxSDc4b0tHM3RCcENHMDhocFNUakxDNDVwa3pXR0NSUDBtRGgyYjBCWUJjeWc?oc=5",
+      "title": "EU antitrust regulators quiz publishers on Google's AI search opt-out",
+      "summary": "",
+      "publishedAt": "2026-09-01T18:02:00.000Z",
+      "publisher": "reuters.com",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "8655288f79a1dc27c2690dda1627ef0524eb06b7",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZ0RBUzJ2eUcwYnNFNnhCS2hsZWVXZDdvWlVpNnlkWF91V0hrTkNEc0xFR083MTVpa1lVUktWVVV1UVR3cW01WTN2TE8wTVpMSTZudWc4Ykh5bFk4VXZpY1BPVVFJRWVpaFpMdVh0NV9ZeFJWeVlLS2pTaURfeHJqdEhTbE1idw?oc=5",
+      "title": "Watch Jackson Hole, Anthropic’s Court Win and PayPal Deal Collapse",
+      "summary": "",
+      "publishedAt": "2026-08-28T00:00:00.000Z",
+      "publisher": "Bloomberg.com",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "ba44b09e34b1dfbe55a5d1102ce8d430f4bd6ffb",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTGxPRFhSWmRuamtJUndyS0laUXpMb1hHbzVUeWhNUWpmdVRIMWVRX2pfdnh6bjNhSGRrXzh2b204UFpHd1dZNm5BbGlYeUtlOUdrVG9zSW9fbFBTX25PaVZ6am5YbEowWm5YWDNtUm9TTmNCb3FfZ2JGdE82RXhseXhZbWoyeE5EempjUEJUSGxMWGFKWEIxRXUtcw?oc=5",
+      "title": "Microsoft is enabling a Windows 11 security feature that can hurt gaming performance",
+      "summary": "",
+      "publishedAt": "2026-09-02T08:57:40.000Z",
+      "publisher": "The Verge",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
         "reason": "Safety, security, or policy update"
       }
     },
     {
-      "id": "50e05f9b472e33e2adbbd0db85106a39a236152d",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
-      "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-      "summary": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.",
-      "publishedAt": "2026-09-01T12:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Technical or research update"
-      }
-    },
-    {
-      "id": "59a04de9d10267d59c833784106b417daab49898",
+      "id": "7bf309317e3edd1e5a56dcebf916551fe5d6aca4",
       "company": "Google",
       "sourceKind": "official",
       "sourceId": "google-ai",
       "sourceLabel": "Google AI",
       "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/antigravity-teamwork-multi-agent",
-      "title": "Pairing Google Antigravity with Gemini 3.7 Flash solves notable multi-agent math and engineering problems.",
-      "summary": "Gemini 3.7 Flash powers autonomous agent teams in Antigravity to solve open math problems, build CPU emulators, and optimize OSS.",
-      "publishedAt": "2026-08-31T22:00:00.000Z",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber",
+      "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "summary": "Gemini 3.8 Flash and 3.8 Flash Cyber deliver next-generation intelligence for agentic workflows and cybersecurity.",
+      "publishedAt": "2026-09-02T15:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "4df22e2911252dabe9cbbe5222d34610ca1c4111",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026",
+      "title": "The latest AI news we announced in August 2026",
+      "summary": "Here are Google’s latest AI updates from August 2026",
+      "publishedAt": "2026-09-01T20:45:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "309be27bdcfe3156d3369d0a4cf6b27fb7f7b99f",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/path-to-astra",
+      "title": "Path to Astra: critical capabilities and frontier safeguards",
+      "summary": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
+      "publishedAt": "2026-09-01T13:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "a0fc52c7c407bf11d8b68ccf62e1b5e671a984b4",
+      "company": "Microsoft",
+      "sourceKind": "official",
+      "sourceId": "microsoft-ai",
+      "sourceLabel": "Microsoft AI",
+      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
+      "url": "https://news.microsoft.com/source/emea/features/how-kier-groups-louisa-finlay-is-using-copilot-to-drive-safety-and-productivity-in-the-construction-industry",
+      "title": "How Kier Group’s Louisa Finlay is using Copilot to drive safety and productivity in the construction industry",
+      "summary": "How Kier Group’s Louisa Finlay is using Copilot to drive safety and productivity in the construction industry",
+      "publishedAt": "2026-09-02T16:28:46.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "631a857c7a24a6f9d6625557188024197f34a5d5",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/gilbert-tobin",
+      "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
+      "summary": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.",
+      "publishedAt": "2026-09-01T01:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "478b7cdcbc40a552afd22640a6787af823be18a5",
+      "company": "Meta",
+      "sourceKind": "official",
+      "sourceId": "meta-newsroom",
+      "sourceLabel": "Meta Newsroom",
+      "homepageUrl": "https://about.fb.com/news/",
+      "url": "https://about.fb.com/news/2026/09/inside-metas-infrastructure-lab",
+      "title": "Inside Meta’s Infrastructure Lab",
+      "summary": "Join Tom Shaw for a look inside Meta's Infrastructure Lab to explore the hardware being developed to power the next generation of AI. The post Inside Meta’s Infrastructure Lab",
+      "publishedAt": "2026-09-01T20:24:43.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
         "score": 3,
         "reason": "Technical or research update"
-      }
-    },
-    {
-      "id": "7bc34157143210082026cf6b4abadaaff713ea65",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/polimill",
-      "title": "Polimill builds Japan's next-generation public AI infrastructure",
-      "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
-      "publishedAt": "2026-08-31T07:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Technical or research update"
-      }
-    },
-    {
-      "id": "3b5f2688fec1191a6e1065794360de4557d49aa5",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/ai-native-company-workflows",
-      "title": "How AI-native companies turn workflows into operating capability",
-      "summary": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
-      "publishedAt": "2026-09-01T17:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
       }
     }
   ],
