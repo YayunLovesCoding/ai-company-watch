@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T17:39:56.186Z",
+  "generatedAt": "2026-09-04T17:28:05.367Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -76,12 +76,12 @@
     }
   ],
   "totals": {
-    "fetched": 28,
+    "fetched": 39,
     "deduped": 24,
-    "new": 7,
+    "new": 12,
     "byKind": {
-      "official": 21,
-      "external": 3
+      "official": 14,
+      "external": 10
     }
   },
   "items": [
@@ -105,6 +105,82 @@
       }
     },
     {
+      "id": "8cf8f61bc55f74d03877dfab6bfea9ea65676c72",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNR0dkWmwxWFVnc2QzNnprVzNMLVRkVjVLOGZ0NUQwVEw0VHZ3dWlPSmJYUnptSGJfM0FrZURMTzV5SWRxSUZUa0dpR0ZFNWZkSE1GUUw4eXBnU05OVUNIZHF2OGtnUWFBNHB2bk1saUJMZWRrRjNJVUZNQVBDUXVXR0JRTnpCUDJ6WUFJWGdVY1Y3NFY4ZVRWa3RTTFJIa1IxNFVZSlBfd3BnTThR?oc=5",
+      "title": "DOJ urges judge to rule for OpenAI, Microsoft in N.Y. Times lawsuit",
+      "summary": "",
+      "publishedAt": "2026-09-03T00:55:07.000Z",
+      "publisher": "The Washington Post",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "5d6b0fc4313d55bd9cf1b0fad15d61b4b707fc4f",
+      "company": "Google",
+      "sourceKind": "external",
+      "sourceId": "external-google-major",
+      "sourceLabel": "Major External News - Google",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPc0lGNGlGbnUxeUhoclBaQ3lKejFlS0FwWkVzemxVRzIyZVdUWWxVMl82Z3B6LXZKdi1TVGdkdHlMY0tPM0h4T3Q2VFFINjVVSFI4VVE3Q25MRzJBZm94NzZ4Zy1Hdzh4cWZLR05XZWtMYjlBcWYtdXF3MWZiQWJGbTNwUDNwVWtMYVUxRC1ZYnE1RUJSMmp6czJab0prbmZ0ckJxN2kxV09uVVNmRTluWGRfWFV0M1d0QVE4RUVlVG9ZY0I1ZS1SRS1FOEVmUQ?oc=5",
+      "title": "Beast Industries on Gemini partnership: Incorporating AI into videos to enhance experiences",
+      "summary": "",
+      "publishedAt": "2026-09-02T18:47:00.000Z",
+      "publisher": "CNBC",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "ba01fb601290ee13b87f7f9d29d90057923755ef",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbWNwQUNOcnJhODJyal8zMGpmZ2ZqVmJjXzZBUURaMnNBWV81NTRCeFkzdlp4VnNpT3pmOXd3YmxsNk1EVTd5UDdaby1hWWVwSWEycERGZEEzRU5GdjJZaWwyM3R0UnBuV3VXOVBuZndTVGlKbldLNmQ4OXpKLTE3a3MtVkVJaWhXVmxnem1PbjZCTXRxYXBvZQ?oc=5",
+      "title": "OpenAI releases new model that it says triggered internal security measures",
+      "summary": "",
+      "publishedAt": "2026-09-03T18:00:40.000Z",
+      "publisher": "NBC News",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "5169298965134aa7b22430a350c9c83f50b8582c",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTnlCVDJ6NTNQcnJBNVhHcEJNajZWajdBZ2cxVm42N1lPdl9mNkFWaHBqc1VNV1I0Mmp5UGRlR0p0RGZiRklBdzctQlNibDdpZ0hTamxXeHhaTG9pRVZYbHUwTGhHWFpzVEZXSG5rRkRWT3JnX3dDZVY1bUctc3M4d9IBhgFBVV95cUxPeWYyTW9TNEVVQjMtaXE3UDN5dDFEeEMtRE1QWWtaQUVHZ0JJYVlXN2NFalBSN0JUUFIzMnFpY3pFc2ZBWEhNZGNRNWctOEpyci1pZmE1NHBWMVA4bHZoZjJfVmRfOWFjWWwwSnZVM0hvR0hKRFV3cnhVVm10dFZzcS1tMUlKQQ?oc=5",
+      "title": "Meta settlement could clear the way for new AI product launches, Morgan Stanley says",
+      "summary": "",
+      "publishedAt": "2026-09-02T09:19:25.000Z",
+      "publisher": "CNBC",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
       "id": "5b99f9a4a56fabb6cf5c39835dcd9d117ad6f5af",
       "company": "Anthropic",
       "sourceKind": "external",
@@ -119,22 +195,22 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 7,
+        "score": 6,
         "reason": "Corporate move or major external event"
       }
     },
     {
-      "id": "ce66a01e989eecba3014a7496bbee7d241899f2b",
-      "company": "Anthropic",
+      "id": "0517e9342b08de73080e1050e072b992d55813cf",
+      "company": "OpenAI",
       "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQblFHajhwU1JpNFRXUU0tZi1QUUJKeUNpM0ZKbDY0M3JTMGQtaHV1NWdwZmFoTS1jZjc2M0RJOEwxanJVb3FDSE5qZ3oxVE8xanRid1lsOEthZXZrQmxaZXZzRk9qMGI1UGN0MUp3bTRDRG84QUlsTjhLV2VDcVQ1bFNvenpvU09k?oc=5",
-      "title": "Jackson Hole, Anthropic’s Court Win and PayPal Deal Collapse",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUjd5N3lxYmlOZTFkMU5xa05pdW10UnU5c1c4dUgyREl1eE1vMDNTTGhsVUJLSFNNQjNwdUdZZWt0NmhQMlRqOWNjektIMEhuWXdtTlkyZ1k0N3NsN1VyTi0xWGduXzNqNW1IYnVwX2lQVlM5Ujk5Si10REdhb0sxWjE3a203U3hUYUE4X0djLTVqZXQzbW5yZlJSRFdJaEhURlloSV82Q0szclFEX1lyLUdYT0ZLY2c?oc=5",
+      "title": "Montana Joins Alabama, Others Launching OpenAI Security Probe",
       "summary": "",
-      "publishedAt": "2026-08-28T17:52:43.000Z",
-      "publisher": "Bloomberg.com",
+      "publishedAt": "2026-09-01T21:43:00.000Z",
+      "publisher": "Bloomberg Law News",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -181,44 +257,6 @@
       }
     },
     {
-      "id": "7bf309317e3edd1e5a56dcebf916551fe5d6aca4",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber",
-      "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
-      "summary": "Gemini 3.8 Flash and 3.8 Flash Cyber deliver next-generation intelligence for agentic workflows and cybersecurity.",
-      "publishedAt": "2026-09-02T15:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "4df22e2911252dabe9cbbe5222d34610ca1c4111",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026",
-      "title": "The latest AI news we announced in August 2026",
-      "summary": "Here are Google’s latest AI updates from August 2026",
-      "publishedAt": "2026-09-01T20:45:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
       "id": "a18697a7882d9b1442c7b16ef16821f37ddf68e7",
       "company": "Meta",
       "sourceKind": "official",
@@ -238,22 +276,117 @@
       }
     },
     {
-      "id": "a0fc52c7c407bf11d8b68ccf62e1b5e671a984b4",
-      "company": "Microsoft",
+      "id": "6d6011a3647ecd23b4f6b1798a5c0b413573b2f0",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQS3hHU0xTR1RaR1d6UGlFdGpkc3ZSaVUzRzh6emVsVC1FVV83TGQ1SHVUV1JWMWstaV9GVWZONWFyVmdrYmVMM0xld1c5TnlveXVfUTZHdTRYVUYxc0RubUpKcXV3ekF3N2VOdklrZlhEeW9wY1hLeU9faFpSUWtlMDN4ZDFqS184Z191VUJfekRlNGhjZmVF?oc=5",
+      "title": "Anthropic’s In-House Payments Tech Push Could Chip Away at Stripe",
+      "summary": "",
+      "publishedAt": "2026-09-04T15:30:00.000Z",
+      "publisher": "The Information",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "27a3abb091683a6b2447df25f2d134d0f9582092",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQLXN3eTNhQllKcVZxN180dEg1eGZQUF8wMEJWR2VzTkdYTWswX0hVNGJmcldmbGdqc1dWTUlMSFYwNURMYTRzdWM2dzFybW9GdmxVbERSNHVFUnNXTVB6WndmbFNYSmZzcEs4dVRPSUJMWjVhZkNtekhnTHNlT1hQSkFTckJyOUR0TFlyZGg0ckNDR2ItTlMzRG84cVpxOFg5Tzg4S2N4RXNNQQ?oc=5",
+      "title": "Rogo, Hebbia Revenue Rises as Claude Finance Threat Looms",
+      "summary": "",
+      "publishedAt": "2026-09-03T14:05:00.000Z",
+      "publisher": "The Information",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "afb45d776ff4f6d1820fc30beb2fb21aff803fa6",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNkk4TnhJLWdVdVgzMDBFejB6dWNlLW95V3liSkJwbzI2U1hON2pIVk9XX1ZzN3dIZWR3amQ2UjBOWmEtVC13bm9qYkNfOTFTeFZzTkJXYXJya1NXNm5iTFB1Q0k5X25VUnJZSnVuSmQ1dDF4RU5xd2VwclJOUC1uU1dHaXJEQmszWTBNQ1g5VUtjWl9DTXo2NzZBNG85VjZwcGtfNm1CdGc4akJf?oc=5",
+      "title": "OpenAI Technique in ‘Astra’ Model Sparks Security Concerns",
+      "summary": "",
+      "publishedAt": "2026-09-02T00:40:00.000Z",
+      "publisher": "The Information",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "2e155b11d8093d3e923c92601684a4b68a9cbd1e",
+      "company": "OpenAI",
       "sourceKind": "official",
-      "sourceId": "microsoft-ai",
-      "sourceLabel": "Microsoft AI",
-      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
-      "url": "https://news.microsoft.com/source/emea/features/how-kier-groups-louisa-finlay-is-using-copilot-to-drive-safety-and-productivity-in-the-construction-industry",
-      "title": "How Kier Group’s Louisa Finlay is using Copilot to drive safety and productivity in the construction industry",
-      "summary": "How Kier Group’s Louisa Finlay is using Copilot to drive safety and productivity in the construction industry",
-      "publishedAt": "2026-09-02T16:28:46.000Z",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/safety-overview-gpt-6-astra",
+      "title": "Safety overview: GPT-6 Astra",
+      "summary": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
+      "publishedAt": "2026-09-03T00:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
         "score": 4,
         "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "7bf309317e3edd1e5a56dcebf916551fe5d6aca4",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber",
+      "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "summary": "Gemini 3.8 Flash and 3.8 Flash Cyber deliver next-generation intelligence for agentic workflows and cybersecurity.",
+      "publishedAt": "2026-09-02T15:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "4df22e2911252dabe9cbbe5222d34610ca1c4111",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026",
+      "title": "The latest AI news we announced in August 2026",
+      "summary": "Here are Google’s latest AI updates from August 2026",
+      "publishedAt": "2026-09-01T20:45:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Flagship model or product launch"
       }
     },
     {
@@ -267,25 +400,6 @@
       "title": "Introducing agentic video understanding with Gemini",
       "summary": "We’re launching agentic video understanding across our latest Gemini models for improved accuracy and lower costs and token usage.",
       "publishedAt": "2026-09-01T17:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "309be27bdcfe3156d3369d0a4cf6b27fb7f7b99f",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/path-to-astra",
-      "title": "Path to Astra: critical capabilities and frontier safeguards",
-      "summary": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
-      "publishedAt": "2026-09-01T13:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -314,54 +428,16 @@
       }
     },
     {
-      "id": "478b7cdcbc40a552afd22640a6787af823be18a5",
-      "company": "Meta",
+      "id": "a0fc52c7c407bf11d8b68ccf62e1b5e671a984b4",
+      "company": "Microsoft",
       "sourceKind": "official",
-      "sourceId": "meta-newsroom",
-      "sourceLabel": "Meta Newsroom",
-      "homepageUrl": "https://about.fb.com/news/",
-      "url": "https://about.fb.com/news/2026/09/inside-metas-infrastructure-lab",
-      "title": "Inside Meta’s Infrastructure Lab",
-      "summary": "Join Tom Shaw for a look inside Meta's Infrastructure Lab to explore the hardware being developed to power the next generation of AI. The post Inside Meta’s Infrastructure Lab",
-      "publishedAt": "2026-09-01T20:24:43.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Technical or research update"
-      }
-    },
-    {
-      "id": "631a857c7a24a6f9d6625557188024197f34a5d5",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/gilbert-tobin",
-      "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
-      "summary": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.",
-      "publishedAt": "2026-09-01T01:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "0703988e3a3319168a4bed769fe486164f0f87f1",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
-      "title": "OpenAI supports California’s bill to advance youth AI safety",
-      "summary": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
-      "publishedAt": "2026-08-31T07:00:00.000Z",
+      "sourceId": "microsoft-ai",
+      "sourceLabel": "Microsoft AI",
+      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
+      "url": "https://news.microsoft.com/source/emea/features/how-kier-groups-louisa-finlay-is-using-copilot-to-drive-safety-and-productivity-in-the-construction-industry",
+      "title": "How Kier Group’s Louisa Finlay is using Copilot to drive safety and productivity in the construction industry",
+      "summary": "How Kier Group’s Louisa Finlay is using Copilot to drive safety and productivity in the construction industry",
+      "publishedAt": "2026-09-02T16:28:46.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -409,152 +485,76 @@
       }
     },
     {
-      "id": "b07b0b2b4d66deeda36a76840fc2bf5e800c8111",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/atv-big-air-tour",
-      "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-      "summary": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
-      "publishedAt": "2026-09-02T12:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "50e05f9b472e33e2adbbd0db85106a39a236152d",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
-      "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-      "summary": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.",
-      "publishedAt": "2026-09-01T12:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Technical or research update"
-      }
-    },
-    {
-      "id": "97cd97d27d220f15f9bc8a69f1f4b5eea602a9e8",
-      "company": "Anthropic",
-      "sourceKind": "official",
-      "sourceId": "anthropic-engineering",
-      "sourceLabel": "Anthropic Engineering",
-      "homepageUrl": "https://www.anthropic.com/engineering",
-      "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
-      "title": "Featured How we contain Claude across products As agents grow more capable, so does their potential blast radius. The engineering question is how to cap it. Here’s what we’ve learned building containment for claude.ai, Claude Code, and Cowork.",
-      "summary": "",
-      "publishedAt": null,
-      "publisher": "",
-      "discoveryMethod": "anchor",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Technical or research update"
-      }
-    },
-    {
-      "id": "3b5f2688fec1191a6e1065794360de4557d49aa5",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/ai-native-company-workflows",
-      "title": "How AI-native companies turn workflows into operating capability",
-      "summary": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
-      "publishedAt": "2026-09-01T17:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "88d4bc045d03c694afb186b773d6c78e84afe916",
+      "id": "01e1f5c326fadb8c872715ed8dab747c1143b412",
       "company": "Google",
       "sourceKind": "official",
       "sourceId": "google-ai",
       "sourceLabel": "Google AI",
       "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/weathernext-extreme-weather-cyclone-predictions",
-      "title": "Ask a Scientist: How do researchers use AI to predict a cyclone?",
-      "summary": "A Google DeepMind scientist explains how AI weather prediction works and how it can help warn communities earlier than ever.",
-      "publishedAt": "2026-09-01T16:00:00.000Z",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/better-tracks-lyria-gemini",
+      "title": "Create your best tracks yet with Lyria 3.5 in Gemini.",
+      "summary": "Lyria 3.5, our best-sounding music generation model, is now available in the Gemini app and the Gemini API. Lyria 3.5 brings more expressive vocals and richer musical ar…",
+      "publishedAt": "2026-09-04T16:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "digest",
-        "score": 1,
+        "score": 2,
         "reason": "Routine official update"
       }
     },
     {
-      "id": "07a03b3c017c823418ff74257284dd5bb1d900ca",
-      "company": "Anthropic",
+      "id": "5190d2a1dccd48dc131a0e787070b2e338d35788",
+      "company": "OpenAI",
       "sourceKind": "official",
-      "sourceId": "anthropic-news",
-      "sourceLabel": "Anthropic News",
-      "homepageUrl": "https://www.anthropic.com/news",
-      "url": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
-      "title": "Developing Enterprise Frontier Safeguards with our customers",
-      "summary": "",
-      "publishedAt": "2026-09-01T00:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "anchor",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "50690b3cc5a91051c9eb9137b3969621c73d07a5",
-      "company": "Meta",
-      "sourceKind": "official",
-      "sourceId": "meta-newsroom",
-      "sourceLabel": "Meta Newsroom",
-      "homepageUrl": "https://about.fb.com/news/",
-      "url": "https://about.fb.com/news/2026/08/closed-loop-cooling-explained-the-plumbing-behind-metas-ai",
-      "title": "Closed-Loop Cooling Explained: The Plumbing Behind Meta&#8217;s AI",
-      "summary": "Tom Shaw explains how Meta is using closed-loop liquid cooling to power AI more efficiently. The post Closed-Loop Cooling Explained: The Plumbing Behind Meta&#8217;s AI",
-      "publishedAt": "2026-08-27T21:44:08.000Z",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/daybreak-for-frontline-defenders",
+      "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+      "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
+      "publishedAt": "2026-09-03T13:15:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "digest",
-        "score": 1,
+        "score": 2,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "be4a3c5426264d710c57171337575b69c5e0e6ab",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+      "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
+      "publishedAt": "2026-09-03T12:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
         "reason": "Routine official update"
       }
     }
   ],
   "newItems": [
     {
-      "id": "c227afc9ec590d4a16bd5f864b4da644b6126012",
-      "company": "Anthropic",
+      "id": "8cf8f61bc55f74d03877dfab6bfea9ea65676c72",
+      "company": "OpenAI",
       "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qSmJMXzNXS0NYQWZFNUdaLUJRMkZGcm5VSG5UM3VDaS1UQThGRTU4ZmVCN0YzWEh1ODFTRy1va0tOdUtpVkdMbjBlNEtOSmpiWGZ5QUVBRnp4V2dJQ2xFNXVQMUdTVVU?oc=5",
-      "title": "AI Weekly: New York City's AI policy for children, Anthropic's court win",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNR0dkWmwxWFVnc2QzNnprVzNMLVRkVjVLOGZ0NUQwVEw0VHZ3dWlPSmJYUnptSGJfM0FrZURMTzV5SWRxSUZUa0dpR0ZFNWZkSE1GUUw4eXBnU05OVUNIZHF2OGtnUWFBNHB2bk1saUJMZWRrRjNJVUZNQVBDUXVXR0JRTnpCUDJ6WUFJWGdVY1Y3NFY4ZVRWa3RTTFJIa1IxNFVZSlBfd3BnTThR?oc=5",
+      "title": "DOJ urges judge to rule for OpenAI, Microsoft in N.Y. Times lawsuit",
       "summary": "",
-      "publishedAt": "2026-09-03T10:55:41.000Z",
-      "publisher": "Reuters",
+      "publishedAt": "2026-09-03T00:55:07.000Z",
+      "publisher": "The Washington Post",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -563,17 +563,55 @@
       }
     },
     {
-      "id": "ad109ae853f0f53bfd78bd350fb75d02249a2787",
+      "id": "5d6b0fc4313d55bd9cf1b0fad15d61b4b707fc4f",
       "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/technology/research/male-fruit-fly-brain-map",
-      "title": "5 amazing visuals show how the male fruit fly’s brain map is advancing neuroscience",
-      "summary": "HHMI Janelia, Google and partners mapped the brain and central nervous system of a male fruit fly, a key model organism in science.",
-      "publishedAt": "2026-09-03T15:05:00.000Z",
-      "publisher": "",
+      "sourceKind": "external",
+      "sourceId": "external-google-major",
+      "sourceLabel": "Major External News - Google",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPc0lGNGlGbnUxeUhoclBaQ3lKejFlS0FwWkVzemxVRzIyZVdUWWxVMl82Z3B6LXZKdi1TVGdkdHlMY0tPM0h4T3Q2VFFINjVVSFI4VVE3Q25MRzJBZm94NzZ4Zy1Hdzh4cWZLR05XZWtMYjlBcWYtdXF3MWZiQWJGbTNwUDNwVWtMYVUxRC1ZYnE1RUJSMmp6czJab0prbmZ0ckJxN2kxV09uVVNmRTluWGRfWFV0M1d0QVE4RUVlVG9ZY0I1ZS1SRS1FOEVmUQ?oc=5",
+      "title": "Beast Industries on Gemini partnership: Incorporating AI into videos to enhance experiences",
+      "summary": "",
+      "publishedAt": "2026-09-02T18:47:00.000Z",
+      "publisher": "CNBC",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "ba01fb601290ee13b87f7f9d29d90057923755ef",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbWNwQUNOcnJhODJyal8zMGpmZ2ZqVmJjXzZBUURaMnNBWV81NTRCeFkzdlp4VnNpT3pmOXd3YmxsNk1EVTd5UDdaby1hWWVwSWEycERGZEEzRU5GdjJZaWwyM3R0UnBuV3VXOVBuZndTVGlKbldLNmQ4OXpKLTE3a3MtVkVJaWhXVmxnem1PbjZCTXRxYXBvZQ?oc=5",
+      "title": "OpenAI releases new model that it says triggered internal security measures",
+      "summary": "",
+      "publishedAt": "2026-09-03T18:00:40.000Z",
+      "publisher": "NBC News",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "5169298965134aa7b22430a350c9c83f50b8582c",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTnlCVDJ6NTNQcnJBNVhHcEJNajZWajdBZ2cxVm42N1lPdl9mNkFWaHBqc1VNV1I0Mmp5UGRlR0p0RGZiRklBdzctQlNibDdpZ0hTamxXeHhaTG9pRVZYbHUwTGhHWFpzVEZXSG5rRkRWT3JnX3dDZVY1bUctc3M4d9IBhgFBVV95cUxPeWYyTW9TNEVVQjMtaXE3UDN5dDFEeEMtRE1QWWtaQUVHZ0JJYVlXN2NFalBSN0JUUFIzMnFpY3pFc2ZBWEhNZGNRNWctOEpyci1pZmE1NHBWMVA4bHZoZjJfVmRfOWFjWWwwSnZVM0hvR0hKRFV3cnhVVm10dFZzcS1tMUlKQQ?oc=5",
+      "title": "Meta settlement could clear the way for new AI product launches, Morgan Stanley says",
+      "summary": "",
+      "publishedAt": "2026-09-02T09:19:25.000Z",
+      "publisher": "CNBC",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -582,54 +620,111 @@
       }
     },
     {
-      "id": "7e743250c8520b4745e161494cff1283a56f6494",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-weathernext-3",
-      "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
-      "summary": "WeatherNext 3, our most advanced global weather AI model, is now in Search, Gemini, Maps, Google Maps Platform, and Cloud.",
-      "publishedAt": "2026-09-03T15:00:00.000Z",
-      "publisher": "",
+      "id": "0517e9342b08de73080e1050e072b992d55813cf",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUjd5N3lxYmlOZTFkMU5xa05pdW10UnU5c1c4dUgyREl1eE1vMDNTTGhsVUJLSFNNQjNwdUdZZWt0NmhQMlRqOWNjektIMEhuWXdtTlkyZ1k0N3NsN1VyTi0xWGduXzNqNW1IYnVwX2lQVlM5Ujk5Si10REdhb0sxWjE3a203U3hUYUE4X0djLTVqZXQzbW5yZlJSRFdJaEhURlloSV82Q0szclFEX1lyLUdYT0ZLY2c?oc=5",
+      "title": "Montana Joins Alabama, Others Launching OpenAI Security Probe",
+      "summary": "",
+      "publishedAt": "2026-09-01T21:43:00.000Z",
+      "publisher": "Bloomberg Law News",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 5,
-        "reason": "Flagship model or product launch"
+        "score": 6,
+        "reason": "Corporate move or major external event"
       }
     },
     {
-      "id": "c6ad27650ddca0bf104a9e4b1c10887f9282134b",
-      "company": "Microsoft",
-      "sourceKind": "official",
-      "sourceId": "microsoft-ai",
-      "sourceLabel": "Microsoft AI",
-      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
-      "url": "https://news.microsoft.com/source/asia/2026/09/02/the-new-imperative-for-ai-infrastructure-useful-yield",
-      "title": "The yield imperative: Rethinking success in AI infrastructure",
-      "summary": "The yield imperative: Rethinking success in AI infrastructure",
-      "publishedAt": "2026-09-02T23:28:00.000Z",
-      "publisher": "",
+      "id": "6d6011a3647ecd23b4f6b1798a5c0b413573b2f0",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQS3hHU0xTR1RaR1d6UGlFdGpkc3ZSaVUzRzh6emVsVC1FVV83TGQ1SHVUV1JWMWstaV9GVWZONWFyVmdrYmVMM0xld1c5TnlveXVfUTZHdTRYVUYxc0RubUpKcXV3ekF3N2VOdklrZlhEeW9wY1hLeU9faFpSUWtlMDN4ZDFqS184Z191VUJfekRlNGhjZmVF?oc=5",
+      "title": "Anthropic’s In-House Payments Tech Push Could Chip Away at Stripe",
+      "summary": "",
+      "publishedAt": "2026-09-04T15:30:00.000Z",
+      "publisher": "The Information",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
-        "score": 3,
-        "reason": "Technical or research update"
+        "score": 4,
+        "reason": "Trusted external coverage"
       }
     },
     {
-      "id": "b07b0b2b4d66deeda36a76840fc2bf5e800c8111",
+      "id": "27a3abb091683a6b2447df25f2d134d0f9582092",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQLXN3eTNhQllKcVZxN180dEg1eGZQUF8wMEJWR2VzTkdYTWswX0hVNGJmcldmbGdqc1dWTUlMSFYwNURMYTRzdWM2dzFybW9GdmxVbERSNHVFUnNXTVB6WndmbFNYSmZzcEs4dVRPSUJMWjVhZkNtekhnTHNlT1hQSkFTckJyOUR0TFlyZGg0ckNDR2ItTlMzRG84cVpxOFg5Tzg4S2N4RXNNQQ?oc=5",
+      "title": "Rogo, Hebbia Revenue Rises as Claude Finance Threat Looms",
+      "summary": "",
+      "publishedAt": "2026-09-03T14:05:00.000Z",
+      "publisher": "The Information",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "afb45d776ff4f6d1820fc30beb2fb21aff803fa6",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNkk4TnhJLWdVdVgzMDBFejB6dWNlLW95V3liSkJwbzI2U1hON2pIVk9XX1ZzN3dIZWR3amQ2UjBOWmEtVC13bm9qYkNfOTFTeFZzTkJXYXJya1NXNm5iTFB1Q0k5X25VUnJZSnVuSmQ1dDF4RU5xd2VwclJOUC1uU1dHaXJEQmszWTBNQ1g5VUtjWl9DTXo2NzZBNG85VjZwcGtfNm1CdGc4akJf?oc=5",
+      "title": "OpenAI Technique in ‘Astra’ Model Sparks Security Concerns",
+      "summary": "",
+      "publishedAt": "2026-09-02T00:40:00.000Z",
+      "publisher": "The Information",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "2e155b11d8093d3e923c92601684a4b68a9cbd1e",
       "company": "OpenAI",
       "sourceKind": "official",
       "sourceId": "openai-newsroom",
       "sourceLabel": "OpenAI Newsroom",
       "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/atv-big-air-tour",
-      "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-      "summary": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
-      "publishedAt": "2026-09-02T12:00:00.000Z",
+      "url": "https://openai.com/index/safety-overview-gpt-6-astra",
+      "title": "Safety overview: GPT-6 Astra",
+      "summary": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
+      "publishedAt": "2026-09-03T00:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "01e1f5c326fadb8c872715ed8dab747c1143b412",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/better-tracks-lyria-gemini",
+      "title": "Create your best tracks yet with Lyria 3.5 in Gemini.",
+      "summary": "Lyria 3.5, our best-sounding music generation model, is now available in the Gemini app and the Gemini API. Lyria 3.5 brings more expressive vocals and richer musical ar…",
+      "publishedAt": "2026-09-04T16:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -639,40 +734,40 @@
       }
     },
     {
-      "id": "88d4bc045d03c694afb186b773d6c78e84afe916",
-      "company": "Google",
+      "id": "5190d2a1dccd48dc131a0e787070b2e338d35788",
+      "company": "OpenAI",
       "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/weathernext-extreme-weather-cyclone-predictions",
-      "title": "Ask a Scientist: How do researchers use AI to predict a cyclone?",
-      "summary": "A Google DeepMind scientist explains how AI weather prediction works and how it can help warn communities earlier than ever.",
-      "publishedAt": "2026-09-01T16:00:00.000Z",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/daybreak-for-frontline-defenders",
+      "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+      "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
+      "publishedAt": "2026-09-03T13:15:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "digest",
-        "score": 1,
+        "score": 2,
         "reason": "Routine official update"
       }
     },
     {
-      "id": "07a03b3c017c823418ff74257284dd5bb1d900ca",
-      "company": "Anthropic",
+      "id": "be4a3c5426264d710c57171337575b69c5e0e6ab",
+      "company": "OpenAI",
       "sourceKind": "official",
-      "sourceId": "anthropic-news",
-      "sourceLabel": "Anthropic News",
-      "homepageUrl": "https://www.anthropic.com/news",
-      "url": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
-      "title": "Developing Enterprise Frontier Safeguards with our customers",
-      "summary": "",
-      "publishedAt": "2026-09-01T00:00:00.000Z",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+      "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
+      "publishedAt": "2026-09-03T12:00:00.000Z",
       "publisher": "",
-      "discoveryMethod": "anchor",
+      "discoveryMethod": "feed",
       "classification": {
         "bucket": "digest",
-        "score": 1,
+        "score": 2,
         "reason": "Routine official update"
       }
     }
