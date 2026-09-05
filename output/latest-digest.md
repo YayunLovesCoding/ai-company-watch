@@ -1,102 +1,93 @@
 # AI Company Watch
 
-Generated: Sep 4, 2026, 10:28 AM PDT
+Generated: Sep 5, 2026, 9:39 AM PDT
 Lookback window: 7 day(s)
 Sources checked: 12
-Items fetched: 39
+Items fetched: 42
 Items kept: 24
-New items: 12
-External items kept: 10
-Official items kept: 14
+New items: 11
+External items kept: 15
+Official items kept: 9
 
 ## Critical External News
 
-### OpenAI - DOJ urges judge to rule for OpenAI, Microsoft in N.Y. Times lawsuit
+### Anthropic - Authors Wrangle With Publishers Over $1.5 Billion Anthropic A.I. Settlement
+Source: Major External News - Anthropic
+Publisher: The New York Times
+Published: Sep 5, 2026
+Why it matters: Corporate move or major external event
+Link: https://news.google.com/rss/articles/CBMijgFBVV95cUxQM0JCcDFiX0pScndEQWkwM1FBYXpPVEhPVVBhTFJoVV9JTW4xZllRX2MzLUI3UVJuTGdaZEROM2FPcXhPWGgxTm9WbFJpVkJXMmtMbzFUakpuVWZqRG5KY25GZzZNdlZpT1hweHZ3b3FJZVBtUUpVSTJINUUyMFhSM1AtMEpvaklaaFJKWXVn?oc=5
+
+### OpenAI - Seattle Times, Newsday sue OpenAI, Microsoft, alleging copyright infringement
 Source: Major External News - OpenAI
-Publisher: The Washington Post
-Published: Sep 2, 2026
+Publisher: Reuters
+Published: Sep 4, 2026
 Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMirAFBVV95cUxNR0dkWmwxWFVnc2QzNnprVzNMLVRkVjVLOGZ0NUQwVEw0VHZ3dWlPSmJYUnptSGJfM0FrZURMTzV5SWRxSUZUa0dpR0ZFNWZkSE1GUUw4eXBnU05OVUNIZHF2OGtnUWFBNHB2bk1saUJMZWRrRjNJVUZNQVBDUXVXR0JRTnpCUDJ6WUFJWGdVY1Y3NFY4ZVRWa3RTTFJIa1IxNFVZSlBfd3BnTThR?oc=5
+Link: https://news.google.com/rss/articles/CBMixgFBVV95cUxPOE83d29ldlZFZGYwMXNLVWtXaUpMLS1xWmpDWjIzREhzTUk0cklteXNPX0ZnMlZ5M3JUcktaLUhlbVJGNHNnTTJwMy1DMFRTWWpFRy1VdmwwZVYtLTNTS0Q4WFZlLUgyd3VqSUxZX3VSTDVzeE1xOHhiclJFLVJGUjB6emhPNFVfWHgzbzBKQ0FiQ29wRmNEYkc4MjFIYjVuSW9Gc2VObDMwdjh4c0xiTFZmd3doU2NPV2I0eTJLZ0N3aDl5alE?oc=5
 
-### Google - Beast Industries on Gemini partnership: Incorporating AI into videos to enhance experiences
-Source: Major External News - Google
-Publisher: CNBC
-Published: Sep 2, 2026
-Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMizgFBVV95cUxPc0lGNGlGbnUxeUhoclBaQ3lKejFlS0FwWkVzemxVRzIyZVdUWWxVMl82Z3B6LXZKdi1TVGdkdHlMY0tPM0h4T3Q2VFFINjVVSFI4VVE3Q25MRzJBZm94NzZ4Zy1Hdzh4cWZLR05XZWtMYjlBcWYtdXF3MWZiQWJGbTNwUDNwVWtMYVUxRC1ZYnE1RUJSMmp6czJab0prbmZ0ckJxN2kxV09uVVNmRTluWGRfWFV0M1d0QVE4RUVlVG9ZY0I1ZS1SRS1FOEVmUQ?oc=5
-
-### OpenAI - OpenAI releases new model that it says triggered internal security measures
-Source: Major External News - OpenAI
-Publisher: NBC News
-Published: Sep 3, 2026
-Why it matters: Flagship model or product launch
-Link: https://news.google.com/rss/articles/CBMimAFBVV95cUxPbWNwQUNOcnJhODJyal8zMGpmZ2ZqVmJjXzZBUURaMnNBWV81NTRCeFkzdlp4VnNpT3pmOXd3YmxsNk1EVTd5UDdaby1hWWVwSWEycERGZEEzRU5GdjJZaWwyM3R0UnBuV3VXOVBuZndTVGlKbldLNmQ4OXpKLTE3a3MtVkVJaWhXVmxnem1PbjZCTXRxYXBvZQ?oc=5
-
-### Meta - Meta settlement could clear the way for new AI product launches, Morgan Stanley says
-Source: Major External News - Meta
-Publisher: CNBC
-Published: Sep 2, 2026
-Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMigAFBVV95cUxPTnlCVDJ6NTNQcnJBNVhHcEJNajZWajdBZ2cxVm42N1lPdl9mNkFWaHBqc1VNV1I0Mmp5UGRlR0p0RGZiRklBdzctQlNibDdpZ0hTamxXeHhaTG9pRVZYbHUwTGhHWFpzVEZXSG5rRkRWT3JnX3dDZVY1bUctc3M4d9IBhgFBVV95cUxPeWYyTW9TNEVVQjMtaXE3UDN5dDFEeEMtRE1QWWtaQUVHZ0JJYVlXN2NFalBSN0JUUFIzMnFpY3pFc2ZBWEhNZGNRNWctOEpyci1pZmE1NHBWMVA4bHZoZjJfVmRfOWFjWWwwSnZVM0hvR0hKRFV3cnhVVm10dFZzcS1tMUlKQQ?oc=5
-
-### OpenAI - Montana Joins Alabama, Others Launching OpenAI Security Probe
+### OpenAI - Microsoft, OpenAI Urge Court to Find AI Training Is Fair Use (1)
 Source: Major External News - OpenAI
 Publisher: Bloomberg Law News
-Published: Sep 1, 2026
+Published: Sep 4, 2026
 Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxOUjd5N3lxYmlOZTFkMU5xa05pdW10UnU5c1c4dUgyREl1eE1vMDNTTGhsVUJLSFNNQjNwdUdZZWt0NmhQMlRqOWNjektIMEhuWXdtTlkyZ1k0N3NsN1VyTi0xWGduXzNqNW1IYnVwX2lQVlM5Ujk5Si10REdhb0sxWjE3a203U3hUYUE4X0djLTVqZXQzbW5yZlJSRFdJaEhURlloSV82Q0szclFEX1lyLUdYT0ZLY2c?oc=5
+Link: https://news.google.com/rss/articles/CBMinAFBVV95cUxNMUg1V2E5OGEtNnhBMzV3NE0wSWxXQlJ5RzFCM0JDYmNBMzJ3QktGZFJHZ3BRWG9zYWZrRHZwTklBV3c1MzdRY3ROUk9Nb3FmSy13MkdYSnBTcjJpMnF0bmVMQVo0X2REUHpZWGFieGhhSlEwbkpCa241RnNNTFVHTmxmemI4a3JfVWl6Z1FrTlg4NmtDVWVqeWd2ZGI?oc=5
+
+### Microsoft - How OpenAI Limited the Probe of Its Bots’ Hack of Hugging Face
+Source: Major External News - Microsoft
+Publisher: The New York Times
+Published: Sep 3, 2026
+Why it matters: Corporate move or major external event
+Link: https://news.google.com/rss/articles/CBMigAFBVV95cUxOME1hSWlLYzY2a3I4TFBudWk0SkdZWDlVOE96LUJuNFJ0dkc1YVFYQnZBaVRETjc5VHBtUDVod1B1SDhxX0dKMHk0azh2a2stTjAtanNLdjBzLWlNQzFPUGh6TTQzczFzQ1Y5QlNCTlBxelFLVm9yQV9KZ1ZYRFphbA?oc=5
+
+### OpenAI - OpenAI’s $1 Billion Cyber Push Backs Cloudflare and SentinelOne. Which Has the Better AI Security Model?
+Source: Major External News - OpenAI
+Publisher: Yahoo Finance
+Published: Sep 5, 2026
+Why it matters: Safety, security, or policy update
+Link: https://news.google.com/rss/articles/CBMilgFBVV95cUxPZ2hDdGZuRTFvS2RaNnJUbk8tWXZlRzRsblFZd0pvc29QNjZzWmw4LW5sTnB1bWp0RjM3NFV5QTZ6NFM3NFcyUWRqQk02c1ZBWlJoR0VfWGRBdHBCXzdaUWtiU0l6R0NuMXg1Y3ZHTmREYk8tRkpvR0hmNDltRV9PdC1QTHpYVmo1cDFlWlNJZEtiajk1Q3c?oc=5
+
+### OpenAI - Security News This Week: OpenAI Agents Hacked Another Website
+Source: Major External News - OpenAI
+Publisher: WIRED
+Published: Sep 5, 2026
+Why it matters: Safety, security, or policy update
+Link: https://news.google.com/rss/articles/CBMikwFBVV95cUxOVnFfaE5rZ1Bnc2V0b3lyaGZaRjRkRURVSFZsOE9tMk9iQXN0M3hlU1JrNkVQd2Fld1NXbjh4eXUzSnpaR0FRZHMzUU9hWEV1Um1YelE4V2dhUHJqNFVDOHpnRHZfRnVDbWlCTjdidXRHdDNjWXhGWkRFbjFqUHJra3ZleXd6RGFWSkROaXdEOHA4MlU?oc=5
 
 ## Important External News
 
-### Anthropic - Anthropic’s In-House Payments Tech Push Could Chip Away at Stripe
-Source: Major External News - Anthropic
-Publisher: The Information
+### Meta - Meta Is Testing Robots to Take Over Data Center Grunt Work
+Source: Major External News - Meta
+Publisher: Startup Fortune
+Published: Sep 5, 2026
+Why it matters: Trusted external coverage
+Link: https://news.google.com/rss/articles/CBMijwFBVV95cUxOZjZBYzhpOGRvRGo5MW5ZY0lrdmtvak4zTnMwNEtmMVFOUWZpaFEwY3Y0TW9OZGo4MHF4Mm0xZnBkZE1LVXk5bnFkVDg1WjVVQ3RhME9kRDNqdnlBYWRBOUNNOW5Odk80Y2tQQnE1RFM5Zk1rTTZDZ0ljRjI4SHRpY1ZtMDcxT1BPUnJ4MnpqMA?oc=5
+
+### Meta - Report warns Alberta power bills could jump by $270 to $460 a year as Meta data center powers up
+Source: Major External News - Meta
+Publisher: Yahoo Finance
 Published: Sep 4, 2026
 Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMilwFBVV95cUxQS3hHU0xTR1RaR1d6UGlFdGpkc3ZSaVUzRzh6emVsVC1FVV83TGQ1SHVUV1JWMWstaV9GVWZONWFyVmdrYmVMM0xld1c5TnlveXVfUTZHdTRYVUYxc0RubUpKcXV3ekF3N2VOdklrZlhEeW9wY1hLeU9faFpSUWtlMDN4ZDFqS184Z191VUJfekRlNGhjZmVF?oc=5
+Link: https://news.google.com/rss/articles/CBMikwFBVV95cUxPVFJQT09xUHpXOHM4WWs4azBPMjJONENiUkhoY21zQVlBdGt2LTBGeHF4emtaSWthWmVtSEtwemZDRlZmVVJQSDNRVDUzUlhubm5aZzE0bE0yTEt6dUVRWGM2MkJTdC1jWWh0a0VWXzNMOEp5V2pmaFJFYmFSeUFaaUQxSVMwNE9OVF9rTWZRR2NkXzg?oc=5
 
-### Anthropic - Rogo, Hebbia Revenue Rises as Claude Finance Threat Looms
-Source: Major External News - Anthropic
-Publisher: The Information
+### Meta - Meta's new $1.2 billion Kuna Data Center begins operations
+Source: Major External News - Meta
+Publisher: Yahoo
 Published: Sep 3, 2026
 Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxQLXN3eTNhQllKcVZxN180dEg1eGZQUF8wMEJWR2VzTkdYTWswX0hVNGJmcldmbGdqc1dWTUlMSFYwNURMYTRzdWM2dzFybW9GdmxVbERSNHVFUnNXTVB6WndmbFNYSmZzcEs4dVRPSUJMWjVhZkNtekhnTHNlT1hQSkFTckJyOUR0TFlyZGg0ckNDR2ItTlMzRG84cVpxOFg5Tzg4S2N4RXNNQQ?oc=5
+Link: https://news.google.com/rss/articles/CBMie0FVX3lxTE5PWUJzRDlLbldHU2FESksyWWNOeFE4TG8wNXFGNjNlYmJ2ZDRhT0lNNnlSaDVyN1N1clpydGkyMUtpM2MzblFHSUM5QjBPUEVTcUY5TWp1dXY0QU9EaDRlamZZS1JDVUNkTXo0SXljemxmSC1QMThtUXltWQ?oc=5
 
-### OpenAI - OpenAI Technique in ‘Astra’ Model Sparks Security Concerns
-Source: Major External News - OpenAI
-Publisher: The Information
-Published: Sep 1, 2026
-Why it matters: Safety, security, or policy update
-Link: https://news.google.com/rss/articles/CBMirAFBVV95cUxPNkk4TnhJLWdVdVgzMDBFejB6dWNlLW95V3liSkJwbzI2U1hON2pIVk9XX1ZzN3dIZWR3amQ2UjBOWmEtVC13bm9qYkNfOTFTeFZzTkJXYXJya1NXNm5iTFB1Q0k5X25VUnJZSnVuSmQ1dDF4RU5xd2VwclJOUC1uU1dHaXJEQmszWTBNQ1g5VUtjWl9DTXo2NzZBNG85VjZwcGtfNm1CdGc4akJf?oc=5
+### Meta - Meta's More Than $10 Billion Data Center Faces Texas Pushback
+Source: Major External News - Meta
+Publisher: Yahoo Finance
+Published: Sep 3, 2026
+Why it matters: Trusted external coverage
+Link: https://news.google.com/rss/articles/CBMikAFBVV95cUxQSnVkeVZYVC04cm1vQ3V2UW9FYk1vdjlJQ1VjTkw1dDQ5T2FHOElQYWowN3RUOHlzUTdlZUU1TGpoYk9pMG1RUGdKOEFlSFd5aDZSTG1TLWlCQWd3aU1YZ3NGbjhvWVNSYWNMQXlINTBjR0JqdzFMcFJLT1daYzEzV1NhVVBZNGtIRm5HSHNQbVA?oc=5
 
 ## Important Official Updates
 
-### OpenAI - Safety overview: GPT-6 Astra
-Source: OpenAI Newsroom
-Published: Sep 2, 2026
-Why it matters: Safety, security, or policy update
-Summary: GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.
-Link: https://openai.com/index/safety-overview-gpt-6-astra
-
-## Official Company Updates
-
-### Google - Create your best tracks yet with Lyria 3.5 in Gemini.
-Source: Google AI
-Published: Sep 4, 2026
-Why it matters: Routine official update
-Summary: Lyria 3.5, our best-sounding music generation model, is now available in the Gemini app and the Gemini API. Lyria 3.5 brings more expressive vocals and richer musical ar…
-Link: https://blog.google/innovation-and-ai/products/gemini-app/better-tracks-lyria-gemini
-
-### OpenAI - Daybreak for Frontline Defenders: $1B to protect essential services
+### OpenAI - GPT-6 Astra: A new generation of intelligence
 Source: OpenAI Newsroom
 Published: Sep 3, 2026
-Why it matters: Routine official update
-Summary: OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.
-Link: https://openai.com/index/daybreak-for-frontline-defenders
-
-### OpenAI - Legora reviewed 41 documents in minutes with GPT-6 Astra
-Source: OpenAI Newsroom
-Published: Sep 3, 2026
-Why it matters: Routine official update
-Summary: Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.
-Link: https://openai.com/index/legora-financial-statement-review-with-astra
+Why it matters: Flagship model or product launch
+Summary: Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.
+Link: https://openai.com/index/gpt-6-astra
