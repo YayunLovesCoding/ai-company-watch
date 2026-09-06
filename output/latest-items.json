@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T16:39:05.134Z",
+  "generatedAt": "2026-09-06T16:46:32.235Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -76,15 +76,34 @@
     }
   ],
   "totals": {
-    "fetched": 42,
+    "fetched": 40,
     "deduped": 24,
-    "new": 11,
+    "new": 3,
     "byKind": {
-      "official": 9,
-      "external": 15
+      "official": 10,
+      "external": 14
     }
   },
   "items": [
+    {
+      "id": "bedf51b713be3813c6ae2081f6a93f2e2b625562",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONTdOTkJNdUJEQng2RTROVzFoM1NjeUN2d1ROa0xmNlItOFpfQkctMHhVQ0pFUVcwVlY0bzcxSXBsUVFRU3lhX1JFQ0U0NXhmNzF5RnZucmdodFJvWElrS3dnck1IWGMtSEtXZHpjRU9nWkxMZTZKcXdsVlpJcGp3OE15amdkejVkTnk2dWd2bVRJR29IMmNpNzdNb1BDOV85aFlIN3VEQkFNVkJwcHhFSkRGaGdRXzQ?oc=5",
+      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+      "summary": "",
+      "publishedAt": "2026-09-05T22:49:55.000Z",
+      "publisher": "TechCrunch",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
     {
       "id": "bae10d90e84c26553d89c1f4904593371efde8bf",
       "company": "Anthropic",
@@ -138,46 +157,8 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "a096526a1cb2eb88cf57aa4c7291071b2c963428",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOME1hSWlLYzY2a3I4TFBudWk0SkdZWDlVOE96LUJuNFJ0dkc1YVFYQnZBaVRETjc5VHBtUDVod1B1SDhxX0dKMHk0azh2a2stTjAtanNLdjBzLWlNQzFPUGh6TTQzczFzQ1Y5QlNCTlBxelFLVm9yQV9KZ1ZYRFphbA?oc=5",
-      "title": "How OpenAI Limited the Probe of Its Bots’ Hack of Hugging Face",
-      "summary": "",
-      "publishedAt": "2026-09-04T00:02:47.000Z",
-      "publisher": "The New York Times",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "ba01fb601290ee13b87f7f9d29d90057923755ef",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbWNwQUNOcnJhODJyal8zMGpmZ2ZqVmJjXzZBUURaMnNBWV81NTRCeFkzdlp4VnNpT3pmOXd3YmxsNk1EVTd5UDdaby1hWWVwSWEycERGZEEzRU5GdjJZaWwyM3R0UnBuV3VXOVBuZndTVGlKbldLNmQ4OXpKLTE3a3MtVkVJaWhXVmxnem1PbjZCTXRxYXBvZQ?oc=5",
-      "title": "OpenAI releases new model that it says triggered internal security measures",
-      "summary": "",
-      "publishedAt": "2026-09-03T18:00:40.000Z",
-      "publisher": "NBC News",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
         "score": 6,
-        "reason": "Flagship model or product launch"
+        "reason": "Corporate move or major external event"
       }
     },
     {
@@ -200,6 +181,25 @@
       }
     },
     {
+      "id": "8cf8f61bc55f74d03877dfab6bfea9ea65676c72",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNR0dkWmwxWFVnc2QzNnprVzNMLVRkVjVLOGZ0NUQwVEw0VHZ3dWlPSmJYUnptSGJfM0FrZURMTzV5SWRxSUZUa0dpR0ZFNWZkSE1GUUw4eXBnU05OVUNIZHF2OGtnUWFBNHB2bk1saUJMZWRrRjNJVUZNQVBDUXVXR0JRTnpCUDJ6WUFJWGdVY1Y3NFY4ZVRWa3RTTFJIa1IxNFVZSlBfd3BnTThR?oc=5",
+      "title": "DOJ urges judge to rule for OpenAI, Microsoft in N.Y. Times lawsuit",
+      "summary": "",
+      "publishedAt": "2026-09-03T00:55:07.000Z",
+      "publisher": "The Washington Post",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
       "id": "5d6b0fc4313d55bd9cf1b0fad15d61b4b707fc4f",
       "company": "Google",
       "sourceKind": "external",
@@ -210,6 +210,25 @@
       "title": "Beast Industries on Gemini partnership: Incorporating AI into videos to enhance experiences",
       "summary": "",
       "publishedAt": "2026-09-02T18:47:00.000Z",
+      "publisher": "CNBC",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "5169298965134aa7b22430a350c9c83f50b8582c",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTnlCVDJ6NTNQcnJBNVhHcEJNajZWajdBZ2cxVm42N1lPdl9mNkFWaHBqc1VNV1I0Mmp5UGRlR0p0RGZiRklBdzctQlNibDdpZ0hTamxXeHhaTG9pRVZYbHUwTGhHWFpzVEZXSG5rRkRWT3JnX3dDZVY1bUctc3M4d9IBhgFBVV95cUxPeWYyTW9TNEVVQjMtaXE3UDN5dDFEeEMtRE1QWWtaQUVHZ0JJYVlXN2NFalBSN0JUUFIzMnFpY3pFc2ZBWEhNZGNRNWctOEpyci1pZmE1NHBWMVA4bHZoZjJfVmRfOWFjWWwwSnZVM0hvR0hKRFV3cnhVVm10dFZzcS1tMUlKQQ?oc=5",
+      "title": "Meta settlement could clear the way for new AI product launches, Morgan Stanley says",
+      "summary": "",
+      "publishedAt": "2026-09-02T09:19:25.000Z",
       "publisher": "CNBC",
       "discoveryMethod": "feed",
       "classification": {
@@ -238,41 +257,22 @@
       }
     },
     {
-      "id": "61812e5075cdab702a8f8aa8c5c41b508c6abb46",
-      "company": "OpenAI",
+      "id": "0517e9342b08de73080e1050e072b992d55813cf",
+      "company": "Microsoft",
       "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZ2hDdGZuRTFvS2RaNnJUbk8tWXZlRzRsblFZd0pvc29QNjZzWmw4LW5sTnB1bWp0RjM3NFV5QTZ6NFM3NFcyUWRqQk02c1ZBWlJoR0VfWGRBdHBCXzdaUWtiU0l6R0NuMXg1Y3ZHTmREYk8tRkpvR0hmNDltRV9PdC1QTHpYVmo1cDFlWlNJZEtiajk1Q3c?oc=5",
-      "title": "OpenAI’s $1 Billion Cyber Push Backs Cloudflare and SentinelOne. Which Has the Better AI Security Model?",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUjd5N3lxYmlOZTFkMU5xa05pdW10UnU5c1c4dUgyREl1eE1vMDNTTGhsVUJLSFNNQjNwdUdZZWt0NmhQMlRqOWNjektIMEhuWXdtTlkyZ1k0N3NsN1VyTi0xWGduXzNqNW1IYnVwX2lQVlM5Ujk5Si10REdhb0sxWjE3a203U3hUYUE4X0djLTVqZXQzbW5yZlJSRFdJaEhURlloSV82Q0szclFEX1lyLUdYT0ZLY2c?oc=5",
+      "title": "Montana Joins Alabama, Others Launching OpenAI Security Probe",
       "summary": "",
-      "publishedAt": "2026-09-05T12:26:09.000Z",
-      "publisher": "Yahoo Finance",
+      "publishedAt": "2026-09-01T21:43:00.000Z",
+      "publisher": "Bloomberg Law News",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 5,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "6638c36a4ba9112dac9e0ee30b7f55d3042fc90c",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVnFfaE5rZ1Bnc2V0b3lyaGZaRjRkRURVSFZsOE9tMk9iQXN0M3hlU1JrNkVQd2Fld1NXbjh4eXUzSnpaR0FRZHMzUU9hWEV1Um1YelE4V2dhUHJqNFVDOHpnRHZfRnVDbWlCTjdidXRHdDNjWXhGWkRFbjFqUHJra3ZleXd6RGFWSkROaXdEOHA4MlU?oc=5",
-      "title": "Security News This Week: OpenAI Agents Hacked Another Website",
-      "summary": "",
-      "publishedAt": "2026-09-05T10:30:00.000Z",
-      "publisher": "WIRED",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Safety, security, or policy update"
+        "score": 6,
+        "reason": "Corporate move or major external event"
       }
     },
     {
@@ -333,60 +333,41 @@
       }
     },
     {
-      "id": "9bef53498bd20871eb6a0147b6b63570d322bcec",
+      "id": "0df2b149975f4d0058ea0d3226d915085e492e8b",
       "company": "Meta",
       "sourceKind": "external",
       "sourceId": "external-meta-major",
       "sourceLabel": "Major External News - Meta",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVFJQT09xUHpXOHM4WWs4azBPMjJONENiUkhoY21zQVlBdGt2LTBGeHF4emtaSWthWmVtSEtwemZDRlZmVVJQSDNRVDUzUlhubm5aZzE0bE0yTEt6dUVRWGM2MkJTdC1jWWh0a0VWXzNMOEp5V2pmaFJFYmFSeUFaaUQxSVMwNE9OVF9rTWZRR2NkXzg?oc=5",
-      "title": "Report warns Alberta power bills could jump by $270 to $460 a year as Meta data center powers up",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQThtcmV5OS1oR0ZUWEE0TGR2ZzZtWGh1a0w0aWlxTWdFWGlLYjNwUHA3dk1XQ2JpXzV5NlhoeTdja2JidG9lQnNlVUgtVDUyMGI4d0Rma1NLTzZrTURFMmM4VjVSQS1iYjdWUHNHM3BUY280RXdKRng2cVZoQWpNUVc0NHNJU09I?oc=5",
+      "title": "Ohio city approves 30-year power deal for Meta data center after $8 million public safety pledge",
       "summary": "",
-      "publishedAt": "2026-09-05T03:19:00.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "68108a14c0af875a2a0d5d24a1415d88c2450e9a",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5PWUJzRDlLbldHU2FESksyWWNOeFE4TG8wNXFGNjNlYmJ2ZDRhT0lNNnlSaDVyN1N1clpydGkyMUtpM2MzblFHSUM5QjBPUEVTcUY5TWp1dXY0QU9EaDRlamZZS1JDVUNkTXo0SXljemxmSC1QMThtUXltWQ?oc=5",
-      "title": "Meta's new $1.2 billion Kuna Data Center begins operations",
-      "summary": "",
-      "publishedAt": "2026-09-03T23:26:02.000Z",
+      "publishedAt": "2026-09-03T12:45:00.000Z",
       "publisher": "Yahoo",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
         "score": 4,
-        "reason": "Trusted external coverage"
+        "reason": "Safety, security, or policy update"
       }
     },
     {
-      "id": "1b1a601c4e50fe8cfcea204d9406dd9e5bc320a0",
-      "company": "Meta",
+      "id": "afb45d776ff4f6d1820fc30beb2fb21aff803fa6",
+      "company": "Microsoft",
       "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSnVkeVZYVC04cm1vQ3V2UW9FYk1vdjlJQ1VjTkw1dDQ5T2FHOElQYWowN3RUOHlzUTdlZUU1TGpoYk9pMG1RUGdKOEFlSFd5aDZSTG1TLWlCQWd3aU1YZ3NGbjhvWVNSYWNMQXlINTBjR0JqdzFMcFJLT1daYzEzV1NhVVBZNGtIRm5HSHNQbVA?oc=5",
-      "title": "Meta's More Than $10 Billion Data Center Faces Texas Pushback",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNkk4TnhJLWdVdVgzMDBFejB6dWNlLW95V3liSkJwbzI2U1hON2pIVk9XX1ZzN3dIZWR3amQ2UjBOWmEtVC13bm9qYkNfOTFTeFZzTkJXYXJya1NXNm5iTFB1Q0k5X25VUnJZSnVuSmQ1dDF4RU5xd2VwclJOUC1uU1dHaXJEQmszWTBNQ1g5VUtjWl9DTXo2NzZBNG85VjZwcGtfNm1CdGc4akJf?oc=5",
+      "title": "OpenAI Technique in ‘Astra’ Model Sparks Security Concerns",
       "summary": "",
-      "publishedAt": "2026-09-03T21:32:40.000Z",
-      "publisher": "Yahoo Finance",
+      "publishedAt": "2026-09-02T00:40:00.000Z",
+      "publisher": "The Information",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
         "score": 4,
-        "reason": "Trusted external coverage"
+        "reason": "Safety, security, or policy update"
       }
     },
     {
@@ -485,22 +466,41 @@
       }
     },
     {
-      "id": "27a3abb091683a6b2447df25f2d134d0f9582092",
-      "company": "Anthropic",
+      "id": "68108a14c0af875a2a0d5d24a1415d88c2450e9a",
+      "company": "Meta",
       "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQLXN3eTNhQllKcVZxN180dEg1eGZQUF8wMEJWR2VzTkdYTWswX0hVNGJmcldmbGdqc1dWTUlMSFYwNURMYTRzdWM2dzFybW9GdmxVbERSNHVFUnNXTVB6WndmbFNYSmZzcEs4dVRPSUJMWjVhZkNtekhnTHNlT1hQSkFTckJyOUR0TFlyZGg0ckNDR2ItTlMzRG84cVpxOFg5Tzg4S2N4RXNNQQ?oc=5",
-      "title": "Rogo, Hebbia Revenue Rises as Claude Finance Threat Looms",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5PWUJzRDlLbldHU2FESksyWWNOeFE4TG8wNXFGNjNlYmJ2ZDRhT0lNNnlSaDVyN1N1clpydGkyMUtpM2MzblFHSUM5QjBPUEVTcUY5TWp1dXY0QU9EaDRlamZZS1JDVUNkTXo0SXljemxmSC1QMThtUXltWQ?oc=5",
+      "title": "Meta's new $1.2 billion Kuna Data Center begins operations",
       "summary": "",
-      "publishedAt": "2026-09-03T14:05:00.000Z",
-      "publisher": "The Information",
+      "publishedAt": "2026-09-03T23:26:02.000Z",
+      "publisher": "Yahoo",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
         "score": 3,
         "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "19672c4832d4c9bc0fd35c9ad6b6596c81afa104",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "title": "acceleration: The view inside OpenAI",
+      "summary": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
+      "publishedAt": "2026-09-06T08:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Technical or research update"
       }
     },
     {
@@ -544,17 +544,17 @@
   ],
   "newItems": [
     {
-      "id": "bae10d90e84c26553d89c1f4904593371efde8bf",
-      "company": "Anthropic",
+      "id": "bedf51b713be3813c6ae2081f6a93f2e2b625562",
+      "company": "OpenAI",
       "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQM0JCcDFiX0pScndEQWkwM1FBYXpPVEhPVVBhTFJoVV9JTW4xZllRX2MzLUI3UVJuTGdaZEROM2FPcXhPWGgxTm9WbFJpVkJXMmtMbzFUakpuVWZqRG5KY25GZzZNdlZpT1hweHZ3b3FJZVBtUUpVSTJINUUyMFhSM1AtMEpvaklaaFJKWXVn?oc=5",
-      "title": "Authors Wrangle With Publishers Over $1.5 Billion Anthropic A.I. Settlement",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONTdOTkJNdUJEQng2RTROVzFoM1NjeUN2d1ROa0xmNlItOFpfQkctMHhVQ0pFUVcwVlY0bzcxSXBsUVFRU3lhX1JFQ0U0NXhmNzF5RnZucmdodFJvWElrS3dnck1IWGMtSEtXZHpjRU9nWkxMZTZKcXdsVlpJcGp3OE15amdkejVkTnk2dWd2bVRJR29IMmNpNzdNb1BDOV85aFlIN3VEQkFNVkJwcHhFSkRGaGdRXzQ?oc=5",
+      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
       "summary": "",
-      "publishedAt": "2026-09-05T09:03:10.000Z",
-      "publisher": "The New York Times",
+      "publishedAt": "2026-09-05T22:49:55.000Z",
+      "publisher": "TechCrunch",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -563,193 +563,41 @@
       }
     },
     {
-      "id": "5c768191fb0556cc4e52ded471fd8505e4915297",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOE83d29ldlZFZGYwMXNLVWtXaUpMLS1xWmpDWjIzREhzTUk0cklteXNPX0ZnMlZ5M3JUcktaLUhlbVJGNHNnTTJwMy1DMFRTWWpFRy1VdmwwZVYtLTNTS0Q4WFZlLUgyd3VqSUxZX3VSTDVzeE1xOHhiclJFLVJGUjB6emhPNFVfWHgzbzBKQ0FiQ29wRmNEYkc4MjFIYjVuSW9Gc2VObDMwdjh4c0xiTFZmd3doU2NPV2I0eTJLZ0N3aDl5alE?oc=5",
-      "title": "Seattle Times, Newsday sue OpenAI, Microsoft, alleging copyright infringement",
-      "summary": "",
-      "publishedAt": "2026-09-05T03:00:00.000Z",
-      "publisher": "Reuters",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "ab50ba181fc4314ae994fd4fc7a9f6d0f79c2b0b",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMUg1V2E5OGEtNnhBMzV3NE0wSWxXQlJ5RzFCM0JDYmNBMzJ3QktGZFJHZ3BRWG9zYWZrRHZwTklBV3c1MzdRY3ROUk9Nb3FmSy13MkdYSnBTcjJpMnF0bmVMQVo0X2REUHpZWGFieGhhSlEwbkpCa241RnNNTFVHTmxmemI4a3JfVWl6Z1FrTlg4NmtDVWVqeWd2ZGI?oc=5",
-      "title": "Microsoft, OpenAI Urge Court to Find AI Training Is Fair Use (1)",
-      "summary": "",
-      "publishedAt": "2026-09-04T15:42:00.000Z",
-      "publisher": "Bloomberg Law News",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "a096526a1cb2eb88cf57aa4c7291071b2c963428",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOME1hSWlLYzY2a3I4TFBudWk0SkdZWDlVOE96LUJuNFJ0dkc1YVFYQnZBaVRETjc5VHBtUDVod1B1SDhxX0dKMHk0azh2a2stTjAtanNLdjBzLWlNQzFPUGh6TTQzczFzQ1Y5QlNCTlBxelFLVm9yQV9KZ1ZYRFphbA?oc=5",
-      "title": "How OpenAI Limited the Probe of Its Bots’ Hack of Hugging Face",
-      "summary": "",
-      "publishedAt": "2026-09-04T00:02:47.000Z",
-      "publisher": "The New York Times",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "61812e5075cdab702a8f8aa8c5c41b508c6abb46",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZ2hDdGZuRTFvS2RaNnJUbk8tWXZlRzRsblFZd0pvc29QNjZzWmw4LW5sTnB1bWp0RjM3NFV5QTZ6NFM3NFcyUWRqQk02c1ZBWlJoR0VfWGRBdHBCXzdaUWtiU0l6R0NuMXg1Y3ZHTmREYk8tRkpvR0hmNDltRV9PdC1QTHpYVmo1cDFlWlNJZEtiajk1Q3c?oc=5",
-      "title": "OpenAI’s $1 Billion Cyber Push Backs Cloudflare and SentinelOne. Which Has the Better AI Security Model?",
-      "summary": "",
-      "publishedAt": "2026-09-05T12:26:09.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "6638c36a4ba9112dac9e0ee30b7f55d3042fc90c",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVnFfaE5rZ1Bnc2V0b3lyaGZaRjRkRURVSFZsOE9tMk9iQXN0M3hlU1JrNkVQd2Fld1NXbjh4eXUzSnpaR0FRZHMzUU9hWEV1Um1YelE4V2dhUHJqNFVDOHpnRHZfRnVDbWlCTjdidXRHdDNjWXhGWkRFbjFqUHJra3ZleXd6RGFWSkROaXdEOHA4MlU?oc=5",
-      "title": "Security News This Week: OpenAI Agents Hacked Another Website",
-      "summary": "",
-      "publishedAt": "2026-09-05T10:30:00.000Z",
-      "publisher": "WIRED",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "2391e6eba34e0f589fe1161b6fb5359076a952fa",
+      "id": "0df2b149975f4d0058ea0d3226d915085e492e8b",
       "company": "Meta",
       "sourceKind": "external",
       "sourceId": "external-meta-major",
       "sourceLabel": "Major External News - Meta",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZjZBYzhpOGRvRGo5MW5ZY0lrdmtvak4zTnMwNEtmMVFOUWZpaFEwY3Y0TW9OZGo4MHF4Mm0xZnBkZE1LVXk5bnFkVDg1WjVVQ3RhME9kRDNqdnlBYWRBOUNNOW5Odk80Y2tQQnE1RFM5Zk1rTTZDZ0ljRjI4SHRpY1ZtMDcxT1BPUnJ4MnpqMA?oc=5",
-      "title": "Meta Is Testing Robots to Take Over Data Center Grunt Work",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQThtcmV5OS1oR0ZUWEE0TGR2ZzZtWGh1a0w0aWlxTWdFWGlLYjNwUHA3dk1XQ2JpXzV5NlhoeTdja2JidG9lQnNlVUgtVDUyMGI4d0Rma1NLTzZrTURFMmM4VjVSQS1iYjdWUHNHM3BUY280RXdKRng2cVZoQWpNUVc0NHNJU09I?oc=5",
+      "title": "Ohio city approves 30-year power deal for Meta data center after $8 million public safety pledge",
       "summary": "",
-      "publishedAt": "2026-09-05T15:44:33.000Z",
-      "publisher": "Startup Fortune",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "9bef53498bd20871eb6a0147b6b63570d322bcec",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVFJQT09xUHpXOHM4WWs4azBPMjJONENiUkhoY21zQVlBdGt2LTBGeHF4emtaSWthWmVtSEtwemZDRlZmVVJQSDNRVDUzUlhubm5aZzE0bE0yTEt6dUVRWGM2MkJTdC1jWWh0a0VWXzNMOEp5V2pmaFJFYmFSeUFaaUQxSVMwNE9OVF9rTWZRR2NkXzg?oc=5",
-      "title": "Report warns Alberta power bills could jump by $270 to $460 a year as Meta data center powers up",
-      "summary": "",
-      "publishedAt": "2026-09-05T03:19:00.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "68108a14c0af875a2a0d5d24a1415d88c2450e9a",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5PWUJzRDlLbldHU2FESksyWWNOeFE4TG8wNXFGNjNlYmJ2ZDRhT0lNNnlSaDVyN1N1clpydGkyMUtpM2MzblFHSUM5QjBPUEVTcUY5TWp1dXY0QU9EaDRlamZZS1JDVUNkTXo0SXljemxmSC1QMThtUXltWQ?oc=5",
-      "title": "Meta's new $1.2 billion Kuna Data Center begins operations",
-      "summary": "",
-      "publishedAt": "2026-09-03T23:26:02.000Z",
+      "publishedAt": "2026-09-03T12:45:00.000Z",
       "publisher": "Yahoo",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
         "score": 4,
-        "reason": "Trusted external coverage"
+        "reason": "Safety, security, or policy update"
       }
     },
     {
-      "id": "1b1a601c4e50fe8cfcea204d9406dd9e5bc320a0",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSnVkeVZYVC04cm1vQ3V2UW9FYk1vdjlJQ1VjTkw1dDQ5T2FHOElQYWowN3RUOHlzUTdlZUU1TGpoYk9pMG1RUGdKOEFlSFd5aDZSTG1TLWlCQWd3aU1YZ3NGbjhvWVNSYWNMQXlINTBjR0JqdzFMcFJLT1daYzEzV1NhVVBZNGtIRm5HSHNQbVA?oc=5",
-      "title": "Meta's More Than $10 Billion Data Center Faces Texas Pushback",
-      "summary": "",
-      "publishedAt": "2026-09-03T21:32:40.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "0f3b76bc480d3619c3aaf50d3bb915575c29f5aa",
+      "id": "19672c4832d4c9bc0fd35c9ad6b6596c81afa104",
       "company": "OpenAI",
       "sourceKind": "official",
       "sourceId": "openai-newsroom",
       "sourceLabel": "OpenAI Newsroom",
       "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/gpt-6-astra",
-      "title": "GPT-6 Astra: A new generation of intelligence",
-      "summary": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
-      "publishedAt": "2026-09-03T11:00:00.000Z",
+      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "title": "acceleration: The view inside OpenAI",
+      "summary": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
+      "publishedAt": "2026-09-06T08:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
-        "score": 4,
-        "reason": "Flagship model or product launch"
+        "score": 3,
+        "reason": "Technical or research update"
       }
     }
   ],
