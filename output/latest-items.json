@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T16:46:32.235Z",
+  "generatedAt": "2026-09-07T18:38:52.787Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -76,15 +76,72 @@
     }
   ],
   "totals": {
-    "fetched": 40,
+    "fetched": 39,
     "deduped": 24,
-    "new": 3,
+    "new": 7,
     "byKind": {
       "official": 10,
       "external": 14
     }
   },
   "items": [
+    {
+      "id": "32d30d1b266375e54328919c1c78c13422f73f5a",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTC1YQ3pDNHZ1d1J0TXpxaWxfYmRmQ1BONXhDTzExZm41clUwVmhTeTcyb1lRQ09ZNE9PRmxfUFpqcUJOUFpiOGw2Rk9yRHhaSkNTZGxLT0FnYktaZFBydU1udmx6ZWt3MThUdWk0ZkVyV0pwY0V0UTdiYk5FMHprUHlESkY3cDR3TUxydHBZbkNVamFYX0tXbU5zRGpOYnJLenBn?oc=5",
+      "title": "Authors Fight Publishers And Agents Over Anthropic's $1.5 Billion Settlement",
+      "summary": "",
+      "publishedAt": "2026-09-07T02:15:11.000Z",
+      "publisher": "Startup Fortune",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "1ac4b0334c90b3651a32f6d7c31b2eea316cf0ab",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMVkwYjgtNngweEhDWU1QcVBGVncyZ2U3WXByUzJpTVFrM3J4R0hoWWxsMW0xNEpnNzdBVVZIWGh6dTJ6dWNOQmNCY2U1X21weW5DamdZN0d0bGttdzFVV24xS1VCOG82ckpMQ3JJRjl6VWlERzdDSk55T2dLWTkxWjZnV3pubExXcUxqVkg4VzdYYmxROHpsbi1QZ216WnpYd2RZbVdtZkg?oc=5",
+      "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+      "summary": "",
+      "publishedAt": "2026-09-06T23:36:04.000Z",
+      "publisher": "The Verge",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "d843d09a0675e8453f956d7ea70da86c8a36a58a",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMWtFTGd3RmV5blg2X3Jod3BmN1B2eFYteHN2RHpqc0NCVGt1dVN0QmxCWHNrZGVsU3A1d2FSWkoxeXlub0M5UV9QZHV4M1NJRmN2RU9hTVV0Z2N4cC1XcmNEWGtSV2NLa1ZRa2N6aTRBdVpoSmlaQXRSbTZRUjg1UTdzbHFRdWNhMzN3M0Jfd3pOYnVKZGQzVzNJZmtBYXN0dDBsTnlHMnl4U0k0alg5RHVR?oc=5",
+      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+      "summary": "",
+      "publishedAt": "2026-09-06T20:47:37.000Z",
+      "publisher": "TechCrunch",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
     {
       "id": "bedf51b713be3813c6ae2081f6a93f2e2b625562",
       "company": "OpenAI",
@@ -119,7 +176,7 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 7,
+        "score": 6,
         "reason": "Corporate move or major external event"
       }
     },
@@ -138,60 +195,22 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 7,
+        "score": 6,
         "reason": "Corporate move or major external event"
       }
     },
     {
       "id": "ab50ba181fc4314ae994fd4fc7a9f6d0f79c2b0b",
-      "company": "OpenAI",
+      "company": "Microsoft",
       "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
       "homepageUrl": "https://news.google.com/",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMUg1V2E5OGEtNnhBMzV3NE0wSWxXQlJ5RzFCM0JDYmNBMzJ3QktGZFJHZ3BRWG9zYWZrRHZwTklBV3c1MzdRY3ROUk9Nb3FmSy13MkdYSnBTcjJpMnF0bmVMQVo0X2REUHpZWGFieGhhSlEwbkpCa241RnNNTFVHTmxmemI4a3JfVWl6Z1FrTlg4NmtDVWVqeWd2ZGI?oc=5",
       "title": "Microsoft, OpenAI Urge Court to Find AI Training Is Fair Use (1)",
       "summary": "",
       "publishedAt": "2026-09-04T15:42:00.000Z",
       "publisher": "Bloomberg Law News",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "c227afc9ec590d4a16bd5f864b4da644b6126012",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qSmJMXzNXS0NYQWZFNUdaLUJRMkZGcm5VSG5UM3VDaS1UQThGRTU4ZmVCN0YzWEh1ODFTRy1va0tOdUtpVkdMbjBlNEtOSmpiWGZ5QUVBRnp4V2dJQ2xFNXVQMUdTVVU?oc=5",
-      "title": "AI Weekly: New York City's AI policy for children, Anthropic's court win",
-      "summary": "",
-      "publishedAt": "2026-09-03T10:55:41.000Z",
-      "publisher": "Reuters",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "8cf8f61bc55f74d03877dfab6bfea9ea65676c72",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNR0dkWmwxWFVnc2QzNnprVzNMLVRkVjVLOGZ0NUQwVEw0VHZ3dWlPSmJYUnptSGJfM0FrZURMTzV5SWRxSUZUa0dpR0ZFNWZkSE1GUUw4eXBnU05OVUNIZHF2OGtnUWFBNHB2bk1saUJMZWRrRjNJVUZNQVBDUXVXR0JRTnpCUDJ6WUFJWGdVY1Y3NFY4ZVRWa3RTTFJIa1IxNFVZSlBfd3BnTThR?oc=5",
-      "title": "DOJ urges judge to rule for OpenAI, Microsoft in N.Y. Times lawsuit",
-      "summary": "",
-      "publishedAt": "2026-09-03T00:55:07.000Z",
-      "publisher": "The Washington Post",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -219,60 +238,79 @@
       }
     },
     {
-      "id": "5169298965134aa7b22430a350c9c83f50b8582c",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTnlCVDJ6NTNQcnJBNVhHcEJNajZWajdBZ2cxVm42N1lPdl9mNkFWaHBqc1VNV1I0Mmp5UGRlR0p0RGZiRklBdzctQlNibDdpZ0hTamxXeHhaTG9pRVZYbHUwTGhHWFpzVEZXSG5rRkRWT3JnX3dDZVY1bUctc3M4d9IBhgFBVV95cUxPeWYyTW9TNEVVQjMtaXE3UDN5dDFEeEMtRE1QWWtaQUVHZ0JJYVlXN2NFalBSN0JUUFIzMnFpY3pFc2ZBWEhNZGNRNWctOEpyci1pZmE1NHBWMVA4bHZoZjJfVmRfOWFjWWwwSnZVM0hvR0hKRFV3cnhVVm10dFZzcS1tMUlKQQ?oc=5",
-      "title": "Meta settlement could clear the way for new AI product launches, Morgan Stanley says",
-      "summary": "",
-      "publishedAt": "2026-09-02T09:19:25.000Z",
-      "publisher": "CNBC",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "5b99f9a4a56fabb6cf5c39835dcd9d117ad6f5af",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONFlTbW93cUUwcUdPODVDMlpBS29hb0wwNVhCdmVOQXZSMFVsWUQ0cmkyb09JcGFlbW84bkc3RUhFRnhvSENzTjR4NE9ON0ZQVW9RMFlvQW5hRV9SdW9XVFFEU2RwTkJPLTBXMVRqcXRZYU54MkE4VDRQS2xDc2s1SHRLYTJnbDRGZnhrMmpiSjN1X2VFUTFXSkgzN0FlbTRNQy1qQjBRVDdOZ1M4VzY5d1B4ZnItcGtucmV2OUM5OXU3RGhvZ2t0dUdn?oc=5",
-      "title": "Anthropic’s Court Win Sets Proper Limits on Government Conduct",
-      "summary": "",
-      "publishedAt": "2026-09-02T08:30:00.000Z",
-      "publisher": "Bloomberg Law News",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "0517e9342b08de73080e1050e072b992d55813cf",
+      "id": "5f96a357c2079eeb3b5e27f5401a3ee7ecdd53ef",
       "company": "Microsoft",
       "sourceKind": "external",
       "sourceId": "external-microsoft-major",
       "sourceLabel": "Major External News - Microsoft",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUjd5N3lxYmlOZTFkMU5xa05pdW10UnU5c1c4dUgyREl1eE1vMDNTTGhsVUJLSFNNQjNwdUdZZWt0NmhQMlRqOWNjektIMEhuWXdtTlkyZ1k0N3NsN1VyTi0xWGduXzNqNW1IYnVwX2lQVlM5Ujk5Si10REdhb0sxWjE3a203U3hUYUE4X0djLTVqZXQzbW5yZlJSRFdJaEhURlloSV82Q0szclFEX1lyLUdYT0ZLY2c?oc=5",
-      "title": "Montana Joins Alabama, Others Launching OpenAI Security Probe",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeURxRDNWX2lQd2FYR3dqekFsYV9wemRsc0pnT2ZSanc3dlZmWlFQV2dubGZwVmlmTHB5elJLenRETzk2d2xYQS1JVmJMUUc5TnM5S2hFRnZkcUJtNWZ2ajUzQkc3MHh3MDk2VVBtbW4xdVVxZjRGMG9YS0doUGJ6QnpoT0hSMG9nYTRsWE5rU2pQRzlHLVQ3WHNQZ1h4V0FFTFV0N3hKTEJMLWw3bXc?oc=5",
+      "title": "CrowdStrike Expands OpenAI Partnership to Secure Codex Agents and Integrate GPT-5.6 Cyber",
       "summary": "",
-      "publishedAt": "2026-09-01T21:43:00.000Z",
-      "publisher": "Bloomberg Law News",
+      "publishedAt": "2026-09-02T14:59:55.000Z",
+      "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
         "score": 6,
         "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "fdf3e0d338a6c7b7ec65f5e4f445357bba28daff",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/contrail-avoidance-ultra-long-haul-flights",
+      "title": "Our new contrail avoidance trial in Asia-Pacific",
+      "summary": "We’re partnering with Cathay Pacific to test our AI-powered contrail mitigation technology on ultra-long-haul flights.",
+      "publishedAt": "2026-09-07T08:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "ba01fb601290ee13b87f7f9d29d90057923755ef",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbWNwQUNOcnJhODJyal8zMGpmZ2ZqVmJjXzZBUURaMnNBWV81NTRCeFkzdlp4VnNpT3pmOXd3YmxsNk1EVTd5UDdaby1hWWVwSWEycERGZEEzRU5GdjJZaWwyM3R0UnBuV3VXOVBuZndTVGlKbldLNmQ4OXpKLTE3a3MtVkVJaWhXVmxnem1PbjZCTXRxYXBvZQ?oc=5",
+      "title": "OpenAI releases new model that it says triggered internal security measures",
+      "summary": "",
+      "publishedAt": "2026-09-03T18:00:40.000Z",
+      "publisher": "NBC News",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "e02ae19def6b6f7c4df88746637a074f37e339ba",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+      "title": "Supporting independent journalism in Ukraine",
+      "summary": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
+      "publishedAt": "2026-09-07T00:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Flagship model or product launch"
       }
     },
     {
@@ -314,55 +352,17 @@
       }
     },
     {
-      "id": "2391e6eba34e0f589fe1161b6fb5359076a952fa",
-      "company": "Meta",
+      "id": "61812e5075cdab702a8f8aa8c5c41b508c6abb46",
+      "company": "OpenAI",
       "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZjZBYzhpOGRvRGo5MW5ZY0lrdmtvak4zTnMwNEtmMVFOUWZpaFEwY3Y0TW9OZGo4MHF4Mm0xZnBkZE1LVXk5bnFkVDg1WjVVQ3RhME9kRDNqdnlBYWRBOUNNOW5Odk80Y2tQQnE1RFM5Zk1rTTZDZ0ljRjI4SHRpY1ZtMDcxT1BPUnJ4MnpqMA?oc=5",
-      "title": "Meta Is Testing Robots to Take Over Data Center Grunt Work",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZ2hDdGZuRTFvS2RaNnJUbk8tWXZlRzRsblFZd0pvc29QNjZzWmw4LW5sTnB1bWp0RjM3NFV5QTZ6NFM3NFcyUWRqQk02c1ZBWlJoR0VfWGRBdHBCXzdaUWtiU0l6R0NuMXg1Y3ZHTmREYk8tRkpvR0hmNDltRV9PdC1QTHpYVmo1cDFlWlNJZEtiajk1Q3c?oc=5",
+      "title": "OpenAI’s $1 Billion Cyber Push Backs Cloudflare and SentinelOne. Which Has the Better AI Security Model?",
       "summary": "",
-      "publishedAt": "2026-09-05T15:44:33.000Z",
-      "publisher": "Startup Fortune",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "0df2b149975f4d0058ea0d3226d915085e492e8b",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQThtcmV5OS1oR0ZUWEE0TGR2ZzZtWGh1a0w0aWlxTWdFWGlLYjNwUHA3dk1XQ2JpXzV5NlhoeTdja2JidG9lQnNlVUgtVDUyMGI4d0Rma1NLTzZrTURFMmM4VjVSQS1iYjdWUHNHM3BUY280RXdKRng2cVZoQWpNUVc0NHNJU09I?oc=5",
-      "title": "Ohio city approves 30-year power deal for Meta data center after $8 million public safety pledge",
-      "summary": "",
-      "publishedAt": "2026-09-03T12:45:00.000Z",
-      "publisher": "Yahoo",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "afb45d776ff4f6d1820fc30beb2fb21aff803fa6",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNkk4TnhJLWdVdVgzMDBFejB6dWNlLW95V3liSkJwbzI2U1hON2pIVk9XX1ZzN3dIZWR3amQ2UjBOWmEtVC13bm9qYkNfOTFTeFZzTkJXYXJya1NXNm5iTFB1Q0k5X25VUnJZSnVuSmQ1dDF4RU5xd2VwclJOUC1uU1dHaXJEQmszWTBNQ1g5VUtjWl9DTXo2NzZBNG85VjZwcGtfNm1CdGc4akJf?oc=5",
-      "title": "OpenAI Technique in ‘Astra’ Model Sparks Security Concerns",
-      "summary": "",
-      "publishedAt": "2026-09-02T00:40:00.000Z",
-      "publisher": "The Information",
+      "publishedAt": "2026-09-05T12:26:09.000Z",
+      "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -381,25 +381,6 @@
       "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
       "summary": "WeatherNext 3, our most advanced global weather AI model, is now in Search, Gemini, Maps, Google Maps Platform, and Cloud.",
       "publishedAt": "2026-09-03T15:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "0f3b76bc480d3619c3aaf50d3bb915575c29f5aa",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/gpt-6-astra",
-      "title": "GPT-6 Astra: A new generation of intelligence",
-      "summary": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
-      "publishedAt": "2026-09-03T11:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -428,55 +409,55 @@
       }
     },
     {
-      "id": "4df22e2911252dabe9cbbe5222d34610ca1c4111",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026",
-      "title": "The latest AI news we announced in August 2026",
-      "summary": "Here are Google’s latest AI updates from August 2026",
-      "publishedAt": "2026-09-01T20:45:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "ec4d22acc2bd0ee11629440892256166f203ea23",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-agentic-video-in-gemini",
-      "title": "Introducing agentic video understanding with Gemini",
-      "summary": "We’re launching agentic video understanding across our latest Gemini models for improved accuracy and lower costs and token usage.",
-      "publishedAt": "2026-09-01T17:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "68108a14c0af875a2a0d5d24a1415d88c2450e9a",
+      "id": "2391e6eba34e0f589fe1161b6fb5359076a952fa",
       "company": "Meta",
       "sourceKind": "external",
       "sourceId": "external-meta-major",
       "sourceLabel": "Major External News - Meta",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5PWUJzRDlLbldHU2FESksyWWNOeFE4TG8wNXFGNjNlYmJ2ZDRhT0lNNnlSaDVyN1N1clpydGkyMUtpM2MzblFHSUM5QjBPUEVTcUY5TWp1dXY0QU9EaDRlamZZS1JDVUNkTXo0SXljemxmSC1QMThtUXltWQ?oc=5",
-      "title": "Meta's new $1.2 billion Kuna Data Center begins operations",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZjZBYzhpOGRvRGo5MW5ZY0lrdmtvak4zTnMwNEtmMVFOUWZpaFEwY3Y0TW9OZGo4MHF4Mm0xZnBkZE1LVXk5bnFkVDg1WjVVQ3RhME9kRDNqdnlBYWRBOUNNOW5Odk80Y2tQQnE1RFM5Zk1rTTZDZ0ljRjI4SHRpY1ZtMDcxT1BPUnJ4MnpqMA?oc=5",
+      "title": "Meta Is Testing Robots to Take Over Data Center Grunt Work",
       "summary": "",
-      "publishedAt": "2026-09-03T23:26:02.000Z",
-      "publisher": "Yahoo",
+      "publishedAt": "2026-09-05T15:44:33.000Z",
+      "publisher": "Startup Fortune",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "9bef53498bd20871eb6a0147b6b63570d322bcec",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVFJQT09xUHpXOHM4WWs4azBPMjJONENiUkhoY21zQVlBdGt2LTBGeHF4emtaSWthWmVtSEtwemZDRlZmVVJQSDNRVDUzUlhubm5aZzE0bE0yTEt6dUVRWGM2MkJTdC1jWWh0a0VWXzNMOEp5V2pmaFJFYmFSeUFaaUQxSVMwNE9OVF9rTWZRR2NkXzg?oc=5",
+      "title": "Report warns Alberta power bills could jump by $270 to $460 a year as Meta data center powers up",
+      "summary": "",
+      "publishedAt": "2026-09-05T03:19:00.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "1b1a601c4e50fe8cfcea204d9406dd9e5bc320a0",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSnVkeVZYVC04cm1vQ3V2UW9FYk1vdjlJQ1VjTkw1dDQ5T2FHOElQYWowN3RUOHlzUTdlZUU1TGpoYk9pMG1RUGdKOEFlSFd5aDZSTG1TLWlCQWd3aU1YZ3NGbjhvWVNSYWNMQXlINTBjR0JqdzFMcFJLT1daYzEzV1NhVVBZNGtIRm5HSHNQbVA?oc=5",
+      "title": "Meta's More Than $10 Billion Data Center Faces Texas Pushback",
+      "summary": "",
+      "publishedAt": "2026-09-03T21:32:40.000Z",
+      "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -504,25 +485,6 @@
       }
     },
     {
-      "id": "2e155b11d8093d3e923c92601684a4b68a9cbd1e",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/safety-overview-gpt-6-astra",
-      "title": "Safety overview: GPT-6 Astra",
-      "summary": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
-      "publishedAt": "2026-09-03T00:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
       "id": "a0fc52c7c407bf11d8b68ccf62e1b5e671a984b4",
       "company": "Microsoft",
       "sourceKind": "official",
@@ -540,20 +502,96 @@
         "score": 3,
         "reason": "Safety, security, or policy update"
       }
+    },
+    {
+      "id": "3a0b4572422c1a8cbc95ae7fb7158fc8dc49f9d0",
+      "company": "Anthropic",
+      "sourceKind": "official",
+      "sourceId": "anthropic-news",
+      "sourceLabel": "Anthropic News",
+      "homepageUrl": "https://www.anthropic.com/news",
+      "url": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy",
+      "title": "Responsible Scaling Policy",
+      "summary": "",
+      "publishedAt": null,
+      "publisher": "",
+      "discoveryMethod": "anchor",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "5300202d1d578e9004db05de1a4b4a63f71cb8d6",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/ai-planet-accelerator-apac",
+      "title": "Backing 16 green AI projects in Asia-Pacific",
+      "summary": "We’re supporting 16 organizations across Asia-Pacific using frontier AI to tackle challenges in climate, agriculture, and biodiversity.",
+      "publishedAt": "2026-09-07T01:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
+      }
     }
   ],
   "newItems": [
     {
-      "id": "bedf51b713be3813c6ae2081f6a93f2e2b625562",
+      "id": "32d30d1b266375e54328919c1c78c13422f73f5a",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTC1YQ3pDNHZ1d1J0TXpxaWxfYmRmQ1BONXhDTzExZm41clUwVmhTeTcyb1lRQ09ZNE9PRmxfUFpqcUJOUFpiOGw2Rk9yRHhaSkNTZGxLT0FnYktaZFBydU1udmx6ZWt3MThUdWk0ZkVyV0pwY0V0UTdiYk5FMHprUHlESkY3cDR3TUxydHBZbkNVamFYX0tXbU5zRGpOYnJLenBn?oc=5",
+      "title": "Authors Fight Publishers And Agents Over Anthropic's $1.5 Billion Settlement",
+      "summary": "",
+      "publishedAt": "2026-09-07T02:15:11.000Z",
+      "publisher": "Startup Fortune",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "1ac4b0334c90b3651a32f6d7c31b2eea316cf0ab",
       "company": "OpenAI",
       "sourceKind": "external",
       "sourceId": "external-openai-major",
       "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONTdOTkJNdUJEQng2RTROVzFoM1NjeUN2d1ROa0xmNlItOFpfQkctMHhVQ0pFUVcwVlY0bzcxSXBsUVFRU3lhX1JFQ0U0NXhmNzF5RnZucmdodFJvWElrS3dnck1IWGMtSEtXZHpjRU9nWkxMZTZKcXdsVlpJcGp3OE15amdkejVkTnk2dWd2bVRJR29IMmNpNzdNb1BDOV85aFlIN3VEQkFNVkJwcHhFSkRGaGdRXzQ?oc=5",
-      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMVkwYjgtNngweEhDWU1QcVBGVncyZ2U3WXByUzJpTVFrM3J4R0hoWWxsMW0xNEpnNzdBVVZIWGh6dTJ6dWNOQmNCY2U1X21weW5DamdZN0d0bGttdzFVV24xS1VCOG82ckpMQ3JJRjl6VWlERzdDSk55T2dLWTkxWjZnV3pubExXcUxqVkg4VzdYYmxROHpsbi1QZ216WnpYd2RZbVdtZkg?oc=5",
+      "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
       "summary": "",
-      "publishedAt": "2026-09-05T22:49:55.000Z",
+      "publishedAt": "2026-09-06T23:36:04.000Z",
+      "publisher": "The Verge",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "d843d09a0675e8453f956d7ea70da86c8a36a58a",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMWtFTGd3RmV5blg2X3Jod3BmN1B2eFYteHN2RHpqc0NCVGt1dVN0QmxCWHNrZGVsU3A1d2FSWkoxeXlub0M5UV9QZHV4M1NJRmN2RU9hTVV0Z2N4cC1XcmNEWGtSV2NLa1ZRa2N6aTRBdVpoSmlaQXRSbTZRUjg1UTdzbHFRdWNhMzN3M0Jfd3pOYnVKZGQzVzNJZmtBYXN0dDBsTnlHMnl4U0k0alg5RHVR?oc=5",
+      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+      "summary": "",
+      "publishedAt": "2026-09-06T20:47:37.000Z",
       "publisher": "TechCrunch",
       "discoveryMethod": "feed",
       "classification": {
@@ -563,41 +601,79 @@
       }
     },
     {
-      "id": "0df2b149975f4d0058ea0d3226d915085e492e8b",
-      "company": "Meta",
+      "id": "5f96a357c2079eeb3b5e27f5401a3ee7ecdd53ef",
+      "company": "Microsoft",
       "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQThtcmV5OS1oR0ZUWEE0TGR2ZzZtWGh1a0w0aWlxTWdFWGlLYjNwUHA3dk1XQ2JpXzV5NlhoeTdja2JidG9lQnNlVUgtVDUyMGI4d0Rma1NLTzZrTURFMmM4VjVSQS1iYjdWUHNHM3BUY280RXdKRng2cVZoQWpNUVc0NHNJU09I?oc=5",
-      "title": "Ohio city approves 30-year power deal for Meta data center after $8 million public safety pledge",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeURxRDNWX2lQd2FYR3dqekFsYV9wemRsc0pnT2ZSanc3dlZmWlFQV2dubGZwVmlmTHB5elJLenRETzk2d2xYQS1JVmJMUUc5TnM5S2hFRnZkcUJtNWZ2ajUzQkc3MHh3MDk2VVBtbW4xdVVxZjRGMG9YS0doUGJ6QnpoT0hSMG9nYTRsWE5rU2pQRzlHLVQ3WHNQZ1h4V0FFTFV0N3hKTEJMLWw3bXc?oc=5",
+      "title": "CrowdStrike Expands OpenAI Partnership to Secure Codex Agents and Integrate GPT-5.6 Cyber",
       "summary": "",
-      "publishedAt": "2026-09-03T12:45:00.000Z",
-      "publisher": "Yahoo",
+      "publishedAt": "2026-09-02T14:59:55.000Z",
+      "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Safety, security, or policy update"
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Corporate move or major external event"
       }
     },
     {
-      "id": "19672c4832d4c9bc0fd35c9ad6b6596c81afa104",
+      "id": "fdf3e0d338a6c7b7ec65f5e4f445357bba28daff",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/contrail-avoidance-ultra-long-haul-flights",
+      "title": "Our new contrail avoidance trial in Asia-Pacific",
+      "summary": "We’re partnering with Cathay Pacific to test our AI-powered contrail mitigation technology on ultra-long-haul flights.",
+      "publishedAt": "2026-09-07T08:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "e02ae19def6b6f7c4df88746637a074f37e339ba",
       "company": "OpenAI",
       "sourceKind": "official",
       "sourceId": "openai-newsroom",
       "sourceLabel": "OpenAI Newsroom",
       "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-      "title": "acceleration: The view inside OpenAI",
-      "summary": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
-      "publishedAt": "2026-09-06T08:00:00.000Z",
+      "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+      "title": "Supporting independent journalism in Ukraine",
+      "summary": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
+      "publishedAt": "2026-09-07T00:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Technical or research update"
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "5300202d1d578e9004db05de1a4b4a63f71cb8d6",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/ai-planet-accelerator-apac",
+      "title": "Backing 16 green AI projects in Asia-Pacific",
+      "summary": "We’re supporting 16 organizations across Asia-Pacific using frontier AI to tackle challenges in climate, agriculture, and biodiversity.",
+      "publishedAt": "2026-09-07T01:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
       }
     }
   ],
