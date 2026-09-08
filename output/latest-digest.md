@@ -1,65 +1,74 @@
 # AI Company Watch
 
-Generated: Sep 7, 2026, 11:38 AM PDT
+Generated: Sep 8, 2026, 10:49 AM PDT
 Lookback window: 7 day(s)
 Sources checked: 12
-Items fetched: 39
+Items fetched: 37
 Items kept: 24
-New items: 7
-External items kept: 14
-Official items kept: 10
+New items: 8
+External items kept: 12
+Official items kept: 12
 
 ## Critical External News
 
-### Anthropic - Authors Fight Publishers And Agents Over Anthropic's $1.5 Billion Settlement
-Source: Major External News - Anthropic
-Publisher: Startup Fortune
-Published: Sep 6, 2026
-Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMiowFBVV95cUxNTC1YQ3pDNHZ1d1J0TXpxaWxfYmRmQ1BONXhDTzExZm41clUwVmhTeTcyb1lRQ09ZNE9PRmxfUFpqcUJOUFpiOGw2Rk9yRHhaSkNTZGxLT0FnYktaZFBydU1udmx6ZWt3MThUdWk0ZkVyV0pwY0V0UTdiYk5FMHprUHlESkY3cDR3TUxydHBZbkNVamFYX0tXbU5zRGpOYnJLenBn?oc=5
-
-### OpenAI - Seattle Times and Newsday sue OpenAI and Microsoft for infringement
+### OpenAI - publishers that partnered with OpenAI and Microsoft are now suing over AI training
 Source: Major External News - OpenAI
-Publisher: The Verge
-Published: Sep 6, 2026
+Publisher: Yahoo
+Published: Sep 8, 2026
 Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMVkwYjgtNngweEhDWU1QcVBGVncyZ2U3WXByUzJpTVFrM3J4R0hoWWxsMW0xNEpnNzdBVVZIWGh6dTJ6dWNOQmNCY2U1X21weW5DamdZN0d0bGttdzFVV24xS1VCOG82ckpMQ3JJRjl6VWlERzdDSk55T2dLWTkxWjZnV3pubExXcUxqVkg4VzdYYmxROHpsbi1QZ216WnpYd2RZbVdtZkg?oc=5
+Link: https://news.google.com/rss/articles/CBMipAFBVV95cUxPMmtlMzV5eUhEa09XZi1TQVFHdHUxeVRIWnpNR0tiY1lGbW1ReGVjb0pEMVc4UXFMWE9XbHNlTEdVZnJsZkhTYzE0MUJjYVpBVDFCRUFTaC1aMUFudzN3eG9qOEQ5TW93V0lCRy1BZkpSNWJvV3ZyUk9OeTBtNi1YVUQ4djgyMmlMbVRONTY5ZDh1TlptNS03VW9XZFg5cHJoY1FPTw?oc=5
 
-### Anthropic - Authors push back as publishers and agents make claims on Anthropic settlement
-Source: Major External News - Anthropic
-Publisher: TechCrunch
-Published: Sep 6, 2026
-Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxNMWtFTGd3RmV5blg2X3Jod3BmN1B2eFYteHN2RHpqc0NCVGt1dVN0QmxCWHNrZGVsU3A1d2FSWkoxeXlub0M5UV9QZHV4M1NJRmN2RU9hTVV0Z2N4cC1XcmNEWGtSV2NLa1ZRa2N6aTRBdVpoSmlaQXRSbTZRUjg1UTdzbHFRdWNhMzN3M0Jfd3pOYnVKZGQzVzNJZmtBYXN0dDBsTnlHMnl4U0k0alg5RHVR?oc=5
-
-### Microsoft - CrowdStrike Expands OpenAI Partnership to Secure Codex Agents and Integrate GPT-5.6 Cyber
-Source: Major External News - Microsoft
-Publisher: Yahoo Finance
-Published: Sep 2, 2026
-Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMirgFBVV95cUxOeURxRDNWX2lQd2FYR3dqekFsYV9wemRsc0pnT2ZSanc3dlZmWlFQV2dubGZwVmlmTHB5elJLenRETzk2d2xYQS1JVmJMUUc5TnM5S2hFRnZkcUJtNWZ2ajUzQkc3MHh3MDk2VVBtbW4xdVVxZjRGMG9YS0doUGJ6QnpoT0hSMG9nYTRsWE5rU2pQRzlHLVQ3WHNQZ1h4V0FFTFV0N3hKTEJMLWw3bXc?oc=5
-
-## Critical Official Updates
-
-### Google - Our new contrail avoidance trial in Asia-Pacific
-Source: Google AI
+### OpenAI - Seattle Times, Newsday Sue OpenAI, Microsoft Over Copyright Claims
+Source: Major External News - OpenAI
+Publisher: The Information
 Published: Sep 7, 2026
 Why it matters: Corporate move or major external event
-Summary: We’re partnering with Cathay Pacific to test our AI-powered contrail mitigation technology on ultra-long-haul flights.
-Link: https://blog.google/innovation-and-ai/models-and-research/google-research/contrail-avoidance-ultra-long-haul-flights
+Link: https://news.google.com/rss/articles/CBMiogFBVV95cUxORTh1NkRpLUVXcE9XNDZHbGtxWXJNMmxoamFfcjV4emMxUkNfanhOVktTYXBFTk5uY2R4STZNN05nVU9Tc25VUUhBQWNLcUJLUlo5RzZvLTdwekdneEdkT0VmMF9Nci1zbXlac1pvWW45cEp5MU9LdmQ4TEI3S1ZiaVBDMWl6ZDZsZUxCWHJnQncydkwxdVY5MFc3ZG4tUkJYWFE?oc=5
 
-### OpenAI - Supporting independent journalism in Ukraine
+## Important External News
+
+### OpenAI - Out-of-control OpenAI agents hijacked a German site to make a secret message board
+Source: Major External News - OpenAI
+Publisher: Fortune
+Published: Sep 8, 2026
+Why it matters: Trusted external coverage
+Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxPc0VkelM3d3hUZEttcG9VQVdudW50eWkyTHlDZGFvczRYQW96cE1Lb0xtQU1DR0JTMkN4OE1heGNjOHB1c2NFY0dzUl8zRVYyM2VNVUltczlKYjBWQzZMNWRiTlN2WUxqeFRzS0RxUncxOU9rZ0VsTlpRWEZFMXlQZDIxZUU?oc=5
+
+### OpenAI - OpenAI’s AI agents secretly used a German wiki website as a message board. OpenAI stayed quiet about it for weeks.
+Source: Major External News - OpenAI
+Publisher: Fortune
+Published: Sep 7, 2026
+Why it matters: Trusted external coverage
+Link: https://news.google.com/rss/articles/CBMikgFBVV95cUxPeUFUajdmanVrUFlzZkRfSHhoZGhHVXdaQVBlaVNadmRTa1pkWDA5bFpOZEhJVWYyc1NNVUdIZFI3bVlTamhkTkNWdmNpWjVYbVVOZ3FuNTdQSGJfVmpYZjU3a0FqQzV1U0JpQ0VuRGV4RzhmVnMxc0d2VC04T2J6VXpxNEdOUm9HdnByYlFvQUNhdw?oc=5
+
+## Important Official Updates
+
+### Microsoft - Building Africa’s AI future on trust
+Source: Microsoft AI
+Published: Sep 8, 2026
+Why it matters: Safety, security, or policy update
+Summary: Building Africa’s AI future on trust
+Link: https://news.microsoft.com/source/emea/features/building-africas-ai-future-on-trust
+
+### OpenAI - Funding grants for new research into AI and teen development
 Source: OpenAI Newsroom
-Published: Sep 6, 2026
-Why it matters: Flagship model or product launch
-Summary: OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.
-Link: https://openai.com/index/supporting-independent-journalism-in-ukraine
+Published: Sep 8, 2026
+Why it matters: Safety, security, or policy update
+Summary: Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.
+Link: https://openai.com/index/teen-development-research-grants
 
 ## Official Company Updates
 
-### Google - Backing 16 green AI projects in Asia-Pacific
-Source: Google AI
-Published: Sep 6, 2026
+### OpenAI - The Work Now Within Reach
+Source: OpenAI Newsroom
+Published: Sep 8, 2026
 Why it matters: Routine official update
-Summary: We’re supporting 16 organizations across Asia-Pacific using frontier AI to tackle challenges in climate, agriculture, and biodiversity.
-Link: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/ai-planet-accelerator-apac
+Summary: Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.
+Link: https://openai.com/index/the-work-now-within-reach
+
+### OpenAI - OpenAI expands initiatives to support journalism from classrooms to newsrooms
+Source: OpenAI Newsroom
+Published: Sep 7, 2026
+Why it matters: Routine official update
+Summary: OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.
+Link: https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms
