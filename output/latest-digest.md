@@ -1,104 +1,118 @@
 # AI Company Watch
 
-Generated: Sep 9, 2026, 10:41 AM PDT
+Generated: Sep 10, 2026, 10:34 AM PDT
 Lookback window: 7 day(s)
 Sources checked: 12
-Items fetched: 33
+Items fetched: 35
 Items kept: 24
-New items: 12
-External items kept: 9
-Official items kept: 15
+New items: 14
+External items kept: 10
+Official items kept: 14
 
 ## Critical External News
 
-### Google - Accenture, Google Cloud deepen partnership with new Gemini Enterprise business group
-Source: Major External News - Google
-Publisher: Fortune India
-Published: Sep 9, 2026
-Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMiygFBVV95cUxNWHBPa0hFQkRkNWpzTzdjUUJVUlVMZDQ5NXVZNGRuRHhSdU1vLW5ZSGEtb1RVNVNma3BTdzFMQXVFNS1DWHRoTnBFRmxaRWVOa0F0QThRUzRTeW1XSk5wMW5IN1BHSnpCZWhXSC1qLUhWbTlJZXJTbmJpNUJpekROWVd3VnRPTmQxeTRXc3NibUFMdHZ3ZTNodTg1VnhFc1JlaUxITW44Z1h4NmlyZXFCbHhCSTVfUWpNUkxwNWhQRTdHMnNMUUtndEt30gHXAUFVX3lxTE1MZTZnVnR0dmE0Snp5VTcxY2p2c1EzdTZtYkJHcUtkLVRwOEhDMzJGSGNoNDExZmQ4bV9lU3JBS1k5dXlVR1FoMzRSSTgtel82ay1JaVIyMHRXeURRNVIwZWxCYmR3a1pjTUw0czhBQUxJT1BnbTV0NnBoeXk0UzVNZ2xGczUxZVlXQUNOVGIwNlgyaXdqSWxHd0FOOF9JLU1UdlhkX1Zjb1Z4S1FERmpoTEF1ZmM2WnlEVlpncFhpRXZoVXpUb0ppYUplN0xOTHRDX09fMkh3?oc=5
-
-### OpenAI - OpenAI adds AI safety official to its board
+### OpenAI - Scoop: OpenAI faces Senate probe into Hugging Face breach
 Source: Major External News - OpenAI
 Publisher: Axios
-Published: Sep 9, 2026
-Why it matters: Safety, security, or policy update
-Link: https://news.google.com/rss/articles/CBMiggFBVV95cUxNY3RwcW1oYVI3eDFkejg4QW1aUGZhVDhCY3VTM21CM0tkS0FmVFY5ckRQZGxkcTQzbUdBTXpUY0c0ZDl2cVp0ZjJ4TGpXNURJdGhWX1U4VTl1bXpGaUZRbDBjVC1PdXJSNkJYeERqNjhGVEV1RFdTQlhrNWZ2cWhoUTBB?oc=5
+Published: Sep 10, 2026
+Why it matters: Corporate move or major external event
+Link: https://news.google.com/rss/articles/CBMihwFBVV95cUxPUzAxcDNBRHlrZTNxWHFxenpIaHNmUjBkaUZhRjc1Mm9DNU44TE5DMzNTUDNZTDc0YmJqTmJVQzE2VFhNY1d6OVVhU2RZN0xXem1tU0VrdlF3UVBOOWc0dG5GdWhURllfTDBtRFY4dGMzZndZOE45bWdnZDh2SmVzY1lLM1Eta00?oc=5
 
-### OpenAI - OpenAI names top US AI safety official to foundation board
+### Microsoft - Cloudflare Surges 9% on OpenAI Security Partnership, Zscaler Rises 3%
+Source: Major External News - Microsoft
+Publisher: Yahoo Finance
+Published: Sep 9, 2026
+Why it matters: Corporate move or major external event
+Link: https://news.google.com/rss/articles/CBMiogFBVV95cUxQb01mRXphZE05aFRVbS0yU19najNaV1laVFJmbHhFX1ZKX2dOOXJOcks4MUdRRzNRTC1ONDVhYnNzdW9wTHNTeDZMVDVRN3ZTWkNlQURmd0RDN3pPLWlobmVzSS1iYk1kVW1NTzBNOHdhcV9QRjVrWjlMV3BObGFYbmprMnJPOERBdTRxUU1GQXlDa2JmMUtuODRwX3lNaDNSUVE?oc=5
+
+### OpenAI - OpenAI Puts AI Doomer Paul Christiano on Its Safety Board
 Source: Major External News - OpenAI
-Publisher: Financial Times
+Publisher: Startup Fortune
 Published: Sep 9, 2026
 Why it matters: Safety, security, or policy update
-Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxPNnQ4eTFvM0huQ3QtaGlscTlQNVNXRXBtTjM5V2hsclBHZmNfOFpURTB4RXNmejZZN0Fqc3BJbklrSHBWRC01b0MzM3BSTFRxU3pwYjVjWi1SZDY3X1g2c3VBZGN5MmNfWXV3S2F5WDZrd09XQzFhcTQzc0xsb0dSRjk5Wng?oc=5
+Link: https://news.google.com/rss/articles/CBMijgFBVV95cUxOd3RCbjFZTEJZV3h1Yzc2eElranBaSXBrRFdkSzVUSUlfNENjWXpBcDU4eGJPbU5UdXdOU0cySE44UjliMGhLM3NZVjNLX1YwZkc3ZGZjclhmN2NBa0Nqa0RmTFdONXk5MzYwX0ZDUE41SE9TU0E4TW1PVEhwVVNhUzFMS1VTRlZWS2QyREhR?oc=5
 
 ## Important External News
 
-### OpenAI - OpenAI Names US AI Adviser Paul Christiano to Nonprofit Board
-Source: Major External News - OpenAI
-Publisher: Bloomberg.com
-Published: Sep 9, 2026
-Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxNU3FjWHFpLTV0WHZkTmVWdzl2MkNuWTJ2ZElTUThuYWtTM01Vb2VveTFfT3RwWmtpa3hyRmdnVnhvc19acS1Qc3BZYmJKaFFvVVBRYjB4Unp3OUJibGZhbEUxQmwzRWprY0dqcS0zU0g4OGppb3JTODh5LV8tQW1IaHRoSnI0d0FWSFoxRU5aSnV2c2NfTnFMZExxd3d3SXp2ZVA1WjZ5VXNWSTQ2M2pMS053?oc=5
-
-### Anthropic - Anthropic Researcher Resigns, Warns AI Labs Privately Fear It Could ‘Kill Us All'
+### Anthropic - Anthropic Investor Leads Funding for Off-Grid AI Power Startup
 Source: Major External News - Anthropic
-Publisher: Yahoo
+Publisher: Bloomberg.com
+Published: Sep 10, 2026
+Why it matters: Trusted external coverage
+Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxOOEd6RUpWa0dXOXozckhWWWdLUFZzWFVqN0FzSUo2VWtibXJZUHlLWUhac3ZwVFJ3dEliT1lwUjQzOU5mRDhoWE1iVkU5Sl9TcW9aUDdrWUFJd2I3LWJzdlRkdXNPaF8yUnVPR1lWTjQ2Ui1iS2llZ2RUbFY1LU4yMFhrNlRZSE5JdDZCOUV4RXBtdjJId0RPbHA4NVNVYUVENlNQUTVkb3NIaHFkSmhON0ZBSQ?oc=5
+
+### Anthropic - Anthropic Discloses a Fourth Claude Model Breach of Outside Systems
+Source: Major External News - Anthropic
+Publisher: Startup Fortune
 Published: Sep 9, 2026
 Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMinAFBVV95cUxOUl9IV2lqZk1ja2ROdG1WNkZqVnA2aGw1U0E3OFVWVG1hbjBPR2ktZi0tYzF2OW1TZ09pdTRTMnRiZWY5UW4tX0pWeUxpYWhLSnpCaHlaMUpjLVBRX1Viem03b1pPX2ZJRVM4Wkl0ODJxMXZtZUZkTlNqeUdvdVFCZE8wTzBody0zb2tPMEtockRoVVc1cXBkci13aks?oc=5
+Link: https://news.google.com/rss/articles/CBMimwFBVV95cUxNX2ZHdkJWb2MwWHpzOW9sM3AxOHN2Q191SHQ4ZGNGS3ZlVG5zeTA0dnlNVUpTWGo4OXFhbXVMY0JSY0NwSk5nWEdLcDFrT0VhVjZrSzdWYU51SW04QzRvdjVTSW1ZY0hzWC1Qa0t3ZUxSTjBTU1NOQzhkaWI0b1pzSmVvTGtSa3FTSF9xMGxNTVNTZ0pCTnQ1d3NONA?oc=5
+
+### OpenAI - OpenAI adds a prominent AI doomer to its board of directors
+Source: Major External News - OpenAI
+Publisher: TechCrunch
+Published: Sep 9, 2026
+Why it matters: Trusted external coverage
+Link: https://news.google.com/rss/articles/CBMimgFBVV95cUxPWXA2ZGdXaWlfVkhjb0dpX2o0alQ4akZIYnBYVEpRYWJwWWFKcUdiM3VIZXludzI5Nm53NDhYVlNDWUJIc3J4dGVBZ0g1OUhwTDF4TU5qUnZuWW5LUlAtTnd5eU8tdUp2S1djTEZlcHNyQlF2NGJHSVZpaHRCbFAtdGFLWUZ1WUV5V3FmQ2lnXzQ5ZGRsYzJzVTB3?oc=5
+
+### Meta - AMZN, META, GOOGL Might Lose Billions As Ohio State Reconsiders Data Center Tax Breaks, Says Report
+Source: Major External News - Meta
+Publisher: Yahoo Finance
+Published: Sep 9, 2026
+Why it matters: Trusted external coverage
+Link: https://news.google.com/rss/articles/CBMilgFBVV95cUxOQ3ppMVk4OGhuMndIMkFjQ3pSaVhhZzlad25Lb0pIRHJ2UnptbWxDbzM2bTBtSVlXOTEwdVJrczlyeUtjeDI2VEkzRkR6Y2tUV2xlWWFMcGI1czNLY0hCQXpobjBkcE9Pb3BJSk1ud1BzNllkN0QzdzhOVjlkUXhtOHREcFgyYzZ1ckhHZ0M0MWF3clp3X3c?oc=5
 
 ## Critical Official Updates
 
-### Google - Google deepens its commitment to Finland with a €13 billion investment in AI infrastructure
+### Google - The Gemini app is now available for Windows
 Source: Google AI
-Published: Sep 9, 2026
-Why it matters: Corporate move or major external event
-Summary: Google invests €13B in Finland to boost digital infrastructure, clean energy, create jobs, and support local environmental initiatives.
-Link: https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/google-ai-commitment-to-finland
-
-### Microsoft - AFT, UFT and Microsoft announce ‘National AI Safety &#038; Privacy Standard’ for schools to protect students, families and educators
-Source: Microsoft AI
-Published: Sep 9, 2026
+Published: Sep 10, 2026
 Why it matters: Flagship model or product launch
-Summary: AFT, UFT and Microsoft announce ‘National AI Safety & Privacy Standard’ for schools to protect students, families and educators
-Link: https://news.microsoft.com/source/2026/09/09/aft-uft-and-microsoft-announce-national-ai-safety-privacy-standard-for-schools-to-protect-students-families-and-educators
-
-### Meta - Introducing Muse: The World’s First Personal AI Agent Built for Everyone
-Source: Meta Newsroom
-Published: Sep 8, 2026
-Why it matters: Flagship model or product launch
-Summary: Muse is a secure, private personal AI agent that proactively helps people meet their goals and suggests ideas. The post Introducing Muse: The World’s First Personal AI Agent Built for Everyone
-Link: https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent
-
-### OpenAI - Introducing ChatGPT Images 2.5
-Source: OpenAI Newsroom
-Published: Sep 8, 2026
-Why it matters: Flagship model or product launch
-Summary: ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.
-Link: https://openai.com/index/introducing-chatgpt-images-2-5
+Summary: We’re launching the Gemini app for Windows, the new desktop app built to work alongside your favorite tools and daily applications.
+Link: https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows
 
 ## Important Official Updates
 
-### OpenAI - Paul Christiano joins OpenAI Foundation Board
+### OpenAI - The AI policy window is open. We need to act.
 Source: OpenAI Newsroom
 Published: Sep 9, 2026
 Why it matters: Safety, security, or policy update
-Summary: Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.
-Link: https://openai.com/index/paul-christiano-joins-openai-foundation-board
+Summary: Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.
+Link: https://openai.com/index/ai-policy-window
 
 ## Official Company Updates
 
-### Google - Recreating a 70-year love story frame by frame
-Source: Google AI
+### OpenAI - How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules
+Source: OpenAI Newsroom
+Published: Sep 10, 2026
+Why it matters: Routine official update
+Summary: César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.
+Link: https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials
+
+### OpenAI - Now everyone can put data to work
+Source: OpenAI Newsroom
+Published: Sep 10, 2026
+Why it matters: Routine official update
+Summary: Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.
+Link: https://openai.com/index/put-data-to-work
+
+### Microsoft - What if everything changes tomorrow? A Canadian company is using AI to help businesses navigate supply chain uncertainty
+Source: Microsoft AI
+Published: Sep 10, 2026
+Why it matters: Routine official update
+Summary: What if everything changes tomorrow? A Canadian company is using AI to help businesses navigate supply chain uncertainty
+Link: https://news.microsoft.com/source/canada/features/ai/kinaxis-supply-chain
+
+### OpenAI - Expanding AI access and cyber defense for federal, state, local, and tribal governments
+Source: OpenAI Newsroom
+Published: Sep 10, 2026
+Why it matters: Routine official update
+Summary: OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.
+Link: https://openai.com/index/expanding-ai-access-us-government
+
+### OpenAI - Build more natural voice experiences with GPT‑Live‑1 in the API
+Source: OpenAI Newsroom
 Published: Sep 9, 2026
 Why it matters: Routine official update
-Summary: Discover how filmmakers and Google DeepMind used AI to recreate a couple's unrecorded past in the short film "Love, Rendered."
-Link: https://blog.google/innovation-and-ai/technology/ai/love-rendered-film
-
-### OpenAI - How GPT-5.6 Sol helps run quantum computing experiments
-Source: OpenAI Newsroom
-Published: Sep 8, 2026
-Why it matters: Routine official update
-Summary: See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.
-Link: https://openai.com/index/codex-quantum-computing-experiments
+Summary: GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.
+Link: https://openai.com/index/introducing-gpt-live-1-in-the-api
