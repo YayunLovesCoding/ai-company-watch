@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T17:34:23.732Z",
+  "generatedAt": "2026-09-11T17:37:35.520Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -76,12 +76,12 @@
     }
   ],
   "totals": {
-    "fetched": 35,
+    "fetched": 34,
     "deduped": 24,
-    "new": 14,
+    "new": 5,
     "byKind": {
-      "official": 14,
-      "external": 10
+      "official": 15,
+      "external": 9
     }
   },
   "items": [
@@ -93,29 +93,10 @@
       "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUzAxcDNBRHlrZTNxWHFxenpIaHNmUjBkaUZhRjc1Mm9DNU44TE5DMzNTUDNZTDc0YmJqTmJVQzE2VFhNY1d6OVVhU2RZN0xXem1tU0VrdlF3UVBOOWc0dG5GdWhURllfTDBtRFY4dGMzZndZOE45bWdnZDh2SmVzY1lLM1Eta00?oc=5",
-      "title": "Scoop: OpenAI faces Senate probe into Hugging Face breach",
+      "title": "Scoop: OpenAI faces GOP-led Senate investigation into Hugging Face breach",
       "summary": "",
       "publishedAt": "2026-09-10T14:59:58.000Z",
       "publisher": "Axios",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "b31c469ebe72d4fd74f374f8aaf312a030c83d69",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQb01mRXphZE05aFRVbS0yU19najNaV1laVFJmbHhFX1ZKX2dOOXJOcks4MUdRRzNRTC1ONDVhYnNzdW9wTHNTeDZMVDVRN3ZTWkNlQURmd0RDN3pPLWlobmVzSS1iYk1kVW1NTzBNOHdhcV9QRjVrWjlMV3BObGFYbmprMnJPOERBdTRxUU1GQXlDa2JmMUtuODRwX3lNaDNSUVE?oc=5",
-      "title": "Cloudflare Surges 9% on OpenAI Security Partnership, Zscaler Rises 3%",
-      "summary": "",
-      "publishedAt": "2026-09-09T15:28:01.000Z",
-      "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -138,65 +119,27 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "4a032c14cef797a260fd6ae82af5c69ef523d7d2",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/google-ai-commitment-to-finland",
-      "title": "Google deepens its commitment to Finland with a €13 billion investment in AI infrastructure",
-      "summary": "Google invests €13B in Finland to boost digital infrastructure, clean energy, create jobs, and support local environmental initiatives.",
-      "publishedAt": "2026-09-09T07:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
         "score": 6,
         "reason": "Corporate move or major external event"
       }
     },
     {
-      "id": "c77c110304c58803dcc2980b81e2e9039c046227",
+      "id": "5c768191fb0556cc4e52ded471fd8505e4915297",
       "company": "OpenAI",
       "sourceKind": "external",
       "sourceId": "external-openai-major",
       "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOd3RCbjFZTEJZV3h1Yzc2eElranBaSXBrRFdkSzVUSUlfNENjWXpBcDU4eGJPbU5UdXdOU0cySE44UjliMGhLM3NZVjNLX1YwZkc3ZGZjclhmN2NBa0Nqa0RmTFdONXk5MzYwX0ZDUE41SE9TU0E4TW1PVEhwVVNhUzFMS1VTRlZWS2QyREhR?oc=5",
-      "title": "OpenAI Puts AI Doomer Paul Christiano on Its Safety Board",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOE83d29ldlZFZGYwMXNLVWtXaUpMLS1xWmpDWjIzREhzTUk0cklteXNPX0ZnMlZ5M3JUcktaLUhlbVJGNHNnTTJwMy1DMFRTWWpFRy1VdmwwZVYtLTNTS0Q4WFZlLUgyd3VqSUxZX3VSTDVzeE1xOHhiclJFLVJGUjB6emhPNFVfWHgzbzBKQ0FiQ29wRmNEYkc4MjFIYjVuSW9Gc2VObDMwdjh4c0xiTFZmd3doU2NPV2I0eTJLZ0N3aDl5alE?oc=5",
+      "title": "Seattle Times, Newsday sue OpenAI, Microsoft, alleging copyright infringement",
       "summary": "",
-      "publishedAt": "2026-09-10T06:50:25.000Z",
-      "publisher": "Startup Fortune",
+      "publishedAt": "2026-09-08T07:00:00.000Z",
+      "publisher": "Reuters",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 5,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "6ab903c9c19c6a45c155c4edd99a7c59ce4b1af1",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNY3RwcW1oYVI3eDFkejg4QW1aUGZhVDhCY3VTM21CM0tkS0FmVFY5ckRQZGxkcTQzbUdBTXpUY0c0ZDl2cVp0ZjJ4TGpXNURJdGhWX1U4VTl1bXpGaUZRbDBjVC1PdXJSNkJYeERqNjhGVEV1RFdTQlhrNWZ2cWhoUTBB?oc=5",
-      "title": "OpenAI adds AI safety official to its board",
-      "summary": "",
-      "publishedAt": "2026-09-09T21:20:49.000Z",
-      "publisher": "Axios",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Safety, security, or policy update"
+        "score": 6,
+        "reason": "Corporate move or major external event"
       }
     },
     {
@@ -219,22 +162,41 @@
       }
     },
     {
-      "id": "191d42d3c06b4476cc90ffa6e824bdb6cc5dce6b",
-      "company": "Meta",
+      "id": "016c3ec9b775a98e5ec43d6010b5a5132a940638",
+      "company": "OpenAI",
       "sourceKind": "official",
-      "sourceId": "meta-newsroom",
-      "sourceLabel": "Meta Newsroom",
-      "homepageUrl": "https://about.fb.com/news/",
-      "url": "https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent",
-      "title": "Introducing Muse: The World’s First Personal AI Agent Built for Everyone",
-      "summary": "Muse is a secure, private personal AI agent that proactively helps people meet their goals and suggests ideas. The post Introducing Muse: The World’s First Personal AI Agent Built for Everyone",
-      "publishedAt": "2026-09-08T19:00:51.000Z",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/introducing-chatgpt-financial-services",
+      "title": "Introducing ChatGPT for Financial Services",
+      "summary": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
+      "publishedAt": "2026-09-10T07:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
         "score": 5,
         "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "4a032c14cef797a260fd6ae82af5c69ef523d7d2",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/google-ai-commitment-to-finland",
+      "title": "Google deepens its commitment to Finland with a €13 billion investment in AI infrastructure",
+      "summary": "Google invests €13B in Finland to boost digital infrastructure, clean energy, create jobs, and support local environmental initiatives.",
+      "publishedAt": "2026-09-09T07:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Corporate move or major external event"
       }
     },
     {
@@ -276,6 +238,44 @@
       }
     },
     {
+      "id": "ea039c54f4b4e173b8eefea537790fe479290ef0",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORUh3OFBtWU9GUDhsQWF5UTJmREwxSldsNnk1Yl8ta0I4VWpVNEEyQV9RU3B3LTAwcDFGMUhyV09CYnhreF9kSFNHbzdmOFM3ZjV1VW1lMW5TS1RFTDM4OHJFdnVtLTJZekxHMnNsRG96V2ViTTdoZlBobS1lc1ZxNmtBaW85VlN3ejctNzNhOVNPb0tHdVRtUXYxR2g3NVJSbmZXdGluenR4ZGkzN2wyRURn?oc=5",
+      "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
+      "summary": "",
+      "publishedAt": "2026-09-11T16:46:25.000Z",
+      "publisher": "TechCrunch",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "63c15e91e7a795f28e90b902793489dcee085a75",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRXJMZWdoQWFkTHJITkVsNjYwWkFGZWk4OVlpdS1tTDNyMnNQd0Zicmx0UktIZDFxS0xwOFBlSkxOakxPZ2RjRy13UzduVWdhcUN3WVNXWWpjVEJXRFNpOFlVLUFHMEtxV0I3cWMwZWY1REVYTkhFNGZJZDJmTzRDSU9hQ3hmbGtNNzc3dFlPSzRwVjFlYnh3RDFLbW9UNUxMYWMwb2RTbldvZ3dWZHladi1TYkpnY0hZN1lN?oc=5",
+      "title": "Microsoft Plans Data Center Push to Triple Its Computing Power",
+      "summary": "",
+      "publishedAt": "2026-09-11T03:03:00.000Z",
+      "publisher": "Bloomberg.com",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
       "id": "0b5da3245613a63ebbc6e4da934fc13d2a881738",
       "company": "Anthropic",
       "sourceKind": "external",
@@ -314,79 +314,41 @@
       }
     },
     {
-      "id": "226eb4b0b85a66d65a7c0d24c2538774dd1dfb8f",
+      "id": "191d42d3c06b4476cc90ffa6e824bdb6cc5dce6b",
+      "company": "Meta",
+      "sourceKind": "official",
+      "sourceId": "meta-newsroom",
+      "sourceLabel": "Meta Newsroom",
+      "homepageUrl": "https://about.fb.com/news/",
+      "url": "https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent",
+      "title": "Introducing Muse: The World’s First Personal AI Agent Built for Everyone",
+      "summary": "Muse is a secure, private personal AI agent that proactively helps people meet their goals and suggests ideas. The post Introducing Muse: The World’s First Personal AI Agent Built for Everyone",
+      "publishedAt": "2026-09-08T19:00:51.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "2e29239b0dbcfed62837e82d18dc9db85934d609",
       "company": "OpenAI",
       "sourceKind": "external",
       "sourceId": "external-openai-major",
       "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWXA2ZGdXaWlfVkhjb0dpX2o0alQ4akZIYnBYVEpRYWJwWWFKcUdiM3VIZXludzI5Nm53NDhYVlNDWUJIc3J4dGVBZ0g1OUhwTDF4TU5qUnZuWW5LUlAtTnd5eU8tdUp2S1djTEZlcHNyQlF2NGJHSVZpaHRCbFAtdGFLWUZ1WUV5V3FmQ2lnXzQ5ZGRsYzJzVTB3?oc=5",
-      "title": "OpenAI adds a prominent AI doomer to its board of directors",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNnQ4eTFvM0huQ3QtaGlscTlQNVNXRXBtTjM5V2hsclBHZmNfOFpURTB4RXNmejZZN0Fqc3BJbklrSHBWRC01b0MzM3BSTFRxU3pwYjVjWi1SZDY3X1g2c3VBZGN5MmNfWXV3S2F5WDZrd09XQzFhcTQzc0xsb0dSRjk5Wng?oc=5",
+      "title": "Top US official named to OpenAI non-profit board warns advanced AI could be ‘deadly’",
       "summary": "",
-      "publishedAt": "2026-09-09T22:25:22.000Z",
-      "publisher": "TechCrunch",
+      "publishedAt": "2026-09-09T17:00:02.000Z",
+      "publisher": "Financial Times",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
-        "score": 4,
+        "score": 3,
         "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "07c50c6a8e3f4267537df97e13ccd81296939e65",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQ3ppMVk4OGhuMndIMkFjQ3pSaVhhZzlad25Lb0pIRHJ2UnptbWxDbzM2bTBtSVlXOTEwdVJrczlyeUtjeDI2VEkzRkR6Y2tUV2xlWWFMcGI1czNLY0hCQXpobjBkcE9Pb3BJSk1ud1BzNllkN0QzdzhOVjlkUXhtOHREcFgyYzZ1ckhHZ0M0MWF3clp3X3c?oc=5",
-      "title": "AMZN, META, GOOGL Might Lose Billions As Ohio State Reconsiders Data Center Tax Breaks, Says Report",
-      "summary": "",
-      "publishedAt": "2026-09-09T21:29:22.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "534907e0d31e417161f7675d307d834241a713dd",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
-      "title": "Paul Christiano joins OpenAI Foundation Board",
-      "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
-      "publishedAt": "2026-09-09T17:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "9786c92a289dc0ec90f826460c8757ddda7e682c",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/ai-policy-window",
-      "title": "The AI policy window is open. We need to act.",
-      "summary": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
-      "publishedAt": "2026-09-09T13:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Safety, security, or policy update"
       }
     },
     {
@@ -397,7 +359,7 @@
       "sourceLabel": "Major External News - Microsoft",
       "homepageUrl": "https://news.google.com/",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeUFUajdmanVrUFlzZkRfSHhoZGhHVXdaQVBlaVNadmRTa1pkWDA5bFpOZEhJVWYyc1NNVUdIZFI3bVlTamhkTkNWdmNpWjVYbVVOZ3FuNTdQSGJfVmpYZjU3a0FqQzV1U0JpQ0VuRGV4RzhmVnMxc0d2VC04T2J6VXpxNEdOUm9HdnByYlFvQUNhdw?oc=5",
-      "title": "OpenAI's AI agents secretly ran their own message board on a German wiki. OpenAI stayed quiet about it for weeks.",
+      "title": "OpenAI’s AI agents secretly used a German wiki website as a message board. OpenAI stayed quiet about it for weeks.",
       "summary": "",
       "publishedAt": "2026-09-07T18:55:00.000Z",
       "publisher": "Fortune",
@@ -447,6 +409,25 @@
       }
     },
     {
+      "id": "c7d3c8aeae425678bc7fb8faf4c052a8482d89f7",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+      "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
+      "publishedAt": "2026-09-11T10:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
+      }
+    },
+    {
       "id": "014159943e4d9643b524ba35091999ab979bfca3",
       "company": "OpenAI",
       "sourceKind": "official",
@@ -533,6 +514,25 @@
       "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
       "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
       "publishedAt": "2026-09-10T00:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "b18ce59eeb6223be5a0456ab05c073bb6b2d4695",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/mapping-global-methane-emissions-from-space",
+      "title": "A new deep learning model maps global methane emissions from space.",
+      "summary": "Google and NASA JPL developed an AI model to map and quantify global methane emissions from space using EMIT.",
+      "publishedAt": "2026-09-09T18:15:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -544,73 +544,16 @@
   ],
   "newItems": [
     {
-      "id": "aa03bf8398dc5bb4d5524a75269881f50e518ab3",
+      "id": "016c3ec9b775a98e5ec43d6010b5a5132a940638",
       "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUzAxcDNBRHlrZTNxWHFxenpIaHNmUjBkaUZhRjc1Mm9DNU44TE5DMzNTUDNZTDc0YmJqTmJVQzE2VFhNY1d6OVVhU2RZN0xXem1tU0VrdlF3UVBOOWc0dG5GdWhURllfTDBtRFY4dGMzZndZOE45bWdnZDh2SmVzY1lLM1Eta00?oc=5",
-      "title": "Scoop: OpenAI faces Senate probe into Hugging Face breach",
-      "summary": "",
-      "publishedAt": "2026-09-10T14:59:58.000Z",
-      "publisher": "Axios",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "b31c469ebe72d4fd74f374f8aaf312a030c83d69",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQb01mRXphZE05aFRVbS0yU19najNaV1laVFJmbHhFX1ZKX2dOOXJOcks4MUdRRzNRTC1ONDVhYnNzdW9wTHNTeDZMVDVRN3ZTWkNlQURmd0RDN3pPLWlobmVzSS1iYk1kVW1NTzBNOHdhcV9QRjVrWjlMV3BObGFYbmprMnJPOERBdTRxUU1GQXlDa2JmMUtuODRwX3lNaDNSUVE?oc=5",
-      "title": "Cloudflare Surges 9% on OpenAI Security Partnership, Zscaler Rises 3%",
-      "summary": "",
-      "publishedAt": "2026-09-09T15:28:01.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "c77c110304c58803dcc2980b81e2e9039c046227",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOd3RCbjFZTEJZV3h1Yzc2eElranBaSXBrRFdkSzVUSUlfNENjWXpBcDU4eGJPbU5UdXdOU0cySE44UjliMGhLM3NZVjNLX1YwZkc3ZGZjclhmN2NBa0Nqa0RmTFdONXk5MzYwX0ZDUE41SE9TU0E4TW1PVEhwVVNhUzFMS1VTRlZWS2QyREhR?oc=5",
-      "title": "OpenAI Puts AI Doomer Paul Christiano on Its Safety Board",
-      "summary": "",
-      "publishedAt": "2026-09-10T06:50:25.000Z",
-      "publisher": "Startup Fortune",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "e3ce0c5d8f670d3948507b07ff25b9e400bb99b7",
-      "company": "Google",
       "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows",
-      "title": "The Gemini app is now available for Windows",
-      "summary": "We’re launching the Gemini app for Windows, the new desktop app built to work alongside your favorite tools and daily applications.",
-      "publishedAt": "2026-09-10T16:00:00.000Z",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/introducing-chatgpt-financial-services",
+      "title": "Introducing ChatGPT for Financial Services",
+      "summary": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
+      "publishedAt": "2026-09-10T07:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -620,54 +563,16 @@
       }
     },
     {
-      "id": "0b5da3245613a63ebbc6e4da934fc13d2a881738",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOEd6RUpWa0dXOXozckhWWWdLUFZzWFVqN0FzSUo2VWtibXJZUHlLWUhac3ZwVFJ3dEliT1lwUjQzOU5mRDhoWE1iVkU5Sl9TcW9aUDdrWUFJd2I3LWJzdlRkdXNPaF8yUnVPR1lWTjQ2Ui1iS2llZ2RUbFY1LU4yMFhrNlRZSE5JdDZCOUV4RXBtdjJId0RPbHA4NVNVYUVENlNQUTVkb3NIaHFkSmhON0ZBSQ?oc=5",
-      "title": "Anthropic Investor Leads Funding for Off-Grid AI Power Startup",
-      "summary": "",
-      "publishedAt": "2026-09-10T12:00:00.000Z",
-      "publisher": "Bloomberg.com",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "c4eb8a18ba80c2016280cf90aa7b76fe6e1d651d",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNX2ZHdkJWb2MwWHpzOW9sM3AxOHN2Q191SHQ4ZGNGS3ZlVG5zeTA0dnlNVUpTWGo4OXFhbXVMY0JSY0NwSk5nWEdLcDFrT0VhVjZrSzdWYU51SW04QzRvdjVTSW1ZY0hzWC1Qa0t3ZUxSTjBTU1NOQzhkaWI0b1pzSmVvTGtSa3FTSF9xMGxNTVNTZ0pCTnQ1d3NONA?oc=5",
-      "title": "Anthropic Discloses a Fourth Claude Model Breach of Outside Systems",
-      "summary": "",
-      "publishedAt": "2026-09-10T02:10:20.000Z",
-      "publisher": "Startup Fortune",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "226eb4b0b85a66d65a7c0d24c2538774dd1dfb8f",
+      "id": "ea039c54f4b4e173b8eefea537790fe479290ef0",
       "company": "OpenAI",
       "sourceKind": "external",
       "sourceId": "external-openai-major",
       "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWXA2ZGdXaWlfVkhjb0dpX2o0alQ4akZIYnBYVEpRYWJwWWFKcUdiM3VIZXludzI5Nm53NDhYVlNDWUJIc3J4dGVBZ0g1OUhwTDF4TU5qUnZuWW5LUlAtTnd5eU8tdUp2S1djTEZlcHNyQlF2NGJHSVZpaHRCbFAtdGFLWUZ1WUV5V3FmQ2lnXzQ5ZGRsYzJzVTB3?oc=5",
-      "title": "OpenAI adds a prominent AI doomer to its board of directors",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORUh3OFBtWU9GUDhsQWF5UTJmREwxSldsNnk1Yl8ta0I4VWpVNEEyQV9RU3B3LTAwcDFGMUhyV09CYnhreF9kSFNHbzdmOFM3ZjV1VW1lMW5TS1RFTDM4OHJFdnVtLTJZekxHMnNsRG96V2ViTTdoZlBobS1lc1ZxNmtBaW85VlN3ejctNzNhOVNPb0tHdVRtUXYxR2g3NVJSbmZXdGluenR4ZGkzN2wyRURn?oc=5",
+      "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
       "summary": "",
-      "publishedAt": "2026-09-09T22:25:22.000Z",
+      "publishedAt": "2026-09-11T16:46:25.000Z",
       "publisher": "TechCrunch",
       "discoveryMethod": "feed",
       "classification": {
@@ -677,17 +582,17 @@
       }
     },
     {
-      "id": "07c50c6a8e3f4267537df97e13ccd81296939e65",
-      "company": "Meta",
+      "id": "63c15e91e7a795f28e90b902793489dcee085a75",
+      "company": "Microsoft",
       "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQ3ppMVk4OGhuMndIMkFjQ3pSaVhhZzlad25Lb0pIRHJ2UnptbWxDbzM2bTBtSVlXOTEwdVJrczlyeUtjeDI2VEkzRkR6Y2tUV2xlWWFMcGI1czNLY0hCQXpobjBkcE9Pb3BJSk1ud1BzNllkN0QzdzhOVjlkUXhtOHREcFgyYzZ1ckhHZ0M0MWF3clp3X3c?oc=5",
-      "title": "AMZN, META, GOOGL Might Lose Billions As Ohio State Reconsiders Data Center Tax Breaks, Says Report",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRXJMZWdoQWFkTHJITkVsNjYwWkFGZWk4OVlpdS1tTDNyMnNQd0Zicmx0UktIZDFxS0xwOFBlSkxOakxPZ2RjRy13UzduVWdhcUN3WVNXWWpjVEJXRFNpOFlVLUFHMEtxV0I3cWMwZWY1REVYTkhFNGZJZDJmTzRDSU9hQ3hmbGtNNzc3dFlPSzRwVjFlYnh3RDFLbW9UNUxMYWMwb2RTbldvZ3dWZHladi1TYkpnY0hZN1lN?oc=5",
+      "title": "Microsoft Plans Data Center Push to Triple Its Computing Power",
       "summary": "",
-      "publishedAt": "2026-09-09T21:29:22.000Z",
-      "publisher": "Yahoo Finance",
+      "publishedAt": "2026-09-11T03:03:00.000Z",
+      "publisher": "Bloomberg.com",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -696,35 +601,16 @@
       }
     },
     {
-      "id": "9786c92a289dc0ec90f826460c8757ddda7e682c",
+      "id": "c7d3c8aeae425678bc7fb8faf4c052a8482d89f7",
       "company": "OpenAI",
       "sourceKind": "official",
       "sourceId": "openai-newsroom",
       "sourceLabel": "OpenAI Newsroom",
       "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/ai-policy-window",
-      "title": "The AI policy window is open. We need to act.",
-      "summary": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
-      "publishedAt": "2026-09-09T13:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "014159943e4d9643b524ba35091999ab979bfca3",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
-      "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-      "summary": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
-      "publishedAt": "2026-09-10T16:00:00.000Z",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+      "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
+      "publishedAt": "2026-09-11T10:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -734,73 +620,16 @@
       }
     },
     {
-      "id": "4d4e7920d8a762a2dc722c2d13aa26b7d8884024",
-      "company": "OpenAI",
+      "id": "b18ce59eeb6223be5a0456ab05c073bb6b2d4695",
+      "company": "Google",
       "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/put-data-to-work",
-      "title": "Now everyone can put data to work",
-      "summary": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
-      "publishedAt": "2026-09-10T15:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "71a85c25f8cecba4a78ef442e2978e7455acd448",
-      "company": "Microsoft",
-      "sourceKind": "official",
-      "sourceId": "microsoft-ai",
-      "sourceLabel": "Microsoft AI",
-      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
-      "url": "https://news.microsoft.com/source/canada/features/ai/kinaxis-supply-chain",
-      "title": "What if everything changes tomorrow? A Canadian company is using AI to help businesses navigate supply chain uncertainty",
-      "summary": "What if everything changes tomorrow? A Canadian company is using AI to help businesses navigate supply chain uncertainty",
-      "publishedAt": "2026-09-10T13:08:37.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "1ef5285e671d0ace6126abde2e7dec0b8255af8f",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/expanding-ai-access-us-government",
-      "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
-      "summary": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
-      "publishedAt": "2026-09-10T07:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "4e410dad70fb92989558aa8ff122fdd9cabd1589",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-      "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-      "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
-      "publishedAt": "2026-09-10T00:00:00.000Z",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/mapping-global-methane-emissions-from-space",
+      "title": "A new deep learning model maps global methane emissions from space.",
+      "summary": "Google and NASA JPL developed an AI model to map and quantify global methane emissions from space using EMIT.",
+      "publishedAt": "2026-09-09T18:15:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
