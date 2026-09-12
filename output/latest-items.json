@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T17:37:35.520Z",
+  "generatedAt": "2026-09-12T16:50:57.445Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -76,15 +76,34 @@
     }
   ],
   "totals": {
-    "fetched": 34,
+    "fetched": 35,
     "deduped": 24,
-    "new": 5,
+    "new": 6,
     "byKind": {
       "official": 15,
       "external": 9
     }
   },
   "items": [
+    {
+      "id": "47885af47999988f99eb7dc30f7b6e5f2811c731",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbWpjX1VzLWlPSE16THFBYVE0ZkdxMW5ORF9qR2pNc1ZIZEhOR21MTGc0cTNxc1dFU2RDWmI5VHRnUGh4YzZhRlQyRnJZS2V3UGlFMG83VFl1NUZxaldfUUtQVGthWnhjTU5tWjJuX1RJT2hhSV9wbkVYcE9PWV9NOS1NbF80bjY4RE54WFlSbHFWc29JWDQyYXBUQVlXQ2hD?oc=5",
+      "title": "OpenAI Judge Discloses Microsoft Stock, Stays on Copyright Case",
+      "summary": "",
+      "publishedAt": "2026-09-12T00:22:00.000Z",
+      "publisher": "Bloomberg Law News",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
     {
       "id": "aa03bf8398dc5bb4d5524a75269881f50e518ab3",
       "company": "OpenAI",
@@ -100,7 +119,26 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 7,
+        "score": 6,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "b31c469ebe72d4fd74f374f8aaf312a030c83d69",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQb01mRXphZE05aFRVbS0yU19najNaV1laVFJmbHhFX1ZKX2dOOXJOcks4MUdRRzNRTC1ONDVhYnNzdW9wTHNTeDZMVDVRN3ZTWkNlQURmd0RDN3pPLWlobmVzSS1iYk1kVW1NTzBNOHdhcV9QRjVrWjlMV3BObGFYbmprMnJPOERBdTRxUU1GQXlDa2JmMUtuODRwX3lNaDNSUVE?oc=5",
+      "title": "Cloudflare Surges 9% on OpenAI Security Partnership, Zscaler Rises 3%",
+      "summary": "",
+      "publishedAt": "2026-09-09T15:28:01.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
         "reason": "Corporate move or major external event"
       }
     },
@@ -124,60 +162,22 @@
       }
     },
     {
-      "id": "5c768191fb0556cc4e52ded471fd8505e4915297",
-      "company": "OpenAI",
+      "id": "e7792acab9381bac150aa545ad652c6c98fad521",
+      "company": "Anthropic",
       "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOE83d29ldlZFZGYwMXNLVWtXaUpMLS1xWmpDWjIzREhzTUk0cklteXNPX0ZnMlZ5M3JUcktaLUhlbVJGNHNnTTJwMy1DMFRTWWpFRy1VdmwwZVYtLTNTS0Q4WFZlLUgyd3VqSUxZX3VSTDVzeE1xOHhiclJFLVJGUjB6emhPNFVfWHgzbzBKQ0FiQ29wRmNEYkc4MjFIYjVuSW9Gc2VObDMwdjh4c0xiTFZmd3doU2NPV2I0eTJLZ0N3aDl5alE?oc=5",
-      "title": "Seattle Times, Newsday sue OpenAI, Microsoft, alleging copyright infringement",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQY1hQcmpfUjFXdUFBVGZNMTJSSVFWLWowMVNVbkJiZjgwUG02blNKOW1fdV91cjAyZTFpdXdHWW1qMTNnUFdseHlQM2hELXF0VE9ZN0RVYmRBMEQ2NV9iM2pOQlQ5VnY0bnJHOG1acnFUWnliNnhxWkJDaFZXNmZxREk2Y2JON1VJS3M0c216MkNrMzVmbEZ6WVRNVG1yMGtEdURNT3F2VjV1NGpDb1E?oc=5",
+      "title": "Security News This Week: From Hacks to Bioweapons, Claude Misuse Is Now Everywhere",
       "summary": "",
-      "publishedAt": "2026-09-08T07:00:00.000Z",
-      "publisher": "Reuters",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "e3ce0c5d8f670d3948507b07ff25b9e400bb99b7",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows",
-      "title": "The Gemini app is now available for Windows",
-      "summary": "We’re launching the Gemini app for Windows, the new desktop app built to work alongside your favorite tools and daily applications.",
-      "publishedAt": "2026-09-10T16:00:00.000Z",
-      "publisher": "",
+      "publishedAt": "2026-09-12T10:30:00.000Z",
+      "publisher": "WIRED",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
         "score": 5,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "016c3ec9b775a98e5ec43d6010b5a5132a940638",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/introducing-chatgpt-financial-services",
-      "title": "Introducing ChatGPT for Financial Services",
-      "summary": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
-      "publishedAt": "2026-09-10T07:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Flagship model or product launch"
+        "reason": "Safety, security, or policy update"
       }
     },
     {
@@ -276,17 +276,17 @@
       }
     },
     {
-      "id": "0b5da3245613a63ebbc6e4da934fc13d2a881738",
-      "company": "Anthropic",
+      "id": "398c60c844e0029beabcad2d3a47b2ce96f769f4",
+      "company": "OpenAI",
       "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOEd6RUpWa0dXOXozckhWWWdLUFZzWFVqN0FzSUo2VWtibXJZUHlLWUhac3ZwVFJ3dEliT1lwUjQzOU5mRDhoWE1iVkU5Sl9TcW9aUDdrWUFJd2I3LWJzdlRkdXNPaF8yUnVPR1lWTjQ2Ui1iS2llZ2RUbFY1LU4yMFhrNlRZSE5JdDZCOUV4RXBtdjJId0RPbHA4NVNVYUVENlNQUTVkb3NIaHFkSmhON0ZBSQ?oc=5",
-      "title": "Anthropic Investor Leads Funding for Off-Grid AI Power Startup",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTEo3UnZJbXNUMHZCTFRnUE1rSTBnZkFxQTh1NzRPTEFxZXVoNnpOeUYtUUdrSzRBeGFlOXpsaTI2SUdHVTFGTm4wa0J4MG5pQXFYTFJXUTFMS1oteEo5Qi0tX2kwNU1FanpkWjc3d3MxaUYtYVp6UU9QU1NwT1Mtc0VSUk4zTHpManpaNnowTFRBR0VKRUhVQkhHbF9FR1NKSDFlOTFnSHB5cG1UZUtpQzdQSjc0eC1IeENzbUxUMVc2VzE4?oc=5",
+      "title": "Senators from both parties question OpenAI on breach of AI startup Hugging Face",
       "summary": "",
-      "publishedAt": "2026-09-10T12:00:00.000Z",
-      "publisher": "Bloomberg.com",
+      "publishedAt": "2026-09-11T01:35:00.000Z",
+      "publisher": "AP News",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -295,22 +295,41 @@
       }
     },
     {
-      "id": "c4eb8a18ba80c2016280cf90aa7b76fe6e1d651d",
+      "id": "c2e28da4c6d01322e53619bf70a8ce26f24374b7",
       "company": "Anthropic",
       "sourceKind": "external",
       "sourceId": "external-anthropic-major",
       "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNX2ZHdkJWb2MwWHpzOW9sM3AxOHN2Q191SHQ4ZGNGS3ZlVG5zeTA0dnlNVUpTWGo4OXFhbXVMY0JSY0NwSk5nWEdLcDFrT0VhVjZrSzdWYU51SW04QzRvdjVTSW1ZY0hzWC1Qa0t3ZUxSTjBTU1NOQzhkaWI0b1pzSmVvTGtSa3FTSF9xMGxNTVNTZ0pCTnQ1d3NONA?oc=5",
-      "title": "Anthropic Discloses a Fourth Claude Model Breach of Outside Systems",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcl9NLU1IYjdjTDk1VDM1blJFMkRuMnJSSlFqbkowZUtFVjNyMzZ3SjBGSTVqR2gzSWYzR0daNms4OG84aGNmU3Y2d0ZvS2ZSRnU5WkQwdkxJaTVtUWl4Y1JmSEJybEkwWk5ybWoxb0VMTEFObFFVdGs5NExkYkJaeFFPaHpuTnJESWFCRW1lMGVhX29jZGlpeFRYTzFqNURKbzM3Q2lRR1I5VmI4d0duMkVWbDduaDMwdlJMTw?oc=5",
+      "title": "An Anthropic safety researcher resigned with a warning about AI to co-workers on Slack",
       "summary": "",
-      "publishedAt": "2026-09-10T02:10:20.000Z",
-      "publisher": "Startup Fortune",
+      "publishedAt": "2026-09-09T18:18:00.000Z",
+      "publisher": "NBC News",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
         "score": 4,
-        "reason": "Trusted external coverage"
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "e3ce0c5d8f670d3948507b07ff25b9e400bb99b7",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows",
+      "title": "The Gemini app is now available for Windows",
+      "summary": "We’re launching the Gemini app for Windows, the new desktop app built to work alongside your favorite tools and daily applications.",
+      "publishedAt": "2026-09-10T16:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Flagship model or product launch"
       }
     },
     {
@@ -330,44 +349,6 @@
         "bucket": "important",
         "score": 4,
         "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "2e29239b0dbcfed62837e82d18dc9db85934d609",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNnQ4eTFvM0huQ3QtaGlscTlQNVNXRXBtTjM5V2hsclBHZmNfOFpURTB4RXNmejZZN0Fqc3BJbklrSHBWRC01b0MzM3BSTFRxU3pwYjVjWi1SZDY3X1g2c3VBZGN5MmNfWXV3S2F5WDZrd09XQzFhcTQzc0xsb0dSRjk5Wng?oc=5",
-      "title": "Top US official named to OpenAI non-profit board warns advanced AI could be ‘deadly’",
-      "summary": "",
-      "publishedAt": "2026-09-09T17:00:02.000Z",
-      "publisher": "Financial Times",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "40d4f57d9bf34ff50c7866037feb1bce33fec751",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeUFUajdmanVrUFlzZkRfSHhoZGhHVXdaQVBlaVNadmRTa1pkWDA5bFpOZEhJVWYyc1NNVUdIZFI3bVlTamhkTkNWdmNpWjVYbVVOZ3FuNTdQSGJfVmpYZjU3a0FqQzV1U0JpQ0VuRGV4RzhmVnMxc0d2VC04T2J6VXpxNEdOUm9HdnByYlFvQUNhdw?oc=5",
-      "title": "OpenAI’s AI agents secretly used a German wiki website as a message board. OpenAI stayed quiet about it for weeks.",
-      "summary": "",
-      "publishedAt": "2026-09-07T18:55:00.000Z",
-      "publisher": "Fortune",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Trusted external coverage"
       }
     },
     {
@@ -409,6 +390,44 @@
       }
     },
     {
+      "id": "12e9dd6851803557bf5ad9fd2920e7fa2e644576",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+      "publishedAt": "2026-09-14T00:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "c3aa33826442d0f0cc3fa5d142dd086e756ace1e",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/cognition-devin-testing-with-astra",
+      "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+      "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
+      "publishedAt": "2026-09-11T16:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
+      }
+    },
+    {
       "id": "c7d3c8aeae425678bc7fb8faf4c052a8482d89f7",
       "company": "OpenAI",
       "sourceKind": "official",
@@ -428,6 +447,25 @@
       }
     },
     {
+      "id": "97cd97d27d220f15f9bc8a69f1f4b5eea602a9e8",
+      "company": "Anthropic",
+      "sourceKind": "official",
+      "sourceId": "anthropic-engineering",
+      "sourceLabel": "Anthropic Engineering",
+      "homepageUrl": "https://www.anthropic.com/engineering",
+      "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
+      "title": "Featured How we contain Claude across products As agents grow more capable, so does their potential blast radius. The engineering question is how to cap it. Here’s what we’ve learned building containment for claude.ai, Claude Code, and Cowork.",
+      "summary": "",
+      "publishedAt": null,
+      "publisher": "",
+      "discoveryMethod": "anchor",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Technical or research update"
+      }
+    },
+    {
       "id": "014159943e4d9643b524ba35091999ab979bfca3",
       "company": "OpenAI",
       "sourceKind": "official",
@@ -442,7 +480,7 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "digest",
-        "score": 2,
+        "score": 1,
         "reason": "Routine official update"
       }
     },
@@ -461,7 +499,7 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "digest",
-        "score": 2,
+        "score": 1,
         "reason": "Routine official update"
       }
     },
@@ -480,7 +518,7 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "digest",
-        "score": 2,
+        "score": 1,
         "reason": "Routine official update"
       }
     },
@@ -499,100 +537,62 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "4e410dad70fb92989558aa8ff122fdd9cabd1589",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-      "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-      "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
-      "publishedAt": "2026-09-10T00:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "b18ce59eeb6223be5a0456ab05c073bb6b2d4695",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/mapping-global-methane-emissions-from-space",
-      "title": "A new deep learning model maps global methane emissions from space.",
-      "summary": "Google and NASA JPL developed an AI model to map and quantify global methane emissions from space using EMIT.",
-      "publishedAt": "2026-09-09T18:15:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
+        "score": 1,
         "reason": "Routine official update"
       }
     }
   ],
   "newItems": [
     {
-      "id": "016c3ec9b775a98e5ec43d6010b5a5132a940638",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/introducing-chatgpt-financial-services",
-      "title": "Introducing ChatGPT for Financial Services",
-      "summary": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
-      "publishedAt": "2026-09-10T07:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "ea039c54f4b4e173b8eefea537790fe479290ef0",
+      "id": "47885af47999988f99eb7dc30f7b6e5f2811c731",
       "company": "OpenAI",
       "sourceKind": "external",
       "sourceId": "external-openai-major",
       "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORUh3OFBtWU9GUDhsQWF5UTJmREwxSldsNnk1Yl8ta0I4VWpVNEEyQV9RU3B3LTAwcDFGMUhyV09CYnhreF9kSFNHbzdmOFM3ZjV1VW1lMW5TS1RFTDM4OHJFdnVtLTJZekxHMnNsRG96V2ViTTdoZlBobS1lc1ZxNmtBaW85VlN3ejctNzNhOVNPb0tHdVRtUXYxR2g3NVJSbmZXdGluenR4ZGkzN2wyRURn?oc=5",
-      "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbWpjX1VzLWlPSE16THFBYVE0ZkdxMW5ORF9qR2pNc1ZIZEhOR21MTGc0cTNxc1dFU2RDWmI5VHRnUGh4YzZhRlQyRnJZS2V3UGlFMG83VFl1NUZxaldfUUtQVGthWnhjTU5tWjJuX1RJT2hhSV9wbkVYcE9PWV9NOS1NbF80bjY4RE54WFlSbHFWc29JWDQyYXBUQVlXQ2hD?oc=5",
+      "title": "OpenAI Judge Discloses Microsoft Stock, Stays on Copyright Case",
       "summary": "",
-      "publishedAt": "2026-09-11T16:46:25.000Z",
-      "publisher": "TechCrunch",
+      "publishedAt": "2026-09-12T00:22:00.000Z",
+      "publisher": "Bloomberg Law News",
       "discoveryMethod": "feed",
       "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
       }
     },
     {
-      "id": "63c15e91e7a795f28e90b902793489dcee085a75",
-      "company": "Microsoft",
+      "id": "e7792acab9381bac150aa545ad652c6c98fad521",
+      "company": "Anthropic",
       "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRXJMZWdoQWFkTHJITkVsNjYwWkFGZWk4OVlpdS1tTDNyMnNQd0Zicmx0UktIZDFxS0xwOFBlSkxOakxPZ2RjRy13UzduVWdhcUN3WVNXWWpjVEJXRFNpOFlVLUFHMEtxV0I3cWMwZWY1REVYTkhFNGZJZDJmTzRDSU9hQ3hmbGtNNzc3dFlPSzRwVjFlYnh3RDFLbW9UNUxMYWMwb2RTbldvZ3dWZHladi1TYkpnY0hZN1lN?oc=5",
-      "title": "Microsoft Plans Data Center Push to Triple Its Computing Power",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQY1hQcmpfUjFXdUFBVGZNMTJSSVFWLWowMVNVbkJiZjgwUG02blNKOW1fdV91cjAyZTFpdXdHWW1qMTNnUFdseHlQM2hELXF0VE9ZN0RVYmRBMEQ2NV9iM2pOQlQ5VnY0bnJHOG1acnFUWnliNnhxWkJDaFZXNmZxREk2Y2JON1VJS3M0c216MkNrMzVmbEZ6WVRNVG1yMGtEdURNT3F2VjV1NGpDb1E?oc=5",
+      "title": "Security News This Week: From Hacks to Bioweapons, Claude Misuse Is Now Everywhere",
       "summary": "",
-      "publishedAt": "2026-09-11T03:03:00.000Z",
-      "publisher": "Bloomberg.com",
+      "publishedAt": "2026-09-12T10:30:00.000Z",
+      "publisher": "WIRED",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "398c60c844e0029beabcad2d3a47b2ce96f769f4",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTEo3UnZJbXNUMHZCTFRnUE1rSTBnZkFxQTh1NzRPTEFxZXVoNnpOeUYtUUdrSzRBeGFlOXpsaTI2SUdHVTFGTm4wa0J4MG5pQXFYTFJXUTFMS1oteEo5Qi0tX2kwNU1FanpkWjc3d3MxaUYtYVp6UU9QU1NwT1Mtc0VSUk4zTHpManpaNnowTFRBR0VKRUhVQkhHbF9FR1NKSDFlOTFnSHB5cG1UZUtpQzdQSjc0eC1IeENzbUxUMVc2VzE4?oc=5",
+      "title": "Senators from both parties question OpenAI on breach of AI startup Hugging Face",
+      "summary": "",
+      "publishedAt": "2026-09-11T01:35:00.000Z",
+      "publisher": "AP News",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -601,16 +601,35 @@
       }
     },
     {
-      "id": "c7d3c8aeae425678bc7fb8faf4c052a8482d89f7",
+      "id": "c2e28da4c6d01322e53619bf70a8ce26f24374b7",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcl9NLU1IYjdjTDk1VDM1blJFMkRuMnJSSlFqbkowZUtFVjNyMzZ3SjBGSTVqR2gzSWYzR0daNms4OG84aGNmU3Y2d0ZvS2ZSRnU5WkQwdkxJaTVtUWl4Y1JmSEJybEkwWk5ybWoxb0VMTEFObFFVdGs5NExkYkJaeFFPaHpuTnJESWFCRW1lMGVhX29jZGlpeFRYTzFqNURKbzM3Q2lRR1I5VmI4d0duMkVWbDduaDMwdlJMTw?oc=5",
+      "title": "An Anthropic safety researcher resigned with a warning about AI to co-workers on Slack",
+      "summary": "",
+      "publishedAt": "2026-09-09T18:18:00.000Z",
+      "publisher": "NBC News",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "12e9dd6851803557bf5ad9fd2920e7fa2e644576",
       "company": "OpenAI",
       "sourceKind": "official",
       "sourceId": "openai-newsroom",
       "sourceLabel": "OpenAI Newsroom",
       "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-      "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
-      "publishedAt": "2026-09-11T10:00:00.000Z",
+      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+      "publishedAt": "2026-09-14T00:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -620,16 +639,16 @@
       }
     },
     {
-      "id": "b18ce59eeb6223be5a0456ab05c073bb6b2d4695",
-      "company": "Google",
+      "id": "c3aa33826442d0f0cc3fa5d142dd086e756ace1e",
+      "company": "OpenAI",
       "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/mapping-global-methane-emissions-from-space",
-      "title": "A new deep learning model maps global methane emissions from space.",
-      "summary": "Google and NASA JPL developed an AI model to map and quantify global methane emissions from space using EMIT.",
-      "publishedAt": "2026-09-09T18:15:00.000Z",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/cognition-devin-testing-with-astra",
+      "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+      "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
+      "publishedAt": "2026-09-11T16:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
