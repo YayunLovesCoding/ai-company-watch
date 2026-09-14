@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T17:20:22.919Z",
+  "generatedAt": "2026-09-14T19:06:52.959Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -76,27 +76,46 @@
     }
   ],
   "totals": {
-    "fetched": 32,
+    "fetched": 30,
     "deduped": 24,
-    "new": 2,
+    "new": 8,
     "byKind": {
-      "official": 17,
-      "external": 7
+      "official": 18,
+      "external": 6
     }
   },
   "items": [
     {
-      "id": "e54d4b3364f6616de755df66420302a43956c58f",
-      "company": "Anthropic",
+      "id": "3b0037906c48ce656d31bcab130150b0ce7d88ef",
+      "company": "OpenAI",
       "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUHJiejZmZWtfSkNFSDFjSGZoRmRPYTMxd3VHcVdfUWRDRjZLenR0WndKTTJMdFB4bko3UjRMRXRlOHJka010TmtTTThlcFFSaEQyM0pEWTVNd2h1cUNYNXN1VkVza19lM01FMXJBX1JFY2lOTFBIb3dudzBtb0h4dmF3OHgyMVFRR09mR3lYSDViWkMyUmpoOG9wejg5aUpSdW1YSmpWc1E?oc=5",
-      "title": "Anthropic whistleblower says Congress should let AI companies regulate themselves until a regulatory body is established",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQnQ3Z0dGR2RybDZWNUdpdWNULVRlUGkwRk9sTDhFYkhaS2dQakVSWnhuSnhqdXlvZVFpMmNPdE9NdU1BYThCMVdXOEo4T255MTRwVnFJRzNFeHlpeXlSWHU2NEZTbTB3ZVVyMzFJN3piMGs5OHZ6bjFwdmJid2R4VXpoTG5kMkM5czdXVmxTWUhzZ25LZzl3SXM4TnNPTHZubUxMb1NlalpiLWVaVklNb1dyOEFCSmRjMDQwN29vMEVrUQ?oc=5",
+      "title": "US judge says she will stay on OpenAI case after divesting Microsoft stock",
       "summary": "",
-      "publishedAt": "2026-09-13T14:28:57.000Z",
-      "publisher": "NBC News",
+      "publishedAt": "2026-09-14T17:39:16.000Z",
+      "publisher": "Reuters",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "3c2d7e437595faae04365b43fe839d98a183bebb",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU3NKblJyZmoydlJFaW1DOGJYMGsyTEZSM1ZqazFGOEkxZ0hWNi01bHI4R01SV0xzZFEzaUxjQ0ZMQ0UyY2FpV21OTHhXMjBQNG16dXhzR2VUakl3TDFzTE1hbW5jRDA3dlNESDg5d3dQaU1BbTJSUTM0cWdvR09ob0JZRlp0RjNES0Yza21wV2RtSkhtZ3B6azJ4NU9qVzROZ3hV?oc=5",
+      "title": "Apple and OpenAI face off in court over trade-secret fight",
+      "summary": "",
+      "publishedAt": "2026-09-14T16:19:02.000Z",
+      "publisher": "CNBC",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -115,45 +134,7 @@
       "title": "Scoop: OpenAI faces GOP-led Senate investigation into Hugging Face breach",
       "summary": "",
       "publishedAt": "2026-09-10T14:59:58.000Z",
-      "publisher": "axios.com",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "b31c469ebe72d4fd74f374f8aaf312a030c83d69",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQb01mRXphZE05aFRVbS0yU19najNaV1laVFJmbHhFX1ZKX2dOOXJOcks4MUdRRzNRTC1ONDVhYnNzdW9wTHNTeDZMVDVRN3ZTWkNlQURmd0RDN3pPLWlobmVzSS1iYk1kVW1NTzBNOHdhcV9QRjVrWjlMV3BObGFYbmprMnJPOERBdTRxUU1GQXlDa2JmMUtuODRwX3lNaDNSUVE?oc=5",
-      "title": "Cloudflare Surges 9% on OpenAI Security Partnership, Zscaler Rises 3%",
-      "summary": "",
-      "publishedAt": "2026-09-09T15:28:01.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "5c768191fb0556cc4e52ded471fd8505e4915297",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOE83d29ldlZFZGYwMXNLVWtXaUpMLS1xWmpDWjIzREhzTUk0cklteXNPX0ZnMlZ5M3JUcktaLUhlbVJGNHNnTTJwMy1DMFRTWWpFRy1VdmwwZVYtLTNTS0Q4WFZlLUgyd3VqSUxZX3VSTDVzeE1xOHhiclJFLVJGUjB6emhPNFVfWHgzbzBKQ0FiQ29wRmNEYkc4MjFIYjVuSW9Gc2VObDMwdjh4c0xiTFZmd3doU2NPV2I0eTJLZ0N3aDl5alE?oc=5",
-      "title": "Seattle Times, Newsday sue OpenAI, Microsoft, alleging copyright infringement",
-      "summary": "",
-      "publishedAt": "2026-09-08T07:00:00.000Z",
-      "publisher": "Reuters",
+      "publisher": "Axios",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -181,25 +162,6 @@
       }
     },
     {
-      "id": "fdf3e0d338a6c7b7ec65f5e4f445357bba28daff",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/contrail-avoidance-ultra-long-haul-flights",
-      "title": "Our new contrail avoidance trial in Asia-Pacific",
-      "summary": "We’re partnering with Cathay Pacific to test our AI-powered contrail mitigation technology on ultra-long-haul flights.",
-      "publishedAt": "2026-09-07T08:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
       "id": "a18697a7882d9b1442c7b16ef16821f37ddf68e7",
       "company": "Meta",
       "sourceKind": "official",
@@ -216,6 +178,63 @@
         "bucket": "critical",
         "score": 5,
         "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "bea8da0dc1ec67611ea789e9b9af7a8007512983",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQekVKTUt4ekpsWjdxQXp3M3c0SjN0SkprVmZ2N0ZfX3lYQzdpdk5icDFpc1lyYXNJd3FVc0ZzNWRNUzJsMmh0UUZjd3NpZ1ZMS3lXOEJWNC1KNnJfUF9wbWtwM2JZbS1IY3E4MXJtRUV4MW0tRTllSTVJV1l5TW01ZzRFUEFycDhBS0hxZF9YSGx0UQ?oc=5",
+      "title": "Josh Hawley Says OpenAI Knew AI Agents Were Exhibiting ‘Rogue Behavior’ But ‘Let The Evaluations Continue Anyway’ After Hugging Face Breach",
+      "summary": "",
+      "publishedAt": "2026-09-14T11:31:04.000Z",
+      "publisher": "Yahoo",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "1e351f196ab0fbf615e88b60512a4c9492e078fd",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTEMxeXVSa29wMkM4aVJMNWFSd3NTMUtXU1czYjVreEx0eGJyOXc3VGE0X1hlWVpPS2FzZ3huZWY1eHprdzI0Ykw4Y210WEk0SUNxdGRzZ043N1hYWTZ3c0Z1VWVKSGUtcjU0OElobHZjMEM3QlBYSVpQTWF2UFR2Q3JKd19vR1V0WGo3Yl9LSHR5NHNSSGo2Z1pRNkN2WURQVWpfLTBBc2ZTeFBGTWV1TE1Jcw?oc=5",
+      "title": "SoftBank Gets Upsized $11.9 Billion Loan in OpenAI Funding Push",
+      "summary": "",
+      "publishedAt": "2026-09-14T01:42:00.000Z",
+      "publisher": "Bloomberg.com",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "296d33defd03a1b2463973471461c0abc893e728",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/fyxer",
+      "title": "How Fyxer built an AI executive assistant people trust",
+      "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
+      "publishedAt": "2026-09-14T12:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Safety, security, or policy update"
       }
     },
     {
@@ -257,44 +276,6 @@
       }
     },
     {
-      "id": "63c15e91e7a795f28e90b902793489dcee085a75",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRXJMZWdoQWFkTHJITkVsNjYwWkFGZWk4OVlpdS1tTDNyMnNQd0Zicmx0UktIZDFxS0xwOFBlSkxOakxPZ2RjRy13UzduVWdhcUN3WVNXWWpjVEJXRFNpOFlVLUFHMEtxV0I3cWMwZWY1REVYTkhFNGZJZDJmTzRDSU9hQ3hmbGtNNzc3dFlPSzRwVjFlYnh3RDFLbW9UNUxMYWMwb2RTbldvZ3dWZHladi1TYkpnY0hZN1lN?oc=5",
-      "title": "Microsoft Plans Data Center Push to Triple Its Computing Power",
-      "summary": "",
-      "publishedAt": "2026-09-11T03:03:00.000Z",
-      "publisher": "Bloomberg.com",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "398c60c844e0029beabcad2d3a47b2ce96f769f4",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTEo3UnZJbXNUMHZCTFRnUE1rSTBnZkFxQTh1NzRPTEFxZXVoNnpOeUYtUUdrSzRBeGFlOXpsaTI2SUdHVTFGTm4wa0J4MG5pQXFYTFJXUTFMS1oteEo5Qi0tX2kwNU1FanpkWjc3d3MxaUYtYVp6UU9QU1NwT1Mtc0VSUk4zTHpManpaNnowTFRBR0VKRUhVQkhHbF9FR1NKSDFlOTFnSHB5cG1UZUtpQzdQSjc0eC1IeENzbUxUMVc2VzE4?oc=5",
-      "title": "Senators from both parties question OpenAI on breach of AI startup Hugging Face",
-      "summary": "",
-      "publishedAt": "2026-09-11T01:35:00.000Z",
-      "publisher": "AP News",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
       "id": "a2e2d19ed441dd83882f1a852b2c4157111c509a",
       "company": "Meta",
       "sourceKind": "external",
@@ -311,6 +292,25 @@
         "bucket": "important",
         "score": 3,
         "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "02c1b3eb0586dd4fe471a2dc215873ecf7513f63",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/lea-county-new-mexico",
+      "title": "We’re exploring a potential data center in Lea County, New Mexico.",
+      "summary": "Google is exploring a new data center project in Lea County, New Mexico. While discussions are ongoing, we recognize residents are asking questions about data center dev…",
+      "publishedAt": "2026-09-14T14:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Technical or research update"
       }
     },
     {
@@ -349,6 +349,44 @@
         "bucket": "important",
         "score": 3,
         "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "61a0a9938bc7ed21aa59b7fd402c75c8fd7e379f",
+      "company": "Microsoft",
+      "sourceKind": "official",
+      "sourceId": "microsoft-ai",
+      "sourceLabel": "Microsoft AI",
+      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
+      "url": "https://news.microsoft.com/source/emea/features/almost-half-47-of-irish-workers-say-they-are-considering-new-career-paths-as-ai-shapes-the-future-of-work-microsoft-ireland-study-finds",
+      "title": "Nearly half of Irish workers reassess careers as AI reshapes work",
+      "summary": "Nearly half of Irish workers reassess careers as AI reshapes work",
+      "publishedAt": "2026-09-14T18:30:55.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "2267286cfd5cc9d78b7ac89b4fb31cece96e283f",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026",
+      "title": "DevFest is back",
+      "summary": "DevFest 2026 is back and here’s how you can connect with one of the more than 800 global events to build, secure, and scale in the agentic AI era.",
+      "publishedAt": "2026-09-14T16:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
       }
     },
     {
@@ -485,25 +523,6 @@
       }
     },
     {
-      "id": "1ef5285e671d0ace6126abde2e7dec0b8255af8f",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/expanding-ai-access-us-government",
-      "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
-      "summary": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
-      "publishedAt": "2026-09-10T07:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
-    },
-    {
       "id": "b18ce59eeb6223be5a0456ab05c073bb6b2d4695",
       "company": "Google",
       "sourceKind": "official",
@@ -521,40 +540,21 @@
         "score": 1,
         "reason": "Routine official update"
       }
-    },
-    {
-      "id": "ada2f64613585383ede8e93e10f9d34d14b332d2",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film",
-      "title": "Recreating a 70-year love story frame by frame",
-      "summary": "Discover how filmmakers and Google DeepMind used AI to recreate a couple's unrecorded past in the short film \"Love, Rendered.\"",
-      "publishedAt": "2026-09-09T16:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
     }
   ],
   "newItems": [
     {
-      "id": "e54d4b3364f6616de755df66420302a43956c58f",
-      "company": "Anthropic",
+      "id": "3b0037906c48ce656d31bcab130150b0ce7d88ef",
+      "company": "OpenAI",
       "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUHJiejZmZWtfSkNFSDFjSGZoRmRPYTMxd3VHcVdfUWRDRjZLenR0WndKTTJMdFB4bko3UjRMRXRlOHJka010TmtTTThlcFFSaEQyM0pEWTVNd2h1cUNYNXN1VkVza19lM01FMXJBX1JFY2lOTFBIb3dudzBtb0h4dmF3OHgyMVFRR09mR3lYSDViWkMyUmpoOG9wejg5aUpSdW1YSmpWc1E?oc=5",
-      "title": "Anthropic whistleblower says Congress should let AI companies regulate themselves until a regulatory body is established",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQnQ3Z0dGR2RybDZWNUdpdWNULVRlUGkwRk9sTDhFYkhaS2dQakVSWnhuSnhqdXlvZVFpMmNPdE9NdU1BYThCMVdXOEo4T255MTRwVnFJRzNFeHlpeXlSWHU2NEZTbTB3ZVVyMzFJN3piMGs5OHZ6bjFwdmJid2R4VXpoTG5kMkM5czdXVmxTWUhzZ25LZzl3SXM4TnNPTHZubUxMb1NlalpiLWVaVklNb1dyOEFCSmRjMDQwN29vMEVrUQ?oc=5",
+      "title": "US judge says she will stay on OpenAI case after divesting Microsoft stock",
       "summary": "",
-      "publishedAt": "2026-09-13T14:28:57.000Z",
-      "publisher": "NBC News",
+      "publishedAt": "2026-09-14T17:39:16.000Z",
+      "publisher": "Reuters",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -563,22 +563,136 @@
       }
     },
     {
-      "id": "a2e2d19ed441dd83882f1a852b2c4157111c509a",
-      "company": "Meta",
+      "id": "3c2d7e437595faae04365b43fe839d98a183bebb",
+      "company": "Microsoft",
       "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMzhPUFFiMnJTYm9qU2hxbXlzT0RXdktYdzRiVHlCQURVLUFGQkRHWm5hY1ptdGJvRnhTUXFpSzdRWkhZT1E0VTV4VVRqZ2JlV2JZVFVpMkNPY1h2SVdCb3BDRXJwSjJVM0ExZ3RWRndJczEtQVBwRHZlTnQ3aUdiaFdyTXZ6QWdwUUMyZS14VWxuUHltaDhOYw?oc=5",
-      "title": "Amazon, Meta and Google Confront Data Center Backlash",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU3NKblJyZmoydlJFaW1DOGJYMGsyTEZSM1ZqazFGOEkxZ0hWNi01bHI4R01SV0xzZFEzaUxjQ0ZMQ0UyY2FpV21OTHhXMjBQNG16dXhzR2VUakl3TDFzTE1hbW5jRDA3dlNESDg5d3dQaU1BbTJSUTM0cWdvR09ob0JZRlp0RjNES0Yza21wV2RtSkhtZ3B6azJ4NU9qVzROZ3hV?oc=5",
+      "title": "Apple and OpenAI face off in court over trade-secret fight",
       "summary": "",
-      "publishedAt": "2026-09-10T12:00:46.000Z",
-      "publisher": "Yahoo Finance",
+      "publishedAt": "2026-09-14T16:19:02.000Z",
+      "publisher": "CNBC",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "bea8da0dc1ec67611ea789e9b9af7a8007512983",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQekVKTUt4ekpsWjdxQXp3M3c0SjN0SkprVmZ2N0ZfX3lYQzdpdk5icDFpc1lyYXNJd3FVc0ZzNWRNUzJsMmh0UUZjd3NpZ1ZMS3lXOEJWNC1KNnJfUF9wbWtwM2JZbS1IY3E4MXJtRUV4MW0tRTllSTVJV1l5TW01ZzRFUEFycDhBS0hxZF9YSGx0UQ?oc=5",
+      "title": "Josh Hawley Says OpenAI Knew AI Agents Were Exhibiting ‘Rogue Behavior’ But ‘Let The Evaluations Continue Anyway’ After Hugging Face Breach",
+      "summary": "",
+      "publishedAt": "2026-09-14T11:31:04.000Z",
+      "publisher": "Yahoo",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "1e351f196ab0fbf615e88b60512a4c9492e078fd",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTEMxeXVSa29wMkM4aVJMNWFSd3NTMUtXU1czYjVreEx0eGJyOXc3VGE0X1hlWVpPS2FzZ3huZWY1eHprdzI0Ykw4Y210WEk0SUNxdGRzZ043N1hYWTZ3c0Z1VWVKSGUtcjU0OElobHZjMEM3QlBYSVpQTWF2UFR2Q3JKd19vR1V0WGo3Yl9LSHR5NHNSSGo2Z1pRNkN2WURQVWpfLTBBc2ZTeFBGTWV1TE1Jcw?oc=5",
+      "title": "SoftBank Gets Upsized $11.9 Billion Loan in OpenAI Funding Push",
+      "summary": "",
+      "publishedAt": "2026-09-14T01:42:00.000Z",
+      "publisher": "Bloomberg.com",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "296d33defd03a1b2463973471461c0abc893e728",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/fyxer",
+      "title": "How Fyxer built an AI executive assistant people trust",
+      "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
+      "publishedAt": "2026-09-14T12:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "02c1b3eb0586dd4fe471a2dc215873ecf7513f63",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/lea-county-new-mexico",
+      "title": "We’re exploring a potential data center in Lea County, New Mexico.",
+      "summary": "Google is exploring a new data center project in Lea County, New Mexico. While discussions are ongoing, we recognize residents are asking questions about data center dev…",
+      "publishedAt": "2026-09-14T14:00:00.000Z",
+      "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
         "score": 3,
-        "reason": "Trusted external coverage"
+        "reason": "Technical or research update"
+      }
+    },
+    {
+      "id": "61a0a9938bc7ed21aa59b7fd402c75c8fd7e379f",
+      "company": "Microsoft",
+      "sourceKind": "official",
+      "sourceId": "microsoft-ai",
+      "sourceLabel": "Microsoft AI",
+      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
+      "url": "https://news.microsoft.com/source/emea/features/almost-half-47-of-irish-workers-say-they-are-considering-new-career-paths-as-ai-shapes-the-future-of-work-microsoft-ireland-study-finds",
+      "title": "Nearly half of Irish workers reassess careers as AI reshapes work",
+      "summary": "Nearly half of Irish workers reassess careers as AI reshapes work",
+      "publishedAt": "2026-09-14T18:30:55.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "2267286cfd5cc9d78b7ac89b4fb31cece96e283f",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026",
+      "title": "DevFest is back",
+      "summary": "DevFest 2026 is back and here’s how you can connect with one of the more than 800 global events to build, secure, and scale in the agentic AI era.",
+      "publishedAt": "2026-09-14T16:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
       }
     }
   ],
