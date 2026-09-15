@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T19:06:52.959Z",
+  "generatedAt": "2026-09-15T18:02:06.063Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -76,15 +76,34 @@
     }
   ],
   "totals": {
-    "fetched": 30,
+    "fetched": 34,
     "deduped": 24,
-    "new": 8,
+    "new": 12,
     "byKind": {
-      "official": 18,
-      "external": 6
+      "official": 16,
+      "external": 8
     }
   },
   "items": [
+    {
+      "id": "30d312de12ccf117d3bafc8a912ece7f77fe3475",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNakx1aWJCcjVfT3lLdUtSUDREc0VSNW1qRDllb1NkRHdSeDQyOF80cDFqYXpQbDM0UndycmJxbHU2cGRULXBXdmFRcGtKcmRieUJmRG5FQUhycFpPVTE3b0VYc2gyM3BfQjRXZ1E4ZmRJV3JBLS03Z09OZzFyLUxxbkdJaGJzcTRHaWt3WkVKaWRSUmpDenhtbzJyMnp3cVBhVWdDZA?oc=5",
+      "title": "Microsoft-Activision $250 Million Investor Settlement Paused",
+      "summary": "",
+      "publishedAt": "2026-09-15T16:46:00.000Z",
+      "publisher": "Bloomberg Law News",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
     {
       "id": "3b0037906c48ce656d31bcab130150b0ce7d88ef",
       "company": "OpenAI",
@@ -95,7 +114,7 @@
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQnQ3Z0dGR2RybDZWNUdpdWNULVRlUGkwRk9sTDhFYkhaS2dQakVSWnhuSnhqdXlvZVFpMmNPdE9NdU1BYThCMVdXOEo4T255MTRwVnFJRzNFeHlpeXlSWHU2NEZTbTB3ZVVyMzFJN3piMGs5OHZ6bjFwdmJid2R4VXpoTG5kMkM5czdXVmxTWUhzZ25LZzl3SXM4TnNPTHZubUxMb1NlalpiLWVaVklNb1dyOEFCSmRjMDQwN29vMEVrUQ?oc=5",
       "title": "US judge says she will stay on OpenAI case after divesting Microsoft stock",
       "summary": "",
-      "publishedAt": "2026-09-14T17:39:16.000Z",
+      "publishedAt": "2026-09-14T22:12:31.000Z",
       "publisher": "Reuters",
       "discoveryMethod": "feed",
       "classification": {
@@ -105,16 +124,16 @@
       }
     },
     {
-      "id": "3c2d7e437595faae04365b43fe839d98a183bebb",
-      "company": "Microsoft",
+      "id": "74c7d91a65f0d8f4a7d407548177bb54fdd9fdc4",
+      "company": "OpenAI",
       "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU3NKblJyZmoydlJFaW1DOGJYMGsyTEZSM1ZqazFGOEkxZ0hWNi01bHI4R01SV0xzZFEzaUxjQ0ZMQ0UyY2FpV21OTHhXMjBQNG16dXhzR2VUakl3TDFzTE1hbW5jRDA3dlNESDg5d3dQaU1BbTJSUTM0cWdvR09ob0JZRlp0RjNES0Yza21wV2RtSkhtZ3B6azJ4NU9qVzROZ3hV?oc=5",
-      "title": "Apple and OpenAI face off in court over trade-secret fight",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ybVdqR2dsVjdsVm93c3dlUUlzRmQ3TEZPM0lyU25JbmtqTDQwdkpuUHpPV1hWZTg4YzlkN2JwTFA4MGo0WS15ZmpoZFpNQ2VyM2JaOW9mUzZqaGo2QjdlMGpjU213dlNzZF82eWlWU0RBdVZNdUk5UUNn?oc=5",
+      "title": "Apple takes OpenAI to court",
       "summary": "",
-      "publishedAt": "2026-09-14T16:19:02.000Z",
+      "publishedAt": "2026-09-14T20:00:18.000Z",
       "publisher": "CNBC",
       "discoveryMethod": "feed",
       "classification": {
@@ -124,41 +143,79 @@
       }
     },
     {
-      "id": "aa03bf8398dc5bb4d5524a75269881f50e518ab3",
+      "id": "4edf36315fc0d40e5f0702b04fe23e58757b02f7",
       "company": "OpenAI",
       "sourceKind": "external",
       "sourceId": "external-openai-major",
       "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUzAxcDNBRHlrZTNxWHFxenpIaHNmUjBkaUZhRjc1Mm9DNU44TE5DMzNTUDNZTDc0YmJqTmJVQzE2VFhNY1d6OVVhU2RZN0xXem1tU0VrdlF3UVBOOWc0dG5GdWhURllfTDBtRFY4dGMzZndZOE45bWdnZDh2SmVzY1lLM1Eta00?oc=5",
-      "title": "Scoop: OpenAI faces GOP-led Senate investigation into Hugging Face breach",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5BeXItZEJoVERnRUczd25vMkNUSmZ4emk5YWZ1dVNqdlI3YlQwbjVRd1V4RnVJeHQzaUlVR3VrenRzRGtZZEswcTdqNzQ3aTRCd2JwS2oyUm5mcE5iOG9ILTBOd3Y0a1Vac1V5S1Yzd2t6d3d3OGVVNDQ4MmpweGs?oc=5",
+      "title": "Temporal worth $12.55b, OpenAI's camera acquisition, and DOD's tungsten buy",
       "summary": "",
-      "publishedAt": "2026-09-10T14:59:58.000Z",
+      "publishedAt": "2026-09-14T19:08:01.000Z",
       "publisher": "Axios",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 6,
+        "score": 7,
         "reason": "Corporate move or major external event"
       }
     },
     {
-      "id": "4a032c14cef797a260fd6ae82af5c69ef523d7d2",
+      "id": "3c2d7e437595faae04365b43fe839d98a183bebb",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU3NKblJyZmoydlJFaW1DOGJYMGsyTEZSM1ZqazFGOEkxZ0hWNi01bHI4R01SV0xzZFEzaUxjQ0ZMQ0UyY2FpV21OTHhXMjBQNG16dXhzR2VUakl3TDFzTE1hbW5jRDA3dlNESDg5d3dQaU1BbTJSUTM0cWdvR09ob0JZRlp0RjNES0Yza21wV2RtSkhtZ3B6azJ4NU9qVzROZ3hV?oc=5",
+      "title": "Apple and OpenAI face off in court over trade-secret fight",
+      "summary": "",
+      "publishedAt": "2026-09-14T16:19:00.000Z",
+      "publisher": "CNBC",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "78ec933d8f3c9110a6b74409b1a00980245e1cd9",
       "company": "Google",
       "sourceKind": "official",
       "sourceId": "google-ai",
       "sourceLabel": "Google AI",
       "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/google-ai-commitment-to-finland",
-      "title": "Google deepens its commitment to Finland with a €13 billion investment in AI infrastructure",
-      "summary": "Google invests €13B in Finland to boost digital infrastructure, clean energy, create jobs, and support local environmental initiatives.",
-      "publishedAt": "2026-09-09T07:00:00.000Z",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking",
+      "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "summary": "Gemini 3.8 Live and Gemini 3.8 Live Extended Thinking are our most advanced live dialogue models yet, built for natural conversation.",
+      "publishedAt": "2026-09-15T17:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
         "score": 5,
-        "reason": "Corporate move or major external event"
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "d69ce8689fec53b094c78b69553446ae59b42cfb",
+      "company": "Meta",
+      "sourceKind": "official",
+      "sourceId": "meta-newsroom",
+      "sourceLabel": "Meta Newsroom",
+      "homepageUrl": "https://about.fb.com/news/",
+      "url": "https://about.fb.com/news/2026/09/introducing-meta-one-subscription-service-more-features-ai",
+      "title": "Introducing Meta One: A Subscription Service With More Features and AI to Create, Connect, and Stand Out",
+      "summary": "We're introducing Meta One, a new subscription service on Facebook, Instagram, WhatsApp, and Meta AI that offers more AI usage, enhanced expression features, and tools for creators and businesses. The post Introducing Meta One: A Subscription Service With More Features and AI to...",
+      "publishedAt": "2026-09-15T15:00:59.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Flagship model or product launch"
       }
     },
     {
@@ -181,17 +238,17 @@
       }
     },
     {
-      "id": "bea8da0dc1ec67611ea789e9b9af7a8007512983",
-      "company": "OpenAI",
+      "id": "1549eb1a5be99bcb4cefdc79d60bcbac76d19c22",
+      "company": "Anthropic",
       "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQekVKTUt4ekpsWjdxQXp3M3c0SjN0SkprVmZ2N0ZfX3lYQzdpdk5icDFpc1lyYXNJd3FVc0ZzNWRNUzJsMmh0UUZjd3NpZ1ZMS3lXOEJWNC1KNnJfUF9wbWtwM2JZbS1IY3E4MXJtRUV4MW0tRTllSTVJV1l5TW01ZzRFUEFycDhBS0hxZF9YSGx0UQ?oc=5",
-      "title": "Josh Hawley Says OpenAI Knew AI Agents Were Exhibiting ‘Rogue Behavior’ But ‘Let The Evaluations Continue Anyway’ After Hugging Face Breach",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOamtMaEl3OW04aFdDZXY3Q0tDMnRWWHNna3h1ak5HTi1INUZIX0h6R1g1Z0JKOC1NSkR1R3VCVUFzTktFR0g0T2V4QzNRQkgtRlZ4YUltRGc0eGdITDhCY3N4M1VaRU5Nd2w1TWJXMnNSNTZPRHBkTUwwM0lUZkhmU1VzNnhtUXl2TTlPcGJ3c2NabEhmTDA3RGNaMGtKTmQzZG1hdm1sbzBDRHlmYXNZZ9IBtgFBVV95cUxQRk56b2o1TFpzTnZKNGpOVm5QeUxNZzk4SC11d1FGUnNNX1ltU0lTaGdYQjB4Qjl5aExrTjVJQ0xpWlVVQ2tqdGE4UU1tajBRZWM5NWVMVXJvcU1zZFFGX254NzV3V3RSLUVUR0E0VVc5REZxM01WbE9IZi1FWkNiaW5VbGJXbmtsdXQyS3Z4d0FNd2VlSDdJRlZDRDJZQnp1dmhyc2hQVDBBMENxaUlYc05IcHhfQQ?oc=5",
+      "title": "Broadcom CEO addresses Anthropic's slowdown push, says AI revenue targets haven't changed",
       "summary": "",
-      "publishedAt": "2026-09-14T11:31:04.000Z",
-      "publisher": "Yahoo",
+      "publishedAt": "2026-09-14T22:43:25.000Z",
+      "publisher": "CNBC",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -200,16 +257,16 @@
       }
     },
     {
-      "id": "1e351f196ab0fbf615e88b60512a4c9492e078fd",
-      "company": "OpenAI",
+      "id": "ee88c667fc588c7717849f941269acf556756c1d",
+      "company": "Anthropic",
       "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTEMxeXVSa29wMkM4aVJMNWFSd3NTMUtXU1czYjVreEx0eGJyOXc3VGE0X1hlWVpPS2FzZ3huZWY1eHprdzI0Ykw4Y210WEk0SUNxdGRzZ043N1hYWTZ3c0Z1VWVKSGUtcjU0OElobHZjMEM3QlBYSVpQTWF2UFR2Q3JKd19vR1V0WGo3Yl9LSHR5NHNSSGo2Z1pRNkN2WURQVWpfLTBBc2ZTeFBGTWV1TE1Jcw?oc=5",
-      "title": "SoftBank Gets Upsized $11.9 Billion Loan in OpenAI Funding Push",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYjJTR0hmUkNIN1BKMWpFV2thWndQT3plLXg1YS02djlpTkZkS2dvd3gxR0dTZ1RoSEVwbVAxUUYxZUtjMzZqbzJqWU4tSGhHSEFWVmgwSVVPeU5kczlvdGphZDBvMGJEckdrYjNVUXRyV0NkRldYMm9wZE9EbFBaUnQ2MXVkdmN5TG5WeHZoM2YtbGxtTDZ2dXBGWTVva3pOWFN1UURWRjlkeFJtaktUcg?oc=5",
+      "title": "Tempus AI Founder Supports Anthropic CEO’s Call for Slowdown",
       "summary": "",
-      "publishedAt": "2026-09-14T01:42:00.000Z",
+      "publishedAt": "2026-09-14T20:25:12.000Z",
       "publisher": "Bloomberg.com",
       "discoveryMethod": "feed",
       "classification": {
@@ -235,25 +292,6 @@
         "bucket": "important",
         "score": 4,
         "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "e3ce0c5d8f670d3948507b07ff25b9e400bb99b7",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows",
-      "title": "The Gemini app is now available for Windows",
-      "summary": "We’re launching the Gemini app for Windows, the new desktop app built to work alongside your favorite tools and daily applications.",
-      "publishedAt": "2026-09-10T16:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Flagship model or product launch"
       }
     },
     {
@@ -295,16 +333,16 @@
       }
     },
     {
-      "id": "02c1b3eb0586dd4fe471a2dc215873ecf7513f63",
+      "id": "0921e310a4af9291204c75363eefe64ab4b50401",
       "company": "Google",
       "sourceKind": "official",
       "sourceId": "google-ai",
       "sourceLabel": "Google AI",
       "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/lea-county-new-mexico",
-      "title": "We’re exploring a potential data center in Lea County, New Mexico.",
-      "summary": "Google is exploring a new data center project in Lea County, New Mexico. While discussions are ongoing, we recognize residents are asking questions about data center dev…",
-      "publishedAt": "2026-09-14T14:00:00.000Z",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/wildfire-tracking-ai",
+      "title": "Ask a Scientist: How can researchers use AI to spot a wildfire?",
+      "summary": "Google Research is exploring how to use AI and satellites to scan the world every 20 minutes and catch wildfires the size of a car.",
+      "publishedAt": "2026-09-15T16:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -352,6 +390,82 @@
       }
     },
     {
+      "id": "c95431380d57e63f4e841a76969599b53b6f0aea",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-real-time-voice-applications-gemini-audio",
+      "title": "Build real-time voice applications with Gemini 3.8 Live and 3.5 Transcribe",
+      "summary": "A look at how developers can build with our latest audio models, Gemini 3.8 Live, 3.8 Live Extended Thinking, and 3.5 Transcribe.",
+      "publishedAt": "2026-09-15T17:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "6cacf6b9a4664d2b97f13565612e89e3fe1ac631",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/household-chores-tips",
+      "title": "4 ways to tackle household chores with Gemini",
+      "summary": "Here’s how Gemini can help you with household chores, like meal planning and fixing appliances.",
+      "publishedAt": "2026-09-15T16:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "98c36a850624dbc19c86ee35d4c7a31c907904b3",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language",
+      "title": "AI for everyone in every language",
+      "summary": "We’re moving beyond traditional text translation to build models that understand the world’s rich, living languages exactly as they are expressed.",
+      "publishedAt": "2026-09-15T16:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "149a852934bd635a33c55b141db3fd680abcf1e3",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact",
+      "title": "AI for Societal Impact",
+      "summary": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
+      "publishedAt": "2026-09-15T16:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
+      }
+    },
+    {
       "id": "61a0a9938bc7ed21aa59b7fd402c75c8fd7e379f",
       "company": "Microsoft",
       "sourceKind": "official",
@@ -362,25 +476,6 @@
       "title": "Nearly half of Irish workers reassess careers as AI reshapes work",
       "summary": "Nearly half of Irish workers reassess careers as AI reshapes work",
       "publishedAt": "2026-09-14T18:30:55.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "2267286cfd5cc9d78b7ac89b4fb31cece96e283f",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026",
-      "title": "DevFest is back",
-      "summary": "DevFest 2026 is back and here’s how you can connect with one of the more than 800 global events to build, secure, and scale in the agentic AI era.",
-      "publishedAt": "2026-09-14T16:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -445,116 +540,21 @@
         "score": 1,
         "reason": "Routine official update"
       }
-    },
-    {
-      "id": "c7d3c8aeae425678bc7fb8faf4c052a8482d89f7",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-      "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
-      "publishedAt": "2026-09-11T10:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "014159943e4d9643b524ba35091999ab979bfca3",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
-      "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-      "summary": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
-      "publishedAt": "2026-09-10T16:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "4d4e7920d8a762a2dc722c2d13aa26b7d8884024",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/put-data-to-work",
-      "title": "Now everyone can put data to work",
-      "summary": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
-      "publishedAt": "2026-09-10T15:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "71a85c25f8cecba4a78ef442e2978e7455acd448",
-      "company": "Microsoft",
-      "sourceKind": "official",
-      "sourceId": "microsoft-ai",
-      "sourceLabel": "Microsoft AI",
-      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
-      "url": "https://news.microsoft.com/source/canada/features/ai/kinaxis-supply-chain",
-      "title": "What if everything changes tomorrow? A Canadian company is using AI to help businesses navigate supply chain uncertainty",
-      "summary": "What if everything changes tomorrow? A Canadian company is using AI to help businesses navigate supply chain uncertainty",
-      "publishedAt": "2026-09-10T13:08:37.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "b18ce59eeb6223be5a0456ab05c073bb6b2d4695",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/mapping-global-methane-emissions-from-space",
-      "title": "A new deep learning model maps global methane emissions from space.",
-      "summary": "Google and NASA JPL developed an AI model to map and quantify global methane emissions from space using EMIT.",
-      "publishedAt": "2026-09-09T18:15:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
     }
   ],
   "newItems": [
     {
-      "id": "3b0037906c48ce656d31bcab130150b0ce7d88ef",
-      "company": "OpenAI",
+      "id": "30d312de12ccf117d3bafc8a912ece7f77fe3475",
+      "company": "Microsoft",
       "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQnQ3Z0dGR2RybDZWNUdpdWNULVRlUGkwRk9sTDhFYkhaS2dQakVSWnhuSnhqdXlvZVFpMmNPdE9NdU1BYThCMVdXOEo4T255MTRwVnFJRzNFeHlpeXlSWHU2NEZTbTB3ZVVyMzFJN3piMGs5OHZ6bjFwdmJid2R4VXpoTG5kMkM5czdXVmxTWUhzZ25LZzl3SXM4TnNPTHZubUxMb1NlalpiLWVaVklNb1dyOEFCSmRjMDQwN29vMEVrUQ?oc=5",
-      "title": "US judge says she will stay on OpenAI case after divesting Microsoft stock",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNakx1aWJCcjVfT3lLdUtSUDREc0VSNW1qRDllb1NkRHdSeDQyOF80cDFqYXpQbDM0UndycmJxbHU2cGRULXBXdmFRcGtKcmRieUJmRG5FQUhycFpPVTE3b0VYc2gyM3BfQjRXZ1E4ZmRJV3JBLS03Z09OZzFyLUxxbkdJaGJzcTRHaWt3WkVKaWRSUmpDenhtbzJyMnp3cVBhVWdDZA?oc=5",
+      "title": "Microsoft-Activision $250 Million Investor Settlement Paused",
       "summary": "",
-      "publishedAt": "2026-09-14T17:39:16.000Z",
-      "publisher": "Reuters",
+      "publishedAt": "2026-09-15T16:46:00.000Z",
+      "publisher": "Bloomberg Law News",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -563,16 +563,16 @@
       }
     },
     {
-      "id": "3c2d7e437595faae04365b43fe839d98a183bebb",
-      "company": "Microsoft",
+      "id": "74c7d91a65f0d8f4a7d407548177bb54fdd9fdc4",
+      "company": "OpenAI",
       "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU3NKblJyZmoydlJFaW1DOGJYMGsyTEZSM1ZqazFGOEkxZ0hWNi01bHI4R01SV0xzZFEzaUxjQ0ZMQ0UyY2FpV21OTHhXMjBQNG16dXhzR2VUakl3TDFzTE1hbW5jRDA3dlNESDg5d3dQaU1BbTJSUTM0cWdvR09ob0JZRlp0RjNES0Yza21wV2RtSkhtZ3B6azJ4NU9qVzROZ3hV?oc=5",
-      "title": "Apple and OpenAI face off in court over trade-secret fight",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ybVdqR2dsVjdsVm93c3dlUUlzRmQ3TEZPM0lyU25JbmtqTDQwdkpuUHpPV1hWZTg4YzlkN2JwTFA4MGo0WS15ZmpoZFpNQ2VyM2JaOW9mUzZqaGo2QjdlMGpjU213dlNzZF82eWlWU0RBdVZNdUk5UUNn?oc=5",
+      "title": "Apple takes OpenAI to court",
       "summary": "",
-      "publishedAt": "2026-09-14T16:19:02.000Z",
+      "publishedAt": "2026-09-14T20:00:18.000Z",
       "publisher": "CNBC",
       "discoveryMethod": "feed",
       "classification": {
@@ -582,17 +582,74 @@
       }
     },
     {
-      "id": "bea8da0dc1ec67611ea789e9b9af7a8007512983",
+      "id": "4edf36315fc0d40e5f0702b04fe23e58757b02f7",
       "company": "OpenAI",
       "sourceKind": "external",
       "sourceId": "external-openai-major",
       "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQekVKTUt4ekpsWjdxQXp3M3c0SjN0SkprVmZ2N0ZfX3lYQzdpdk5icDFpc1lyYXNJd3FVc0ZzNWRNUzJsMmh0UUZjd3NpZ1ZMS3lXOEJWNC1KNnJfUF9wbWtwM2JZbS1IY3E4MXJtRUV4MW0tRTllSTVJV1l5TW01ZzRFUEFycDhBS0hxZF9YSGx0UQ?oc=5",
-      "title": "Josh Hawley Says OpenAI Knew AI Agents Were Exhibiting ‘Rogue Behavior’ But ‘Let The Evaluations Continue Anyway’ After Hugging Face Breach",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5BeXItZEJoVERnRUczd25vMkNUSmZ4emk5YWZ1dVNqdlI3YlQwbjVRd1V4RnVJeHQzaUlVR3VrenRzRGtZZEswcTdqNzQ3aTRCd2JwS2oyUm5mcE5iOG9ILTBOd3Y0a1Vac1V5S1Yzd2t6d3d3OGVVNDQ4MmpweGs?oc=5",
+      "title": "Temporal worth $12.55b, OpenAI's camera acquisition, and DOD's tungsten buy",
       "summary": "",
-      "publishedAt": "2026-09-14T11:31:04.000Z",
-      "publisher": "Yahoo",
+      "publishedAt": "2026-09-14T19:08:01.000Z",
+      "publisher": "Axios",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "78ec933d8f3c9110a6b74409b1a00980245e1cd9",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking",
+      "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "summary": "Gemini 3.8 Live and Gemini 3.8 Live Extended Thinking are our most advanced live dialogue models yet, built for natural conversation.",
+      "publishedAt": "2026-09-15T17:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "d69ce8689fec53b094c78b69553446ae59b42cfb",
+      "company": "Meta",
+      "sourceKind": "official",
+      "sourceId": "meta-newsroom",
+      "sourceLabel": "Meta Newsroom",
+      "homepageUrl": "https://about.fb.com/news/",
+      "url": "https://about.fb.com/news/2026/09/introducing-meta-one-subscription-service-more-features-ai",
+      "title": "Introducing Meta One: A Subscription Service With More Features and AI to Create, Connect, and Stand Out",
+      "summary": "We're introducing Meta One, a new subscription service on Facebook, Instagram, WhatsApp, and Meta AI that offers more AI usage, enhanced expression features, and tools for creators and businesses. The post Introducing Meta One: A Subscription Service With More Features and AI to...",
+      "publishedAt": "2026-09-15T15:00:59.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "1549eb1a5be99bcb4cefdc79d60bcbac76d19c22",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOamtMaEl3OW04aFdDZXY3Q0tDMnRWWHNna3h1ak5HTi1INUZIX0h6R1g1Z0JKOC1NSkR1R3VCVUFzTktFR0g0T2V4QzNRQkgtRlZ4YUltRGc0eGdITDhCY3N4M1VaRU5Nd2w1TWJXMnNSNTZPRHBkTUwwM0lUZkhmU1VzNnhtUXl2TTlPcGJ3c2NabEhmTDA3RGNaMGtKTmQzZG1hdm1sbzBDRHlmYXNZZ9IBtgFBVV95cUxQRk56b2o1TFpzTnZKNGpOVm5QeUxNZzk4SC11d1FGUnNNX1ltU0lTaGdYQjB4Qjl5aExrTjVJQ0xpWlVVQ2tqdGE4UU1tajBRZWM5NWVMVXJvcU1zZFFGX254NzV3V3RSLUVUR0E0VVc5REZxM01WbE9IZi1FWkNiaW5VbGJXbmtsdXQyS3Z4d0FNd2VlSDdJRlZDRDJZQnp1dmhyc2hQVDBBMENxaUlYc05IcHhfQQ?oc=5",
+      "title": "Broadcom CEO addresses Anthropic's slowdown push, says AI revenue targets haven't changed",
+      "summary": "",
+      "publishedAt": "2026-09-14T22:43:25.000Z",
+      "publisher": "CNBC",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -601,16 +658,16 @@
       }
     },
     {
-      "id": "1e351f196ab0fbf615e88b60512a4c9492e078fd",
-      "company": "OpenAI",
+      "id": "ee88c667fc588c7717849f941269acf556756c1d",
+      "company": "Anthropic",
       "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTEMxeXVSa29wMkM4aVJMNWFSd3NTMUtXU1czYjVreEx0eGJyOXc3VGE0X1hlWVpPS2FzZ3huZWY1eHprdzI0Ykw4Y210WEk0SUNxdGRzZ043N1hYWTZ3c0Z1VWVKSGUtcjU0OElobHZjMEM3QlBYSVpQTWF2UFR2Q3JKd19vR1V0WGo3Yl9LSHR5NHNSSGo2Z1pRNkN2WURQVWpfLTBBc2ZTeFBGTWV1TE1Jcw?oc=5",
-      "title": "SoftBank Gets Upsized $11.9 Billion Loan in OpenAI Funding Push",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYjJTR0hmUkNIN1BKMWpFV2thWndQT3plLXg1YS02djlpTkZkS2dvd3gxR0dTZ1RoSEVwbVAxUUYxZUtjMzZqbzJqWU4tSGhHSEFWVmgwSVVPeU5kczlvdGphZDBvMGJEckdrYjNVUXRyV0NkRldYMm9wZE9EbFBaUnQ2MXVkdmN5TG5WeHZoM2YtbGxtTDZ2dXBGWTVva3pOWFN1UURWRjlkeFJtaktUcg?oc=5",
+      "title": "Tempus AI Founder Supports Anthropic CEO’s Call for Slowdown",
       "summary": "",
-      "publishedAt": "2026-09-14T01:42:00.000Z",
+      "publishedAt": "2026-09-14T20:25:12.000Z",
       "publisher": "Bloomberg.com",
       "discoveryMethod": "feed",
       "classification": {
@@ -620,35 +677,16 @@
       }
     },
     {
-      "id": "296d33defd03a1b2463973471461c0abc893e728",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/fyxer",
-      "title": "How Fyxer built an AI executive assistant people trust",
-      "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
-      "publishedAt": "2026-09-14T12:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "02c1b3eb0586dd4fe471a2dc215873ecf7513f63",
+      "id": "0921e310a4af9291204c75363eefe64ab4b50401",
       "company": "Google",
       "sourceKind": "official",
       "sourceId": "google-ai",
       "sourceLabel": "Google AI",
       "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/lea-county-new-mexico",
-      "title": "We’re exploring a potential data center in Lea County, New Mexico.",
-      "summary": "Google is exploring a new data center project in Lea County, New Mexico. While discussions are ongoing, we recognize residents are asking questions about data center dev…",
-      "publishedAt": "2026-09-14T14:00:00.000Z",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/wildfire-tracking-ai",
+      "title": "Ask a Scientist: How can researchers use AI to spot a wildfire?",
+      "summary": "Google Research is exploring how to use AI and satellites to scan the world every 20 minutes and catch wildfires the size of a car.",
+      "publishedAt": "2026-09-15T16:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -658,16 +696,16 @@
       }
     },
     {
-      "id": "61a0a9938bc7ed21aa59b7fd402c75c8fd7e379f",
-      "company": "Microsoft",
+      "id": "c95431380d57e63f4e841a76969599b53b6f0aea",
+      "company": "Google",
       "sourceKind": "official",
-      "sourceId": "microsoft-ai",
-      "sourceLabel": "Microsoft AI",
-      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
-      "url": "https://news.microsoft.com/source/emea/features/almost-half-47-of-irish-workers-say-they-are-considering-new-career-paths-as-ai-shapes-the-future-of-work-microsoft-ireland-study-finds",
-      "title": "Nearly half of Irish workers reassess careers as AI reshapes work",
-      "summary": "Nearly half of Irish workers reassess careers as AI reshapes work",
-      "publishedAt": "2026-09-14T18:30:55.000Z",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-real-time-voice-applications-gemini-audio",
+      "title": "Build real-time voice applications with Gemini 3.8 Live and 3.5 Transcribe",
+      "summary": "A look at how developers can build with our latest audio models, Gemini 3.8 Live, 3.8 Live Extended Thinking, and 3.5 Transcribe.",
+      "publishedAt": "2026-09-15T17:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -677,16 +715,54 @@
       }
     },
     {
-      "id": "2267286cfd5cc9d78b7ac89b4fb31cece96e283f",
+      "id": "6cacf6b9a4664d2b97f13565612e89e3fe1ac631",
       "company": "Google",
       "sourceKind": "official",
       "sourceId": "google-ai",
       "sourceLabel": "Google AI",
       "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026",
-      "title": "DevFest is back",
-      "summary": "DevFest 2026 is back and here’s how you can connect with one of the more than 800 global events to build, secure, and scale in the agentic AI era.",
-      "publishedAt": "2026-09-14T16:00:00.000Z",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/household-chores-tips",
+      "title": "4 ways to tackle household chores with Gemini",
+      "summary": "Here’s how Gemini can help you with household chores, like meal planning and fixing appliances.",
+      "publishedAt": "2026-09-15T16:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "98c36a850624dbc19c86ee35d4c7a31c907904b3",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language",
+      "title": "AI for everyone in every language",
+      "summary": "We’re moving beyond traditional text translation to build models that understand the world’s rich, living languages exactly as they are expressed.",
+      "publishedAt": "2026-09-15T16:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "149a852934bd635a33c55b141db3fd680abcf1e3",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact",
+      "title": "AI for Societal Impact",
+      "summary": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
+      "publishedAt": "2026-09-15T16:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {

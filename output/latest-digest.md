@@ -1,74 +1,104 @@
 # AI Company Watch
 
-Generated: Sep 14, 2026, 12:06 PM PDT
+Generated: Sep 15, 2026, 11:02 AM PDT
 Lookback window: 7 day(s)
 Sources checked: 12
-Items fetched: 30
+Items fetched: 34
 Items kept: 24
-New items: 8
-External items kept: 6
-Official items kept: 18
+New items: 12
+External items kept: 8
+Official items kept: 16
 
 ## Critical External News
 
-### OpenAI - US judge says she will stay on OpenAI case after divesting Microsoft stock
-Source: Major External News - OpenAI
-Publisher: Reuters
-Published: Sep 14, 2026
-Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQnQ3Z0dGR2RybDZWNUdpdWNULVRlUGkwRk9sTDhFYkhaS2dQakVSWnhuSnhqdXlvZVFpMmNPdE9NdU1BYThCMVdXOEo4T255MTRwVnFJRzNFeHlpeXlSWHU2NEZTbTB3ZVVyMzFJN3piMGs5OHZ6bjFwdmJid2R4VXpoTG5kMkM5czdXVmxTWUhzZ25LZzl3SXM4TnNPTHZubUxMb1NlalpiLWVaVklNb1dyOEFCSmRjMDQwN29vMEVrUQ?oc=5
-
-### Microsoft - Apple and OpenAI face off in court over trade-secret fight
+### Microsoft - Microsoft-Activision $250 Million Investor Settlement Paused
 Source: Major External News - Microsoft
+Publisher: Bloomberg Law News
+Published: Sep 15, 2026
+Why it matters: Corporate move or major external event
+Link: https://news.google.com/rss/articles/CBMipAFBVV95cUxNakx1aWJCcjVfT3lLdUtSUDREc0VSNW1qRDllb1NkRHdSeDQyOF80cDFqYXpQbDM0UndycmJxbHU2cGRULXBXdmFRcGtKcmRieUJmRG5FQUhycFpPVTE3b0VYc2gyM3BfQjRXZ1E4ZmRJV3JBLS03Z09OZzFyLUxxbkdJaGJzcTRHaWt3WkVKaWRSUmpDenhtbzJyMnp3cVBhVWdDZA?oc=5
+
+### OpenAI - Apple takes OpenAI to court
+Source: Major External News - OpenAI
 Publisher: CNBC
 Published: Sep 14, 2026
 Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMiowFBVV95cUxQU3NKblJyZmoydlJFaW1DOGJYMGsyTEZSM1ZqazFGOEkxZ0hWNi01bHI4R01SV0xzZFEzaUxjQ0ZMQ0UyY2FpV21OTHhXMjBQNG16dXhzR2VUakl3TDFzTE1hbW5jRDA3dlNESDg5d3dQaU1BbTJSUTM0cWdvR09ob0JZRlp0RjNES0Yza21wV2RtSkhtZ3B6azJ4NU9qVzROZ3hV?oc=5
+Link: https://news.google.com/rss/articles/CBMiekFVX3lxTE9ybVdqR2dsVjdsVm93c3dlUUlzRmQ3TEZPM0lyU25JbmtqTDQwdkpuUHpPV1hWZTg4YzlkN2JwTFA4MGo0WS15ZmpoZFpNQ2VyM2JaOW9mUzZqaGo2QjdlMGpjU213dlNzZF82eWlWU0RBdVZNdUk5UUNn?oc=5
+
+### OpenAI - Temporal worth $12.55b, OpenAI's camera acquisition, and DOD's tungsten buy
+Source: Major External News - OpenAI
+Publisher: Axios
+Published: Sep 14, 2026
+Why it matters: Corporate move or major external event
+Link: https://news.google.com/rss/articles/CBMif0FVX3lxTE5BeXItZEJoVERnRUczd25vMkNUSmZ4emk5YWZ1dVNqdlI3YlQwbjVRd1V4RnVJeHQzaUlVR3VrenRzRGtZZEswcTdqNzQ3aTRCd2JwS2oyUm5mcE5iOG9ILTBOd3Y0a1Vac1V5S1Yzd2t6d3d3OGVVNDQ4MmpweGs?oc=5
 
 ## Important External News
 
-### OpenAI - Josh Hawley Says OpenAI Knew AI Agents Were Exhibiting ‘Rogue Behavior’ But ‘Let The Evaluations Continue Anyway’ After Hugging Face Breach
-Source: Major External News - OpenAI
-Publisher: Yahoo
+### Anthropic - Broadcom CEO addresses Anthropic's slowdown push, says AI revenue targets haven't changed
+Source: Major External News - Anthropic
+Publisher: CNBC
 Published: Sep 14, 2026
 Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMikgFBVV95cUxQekVKTUt4ekpsWjdxQXp3M3c0SjN0SkprVmZ2N0ZfX3lYQzdpdk5icDFpc1lyYXNJd3FVc0ZzNWRNUzJsMmh0UUZjd3NpZ1ZMS3lXOEJWNC1KNnJfUF9wbWtwM2JZbS1IY3E4MXJtRUV4MW0tRTllSTVJV1l5TW01ZzRFUEFycDhBS0hxZF9YSGx0UQ?oc=5
+Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxOamtMaEl3OW04aFdDZXY3Q0tDMnRWWHNna3h1ak5HTi1INUZIX0h6R1g1Z0JKOC1NSkR1R3VCVUFzTktFR0g0T2V4QzNRQkgtRlZ4YUltRGc0eGdITDhCY3N4M1VaRU5Nd2w1TWJXMnNSNTZPRHBkTUwwM0lUZkhmU1VzNnhtUXl2TTlPcGJ3c2NabEhmTDA3RGNaMGtKTmQzZG1hdm1sbzBDRHlmYXNZZ9IBtgFBVV95cUxQRk56b2o1TFpzTnZKNGpOVm5QeUxNZzk4SC11d1FGUnNNX1ltU0lTaGdYQjB4Qjl5aExrTjVJQ0xpWlVVQ2tqdGE4UU1tajBRZWM5NWVMVXJvcU1zZFFGX254NzV3V3RSLUVUR0E0VVc5REZxM01WbE9IZi1FWkNiaW5VbGJXbmtsdXQyS3Z4d0FNd2VlSDdJRlZDRDJZQnp1dmhyc2hQVDBBMENxaUlYc05IcHhfQQ?oc=5
 
-### OpenAI - SoftBank Gets Upsized $11.9 Billion Loan in OpenAI Funding Push
-Source: Major External News - OpenAI
+### Anthropic - Tempus AI Founder Supports Anthropic CEO’s Call for Slowdown
+Source: Major External News - Anthropic
 Publisher: Bloomberg.com
-Published: Sep 13, 2026
+Published: Sep 14, 2026
 Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxNTEMxeXVSa29wMkM4aVJMNWFSd3NTMUtXU1czYjVreEx0eGJyOXc3VGE0X1hlWVpPS2FzZ3huZWY1eHprdzI0Ykw4Y210WEk0SUNxdGRzZ043N1hYWTZ3c0Z1VWVKSGUtcjU0OElobHZjMEM3QlBYSVpQTWF2UFR2Q3JKd19vR1V0WGo3Yl9LSHR5NHNSSGo2Z1pRNkN2WURQVWpfLTBBc2ZTeFBGTWV1TE1Jcw?oc=5
+Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxNYjJTR0hmUkNIN1BKMWpFV2thWndQT3plLXg1YS02djlpTkZkS2dvd3gxR0dTZ1RoSEVwbVAxUUYxZUtjMzZqbzJqWU4tSGhHSEFWVmgwSVVPeU5kczlvdGphZDBvMGJEckdrYjNVUXRyV0NkRldYMm9wZE9EbFBaUnQ2MXVkdmN5TG5WeHZoM2YtbGxtTDZ2dXBGWTVva3pOWFN1UURWRjlkeFJtaktUcg?oc=5
+
+## Critical Official Updates
+
+### Google - Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking
+Source: Google AI
+Published: Sep 15, 2026
+Why it matters: Flagship model or product launch
+Summary: Gemini 3.8 Live and Gemini 3.8 Live Extended Thinking are our most advanced live dialogue models yet, built for natural conversation.
+Link: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking
+
+### Meta - Introducing Meta One: A Subscription Service With More Features and AI to Create, Connect, and Stand Out
+Source: Meta Newsroom
+Published: Sep 15, 2026
+Why it matters: Flagship model or product launch
+Summary: We're introducing Meta One, a new subscription service on Facebook, Instagram, WhatsApp, and Meta AI that offers more AI usage, enhanced expression features, and tools for creators and businesses. The post Introducing Meta One: A Subscription Service With More Features and AI to...
+Link: https://about.fb.com/news/2026/09/introducing-meta-one-subscription-service-more-features-ai
 
 ## Important Official Updates
 
-### OpenAI - How Fyxer built an AI executive assistant people trust
-Source: OpenAI Newsroom
-Published: Sep 14, 2026
-Why it matters: Safety, security, or policy update
-Summary: Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.
-Link: https://openai.com/index/fyxer
-
-### Google - We’re exploring a potential data center in Lea County, New Mexico.
+### Google - Ask a Scientist: How can researchers use AI to spot a wildfire?
 Source: Google AI
-Published: Sep 14, 2026
+Published: Sep 15, 2026
 Why it matters: Technical or research update
-Summary: Google is exploring a new data center project in Lea County, New Mexico. While discussions are ongoing, we recognize residents are asking questions about data center dev…
-Link: https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/lea-county-new-mexico
+Summary: Google Research is exploring how to use AI and satellites to scan the world every 20 minutes and catch wildfires the size of a car.
+Link: https://blog.google/innovation-and-ai/models-and-research/google-research/wildfire-tracking-ai
 
 ## Official Company Updates
 
-### Microsoft - Nearly half of Irish workers reassess careers as AI reshapes work
-Source: Microsoft AI
-Published: Sep 14, 2026
-Why it matters: Routine official update
-Summary: Nearly half of Irish workers reassess careers as AI reshapes work
-Link: https://news.microsoft.com/source/emea/features/almost-half-47-of-irish-workers-say-they-are-considering-new-career-paths-as-ai-shapes-the-future-of-work-microsoft-ireland-study-finds
-
-### Google - DevFest is back
+### Google - Build real-time voice applications with Gemini 3.8 Live and 3.5 Transcribe
 Source: Google AI
-Published: Sep 14, 2026
+Published: Sep 15, 2026
 Why it matters: Routine official update
-Summary: DevFest 2026 is back and here’s how you can connect with one of the more than 800 global events to build, secure, and scale in the agentic AI era.
-Link: https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026
+Summary: A look at how developers can build with our latest audio models, Gemini 3.8 Live, 3.8 Live Extended Thinking, and 3.5 Transcribe.
+Link: https://blog.google/innovation-and-ai/technology/developers-tools/build-real-time-voice-applications-gemini-audio
+
+### Google - 4 ways to tackle household chores with Gemini
+Source: Google AI
+Published: Sep 15, 2026
+Why it matters: Routine official update
+Summary: Here’s how Gemini can help you with household chores, like meal planning and fixing appliances.
+Link: https://blog.google/innovation-and-ai/products/gemini-app/household-chores-tips
+
+### Google - AI for everyone in every language
+Source: Google AI
+Published: Sep 15, 2026
+Why it matters: Routine official update
+Summary: We’re moving beyond traditional text translation to build models that understand the world’s rich, living languages exactly as they are expressed.
+Link: https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language
+
+### Google - AI for Societal Impact
+Source: Google AI
+Published: Sep 15, 2026
+Why it matters: Routine official update
+Summary: Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.
+Link: https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact
