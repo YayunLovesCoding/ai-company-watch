@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T18:02:06.063Z",
+  "generatedAt": "2026-09-16T18:00:45.208Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -76,45 +76,26 @@
     }
   ],
   "totals": {
-    "fetched": 34,
+    "fetched": 36,
     "deduped": 24,
-    "new": 12,
+    "new": 15,
     "byKind": {
-      "official": 16,
-      "external": 8
+      "official": 13,
+      "external": 11
     }
   },
   "items": [
     {
-      "id": "30d312de12ccf117d3bafc8a912ece7f77fe3475",
-      "company": "Microsoft",
+      "id": "b2cb67b42b3d410d41d2cf1c39748099c733bda1",
+      "company": "Anthropic",
       "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNakx1aWJCcjVfT3lLdUtSUDREc0VSNW1qRDllb1NkRHdSeDQyOF80cDFqYXpQbDM0UndycmJxbHU2cGRULXBXdmFRcGtKcmRieUJmRG5FQUhycFpPVTE3b0VYc2gyM3BfQjRXZ1E4ZmRJV3JBLS03Z09OZzFyLUxxbkdJaGJzcTRHaWt3WkVKaWRSUmpDenhtbzJyMnp3cVBhVWdDZA?oc=5",
-      "title": "Microsoft-Activision $250 Million Investor Settlement Paused",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRzN6S3pPZWJHQ053WjBZRU9ESm41d3g1ck9rQk5HZi05WmZZMkdKWWRaOGxYa0p0M3dDWnl6RnFRb2pwODR4WGwtcC1TSUpYR2cxM0hkQURheXM1V21KZW45ZXpVM0FSUVVUVHItY3J4elU4dUdCeXlTMl9TelFtVWQySUdpTXAtVzhVYkdlN1pnUnluY0Uta2JGOWNqeHFEV18wMGkzWjFUcnNPQmNtTFd4dk93WkFJeklj?oc=5",
+      "title": "Novo partners with Anthropic to speed up drug development with Claude",
       "summary": "",
-      "publishedAt": "2026-09-15T16:46:00.000Z",
-      "publisher": "Bloomberg Law News",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "3b0037906c48ce656d31bcab130150b0ce7d88ef",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQnQ3Z0dGR2RybDZWNUdpdWNULVRlUGkwRk9sTDhFYkhaS2dQakVSWnhuSnhqdXlvZVFpMmNPdE9NdU1BYThCMVdXOEo4T255MTRwVnFJRzNFeHlpeXlSWHU2NEZTbTB3ZVVyMzFJN3piMGs5OHZ6bjFwdmJid2R4VXpoTG5kMkM5czdXVmxTWUhzZ25LZzl3SXM4TnNPTHZubUxMb1NlalpiLWVaVklNb1dyOEFCSmRjMDQwN29vMEVrUQ?oc=5",
-      "title": "US judge says she will stay on OpenAI case after divesting Microsoft stock",
-      "summary": "",
-      "publishedAt": "2026-09-14T22:12:31.000Z",
+      "publishedAt": "2026-09-16T14:01:40.000Z",
       "publisher": "Reuters",
       "discoveryMethod": "feed",
       "classification": {
@@ -124,16 +105,35 @@
       }
     },
     {
-      "id": "74c7d91a65f0d8f4a7d407548177bb54fdd9fdc4",
-      "company": "OpenAI",
+      "id": "c81305e068b8c2ae072c81bc7f8d6c38d2310db6",
+      "company": "Microsoft",
       "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ybVdqR2dsVjdsVm93c3dlUUlzRmQ3TEZPM0lyU25JbmtqTDQwdkpuUHpPV1hWZTg4YzlkN2JwTFA4MGo0WS15ZmpoZFpNQ2VyM2JaOW9mUzZqaGo2QjdlMGpjU213dlNzZF82eWlWU0RBdVZNdUk5UUNn?oc=5",
-      "title": "Apple takes OpenAI to court",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUmIxai1SaXJ4aWQ1VFUwTEhIZW5mTU1oNEV1b1hmME5aWXV5UXVoUWhfU0x4bHZxTm81eVBXcnZHTmFRT0VsWDRlN3lkM2V2ZWJwcDBZZmc3eXZRTjNlUWZSb3dRd1pKV3dFT3lTZ2ZDOEFHY2FwT1Z5blVVbDZXeGZsUjdUc3ZLaXA3a2oxbTdJcWQxVmVURUZEWk15WmF4TFE?oc=5",
+      "title": "Microsoft-Activision’s Settlement on Hold: Delaware Brief",
       "summary": "",
-      "publishedAt": "2026-09-14T20:00:18.000Z",
+      "publishedAt": "2026-09-16T12:06:00.000Z",
+      "publisher": "news.bloomberglaw.com",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "a92c9afeb4f2dd87721fc96757045f25928cae04",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE44RHpQWkxyODlqZFVxWEs5TjRrN2ZWMktZUGRyWERQMURrUEZSWk53QXRpRURxcmJtMVJvcmIzWTY5Unk3VVBlRThad2J0YVhJcFRkSVdOUlNvU3Jvbzh1anRPTGU3SGZnUXZOOE5GcWtQOXpPMldaR1hCTdIBgAFBVV95cUxNZ1VaYzZvQzNWOHQwX3Vfc1BraXpSRU91R2E5ZWVoSUhaZjNZQ1BfT1hUaFU5aEI5cF95UHE1V3VWX1ExcGpQR2NXc2JsSUJzWGFGRjU3TC1waW1hM0FmbTNRS2c2UlZVcWk3bmxudUNBbXBVYWJDVHRLRm9meG1zQg?oc=5",
+      "title": "Nvidia's Huang rips Anthropic's proposal for AI safety antitrust waiver: 'Completely unnecessary'",
+      "summary": "",
+      "publishedAt": "2026-09-15T22:13:52.000Z",
       "publisher": "CNBC",
       "discoveryMethod": "feed",
       "classification": {
@@ -143,17 +143,17 @@
       }
     },
     {
-      "id": "4edf36315fc0d40e5f0702b04fe23e58757b02f7",
-      "company": "OpenAI",
+      "id": "0d8fba7ceb11739181e70028d40dadbfc68ea374",
+      "company": "Anthropic",
       "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5BeXItZEJoVERnRUczd25vMkNUSmZ4emk5YWZ1dVNqdlI3YlQwbjVRd1V4RnVJeHQzaUlVR3VrenRzRGtZZEswcTdqNzQ3aTRCd2JwS2oyUm5mcE5iOG9ILTBOd3Y0a1Vac1V5S1Yzd2t6d3d3OGVVNDQ4MmpweGs?oc=5",
-      "title": "Temporal worth $12.55b, OpenAI's camera acquisition, and DOD's tungsten buy",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcW5iX2FHX2VuNXJnMlB2UGt5cEQ4cWhXYl92TGFvQVljSVVfem1BZzcwZzBlbzlzNXl4X1hjbDlHYXhRcHZfa3QzcXBQWmRUQ2hLMlNKSmV6OGdOUjE5Qk1yOW5xWEZJM2NuOE1KVnVVN1hsTHBsWFljNG80VE5CR0R5Ylo2OWNrUzljR29lVWlzRGwwaUEzNEItVk1id3czWFJQcTdCUllja1hQZVhnS1A5Sm1aeWVCNElyU0tlT0NKNmlSWWpBemNn?oc=5",
+      "title": "Dynasty CEO on Anthropic partnership: Empowering advisors to be able to help more people",
       "summary": "",
-      "publishedAt": "2026-09-14T19:08:01.000Z",
-      "publisher": "Axios",
+      "publishedAt": "2026-09-15T20:21:09.000Z",
+      "publisher": "CNBC",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -162,11 +162,30 @@
       }
     },
     {
-      "id": "3c2d7e437595faae04365b43fe839d98a183bebb",
+      "id": "09a8a788b39b652b944bdd16953e1096bbf616bb",
       "company": "OpenAI",
       "sourceKind": "external",
       "sourceId": "external-openai-major",
       "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOLVBlaUM4Q2N4WkZxOE9yc3BJbmpuTXBoTGdhMzRkM3ptLTl4U1VFa01VUTdIT1p5Q1BqcnV0b2lYMURFTUtuNFNkak1QMk94QkUySl9QVDZKSExzQjZQMTFPWlg4UWJkR19OcUdqVzFKVkRPbXlIdWJiNzZFNmUwOFZIVW5JV3ZuQzUxXw?oc=5",
+      "title": "US Futures Advance Before Fed Announcement as Crude Retreats and OpenAI Funding Talks Emerge: Dow Jones, S&P, Nasdaq, Wall Street",
+      "summary": "",
+      "publishedAt": "2026-09-16T09:41:31.000Z",
+      "publisher": "Yahoo Finance UK",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "3c2d7e437595faae04365b43fe839d98a183bebb",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
       "homepageUrl": "https://news.google.com/",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU3NKblJyZmoydlJFaW1DOGJYMGsyTEZSM1ZqazFGOEkxZ0hWNi01bHI4R01SV0xzZFEzaUxjQ0ZMQ0UyY2FpV21OTHhXMjBQNG16dXhzR2VUakl3TDFzTE1hbW5jRDA3dlNESDg5d3dQaU1BbTJSUTM0cWdvR09ob0JZRlp0RjNES0Yza21wV2RtSkhtZ3B6azJ4NU9qVzROZ3hV?oc=5",
       "title": "Apple and OpenAI face off in court over trade-secret fight",
@@ -176,7 +195,7 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 7,
+        "score": 6,
         "reason": "Corporate move or major external event"
       }
     },
@@ -219,22 +238,79 @@
       }
     },
     {
-      "id": "a18697a7882d9b1442c7b16ef16821f37ddf68e7",
-      "company": "Meta",
-      "sourceKind": "official",
-      "sourceId": "meta-newsroom",
-      "sourceLabel": "Meta Newsroom",
-      "homepageUrl": "https://about.fb.com/news/",
-      "url": "https://about.fb.com/news/2026/08/nabtu-and-meta-partnership-to-invest-in-skilled-trades-for-ai-era",
-      "title": "NABTU and Meta Announce New Partnership to Invest In Skilled Trades for the AI Era",
+      "id": "533f62d46776ea838a35e64951ccae63783daa35",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAwVmMyTTNYcnd6MXVLY2lGeGZlbFhDT3p3V3UwdVZGcWZualBNM2tJckJwUURtdVZKS2VQS1BVblpyaUVQdEF1U2dhV3o0Y3NzNlJ2NHRqUHd1OVZ0UlJfTVhWSURtSWk4eklTZmxDeUxqN2Vk?oc=5",
+      "title": "OpenAI strikes first news deal in Canada",
       "summary": "",
-      "publishedAt": null,
-      "publisher": "",
-      "discoveryMethod": "anchor",
+      "publishedAt": "2026-09-16T13:34:51.000Z",
+      "publisher": "Axios",
+      "discoveryMethod": "feed",
       "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Corporate move or major external event"
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "8ed586b0753326efb41b1b53b4fbf6eb8fe36e8f",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBGc3RZU2Itc3hnczJFeUhtYnpXaGFoN1E2enhzV0htUnVnazlzaXhjWGVHX19nQmZjRzdyLTJRMVlHUVpVU090clI5QzZlRHpoTlpGNXhsM1FEMFB6ZUpERkNLVFVaNDRjWjJLQ0ZyN3BDTUEtOFM0WWJUQlfSAYIBQVVfeXFMUGlleTIyWHgwUVEwYWlKMmhkZDlVZlU4Y00wVmlOT3FMSFpPZmQxQ0FRQmM2aHVSeThhX1dqQ0UzUVp5aGsxQ1FYRTd1eEFVVEtoVjNzVWVQUTJEV1d3M0pueFh5T3ZPTGpWOVdWOEZTaXJHNXA0eEJ4R1htMFc4YnZsZw?oc=5",
+      "title": "OpenAI investors have approached the company about a new funding round",
+      "summary": "",
+      "publishedAt": "2026-09-16T13:16:31.000Z",
+      "publisher": "CNBC",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "32555a9229255c210fbcaea7c59a9f7ea0bc0673",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeGtTemxlTUZvUl8tTWZvTDgzMjdlSERCQk0wbTJIUWVsSlNRWmVrV1pMQXpFSkJFb0plZjRoaDBGeUNXbm8tcUloNVcyZngwQ3JSZG1MOTdDaWFhRjdndDdkWnQydFU1S1NoTE43SHh4QmN0MHNJY3FDVzNqZEN4Zk1SWlpLTEtOcS1MOTRUSVA?oc=5",
+      "title": "OpenAI IPO looks like a no-go: Sam Altman is discussing a new round of VC funding valuing the company at $1.2 trillion",
+      "summary": "",
+      "publishedAt": "2026-09-16T09:28:00.000Z",
+      "publisher": "Fortune",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "697438133a6da29984a620e0fccbc824c7f85a37",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOc3hqMlQtdi1BT1QzTGs4U1BVXzcxb05pRnpHMjI4RjBFekZBQ2lQSVZRTURaN1h3eGlZN0pCdmY1UzdwQzlNeldrMXh0YTFkZmxsdVBmV211YmdwZWIxTTAya1VpLUdtbGNRZkZZbFBVUklUVnVzd1NZRHpSTkpTZ3pWUGhQMmVzaW1qZDYydE83eTBNb3c4T2duTEw2dWx5WUVjZXVTX1Ixb25LR2ExRHlQTDltNWVrLW5KOExsdjJCaFE?oc=5",
+      "title": "OpenAI mulls funding round at $1.2 trillion valuation ahead of IPO, FT reports",
+      "summary": "",
+      "publishedAt": "2026-09-15T22:48:56.000Z",
+      "publisher": "Reuters",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
       }
     },
     {
@@ -257,22 +333,60 @@
       }
     },
     {
-      "id": "ee88c667fc588c7717849f941269acf556756c1d",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYjJTR0hmUkNIN1BKMWpFV2thWndQT3plLXg1YS02djlpTkZkS2dvd3gxR0dTZ1RoSEVwbVAxUUYxZUtjMzZqbzJqWU4tSGhHSEFWVmgwSVVPeU5kczlvdGphZDBvMGJEckdrYjNVUXRyV0NkRldYMm9wZE9EbFBaUnQ2MXVkdmN5TG5WeHZoM2YtbGxtTDZ2dXBGWTVva3pOWFN1UURWRjlkeFJtaktUcg?oc=5",
-      "title": "Tempus AI Founder Supports Anthropic CEO’s Call for Slowdown",
+      "id": "191d42d3c06b4476cc90ffa6e824bdb6cc5dce6b",
+      "company": "Meta",
+      "sourceKind": "official",
+      "sourceId": "meta-newsroom",
+      "sourceLabel": "Meta Newsroom",
+      "homepageUrl": "https://about.fb.com/news/",
+      "url": "https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent",
+      "title": "Introducing Muse: The World’s First Personal AI Agent Built for Everyone",
       "summary": "",
-      "publishedAt": "2026-09-14T20:25:12.000Z",
-      "publisher": "Bloomberg.com",
-      "discoveryMethod": "feed",
+      "publishedAt": null,
+      "publisher": "",
+      "discoveryMethod": "anchor",
       "classification": {
         "bucket": "important",
         "score": 4,
-        "reason": "Trusted external coverage"
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "3d0f7cb659e2066ec7c9e0ac0a45268d940f01b0",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/technology/families/teens-ai-research-findings",
+      "title": "5 things to know about teens' views on AI today",
+      "summary": "Findings from our research with RXN show teens are thoughtful and curious about AI.",
+      "publishedAt": "2026-09-16T15:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Technical or research update"
+      }
+    },
+    {
+      "id": "71646fffd914b4964a5115ce29a926b304e95bf4",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/unlocking-new-ways-of-working",
+      "title": "How workers are unlocking new ways of working",
+      "summary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
+      "publishedAt": "2026-09-16T09:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Technical or research update"
       }
     },
     {
@@ -290,65 +404,8 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
-        "score": 4,
+        "score": 3,
         "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "191d42d3c06b4476cc90ffa6e824bdb6cc5dce6b",
-      "company": "Meta",
-      "sourceKind": "official",
-      "sourceId": "meta-newsroom",
-      "sourceLabel": "Meta Newsroom",
-      "homepageUrl": "https://about.fb.com/news/",
-      "url": "https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent",
-      "title": "Introducing Muse: The World’s First Personal AI Agent Built for Everyone",
-      "summary": "Muse is a secure, private personal AI agent that proactively helps people meet their goals and suggests ideas. The post Introducing Muse: The World’s First Personal AI Agent Built for Everyone",
-      "publishedAt": "2026-09-08T19:00:51.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "a2e2d19ed441dd83882f1a852b2c4157111c509a",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMzhPUFFiMnJTYm9qU2hxbXlzT0RXdktYdzRiVHlCQURVLUFGQkRHWm5hY1ptdGJvRnhTUXFpSzdRWkhZT1E0VTV4VVRqZ2JlV2JZVFVpMkNPY1h2SVdCb3BDRXJwSjJVM0ExZ3RWRndJczEtQVBwRHZlTnQ3aUdiaFdyTXZ6QWdwUUMyZS14VWxuUHltaDhOYw?oc=5",
-      "title": "Amazon, Meta and Google Confront Data Center Backlash",
-      "summary": "",
-      "publishedAt": "2026-09-10T12:00:46.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "0921e310a4af9291204c75363eefe64ab4b50401",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/wildfire-tracking-ai",
-      "title": "Ask a Scientist: How can researchers use AI to spot a wildfire?",
-      "summary": "Google Research is exploring how to use AI and satellites to scan the world every 20 minutes and catch wildfires the size of a car.",
-      "publishedAt": "2026-09-15T16:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Technical or research update"
       }
     },
     {
@@ -390,6 +447,82 @@
       }
     },
     {
+      "id": "5b258133c86f274bd175c87f8d7079ee68e777e7",
+      "company": "Meta",
+      "sourceKind": "official",
+      "sourceId": "meta-newsroom",
+      "sourceLabel": "Meta Newsroom",
+      "homepageUrl": "https://about.fb.com/news/",
+      "url": "https://about.fb.com/news/2026/09/canadian-start-up-smartarm-uses-ai-to-create-intuitive-bionic-prosthetics",
+      "title": "Canadian Start-up smartARM Uses AI to Create Intuitive Bionic Prosthetics",
+      "summary": "People and companies are using AI hardware and software to make life easier and more accessible for everyone. That’s the case with smartARM, a Toronto-based startup developing a vision-first bionic arm prototype that uses open-source software, with Meta AI glasses as an optional...",
+      "publishedAt": "2026-09-16T16:00:19.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "027811ca1632d0f58ec6aef4b1b0aab0357f132b",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+      "title": "Helping older adults use AI in everyday life",
+      "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
+      "publishedAt": "2026-09-16T16:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "52752974efc060afa422288cf05c3cab7e220271",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/reimagining-advertising-with-ai",
+      "title": "Reimagining advertising with AI",
+      "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+      "publishedAt": "2026-09-16T13:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "51385449c8dc31f6066d1d988e8e62026ffb594c",
+      "company": "Microsoft",
+      "sourceKind": "official",
+      "sourceId": "microsoft-ai",
+      "sourceLabel": "Microsoft AI",
+      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
+      "url": "https://news.microsoft.com/source/asia/2026/09/14/the-new-media-movement-how-the-copilot-creators-collective-is-shaping-the-future-of-creativity-and-ai-literacy",
+      "title": "How the Copilot Creators Collective is shaping the future of creativity and AI literacy",
+      "summary": "How the Copilot Creators Collective is shaping the future of creativity and AI literacy",
+      "publishedAt": "2026-09-15T18:28:17.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
+      }
+    },
+    {
       "id": "c95431380d57e63f4e841a76969599b53b6f0aea",
       "company": "Google",
       "sourceKind": "official",
@@ -407,154 +540,40 @@
         "score": 2,
         "reason": "Routine official update"
       }
-    },
-    {
-      "id": "6cacf6b9a4664d2b97f13565612e89e3fe1ac631",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/household-chores-tips",
-      "title": "4 ways to tackle household chores with Gemini",
-      "summary": "Here’s how Gemini can help you with household chores, like meal planning and fixing appliances.",
-      "publishedAt": "2026-09-15T16:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "98c36a850624dbc19c86ee35d4c7a31c907904b3",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language",
-      "title": "AI for everyone in every language",
-      "summary": "We’re moving beyond traditional text translation to build models that understand the world’s rich, living languages exactly as they are expressed.",
-      "publishedAt": "2026-09-15T16:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "149a852934bd635a33c55b141db3fd680abcf1e3",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact",
-      "title": "AI for Societal Impact",
-      "summary": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
-      "publishedAt": "2026-09-15T16:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "61a0a9938bc7ed21aa59b7fd402c75c8fd7e379f",
-      "company": "Microsoft",
-      "sourceKind": "official",
-      "sourceId": "microsoft-ai",
-      "sourceLabel": "Microsoft AI",
-      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
-      "url": "https://news.microsoft.com/source/emea/features/almost-half-47-of-irish-workers-say-they-are-considering-new-career-paths-as-ai-shapes-the-future-of-work-microsoft-ireland-study-finds",
-      "title": "Nearly half of Irish workers reassess careers as AI reshapes work",
-      "summary": "Nearly half of Irish workers reassess careers as AI reshapes work",
-      "publishedAt": "2026-09-14T18:30:55.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "12e9dd6851803557bf5ad9fd2920e7fa2e644576",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-      "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
-      "publishedAt": "2026-09-14T00:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "97cd97d27d220f15f9bc8a69f1f4b5eea602a9e8",
-      "company": "Anthropic",
-      "sourceKind": "official",
-      "sourceId": "anthropic-engineering",
-      "sourceLabel": "Anthropic Engineering",
-      "homepageUrl": "https://www.anthropic.com/engineering",
-      "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
-      "title": "Featured How we contain Claude across products As agents grow more capable, so does their potential blast radius. The engineering question is how to cap it. Here’s what we’ve learned building containment for claude.ai, Claude Code, and Cowork.",
-      "summary": "",
-      "publishedAt": null,
-      "publisher": "",
-      "discoveryMethod": "anchor",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Technical or research update"
-      }
-    },
-    {
-      "id": "c3aa33826442d0f0cc3fa5d142dd086e756ace1e",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/cognition-devin-testing-with-astra",
-      "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
-      "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
-      "publishedAt": "2026-09-11T16:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
     }
   ],
   "newItems": [
     {
-      "id": "30d312de12ccf117d3bafc8a912ece7f77fe3475",
+      "id": "b2cb67b42b3d410d41d2cf1c39748099c733bda1",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRzN6S3pPZWJHQ053WjBZRU9ESm41d3g1ck9rQk5HZi05WmZZMkdKWWRaOGxYa0p0M3dDWnl6RnFRb2pwODR4WGwtcC1TSUpYR2cxM0hkQURheXM1V21KZW45ZXpVM0FSUVVUVHItY3J4elU4dUdCeXlTMl9TelFtVWQySUdpTXAtVzhVYkdlN1pnUnluY0Uta2JGOWNqeHFEV18wMGkzWjFUcnNPQmNtTFd4dk93WkFJeklj?oc=5",
+      "title": "Novo partners with Anthropic to speed up drug development with Claude",
+      "summary": "",
+      "publishedAt": "2026-09-16T14:01:40.000Z",
+      "publisher": "Reuters",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "c81305e068b8c2ae072c81bc7f8d6c38d2310db6",
       "company": "Microsoft",
       "sourceKind": "external",
       "sourceId": "external-microsoft-major",
       "sourceLabel": "Major External News - Microsoft",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNakx1aWJCcjVfT3lLdUtSUDREc0VSNW1qRDllb1NkRHdSeDQyOF80cDFqYXpQbDM0UndycmJxbHU2cGRULXBXdmFRcGtKcmRieUJmRG5FQUhycFpPVTE3b0VYc2gyM3BfQjRXZ1E4ZmRJV3JBLS03Z09OZzFyLUxxbkdJaGJzcTRHaWt3WkVKaWRSUmpDenhtbzJyMnp3cVBhVWdDZA?oc=5",
-      "title": "Microsoft-Activision $250 Million Investor Settlement Paused",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUmIxai1SaXJ4aWQ1VFUwTEhIZW5mTU1oNEV1b1hmME5aWXV5UXVoUWhfU0x4bHZxTm81eVBXcnZHTmFRT0VsWDRlN3lkM2V2ZWJwcDBZZmc3eXZRTjNlUWZSb3dRd1pKV3dFT3lTZ2ZDOEFHY2FwT1Z5blVVbDZXeGZsUjdUc3ZLaXA3a2oxbTdJcWQxVmVURUZEWk15WmF4TFE?oc=5",
+      "title": "Microsoft-Activision’s Settlement on Hold: Delaware Brief",
       "summary": "",
-      "publishedAt": "2026-09-15T16:46:00.000Z",
-      "publisher": "Bloomberg Law News",
+      "publishedAt": "2026-09-16T12:06:00.000Z",
+      "publisher": "news.bloomberglaw.com",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -563,16 +582,16 @@
       }
     },
     {
-      "id": "74c7d91a65f0d8f4a7d407548177bb54fdd9fdc4",
-      "company": "OpenAI",
+      "id": "a92c9afeb4f2dd87721fc96757045f25928cae04",
+      "company": "Anthropic",
       "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ybVdqR2dsVjdsVm93c3dlUUlzRmQ3TEZPM0lyU25JbmtqTDQwdkpuUHpPV1hWZTg4YzlkN2JwTFA4MGo0WS15ZmpoZFpNQ2VyM2JaOW9mUzZqaGo2QjdlMGpjU213dlNzZF82eWlWU0RBdVZNdUk5UUNn?oc=5",
-      "title": "Apple takes OpenAI to court",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE44RHpQWkxyODlqZFVxWEs5TjRrN2ZWMktZUGRyWERQMURrUEZSWk53QXRpRURxcmJtMVJvcmIzWTY5Unk3VVBlRThad2J0YVhJcFRkSVdOUlNvU3Jvbzh1anRPTGU3SGZnUXZOOE5GcWtQOXpPMldaR1hCTdIBgAFBVV95cUxNZ1VaYzZvQzNWOHQwX3Vfc1BraXpSRU91R2E5ZWVoSUhaZjNZQ1BfT1hUaFU5aEI5cF95UHE1V3VWX1ExcGpQR2NXc2JsSUJzWGFGRjU3TC1waW1hM0FmbTNRS2c2UlZVcWk3bmxudUNBbXBVYWJDVHRLRm9meG1zQg?oc=5",
+      "title": "Nvidia's Huang rips Anthropic's proposal for AI safety antitrust waiver: 'Completely unnecessary'",
       "summary": "",
-      "publishedAt": "2026-09-14T20:00:18.000Z",
+      "publishedAt": "2026-09-15T22:13:52.000Z",
       "publisher": "CNBC",
       "discoveryMethod": "feed",
       "classification": {
@@ -582,73 +601,73 @@
       }
     },
     {
-      "id": "4edf36315fc0d40e5f0702b04fe23e58757b02f7",
+      "id": "0d8fba7ceb11739181e70028d40dadbfc68ea374",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcW5iX2FHX2VuNXJnMlB2UGt5cEQ4cWhXYl92TGFvQVljSVVfem1BZzcwZzBlbzlzNXl4X1hjbDlHYXhRcHZfa3QzcXBQWmRUQ2hLMlNKSmV6OGdOUjE5Qk1yOW5xWEZJM2NuOE1KVnVVN1hsTHBsWFljNG80VE5CR0R5Ylo2OWNrUzljR29lVWlzRGwwaUEzNEItVk1id3czWFJQcTdCUllja1hQZVhnS1A5Sm1aeWVCNElyU0tlT0NKNmlSWWpBemNn?oc=5",
+      "title": "Dynasty CEO on Anthropic partnership: Empowering advisors to be able to help more people",
+      "summary": "",
+      "publishedAt": "2026-09-15T20:21:09.000Z",
+      "publisher": "CNBC",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "09a8a788b39b652b944bdd16953e1096bbf616bb",
       "company": "OpenAI",
       "sourceKind": "external",
       "sourceId": "external-openai-major",
       "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5BeXItZEJoVERnRUczd25vMkNUSmZ4emk5YWZ1dVNqdlI3YlQwbjVRd1V4RnVJeHQzaUlVR3VrenRzRGtZZEswcTdqNzQ3aTRCd2JwS2oyUm5mcE5iOG9ILTBOd3Y0a1Vac1V5S1Yzd2t6d3d3OGVVNDQ4MmpweGs?oc=5",
-      "title": "Temporal worth $12.55b, OpenAI's camera acquisition, and DOD's tungsten buy",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOLVBlaUM4Q2N4WkZxOE9yc3BJbmpuTXBoTGdhMzRkM3ptLTl4U1VFa01VUTdIT1p5Q1BqcnV0b2lYMURFTUtuNFNkak1QMk94QkUySl9QVDZKSExzQjZQMTFPWlg4UWJkR19OcUdqVzFKVkRPbXlIdWJiNzZFNmUwOFZIVW5JV3ZuQzUxXw?oc=5",
+      "title": "US Futures Advance Before Fed Announcement as Crude Retreats and OpenAI Funding Talks Emerge: Dow Jones, S&P, Nasdaq, Wall Street",
       "summary": "",
-      "publishedAt": "2026-09-14T19:08:01.000Z",
+      "publishedAt": "2026-09-16T09:41:31.000Z",
+      "publisher": "Yahoo Finance UK",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "533f62d46776ea838a35e64951ccae63783daa35",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAwVmMyTTNYcnd6MXVLY2lGeGZlbFhDT3p3V3UwdVZGcWZualBNM2tJckJwUURtdVZKS2VQS1BVblpyaUVQdEF1U2dhV3o0Y3NzNlJ2NHRqUHd1OVZ0UlJfTVhWSURtSWk4eklTZmxDeUxqN2Vk?oc=5",
+      "title": "OpenAI strikes first news deal in Canada",
+      "summary": "",
+      "publishedAt": "2026-09-16T13:34:51.000Z",
       "publisher": "Axios",
       "discoveryMethod": "feed",
       "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
       }
     },
     {
-      "id": "78ec933d8f3c9110a6b74409b1a00980245e1cd9",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking",
-      "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
-      "summary": "Gemini 3.8 Live and Gemini 3.8 Live Extended Thinking are our most advanced live dialogue models yet, built for natural conversation.",
-      "publishedAt": "2026-09-15T17:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "d69ce8689fec53b094c78b69553446ae59b42cfb",
-      "company": "Meta",
-      "sourceKind": "official",
-      "sourceId": "meta-newsroom",
-      "sourceLabel": "Meta Newsroom",
-      "homepageUrl": "https://about.fb.com/news/",
-      "url": "https://about.fb.com/news/2026/09/introducing-meta-one-subscription-service-more-features-ai",
-      "title": "Introducing Meta One: A Subscription Service With More Features and AI to Create, Connect, and Stand Out",
-      "summary": "We're introducing Meta One, a new subscription service on Facebook, Instagram, WhatsApp, and Meta AI that offers more AI usage, enhanced expression features, and tools for creators and businesses. The post Introducing Meta One: A Subscription Service With More Features and AI to...",
-      "publishedAt": "2026-09-15T15:00:59.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "1549eb1a5be99bcb4cefdc79d60bcbac76d19c22",
-      "company": "Anthropic",
+      "id": "8ed586b0753326efb41b1b53b4fbf6eb8fe36e8f",
+      "company": "OpenAI",
       "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOamtMaEl3OW04aFdDZXY3Q0tDMnRWWHNna3h1ak5HTi1INUZIX0h6R1g1Z0JKOC1NSkR1R3VCVUFzTktFR0g0T2V4QzNRQkgtRlZ4YUltRGc0eGdITDhCY3N4M1VaRU5Nd2w1TWJXMnNSNTZPRHBkTUwwM0lUZkhmU1VzNnhtUXl2TTlPcGJ3c2NabEhmTDA3RGNaMGtKTmQzZG1hdm1sbzBDRHlmYXNZZ9IBtgFBVV95cUxQRk56b2o1TFpzTnZKNGpOVm5QeUxNZzk4SC11d1FGUnNNX1ltU0lTaGdYQjB4Qjl5aExrTjVJQ0xpWlVVQ2tqdGE4UU1tajBRZWM5NWVMVXJvcU1zZFFGX254NzV3V3RSLUVUR0E0VVc5REZxM01WbE9IZi1FWkNiaW5VbGJXbmtsdXQyS3Z4d0FNd2VlSDdJRlZDRDJZQnp1dmhyc2hQVDBBMENxaUlYc05IcHhfQQ?oc=5",
-      "title": "Broadcom CEO addresses Anthropic's slowdown push, says AI revenue targets haven't changed",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBGc3RZU2Itc3hnczJFeUhtYnpXaGFoN1E2enhzV0htUnVnazlzaXhjWGVHX19nQmZjRzdyLTJRMVlHUVpVU090clI5QzZlRHpoTlpGNXhsM1FEMFB6ZUpERkNLVFVaNDRjWjJLQ0ZyN3BDTUEtOFM0WWJUQlfSAYIBQVVfeXFMUGlleTIyWHgwUVEwYWlKMmhkZDlVZlU4Y00wVmlOT3FMSFpPZmQxQ0FRQmM2aHVSeThhX1dqQ0UzUVp5aGsxQ1FYRTd1eEFVVEtoVjNzVWVQUTJEV1d3M0pueFh5T3ZPTGpWOVdWOEZTaXJHNXA0eEJ4R1htMFc4YnZsZw?oc=5",
+      "title": "OpenAI investors have approached the company about a new funding round",
       "summary": "",
-      "publishedAt": "2026-09-14T22:43:25.000Z",
+      "publishedAt": "2026-09-16T13:16:31.000Z",
       "publisher": "CNBC",
       "discoveryMethod": "feed",
       "classification": {
@@ -658,17 +677,17 @@
       }
     },
     {
-      "id": "ee88c667fc588c7717849f941269acf556756c1d",
-      "company": "Anthropic",
+      "id": "32555a9229255c210fbcaea7c59a9f7ea0bc0673",
+      "company": "OpenAI",
       "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYjJTR0hmUkNIN1BKMWpFV2thWndQT3plLXg1YS02djlpTkZkS2dvd3gxR0dTZ1RoSEVwbVAxUUYxZUtjMzZqbzJqWU4tSGhHSEFWVmgwSVVPeU5kczlvdGphZDBvMGJEckdrYjNVUXRyV0NkRldYMm9wZE9EbFBaUnQ2MXVkdmN5TG5WeHZoM2YtbGxtTDZ2dXBGWTVva3pOWFN1UURWRjlkeFJtaktUcg?oc=5",
-      "title": "Tempus AI Founder Supports Anthropic CEO’s Call for Slowdown",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeGtTemxlTUZvUl8tTWZvTDgzMjdlSERCQk0wbTJIUWVsSlNRWmVrV1pMQXpFSkJFb0plZjRoaDBGeUNXbm8tcUloNVcyZngwQ3JSZG1MOTdDaWFhRjdndDdkWnQydFU1S1NoTE43SHh4QmN0MHNJY3FDVzNqZEN4Zk1SWlpLTEtOcS1MOTRUSVA?oc=5",
+      "title": "OpenAI IPO looks like a no-go: Sam Altman is discussing a new round of VC funding valuing the company at $1.2 trillion",
       "summary": "",
-      "publishedAt": "2026-09-14T20:25:12.000Z",
-      "publisher": "Bloomberg.com",
+      "publishedAt": "2026-09-16T09:28:00.000Z",
+      "publisher": "Fortune",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -677,16 +696,35 @@
       }
     },
     {
-      "id": "0921e310a4af9291204c75363eefe64ab4b50401",
+      "id": "697438133a6da29984a620e0fccbc824c7f85a37",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOc3hqMlQtdi1BT1QzTGs4U1BVXzcxb05pRnpHMjI4RjBFekZBQ2lQSVZRTURaN1h3eGlZN0pCdmY1UzdwQzlNeldrMXh0YTFkZmxsdVBmV211YmdwZWIxTTAya1VpLUdtbGNRZkZZbFBVUklUVnVzd1NZRHpSTkpTZ3pWUGhQMmVzaW1qZDYydE83eTBNb3c4T2duTEw2dWx5WUVjZXVTX1Ixb25LR2ExRHlQTDltNWVrLW5KOExsdjJCaFE?oc=5",
+      "title": "OpenAI mulls funding round at $1.2 trillion valuation ahead of IPO, FT reports",
+      "summary": "",
+      "publishedAt": "2026-09-15T22:48:56.000Z",
+      "publisher": "Reuters",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "3d0f7cb659e2066ec7c9e0ac0a45268d940f01b0",
       "company": "Google",
       "sourceKind": "official",
       "sourceId": "google-ai",
       "sourceLabel": "Google AI",
       "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/wildfire-tracking-ai",
-      "title": "Ask a Scientist: How can researchers use AI to spot a wildfire?",
-      "summary": "Google Research is exploring how to use AI and satellites to scan the world every 20 minutes and catch wildfires the size of a car.",
-      "publishedAt": "2026-09-15T16:00:00.000Z",
+      "url": "https://blog.google/innovation-and-ai/technology/families/teens-ai-research-findings",
+      "title": "5 things to know about teens' views on AI today",
+      "summary": "Findings from our research with RXN show teens are thoughtful and curious about AI.",
+      "publishedAt": "2026-09-16T15:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -696,16 +734,35 @@
       }
     },
     {
-      "id": "c95431380d57e63f4e841a76969599b53b6f0aea",
-      "company": "Google",
+      "id": "71646fffd914b4964a5115ce29a926b304e95bf4",
+      "company": "OpenAI",
       "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-real-time-voice-applications-gemini-audio",
-      "title": "Build real-time voice applications with Gemini 3.8 Live and 3.5 Transcribe",
-      "summary": "A look at how developers can build with our latest audio models, Gemini 3.8 Live, 3.8 Live Extended Thinking, and 3.5 Transcribe.",
-      "publishedAt": "2026-09-15T17:00:00.000Z",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/unlocking-new-ways-of-working",
+      "title": "How workers are unlocking new ways of working",
+      "summary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
+      "publishedAt": "2026-09-16T09:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Technical or research update"
+      }
+    },
+    {
+      "id": "5b258133c86f274bd175c87f8d7079ee68e777e7",
+      "company": "Meta",
+      "sourceKind": "official",
+      "sourceId": "meta-newsroom",
+      "sourceLabel": "Meta Newsroom",
+      "homepageUrl": "https://about.fb.com/news/",
+      "url": "https://about.fb.com/news/2026/09/canadian-start-up-smartarm-uses-ai-to-create-intuitive-bionic-prosthetics",
+      "title": "Canadian Start-up smartARM Uses AI to Create Intuitive Bionic Prosthetics",
+      "summary": "People and companies are using AI hardware and software to make life easier and more accessible for everyone. That’s the case with smartARM, a Toronto-based startup developing a vision-first bionic arm prototype that uses open-source software, with Meta AI glasses as an optional...",
+      "publishedAt": "2026-09-16T16:00:19.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -715,16 +772,16 @@
       }
     },
     {
-      "id": "6cacf6b9a4664d2b97f13565612e89e3fe1ac631",
-      "company": "Google",
+      "id": "027811ca1632d0f58ec6aef4b1b0aab0357f132b",
+      "company": "OpenAI",
       "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/household-chores-tips",
-      "title": "4 ways to tackle household chores with Gemini",
-      "summary": "Here’s how Gemini can help you with household chores, like meal planning and fixing appliances.",
-      "publishedAt": "2026-09-15T16:00:00.000Z",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+      "title": "Helping older adults use AI in everyday life",
+      "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
+      "publishedAt": "2026-09-16T16:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -734,16 +791,16 @@
       }
     },
     {
-      "id": "98c36a850624dbc19c86ee35d4c7a31c907904b3",
-      "company": "Google",
+      "id": "52752974efc060afa422288cf05c3cab7e220271",
+      "company": "OpenAI",
       "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language",
-      "title": "AI for everyone in every language",
-      "summary": "We’re moving beyond traditional text translation to build models that understand the world’s rich, living languages exactly as they are expressed.",
-      "publishedAt": "2026-09-15T16:00:00.000Z",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/reimagining-advertising-with-ai",
+      "title": "Reimagining advertising with AI",
+      "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+      "publishedAt": "2026-09-16T13:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -753,16 +810,16 @@
       }
     },
     {
-      "id": "149a852934bd635a33c55b141db3fd680abcf1e3",
-      "company": "Google",
+      "id": "51385449c8dc31f6066d1d988e8e62026ffb594c",
+      "company": "Microsoft",
       "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact",
-      "title": "AI for Societal Impact",
-      "summary": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
-      "publishedAt": "2026-09-15T16:00:00.000Z",
+      "sourceId": "microsoft-ai",
+      "sourceLabel": "Microsoft AI",
+      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
+      "url": "https://news.microsoft.com/source/asia/2026/09/14/the-new-media-movement-how-the-copilot-creators-collective-is-shaping-the-future-of-creativity-and-ai-literacy",
+      "title": "How the Copilot Creators Collective is shaping the future of creativity and AI literacy",
+      "summary": "How the Copilot Creators Collective is shaping the future of creativity and AI literacy",
+      "publishedAt": "2026-09-15T18:28:17.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {

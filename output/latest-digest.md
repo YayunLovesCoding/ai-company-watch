@@ -1,104 +1,123 @@
 # AI Company Watch
 
-Generated: Sep 15, 2026, 11:02 AM PDT
+Generated: Sep 16, 2026, 11:00 AM PDT
 Lookback window: 7 day(s)
 Sources checked: 12
-Items fetched: 34
+Items fetched: 36
 Items kept: 24
-New items: 12
-External items kept: 8
-Official items kept: 16
+New items: 15
+External items kept: 11
+Official items kept: 13
 
 ## Critical External News
 
-### Microsoft - Microsoft-Activision $250 Million Investor Settlement Paused
+### Anthropic - Novo partners with Anthropic to speed up drug development with Claude
+Source: Major External News - Anthropic
+Publisher: Reuters
+Published: Sep 16, 2026
+Why it matters: Corporate move or major external event
+Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRzN6S3pPZWJHQ053WjBZRU9ESm41d3g1ck9rQk5HZi05WmZZMkdKWWRaOGxYa0p0M3dDWnl6RnFRb2pwODR4WGwtcC1TSUpYR2cxM0hkQURheXM1V21KZW45ZXpVM0FSUVVUVHItY3J4elU4dUdCeXlTMl9TelFtVWQySUdpTXAtVzhVYkdlN1pnUnluY0Uta2JGOWNqeHFEV18wMGkzWjFUcnNPQmNtTFd4dk93WkFJeklj?oc=5
+
+### Microsoft - Microsoft-Activision’s Settlement on Hold: Delaware Brief
 Source: Major External News - Microsoft
-Publisher: Bloomberg Law News
+Publisher: news.bloomberglaw.com
+Published: Sep 16, 2026
+Why it matters: Corporate move or major external event
+Link: https://news.google.com/rss/articles/CBMiogFBVV95cUxQUmIxai1SaXJ4aWQ1VFUwTEhIZW5mTU1oNEV1b1hmME5aWXV5UXVoUWhfU0x4bHZxTm81eVBXcnZHTmFRT0VsWDRlN3lkM2V2ZWJwcDBZZmc3eXZRTjNlUWZSb3dRd1pKV3dFT3lTZ2ZDOEFHY2FwT1Z5blVVbDZXeGZsUjdUc3ZLaXA3a2oxbTdJcWQxVmVURUZEWk15WmF4TFE?oc=5
+
+### Anthropic - Nvidia's Huang rips Anthropic's proposal for AI safety antitrust waiver: 'Completely unnecessary'
+Source: Major External News - Anthropic
+Publisher: CNBC
 Published: Sep 15, 2026
 Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMipAFBVV95cUxNakx1aWJCcjVfT3lLdUtSUDREc0VSNW1qRDllb1NkRHdSeDQyOF80cDFqYXpQbDM0UndycmJxbHU2cGRULXBXdmFRcGtKcmRieUJmRG5FQUhycFpPVTE3b0VYc2gyM3BfQjRXZ1E4ZmRJV3JBLS03Z09OZzFyLUxxbkdJaGJzcTRHaWt3WkVKaWRSUmpDenhtbzJyMnp3cVBhVWdDZA?oc=5
+Link: https://news.google.com/rss/articles/CBMie0FVX3lxTE44RHpQWkxyODlqZFVxWEs5TjRrN2ZWMktZUGRyWERQMURrUEZSWk53QXRpRURxcmJtMVJvcmIzWTY5Unk3VVBlRThad2J0YVhJcFRkSVdOUlNvU3Jvbzh1anRPTGU3SGZnUXZOOE5GcWtQOXpPMldaR1hCTdIBgAFBVV95cUxNZ1VaYzZvQzNWOHQwX3Vfc1BraXpSRU91R2E5ZWVoSUhaZjNZQ1BfT1hUaFU5aEI5cF95UHE1V3VWX1ExcGpQR2NXc2JsSUJzWGFGRjU3TC1waW1hM0FmbTNRS2c2UlZVcWk3bmxudUNBbXBVYWJDVHRLRm9meG1zQg?oc=5
 
-### OpenAI - Apple takes OpenAI to court
-Source: Major External News - OpenAI
+### Anthropic - Dynasty CEO on Anthropic partnership: Empowering advisors to be able to help more people
+Source: Major External News - Anthropic
 Publisher: CNBC
-Published: Sep 14, 2026
+Published: Sep 15, 2026
 Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMiekFVX3lxTE9ybVdqR2dsVjdsVm93c3dlUUlzRmQ3TEZPM0lyU25JbmtqTDQwdkpuUHpPV1hWZTg4YzlkN2JwTFA4MGo0WS15ZmpoZFpNQ2VyM2JaOW9mUzZqaGo2QjdlMGpjU213dlNzZF82eWlWU0RBdVZNdUk5UUNn?oc=5
+Link: https://news.google.com/rss/articles/CBMiygFBVV95cUxQcW5iX2FHX2VuNXJnMlB2UGt5cEQ4cWhXYl92TGFvQVljSVVfem1BZzcwZzBlbzlzNXl4X1hjbDlHYXhRcHZfa3QzcXBQWmRUQ2hLMlNKSmV6OGdOUjE5Qk1yOW5xWEZJM2NuOE1KVnVVN1hsTHBsWFljNG80VE5CR0R5Ylo2OWNrUzljR29lVWlzRGwwaUEzNEItVk1id3czWFJQcTdCUllja1hQZVhnS1A5Sm1aeWVCNElyU0tlT0NKNmlSWWpBemNn?oc=5
 
-### OpenAI - Temporal worth $12.55b, OpenAI's camera acquisition, and DOD's tungsten buy
+### OpenAI - US Futures Advance Before Fed Announcement as Crude Retreats and OpenAI Funding Talks Emerge: Dow Jones, S&P, Nasdaq, Wall Street
 Source: Major External News - OpenAI
-Publisher: Axios
-Published: Sep 14, 2026
-Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMif0FVX3lxTE5BeXItZEJoVERnRUczd25vMkNUSmZ4emk5YWZ1dVNqdlI3YlQwbjVRd1V4RnVJeHQzaUlVR3VrenRzRGtZZEswcTdqNzQ3aTRCd2JwS2oyUm5mcE5iOG9ILTBOd3Y0a1Vac1V5S1Yzd2t6d3d3OGVVNDQ4MmpweGs?oc=5
+Publisher: Yahoo Finance UK
+Published: Sep 16, 2026
+Why it matters: Flagship model or product launch
+Link: https://news.google.com/rss/articles/CBMijAFBVV95cUxOLVBlaUM4Q2N4WkZxOE9yc3BJbmpuTXBoTGdhMzRkM3ptLTl4U1VFa01VUTdIT1p5Q1BqcnV0b2lYMURFTUtuNFNkak1QMk94QkUySl9QVDZKSExzQjZQMTFPWlg4UWJkR19OcUdqVzFKVkRPbXlIdWJiNzZFNmUwOFZIVW5JV3ZuQzUxXw?oc=5
 
 ## Important External News
 
-### Anthropic - Broadcom CEO addresses Anthropic's slowdown push, says AI revenue targets haven't changed
-Source: Major External News - Anthropic
+### OpenAI - OpenAI strikes first news deal in Canada
+Source: Major External News - OpenAI
+Publisher: Axios
+Published: Sep 16, 2026
+Why it matters: Trusted external coverage
+Link: https://news.google.com/rss/articles/CBMidEFVX3lxTFAwVmMyTTNYcnd6MXVLY2lGeGZlbFhDT3p3V3UwdVZGcWZualBNM2tJckJwUURtdVZKS2VQS1BVblpyaUVQdEF1U2dhV3o0Y3NzNlJ2NHRqUHd1OVZ0UlJfTVhWSURtSWk4eklTZmxDeUxqN2Vk?oc=5
+
+### OpenAI - OpenAI investors have approached the company about a new funding round
+Source: Major External News - OpenAI
 Publisher: CNBC
-Published: Sep 14, 2026
+Published: Sep 16, 2026
 Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxOamtMaEl3OW04aFdDZXY3Q0tDMnRWWHNna3h1ak5HTi1INUZIX0h6R1g1Z0JKOC1NSkR1R3VCVUFzTktFR0g0T2V4QzNRQkgtRlZ4YUltRGc0eGdITDhCY3N4M1VaRU5Nd2w1TWJXMnNSNTZPRHBkTUwwM0lUZkhmU1VzNnhtUXl2TTlPcGJ3c2NabEhmTDA3RGNaMGtKTmQzZG1hdm1sbzBDRHlmYXNZZ9IBtgFBVV95cUxQRk56b2o1TFpzTnZKNGpOVm5QeUxNZzk4SC11d1FGUnNNX1ltU0lTaGdYQjB4Qjl5aExrTjVJQ0xpWlVVQ2tqdGE4UU1tajBRZWM5NWVMVXJvcU1zZFFGX254NzV3V3RSLUVUR0E0VVc5REZxM01WbE9IZi1FWkNiaW5VbGJXbmtsdXQyS3Z4d0FNd2VlSDdJRlZDRDJZQnp1dmhyc2hQVDBBMENxaUlYc05IcHhfQQ?oc=5
+Link: https://news.google.com/rss/articles/CBMifEFVX3lxTFBGc3RZU2Itc3hnczJFeUhtYnpXaGFoN1E2enhzV0htUnVnazlzaXhjWGVHX19nQmZjRzdyLTJRMVlHUVpVU090clI5QzZlRHpoTlpGNXhsM1FEMFB6ZUpERkNLVFVaNDRjWjJLQ0ZyN3BDTUEtOFM0WWJUQlfSAYIBQVVfeXFMUGlleTIyWHgwUVEwYWlKMmhkZDlVZlU4Y00wVmlOT3FMSFpPZmQxQ0FRQmM2aHVSeThhX1dqQ0UzUVp5aGsxQ1FYRTd1eEFVVEtoVjNzVWVQUTJEV1d3M0pueFh5T3ZPTGpWOVdWOEZTaXJHNXA0eEJ4R1htMFc4YnZsZw?oc=5
 
-### Anthropic - Tempus AI Founder Supports Anthropic CEO’s Call for Slowdown
-Source: Major External News - Anthropic
-Publisher: Bloomberg.com
-Published: Sep 14, 2026
+### OpenAI - OpenAI IPO looks like a no-go: Sam Altman is discussing a new round of VC funding valuing the company at $1.2 trillion
+Source: Major External News - OpenAI
+Publisher: Fortune
+Published: Sep 16, 2026
 Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxNYjJTR0hmUkNIN1BKMWpFV2thWndQT3plLXg1YS02djlpTkZkS2dvd3gxR0dTZ1RoSEVwbVAxUUYxZUtjMzZqbzJqWU4tSGhHSEFWVmgwSVVPeU5kczlvdGphZDBvMGJEckdrYjNVUXRyV0NkRldYMm9wZE9EbFBaUnQ2MXVkdmN5TG5WeHZoM2YtbGxtTDZ2dXBGWTVva3pOWFN1UURWRjlkeFJtaktUcg?oc=5
+Link: https://news.google.com/rss/articles/CBMikAFBVV95cUxPeGtTemxlTUZvUl8tTWZvTDgzMjdlSERCQk0wbTJIUWVsSlNRWmVrV1pMQXpFSkJFb0plZjRoaDBGeUNXbm8tcUloNVcyZngwQ3JSZG1MOTdDaWFhRjdndDdkWnQydFU1S1NoTE43SHh4QmN0MHNJY3FDVzNqZEN4Zk1SWlpLTEtOcS1MOTRUSVA?oc=5
 
-## Critical Official Updates
-
-### Google - Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking
-Source: Google AI
+### Microsoft - OpenAI mulls funding round at $1.2 trillion valuation ahead of IPO, FT reports
+Source: Major External News - Microsoft
+Publisher: Reuters
 Published: Sep 15, 2026
-Why it matters: Flagship model or product launch
-Summary: Gemini 3.8 Live and Gemini 3.8 Live Extended Thinking are our most advanced live dialogue models yet, built for natural conversation.
-Link: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking
-
-### Meta - Introducing Meta One: A Subscription Service With More Features and AI to Create, Connect, and Stand Out
-Source: Meta Newsroom
-Published: Sep 15, 2026
-Why it matters: Flagship model or product launch
-Summary: We're introducing Meta One, a new subscription service on Facebook, Instagram, WhatsApp, and Meta AI that offers more AI usage, enhanced expression features, and tools for creators and businesses. The post Introducing Meta One: A Subscription Service With More Features and AI to...
-Link: https://about.fb.com/news/2026/09/introducing-meta-one-subscription-service-more-features-ai
+Why it matters: Trusted external coverage
+Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxOc3hqMlQtdi1BT1QzTGs4U1BVXzcxb05pRnpHMjI4RjBFekZBQ2lQSVZRTURaN1h3eGlZN0pCdmY1UzdwQzlNeldrMXh0YTFkZmxsdVBmV211YmdwZWIxTTAya1VpLUdtbGNRZkZZbFBVUklUVnVzd1NZRHpSTkpTZ3pWUGhQMmVzaW1qZDYydE83eTBNb3c4T2duTEw2dWx5WUVjZXVTX1Ixb25LR2ExRHlQTDltNWVrLW5KOExsdjJCaFE?oc=5
 
 ## Important Official Updates
 
-### Google - Ask a Scientist: How can researchers use AI to spot a wildfire?
+### Google - 5 things to know about teens' views on AI today
 Source: Google AI
-Published: Sep 15, 2026
+Published: Sep 16, 2026
 Why it matters: Technical or research update
-Summary: Google Research is exploring how to use AI and satellites to scan the world every 20 minutes and catch wildfires the size of a car.
-Link: https://blog.google/innovation-and-ai/models-and-research/google-research/wildfire-tracking-ai
+Summary: Findings from our research with RXN show teens are thoughtful and curious about AI.
+Link: https://blog.google/innovation-and-ai/technology/families/teens-ai-research-findings
+
+### OpenAI - How workers are unlocking new ways of working
+Source: OpenAI Newsroom
+Published: Sep 16, 2026
+Why it matters: Technical or research update
+Summary: New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.
+Link: https://openai.com/index/unlocking-new-ways-of-working
 
 ## Official Company Updates
 
-### Google - Build real-time voice applications with Gemini 3.8 Live and 3.5 Transcribe
-Source: Google AI
-Published: Sep 15, 2026
+### Meta - Canadian Start-up smartARM Uses AI to Create Intuitive Bionic Prosthetics
+Source: Meta Newsroom
+Published: Sep 16, 2026
 Why it matters: Routine official update
-Summary: A look at how developers can build with our latest audio models, Gemini 3.8 Live, 3.8 Live Extended Thinking, and 3.5 Transcribe.
-Link: https://blog.google/innovation-and-ai/technology/developers-tools/build-real-time-voice-applications-gemini-audio
+Summary: People and companies are using AI hardware and software to make life easier and more accessible for everyone. That’s the case with smartARM, a Toronto-based startup developing a vision-first bionic arm prototype that uses open-source software, with Meta AI glasses as an optional...
+Link: https://about.fb.com/news/2026/09/canadian-start-up-smartarm-uses-ai-to-create-intuitive-bionic-prosthetics
 
-### Google - 4 ways to tackle household chores with Gemini
-Source: Google AI
-Published: Sep 15, 2026
+### OpenAI - Helping older adults use AI in everyday life
+Source: OpenAI Newsroom
+Published: Sep 16, 2026
 Why it matters: Routine official update
-Summary: Here’s how Gemini can help you with household chores, like meal planning and fixing appliances.
-Link: https://blog.google/innovation-and-ai/products/gemini-app/household-chores-tips
+Summary: OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.
+Link: https://openai.com/index/helping-older-adults-use-ai-in-everyday-life
 
-### Google - AI for everyone in every language
-Source: Google AI
-Published: Sep 15, 2026
+### OpenAI - Reimagining advertising with AI
+Source: OpenAI Newsroom
+Published: Sep 16, 2026
 Why it matters: Routine official update
-Summary: We’re moving beyond traditional text translation to build models that understand the world’s rich, living languages exactly as they are expressed.
-Link: https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language
+Summary: Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.
+Link: https://openai.com/index/reimagining-advertising-with-ai
 
-### Google - AI for Societal Impact
-Source: Google AI
+### Microsoft - How the Copilot Creators Collective is shaping the future of creativity and AI literacy
+Source: Microsoft AI
 Published: Sep 15, 2026
 Why it matters: Routine official update
-Summary: Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.
-Link: https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact
+Summary: How the Copilot Creators Collective is shaping the future of creativity and AI literacy
+Link: https://news.microsoft.com/source/asia/2026/09/14/the-new-media-movement-how-the-copilot-creators-collective-is-shaping-the-future-of-creativity-and-ai-literacy
