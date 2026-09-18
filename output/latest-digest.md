@@ -1,66 +1,81 @@
 # AI Company Watch
 
-Generated: Sep 17, 2026, 11:01 AM PDT
+Generated: Sep 18, 2026, 10:35 AM PDT
 Lookback window: 7 day(s)
 Sources checked: 12
-Items fetched: 33
+Items fetched: 35
 Items kept: 24
-New items: 7
+New items: 9
 External items kept: 8
 Official items kept: 16
 
 ## Critical External News
 
-### OpenAI - OpenAI, Microsoft fend off part of software developer lawsuit over AI training
+### OpenAI - US judge denies OpenAI bid to review X Corp’s settlement with Apple
 Source: Major External News - OpenAI
 Publisher: Reuters
-Published: Sep 16, 2026
+Published: Sep 18, 2026
 Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMixgFBVV95cUxNbUNoRUZpb0NvNUtWS1hEZEt2d3ByaTFxM0w0MThMX2FrR0o2cktvZFdjNTR5dE5iXzN4Mnl1WGVMek1hcVk5bDRvZFZ5VFl4YUtNQnF2X25PenB4em1KZjBfUGNzXzNuNU1fakhlczRtdjRBSUhKZHdlRUFkTEFaemh0MlJ3aV9VbjRyRWVyR1ZweVJXT3F0T1lxdEk3RjZUX1N6aUxfMUN0NF9UQ1hwRXVPZGFKc1ZwUUJlSnlFMnE2eURoUGc?oc=5
+Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxNNkJWS0R0SnJfTDFlYl9PZGhfeXRZb3NoR3BKaDhoaTNhUkxyTFBXYzhfRjcwWWVTTTllSDdRczM1czNreUxLWVhfMVZpWEVSZXdHMktuQmlTeTZrbXIzUklhcVdob3lNTGIxRnJsWXJUXzE2ZXJkOUhZZERyS2otVWRtc1hRdTdUcVJ4bmYxYnVWX3A4elp6N2Q5bXdPcGp1N2pBRkVoVGJibEtadmJTWF9ia3hmVXM?oc=5
+
+### OpenAI - 'Astonishing theft of unprecedented proportions': NYT vs. OpenAI, Microsoft lawsuit
+Source: Major External News - OpenAI
+Publisher: Yahoo Finance
+Published: Sep 18, 2026
+Why it matters: Corporate move or major external event
+Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxNN0NJTlViamtLRy1RaTBtQXBjTFBkbjhGajVyU0lTLS1LaUhwR3VRYk1EajdkX0lUYU9WTmZrMEQzRElHSFJ0VTI2SG1ubjB1cGZtNFpYVGhoYmdpTFFnSC13S1ZLdVJjLWVqRjVDX2pMNWljNUpwTjlwcjRZU1lNSlFjX3VmV3FncENTU1lyXzMyQVFNZnhyTE01SEZIOXdZdFZ2UDY1cmJYdmZZRkxxcXZJZ0FFQVMzOXdHZ2oteGk2MDA?oc=5
+
+### Anthropic - Security researchers used Claude to help them hack into OpenAI
+Source: Major External News - Anthropic
+Publisher: The Verge
+Published: Sep 18, 2026
+Why it matters: Safety, security, or policy update
+Link: https://news.google.com/rss/articles/CBMikgFBVV95cUxOX0E3SkFidDl4NTVoOG0tWmtNQm5KMkVzUFF6cE43U0tsbWFGdHFjVjZweS1oTl81LXhQSU83QU52UDF5a3lXYzlCZ0doS1h5UHBPWjUwaXdaeFZnMVloaDVSbkFUZ1AtaDBEOVlHdW52dExrTjVBU2VLZGNsWUc0RkhIbDNiUVExSUlOM1FoOUZVUQ?oc=5
 
 ## Important External News
 
-### OpenAI - Why Oracle Stock Jumped 6% Today on OpenAI Funding Buzz
-Source: Major External News - OpenAI
+### Meta - Meta-Tied Data Center Taps US Junk Bonds for the First Time
+Source: Major External News - Meta
 Publisher: Yahoo Finance
 Published: Sep 17, 2026
 Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMilAFBVV95cUxOUFg4cENGcGFrTkhudnVBb3lWNGhLTHNxb2VDZTdVQ2lYSU5EajNvT3hxYU9DSWcybUNjSnVxdWhhODJSeGVod00zWnN3NTNOQ1pVVFJUSkpDZWFPeC1hQjc4bDhpTjNxR0h4MUFneHBEanRNbEJCR1JkZWNUWGtGaWE0T0NuUzdldHliU2xaRmpEYmtK?oc=5
-
-### Meta - Meta-Tied Data Center Taps US Junk Bonds for the First Time
-Source: Major External News - Meta
-Publisher: Bloomberg.com
-Published: Sep 17, 2026
-Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMirwFBVV95cUxNYWxvdkIxQWNEcloyU0VIY2J3VHNCaU5rUjNXbVhoYWxhNkVBSXlsaWNhdEZYU2Y3bE8zNnE4Um9NWTVOakdQYXJrbkR0LU9EQzJJZExoU3VtXzNLLXJ0NU1NTFJiYkZXQS1ZOVdBMEgxOVJSMWE3SzY2X25hRGZTdWlNSlVvZDZHUXNnOGZuZnNDMDktNEdpN2RfT2k5VjV4SGo5X0xnRjE3cV9PdXU0?oc=5
-
-### Google - Google's AI chip push just got a $22 billion boost
-Source: Major External News - Google
-Publisher: Yahoo Finance Singapore
-Published: Sep 17, 2026
-Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMif0FVX3lxTE9vdFowSE4tc2dKX2YxYWZMRFBjS3d5UTZWTzlBUjUzMTlHS3B2d1dvRlI3WVVadEl0SEpvYjctNHl2TDZGclJfSnFBa1hNR1BmdmhzanBjOVk5UFBKVzNvVE5OeDM1V1ZrYlY1bTBpUzMxWjRON3Z2QTZtbFdNak0?oc=5
+Link: https://news.google.com/rss/articles/CBMilAFBVV95cUxQRU81Z2F1cXM1MjBuRnVzWEc3WjdhNXQ0b1lCSUVNdUZhTEl0alRDZFVVNEtHazdPRjJDMzJ4eUxXSk9pRm0xZjRodzNELUpFWFpCMW1EbkdTZVV3a1Q1c2E5T2dib0E4M3ctSS1qVHk3Y3FDTTZHeDc1VmMzeTZpalQ0Q3lUM1JRUkx1NXJubkZ1M3hC?oc=5
 
 ## Critical Official Updates
 
-### Anthropic - Introducing the Life Sciences Verification Program
-Source: Anthropic News
+### Google - Making global data easier to explore
+Source: Google AI
+Published: Sep 17, 2026
+Why it matters: Flagship model or product launch
+Summary: Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.
+Link: https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform
+
+### OpenAI - Introducing Astra for Law
+Source: OpenAI Newsroom
 Published: Sep 16, 2026
 Why it matters: Flagship model or product launch
-Link: https://www.anthropic.com/news/life-sciences-verification-program
+Summary: OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.
+Link: https://openai.com/index/astra-for-law
 
 ## Official Company Updates
 
-### OpenAI - Our framework for reporting model misalignment
-Source: OpenAI Newsroom
-Published: Sep 16, 2026
+### Google - New experts join Google’s AI & Economy team
+Source: Google AI
+Published: Sep 18, 2026
 Why it matters: Routine official update
-Summary: OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.
-Link: https://openai.com/index/model-misalignment-reporting-framework
+Summary: We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.
+Link: https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench
 
-### OpenAI - How to connect AI usage to business value
-Source: OpenAI Newsroom
-Published: Sep 16, 2026
+### Google - The new CC, an AI agent built for families
+Source: Google AI
+Published: Sep 17, 2026
 Why it matters: Routine official update
-Summary: Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.
-Link: https://openai.com/index/how-to-connect-ai-usage-to-business-value
+Summary: Google Labs is expanding CC to groups, starting with families and households, so they can spend less time on logistics.
+Link: https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups
+
+### OpenAI - How Cooley is accelerating IPO work with ChatGPT
+Source: OpenAI Newsroom
+Published: Sep 17, 2026
+Why it matters: Routine official update
+Summary: Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.
+Link: https://openai.com/index/cooley-gopublic
