@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T17:04:43.042Z",
+  "generatedAt": "2026-09-20T17:20:42.469Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -76,27 +76,46 @@
     }
   ],
   "totals": {
-    "fetched": 43,
+    "fetched": 40,
     "deduped": 24,
-    "new": 10,
+    "new": 5,
     "byKind": {
-      "official": 10,
-      "external": 14
+      "official": 12,
+      "external": 12
     }
   },
   "items": [
     {
-      "id": "991c3027073fe32f6180880838733a781e1d9d6d",
-      "company": "Anthropic",
+      "id": "5b2772208cdce19320d993d2a0fe977e340a9f3e",
+      "company": "OpenAI",
       "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQc2IwNmpYOVEzbjJXRlVQZE05MG5MNXhYUGc5QTloR2ZFeVY1S0I2TDJ3OUZMa01OQnpkYmxCTW82YUozOUQ4LVlBdzJUS085S1pQc08tcWxmQVJzNFExaF9YdG1ZbUEzUi1icElUUWkxZVY5YzJiZUlXbHhxNldyRllFOXlNcENBSHdNTHBSa0M5QVgzQU16T2RGTExhVm1iUTE0?oc=5",
-      "title": "Lawsuit accuses Anthropic, OpenAI, SpaceXAI, Google of AI pacing ‘collusion’",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcGNIX0w3dGlsV1dsUUdPS1l6TXFWSm8yUVBkTlVhZl85V1hGNHVadW9LZFRHRl95Y2VBY0Nvc3FvbDBOcXpfdFlYc1dEckQtbk9BMVlEeHBIYkdBVjJmZDYxMFFpVlR6Mm1NeEZ3cEFvcmtLLXRTWDZjQjRtRWxuYnNQQ204Q0I0Z3haTXRSN0w3QnhSYXZDOG00eXhQd2ZyTVhZc09SR3lSb0ZSMU5mYktsNzNjWTdLVGV6dmZNVQ?oc=5",
+      "title": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown",
       "summary": "",
-      "publishedAt": "2026-09-19T12:16:40.000Z",
-      "publisher": "Yahoo",
+      "publishedAt": "2026-09-19T22:05:00.000Z",
+      "publisher": "AP News",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "de3f3d13eb8efa4559f02ecdab823138b23a9332",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeVR5Y1BLeFdPZFJXQkZmNXhGbFZPWXBBTGRPU0hhMHhqYjFUTmIwamI0aWNldkRnZ0RPZDl4TzdNeWpxclRha1dCelNCcHN3eUtMNzBRVWFwcUpVZUo5TGhRbTM4Y2duamRIUzdEWGdmQXlkSk9JSDZGczhHQUVHcEk0RmhESFZXTGxIQXVkd1k5MUR3dElSVVNWSkYtSWZiWkRnRjJ3eTk1eUs0WkpDZURyalRWbU00cWc?oc=5",
+      "title": "Lawsuit claims Anthropic, OpenAI, SpaceXAI and Google illegally agreed to coordinate AI slowdown",
+      "summary": "",
+      "publishedAt": "2026-09-19T20:34:00.000Z",
+      "publisher": "Fortune",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -106,35 +125,16 @@
     },
     {
       "id": "d1b77dd85fcd3c3d3c09fbbe3789dc74472d70a9",
-      "company": "Anthropic",
+      "company": "OpenAI",
       "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWVJTdzFUYU9PYk1qZ295Q1dZUjgxalJZbS1NSmY1WjNPUV8xWjFBTllaaDhoaHV6aDE3c0EyM2l6VHJhTy10WTVFTU51XzV5R1lfTURCeXpzOXhud1B6ZTRua25jNjNBX0pkVHpaTzBLd0l3UVp3aXdHNzBWY0NlSDg4aU55TnVNbnUzTXpHYUxyU0htOVlMNGtlREwzdVN1emc?oc=5",
       "title": "OpenAI, Anthropic, Google, SpaceXAI Hit With Antitrust Lawsuit",
       "summary": "",
       "publishedAt": "2026-09-18T23:30:00.000Z",
       "publisher": "Bloomberg Law News",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "bf385e289ed2466f362da6c3cc97b7d159c03573",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNkJWS0R0SnJfTDFlYl9PZGhfeXRZb3NoR3BKaDhoaTNhUkxyTFBXYzhfRjcwWWVTTTllSDdRczM1czNreUxLWVhfMVZpWEVSZXdHMktuQmlTeTZrbXIzUklhcVdob3lNTGIxRnJsWXJUXzE2ZXJkOUhZZERyS2otVWRtc1hRdTdUcVJ4bmYxYnVWX3A4elp6N2Q5bXdPcGp1N2pBRkVoVGJibEtadmJTWF9ia3hmVXM?oc=5",
-      "title": "US judge denies OpenAI bid to review X Corp’s settlement with Apple",
-      "summary": "",
-      "publishedAt": "2026-09-18T17:29:43.000Z",
-      "publisher": "Reuters",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -172,12 +172,31 @@
       "title": "Dynasty CEO on Anthropic partnership: Empowering advisors to be able to help more people",
       "summary": "",
       "publishedAt": "2026-09-15T20:21:00.000Z",
-      "publisher": "cnbc.com",
+      "publisher": "CNBC",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
         "score": 6,
         "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "0a4e755c8ce6ce5763d5f2b255320b3d18dba3c8",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPM19yZG9CWkxLRGFEaVVfeGNTMFRZY3h3eW5uQTQ1VThHbmF5TFZSMTBNSWhIRG1ialpDTlVDWW5zZjgwQzNaRkxIZTVTQ2Y5blFWcGpfd3I5dUN5dElTbGt4dEZiQU04aG1fQm9yUi1qTUlOWXA1enBnUmhCdjFhNmJMYjR5NGhUMHBWZm1IQVRKUjI3NkRkdHQtWHBibmhYY1p5T1hVeXBaQllRNUx4WWdhN295d2M?oc=5",
+      "title": "Hackers who broke into OpenAI warn the AI industry has a security problem",
+      "summary": "",
+      "publishedAt": "2026-09-20T16:00:00.000Z",
+      "publisher": "The Washington Post",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Safety, security, or policy update"
       }
     },
     {
@@ -190,7 +209,7 @@
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1uQTYtMzFHOXh2N05IRTFBZks5VERQX05BLUs1T1c4eXhLNlBaWFc1NWttWnBzN3RMdkVCbzNWT2owNmNEN21vbDJNWDR1c3dsU3VKSEQyN0d2SkdnU25ILUxXcFcxQTBGZTBkVENocU5sMUstNkhkamJR?oc=5",
       "title": "Google is the latest AI lab with a security testing mishap",
       "summary": "",
-      "publishedAt": "2026-09-19T00:21:36.000Z",
+      "publishedAt": "2026-09-19T15:37:16.000Z",
       "publisher": "Axios",
       "discoveryMethod": "feed",
       "classification": {
@@ -219,25 +238,6 @@
       }
     },
     {
-      "id": "8e121543b83b13ca97a7beffffce9ff63eb07fe4",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1GR215MXpFWG9NeE9FWEZrNm9wRE1MaXJHdGZrMUQ0NEtUQ1dxb3pKWWtCN25MbURsc0tlN1ItT0FBSk9uaU5mZWx2cGJZLTFNTHRIdGc2bHljUW9GaUJtaGNUWEM5VnJtTHpXTFRPa1BEVnBYeHhxS2x3?oc=5",
-      "title": "Hackers breached OpenAI, adding to fever pitch of security and safety concerns",
-      "summary": "",
-      "publishedAt": "2026-09-18T18:00:13.000Z",
-      "publisher": "NBC News",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
       "id": "559b0cf1119746d24724b9d0e19761800b6e48fa",
       "company": "OpenAI",
       "sourceKind": "official",
@@ -251,8 +251,8 @@
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
-        "bucket": "critical",
-        "score": 5,
+        "bucket": "important",
+        "score": 4,
         "reason": "Flagship model or product launch"
       }
     },
@@ -270,66 +270,9 @@
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
-        "bucket": "critical",
-        "score": 5,
+        "bucket": "important",
+        "score": 4,
         "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "a6a4d44c829c5dabcdf75ab83ecc94dbf11c9787",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA3RVA2TEtUVXM4UDMtYktXa1U2Yzk1RmN1RHFGTTRMeEVYVUxGLXRaWkFLRE5nc0tfX0l2cnNQdGFzT25IaU50cHo0UzZzaWVzUkplWTg5SG16WktHOGYyMnpOQXpNSkJrZ0M0U0thcw?oc=5",
-      "title": "Anthropic tops $100 billion revenue pace, report says",
-      "summary": "",
-      "publishedAt": "2026-09-18T23:41:50.000Z",
-      "publisher": "Axios",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "c1be4a0b310fa1f6bdc4667170d7e6b0f626df67",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUVVzLXlhM3VLS0RMZTFPTHNSS1NFVUVkZG05Z001RWwxZHhvenpRcjFYRVl4YnpkcmJkWWUwb2drUjdKSklHakd0UHRscDhURDlFYXpfbHNoZzZBYUx0QmpTOWVkd24wNEdmRTB3eUhOd3NyWkZtUndTWVdOaVRfRVBaVWE5T0I4MGFNaWpnVUhQNTlsS2RtWkV0VnlJa2VmWjJOWGJ0ZldwTTFKSzE0Q0dpMA?oc=5",
-      "title": "Meta-Tied Data Center Prices Junk Bond Amid Blowout Demand",
-      "summary": "",
-      "publishedAt": "2026-09-18T20:24:12.000Z",
-      "publisher": "Bloomberg.com",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "81584dc33418b0e35ab56b54d0994f1ed26a16ab",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUFg4cENGcGFrTkhudnVBb3lWNGhLTHNxb2VDZTdVQ2lYSU5EajNvT3hxYU9DSWcybUNjSnVxdWhhODJSeGVod00zWnN3NTNOQ1pVVFJUSkpDZWFPeC1hQjc4bDhpTjNxR0h4MUFneHBEanRNbEJCR1JkZWNUWGtGaWE0T0NuUzdldHliU2xaRmpEYmtK?oc=5",
-      "title": "Why Oracle Stock Jumped 6% Today on OpenAI Funding Buzz",
-      "summary": "",
-      "publishedAt": "2026-09-17T17:16:51.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
       }
     },
     {
@@ -428,36 +371,17 @@
       }
     },
     {
-      "id": "a33f719d5da382c63fd56b764df2848a44832021",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOU3k5SFZtZEVSRjFfblItcHczRTRoU2Q2dHpYdm1xT0FSWHhLc2xWTWM1LWdGa3lWOUhYQllsRHgta20xcTRTZ3U2QjFJR0IzVnQzbERtWU12MU5reEZZTHJVVU85ZU5lajFuVG1fZjRqcU45d3lGMl9odE45VGhybmVZZDBEZmc0cHN3RTNWd3ZaTTVaMGFNd25ILXNKLUV4eGc?oc=5",
-      "title": "CleanSpark Discloses Meta As Georgia AI Data Center Tenant — CLSK Unit Plans Over $2.2B Raise To Fund Buildout",
-      "summary": "",
-      "publishedAt": "2026-09-17T14:31:41.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "5d8372b1e35007d50574a7e46619e66f6854ef89",
+      "id": "735cf067fdbef053719ed4cc6b95fe8c25bc9e50",
       "company": "Google",
       "sourceKind": "external",
       "sourceId": "external-google-major",
       "sourceLabel": "Major External News - Google",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vdFowSE4tc2dKX2YxYWZMRFBjS3d5UTZWTzlBUjUzMTlHS3B2d1dvRlI3WVVadEl0SEpvYjctNHl2TDZGclJfSnFBa1hNR1BmdmhzanBjOVk5UFBKVzNvVE5OeDM1V1ZrYlY1bTBpUzMxWjRON3Z2QTZtbFdNak0?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPV094QWZBWXlvTUJxUmlWOVVJQk45YW9kTnVQYWtiaW5PQWtaNUtKc0xLNTMwTElIbG1HYmpUM0U4azU5ekpsTnY3N1pFNVItT1l3UHo2dzNtTm4tLXJ3eU1OaWM0V0hfSkNVdWk2a21aejZTWUd4NVdaQWM3ZVVNU2QtRjFYZko4WHVrbXVySGtTeDg?oc=5",
       "title": "Google's AI chip push just got a $22 billion boost",
       "summary": "",
       "publishedAt": "2026-09-17T13:33:13.000Z",
-      "publisher": "Yahoo Finance Singapore",
+      "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -477,6 +401,44 @@
       "summary": "",
       "publishedAt": "2026-09-17T13:19:06.000Z",
       "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "2ac443abbe634435a9587004fa49b479e299cd29",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNR0NXallBeEY1Q2dlSEhIaWJLdHI2MDFjeC1rZm1OQWJUblh3YmtnYUhtSjlaeVg5d2pWcDJsVnVNaGdxV2tjS1RyOEtLb3o0dGFwZFFRVHhLb0xhbG5xQjgwLWw1Qzd6Q0hzbC1pLVJrOWNYWS1CTmpab1VZbk9iUmpfMGpzMTMyb2s5TFFn?oc=5",
+      "title": "Construction worker dies at Meta data center site",
+      "summary": "",
+      "publishedAt": "2026-09-15T09:50:08.000Z",
+      "publisher": "Yahoo",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "1549eb1a5be99bcb4cefdc79d60bcbac76d19c22",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOamtMaEl3OW04aFdDZXY3Q0tDMnRWWHNna3h1ak5HTi1INUZIX0h6R1g1Z0JKOC1NSkR1R3VCVUFzTktFR0g0T2V4QzNRQkgtRlZ4YUltRGc0eGdITDhCY3N4M1VaRU5Nd2w1TWJXMnNSNTZPRHBkTUwwM0lUZkhmU1VzNnhtUXl2TTlPcGJ3c2NabEhmTDA3RGNaMGtKTmQzZG1hdm1sbzBDRHlmYXNZZ9IBtgFBVV95cUxQRk56b2o1TFpzTnZKNGpOVm5QeUxNZzk4SC11d1FGUnNNX1ltU0lTaGdYQjB4Qjl5aExrTjVJQ0xpWlVVQ2tqdGE4UU1tajBRZWM5NWVMVXJvcU1zZFFGX254NzV3V3RSLUVUR0E0VVc5REZxM01WbE9IZi1FWkNiaW5VbGJXbmtsdXQyS3Z4d0FNd2VlSDdJRlZDRDJZQnp1dmhyc2hQVDBBMENxaUlYc05IcHhfQQ?oc=5",
+      "title": "Broadcom CEO addresses Anthropic's slowdown push, says AI revenue targets haven't changed",
+      "summary": "",
+      "publishedAt": "2026-09-14T22:43:25.000Z",
+      "publisher": "CNBC",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -523,6 +485,44 @@
       }
     },
     {
+      "id": "3d0f7cb659e2066ec7c9e0ac0a45268d940f01b0",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/technology/families/teens-ai-research-findings",
+      "title": "5 things to know about teens' views on AI today",
+      "summary": "Findings from our research with RXN show teens are thoughtful and curious about AI.",
+      "publishedAt": "2026-09-16T15:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Technical or research update"
+      }
+    },
+    {
+      "id": "97cd97d27d220f15f9bc8a69f1f4b5eea602a9e8",
+      "company": "Anthropic",
+      "sourceKind": "official",
+      "sourceId": "anthropic-engineering",
+      "sourceLabel": "Anthropic Engineering",
+      "homepageUrl": "https://www.anthropic.com/engineering",
+      "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
+      "title": "Featured How we contain Claude across products As agents grow more capable, so does their potential blast radius. The engineering question is how to cap it. Here’s what we’ve learned building containment for claude.ai, Claude Code, and Cowork.",
+      "summary": "",
+      "publishedAt": null,
+      "publisher": "",
+      "discoveryMethod": "anchor",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Technical or research update"
+      }
+    },
+    {
       "id": "c72f60fcf6add18e14105032b742261fbd90d5e6",
       "company": "Google",
       "sourceKind": "official",
@@ -537,24 +537,24 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "digest",
-        "score": 2,
+        "score": 1,
         "reason": "Routine official update"
       }
     }
   ],
   "newItems": [
     {
-      "id": "991c3027073fe32f6180880838733a781e1d9d6d",
-      "company": "Anthropic",
+      "id": "5b2772208cdce19320d993d2a0fe977e340a9f3e",
+      "company": "OpenAI",
       "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQc2IwNmpYOVEzbjJXRlVQZE05MG5MNXhYUGc5QTloR2ZFeVY1S0I2TDJ3OUZMa01OQnpkYmxCTW82YUozOUQ4LVlBdzJUS085S1pQc08tcWxmQVJzNFExaF9YdG1ZbUEzUi1icElUUWkxZVY5YzJiZUlXbHhxNldyRllFOXlNcENBSHdNTHBSa0M5QVgzQU16T2RGTExhVm1iUTE0?oc=5",
-      "title": "Lawsuit accuses Anthropic, OpenAI, SpaceXAI, Google of AI pacing ‘collusion’",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcGNIX0w3dGlsV1dsUUdPS1l6TXFWSm8yUVBkTlVhZl85V1hGNHVadW9LZFRHRl95Y2VBY0Nvc3FvbDBOcXpfdFlYc1dEckQtbk9BMVlEeHBIYkdBVjJmZDYxMFFpVlR6Mm1NeEZ3cEFvcmtLLXRTWDZjQjRtRWxuYnNQQ204Q0I0Z3haTXRSN0w3QnhSYXZDOG00eXhQd2ZyTVhZc09SR3lSb0ZSMU5mYktsNzNjWTdLVGV6dmZNVQ?oc=5",
+      "title": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown",
       "summary": "",
-      "publishedAt": "2026-09-19T12:16:40.000Z",
-      "publisher": "Yahoo",
+      "publishedAt": "2026-09-19T22:05:00.000Z",
+      "publisher": "AP News",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -563,17 +563,17 @@
       }
     },
     {
-      "id": "d1b77dd85fcd3c3d3c09fbbe3789dc74472d70a9",
-      "company": "Anthropic",
+      "id": "de3f3d13eb8efa4559f02ecdab823138b23a9332",
+      "company": "Microsoft",
       "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWVJTdzFUYU9PYk1qZ295Q1dZUjgxalJZbS1NSmY1WjNPUV8xWjFBTllaaDhoaHV6aDE3c0EyM2l6VHJhTy10WTVFTU51XzV5R1lfTURCeXpzOXhud1B6ZTRua25jNjNBX0pkVHpaTzBLd0l3UVp3aXdHNzBWY0NlSDg4aU55TnVNbnUzTXpHYUxyU0htOVlMNGtlREwzdVN1emc?oc=5",
-      "title": "OpenAI, Anthropic, Google, SpaceXAI Hit With Antitrust Lawsuit",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeVR5Y1BLeFdPZFJXQkZmNXhGbFZPWXBBTGRPU0hhMHhqYjFUTmIwamI0aWNldkRnZ0RPZDl4TzdNeWpxclRha1dCelNCcHN3eUtMNzBRVWFwcUpVZUo5TGhRbTM4Y2duamRIUzdEWGdmQXlkSk9JSDZGczhHQUVHcEk0RmhESFZXTGxIQXVkd1k5MUR3dElSVVNWSkYtSWZiWkRnRjJ3eTk1eUs0WkpDZURyalRWbU00cWc?oc=5",
+      "title": "Lawsuit claims Anthropic, OpenAI, SpaceXAI and Google illegally agreed to coordinate AI slowdown",
       "summary": "",
-      "publishedAt": "2026-09-18T23:30:00.000Z",
-      "publisher": "Bloomberg Law News",
+      "publishedAt": "2026-09-19T20:34:00.000Z",
+      "publisher": "Fortune",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -582,150 +582,55 @@
       }
     },
     {
-      "id": "84150e702e93ef6040609a1ce679b6062f821909",
-      "company": "Meta",
+      "id": "0a4e755c8ce6ce5763d5f2b255320b3d18dba3c8",
+      "company": "OpenAI",
       "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbGZGa3VpcG5iZjMtbE1pRF9Db01OSy10aHlSUFdrMldIU0ZmQUhqYkxpSFVHR205d3VWdW9tVDJaTS1NNXBCU1gyT2FuNFhzbDE0aE4wcUN5ZHZ6SFRQUk5UY0thOE5BUHpPTHdNejJ3bnluYS1WblRzQUhIeGZ5VUpDUVNXSG1QS0hVbFZQN3l5ZWkzUUhB?oc=5",
-      "title": "Meta-Tied Data Center Draws Blowout Demand for Debut Junk Bond",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPM19yZG9CWkxLRGFEaVVfeGNTMFRZY3h3eW5uQTQ1VThHbmF5TFZSMTBNSWhIRG1ialpDTlVDWW5zZjgwQzNaRkxIZTVTQ2Y5blFWcGpfd3I5dUN5dElTbGt4dEZiQU04aG1fQm9yUi1qTUlOWXA1enBnUmhCdjFhNmJMYjR5NGhUMHBWZm1IQVRKUjI3NkRkdHQtWHBibmhYY1p5T1hVeXBaQllRNUx4WWdhN295d2M?oc=5",
+      "title": "Hackers who broke into OpenAI warn the AI industry has a security problem",
       "summary": "",
-      "publishedAt": "2026-09-18T18:18:16.000Z",
-      "publisher": "Yahoo Finance",
+      "publishedAt": "2026-09-20T16:00:00.000Z",
+      "publisher": "The Washington Post",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 6,
-        "reason": "Flagship model or product launch"
+        "score": 5,
+        "reason": "Safety, security, or policy update"
       }
     },
     {
-      "id": "2fe0d072b4e1f84e1fca05e9031092a5438726ec",
+      "id": "735cf067fdbef053719ed4cc6b95fe8c25bc9e50",
       "company": "Google",
       "sourceKind": "external",
       "sourceId": "external-google-major",
       "sourceLabel": "Major External News - Google",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1uQTYtMzFHOXh2N05IRTFBZks5VERQX05BLUs1T1c4eXhLNlBaWFc1NWttWnBzN3RMdkVCbzNWT2owNmNEN21vbDJNWDR1c3dsU3VKSEQyN0d2SkdnU25ILUxXcFcxQTBGZTBkVENocU5sMUstNkhkamJR?oc=5",
-      "title": "Google is the latest AI lab with a security testing mishap",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPV094QWZBWXlvTUJxUmlWOVVJQk45YW9kTnVQYWtiaW5PQWtaNUtKc0xLNTMwTElIbG1HYmpUM0U4azU5ekpsTnY3N1pFNVItT1l3UHo2dzNtTm4tLXJ3eU1OaWM0V0hfSkNVdWk2a21aejZTWUd4NVdaQWM3ZVVNU2QtRjFYZko4WHVrbXVySGtTeDg?oc=5",
+      "title": "Google's AI chip push just got a $22 billion boost",
       "summary": "",
-      "publishedAt": "2026-09-19T00:21:36.000Z",
-      "publisher": "Axios",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "3b43b7cc8aa6e52434a3aba6ab3cccb3f346f1b1",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTUFnSGpyQWtoZEdZY3IzTTEzZ2Npd2JTc0MtVUxfMW1LeWgwX0xBWXdXVmNHQ1p0NjF6Y1pPdFl6RnNtZTZjZEZfcW5FX2tWSE1ETHZxTmQyNWFIYzJGWHNoLVJxSFZ5SFFZdklHYWZvd0RMWk4tc3FuelVyck9LWDRzMUFmY2tpNDFlVmhIbVBGV2thR2N5UjlUM2pnMFlYT0FEOWhIVzRTaDRlZnc?oc=5",
-      "title": "EXCLUSIVE: OpenAI's Sam Altman to brief UN Security Council next week",
-      "summary": "",
-      "publishedAt": "2026-09-18T22:40:06.000Z",
-      "publisher": "Reuters",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "8e121543b83b13ca97a7beffffce9ff63eb07fe4",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1GR215MXpFWG9NeE9FWEZrNm9wRE1MaXJHdGZrMUQ0NEtUQ1dxb3pKWWtCN25MbURsc0tlN1ItT0FBSk9uaU5mZWx2cGJZLTFNTHRIdGc2bHljUW9GaUJtaGNUWEM5VnJtTHpXTFRPa1BEVnBYeHhxS2x3?oc=5",
-      "title": "Hackers breached OpenAI, adding to fever pitch of security and safety concerns",
-      "summary": "",
-      "publishedAt": "2026-09-18T18:00:13.000Z",
-      "publisher": "NBC News",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "559b0cf1119746d24724b9d0e19761800b6e48fa",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/australian-youth-safety-blueprint",
-      "title": "Introducing the Australian Youth Safety Blueprint",
-      "summary": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
-      "publishedAt": "2026-09-18T12:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "a6a4d44c829c5dabcdf75ab83ecc94dbf11c9787",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA3RVA2TEtUVXM4UDMtYktXa1U2Yzk1RmN1RHFGTTRMeEVYVUxGLXRaWkFLRE5nc0tfX0l2cnNQdGFzT25IaU50cHo0UzZzaWVzUkplWTg5SG16WktHOGYyMnpOQXpNSkJrZ0M0U0thcw?oc=5",
-      "title": "Anthropic tops $100 billion revenue pace, report says",
-      "summary": "",
-      "publishedAt": "2026-09-18T23:41:50.000Z",
-      "publisher": "Axios",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "c1be4a0b310fa1f6bdc4667170d7e6b0f626df67",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUVVzLXlhM3VLS0RMZTFPTHNSS1NFVUVkZG05Z001RWwxZHhvenpRcjFYRVl4YnpkcmJkWWUwb2drUjdKSklHakd0UHRscDhURDlFYXpfbHNoZzZBYUx0QmpTOWVkd24wNEdmRTB3eUhOd3NyWkZtUndTWVdOaVRfRVBaVWE5T0I4MGFNaWpnVUhQNTlsS2RtWkV0VnlJa2VmWjJOWGJ0ZldwTTFKSzE0Q0dpMA?oc=5",
-      "title": "Meta-Tied Data Center Prices Junk Bond Amid Blowout Demand",
-      "summary": "",
-      "publishedAt": "2026-09-18T20:24:12.000Z",
-      "publisher": "Bloomberg.com",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "a33f719d5da382c63fd56b764df2848a44832021",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOU3k5SFZtZEVSRjFfblItcHczRTRoU2Q2dHpYdm1xT0FSWHhLc2xWTWM1LWdGa3lWOUhYQllsRHgta20xcTRTZ3U2QjFJR0IzVnQzbERtWU12MU5reEZZTHJVVU85ZU5lajFuVG1fZjRqcU45d3lGMl9odE45VGhybmVZZDBEZmc0cHN3RTNWd3ZaTTVaMGFNd25ILXNKLUV4eGc?oc=5",
-      "title": "CleanSpark Discloses Meta As Georgia AI Data Center Tenant — CLSK Unit Plans Over $2.2B Raise To Fund Buildout",
-      "summary": "",
-      "publishedAt": "2026-09-17T14:31:41.000Z",
+      "publishedAt": "2026-09-17T13:33:13.000Z",
       "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "2ac443abbe634435a9587004fa49b479e299cd29",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNR0NXallBeEY1Q2dlSEhIaWJLdHI2MDFjeC1rZm1OQWJUblh3YmtnYUhtSjlaeVg5d2pWcDJsVnVNaGdxV2tjS1RyOEtLb3o0dGFwZFFRVHhLb0xhbG5xQjgwLWw1Qzd6Q0hzbC1pLVJrOWNYWS1CTmpab1VZbk9iUmpfMGpzMTMyb2s5TFFn?oc=5",
+      "title": "Construction worker dies at Meta data center site",
+      "summary": "",
+      "publishedAt": "2026-09-15T09:50:08.000Z",
+      "publisher": "Yahoo",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
