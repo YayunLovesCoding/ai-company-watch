@@ -1,49 +1,95 @@
 # AI Company Watch
 
-Generated: Sep 20, 2026, 10:20 AM PDT
+Generated: Sep 21, 2026, 12:08 PM PDT
 Lookback window: 7 day(s)
 Sources checked: 12
-Items fetched: 40
+Items fetched: 42
 Items kept: 24
-New items: 5
+New items: 11
 External items kept: 12
 Official items kept: 12
 
 ## Critical External News
 
+### Anthropic - Watch Accenture Up on Partnership with Anthropic; Novo Nordisk Falls on Turnaround
+Source: Major External News - Anthropic
+Publisher: Bloomberg.com
+Published: Sep 20, 2026
+Why it matters: Corporate move or major external event
+Link: https://news.google.com/rss/articles/CBMiqAFBVV95cUxObXcwWTI4UVB0WUUyNGMzYVNvR3pPbVl2SkxCcmp6QS1uOUFlUVJBTjdqa3FpZlc0UTc1NlNPbjViS3N5ZDBKY0lvOS04WnROSUlUQXV2N29XWXlqUEVPWFBBOTlZUlVtWlhSMzBBVF9jT05JSU9RSGVyQWtobUNmaVA5WTRZNl9JUllucUlKTVdWUk1JTUpZRnA2d0JhUndWQUZRb3pfWlA?oc=5
+
 ### OpenAI - Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown
 Source: Major External News - OpenAI
-Publisher: AP News
+Publisher: cnn.com
 Published: Sep 19, 2026
 Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMivwFBVV95cUxNcGNIX0w3dGlsV1dsUUdPS1l6TXFWSm8yUVBkTlVhZl85V1hGNHVadW9LZFRHRl95Y2VBY0Nvc3FvbDBOcXpfdFlYc1dEckQtbk9BMVlEeHBIYkdBVjJmZDYxMFFpVlR6Mm1NeEZ3cEFvcmtLLXRTWDZjQjRtRWxuYnNQQ204Q0I0Z3haTXRSN0w3QnhSYXZDOG00eXhQd2ZyTVhZc09SR3lSb0ZSMU5mYktsNzNjWTdLVGV6dmZNVQ?oc=5
+Link: https://news.google.com/rss/articles/CBMieEFVX3lxTE82MkZwQmxmdWNMZldrcmQycjJNb3MzemNLNEhOY01YSFdWV1VLOGtrTlh1UWc1RlZxQjV5Qk9yYjlmaUNEQTE3TS1PVFZjTnBzNVl4SWFFMzV0LVVlNlMzTDJaaFhXcUlOdHkxalVEaFE0VU1VMU1Veg?oc=5
 
-### Microsoft - Lawsuit claims Anthropic, OpenAI, SpaceXAI and Google illegally agreed to coordinate AI slowdown
+### Microsoft - 'The largest theft of labor in human history:' Court docs reveal Microsoft exec predicted AI 'doom loops' could hollow out the internet
 Source: Major External News - Microsoft
-Publisher: Fortune
+Publisher: Yahoo
 Published: Sep 19, 2026
 Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxQeVR5Y1BLeFdPZFJXQkZmNXhGbFZPWXBBTGRPU0hhMHhqYjFUTmIwamI0aWNldkRnZ0RPZDl4TzdNeWpxclRha1dCelNCcHN3eUtMNzBRVWFwcUpVZUo5TGhRbTM4Y2duamRIUzdEWGdmQXlkSk9JSDZGczhHQUVHcEk0RmhESFZXTGxIQXVkd1k5MUR3dElSVVNWSkYtSWZiWkRnRjJ3eTk1eUs0WkpDZURyalRWbU00cWc?oc=5
-
-### OpenAI - Hackers who broke into OpenAI warn the AI industry has a security problem
-Source: Major External News - OpenAI
-Publisher: The Washington Post
-Published: Sep 20, 2026
-Why it matters: Safety, security, or policy update
-Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxPM19yZG9CWkxLRGFEaVVfeGNTMFRZY3h3eW5uQTQ1VThHbmF5TFZSMTBNSWhIRG1ialpDTlVDWW5zZjgwQzNaRkxIZTVTQ2Y5blFWcGpfd3I5dUN5dElTbGt4dEZiQU04aG1fQm9yUi1qTUlOWXA1enBnUmhCdjFhNmJMYjR5NGhUMHBWZm1IQVRKUjI3NkRkdHQtWHBibmhYY1p5T1hVeXBaQllRNUx4WWdhN295d2M?oc=5
+Link: https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ2xRYzVuZFR6aTRId3JETGVsRDNqVzZLZXNiYi1zTUdpWk9DX2hVcjZxck1LUEVHdklBZ3JtZWdSQmNhUmxxbWZPaktISDhuX2ltSWJXektoOVhJa1lxeHdZLWRqVTBqazlPaDBhVHV2ZDhjV3gzQXBSWDllVlpxOEZiMkNmNGhPbUlBSnJWTTgyQUVCaDFINA?oc=5
 
 ## Important External News
 
-### Google - Google's AI chip push just got a $22 billion boost
-Source: Major External News - Google
-Publisher: Yahoo Finance
-Published: Sep 17, 2026
+### OpenAI - OpenAI and Anthropic Neared Deal to Stress-Test Each Other’s AI
+Source: Major External News - OpenAI
+Publisher: The Information
+Published: Sep 21, 2026
 Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMikwFBVV95cUxPV094QWZBWXlvTUJxUmlWOVVJQk45YW9kTnVQYWtiaW5PQWtaNUtKc0xLNTMwTElIbG1HYmpUM0U4azU5ekpsTnY3N1pFNVItT1l3UHo2dzNtTm4tLXJ3eU1OaWM0V0hfSkNVdWk2a21aejZTWUd4NVdaQWM3ZVVNU2QtRjFYZko4WHVrbXVySGtTeDg?oc=5
+Link: https://news.google.com/rss/articles/CBMilAFBVV95cUxQUDRwaDNUMzFDNEdibnZnNE9OYnpoeVIzQjhlQ1BtUmQzU3BoM0ZOM3JUZXEzTDdMcHpiQ05RUjNBRGJ0ZzBQbFRrQXdJWkxaVzZLeVo0QTN0ZEU3MjVNblItQ3J0WGI2dV9HUEpUU2FsU1B1T0hKMWdBTm9FZDhoTnRYYW1VTGFCQTFzNU9xLUVmRmN1?oc=5
 
-### Meta - Construction worker dies at Meta data center site
+### Meta - Meta data center boosts Alberta appeal for hyperscalers, Capital Power says
 Source: Major External News - Meta
-Publisher: Yahoo
-Published: Sep 15, 2026
+Publisher: Reuters
+Published: Sep 21, 2026
 Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMijgFBVV95cUxNR0NXallBeEY1Q2dlSEhIaWJLdHI2MDFjeC1rZm1OQWJUblh3YmtnYUhtSjlaeVg5d2pWcDJsVnVNaGdxV2tjS1RyOEtLb3o0dGFwZFFRVHhLb0xhbG5xQjgwLWw1Qzd6Q0hzbC1pLVJrOWNYWS1CTmpab1VZbk9iUmpfMGpzMTMyb2s5TFFn?oc=5
+Link: https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTldhVlJRcngtVWZhZFV3Q3l5TllveS1oQ2FzY3BMSlpHRTY1OS1BNWdxSF9aREtHdmN0WDZIMnl3dmtwOVI3ek1EejFhLVNKMjh3OXYtZmVhRWJBYThHcGg0eGZmeEZVeVctN2ozZ2l6SHZEYnNXWnhST19VR0VjZmlPOHF2U1IwNDlNTWNKdHhYNXlBRUZHSFdyMF8xRXhrZ0F1aW10ak9MYnpWeVFtNENzdjQ4QmhzeU1EZzNVT0Y?oc=5
+
+### Google - New Google AI breach
+Source: Major External News - Google
+Publisher: Yahoo
+Published: Sep 21, 2026
+Why it matters: Trusted external coverage
+Link: https://news.google.com/rss/articles/CBMic0FVX3lxTE9SUTV5OXB0RElUdVF6OEdPT3VTVjkycEFKWkhGZDVmVDFTcmZucFRGeFI2Y2c4S2Rrb2UxaExPVW9nZjNnR2tiWHl5a1ZabW1yMmZndjFQNnVvR1pkZnhmUkNfNkRMTDdRcENLYmpoanhZSTA?oc=5
+
+## Important Official Updates
+
+### OpenAI - Building standards for the next phase of AI
+Source: OpenAI Newsroom
+Published: Sep 21, 2026
+Why it matters: Safety, security, or policy update
+Summary: OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.
+Link: https://openai.com/index/building-standards-next-phase-ai
+
+### Microsoft - Microsoft brings AI-ready capabilities across its India cloud infrastructure
+Source: Microsoft AI
+Published: Sep 21, 2026
+Why it matters: Technical or research update
+Summary: Microsoft brings AI-ready capabilities across its India cloud infrastructure
+Link: https://news.microsoft.com/source/asia/2026/09/21/ai-ambition-into-action-microsoft-brings-ai-ready-capabilities-across-its-india-cloud-infrastructure-establishes-india-south-central-region-as-a-strategic-hub-for-asia-and-global-south
+
+## Official Company Updates
+
+### OpenAI - Advisory Group on Mathematics and Artificial Intelligence
+Source: OpenAI Newsroom
+Published: Sep 21, 2026
+Why it matters: Routine official update
+Summary: OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.
+Link: https://openai.com/index/advisory-group-on-mathematics-and-ai
+
+### OpenAI - Expanding OpenAI Academy with new learning paths
+Source: OpenAI Newsroom
+Published: Sep 21, 2026
+Why it matters: Routine official update
+Summary: Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.
+Link: https://openai.com/index/expanding-openai-academy-with-new-learning-paths
+
+### OpenAI - How V7 gives AI agents institutional memory
+Source: OpenAI Newsroom
+Published: Sep 20, 2026
+Why it matters: Routine official update
+Summary: Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.
+Link: https://openai.com/index/v7
