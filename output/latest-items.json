@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T19:08:54.622Z",
+  "generatedAt": "2026-09-22T18:00:01.542Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -76,27 +76,27 @@
     }
   ],
   "totals": {
-    "fetched": 42,
+    "fetched": 44,
     "deduped": 24,
-    "new": 11,
+    "new": 5,
     "byKind": {
-      "official": 12,
-      "external": 12
+      "official": 10,
+      "external": 14
     }
   },
   "items": [
     {
-      "id": "402646258abeb53f24fe83842ad98aedb4cbba0e",
-      "company": "Anthropic",
+      "id": "ef05456d6e5dec55f2703783fc1d1f20dd51c0ea",
+      "company": "Microsoft",
       "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObXcwWTI4UVB0WUUyNGMzYVNvR3pPbVl2SkxCcmp6QS1uOUFlUVJBTjdqa3FpZlc0UTc1NlNPbjViS3N5ZDBKY0lvOS04WnROSUlUQXV2N29XWXlqUEVPWFBBOTlZUlVtWlhSMzBBVF9jT05JSU9RSGVyQWtobUNmaVA5WTRZNl9JUllucUlKTVdWUk1JTUpZRnA2d0JhUndWQUZRb3pfWlA?oc=5",
-      "title": "Watch Accenture Up on Partnership with Anthropic; Novo Nordisk Falls on Turnaround",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQT1VVNmtMeXVoalNIRFNmY1FmWlR3ZGJmd2JNUklLbFpzNHBBRWhGa2FHQ1FCTnM4SVhCQ1Z4SjlaV2VfazFCbWJBRU14ZE5LSFc2WVpvQmxQSzd4NkZadEJCN1lHeWxTVF94bG5vS1pyV3V3YndwTDZzN1dmdkJjQzc1Rjlvd1p1N2x6MmtHanZGbGtrVGRMVDZ6RWxDaXoxWGVMVHdoS2I3bmRoMlRyczlOeC1MZw?oc=5",
+      "title": "Everforth’s Strengthened Microsoft Partnership Brings AI Ambition to Life",
       "summary": "",
-      "publishedAt": "2026-09-21T00:00:00.000Z",
-      "publisher": "Bloomberg.com",
+      "publishedAt": "2026-09-22T13:00:00.000Z",
+      "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -105,17 +105,17 @@
       }
     },
     {
-      "id": "e4ba8142a70cc994529d32e642d9913dd304c1bd",
+      "id": "bf0d5e574dcd5d689481c0d592bea3db9771c82a",
       "company": "OpenAI",
       "sourceKind": "external",
       "sourceId": "external-openai-major",
       "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE82MkZwQmxmdWNMZldrcmQycjJNb3MzemNLNEhOY01YSFdWV1VLOGtrTlh1UWc1RlZxQjV5Qk9yYjlmaUNEQTE3TS1PVFZjTnBzNVl4SWFFMzV0LVVlNlMzTDJaaFhXcUlOdHkxalVEaFE0VU1VMU1Veg?oc=5",
-      "title": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdnlwUnVoRm4wQllDQXBTaWZmQ2pXZ3phMWoxN1J2cmFhTTlzaG9OQ1dfX3NNaTd4Q2c2YW9WdnZneUlaRm11dnVZd0ZlMlQwLS1CUE5DYXJobXpGaVZTdWRrdmo4Sjd2cmhQU19sT0pTYW9EMjhMRzM3ODhoVFBRc0RQcDJrUjdLa0paM3habTVycUM0WU9rWjl2Z0VwUzZ1d2c?oc=5",
+      "title": "British Columbia Sues OpenAI Over Tumbler Ridge Shooting",
       "summary": "",
-      "publishedAt": "2026-09-20T01:06:00.000Z",
-      "publisher": "cnn.com",
+      "publishedAt": "2026-09-21T21:52:56.000Z",
+      "publisher": "The New York Times",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -134,26 +134,7 @@
       "title": "Lawsuit claims Anthropic, OpenAI, SpaceXAI and Google illegally agreed to coordinate AI slowdown",
       "summary": "",
       "publishedAt": "2026-09-19T20:34:00.000Z",
-      "publisher": "Fortune",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "0c0e4d1e101e27104291d851b80c6b45e4714858",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ2xRYzVuZFR6aTRId3JETGVsRDNqVzZLZXNiYi1zTUdpWk9DX2hVcjZxck1LUEVHdklBZ3JtZWdSQmNhUmxxbWZPaktISDhuX2ltSWJXektoOVhJa1lxeHdZLWRqVTBqazlPaDBhVHV2ZDhjV3gzQXBSWDllVlpxOEZiMkNmNGhPbUlBSnJWTTgyQUVCaDFINA?oc=5",
-      "title": "'The largest theft of labor in human history:' Court docs reveal Microsoft exec predicted AI 'doom loops' could hollow out the internet",
-      "summary": "",
-      "publishedAt": "2026-09-19T15:59:49.000Z",
-      "publisher": "Yahoo",
+      "publisher": "fortune.com",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -162,60 +143,41 @@
       }
     },
     {
-      "id": "d1b77dd85fcd3c3d3c09fbbe3789dc74472d70a9",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWVJTdzFUYU9PYk1qZ295Q1dZUjgxalJZbS1NSmY1WjNPUV8xWjFBTllaaDhoaHV6aDE3c0EyM2l6VHJhTy10WTVFTU51XzV5R1lfTURCeXpzOXhud1B6ZTRua25jNjNBX0pkVHpaTzBLd0l3UVp3aXdHNzBWY0NlSDg4aU55TnVNbnUzTXpHYUxyU0htOVlMNGtlREwzdVN1emc?oc=5",
-      "title": "OpenAI, Anthropic, Google, SpaceXAI Hit With Antitrust Lawsuit",
-      "summary": "",
-      "publishedAt": "2026-09-18T23:30:00.000Z",
-      "publisher": "Bloomberg Law News",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "0d8fba7ceb11739181e70028d40dadbfc68ea374",
+      "id": "f4129e28f104fd356347995977ed026765016c76",
       "company": "Anthropic",
       "sourceKind": "external",
       "sourceId": "external-anthropic-major",
       "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcW5iX2FHX2VuNXJnMlB2UGt5cEQ4cWhXYl92TGFvQVljSVVfem1BZzcwZzBlbzlzNXl4X1hjbDlHYXhRcHZfa3QzcXBQWmRUQ2hLMlNKSmV6OGdOUjE5Qk1yOW5xWEZJM2NuOE1KVnVVN1hsTHBsWFljNG80VE5CR0R5Ylo2OWNrUzljR29lVWlzRGwwaUEzNEItVk1id3czWFJQcTdCUllja1hQZVhnS1A5Sm1aeWVCNElyU0tlT0NKNmlSWWpBemNn?oc=5",
-      "title": "Dynasty CEO on Anthropic partnership: Empowering advisors to be able to help more people",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNzlJandXaXNfM1d1SlFFbkpVUDdiOHpZR2RFcVJZMkhJTG9rbm1rQXVnOHhGbXhQSFFrSm5kR3NUMUh3azVQTWRSbzUyekhtRFBUQ21nRmlMWUFxWF9IYWg0NFlOSnVMM2hydEl6aG5mR0htZHV4YjFVR2FZNzV2THRzYzAtSm9xZGp0VEEyREtTSXJaOVJ2UHk4TmtIdW5aMDB3MGxnbER6OHh5SHliOFB3?oc=5",
+      "title": "Anthropic CEO Dario Amodei to Brief UN Security Council on AI Risks",
       "summary": "",
-      "publishedAt": "2026-09-15T20:21:00.000Z",
-      "publisher": "CNBC",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "0a4e755c8ce6ce5763d5f2b255320b3d18dba3c8",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPM19yZG9CWkxLRGFEaVVfeGNTMFRZY3h3eW5uQTQ1VThHbmF5TFZSMTBNSWhIRG1ialpDTlVDWW5zZjgwQzNaRkxIZTVTQ2Y5blFWcGpfd3I5dUN5dElTbGt4dEZiQU04aG1fQm9yUi1qTUlOWXA1enBnUmhCdjFhNmJMYjR5NGhUMHBWZm1IQVRKUjI3NkRkdHQtWHBibmhYY1p5T1hVeXBaQllRNUx4WWdhN295d2M?oc=5",
-      "title": "Hackers who broke into OpenAI warn the AI industry has a security problem",
-      "summary": "",
-      "publishedAt": "2026-09-20T16:00:00.000Z",
-      "publisher": "The Washington Post",
+      "publishedAt": "2026-09-22T11:48:09.000Z",
+      "publisher": "Bloomberg.com",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
         "score": 5,
         "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "84150e702e93ef6040609a1ce679b6062f821909",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbGZGa3VpcG5iZjMtbE1pRF9Db01OSy10aHlSUFdrMldIU0ZmQUhqYkxpSFVHR205d3VWdW9tVDJaTS1NNXBCU1gyT2FuNFhzbDE0aE4wcUN5ZHZ6SFRQUk5UY0thOE5BUHpPTHdNejJ3bnluYS1WblRzQUhIeGZ5VUpDUVNXSG1QS0hVbFZQN3l5ZWkzUUhB?oc=5",
+      "title": "Meta-Tied Data Center Draws Blowout Demand for Debut Junk Bond",
+      "summary": "",
+      "publishedAt": "2026-09-18T18:18:16.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Flagship model or product launch"
       }
     },
     {
@@ -228,8 +190,27 @@
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUDRwaDNUMzFDNEdibnZnNE9OYnpoeVIzQjhlQ1BtUmQzU3BoM0ZOM3JUZXEzTDdMcHpiQ05RUjNBRGJ0ZzBQbFRrQXdJWkxaVzZLeVo0QTN0ZEU3MjVNblItQ3J0WGI2dV9HUEpUU2FsU1B1T0hKMWdBTm9FZDhoTnRYYW1VTGFCQTFzNU9xLUVmRmN1?oc=5",
       "title": "OpenAI and Anthropic Neared Deal to Stress-Test Each Other’s AI",
       "summary": "",
-      "publishedAt": "2026-09-21T13:55:00.000Z",
+      "publishedAt": "2026-09-22T17:52:54.000Z",
       "publisher": "The Information",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "1b4a5db49788506dfa7e5f5671e5bce84e03be40",
+      "company": "Google",
+      "sourceKind": "external",
+      "sourceId": "external-google-major",
+      "sourceLabel": "Major External News - Google",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQ2tWY0F2ZEFxZ1pVSC11NWl0Tl9MZEhaRHczLWV4WURDanFJZFk0Vk40T01rcEswR0l4WVVDWjdtR0VYM09CRzBlR3RWUUVGMDZ6aXFrejRlcnFHd3NINmNwRGpoYVdLYk1XajB3cTJmelNNVzVZQkgyTmNnZFNPSkdZYlZCRHNwaVloclFIazcxcm95aFJjeENFNzF6VUUyWFNHRm90NzlPTVZPaXgtNlYwNjc1bHFONFZtOQ?oc=5",
+      "title": "Gemini breach raises new questions over when AI incidents should be disclosed",
+      "summary": "",
+      "publishedAt": "2026-09-21T21:43:00.000Z",
+      "publisher": "CNBC",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -276,6 +257,44 @@
       }
     },
     {
+      "id": "0a4e755c8ce6ce5763d5f2b255320b3d18dba3c8",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPM19yZG9CWkxLRGFEaVVfeGNTMFRZY3h3eW5uQTQ1VThHbmF5TFZSMTBNSWhIRG1ialpDTlVDWW5zZjgwQzNaRkxIZTVTQ2Y5blFWcGpfd3I5dUN5dElTbGt4dEZiQU04aG1fQm9yUi1qTUlOWXA1enBnUmhCdjFhNmJMYjR5NGhUMHBWZm1IQVRKUjI3NkRkdHQtWHBibmhYY1p5T1hVeXBaQllRNUx4WWdhN295d2M?oc=5",
+      "title": "Hackers who broke into OpenAI warn the AI industry has a security problem",
+      "summary": "",
+      "publishedAt": "2026-09-20T16:00:00.000Z",
+      "publisher": "The Washington Post",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "3b43b7cc8aa6e52434a3aba6ab3cccb3f346f1b1",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTUFnSGpyQWtoZEdZY3IzTTEzZ2Npd2JTc0MtVUxfMW1LeWgwX0xBWXdXVmNHQ1p0NjF6Y1pPdFl6RnNtZTZjZEZfcW5FX2tWSE1ETHZxTmQyNWFIYzJGWHNoLVJxSFZ5SFFZdklHYWZvd0RMWk4tc3FuelVyck9LWDRzMUFmY2tpNDFlVmhIbVBGV2thR2N5UjlUM2pnMFlYT0FEOWhIVzRTaDRlZnc?oc=5",
+      "title": "EXCLUSIVE: OpenAI's Sam Altman to brief UN Security Council next week",
+      "summary": "",
+      "publishedAt": "2026-09-20T01:54:25.000Z",
+      "publisher": "Reuters",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
       "id": "2fe0d072b4e1f84e1fca05e9031092a5438726ec",
       "company": "Google",
       "sourceKind": "external",
@@ -286,7 +305,26 @@
       "title": "Google is the latest AI lab with a security testing mishap",
       "summary": "",
       "publishedAt": "2026-09-19T00:05:39.000Z",
-      "publisher": "Axios",
+      "publisher": "axios.com",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "b4fb82cc1313a309dc9a822b7c40c5ff7131eb6d",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/priorities-principles-third-party-assessments",
+      "title": "Priorities and principles for effective third party assessments",
+      "summary": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.",
+      "publishedAt": "2026-09-22T00:00:00.000Z",
+      "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -311,25 +349,6 @@
         "bucket": "important",
         "score": 4,
         "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "559b0cf1119746d24724b9d0e19761800b6e48fa",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/australian-youth-safety-blueprint",
-      "title": "Introducing the Australian Youth Safety Blueprint",
-      "summary": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
-      "publishedAt": "2026-09-18T12:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Flagship model or product launch"
       }
     },
     {
@@ -379,10 +398,10 @@
       "homepageUrl": "https://about.fb.com/news/",
       "url": "https://about.fb.com/news/2026/09/introducing-meta-one-subscription-service-more-features-ai",
       "title": "Introducing Meta One: A Subscription Service With More Features and AI to Create, Connect, and Stand Out",
-      "summary": "We're introducing Meta One, a new subscription service on Facebook, Instagram, WhatsApp, and Meta AI that offers more AI usage, enhanced expression features, and tools for creators and businesses. The post Introducing Meta One: A Subscription Service With More Features and AI to...",
-      "publishedAt": "2026-09-15T15:00:59.000Z",
+      "summary": "",
+      "publishedAt": null,
       "publisher": "",
-      "discoveryMethod": "feed",
+      "discoveryMethod": "anchor",
       "classification": {
         "bucket": "important",
         "score": 4,
@@ -409,17 +428,36 @@
       }
     },
     {
-      "id": "c1be4a0b310fa1f6bdc4667170d7e6b0f626df67",
+      "id": "735cf067fdbef053719ed4cc6b95fe8c25bc9e50",
+      "company": "Google",
+      "sourceKind": "external",
+      "sourceId": "external-google-major",
+      "sourceLabel": "Major External News - Google",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPV094QWZBWXlvTUJxUmlWOVVJQk45YW9kTnVQYWtiaW5PQWtaNUtKc0xLNTMwTElIbG1HYmpUM0U4azU5ekpsTnY3N1pFNVItT1l3UHo2dzNtTm4tLXJ3eU1OaWM0V0hfSkNVdWk2a21aejZTWUd4NVdaQWM3ZVVNU2QtRjFYZko4WHVrbXVySGtTeDg?oc=5",
+      "title": "Google's AI chip push just got a $22 billion boost",
+      "summary": "",
+      "publishedAt": "2026-09-17T13:33:13.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "de59e8be75cc3b1a796ce5319960d3ceba004da0",
       "company": "Meta",
       "sourceKind": "external",
       "sourceId": "external-meta-major",
       "sourceLabel": "Major External News - Meta",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUVVzLXlhM3VLS0RMZTFPTHNSS1NFVUVkZG05Z001RWwxZHhvenpRcjFYRVl4YnpkcmJkWWUwb2drUjdKSklHakd0UHRscDhURDlFYXpfbHNoZzZBYUx0QmpTOWVkd24wNEdmRTB3eUhOd3NyWkZtUndTWVdOaVRfRVBaVWE5T0I4MGFNaWpnVUhQNTlsS2RtWkV0VnlJa2VmWjJOWGJ0ZldwTTFKSzE0Q0dpMA?oc=5",
-      "title": "Meta-Tied Data Center Prices Junk Bond Amid Blowout Demand",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRU81Z2F1cXM1MjBuRnVzWEc3WjdhNXQ0b1lCSUVNdUZhTEl0alRDZFVVNEtHazdPRjJDMzJ4eUxXSk9pRm0xZjRodzNELUpFWFpCMW1EbkdTZVV3a1Q1c2E5T2dib0E4M3ctSS1qVHk3Y3FDTTZHeDc1VmMzeTZpalQ0Q3lUM1JRUkx1NXJubkZ1M3hC?oc=5",
+      "title": "Meta-Tied Data Center Taps US Junk Bonds for the First Time",
       "summary": "",
-      "publishedAt": "2026-09-18T20:24:12.000Z",
-      "publisher": "Bloomberg.com",
+      "publishedAt": "2026-09-17T13:19:06.000Z",
+      "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -502,154 +540,78 @@
         "score": 2,
         "reason": "Routine official update"
       }
-    },
-    {
-      "id": "530db518a73a571777c529207d091f26be78d527",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
-      "title": "Expanding OpenAI Academy with new learning paths",
-      "summary": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
-      "publishedAt": "2026-09-21T07:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "d1749ba76a98e7a548545e88aab7e9020497049a",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/v7",
-      "title": "How V7 gives AI agents institutional memory",
-      "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
-      "publishedAt": "2026-09-21T00:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
     }
   ],
   "newItems": [
     {
-      "id": "402646258abeb53f24fe83842ad98aedb4cbba0e",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObXcwWTI4UVB0WUUyNGMzYVNvR3pPbVl2SkxCcmp6QS1uOUFlUVJBTjdqa3FpZlc0UTc1NlNPbjViS3N5ZDBKY0lvOS04WnROSUlUQXV2N29XWXlqUEVPWFBBOTlZUlVtWlhSMzBBVF9jT05JSU9RSGVyQWtobUNmaVA5WTRZNl9JUllucUlKTVdWUk1JTUpZRnA2d0JhUndWQUZRb3pfWlA?oc=5",
-      "title": "Watch Accenture Up on Partnership with Anthropic; Novo Nordisk Falls on Turnaround",
-      "summary": "",
-      "publishedAt": "2026-09-21T00:00:00.000Z",
-      "publisher": "Bloomberg.com",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "e4ba8142a70cc994529d32e642d9913dd304c1bd",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE82MkZwQmxmdWNMZldrcmQycjJNb3MzemNLNEhOY01YSFdWV1VLOGtrTlh1UWc1RlZxQjV5Qk9yYjlmaUNEQTE3TS1PVFZjTnBzNVl4SWFFMzV0LVVlNlMzTDJaaFhXcUlOdHkxalVEaFE0VU1VMU1Veg?oc=5",
-      "title": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown",
-      "summary": "",
-      "publishedAt": "2026-09-20T01:06:00.000Z",
-      "publisher": "cnn.com",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "0c0e4d1e101e27104291d851b80c6b45e4714858",
+      "id": "ef05456d6e5dec55f2703783fc1d1f20dd51c0ea",
       "company": "Microsoft",
       "sourceKind": "external",
       "sourceId": "external-microsoft-major",
       "sourceLabel": "Major External News - Microsoft",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ2xRYzVuZFR6aTRId3JETGVsRDNqVzZLZXNiYi1zTUdpWk9DX2hVcjZxck1LUEVHdklBZ3JtZWdSQmNhUmxxbWZPaktISDhuX2ltSWJXektoOVhJa1lxeHdZLWRqVTBqazlPaDBhVHV2ZDhjV3gzQXBSWDllVlpxOEZiMkNmNGhPbUlBSnJWTTgyQUVCaDFINA?oc=5",
-      "title": "'The largest theft of labor in human history:' Court docs reveal Microsoft exec predicted AI 'doom loops' could hollow out the internet",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQT1VVNmtMeXVoalNIRFNmY1FmWlR3ZGJmd2JNUklLbFpzNHBBRWhGa2FHQ1FCTnM4SVhCQ1Z4SjlaV2VfazFCbWJBRU14ZE5LSFc2WVpvQmxQSzd4NkZadEJCN1lHeWxTVF94bG5vS1pyV3V3YndwTDZzN1dmdkJjQzc1Rjlvd1p1N2x6MmtHanZGbGtrVGRMVDZ6RWxDaXoxWGVMVHdoS2I3bmRoMlRyczlOeC1MZw?oc=5",
+      "title": "Everforth’s Strengthened Microsoft Partnership Brings AI Ambition to Life",
       "summary": "",
-      "publishedAt": "2026-09-19T15:59:49.000Z",
-      "publisher": "Yahoo",
+      "publishedAt": "2026-09-22T13:00:00.000Z",
+      "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 6,
+        "score": 7,
         "reason": "Corporate move or major external event"
       }
     },
     {
-      "id": "3d8f74797db39368f392d9cb18acc6de2397c776",
+      "id": "bf0d5e574dcd5d689481c0d592bea3db9771c82a",
       "company": "OpenAI",
       "sourceKind": "external",
       "sourceId": "external-openai-major",
       "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUDRwaDNUMzFDNEdibnZnNE9OYnpoeVIzQjhlQ1BtUmQzU3BoM0ZOM3JUZXEzTDdMcHpiQ05RUjNBRGJ0ZzBQbFRrQXdJWkxaVzZLeVo0QTN0ZEU3MjVNblItQ3J0WGI2dV9HUEpUU2FsU1B1T0hKMWdBTm9FZDhoTnRYYW1VTGFCQTFzNU9xLUVmRmN1?oc=5",
-      "title": "OpenAI and Anthropic Neared Deal to Stress-Test Each Other’s AI",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdnlwUnVoRm4wQllDQXBTaWZmQ2pXZ3phMWoxN1J2cmFhTTlzaG9OQ1dfX3NNaTd4Q2c2YW9WdnZneUlaRm11dnVZd0ZlMlQwLS1CUE5DYXJobXpGaVZTdWRrdmo4Sjd2cmhQU19sT0pTYW9EMjhMRzM3ODhoVFBRc0RQcDJrUjdLa0paM3habTVycUM0WU9rWjl2Z0VwUzZ1d2c?oc=5",
+      "title": "British Columbia Sues OpenAI Over Tumbler Ridge Shooting",
       "summary": "",
-      "publishedAt": "2026-09-21T13:55:00.000Z",
-      "publisher": "The Information",
+      "publishedAt": "2026-09-21T21:52:56.000Z",
+      "publisher": "The New York Times",
       "discoveryMethod": "feed",
       "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
       }
     },
     {
-      "id": "e9662e3d431f45117f7239d1065bdbbd76c0442e",
-      "company": "Meta",
+      "id": "f4129e28f104fd356347995977ed026765016c76",
+      "company": "Anthropic",
       "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTldhVlJRcngtVWZhZFV3Q3l5TllveS1oQ2FzY3BMSlpHRTY1OS1BNWdxSF9aREtHdmN0WDZIMnl3dmtwOVI3ek1EejFhLVNKMjh3OXYtZmVhRWJBYThHcGg0eGZmeEZVeVctN2ozZ2l6SHZEYnNXWnhST19VR0VjZmlPOHF2U1IwNDlNTWNKdHhYNXlBRUZHSFdyMF8xRXhrZ0F1aW10ak9MYnpWeVFtNENzdjQ4QmhzeU1EZzNVT0Y?oc=5",
-      "title": "Meta data center boosts Alberta appeal for hyperscalers, Capital Power says",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNzlJandXaXNfM1d1SlFFbkpVUDdiOHpZR2RFcVJZMkhJTG9rbm1rQXVnOHhGbXhQSFFrSm5kR3NUMUh3azVQTWRSbzUyekhtRFBUQ21nRmlMWUFxWF9IYWg0NFlOSnVMM2hydEl6aG5mR0htZHV4YjFVR2FZNzV2THRzYzAtSm9xZGp0VEEyREtTSXJaOVJ2UHk4TmtIdW5aMDB3MGxnbER6OHh5SHliOFB3?oc=5",
+      "title": "Anthropic CEO Dario Amodei to Brief UN Security Council on AI Risks",
       "summary": "",
-      "publishedAt": "2026-09-21T10:20:10.000Z",
-      "publisher": "Reuters",
+      "publishedAt": "2026-09-22T11:48:09.000Z",
+      "publisher": "Bloomberg.com",
       "discoveryMethod": "feed",
       "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Safety, security, or policy update"
       }
     },
     {
-      "id": "2c5e32a89bb8405efd7fb402658caf2142c6883f",
+      "id": "1b4a5db49788506dfa7e5f5671e5bce84e03be40",
       "company": "Google",
       "sourceKind": "external",
       "sourceId": "external-google-major",
       "sourceLabel": "Major External News - Google",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9SUTV5OXB0RElUdVF6OEdPT3VTVjkycEFKWkhGZDVmVDFTcmZucFRGeFI2Y2c4S2Rrb2UxaExPVW9nZjNnR2tiWHl5a1ZabW1yMmZndjFQNnVvR1pkZnhmUkNfNkRMTDdRcENLYmpoanhZSTA?oc=5",
-      "title": "New Google AI breach",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQ2tWY0F2ZEFxZ1pVSC11NWl0Tl9MZEhaRHczLWV4WURDanFJZFk0Vk40T01rcEswR0l4WVVDWjdtR0VYM09CRzBlR3RWUUVGMDZ6aXFrejRlcnFHd3NINmNwRGpoYVdLYk1XajB3cTJmelNNVzVZQkgyTmNnZFNPSkdZYlZCRHNwaVloclFIazcxcm95aFJjeENFNzF6VUUyWFNHRm90NzlPTVZPaXgtNlYwNjc1bHFONFZtOQ?oc=5",
+      "title": "Gemini breach raises new questions over when AI incidents should be disclosed",
       "summary": "",
-      "publishedAt": "2026-09-21T07:52:29.000Z",
-      "publisher": "Yahoo",
+      "publishedAt": "2026-09-21T21:43:00.000Z",
+      "publisher": "CNBC",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -658,98 +620,22 @@
       }
     },
     {
-      "id": "2c9792fbb14ae5db99d471df7e08a8d9eff4cc74",
+      "id": "b4fb82cc1313a309dc9a822b7c40c5ff7131eb6d",
       "company": "OpenAI",
       "sourceKind": "official",
       "sourceId": "openai-newsroom",
       "sourceLabel": "OpenAI Newsroom",
       "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/building-standards-next-phase-ai",
-      "title": "Building standards for the next phase of AI",
-      "summary": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
-      "publishedAt": "2026-09-21T10:00:00.000Z",
+      "url": "https://openai.com/index/priorities-principles-third-party-assessments",
+      "title": "Priorities and principles for effective third party assessments",
+      "summary": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.",
+      "publishedAt": "2026-09-22T00:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
         "score": 4,
         "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "19a7cdd103de6f27bd85126a0abd362cbf5c05d5",
-      "company": "Microsoft",
-      "sourceKind": "official",
-      "sourceId": "microsoft-ai",
-      "sourceLabel": "Microsoft AI",
-      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
-      "url": "https://news.microsoft.com/source/asia/2026/09/21/ai-ambition-into-action-microsoft-brings-ai-ready-capabilities-across-its-india-cloud-infrastructure-establishes-india-south-central-region-as-a-strategic-hub-for-asia-and-global-south",
-      "title": "Microsoft brings AI-ready capabilities across its India cloud infrastructure",
-      "summary": "Microsoft brings AI-ready capabilities across its India cloud infrastructure",
-      "publishedAt": "2026-09-21T17:48:33.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Technical or research update"
-      }
-    },
-    {
-      "id": "a7ca59844a94ccd6f8fa929c5c7dfde76ca3aff0",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
-      "title": "Advisory Group on Mathematics and Artificial Intelligence",
-      "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
-      "publishedAt": "2026-09-21T12:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "530db518a73a571777c529207d091f26be78d527",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
-      "title": "Expanding OpenAI Academy with new learning paths",
-      "summary": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
-      "publishedAt": "2026-09-21T07:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "d1749ba76a98e7a548545e88aab7e9020497049a",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/v7",
-      "title": "How V7 gives AI agents institutional memory",
-      "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
-      "publishedAt": "2026-09-21T00:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
       }
     }
   ],
