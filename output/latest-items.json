@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T18:00:01.542Z",
+  "generatedAt": "2026-09-23T18:18:52.189Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -78,24 +78,43 @@
   "totals": {
     "fetched": 44,
     "deduped": 24,
-    "new": 5,
+    "new": 7,
     "byKind": {
-      "official": 10,
-      "external": 14
+      "official": 9,
+      "external": 15
     }
   },
   "items": [
     {
-      "id": "ef05456d6e5dec55f2703783fc1d1f20dd51c0ea",
-      "company": "Microsoft",
+      "id": "f9930acfe82db7f816a00f989b321cea81d09e34",
+      "company": "OpenAI",
       "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQT1VVNmtMeXVoalNIRFNmY1FmWlR3ZGJmd2JNUklLbFpzNHBBRWhGa2FHQ1FCTnM4SVhCQ1Z4SjlaV2VfazFCbWJBRU14ZE5LSFc2WVpvQmxQSzd4NkZadEJCN1lHeWxTVF94bG5vS1pyV3V3YndwTDZzN1dmdkJjQzc1Rjlvd1p1N2x6MmtHanZGbGtrVGRMVDZ6RWxDaXoxWGVMVHdoS2I3bmRoMlRyczlOeC1MZw?oc=5",
-      "title": "Everforth’s Strengthened Microsoft Partnership Brings AI Ambition to Life",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQck5iQkduQjJvTW1teXFGOGNDQUFtTzliaGJhbTM2d0tnb0RUZUx0SGFLRVdwMDI4V2JSSDAwUFlDY1NjN0NPNEhpN3N4VkhSb1ZDTXdma210NzhVRl9PRF8wMkpXWHhneDhDZ3ZOZjlpMVBIVXNUWkVWLUI2Q1FWRWNJQnA3bExLVWZRS2laLTd5amxwSmV0TUxfWE9qT3ZZeldTdEdkY1hCRExLN1lQLVNZOA?oc=5",
+      "title": "OpenAI says SEC disclosures undermine xAI’s antitrust lawsuit",
       "summary": "",
-      "publishedAt": "2026-09-22T13:00:00.000Z",
+      "publishedAt": "2026-09-23T16:46:39.000Z",
+      "publisher": "Reuters",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "007f73db9746a9d5838a4f13482679950c6a78c8",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaFVnSzJyeklYQXozOV9aVGM5TmZ0VDk2bHQyVWRhTEJhM2ZBSFhMaTZCLVBfam1JbElJS3U5ajI0SjZDdzh2VVlETkVDRzZBZ19Qdk9MRmV3Zm1tUXVnS3Y3SnFTTFJPVXpDN2E0bExFRFhFQkFvbER6alMyTWdGdkxlMXVFUTNEVnZ3LVh0ektLd3VYSVBBay1fMjFpZVBQX3c?oc=5",
+      "title": "Meta's Muse Is Building Momentum With Another Major Partnership",
+      "summary": "",
+      "publishedAt": "2026-09-23T15:48:32.000Z",
       "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
@@ -105,36 +124,36 @@
       }
     },
     {
-      "id": "bf0d5e574dcd5d689481c0d592bea3db9771c82a",
-      "company": "OpenAI",
+      "id": "c94a234f99e9c10b57fc81364d82337749ffacc2",
+      "company": "Anthropic",
       "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdnlwUnVoRm4wQllDQXBTaWZmQ2pXZ3phMWoxN1J2cmFhTTlzaG9OQ1dfX3NNaTd4Q2c2YW9WdnZneUlaRm11dnVZd0ZlMlQwLS1CUE5DYXJobXpGaVZTdWRrdmo4Sjd2cmhQU19sT0pTYW9EMjhMRzM3ODhoVFBRc0RQcDJrUjdLa0paM3habTVycUM0WU9rWjl2Z0VwUzZ1d2c?oc=5",
-      "title": "British Columbia Sues OpenAI Over Tumbler Ridge Shooting",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1HRnRFZ3R4VWY1NnJiei1DdHVuaHhJbWwyX2ZiMzRYOTI3T0gwczBDalVmc0wxR2JCSG9ydTZUTTJuSnJaclZkVUE2RmM0VWN5ZEh6MGF5YlpHRF9pd21yQ0d0OGx2bnRramRSX2hUY2hka2tKS1Y3aUpqWDVEQQ?oc=5",
+      "title": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown",
       "summary": "",
-      "publishedAt": "2026-09-21T21:52:56.000Z",
-      "publisher": "The New York Times",
+      "publishedAt": "2026-09-20T01:09:28.000Z",
+      "publisher": "CNN",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 7,
+        "score": 6,
         "reason": "Corporate move or major external event"
       }
     },
     {
-      "id": "de3f3d13eb8efa4559f02ecdab823138b23a9332",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeVR5Y1BLeFdPZFJXQkZmNXhGbFZPWXBBTGRPU0hhMHhqYjFUTmIwamI0aWNldkRnZ0RPZDl4TzdNeWpxclRha1dCelNCcHN3eUtMNzBRVWFwcUpVZUo5TGhRbTM4Y2duamRIUzdEWGdmQXlkSk9JSDZGczhHQUVHcEk0RmhESFZXTGxIQXVkd1k5MUR3dElSVVNWSkYtSWZiWkRnRjJ3eTk1eUs0WkpDZURyalRWbU00cWc?oc=5",
-      "title": "Lawsuit claims Anthropic, OpenAI, SpaceXAI and Google illegally agreed to coordinate AI slowdown",
-      "summary": "",
-      "publishedAt": "2026-09-19T20:34:00.000Z",
-      "publisher": "fortune.com",
+      "id": "09a0c6dbf1c6c00d5fb73a47cc29663a5b36542b",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
+      "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+      "summary": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.",
+      "publishedAt": "2026-09-23T00:00:00.000Z",
+      "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -181,17 +200,36 @@
       }
     },
     {
-      "id": "3d8f74797db39368f392d9cb18acc6de2397c776",
+      "id": "3d48e529ad7a20b189a9c01e1c4d34221cb0505e",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+      "title": "Introducing GPT-6 Sol and Luna",
+      "summary": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
+      "publishedAt": "2026-09-22T18:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "523a37096eb71f90a457788983d6da62fe718f72",
       "company": "OpenAI",
       "sourceKind": "external",
       "sourceId": "external-openai-major",
       "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUDRwaDNUMzFDNEdibnZnNE9OYnpoeVIzQjhlQ1BtUmQzU3BoM0ZOM3JUZXEzTDdMcHpiQ05RUjNBRGJ0ZzBQbFRrQXdJWkxaVzZLeVo0QTN0ZEU3MjVNblItQ3J0WGI2dV9HUEpUU2FsU1B1T0hKMWdBTm9FZDhoTnRYYW1VTGFCQTFzNU9xLUVmRmN1?oc=5",
-      "title": "OpenAI and Anthropic Neared Deal to Stress-Test Each Other’s AI",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMHRNRFFoS1VWRnlkV2JYWkd2ZDZmSUlxZVhfV29UMjkwMDVKZVFmZU4wTFBZSXZUN1kwMmEzdmh3Q1N5ZVYtbHNpN01lRE5KV1U3ZkRQQ284RjlTVktLR0luLXV3YVVmbmlCa1ZacVQxMXVfQWxVUU1YSDU0QklDUXNuaDJvU05GU19fdmNrZ3ZIbzJiSFZYQXdoV3U?oc=5",
+      "title": "Sam Altman's OpenAI Is in Talks for a New Funding Round Valuing It at $1.2 Trillion Instead of an IPO. Here's Why He Called Going Public Now \"Ill-Advised.\"",
       "summary": "",
-      "publishedAt": "2026-09-22T17:52:54.000Z",
-      "publisher": "The Information",
+      "publishedAt": "2026-09-23T09:52:00.000Z",
+      "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -211,44 +249,6 @@
       "summary": "",
       "publishedAt": "2026-09-21T21:43:00.000Z",
       "publisher": "CNBC",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "e9662e3d431f45117f7239d1065bdbbd76c0442e",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTldhVlJRcngtVWZhZFV3Q3l5TllveS1oQ2FzY3BMSlpHRTY1OS1BNWdxSF9aREtHdmN0WDZIMnl3dmtwOVI3ek1EejFhLVNKMjh3OXYtZmVhRWJBYThHcGg0eGZmeEZVeVctN2ozZ2l6SHZEYnNXWnhST19VR0VjZmlPOHF2U1IwNDlNTWNKdHhYNXlBRUZHSFdyMF8xRXhrZ0F1aW10ak9MYnpWeVFtNENzdjQ4QmhzeU1EZzNVT0Y?oc=5",
-      "title": "Meta data center boosts Alberta appeal for hyperscalers, Capital Power says",
-      "summary": "",
-      "publishedAt": "2026-09-21T10:20:10.000Z",
-      "publisher": "Reuters",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "2c5e32a89bb8405efd7fb402658caf2142c6883f",
-      "company": "Google",
-      "sourceKind": "external",
-      "sourceId": "external-google-major",
-      "sourceLabel": "Major External News - Google",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9SUTV5OXB0RElUdVF6OEdPT3VTVjkycEFKWkhGZDVmVDFTcmZucFRGeFI2Y2c4S2Rrb2UxaExPVW9nZjNnR2tiWHl5a1ZabW1yMmZndjFQNnVvR1pkZnhmUkNfNkRMTDdRcENLYmpoanhZSTA?oc=5",
-      "title": "New Google AI breach",
-      "summary": "",
-      "publishedAt": "2026-09-21T07:52:29.000Z",
-      "publisher": "Yahoo",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -306,44 +306,6 @@
       "summary": "",
       "publishedAt": "2026-09-19T00:05:39.000Z",
       "publisher": "axios.com",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "b4fb82cc1313a309dc9a822b7c40c5ff7131eb6d",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/priorities-principles-third-party-assessments",
-      "title": "Priorities and principles for effective third party assessments",
-      "summary": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.",
-      "publishedAt": "2026-09-22T00:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "2c9792fbb14ae5db99d471df7e08a8d9eff4cc74",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/building-standards-next-phase-ai",
-      "title": "Building standards for the next phase of AI",
-      "summary": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
-      "publishedAt": "2026-09-21T10:00:00.000Z",
-      "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -428,6 +390,63 @@
       }
     },
     {
+      "id": "3d8f74797db39368f392d9cb18acc6de2397c776",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUDRwaDNUMzFDNEdibnZnNE9OYnpoeVIzQjhlQ1BtUmQzU3BoM0ZOM3JUZXEzTDdMcHpiQ05RUjNBRGJ0ZzBQbFRrQXdJWkxaVzZLeVo0QTN0ZEU3MjVNblItQ3J0WGI2dV9HUEpUU2FsU1B1T0hKMWdBTm9FZDhoTnRYYW1VTGFCQTFzNU9xLUVmRmN1?oc=5",
+      "title": "OpenAI and Anthropic Neared Deal to Stress Test Each Other’s AI",
+      "summary": "",
+      "publishedAt": "2026-09-21T13:55:00.000Z",
+      "publisher": "The Information",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "e9662e3d431f45117f7239d1065bdbbd76c0442e",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTldhVlJRcngtVWZhZFV3Q3l5TllveS1oQ2FzY3BMSlpHRTY1OS1BNWdxSF9aREtHdmN0WDZIMnl3dmtwOVI3ek1EejFhLVNKMjh3OXYtZmVhRWJBYThHcGg0eGZmeEZVeVctN2ozZ2l6SHZEYnNXWnhST19VR0VjZmlPOHF2U1IwNDlNTWNKdHhYNXlBRUZHSFdyMF8xRXhrZ0F1aW10ak9MYnpWeVFtNENzdjQ4QmhzeU1EZzNVT0Y?oc=5",
+      "title": "Meta data center boosts Alberta appeal for hyperscalers, Capital Power says",
+      "summary": "",
+      "publishedAt": "2026-09-21T10:20:10.000Z",
+      "publisher": "Reuters",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "2c5e32a89bb8405efd7fb402658caf2142c6883f",
+      "company": "Google",
+      "sourceKind": "external",
+      "sourceId": "external-google-major",
+      "sourceLabel": "Major External News - Google",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9SUTV5OXB0RElUdVF6OEdPT3VTVjkycEFKWkhGZDVmVDFTcmZucFRGeFI2Y2c4S2Rrb2UxaExPVW9nZjNnR2tiWHl5a1ZabW1yMmZndjFQNnVvR1pkZnhmUkNfNkRMTDdRcENLYmpoanhZSTA?oc=5",
+      "title": "New Google AI breach",
+      "summary": "",
+      "publishedAt": "2026-09-21T07:52:29.000Z",
+      "publisher": "Yahoo",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
       "id": "735cf067fdbef053719ed4cc6b95fe8c25bc9e50",
       "company": "Google",
       "sourceKind": "external",
@@ -466,16 +485,16 @@
       }
     },
     {
-      "id": "19a7cdd103de6f27bd85126a0abd362cbf5c05d5",
-      "company": "Microsoft",
+      "id": "1d77064cbebb782f18a0731cbc2f9d09624e05c9",
+      "company": "OpenAI",
       "sourceKind": "official",
-      "sourceId": "microsoft-ai",
-      "sourceLabel": "Microsoft AI",
-      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
-      "url": "https://news.microsoft.com/source/asia/2026/09/21/ai-ambition-into-action-microsoft-brings-ai-ready-capabilities-across-its-india-cloud-infrastructure-establishes-india-south-central-region-as-a-strategic-hub-for-asia-and-global-south",
-      "title": "Microsoft brings AI-ready capabilities across its India cloud infrastructure",
-      "summary": "Microsoft brings AI-ready capabilities across its India cloud infrastructure",
-      "publishedAt": "2026-09-21T17:48:33.000Z",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+      "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+      "summary": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
+      "publishedAt": "2026-09-23T13:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -521,39 +540,39 @@
         "score": 3,
         "reason": "Safety, security, or policy update"
       }
-    },
-    {
-      "id": "a7ca59844a94ccd6f8fa929c5c7dfde76ca3aff0",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
-      "title": "Advisory Group on Mathematics and Artificial Intelligence",
-      "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
-      "publishedAt": "2026-09-21T12:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
     }
   ],
   "newItems": [
     {
-      "id": "ef05456d6e5dec55f2703783fc1d1f20dd51c0ea",
-      "company": "Microsoft",
+      "id": "f9930acfe82db7f816a00f989b321cea81d09e34",
+      "company": "OpenAI",
       "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQT1VVNmtMeXVoalNIRFNmY1FmWlR3ZGJmd2JNUklLbFpzNHBBRWhGa2FHQ1FCTnM4SVhCQ1Z4SjlaV2VfazFCbWJBRU14ZE5LSFc2WVpvQmxQSzd4NkZadEJCN1lHeWxTVF94bG5vS1pyV3V3YndwTDZzN1dmdkJjQzc1Rjlvd1p1N2x6MmtHanZGbGtrVGRMVDZ6RWxDaXoxWGVMVHdoS2I3bmRoMlRyczlOeC1MZw?oc=5",
-      "title": "Everforth’s Strengthened Microsoft Partnership Brings AI Ambition to Life",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQck5iQkduQjJvTW1teXFGOGNDQUFtTzliaGJhbTM2d0tnb0RUZUx0SGFLRVdwMDI4V2JSSDAwUFlDY1NjN0NPNEhpN3N4VkhSb1ZDTXdma210NzhVRl9PRF8wMkpXWHhneDhDZ3ZOZjlpMVBIVXNUWkVWLUI2Q1FWRWNJQnA3bExLVWZRS2laLTd5amxwSmV0TUxfWE9qT3ZZeldTdEdkY1hCRExLN1lQLVNZOA?oc=5",
+      "title": "OpenAI says SEC disclosures undermine xAI’s antitrust lawsuit",
       "summary": "",
-      "publishedAt": "2026-09-22T13:00:00.000Z",
+      "publishedAt": "2026-09-23T16:46:39.000Z",
+      "publisher": "Reuters",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "007f73db9746a9d5838a4f13482679950c6a78c8",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaFVnSzJyeklYQXozOV9aVGM5TmZ0VDk2bHQyVWRhTEJhM2ZBSFhMaTZCLVBfam1JbElJS3U5ajI0SjZDdzh2VVlETkVDRzZBZ19Qdk9MRmV3Zm1tUXVnS3Y3SnFTTFJPVXpDN2E0bExFRFhFQkFvbER6alMyTWdGdkxlMXVFUTNEVnZ3LVh0ektLd3VYSVBBay1fMjFpZVBQX3c?oc=5",
+      "title": "Meta's Muse Is Building Momentum With Another Major Partnership",
+      "summary": "",
+      "publishedAt": "2026-09-23T15:48:32.000Z",
       "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
@@ -563,55 +582,74 @@
       }
     },
     {
-      "id": "bf0d5e574dcd5d689481c0d592bea3db9771c82a",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdnlwUnVoRm4wQllDQXBTaWZmQ2pXZ3phMWoxN1J2cmFhTTlzaG9OQ1dfX3NNaTd4Q2c2YW9WdnZneUlaRm11dnVZd0ZlMlQwLS1CUE5DYXJobXpGaVZTdWRrdmo4Sjd2cmhQU19sT0pTYW9EMjhMRzM3ODhoVFBRc0RQcDJrUjdLa0paM3habTVycUM0WU9rWjl2Z0VwUzZ1d2c?oc=5",
-      "title": "British Columbia Sues OpenAI Over Tumbler Ridge Shooting",
-      "summary": "",
-      "publishedAt": "2026-09-21T21:52:56.000Z",
-      "publisher": "The New York Times",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "f4129e28f104fd356347995977ed026765016c76",
+      "id": "c94a234f99e9c10b57fc81364d82337749ffacc2",
       "company": "Anthropic",
       "sourceKind": "external",
       "sourceId": "external-anthropic-major",
       "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNzlJandXaXNfM1d1SlFFbkpVUDdiOHpZR2RFcVJZMkhJTG9rbm1rQXVnOHhGbXhQSFFrSm5kR3NUMUh3azVQTWRSbzUyekhtRFBUQ21nRmlMWUFxWF9IYWg0NFlOSnVMM2hydEl6aG5mR0htZHV4YjFVR2FZNzV2THRzYzAtSm9xZGp0VEEyREtTSXJaOVJ2UHk4TmtIdW5aMDB3MGxnbER6OHh5SHliOFB3?oc=5",
-      "title": "Anthropic CEO Dario Amodei to Brief UN Security Council on AI Risks",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1HRnRFZ3R4VWY1NnJiei1DdHVuaHhJbWwyX2ZiMzRYOTI3T0gwczBDalVmc0wxR2JCSG9ydTZUTTJuSnJaclZkVUE2RmM0VWN5ZEh6MGF5YlpHRF9pd21yQ0d0OGx2bnRramRSX2hUY2hka2tKS1Y3aUpqWDVEQQ?oc=5",
+      "title": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown",
       "summary": "",
-      "publishedAt": "2026-09-22T11:48:09.000Z",
-      "publisher": "Bloomberg.com",
+      "publishedAt": "2026-09-20T01:09:28.000Z",
+      "publisher": "CNN",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "09a0c6dbf1c6c00d5fb73a47cc29663a5b36542b",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
+      "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+      "summary": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.",
+      "publishedAt": "2026-09-23T00:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "3d48e529ad7a20b189a9c01e1c4d34221cb0505e",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+      "title": "Introducing GPT-6 Sol and Luna",
+      "summary": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
+      "publishedAt": "2026-09-22T18:00:00.000Z",
+      "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
         "score": 5,
-        "reason": "Safety, security, or policy update"
+        "reason": "Flagship model or product launch"
       }
     },
     {
-      "id": "1b4a5db49788506dfa7e5f5671e5bce84e03be40",
-      "company": "Google",
+      "id": "523a37096eb71f90a457788983d6da62fe718f72",
+      "company": "OpenAI",
       "sourceKind": "external",
-      "sourceId": "external-google-major",
-      "sourceLabel": "Major External News - Google",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQ2tWY0F2ZEFxZ1pVSC11NWl0Tl9MZEhaRHczLWV4WURDanFJZFk0Vk40T01rcEswR0l4WVVDWjdtR0VYM09CRzBlR3RWUUVGMDZ6aXFrejRlcnFHd3NINmNwRGpoYVdLYk1XajB3cTJmelNNVzVZQkgyTmNnZFNPSkdZYlZCRHNwaVloclFIazcxcm95aFJjeENFNzF6VUUyWFNHRm90NzlPTVZPaXgtNlYwNjc1bHFONFZtOQ?oc=5",
-      "title": "Gemini breach raises new questions over when AI incidents should be disclosed",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMHRNRFFoS1VWRnlkV2JYWkd2ZDZmSUlxZVhfV29UMjkwMDVKZVFmZU4wTFBZSXZUN1kwMmEzdmh3Q1N5ZVYtbHNpN01lRE5KV1U3ZkRQQ284RjlTVktLR0luLXV3YVVmbmlCa1ZacVQxMXVfQWxVUU1YSDU0QklDUXNuaDJvU05GU19fdmNrZ3ZIbzJiSFZYQXdoV3U?oc=5",
+      "title": "Sam Altman's OpenAI Is in Talks for a New Funding Round Valuing It at $1.2 Trillion Instead of an IPO. Here's Why He Called Going Public Now \"Ill-Advised.\"",
       "summary": "",
-      "publishedAt": "2026-09-21T21:43:00.000Z",
-      "publisher": "CNBC",
+      "publishedAt": "2026-09-23T09:52:00.000Z",
+      "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -620,22 +658,22 @@
       }
     },
     {
-      "id": "b4fb82cc1313a309dc9a822b7c40c5ff7131eb6d",
+      "id": "1d77064cbebb782f18a0731cbc2f9d09624e05c9",
       "company": "OpenAI",
       "sourceKind": "official",
       "sourceId": "openai-newsroom",
       "sourceLabel": "OpenAI Newsroom",
       "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/priorities-principles-third-party-assessments",
-      "title": "Priorities and principles for effective third party assessments",
-      "summary": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.",
-      "publishedAt": "2026-09-22T00:00:00.000Z",
+      "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+      "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+      "summary": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
+      "publishedAt": "2026-09-23T13:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
-        "score": 4,
-        "reason": "Safety, security, or policy update"
+        "score": 3,
+        "reason": "Technical or research update"
       }
     }
   ],
