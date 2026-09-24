@@ -1,67 +1,111 @@
 # AI Company Watch
 
-Generated: Sep 23, 2026, 11:18 AM PDT
+Generated: Sep 24, 2026, 11:19 AM PDT
 Lookback window: 7 day(s)
 Sources checked: 12
-Items fetched: 44
+Items fetched: 37
 Items kept: 24
-New items: 7
-External items kept: 15
-Official items kept: 9
+New items: 13
+External items kept: 8
+Official items kept: 16
 
 ## Critical External News
 
-### OpenAI - OpenAI says SEC disclosures undermine xAI’s antitrust lawsuit
-Source: Major External News - OpenAI
-Publisher: Reuters
-Published: Sep 23, 2026
-Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxQck5iQkduQjJvTW1teXFGOGNDQUFtTzliaGJhbTM2d0tnb0RUZUx0SGFLRVdwMDI4V2JSSDAwUFlDY1NjN0NPNEhpN3N4VkhSb1ZDTXdma210NzhVRl9PRF8wMkpXWHhneDhDZ3ZOZjlpMVBIVXNUWkVWLUI2Q1FWRWNJQnA3bExLVWZRS2laLTd5amxwSmV0TUxfWE9qT3ZZeldTdEdkY1hCRExLN1lQLVNZOA?oc=5
-
-### Meta - Meta's Muse Is Building Momentum With Another Major Partnership
+### Meta - YouTube CEO dismisses the idea of joining Meta’s multistate child safety settlement
 Source: Major External News - Meta
-Publisher: Yahoo Finance
+Publisher: cnn.com
 Published: Sep 23, 2026
 Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMiogFBVV95cUxOaFVnSzJyeklYQXozOV9aVGM5TmZ0VDk2bHQyVWRhTEJhM2ZBSFhMaTZCLVBfam1JbElJS3U5ajI0SjZDdzh2VVlETkVDRzZBZ19Qdk9MRmV3Zm1tUXVnS3Y3SnFTTFJPVXpDN2E0bExFRFhFQkFvbER6alMyTWdGdkxlMXVFUTNEVnZ3LVh0ektLd3VYSVBBay1fMjFpZVBQX3c?oc=5
-
-### Anthropic - Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown
-Source: Major External News - Anthropic
-Publisher: CNN
-Published: Sep 19, 2026
-Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMifkFVX3lxTE1HRnRFZ3R4VWY1NnJiei1DdHVuaHhJbWwyX2ZiMzRYOTI3T0gwczBDalVmc0wxR2JCSG9ydTZUTTJuSnJaclZkVUE2RmM0VWN5ZEh6MGF5YlpHRF9pd21yQ0d0OGx2bnRramRSX2hUY2hka2tKS1Y3aUpqWDVEQQ?oc=5
+Link: https://news.google.com/rss/articles/CBMiggFBVV95cUxQSGx1dzVBQW9KODRfVFdSMTF3ZHF0RTY5WE5XN3NaNDNSZkMwYk9VaVh0X0wwRnRqTXNaQzZIMEt2Wmp0cjdrdkx3elRHbmtCTy1qeXpyS2NTdGIweVBzdGpweHhhV1RLaUp2a0I2cFhXRVM2ajhkZEw1ZmhRLV90cEJB?oc=5
 
 ## Important External News
 
-### OpenAI - Sam Altman's OpenAI Is in Talks for a New Funding Round Valuing It at $1.2 Trillion Instead of an IPO. Here's Why He Called Going Public Now "Ill-Advised."
+### OpenAI - OpenAI’s A.I. Tried to Breach 4 Other Targets, Without Prompting
 Source: Major External News - OpenAI
-Publisher: Yahoo Finance
+Publisher: The New York Times
 Published: Sep 23, 2026
 Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMinAFBVV95cUxPMHRNRFFoS1VWRnlkV2JYWkd2ZDZmSUlxZVhfV29UMjkwMDVKZVFmZU4wTFBZSXZUN1kwMmEzdmh3Q1N5ZVYtbHNpN01lRE5KV1U3ZkRQQ284RjlTVktLR0luLXV3YVVmbmlCa1ZacVQxMXVfQWxVUU1YSDU0QklDUXNuaDJvU05GU19fdmNrZ3ZIbzJiSFZYQXdoV3U?oc=5
+Link: https://news.google.com/rss/articles/CBMigwFBVV95cUxOZmdNdEU4T2dVMHUwV05rNkZjM0hrcWZRWUlLOTBoOU9BLVl1VTVCR3c5MkQ5QTRkSHFTb0dFUU1lUW56S2R5X3ZRaUR3UFViaGJuTm5FRk5LTmJXanFoUWVEbklfdVI3azB6dEMzbXdwUnhNZUd0UFJDWjFVS21wOXdzRQ?oc=5
+
+### OpenAI - OpenAI data breach latest in long list of hacks in Australia
+Source: Major External News - OpenAI
+Publisher: Reuters
+Published: Sep 23, 2026
+Why it matters: Trusted external coverage
+Link: https://news.google.com/rss/articles/CBMipwFBVV95cUxPcFM2SnQ3ZWdmbk1yS0JKSXkwZFp3QmZsbzZTbmxFTHZMWGxVUk5MMHJFQ1IzcVhjdW5obE5OZzJ3cUFwYlpPUHR3V0hxY3hqd1BtbWVvZWVNYk5GSk1aVjVsdUx0U2J6OGh5R3A2SlhVUzFGeFo2U3pWZG9zU2V4NVNZSHVTRDZiNXJPSkhyWHMxY0NVOXJSV01fX2FVZjRtVGlOTm1Naw?oc=5
 
 ## Critical Official Updates
 
-### OpenAI - Grab and OpenAI bring practical AI skills to Southeast Asia
-Source: OpenAI Newsroom
-Published: Sep 22, 2026
+### Meta - Introducing Ray-Ban Meta Audio and More AI Glasses Styles
+Source: Meta Newsroom
+Published: Sep 23, 2026
 Why it matters: Corporate move or major external event
-Summary: OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.
-Link: https://openai.com/index/grab-openai-ai-skills-southeast-asia
+Summary: Today at Connect, we introduced Ray-Ban Meta Audio, our first-ever audio glasses, and our biggest expansion of AI glasses. The post Introducing Ray-Ban Meta Audio and More AI Glasses Styles
+Link: https://about.fb.com/news/2026/09/introducing-ray-ban-meta-audio-glasses-new-styles-plus-muse
 
-### OpenAI - Introducing GPT-6 Sol and Luna
-Source: OpenAI Newsroom
-Published: Sep 22, 2026
+### Google - Introducing Gemini 3.8 Live with Live Avatar
+Source: Google AI
+Published: Sep 24, 2026
 Why it matters: Flagship model or product launch
-Summary: Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.
-Link: https://openai.com/index/introducing-gpt-6-sol-and-luna
+Summary: Introducing Gemini 3.8 Live with Live Avatar, which brings near real-time visual presence to Gemini’s conversational AI.
+Link: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-with-live-avatar
 
 ## Important Official Updates
 
-### OpenAI - OpenAI extends cyber access to Ukraine for civilian defense
+### OpenAI - Sam Altman’s remarks at the United Nations Security Council
 Source: OpenAI Newsroom
 Published: Sep 23, 2026
-Why it matters: Technical or research update
-Summary: OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.
-Link: https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense
+Why it matters: Safety, security, or policy update
+Summary: OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.
+Link: https://openai.com/index/sam-altman-un-security-council-remarks
+
+## Official Company Updates
+
+### Google - Behind Project Suncatcher, our moonshot to put AI in space
+Source: Google AI
+Published: Sep 24, 2026
+Why it matters: Routine official update
+Summary: Learn about Project Suncatcher, how we’re testing hardware survival for space, designing cooling systems for AI chips, and more.
+Link: https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts
+
+### Google - A new wave of Connected Apps is rolling out to Gemini.
+Source: Google AI
+Published: Sep 23, 2026
+Why it matters: Routine official update
+Summary: Gemini is adding new Connected Apps, including Adobe, Airtable, Linear, Peloton and more to help you easily tackle your to-do list.
+Link: https://blog.google/innovation-and-ai/products/gemini-app/new-connected-apps-gemini
+
+### OpenAI - Two years of OpenAI Academy
+Source: OpenAI Newsroom
+Published: Sep 23, 2026
+Why it matters: Routine official update
+Summary: Marking two years of OpenAI Academy and bringing AI skills to even more communities.
+Link: https://openai.com/index/two-years-of-openai-academy
+
+### Google - Gemini 3.8 text-to-speech says hello
+Source: Google AI
+Published: Sep 23, 2026
+Why it matters: Routine official update
+Summary: Gemini 3.8 Flash-Lite TTS and Gemini 3.8 Flash TTS are our most expressive audio models yet.
+Link: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech
+
+### OpenAI - Harvey turns legal context into stronger drafts with GPT-6 Astra
+Source: OpenAI Newsroom
+Published: Sep 23, 2026
+Why it matters: Routine official update
+Summary: GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.
+Link: https://openai.com/index/harvey-from-context-to-confidence-with-astra
+
+### OpenAI - How invideo improves color grading 3x with GPT‑6 Astra
+Source: OpenAI Newsroom
+Published: Sep 23, 2026
+Why it matters: Routine official update
+Summary: With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.
+Link: https://openai.com/index/invideo-builds-with-gpt-6-astra
+
+### OpenAI - Ringg’s AI agents resolve up to 65% of customer calls with OpenAI
+Source: OpenAI Newsroom
+Published: Sep 23, 2026
+Why it matters: Routine official update
+Summary: Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.
+Link: https://openai.com/index/ringg
