@@ -1,111 +1,87 @@
 # AI Company Watch
 
-Generated: Sep 24, 2026, 11:19 AM PDT
+Generated: Sep 25, 2026, 11:20 AM PDT
 Lookback window: 7 day(s)
 Sources checked: 12
-Items fetched: 37
+Items fetched: 40
 Items kept: 24
-New items: 13
-External items kept: 8
-Official items kept: 16
+New items: 10
+External items kept: 13
+Official items kept: 11
 
 ## Critical External News
 
-### Meta - YouTube CEO dismisses the idea of joining Meta’s multistate child safety settlement
-Source: Major External News - Meta
-Publisher: cnn.com
-Published: Sep 23, 2026
+### Anthropic - US court refuses to overturn Pentagon ban on Anthropic
+Source: Major External News - Anthropic
+Publisher: Yahoo
+Published: Sep 25, 2026
 Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMiggFBVV95cUxQSGx1dzVBQW9KODRfVFdSMTF3ZHF0RTY5WE5XN3NaNDNSZkMwYk9VaVh0X0wwRnRqTXNaQzZIMEt2Wmp0cjdrdkx3elRHbmtCTy1qeXpyS2NTdGIweVBzdGpweHhhV1RLaUp2a0I2cFhXRVM2ajhkZEw1ZmhRLV90cEJB?oc=5
+Link: https://news.google.com/rss/articles/CBMimgFBVV95cUxQaWI4VVdkMjVGWTFyRFJ2M0k4a0NnWjJNUXNMR2F3Y0p1S0loR3VmRFZrcjVfa1ZsbWwtUDFGdEFyd2tyNUtWZkhpRGVaSjYzekpQcXBFTkY1TlFOY19QZmZRbVhRSUZjSXVKQjBnYVoySGVFeDVXNXpFaHhDLUVuUHJ1cUFQdnkyWTdvcjBXQWtOdWlzNVZTX1l3?oc=5
+
+### Anthropic - Appeals Court Lets the Pentagon Designate Anthropic a Supply-Chain Risk
+Source: Major External News - Anthropic
+Publisher: WIRED
+Published: Sep 25, 2026
+Why it matters: Corporate move or major external event
+Link: https://news.google.com/rss/articles/CBMiogFBVV95cUxOTE9vOWNUUFgyc2dxT2ZpcUc1TnZVZmhaY19qTmkwdTFyZnZvMzZHeHVZcmJfQm5hR0lnQkxzT2R5RnBfOWpIYUFXMkR1TUhqY2trbURYRFZ5Ri1QZEJ0LUpfZTFYSmZHZDJrc2x2eHdYNHFRb21zV1R4dWkzNXBIT2FBV3E4VnYxdWltaDFBcmZEdU05WU82Wnd3SXQ4UW5nbUE?oc=5
+
+### Anthropic - US appeals court upholds Pentagon's blacklisting of Anthropic
+Source: Major External News - Anthropic
+Publisher: Reuters
+Published: Sep 25, 2026
+Why it matters: Corporate move or major external event
+Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN2xsSW1uNVNkSjE2UHVQSGFlOGJTbGFRa2dtdWgyb1owYlFpS2RHZHVSQnRxSTRoSnhqWWJTMEV4Q1BfNzRJZ0h4MVY4S014TTAxbjU4aThsZW95OUhEUFg2Tlg5ZU92Y21RcXVZa1hySFBUT2FXVkZ1ZlRaV3BpNnJFY3g2Ny1KRkpyQm5pNTctbS04V182WjZpYWczRWlJM1RMWl9uU0hNQQ?oc=5
+
+### Anthropic - U.S. appeals court upholds Pentagon designation of Anthropic as supply chain risk
+Source: Major External News - Anthropic
+Publisher: CNBC
+Published: Sep 25, 2026
+Why it matters: Corporate move or major external event
+Link: https://news.google.com/rss/articles/CBMiwAFBVV95cUxQLWZvSUJSUjRaSHZidnBzMzZiVHFpa0RYeUx4NS1Wdko4Q2xfb2YtbTdGbzZmUXJ3NExBV05seTZSNHpNcjM1dDUxU1BvcmUwbTNheWJfRDFnR3ZyTVJnY01LWnFlNktrVUU1Rk1jY2l5a0lUa05Ubnh5dUJYR0Q2d2VuaEVHbFRqSEIyZTY1ZzRZNnprMjRObTFnUXhvU0FMTkVRSFVKcnRwSllaRUJoVm9Yc01iUl95SENHc0U2UDY?oc=5
+
+### Microsoft - This Beaten-Down AI Stock Just Landed a Major OpenAI Partnership
+Source: Major External News - Microsoft
+Publisher: Yahoo Finance
+Published: Sep 24, 2026
+Why it matters: Corporate move or major external event
+Link: https://news.google.com/rss/articles/CBMikwFBVV95cUxOLTF3WElHUkZkNHdzRGl1MV9fMjJOMVk0ckFtZGdUOEZzZjRkNDBlNVpld3ZONndWQXRPcjVuZVFnbTlxV3VTV1RpcndfdHJZWW9BNkU3bTROZ0JkOEw0NzJIbXFrT1NOUXV5ek85cl8xR3F1bk0xUUltbGFfMjkyU25uOTV3Tm5jYzNoZFk1MXExNWM?oc=5
 
 ## Important External News
 
-### OpenAI - OpenAI’s A.I. Tried to Breach 4 Other Targets, Without Prompting
+### OpenAI - OpenAI breach of Australian government linked to wider AI hacking campaign
 Source: Major External News - OpenAI
-Publisher: The New York Times
-Published: Sep 23, 2026
+Publisher: Financial Times
+Published: Sep 24, 2026
 Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMigwFBVV95cUxOZmdNdEU4T2dVMHUwV05rNkZjM0hrcWZRWUlLOTBoOU9BLVl1VTVCR3c5MkQ5QTRkSHFTb0dFUU1lUW56S2R5X3ZRaUR3UFViaGJuTm5FRk5LTmJXanFoUWVEbklfdVI3azB6dEMzbXdwUnhNZUd0UFJDWjFVS21wOXdzRQ?oc=5
+Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxNclNvRXRmSzdWY050dWx1TXZ4cS1pelpSMUxRWmpSZTZKbFZGUDYwZ3REbWZCQTNvZDJ3bjNsUEliVjYzMkJ6LW92YXhaR3pza3JFVFZtVnA4YlIxTWdSdy1OYVdCcGcxajQyZXBpOVdFQ0Z1bmhkWHMwWHdNUFhPRnFlUks?oc=5
 
-### OpenAI - OpenAI data breach latest in long list of hacks in Australia
-Source: Major External News - OpenAI
-Publisher: Reuters
+### Meta - Oracle and Meta Are Selling AI Data Center Debt to Investors Hungry for Yield
+Source: Major External News - Meta
+Publisher: Startup Fortune
 Published: Sep 23, 2026
 Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMipwFBVV95cUxPcFM2SnQ3ZWdmbk1yS0JKSXkwZFp3QmZsbzZTbmxFTHZMWGxVUk5MMHJFQ1IzcVhjdW5obE5OZzJ3cUFwYlpPUHR3V0hxY3hqd1BtbWVvZWVNYk5GSk1aVjVsdUx0U2J6OGh5R3A2SlhVUzFGeFo2U3pWZG9zU2V4NVNZSHVTRDZiNXJPSkhyWHMxY0NVOXJSV01fX2FVZjRtVGlOTm1Naw?oc=5
+Link: https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdnlQVDljYVdtZ3lzN3ZMR3J5NGxTbXg3WW9YVmVXbVc2VHhvNWJQYjNpQ2duTmFpbXhVOWEwSXNwR3k1dWVfbU4ySmR3R3JQTnI4UU5fMkxWYlUtSkdiWVBfSS1JelZKQm1kOVRVVjNxcTJNTHdjVGotVE1ianFmeVhDQ3Z4eFNjMXNjYjg4TnNDTXNsdXM2WE1STmpyTDBPbW44S2NDZV8?oc=5
 
 ## Critical Official Updates
 
-### Meta - Introducing Ray-Ban Meta Audio and More AI Glasses Styles
+### Meta - The Biggest News From Connect 2026
 Source: Meta Newsroom
-Published: Sep 23, 2026
-Why it matters: Corporate move or major external event
-Summary: Today at Connect, we introduced Ray-Ban Meta Audio, our first-ever audio glasses, and our biggest expansion of AI glasses. The post Introducing Ray-Ban Meta Audio and More AI Glasses Styles
-Link: https://about.fb.com/news/2026/09/introducing-ray-ban-meta-audio-glasses-new-styles-plus-muse
-
-### Google - Introducing Gemini 3.8 Live with Live Avatar
-Source: Google AI
 Published: Sep 24, 2026
 Why it matters: Flagship model or product launch
-Summary: Introducing Gemini 3.8 Live with Live Avatar, which brings near real-time visual presence to Gemini’s conversational AI.
-Link: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-with-live-avatar
-
-## Important Official Updates
-
-### OpenAI - Sam Altman’s remarks at the United Nations Security Council
-Source: OpenAI Newsroom
-Published: Sep 23, 2026
-Why it matters: Safety, security, or policy update
-Summary: OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.
-Link: https://openai.com/index/sam-altman-un-security-council-remarks
+Summary: Yesterday at Connect, we announced that we're bringing Muse to our AI glasses, launched Meta VR Glasses, and more. The post The Biggest News From Connect 2026
+Link: https://about.fb.com/news/2026/09/the-biggest-news-from-connect-2026
 
 ## Official Company Updates
 
-### Google - Behind Project Suncatcher, our moonshot to put AI in space
-Source: Google AI
-Published: Sep 24, 2026
-Why it matters: Routine official update
-Summary: Learn about Project Suncatcher, how we’re testing hardware survival for space, designing cooling systems for AI chips, and more.
-Link: https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts
-
-### Google - A new wave of Connected Apps is rolling out to Gemini.
-Source: Google AI
-Published: Sep 23, 2026
-Why it matters: Routine official update
-Summary: Gemini is adding new Connected Apps, including Adobe, Airtable, Linear, Peloton and more to help you easily tackle your to-do list.
-Link: https://blog.google/innovation-and-ai/products/gemini-app/new-connected-apps-gemini
-
-### OpenAI - Two years of OpenAI Academy
+### OpenAI - Proaction boosts sales 60% and saves 75+ hours with Codex
 Source: OpenAI Newsroom
-Published: Sep 23, 2026
+Published: Sep 25, 2026
 Why it matters: Routine official update
-Summary: Marking two years of OpenAI Academy and bringing AI skills to even more communities.
-Link: https://openai.com/index/two-years-of-openai-academy
+Summary: With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.
+Link: https://openai.com/index/proaction
 
-### Google - Gemini 3.8 text-to-speech says hello
-Source: Google AI
-Published: Sep 23, 2026
-Why it matters: Routine official update
-Summary: Gemini 3.8 Flash-Lite TTS and Gemini 3.8 Flash TTS are our most expressive audio models yet.
-Link: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech
-
-### OpenAI - Harvey turns legal context into stronger drafts with GPT-6 Astra
-Source: OpenAI Newsroom
-Published: Sep 23, 2026
-Why it matters: Routine official update
-Summary: GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.
-Link: https://openai.com/index/harvey-from-context-to-confidence-with-astra
-
-### OpenAI - How invideo improves color grading 3x with GPT‑6 Astra
-Source: OpenAI Newsroom
-Published: Sep 23, 2026
-Why it matters: Routine official update
-Summary: With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.
-Link: https://openai.com/index/invideo-builds-with-gpt-6-astra
-
-### OpenAI - Ringg’s AI agents resolve up to 65% of customer calls with OpenAI
-Source: OpenAI Newsroom
-Published: Sep 23, 2026
-Why it matters: Routine official update
-Summary: Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.
-Link: https://openai.com/index/ringg
+### Microsoft - Read the story titled RetroChimera: New research advances AI-assisted molecule synthesis
+Source: Microsoft AI
+Published: Unknown
+Why it matters: Technical or research update
+Link: https://news.microsoft.com/source/features/ai/retrochimera-new-research-advances-ai-assisted-molecule-synthesis
