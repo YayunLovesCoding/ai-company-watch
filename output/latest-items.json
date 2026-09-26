@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T18:20:36.527Z",
+  "generatedAt": "2026-09-26T17:39:47.870Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -76,15 +76,53 @@
     }
   ],
   "totals": {
-    "fetched": 40,
+    "fetched": 41,
     "deduped": 24,
-    "new": 10,
+    "new": 2,
     "byKind": {
       "official": 11,
       "external": 13
     }
   },
   "items": [
+    {
+      "id": "2b027d95262bfdf4714903e883525c015ad386f8",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMmZiVTUwWWlHd2JWeHlOOEpZVzkzeWZSUW5Jb3RkNVQxTnF0VHEtNFFHc3JyLU9GZ0ZrT2g2dnNNR0V5RUdvaGpQSHZqaGF3OEtBZ1Q5cmZzakNwdUx4WWpqN3JFd01IYUQ0UWd2STMwbGxFc180NXNPcEFkM2t4YzhQaXo?oc=5",
+      "title": "Federal appeals court rules Pentagon’s blacklist of Anthropic was legal",
+      "summary": "",
+      "publishedAt": "2026-09-25T21:12:37.000Z",
+      "publisher": "CNN",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "934cc8680b3d4e6859f3b2205abe10b49888be07",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN2xsSW1uNVNkSjE2UHVQSGFlOGJTbGFRa2dtdWgyb1owYlFpS2RHZHVSQnRxSTRoSnhqWWJTMEV4Q1BfNzRJZ0h4MVY4S014TTAxbjU4aThsZW95OUhEUFg2Tlg5ZU92Y21RcXVZa1hySFBUT2FXVkZ1ZlRaV3BpNnJFY3g2Ny1KRkpyQm5pNTctbS04V182WjZpYWczRWlJM1RMWl9uU0hNQQ?oc=5",
+      "title": "US appeals court upholds Pentagon's blacklisting of Anthropic",
+      "summary": "",
+      "publishedAt": "2026-09-25T17:54:58.000Z",
+      "publisher": "Reuters",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
     {
       "id": "bd2e338c9de4fec1406c9b8c75b465b8e8d2f82c",
       "company": "Anthropic",
@@ -115,64 +153,7 @@
       "title": "Appeals Court Lets the Pentagon Designate Anthropic a Supply-Chain Risk",
       "summary": "",
       "publishedAt": "2026-09-25T16:58:00.000Z",
-      "publisher": "WIRED",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "934cc8680b3d4e6859f3b2205abe10b49888be07",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN2xsSW1uNVNkSjE2UHVQSGFlOGJTbGFRa2dtdWgyb1owYlFpS2RHZHVSQnRxSTRoSnhqWWJTMEV4Q1BfNzRJZ0h4MVY4S014TTAxbjU4aThsZW95OUhEUFg2Tlg5ZU92Y21RcXVZa1hySFBUT2FXVkZ1ZlRaV3BpNnJFY3g2Ny1KRkpyQm5pNTctbS04V182WjZpYWczRWlJM1RMWl9uU0hNQQ?oc=5",
-      "title": "US appeals court upholds Pentagon's blacklisting of Anthropic",
-      "summary": "",
-      "publishedAt": "2026-09-25T16:55:40.000Z",
-      "publisher": "Reuters",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "d47ec78fbb50a8cc8cfa63f892206bc5efb9888b",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQLWZvSUJSUjRaSHZidnBzMzZiVHFpa0RYeUx4NS1Wdko4Q2xfb2YtbTdGbzZmUXJ3NExBV05seTZSNHpNcjM1dDUxU1BvcmUwbTNheWJfRDFnR3ZyTVJnY01LWnFlNktrVUU1Rk1jY2l5a0lUa05Ubnh5dUJYR0Q2d2VuaEVHbFRqSEIyZTY1ZzRZNnprMjRObTFnUXhvU0FMTkVRSFVKcnRwSllaRUJoVm9Yc01iUl95SENHc0U2UDY?oc=5",
-      "title": "U.S. appeals court upholds Pentagon designation of Anthropic as supply chain risk",
-      "summary": "",
-      "publishedAt": "2026-09-25T15:30:25.000Z",
-      "publisher": "CNBC",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "7f5aaea5e042a86c9e5676066c39f44caeb153c6",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOLTF3WElHUkZkNHdzRGl1MV9fMjJOMVk0ckFtZGdUOEZzZjRkNDBlNVpld3ZONndWQXRPcjVuZVFnbTlxV3VTV1RpcndfdHJZWW9BNkU3bTROZ0JkOEw0NzJIbXFrT1NOUXV5ek85cl8xR3F1bk0xUUltbGFfMjkyU25uOTV3Tm5jYzNoZFk1MXExNWM?oc=5",
-      "title": "This Beaten-Down AI Stock Just Landed a Major OpenAI Partnership",
-      "summary": "",
-      "publishedAt": "2026-09-24T15:09:46.000Z",
-      "publisher": "Yahoo Finance",
+      "publisher": "wired.com",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -195,8 +176,27 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 7,
+        "score": 6,
         "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "77dc9279904bd3415652b3a5a9ae9fbf762533ba",
+      "company": "Google",
+      "sourceKind": "external",
+      "sourceId": "external-google-major",
+      "sourceLabel": "Major External News - Google",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNb3oyamRrWUN3WGkwenJ4VjlPdnAwQkpaU0NoOEdBdXJGZ0JGUGxZLU5WOXVJV1lQbjlXWXhNMkZ1Y2g2QXI1Z0tfa2dYSC13VWdRZGt3THNkaUlXZDVfcTVIeHlGYmU2Q1JJOHJOUWdiQlZ1RC1aajJXTDdtWnlxdms4b0ZzZmd6VU1RT203NW5SS2xGRUhkWVloNk9JTDh4QkE?oc=5",
+      "title": "Alphabet (GOOGL) Faces Gemini Security Questions. Could AI Agents Raise its Risks?",
+      "summary": "",
+      "publishedAt": "2026-09-26T01:27:00.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Safety, security, or policy update"
       }
     },
     {
@@ -210,25 +210,6 @@
       "title": "The Biggest News From Connect 2026",
       "summary": "Yesterday at Connect, we announced that we're bringing Muse to our AI glasses, launched Meta VR Glasses, and more. The post The Biggest News From Connect 2026",
       "publishedAt": "2026-09-24T21:15:55.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "d7fb8638e77dd3035a802aa7911916a94357fda5",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-with-live-avatar",
-      "title": "Introducing Gemini 3.8 Live with Live Avatar",
-      "summary": "Introducing Gemini 3.8 Live with Live Avatar, which brings near real-time visual presence to Gemini’s conversational AI.",
-      "publishedAt": "2026-09-24T15:30:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -276,25 +257,6 @@
       }
     },
     {
-      "id": "c230ced1f4d205e54dbd21c9880203fc114e45bb",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcFM2SnQ3ZWdmbk1yS0JKSXkwZFp3QmZsbzZTbmxFTHZMWGxVUk5MMHJFQ1IzcVhjdW5obE5OZzJ3cUFwYlpPUHR3V0hxY3hqd1BtbWVvZWVNYk5GSk1aVjVsdUx0U2J6OGh5R3A2SlhVUzFGeFo2U3pWZG9zU2V4NVNZSHVTRDZiNXJPSkhyWHMxY0NVOXJSV01fX2FVZjRtVGlOTm1Naw?oc=5",
-      "title": "OpenAI data breach latest in long list of hacks in Australia",
-      "summary": "",
-      "publishedAt": "2026-09-24T02:01:00.000Z",
-      "publisher": "Reuters",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
       "id": "3b43b7cc8aa6e52434a3aba6ab3cccb3f346f1b1",
       "company": "OpenAI",
       "sourceKind": "external",
@@ -311,6 +273,25 @@
         "bucket": "important",
         "score": 4,
         "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "d7fb8638e77dd3035a802aa7911916a94357fda5",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-with-live-avatar",
+      "title": "Introducing Gemini 3.8 Live with Live Avatar",
+      "summary": "Introducing Gemini 3.8 Live with Live Avatar, which brings near real-time visual presence to Gemini’s conversational AI.",
+      "publishedAt": "2026-09-24T15:30:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Flagship model or product launch"
       }
     },
     {
@@ -333,17 +314,36 @@
       }
     },
     {
-      "id": "28adeb18bc181fc6326848141f60d00b49a0ea31",
-      "company": "Meta",
+      "id": "313d66fd720a77461db87a5bd52833a2725d6766",
+      "company": "OpenAI",
       "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdnlQVDljYVdtZ3lzN3ZMR3J5NGxTbXg3WW9YVmVXbVc2VHhvNWJQYjNpQ2duTmFpbXhVOWEwSXNwR3k1dWVfbU4ySmR3R3JQTnI4UU5fMkxWYlUtSkdiWVBfSS1JelZKQm1kOVRVVjNxcTJNTHdjVGotVE1ianFmeVhDQ3Z4eFNjMXNjYjg4TnNDTXNsdXM2WE1STmpyTDBPbW44S2NDZV8?oc=5",
-      "title": "Oracle and Meta Are Selling AI Data Center Debt to Investors Hungry for Yield",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZmdNdEU4T2dVMHUwV05rNkZjM0hrcWZRWUlLOTBoOU9BLVl1VTVCR3c5MkQ5QTRkSHFTb0dFUU1lUW56S2R5X3ZRaUR3UFViaGJuTm5FRk5LTmJXanFoUWVEbklfdVI3azB6dEMzbXdwUnhNZUd0UFJDWjFVS21wOXdzRQ?oc=5",
+      "title": "OpenAI’s A.I. Tried to Breach 4 Other Targets, Without Prompting",
       "summary": "",
-      "publishedAt": "2026-09-23T10:42:49.000Z",
-      "publisher": "Startup Fortune",
+      "publishedAt": "2026-09-24T02:28:53.000Z",
+      "publisher": "The New York Times",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "c230ced1f4d205e54dbd21c9880203fc114e45bb",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcFM2SnQ3ZWdmbk1yS0JKSXkwZFp3QmZsbzZTbmxFTHZMWGxVUk5MMHJFQ1IzcVhjdW5obE5OZzJ3cUFwYlpPUHR3V0hxY3hqd1BtbWVvZWVNYk5GSk1aVjVsdUx0U2J6OGh5R3A2SlhVUzFGeFo2U3pWZG9zU2V4NVNZSHVTRDZiNXJPSkhyWHMxY0NVOXJSV01fX2FVZjRtVGlOTm1Naw?oc=5",
+      "title": "OpenAI data breach latest in long list of hacks in Australia",
+      "summary": "",
+      "publishedAt": "2026-09-24T02:01:00.000Z",
+      "publisher": "Reuters",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -466,25 +466,6 @@
       }
     },
     {
-      "id": "3a94dd6391c9254f33030fecb9f2670891735956",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts",
-      "title": "Behind Project Suncatcher, our moonshot to put AI in space",
-      "summary": "Learn about Project Suncatcher, how we’re testing hardware survival for space, designing cooling systems for AI chips, and more.",
-      "publishedAt": "2026-09-24T13:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
       "id": "1d77064cbebb782f18a0731cbc2f9d09624e05c9",
       "company": "OpenAI",
       "sourceKind": "official",
@@ -540,21 +521,40 @@
         "score": 2,
         "reason": "Technical or research update"
       }
+    },
+    {
+      "id": "3a94dd6391c9254f33030fecb9f2670891735956",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts",
+      "title": "Behind Project Suncatcher, our moonshot to put AI in space",
+      "summary": "Learn about Project Suncatcher, how we’re testing hardware survival for space, designing cooling systems for AI chips, and more.",
+      "publishedAt": "2026-09-24T13:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 1,
+        "reason": "Routine official update"
+      }
     }
   ],
   "newItems": [
     {
-      "id": "bd2e338c9de4fec1406c9b8c75b465b8e8d2f82c",
+      "id": "2b027d95262bfdf4714903e883525c015ad386f8",
       "company": "Anthropic",
       "sourceKind": "external",
       "sourceId": "external-anthropic-major",
       "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaWI4VVdkMjVGWTFyRFJ2M0k4a0NnWjJNUXNMR2F3Y0p1S0loR3VmRFZrcjVfa1ZsbWwtUDFGdEFyd2tyNUtWZkhpRGVaSjYzekpQcXBFTkY1TlFOY19QZmZRbVhRSUZjSXVKQjBnYVoySGVFeDVXNXpFaHhDLUVuUHJ1cUFQdnkyWTdvcjBXQWtOdWlzNVZTX1l3?oc=5",
-      "title": "US court refuses to overturn Pentagon ban on Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMmZiVTUwWWlHd2JWeHlOOEpZVzkzeWZSUW5Jb3RkNVQxTnF0VHEtNFFHc3JyLU9GZ0ZrT2g2dnNNR0V5RUdvaGpQSHZqaGF3OEtBZ1Q5cmZzakNwdUx4WWpqN3JFd01IYUQ0UWd2STMwbGxFc180NXNPcEFkM2t4YzhQaXo?oc=5",
+      "title": "Federal appeals court rules Pentagon’s blacklist of Anthropic was legal",
       "summary": "",
-      "publishedAt": "2026-09-25T17:26:19.000Z",
-      "publisher": "Yahoo",
+      "publishedAt": "2026-09-25T21:12:37.000Z",
+      "publisher": "CNN",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -563,174 +563,22 @@
       }
     },
     {
-      "id": "1452964b52936a34159c14b0ab9895127355ebe1",
-      "company": "Anthropic",
+      "id": "77dc9279904bd3415652b3a5a9ae9fbf762533ba",
+      "company": "Google",
       "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
+      "sourceId": "external-google-major",
+      "sourceLabel": "Major External News - Google",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTE9vOWNUUFgyc2dxT2ZpcUc1TnZVZmhaY19qTmkwdTFyZnZvMzZHeHVZcmJfQm5hR0lnQkxzT2R5RnBfOWpIYUFXMkR1TUhqY2trbURYRFZ5Ri1QZEJ0LUpfZTFYSmZHZDJrc2x2eHdYNHFRb21zV1R4dWkzNXBIT2FBV3E4VnYxdWltaDFBcmZEdU05WU82Wnd3SXQ4UW5nbUE?oc=5",
-      "title": "Appeals Court Lets the Pentagon Designate Anthropic a Supply-Chain Risk",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNb3oyamRrWUN3WGkwenJ4VjlPdnAwQkpaU0NoOEdBdXJGZ0JGUGxZLU5WOXVJV1lQbjlXWXhNMkZ1Y2g2QXI1Z0tfa2dYSC13VWdRZGt3THNkaUlXZDVfcTVIeHlGYmU2Q1JJOHJOUWdiQlZ1RC1aajJXTDdtWnlxdms4b0ZzZmd6VU1RT203NW5SS2xGRUhkWVloNk9JTDh4QkE?oc=5",
+      "title": "Alphabet (GOOGL) Faces Gemini Security Questions. Could AI Agents Raise its Risks?",
       "summary": "",
-      "publishedAt": "2026-09-25T16:58:00.000Z",
-      "publisher": "WIRED",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "934cc8680b3d4e6859f3b2205abe10b49888be07",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN2xsSW1uNVNkSjE2UHVQSGFlOGJTbGFRa2dtdWgyb1owYlFpS2RHZHVSQnRxSTRoSnhqWWJTMEV4Q1BfNzRJZ0h4MVY4S014TTAxbjU4aThsZW95OUhEUFg2Tlg5ZU92Y21RcXVZa1hySFBUT2FXVkZ1ZlRaV3BpNnJFY3g2Ny1KRkpyQm5pNTctbS04V182WjZpYWczRWlJM1RMWl9uU0hNQQ?oc=5",
-      "title": "US appeals court upholds Pentagon's blacklisting of Anthropic",
-      "summary": "",
-      "publishedAt": "2026-09-25T16:55:40.000Z",
-      "publisher": "Reuters",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "d47ec78fbb50a8cc8cfa63f892206bc5efb9888b",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQLWZvSUJSUjRaSHZidnBzMzZiVHFpa0RYeUx4NS1Wdko4Q2xfb2YtbTdGbzZmUXJ3NExBV05seTZSNHpNcjM1dDUxU1BvcmUwbTNheWJfRDFnR3ZyTVJnY01LWnFlNktrVUU1Rk1jY2l5a0lUa05Ubnh5dUJYR0Q2d2VuaEVHbFRqSEIyZTY1ZzRZNnprMjRObTFnUXhvU0FMTkVRSFVKcnRwSllaRUJoVm9Yc01iUl95SENHc0U2UDY?oc=5",
-      "title": "U.S. appeals court upholds Pentagon designation of Anthropic as supply chain risk",
-      "summary": "",
-      "publishedAt": "2026-09-25T15:30:25.000Z",
-      "publisher": "CNBC",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "7f5aaea5e042a86c9e5676066c39f44caeb153c6",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOLTF3WElHUkZkNHdzRGl1MV9fMjJOMVk0ckFtZGdUOEZzZjRkNDBlNVpld3ZONndWQXRPcjVuZVFnbTlxV3VTV1RpcndfdHJZWW9BNkU3bTROZ0JkOEw0NzJIbXFrT1NOUXV5ek85cl8xR3F1bk0xUUltbGFfMjkyU25uOTV3Tm5jYzNoZFk1MXExNWM?oc=5",
-      "title": "This Beaten-Down AI Stock Just Landed a Major OpenAI Partnership",
-      "summary": "",
-      "publishedAt": "2026-09-24T15:09:46.000Z",
+      "publishedAt": "2026-09-26T01:27:00.000Z",
       "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "0c514bb6dd8bfc3f7f55c4ad368e02276647da4f",
-      "company": "Meta",
-      "sourceKind": "official",
-      "sourceId": "meta-newsroom",
-      "sourceLabel": "Meta Newsroom",
-      "homepageUrl": "https://about.fb.com/news/",
-      "url": "https://about.fb.com/news/2026/09/the-biggest-news-from-connect-2026",
-      "title": "The Biggest News From Connect 2026",
-      "summary": "Yesterday at Connect, we announced that we're bringing Muse to our AI glasses, launched Meta VR Glasses, and more. The post The Biggest News From Connect 2026",
-      "publishedAt": "2026-09-24T21:15:55.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
         "score": 5,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "763172ace0791c18193d64d890b5fe2c84d24815",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNclNvRXRmSzdWY050dWx1TXZ4cS1pelpSMUxRWmpSZTZKbFZGUDYwZ3REbWZCQTNvZDJ3bjNsUEliVjYzMkJ6LW92YXhaR3pza3JFVFZtVnA4YlIxTWdSdy1OYVdCcGcxajQyZXBpOVdFQ0Z1bmhkWHMwWHdNUFhPRnFlUks?oc=5",
-      "title": "OpenAI breach of Australian government linked to wider AI hacking campaign",
-      "summary": "",
-      "publishedAt": "2026-09-24T21:06:45.000Z",
-      "publisher": "Financial Times",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "28adeb18bc181fc6326848141f60d00b49a0ea31",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdnlQVDljYVdtZ3lzN3ZMR3J5NGxTbXg3WW9YVmVXbVc2VHhvNWJQYjNpQ2duTmFpbXhVOWEwSXNwR3k1dWVfbU4ySmR3R3JQTnI4UU5fMkxWYlUtSkdiWVBfSS1JelZKQm1kOVRVVjNxcTJNTHdjVGotVE1ianFmeVhDQ3Z4eFNjMXNjYjg4TnNDTXNsdXM2WE1STmpyTDBPbW44S2NDZV8?oc=5",
-      "title": "Oracle and Meta Are Selling AI Data Center Debt to Investors Hungry for Yield",
-      "summary": "",
-      "publishedAt": "2026-09-23T10:42:49.000Z",
-      "publisher": "Startup Fortune",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "d2d497e5eee41848c95c5b8ff6ce37155518b6a0",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/proaction",
-      "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-      "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
-      "publishedAt": "2026-09-25T19:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "98fa6ec9cb84a23cbbc15e07a6719c544cbd6ccd",
-      "company": "Microsoft",
-      "sourceKind": "official",
-      "sourceId": "microsoft-ai",
-      "sourceLabel": "Microsoft AI",
-      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
-      "url": "https://news.microsoft.com/source/features/ai/retrochimera-new-research-advances-ai-assisted-molecule-synthesis",
-      "title": "Read the story titled RetroChimera: New research advances AI-assisted molecule synthesis",
-      "summary": "",
-      "publishedAt": null,
-      "publisher": "",
-      "discoveryMethod": "anchor",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Technical or research update"
+        "reason": "Safety, security, or policy update"
       }
     }
   ],
