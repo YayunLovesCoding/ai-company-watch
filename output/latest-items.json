@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T17:39:47.870Z",
+  "generatedAt": "2026-09-27T18:08:33.712Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -78,13 +78,51 @@
   "totals": {
     "fetched": 41,
     "deduped": 24,
-    "new": 2,
+    "new": 3,
     "byKind": {
-      "official": 11,
-      "external": 13
+      "official": 12,
+      "external": 12
     }
   },
   "items": [
+    {
+      "id": "8b017d3e419e991045d7a04ec2ef386b0f06dcb4",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVlYxZ3NxM3NWUmc4TDgxWnNXZkRmSWhOeHJPcWMzbDhoT2NsWDJMVzN6bUdLbk8zMXU4Y0dtU0o0NndMM2tGZDFzekNJV1ZYMjQtTkZxVkxQNHp5VjdfcEl1UG5zQWlOWUsyLXY5bzQwZ1FfREZ0UWpSbEdVTGh3c3VtbTlGQzRtVGptcktEQ2FkLWU2UkFsMlVMZzRhaWvSAaQBQVVfeXFMTnhpZ3pGckk0YTB1RXpfbktja0VMUUgyWS1zbGJwY2FhUFN1b1lXc2Y3Sk50UmhtcVdkRHZ0eEc0bUNOR2tBdVNsc2tBX19rR1RsN3U2bFJjWEV3SE94Tm5Wc3Fkc1dNSm15QlRpaVFJN1JnR3BmS2Q0bXJXSnJINFJWX0F4ZnItTmNtQWFSMkhkc1NvNkhMYVhkY3Z4MEJFbmJ1R1k?oc=5",
+      "title": "OpenAI, Anthropic CEOs called to appear at Australian AI probe",
+      "summary": "",
+      "publishedAt": "2026-09-27T07:13:12.000Z",
+      "publisher": "CNBC",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "bf0715fd507632e16dba0caa8f4920ad262e7d47",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMkgwZG5VR01rUjNsZkNPUkw1TFNEYTY1TGtCa010MUlRVzE2Vy1qaTBMNnJiYXliYlY1MkJONXpValJTRTdQLVNjazhJbGc1RDNVMDdTNU9WZXd3elhRVVBZNEFZLTBER2VfVkdxUW13YXprcnJKc1NjcmFwS0FYRlZYTWtZZWNQQ0pJV3JjVWFkUDZHZDNOT01FSVJOaDZLUU1wa1BFdDZpU2hZ?oc=5",
+      "title": "OpenAI, Anthropic CEOs called to appear at Australian AI probe",
+      "summary": "",
+      "publishedAt": "2026-09-27T04:27:00.000Z",
+      "publisher": "Reuters",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
     {
       "id": "2b027d95262bfdf4714903e883525c015ad386f8",
       "company": "Anthropic",
@@ -119,45 +157,7 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "bd2e338c9de4fec1406c9b8c75b465b8e8d2f82c",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaWI4VVdkMjVGWTFyRFJ2M0k4a0NnWjJNUXNMR2F3Y0p1S0loR3VmRFZrcjVfa1ZsbWwtUDFGdEFyd2tyNUtWZkhpRGVaSjYzekpQcXBFTkY1TlFOY19QZmZRbVhRSUZjSXVKQjBnYVoySGVFeDVXNXpFaHhDLUVuUHJ1cUFQdnkyWTdvcjBXQWtOdWlzNVZTX1l3?oc=5",
-      "title": "US court refuses to overturn Pentagon ban on Anthropic",
-      "summary": "",
-      "publishedAt": "2026-09-25T17:26:19.000Z",
-      "publisher": "Yahoo",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "1452964b52936a34159c14b0ab9895127355ebe1",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTE9vOWNUUFgyc2dxT2ZpcUc1TnZVZmhaY19qTmkwdTFyZnZvMzZHeHVZcmJfQm5hR0lnQkxzT2R5RnBfOWpIYUFXMkR1TUhqY2trbURYRFZ5Ri1QZEJ0LUpfZTFYSmZHZDJrc2x2eHdYNHFRb21zV1R4dWkzNXBIT2FBV3E4VnYxdWltaDFBcmZEdU05WU82Wnd3SXQ4UW5nbUE?oc=5",
-      "title": "Appeals Court Lets the Pentagon Designate Anthropic a Supply-Chain Risk",
-      "summary": "",
-      "publishedAt": "2026-09-25T16:58:00.000Z",
-      "publisher": "wired.com",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
+        "score": 6,
         "reason": "Corporate move or major external event"
       }
     },
@@ -181,6 +181,25 @@
       }
     },
     {
+      "id": "a22a5a639f0863b8c90ac6d8575a5d94f0e615e4",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTWdfTkt3QzFFME5wMktDMjQwallmTTRBWmxrNGVnSzJIdFRtcjhMR010NXpia2F6ME43QTBmM3NOLVAwYWtEMW92QzQwZGo1TGRhdVBTSmM1UmQwQlBnOTlLZ3BUSFh2bUxqZUszYXRJZ1o3WC1UQ2d6UFBqWlZ5cXV1VnVvaER1UG9vVHZYQkZVbHdodjAyejdpX2M5SjhDUGJJMFhRWDZiLTByTW1JNXZDVFp4aWptNVRaMW11MllUN3BlakQyTklwUlJfdkE?oc=5",
+      "title": "Australia’s Deputy PM Defends Data Security After OpenAI Hack",
+      "summary": "",
+      "publishedAt": "2026-09-27T04:16:00.000Z",
+      "publisher": "bloomberg.com",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
       "id": "77dc9279904bd3415652b3a5a9ae9fbf762533ba",
       "company": "Google",
       "sourceKind": "external",
@@ -197,25 +216,6 @@
         "bucket": "critical",
         "score": 5,
         "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "0c514bb6dd8bfc3f7f55c4ad368e02276647da4f",
-      "company": "Meta",
-      "sourceKind": "official",
-      "sourceId": "meta-newsroom",
-      "sourceLabel": "Meta Newsroom",
-      "homepageUrl": "https://about.fb.com/news/",
-      "url": "https://about.fb.com/news/2026/09/the-biggest-news-from-connect-2026",
-      "title": "The Biggest News From Connect 2026",
-      "summary": "Yesterday at Connect, we announced that we're bringing Muse to our AI glasses, launched Meta VR Glasses, and more. The post The Biggest News From Connect 2026",
-      "publishedAt": "2026-09-24T21:15:55.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Flagship model or product launch"
       }
     },
     {
@@ -238,41 +238,41 @@
       }
     },
     {
-      "id": "763172ace0791c18193d64d890b5fe2c84d24815",
-      "company": "OpenAI",
+      "id": "f4129e28f104fd356347995977ed026765016c76",
+      "company": "Anthropic",
       "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNclNvRXRmSzdWY050dWx1TXZ4cS1pelpSMUxRWmpSZTZKbFZGUDYwZ3REbWZCQTNvZDJ3bjNsUEliVjYzMkJ6LW92YXhaR3pza3JFVFZtVnA4YlIxTWdSdy1OYVdCcGcxajQyZXBpOVdFQ0Z1bmhkWHMwWHdNUFhPRnFlUks?oc=5",
-      "title": "OpenAI breach of Australian government linked to wider AI hacking campaign",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNzlJandXaXNfM1d1SlFFbkpVUDdiOHpZR2RFcVJZMkhJTG9rbm1rQXVnOHhGbXhQSFFrSm5kR3NUMUh3azVQTWRSbzUyekhtRFBUQ21nRmlMWUFxWF9IYWg0NFlOSnVMM2hydEl6aG5mR0htZHV4YjFVR2FZNzV2THRzYzAtSm9xZGp0VEEyREtTSXJaOVJ2UHk4TmtIdW5aMDB3MGxnbER6OHh5SHliOFB3?oc=5",
+      "title": "Anthropic CEO Dario Amodei to Brief UN Security Council on AI Risks",
       "summary": "",
-      "publishedAt": "2026-09-24T21:06:45.000Z",
-      "publisher": "Financial Times",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "3b43b7cc8aa6e52434a3aba6ab3cccb3f346f1b1",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTUFnSGpyQWtoZEdZY3IzTTEzZ2Npd2JTc0MtVUxfMW1LeWgwX0xBWXdXVmNHQ1p0NjF6Y1pPdFl6RnNtZTZjZEZfcW5FX2tWSE1ETHZxTmQyNWFIYzJGWHNoLVJxSFZ5SFFZdklHYWZvd0RMWk4tc3FuelVyck9LWDRzMUFmY2tpNDFlVmhIbVBGV2thR2N5UjlUM2pnMFlYT0FEOWhIVzRTaDRlZnc?oc=5",
-      "title": "EXCLUSIVE: OpenAI's Sam Altman to brief UN Security Council next week",
-      "summary": "",
-      "publishedAt": "2026-09-20T01:54:25.000Z",
-      "publisher": "Reuters",
+      "publishedAt": "2026-09-22T11:48:09.000Z",
+      "publisher": "bloomberg.com",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
         "score": 4,
         "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "0c514bb6dd8bfc3f7f55c4ad368e02276647da4f",
+      "company": "Meta",
+      "sourceKind": "official",
+      "sourceId": "meta-newsroom",
+      "sourceLabel": "Meta Newsroom",
+      "homepageUrl": "https://about.fb.com/news/",
+      "url": "https://about.fb.com/news/2026/09/the-biggest-news-from-connect-2026",
+      "title": "The Biggest News From Connect 2026",
+      "summary": "Yesterday at Connect, we announced that we're bringing Muse to our AI glasses, launched Meta VR Glasses, and more. The post The Biggest News From Connect 2026",
+      "publishedAt": "2026-09-24T21:15:55.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Flagship model or product launch"
       }
     },
     {
@@ -314,6 +314,25 @@
       }
     },
     {
+      "id": "763172ace0791c18193d64d890b5fe2c84d24815",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNclNvRXRmSzdWY050dWx1TXZ4cS1pelpSMUxRWmpSZTZKbFZGUDYwZ3REbWZCQTNvZDJ3bjNsUEliVjYzMkJ6LW92YXhaR3pza3JFVFZtVnA4YlIxTWdSdy1OYVdCcGcxajQyZXBpOVdFQ0Z1bmhkWHMwWHdNUFhPRnFlUks?oc=5",
+      "title": "OpenAI breach of Australian government linked to wider AI hacking campaign",
+      "summary": "",
+      "publishedAt": "2026-09-24T21:06:45.000Z",
+      "publisher": "Financial Times",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
       "id": "313d66fd720a77461db87a5bd52833a2725d6766",
       "company": "OpenAI",
       "sourceKind": "external",
@@ -325,25 +344,6 @@
       "summary": "",
       "publishedAt": "2026-09-24T02:28:53.000Z",
       "publisher": "The New York Times",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "c230ced1f4d205e54dbd21c9880203fc114e45bb",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcFM2SnQ3ZWdmbk1yS0JKSXkwZFp3QmZsbzZTbmxFTHZMWGxVUk5MMHJFQ1IzcVhjdW5obE5OZzJ3cUFwYlpPUHR3V0hxY3hqd1BtbWVvZWVNYk5GSk1aVjVsdUx0U2J6OGh5R3A2SlhVUzFGeFo2U3pWZG9zU2V4NVNZSHVTRDZiNXJPSkhyWHMxY0NVOXJSV01fX2FVZjRtVGlOTm1Naw?oc=5",
-      "title": "OpenAI data breach latest in long list of hacks in Australia",
-      "summary": "",
-      "publishedAt": "2026-09-24T02:01:00.000Z",
-      "publisher": "Reuters",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -382,25 +382,6 @@
       "summary": "",
       "publishedAt": "2026-09-21T10:20:10.000Z",
       "publisher": "Reuters",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "2c5e32a89bb8405efd7fb402658caf2142c6883f",
-      "company": "Google",
-      "sourceKind": "external",
-      "sourceId": "external-google-major",
-      "sourceLabel": "Major External News - Google",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9SUTV5OXB0RElUdVF6OEdPT3VTVjkycEFKWkhGZDVmVDFTcmZucFRGeFI2Y2c4S2Rrb2UxaExPVW9nZjNnR2tiWHl5a1ZabW1yMmZndjFQNnVvR1pkZnhmUkNfNkRMTDdRcENLYmpoanhZSTA?oc=5",
-      "title": "New Google AI breach",
-      "summary": "",
-      "publishedAt": "2026-09-21T07:52:29.000Z",
-      "publisher": "Yahoo",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -540,21 +521,40 @@
         "score": 1,
         "reason": "Routine official update"
       }
+    },
+    {
+      "id": "92e8747654159e7f9617d80340a7329519dceaa0",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/new-connected-apps-gemini",
+      "title": "A new wave of Connected Apps is rolling out to Gemini.",
+      "summary": "Gemini is adding new Connected Apps, including Adobe, Airtable, Linear, Peloton and more to help you easily tackle your to-do list.",
+      "publishedAt": "2026-09-23T16:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 1,
+        "reason": "Routine official update"
+      }
     }
   ],
   "newItems": [
     {
-      "id": "2b027d95262bfdf4714903e883525c015ad386f8",
+      "id": "8b017d3e419e991045d7a04ec2ef386b0f06dcb4",
       "company": "Anthropic",
       "sourceKind": "external",
       "sourceId": "external-anthropic-major",
       "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMmZiVTUwWWlHd2JWeHlOOEpZVzkzeWZSUW5Jb3RkNVQxTnF0VHEtNFFHc3JyLU9GZ0ZrT2g2dnNNR0V5RUdvaGpQSHZqaGF3OEtBZ1Q5cmZzakNwdUx4WWpqN3JFd01IYUQ0UWd2STMwbGxFc180NXNPcEFkM2t4YzhQaXo?oc=5",
-      "title": "Federal appeals court rules Pentagon’s blacklist of Anthropic was legal",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVlYxZ3NxM3NWUmc4TDgxWnNXZkRmSWhOeHJPcWMzbDhoT2NsWDJMVzN6bUdLbk8zMXU4Y0dtU0o0NndMM2tGZDFzekNJV1ZYMjQtTkZxVkxQNHp5VjdfcEl1UG5zQWlOWUsyLXY5bzQwZ1FfREZ0UWpSbEdVTGh3c3VtbTlGQzRtVGptcktEQ2FkLWU2UkFsMlVMZzRhaWvSAaQBQVVfeXFMTnhpZ3pGckk0YTB1RXpfbktja0VMUUgyWS1zbGJwY2FhUFN1b1lXc2Y3Sk50UmhtcVdkRHZ0eEc0bUNOR2tBdVNsc2tBX19rR1RsN3U2bFJjWEV3SE94Tm5Wc3Fkc1dNSm15QlRpaVFJN1JnR3BmS2Q0bXJXSnJINFJWX0F4ZnItTmNtQWFSMkhkc1NvNkhMYVhkY3Z4MEJFbmJ1R1k?oc=5",
+      "title": "OpenAI, Anthropic CEOs called to appear at Australian AI probe",
       "summary": "",
-      "publishedAt": "2026-09-25T21:12:37.000Z",
-      "publisher": "CNN",
+      "publishedAt": "2026-09-27T07:13:12.000Z",
+      "publisher": "CNBC",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -563,17 +563,36 @@
       }
     },
     {
-      "id": "77dc9279904bd3415652b3a5a9ae9fbf762533ba",
-      "company": "Google",
+      "id": "bf0715fd507632e16dba0caa8f4920ad262e7d47",
+      "company": "OpenAI",
       "sourceKind": "external",
-      "sourceId": "external-google-major",
-      "sourceLabel": "Major External News - Google",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNb3oyamRrWUN3WGkwenJ4VjlPdnAwQkpaU0NoOEdBdXJGZ0JGUGxZLU5WOXVJV1lQbjlXWXhNMkZ1Y2g2QXI1Z0tfa2dYSC13VWdRZGt3THNkaUlXZDVfcTVIeHlGYmU2Q1JJOHJOUWdiQlZ1RC1aajJXTDdtWnlxdms4b0ZzZmd6VU1RT203NW5SS2xGRUhkWVloNk9JTDh4QkE?oc=5",
-      "title": "Alphabet (GOOGL) Faces Gemini Security Questions. Could AI Agents Raise its Risks?",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMkgwZG5VR01rUjNsZkNPUkw1TFNEYTY1TGtCa010MUlRVzE2Vy1qaTBMNnJiYXliYlY1MkJONXpValJTRTdQLVNjazhJbGc1RDNVMDdTNU9WZXd3elhRVVBZNEFZLTBER2VfVkdxUW13YXprcnJKc1NjcmFwS0FYRlZYTWtZZWNQQ0pJV3JjVWFkUDZHZDNOT01FSVJOaDZLUU1wa1BFdDZpU2hZ?oc=5",
+      "title": "OpenAI, Anthropic CEOs called to appear at Australian AI probe",
       "summary": "",
-      "publishedAt": "2026-09-26T01:27:00.000Z",
-      "publisher": "Yahoo Finance",
+      "publishedAt": "2026-09-27T04:27:00.000Z",
+      "publisher": "Reuters",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "a22a5a639f0863b8c90ac6d8575a5d94f0e615e4",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTWdfTkt3QzFFME5wMktDMjQwallmTTRBWmxrNGVnSzJIdFRtcjhMR010NXpia2F6ME43QTBmM3NOLVAwYWtEMW92QzQwZGo1TGRhdVBTSmM1UmQwQlBnOTlLZ3BUSFh2bUxqZUszYXRJZ1o3WC1UQ2d6UFBqWlZ5cXV1VnVvaER1UG9vVHZYQkZVbHdodjAyejdpX2M5SjhDUGJJMFhRWDZiLTByTW1JNXZDVFp4aWptNVRaMW11MllUN3BlakQyTklwUlJfdkE?oc=5",
+      "title": "Australia’s Deputy PM Defends Data Security After OpenAI Hack",
+      "summary": "",
+      "publishedAt": "2026-09-27T04:16:00.000Z",
+      "publisher": "bloomberg.com",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
