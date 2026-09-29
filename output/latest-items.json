@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T20:25:45.334Z",
+  "generatedAt": "2026-09-29T19:12:26.554Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -76,84 +76,27 @@
     }
   ],
   "totals": {
-    "fetched": 40,
+    "fetched": 38,
     "deduped": 24,
     "new": 11,
     "byKind": {
-      "official": 12,
-      "external": 12
+      "official": 15,
+      "external": 9
     }
   },
   "items": [
     {
-      "id": "76850fadc70bcae34b545ded381403df835b9fc4",
+      "id": "6e25fdc16961140f6671a4f5fb0d8f7f3e1d28c7",
       "company": "OpenAI",
       "sourceKind": "external",
       "sourceId": "external-openai-major",
       "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUG9naTh0N0NqVC1Qa2xGLTZsaHd4dFMxVnpUYzFEZnJqbFQwVTN1ek4yZ3k5Uzh4M1lyVWdZeWJvSDJXLVVvUTM1eTFQak1XdWlrUFBBN082czBVR0h5XzJwLVFqUndKTmsyQUV5NnhzNGRlQnFMazJ1UFVGN1U0ZE9nSlpSbmxRNjdEU3pPekJ3YlNuTXhCaTlFa2YtbHFsd3J1TUhSVzFJMEE0VFBOT0poOVlmV1dS?oc=5",
-      "title": "Florida asks court to bar OpenAI from developing new models as part of child harm lawsuit",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE51dmdLSEl6NmNpYzhnSW1SeVBBMTZRcmFtVkpKUUltTV9TbllGS0N3cU1hSkRETmdJd0JqenIxeG5XaElGUmhlLV9aLWhjX2t5aW5vZng2OWRzUk5XMWRkcUVnanlwR2p0U2JtREYtZVppZw?oc=5",
+      "title": "OpenAI hit with landmark lawsuit following Hugging Face hack",
       "summary": "",
-      "publishedAt": "2026-09-28T17:13:17.000Z",
-      "publisher": "Reuters",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "d1d9d48fff56ba236ce32c2e935627e340f68952",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQa0lMN1p2WEVWZXc2NnNQRkJXVndNTHpvVG1FRzE0T2dNMDA2VGItUVFRWVVSVGZRQkk2N1RlUGNjSDE1dU1KM1hvQzZxdFZheG1NZE9pVERnZEUySDlpekQxNHVXUlNRTldHZ3hscUhvdlRQbDhTcUJpTGxVcjFJcWRIVkFLb1JGb0UxVEJTWUdqZnBtaEJVb2VOMGVqdkRPRjlFTXRGc2RfeDJYeDdBUFY1d0F1X0pfMEV4eEItek1NUQ?oc=5",
-      "title": "Anthropic, OpenAI will not attend Australian senate AI hearing on October 1",
-      "summary": "",
-      "publishedAt": "2026-09-28T15:28:12.000Z",
-      "publisher": "Reuters",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "ad16b280c95abc52647125d7b5e17a23e55f9fb0",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcFdCZ3JJSW90bERGZHhzczFaOERwbDdPMDJPRkYxVlFFei1iSkJFeFVkcmdNbHhKRW1scWxpRHptVjRlNEdXN3B3QUJicHZsVTBsSUJ5YXBnOUZzWldpSUFKVnE2b2pHdGljRC1qdzNpYWFpaUxiN2ZzQldlN3Q1b3VfQVhqTGlJLUllUW10cGNxRmdOTW9VN1Rn?oc=5",
-      "title": "Florida AG seeks injunction to hamper OpenAI development",
-      "summary": "",
-      "publishedAt": "2026-09-28T15:16:45.000Z",
-      "publisher": "Yahoo",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "f0f56381e2a578f1979d3c43e0e145c155c90eb6",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObGcxSXl6RGVRQjl6UTJXN056OHE0UVJJQU5acVZjeFc2QWtiY1hBdUdNWUozTmo0TnY4U01vOU80Umw2eF9Jakx0RFV3eHVXYkh1SFdtN0gyVVZ0X2tCelVTSTZfU3pMd3p6YVNwX1FtdUtLMmVtLU1fU3BCTUF0VzhhQ0RBbHg4OU1ibmFaVW5CYm9xY3pEX2JEa2JLRXNiMnppZ05hTEhjZTdxS0NjR2xqSU9ldDQ?oc=5",
-      "title": "Exclusive: LiveRamp Expands OpenAI Partnership to Let Brands Target ChatGPT Ads",
-      "summary": "",
-      "publishedAt": "2026-09-28T14:01:16.000Z",
-      "publisher": "The Information",
+      "publishedAt": "2026-09-29T19:01:29.000Z",
+      "publisher": "Axios",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -181,22 +124,22 @@
       }
     },
     {
-      "id": "8b017d3e419e991045d7a04ec2ef386b0f06dcb4",
+      "id": "dd70834522d305f4edf5abc090671118a4d1351d",
       "company": "OpenAI",
       "sourceKind": "external",
       "sourceId": "external-openai-major",
       "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVlYxZ3NxM3NWUmc4TDgxWnNXZkRmSWhOeHJPcWMzbDhoT2NsWDJMVzN6bUdLbk8zMXU4Y0dtU0o0NndMM2tGZDFzekNJV1ZYMjQtTkZxVkxQNHp5VjdfcEl1UG5zQWlOWUsyLXY5bzQwZ1FfREZ0UWpSbEdVTGh3c3VtbTlGQzRtVGptcktEQ2FkLWU2UkFsMlVMZzRhaWvSAaQBQVVfeXFMTnhpZ3pGckk0YTB1RXpfbktja0VMUUgyWS1zbGJwY2FhUFN1b1lXc2Y3Sk50UmhtcVdkRHZ0eEc0bUNOR2tBdVNsc2tBX19rR1RsN3U2bFJjWEV3SE94Tm5Wc3Fkc1dNSm15QlRpaVFJN1JnR3BmS2Q0bXJXSnJINFJWX0F4ZnItTmNtQWFSMkhkc1NvNkhMYVhkY3Z4MEJFbmJ1R1k?oc=5",
-      "title": "OpenAI, Anthropic CEOs called to appear at Australian AI probe",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQN2ZuUllWdGVfMTBPdjUxQnpZREgyZklMcTAxci1McEwxMExNbkNGQzdFQ0ZaN0xQOXJSaXVkNGI4YmZqaE4tS1MyUjNrUGxSQ3NKMTdVNWhoRkNIcVc1YUk5Yjh0ZER2LTQwbTBPWTZOVjg5dm1uUXlQMF9aZVF4WXdwbnFKTEEzcTh0ZElDY0R1RnB6MFBrYW5USVVmVFVvOThmVzJ3?oc=5",
+      "title": "OpenAI halts new model release over security concerns",
       "summary": "",
-      "publishedAt": "2026-09-27T07:13:12.000Z",
-      "publisher": "CNBC",
+      "publishedAt": "2026-09-29T12:11:37.000Z",
+      "publisher": "NBC News",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
+        "score": 6,
+        "reason": "Flagship model or product launch"
       }
     },
     {
@@ -214,7 +157,7 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 7,
+        "score": 6,
         "reason": "Corporate move or major external event"
       }
     },
@@ -238,22 +181,79 @@
       }
     },
     {
-      "id": "403c0b33fe3e8d534fb5c82f6447252e88171fea",
-      "company": "Anthropic",
+      "id": "539fab73520be4f21a72828179172f6514ad2026",
+      "company": "Microsoft",
       "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeVBiZDVhLUJ1VEs5VGRHTHRwTjZUWjc3TnlPc3lBcXZVQi1LdGNkSEY3OE10dDhrN2xnR3NRQjRDNFllcl9xcmxBcURSQXY1VUlUOE9SeHQ1SlFDcXNUNU5fM0ZBTnhFQno2RWlYWmpfbVRzTkJlUUpsSElCU193eXo2TDB5YlVoN0ltSGhFaG45UVBtTC1tT0JadXN4Zzl6a3ZDcTJ0VQ?oc=5",
-      "title": "Federal court says Pentagon can label Anthropic a supply chain risk",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTTlCOGpRYXJUakJJcG5xaWJyd2NFaFFkbkM4VjJIYWRpNUVpM2l5TEVXQVNaTm5IX1hEajgzVXBxME1ueElwMUFyMW1kQ1o4WE5PeV9rRDlzRXZyeDJ5VjJDLWd5Z1JJMW5lQTdrcy1sREp2cDhDaGxzUmRUa2EwYjV3MzUxbzgtSS1Xb052ZDBiM0xyUjh2LXpHY1gtZXpkVVV3WVBqVHRma0ktQkRN?oc=5",
+      "title": "OpenAI delays latest model over security concerns, as industry faces new safety pressures",
       "summary": "",
-      "publishedAt": "2026-09-25T18:21:00.000Z",
+      "publishedAt": "2026-09-29T01:45:00.000Z",
       "publisher": "AP News",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
+        "score": 5,
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "dd66acaed2a04b44cad22fd2bd31d13ed4bc8e27",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+      "title": "Introducing GPT-6.1 Sol",
+      "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+      "publishedAt": "2026-09-29T10:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "f4cf75270eab054570f848266d6dd29eaa77719b",
+      "company": "Meta",
+      "sourceKind": "official",
+      "sourceId": "meta-newsroom",
+      "sourceLabel": "Meta Newsroom",
+      "homepageUrl": "https://about.fb.com/news/",
+      "url": "https://about.fb.com/news/2026/09/introducing-muse-small-business",
+      "title": "The Future Is for Everyone: Muse for Small Business",
+      "summary": "We’re launching Muse for Small Business, a personal AI agent that works in the background to help your small business reach its goals. The post The Future Is for Everyone: Muse for Small Business",
+      "publishedAt": "2026-09-29T09:30:04.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "884977ecb8004cb31230ef13f646e2ff87ff115a",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/introducing-dots",
+      "title": "Introducing dots",
+      "summary": "Dots by OpenAI are a proactive assistant that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
+      "publishedAt": "2026-09-29T00:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Flagship model or product launch"
       }
     },
     {
@@ -314,6 +314,44 @@
       }
     },
     {
+      "id": "3fca30e00d5bb091131ee80409e8efa28130e514",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTW5MdG1uUmc5OGRYalhONHdTSDZpOXQ4Y09pNF9Bc2tBb3RwYksyZ0d5V0J1SHI2akpadEVlUnJjNUVGRnVDVmtJTktRaGVfNWVVRUdlX2hXdlotYkJZZU56b0NHclcwb3ZCcWhzWGVhcXNPWDRBSC1acUoxUkRTVXhmUmw1dVhQRUlxVkIyOUhNLVA1Rko5dFNVMlVKekVSZnl0UE5OQnRJUEl5eEFYTEpxM3VfSnlSWGJCTXItbjJmUllQZnRKNlYyQVRxaUU?oc=5",
+      "title": "OpenAI targets $30 billion funding at $1.4 trillion valuation, Bloomberg News reports",
+      "summary": "",
+      "publishedAt": "2026-09-29T18:27:05.000Z",
+      "publisher": "Reuters",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "66f60d70656b3a263d22957df58772b211cba24a",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObmVYZUMtNFhXTXNoLXlfeUxuRUV2dGlqQTBqYjU3ZU9nTGJ1Vm5zSmNsSkJvWjRWanhmZzdPa1BTMDFKSmhKN1VvR3VFVDA4eEozekNGanFiUi0xWV9lOWpoWnBjb1lBVk5CY19NN3lfX2N6by11blZUc0JTWkxoLUpkQkdHVG1lQ1VGQjJ4WkZvcHhSaElwVFdjZTZMOWxWdHlELVBSa2h1d2NBRWE2ZEtVUQ?oc=5",
+      "title": "OpenAI Targets $30 Billion in New Funding at $1.4 Trillion Value",
+      "summary": "",
+      "publishedAt": "2026-09-29T17:35:13.000Z",
+      "publisher": "Bloomberg",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
       "id": "77dc9279904bd3415652b3a5a9ae9fbf762533ba",
       "company": "Google",
       "sourceKind": "external",
@@ -325,6 +363,44 @@
       "summary": "",
       "publishedAt": "2026-09-26T01:27:00.000Z",
       "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "19db7cc5ca5cc5ea9756742a5f11d351db2a9625",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/devday-2026-recap",
+      "title": "DevDay 2026 Recap",
+      "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+      "publishedAt": "2026-09-29T10:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "cf468ec39dd67f092816e8f2d846aee26f3a6e5e",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+      "title": "Towards safety cases for frontier AI training",
+      "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
+      "publishedAt": "2026-09-28T19:00:00.000Z",
+      "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -368,44 +444,6 @@
         "bucket": "important",
         "score": 4,
         "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "4515b49da895532698ae628201fb91f14b0d9bb0",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYUtaSlM0RWhlTFFBQm0wRzZiMmIyZmJiN2NSeGZKU2oyWDlvc29KdnF4bnA1Zy1CcG1oZm9YelI2aVNFQzR2ZEQ5X1l0QUpCYjh6ODRIU2dCN2plN2IxUWhkV3lVYmJpWmF3em15MFRuVU1Sc3VPOElxQnA0RVlvY1FQdGhOVjBiWHdDYk4wOXM0a1VUR0ZPUGpjUjlUWEF0Q1kyNnN1R1NMeUdlMWQtR1RB?oc=5",
-      "title": "OpenAI’s breach of Australian health department website prompts rebuke from Albanese",
-      "summary": "",
-      "publishedAt": "2026-09-24T10:27:00.000Z",
-      "publisher": "AP News",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "1b4a5db49788506dfa7e5f5671e5bce84e03be40",
-      "company": "Google",
-      "sourceKind": "external",
-      "sourceId": "external-google-major",
-      "sourceLabel": "Major External News - Google",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQ2tWY0F2ZEFxZ1pVSC11NWl0Tl9MZEhaRHczLWV4WURDanFJZFk0Vk40T01rcEswR0l4WVVDWjdtR0VYM09CRzBlR3RWUUVGMDZ6aXFrejRlcnFHd3NINmNwRGpoYVdLYk1XajB3cTJmelNNVzVZQkgyTmNnZFNPSkdZYlZCRHNwaVloclFIazcxcm95aFJjeENFNzF6VUUyWFNHRm90NzlPTVZPaXgtNlYwNjc1bHFONFZtOQ?oc=5",
-      "title": "Gemini breach raises new questions over when AI incidents should be disclosed",
-      "summary": "",
-      "publishedAt": "2026-09-21T21:43:00.000Z",
-      "publisher": "CNBC",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Trusted external coverage"
       }
     },
     {
@@ -466,22 +504,22 @@
       }
     },
     {
-      "id": "1d77064cbebb782f18a0731cbc2f9d09624e05c9",
+      "id": "cfe8e900401f31bb533781d0249e35adbec60569",
       "company": "OpenAI",
       "sourceKind": "official",
       "sourceId": "openai-newsroom",
       "sourceLabel": "OpenAI Newsroom",
       "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
-      "title": "OpenAI extends cyber access to Ukraine for civilian defense",
-      "summary": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
-      "publishedAt": "2026-09-23T13:00:00.000Z",
+      "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+      "title": "How we will do better for Australia",
+      "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
+      "publishedAt": "2026-09-28T19:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "digest",
         "score": 2,
-        "reason": "Technical or research update"
+        "reason": "Routine official update"
       }
     },
     {
@@ -502,59 +540,21 @@
         "score": 2,
         "reason": "Technical or research update"
       }
-    },
-    {
-      "id": "98fa6ec9cb84a23cbbc15e07a6719c544cbd6ccd",
-      "company": "Microsoft",
-      "sourceKind": "official",
-      "sourceId": "microsoft-ai",
-      "sourceLabel": "Microsoft AI",
-      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
-      "url": "https://news.microsoft.com/source/features/ai/retrochimera-new-research-advances-ai-assisted-molecule-synthesis",
-      "title": "Read the story titled RetroChimera: New research advances AI-assisted molecule synthesis",
-      "summary": "",
-      "publishedAt": null,
-      "publisher": "",
-      "discoveryMethod": "anchor",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Technical or research update"
-      }
-    },
-    {
-      "id": "d2d497e5eee41848c95c5b8ff6ce37155518b6a0",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/proaction",
-      "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-      "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
-      "publishedAt": "2026-09-25T19:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
     }
   ],
   "newItems": [
     {
-      "id": "76850fadc70bcae34b545ded381403df835b9fc4",
+      "id": "6e25fdc16961140f6671a4f5fb0d8f7f3e1d28c7",
       "company": "OpenAI",
       "sourceKind": "external",
       "sourceId": "external-openai-major",
       "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUG9naTh0N0NqVC1Qa2xGLTZsaHd4dFMxVnpUYzFEZnJqbFQwVTN1ek4yZ3k5Uzh4M1lyVWdZeWJvSDJXLVVvUTM1eTFQak1XdWlrUFBBN082czBVR0h5XzJwLVFqUndKTmsyQUV5NnhzNGRlQnFMazJ1UFVGN1U0ZE9nSlpSbmxRNjdEU3pPekJ3YlNuTXhCaTlFa2YtbHFsd3J1TUhSVzFJMEE0VFBOT0poOVlmV1dS?oc=5",
-      "title": "Florida asks court to bar OpenAI from developing new models as part of child harm lawsuit",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE51dmdLSEl6NmNpYzhnSW1SeVBBMTZRcmFtVkpKUUltTV9TbllGS0N3cU1hSkRETmdJd0JqenIxeG5XaElGUmhlLV9aLWhjX2t5aW5vZng2OWRzUk5XMWRkcUVnanlwR2p0U2JtREYtZVppZw?oc=5",
+      "title": "OpenAI hit with landmark lawsuit following Hugging Face hack",
       "summary": "",
-      "publishedAt": "2026-09-28T17:13:17.000Z",
-      "publisher": "Reuters",
+      "publishedAt": "2026-09-29T19:01:29.000Z",
+      "publisher": "Axios",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -563,130 +563,54 @@
       }
     },
     {
-      "id": "d1d9d48fff56ba236ce32c2e935627e340f68952",
+      "id": "dd70834522d305f4edf5abc090671118a4d1351d",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQN2ZuUllWdGVfMTBPdjUxQnpZREgyZklMcTAxci1McEwxMExNbkNGQzdFQ0ZaN0xQOXJSaXVkNGI4YmZqaE4tS1MyUjNrUGxSQ3NKMTdVNWhoRkNIcVc1YUk5Yjh0ZER2LTQwbTBPWTZOVjg5dm1uUXlQMF9aZVF4WXdwbnFKTEEzcTh0ZElDY0R1RnB6MFBrYW5USVVmVFVvOThmVzJ3?oc=5",
+      "title": "OpenAI halts new model release over security concerns",
+      "summary": "",
+      "publishedAt": "2026-09-29T12:11:37.000Z",
+      "publisher": "NBC News",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "539fab73520be4f21a72828179172f6514ad2026",
       "company": "Microsoft",
       "sourceKind": "external",
       "sourceId": "external-microsoft-major",
       "sourceLabel": "Major External News - Microsoft",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQa0lMN1p2WEVWZXc2NnNQRkJXVndNTHpvVG1FRzE0T2dNMDA2VGItUVFRWVVSVGZRQkk2N1RlUGNjSDE1dU1KM1hvQzZxdFZheG1NZE9pVERnZEUySDlpekQxNHVXUlNRTldHZ3hscUhvdlRQbDhTcUJpTGxVcjFJcWRIVkFLb1JGb0UxVEJTWUdqZnBtaEJVb2VOMGVqdkRPRjlFTXRGc2RfeDJYeDdBUFY1d0F1X0pfMEV4eEItek1NUQ?oc=5",
-      "title": "Anthropic, OpenAI will not attend Australian senate AI hearing on October 1",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTTlCOGpRYXJUakJJcG5xaWJyd2NFaFFkbkM4VjJIYWRpNUVpM2l5TEVXQVNaTm5IX1hEajgzVXBxME1ueElwMUFyMW1kQ1o4WE5PeV9rRDlzRXZyeDJ5VjJDLWd5Z1JJMW5lQTdrcy1sREp2cDhDaGxzUmRUa2EwYjV3MzUxbzgtSS1Xb052ZDBiM0xyUjh2LXpHY1gtZXpkVVV3WVBqVHRma0ktQkRN?oc=5",
+      "title": "OpenAI delays latest model over security concerns, as industry faces new safety pressures",
       "summary": "",
-      "publishedAt": "2026-09-28T15:28:12.000Z",
-      "publisher": "Reuters",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "ad16b280c95abc52647125d7b5e17a23e55f9fb0",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcFdCZ3JJSW90bERGZHhzczFaOERwbDdPMDJPRkYxVlFFei1iSkJFeFVkcmdNbHhKRW1scWxpRHptVjRlNEdXN3B3QUJicHZsVTBsSUJ5YXBnOUZzWldpSUFKVnE2b2pHdGljRC1qdzNpYWFpaUxiN2ZzQldlN3Q1b3VfQVhqTGlJLUllUW10cGNxRmdOTW9VN1Rn?oc=5",
-      "title": "Florida AG seeks injunction to hamper OpenAI development",
-      "summary": "",
-      "publishedAt": "2026-09-28T15:16:45.000Z",
-      "publisher": "Yahoo",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "f0f56381e2a578f1979d3c43e0e145c155c90eb6",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObGcxSXl6RGVRQjl6UTJXN056OHE0UVJJQU5acVZjeFc2QWtiY1hBdUdNWUozTmo0TnY4U01vOU80Umw2eF9Jakx0RFV3eHVXYkh1SFdtN0gyVVZ0X2tCelVTSTZfU3pMd3p6YVNwX1FtdUtLMmVtLU1fU3BCTUF0VzhhQ0RBbHg4OU1ibmFaVW5CYm9xY3pEX2JEa2JLRXNiMnppZ05hTEhjZTdxS0NjR2xqSU9ldDQ?oc=5",
-      "title": "Exclusive: LiveRamp Expands OpenAI Partnership to Let Brands Target ChatGPT Ads",
-      "summary": "",
-      "publishedAt": "2026-09-28T14:01:16.000Z",
-      "publisher": "The Information",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "f14948f1451aa16f574c9b4d35f9d652668c5be4",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSDhDNVlVcm1FV2p4OFg0Z0RjRFQ3Vkk3YlBHeWRHZC1BOXZlT2VlS1FnYms5YXh5UkFCV040ZGtBVHlmN1VNTENmWGV6SW1zRmhUTDhxWGZleWxGYkdpaWJNRS1WS3FmcG11R2RQLVdVTFNib21kcnY0cGdkWHlmYXlUM282QWlEbExrcHEyWjNxOHlzNWFCUkF5RVdNRGpEbVZQX1lncXZnYTA?oc=5",
-      "title": "Watch Akamai CEO: Anthropic Is an Ideal Partner",
-      "summary": "",
-      "publishedAt": "2026-09-28T00:00:00.000Z",
-      "publisher": "Bloomberg",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "e2d98f3077fa7f0acbbe5a910f9e9c351c51540b",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RajNPU0VTeE5CeTZlZEtEY2Z0SEw4TmNPdG81bjRpYmVOMnQ1UWhjTHBtOG1jVEc0UFdwaHl0N2d4T0x5cWpPQ3pfS3VsMDB4a3ptSGlXUV82QUJXbEdBdC1jdUx5d3RZQk5iaVF3RGpSbWI5WjhwczdfOVctd2s?oc=5",
-      "title": "Federal appeals court rules Pentagon’s blacklist of Anthropic was legal",
-      "summary": "",
-      "publishedAt": "2026-09-25T21:03:31.000Z",
-      "publisher": "CNN",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "403c0b33fe3e8d534fb5c82f6447252e88171fea",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeVBiZDVhLUJ1VEs5VGRHTHRwTjZUWjc3TnlPc3lBcXZVQi1LdGNkSEY3OE10dDhrN2xnR3NRQjRDNFllcl9xcmxBcURSQXY1VUlUOE9SeHQ1SlFDcXNUNU5fM0ZBTnhFQno2RWlYWmpfbVRzTkJlUUpsSElCU193eXo2TDB5YlVoN0ltSGhFaG45UVBtTC1tT0JadXN4Zzl6a3ZDcTJ0VQ?oc=5",
-      "title": "Federal court says Pentagon can label Anthropic a supply chain risk",
-      "summary": "",
-      "publishedAt": "2026-09-25T18:21:00.000Z",
+      "publishedAt": "2026-09-29T01:45:00.000Z",
       "publisher": "AP News",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
+        "score": 5,
+        "reason": "Safety, security, or policy update"
       }
     },
     {
-      "id": "3658b441ff32f88ed6da6d5360e86f9d64e4e92d",
-      "company": "Google",
+      "id": "dd66acaed2a04b44cad22fd2bd31d13ed4bc8e27",
+      "company": "OpenAI",
       "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-flash-developers",
-      "title": "See what 4 builders are making with Gemini 3.8 Flash",
-      "summary": "See what developers have built with Gemini 3.8 Flash, our most intelligent workhorse model, launched in early September.",
-      "publishedAt": "2026-09-28T16:00:00.000Z",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+      "title": "Introducing GPT-6.1 Sol",
+      "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+      "publishedAt": "2026-09-29T10:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -696,16 +620,16 @@
       }
     },
     {
-      "id": "0f3ecb43d64d390061c64adb4d24abcb317639ea",
+      "id": "f4cf75270eab054570f848266d6dd29eaa77719b",
       "company": "Meta",
       "sourceKind": "official",
       "sourceId": "meta-newsroom",
       "sourceLabel": "Meta Newsroom",
       "homepageUrl": "https://about.fb.com/news/",
-      "url": "https://about.fb.com/news/2026/09/launching-meta-enterprise-platform",
-      "title": "Launching Meta Enterprise Platform",
-      "summary": "Today we are starting Meta Enterprise Platform to help businesses use AI to grow, and Chirantan \"CJ\" Desai will join Meta as Chief Enterprise Platform Officer The post Launching Meta Enterprise Platform",
-      "publishedAt": "2026-09-28T12:36:14.000Z",
+      "url": "https://about.fb.com/news/2026/09/introducing-muse-small-business",
+      "title": "The Future Is for Everyone: Muse for Small Business",
+      "summary": "We’re launching Muse for Small Business, a personal AI agent that works in the background to help your small business reach its goals. The post The Future Is for Everyone: Muse for Small Business",
+      "publishedAt": "2026-09-29T09:30:04.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -715,41 +639,117 @@
       }
     },
     {
-      "id": "4515b49da895532698ae628201fb91f14b0d9bb0",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYUtaSlM0RWhlTFFBQm0wRzZiMmIyZmJiN2NSeGZKU2oyWDlvc29KdnF4bnA1Zy1CcG1oZm9YelI2aVNFQzR2ZEQ5X1l0QUpCYjh6ODRIU2dCN2plN2IxUWhkV3lVYmJpWmF3em15MFRuVU1Sc3VPOElxQnA0RVlvY1FQdGhOVjBiWHdDYk4wOXM0a1VUR0ZPUGpjUjlUWEF0Q1kyNnN1R1NMeUdlMWQtR1RB?oc=5",
-      "title": "OpenAI’s breach of Australian health department website prompts rebuke from Albanese",
-      "summary": "",
-      "publishedAt": "2026-09-24T10:27:00.000Z",
-      "publisher": "AP News",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "216d56bba26ca4582d8ff48331ecc3408f226836",
+      "id": "884977ecb8004cb31230ef13f646e2ff87ff115a",
       "company": "OpenAI",
       "sourceKind": "official",
       "sourceId": "openai-newsroom",
       "sourceLabel": "OpenAI Newsroom",
       "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
-      "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-      "summary": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
-      "publishedAt": "2026-09-28T07:00:00.000Z",
+      "url": "https://openai.com/index/introducing-dots",
+      "title": "Introducing dots",
+      "summary": "Dots by OpenAI are a proactive assistant that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
+      "publishedAt": "2026-09-29T00:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "3fca30e00d5bb091131ee80409e8efa28130e514",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTW5MdG1uUmc5OGRYalhONHdTSDZpOXQ4Y09pNF9Bc2tBb3RwYksyZ0d5V0J1SHI2akpadEVlUnJjNUVGRnVDVmtJTktRaGVfNWVVRUdlX2hXdlotYkJZZU56b0NHclcwb3ZCcWhzWGVhcXNPWDRBSC1acUoxUkRTVXhmUmw1dVhQRUlxVkIyOUhNLVA1Rko5dFNVMlVKekVSZnl0UE5OQnRJUEl5eEFYTEpxM3VfSnlSWGJCTXItbjJmUllQZnRKNlYyQVRxaUU?oc=5",
+      "title": "OpenAI targets $30 billion funding at $1.4 trillion valuation, Bloomberg News reports",
+      "summary": "",
+      "publishedAt": "2026-09-29T18:27:05.000Z",
+      "publisher": "Reuters",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "66f60d70656b3a263d22957df58772b211cba24a",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObmVYZUMtNFhXTXNoLXlfeUxuRUV2dGlqQTBqYjU3ZU9nTGJ1Vm5zSmNsSkJvWjRWanhmZzdPa1BTMDFKSmhKN1VvR3VFVDA4eEozekNGanFiUi0xWV9lOWpoWnBjb1lBVk5CY19NN3lfX2N6by11blZUc0JTWkxoLUpkQkdHVG1lQ1VGQjJ4WkZvcHhSaElwVFdjZTZMOWxWdHlELVBSa2h1d2NBRWE2ZEtVUQ?oc=5",
+      "title": "OpenAI Targets $30 Billion in New Funding at $1.4 Trillion Value",
+      "summary": "",
+      "publishedAt": "2026-09-29T17:35:13.000Z",
+      "publisher": "Bloomberg",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "19db7cc5ca5cc5ea9756742a5f11d351db2a9625",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/devday-2026-recap",
+      "title": "DevDay 2026 Recap",
+      "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+      "publishedAt": "2026-09-29T10:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
-        "score": 3,
-        "reason": "Technical or research update"
+        "score": 4,
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "cf468ec39dd67f092816e8f2d846aee26f3a6e5e",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+      "title": "Towards safety cases for frontier AI training",
+      "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
+      "publishedAt": "2026-09-28T19:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "cfe8e900401f31bb533781d0249e35adbec60569",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+      "title": "How we will do better for Australia",
+      "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
+      "publishedAt": "2026-09-28T19:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
       }
     }
   ],
