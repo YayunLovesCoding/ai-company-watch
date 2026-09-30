@@ -1,97 +1,81 @@
 # AI Company Watch
 
-Generated: Sep 29, 2026, 12:12 PM PDT
+Generated: Sep 30, 2026, 11:56 AM PDT
 Lookback window: 7 day(s)
 Sources checked: 12
 Items fetched: 38
 Items kept: 24
-New items: 11
-External items kept: 9
-Official items kept: 15
+New items: 9
+External items kept: 8
+Official items kept: 16
 
 ## Critical External News
 
-### OpenAI - OpenAI hit with landmark lawsuit following Hugging Face hack
+### OpenAI - FTC opens probe into AI giants including Anthropic and OpenAI
 Source: Major External News - OpenAI
-Publisher: Axios
-Published: Sep 29, 2026
+Publisher: Reuters
+Published: Sep 30, 2026
 Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMickFVX3lxTE51dmdLSEl6NmNpYzhnSW1SeVBBMTZRcmFtVkpKUUltTV9TbllGS0N3cU1hSkRETmdJd0JqenIxeG5XaElGUmhlLV9aLWhjX2t5aW5vZng2OWRzUk5XMWRkcUVnanlwR2p0U2JtREYtZVppZw?oc=5
+Link: https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdzYzcTVSY1JmRld3cFRBRlRaX0w0YVZHTjU3NWVvVG5BcXFIZGFwdXViLXBLNnhJQ3d0RS13T2VURWdNQ19ySkJuVXNlV2NWX0E3LUExYUZQaFBsTTVEaC1NMXJtR0RGYlllQVotQmM3VlRaVmd2em04YWdzTXFkMjhsUlQ0b1JlcVJBRENNRFFBT1NLcU00YUtqU0N5LUlJa0YxaEhzdU1mR1lkUTJ0MFhLMjA3a1FJVlQ5RXpMOEIxdw?oc=5
 
-### OpenAI - OpenAI halts new model release over security concerns
+### OpenAI - OpenAI CEO Sam Altman to skip congressional hearing on rogue AI agents
 Source: Major External News - OpenAI
 Publisher: NBC News
-Published: Sep 29, 2026
-Why it matters: Flagship model or product launch
-Link: https://news.google.com/rss/articles/CBMipgFBVV95cUxQN2ZuUllWdGVfMTBPdjUxQnpZREgyZklMcTAxci1McEwxMExNbkNGQzdFQ0ZaN0xQOXJSaXVkNGI4YmZqaE4tS1MyUjNrUGxSQ3NKMTdVNWhoRkNIcVc1YUk5Yjh0ZER2LTQwbTBPWTZOVjg5dm1uUXlQMF9aZVF4WXdwbnFKTEEzcTh0ZElDY0R1RnB6MFBrYW5USVVmVFVvOThmVzJ3?oc=5
+Published: Sep 30, 2026
+Why it matters: Corporate move or major external event
+Link: https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdElNcC1QUEs5Rm5DM0VhN2ZlREJrRF9jNW5NazlKUjhlUUVmZjhlS0tFNUhkSHpYbkNCRUhtWVNNREhvMGtzRmZRQVRrSVgwTFRLRHNBXzNnR0dISjd1aURVMXpvRUlNcjZka1lRZG44ZWFPdGRWb2ZZV3hpamtfdHl3OVRMckVibnRDN1VPZ19NQk5qWGhQZUVZZlJ5aWVCZUY2cG0zUkx3amFMQ0ZabnZuTkpGVG5a?oc=5
 
-### Microsoft - OpenAI delays latest model over security concerns, as industry faces new safety pressures
+### OpenAI - FTC launches broad investigation into Anthropic, OpenAI
+Source: Major External News - OpenAI
+Publisher: The Washington Post
+Published: Sep 30, 2026
+Why it matters: Corporate move or major external event
+Link: https://news.google.com/rss/articles/CBMirAFBVV95cUxPNERSOFU3M09XYWNrVTdSdHhkcVl4NkxXeUU2dHItLW41QnJ5TjhOX1VhaUh0Wmc1Y3ZFVm9qeXhfd0gxRVNNclo3UURDbGFrb19KS2RhSWlrbFl1RTZ5V2dlbEN4WXZ0SkwyTy1mRFc4M0lDYVRCZ0lBQnJzZ2xmenA1cDNaX294MzJYVmhydXlBQ1ZQbG40LW9lY1UtQ2MzRmZsdDJ2MWplNVAx?oc=5
+
+### Anthropic - US competition watchdog expands investigation of Anthropic and OpenAI
+Source: Major External News - Anthropic
+Publisher: Financial Times
+Published: Sep 30, 2026
+Why it matters: Corporate move or major external event
+Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxPTmZUMXl2aTVwYjVtWUhybXMyZGFMOHJ6aExDRTNJM2FvaTVLcW8tY0V0TGYwYU5NNERzUG1DX2RCNXF1M0JRTzhCNkh4Ukp4WEVRRk9vckFsd1UxY3cybUQwNjJmSWgtZ0pyNkdXeXdUY0hHYjNnS3JDeTRsSWx3enJpc0M?oc=5
+
+### Microsoft - LASST sues OpenAI over autonomous AI hack of Hugging Face
 Source: Major External News - Microsoft
-Publisher: AP News
-Published: Sep 28, 2026
-Why it matters: Safety, security, or policy update
-Link: https://news.google.com/rss/articles/CBMirwFBVV95cUxPTTlCOGpRYXJUakJJcG5xaWJyd2NFaFFkbkM4VjJIYWRpNUVpM2l5TEVXQVNaTm5IX1hEajgzVXBxME1ueElwMUFyMW1kQ1o4WE5PeV9rRDlzRXZyeDJ5VjJDLWd5Z1JJMW5lQTdrcy1sREp2cDhDaGxzUmRUa2EwYjV3MzUxbzgtSS1Xb052ZDBiM0xyUjh2LXpHY1gtZXpkVVV3WVBqVHRma0ktQkRN?oc=5
+Publisher: Yahoo
+Published: Sep 30, 2026
+Why it matters: Corporate move or major external event
+Link: https://news.google.com/rss/articles/CBMikAFBVV95cUxNQmxrN04xLWNtSEFMdVdVMXphZjhqQnE3UGozUzcxY2VYdUctcTRUdGs3aVZ0cEwyZXFWUmI5RUJOYUlsS2hiR3NqTlNxZUplZGh4a2VPZkxLSHFiTWZJcjl5NlBtdnA5V3ZERjhhOElDMVB0OWhkek1LQ2tESHBkTEJobFJRcVA0aVpILWFyRzg?oc=5
 
 ## Important External News
 
-### OpenAI - OpenAI targets $30 billion funding at $1.4 trillion valuation, Bloomberg News reports
+### OpenAI - OpenAI Targets $30 Billion in New Funding Round
 Source: Major External News - OpenAI
-Publisher: Reuters
-Published: Sep 29, 2026
+Publisher: bloomberg.com
+Published: Sep 30, 2026
 Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMizwFBVV95cUxNTW5MdG1uUmc5OGRYalhONHdTSDZpOXQ4Y09pNF9Bc2tBb3RwYksyZ0d5V0J1SHI2akpadEVlUnJjNUVGRnVDVmtJTktRaGVfNWVVRUdlX2hXdlotYkJZZU56b0NHclcwb3ZCcWhzWGVhcXNPWDRBSC1acUoxUkRTVXhmUmw1dVhQRUlxVkIyOUhNLVA1Rko5dFNVMlVKekVSZnl0UE5OQnRJUEl5eEFYTEpxM3VfSnlSWGJCTXItbjJmUllQZnRKNlYyQVRxaUU?oc=5
-
-### OpenAI - OpenAI Targets $30 Billion in New Funding at $1.4 Trillion Value
-Source: Major External News - OpenAI
-Publisher: Bloomberg
-Published: Sep 29, 2026
-Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxObmVYZUMtNFhXTXNoLXlfeUxuRUV2dGlqQTBqYjU3ZU9nTGJ1Vm5zSmNsSkJvWjRWanhmZzdPa1BTMDFKSmhKN1VvR3VFVDA4eEozekNGanFiUi0xWV9lOWpoWnBjb1lBVk5CY19NN3lfX2N6by11blZUc0JTWkxoLUpkQkdHVG1lQ1VGQjJ4WkZvcHhSaElwVFdjZTZMOWxWdHlELVBSa2h1d2NBRWE2ZEtVUQ?oc=5
+Link: https://news.google.com/rss/articles/CBMiogFBVV95cUxPdE5MZWxaM21WMHk1cEh0N3JBVHlHQmR4d1FwX1VLQUlILUYyWEQweDdWbUN5QzdwMUZ6YjVWMkVRaWhPRktNa2xLOUZKRVZMcW5UY2NUUHE2LUtYTkVjM0ZaN29tekEtblpRY3MwZjlXUFV1aU15UkI5eFVjekx2YTNfTE1EU1YteEY4bTI3dlZXdEx0eWVnLWkwQlRNYk1xOUE?oc=5
 
 ## Critical Official Updates
 
-### OpenAI - Introducing GPT-6.1 Sol
-Source: OpenAI Newsroom
-Published: Sep 29, 2026
+### Google - We’re introducing SynthID Bio, bringing our watermarking technology to synthetic biology.
+Source: Google AI
+Published: Sep 30, 2026
 Why it matters: Flagship model or product launch
-Summary: Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.
-Link: https://openai.com/index/introducing-gpt-6-1-sol
-
-### Meta - The Future Is for Everyone: Muse for Small Business
-Source: Meta Newsroom
-Published: Sep 29, 2026
-Why it matters: Flagship model or product launch
-Summary: We’re launching Muse for Small Business, a personal AI agent that works in the background to help your small business reach its goals. The post The Future Is for Everyone: Muse for Small Business
-Link: https://about.fb.com/news/2026/09/introducing-muse-small-business
-
-### OpenAI - Introducing dots
-Source: OpenAI Newsroom
-Published: Sep 28, 2026
-Why it matters: Flagship model or product launch
-Summary: Dots by OpenAI are a proactive assistant that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.
-Link: https://openai.com/index/introducing-dots
-
-## Important Official Updates
-
-### OpenAI - DevDay 2026 Recap
-Source: OpenAI Newsroom
-Published: Sep 29, 2026
-Why it matters: Safety, security, or policy update
-Summary: Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.
-Link: https://openai.com/index/devday-2026-recap
-
-### OpenAI - Towards safety cases for frontier AI training
-Source: OpenAI Newsroom
-Published: Sep 28, 2026
-Why it matters: Safety, security, or policy update
-Summary: Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents
-Link: https://openai.com/index/towards-safety-cases-for-frontier-ai-training
+Summary: Google DeepMind introduces SynthID Bio to watermark AI-designed proteins while maintaining biological function. Read the full research report here.
+Link: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synthid-bio
 
 ## Official Company Updates
 
-### OpenAI - How we will do better for Australia
+### OpenAI - Disrupting a coordinated model-distillation campaign
 Source: OpenAI Newsroom
-Published: Sep 28, 2026
+Published: Sep 30, 2026
 Why it matters: Routine official update
-Summary: OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.
-Link: https://openai.com/index/how-we-will-do-better-for-australia
+Summary: Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.
+Link: https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign
+
+### OpenAI - Helping small businesses put AI to work
+Source: OpenAI Newsroom
+Published: Sep 30, 2026
+Why it matters: Routine official update
+Summary: OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.
+Link: https://openai.com/index/helping-small-businesses-put-ai-to-work
