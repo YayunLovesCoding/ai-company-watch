@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T19:20:10.295Z",
+  "generatedAt": "2026-10-02T19:03:29.611Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -78,10 +78,10 @@
   "totals": {
     "fetched": 41,
     "deduped": 24,
-    "new": 8,
+    "new": 7,
     "byKind": {
-      "official": 11,
-      "external": 13
+      "official": 12,
+      "external": 12
     }
   },
   "items": [
@@ -95,7 +95,7 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOLWVuZmZuVjZVZVdGUENzNm4yMVB1SXJyeXJZeTlWeE1CSXY1N09kT244UEp0Z3VzalY5UWdWVW9ISG4tX3AxcDRzcFhRbnJ4RjZWX1l2ajFzZFMxWVBwMWtrRUVzbXZ3b1A2dUhGOWM3RHdRUmJRVDZyOVF4R1k2Q0wwX1BXYTNDeHpya3hEYVVDQTNCWEs2b0N4dE85SXl6VmZLRg?oc=5",
       "title": "Federal Court Dismisses Publishers’ Suits Over Google’s AI Overviews",
       "summary": "",
-      "publishedAt": "2026-10-01T18:28:29.000Z",
+      "publishedAt": "2026-10-01T18:24:00.000Z",
       "publisher": "The Information",
       "discoveryMethod": "feed",
       "classification": {
@@ -124,44 +124,6 @@
       }
     },
     {
-      "id": "3838d1ab5fbe8fdce97c764016e4721c83d1fff6",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQzNEZnZHZVRmdUdlcGw5V21Td0t3WTlrYlZCejBLZ1ZUQ2tPUVI3OXZPcnA4cXVlcVU5SjBsME1SSEdLSHV4dEVqUGtvbWJvd0VxeFFTY0VyVjhKNGFMS1NvX0l1UFJucllOZHlKRHVFaXVZMEFuNlhlTUQtS3lJclF3WUVRbS1nRmJURWNtaEZmdDAwTWZOcjg3d1E?oc=5",
-      "title": "US regulator opens inquiry into Anthropic, OpenAI and other AI labs",
-      "summary": "",
-      "publishedAt": "2026-10-01T11:37:14.000Z",
-      "publisher": "Yahoo",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "be696999f0617df684b53aabc5fd30c365b662a7",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNERSOFU3M09XYWNrVTdSdHhkcVl4NkxXeUU2dHItLW41QnJ5TjhOX1VhaUh0Wmc1Y3ZFVm9qeXhfd0gxRVNNclo3UURDbGFrb19KS2RhSWlrbFl1RTZ5V2dlbEN4WXZ0SkwyTy1mRFc4M0lDYVRCZ0lBQnJzZ2xmenA1cDNaX294MzJYVmhydXlBQ1ZQbG40LW9lY1UtQ2MzRmZsdDJ2MWplNVAx?oc=5",
-      "title": "FTC launches broad investigation into Anthropic, OpenAI",
-      "summary": "",
-      "publishedAt": "2026-10-01T00:26:52.000Z",
-      "publisher": "The Washington Post",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
       "id": "70174c4c3571ea552a1682f46ad55e3083930442",
       "company": "Microsoft",
       "sourceKind": "external",
@@ -182,10 +144,10 @@
     },
     {
       "id": "dd1a45cb0ed46969bf455de89479982dd664dbb4",
-      "company": "OpenAI",
+      "company": "Microsoft",
       "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
       "homepageUrl": "https://news.google.com/",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE85VzNRN0U1ZXVjd2xsejNhQktkbFVpeUFMR1JnVG40aDY5TmNIWl9sQkN5MHF2M1planJYYlBYMThqbDZNaWVQVS12OUwtS18yZmlHWklSbEdVRk1PMXRScjdNNEFjRWE5MWZCZUN6U1VSSkRSSVI0clRR0gF_QVVfeXFMT2kyUl9HdDRsZmdEUll6TVhBRnk5Um1MTm42aXdyY2pCY1otQ3laOHI4OHVYd19wQ3RoRnRTckZlOVNUN2JjN2hpMkRBaUpmZjhseWFXTzdYeG9oUGZtQTlDNUlDX3FJTzFialBBMm84enFOc2NNSnJHS1J1YU9WRQ?oc=5",
       "title": "Sen. Hawley: OpenAI CEO Sam Altman declined to testify at rogue AI hearing",
@@ -200,30 +162,11 @@
       }
     },
     {
-      "id": "970ebef21f7cb86ad4c62f9761db8a6e4e385f2f",
+      "id": "fb5702f8a4f7bca9c954a88dfcbe4679b331802d",
       "company": "OpenAI",
       "sourceKind": "external",
       "sourceId": "external-openai-major",
       "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdzYzcTVSY1JmRld3cFRBRlRaX0w0YVZHTjU3NWVvVG5BcXFIZGFwdXViLXBLNnhJQ3d0RS13T2VURWdNQ19ySkJuVXNlV2NWX0E3LUExYUZQaFBsTTVEaC1NMXJtR0RGYlllQVotQmM3VlRaVmd2em04YWdzTXFkMjhsUlQ0b1JlcVJBRENNRFFBT1NLcU00YUtqU0N5LUlJa0YxaEhzdU1mR1lkUTJ0MFhLMjA3a1FJVlQ5RXpMOEIxdw?oc=5",
-      "title": "FTC opens probe into AI giants including Anthropic and OpenAI",
-      "summary": "",
-      "publishedAt": "2026-09-30T18:17:19.000Z",
-      "publisher": "Reuters",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "fb5702f8a4f7bca9c954a88dfcbe4679b331802d",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTmZUMXl2aTVwYjVtWUhybXMyZGFMOHJ6aExDRTNJM2FvaTVLcW8tY0V0TGYwYU5NNERzUG1DX2RCNXF1M0JRTzhCNkh4Ukp4WEVRRk9vckFsd1UxY3cybUQwNjJmSWgtZ0pyNkdXeXdUY0hHYjNnS3JDeTRsSWx3enJpc0M?oc=5",
       "title": "US competition watchdog expands investigation of Anthropic and OpenAI",
@@ -233,7 +176,26 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 7,
+        "score": 6,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "d034cc8b097b2b6a1bf3780136f1da1a39621779",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vcm94WTgtQnVWX3AyX2pKaXZGRmt4bmdkSWFjSXItNE1YSmZmUGJkbm1NZEs0YS1zTGlBVVdHQ28zLVl2TXUtbjh0aTU5dG1UWTNGVHkzaHNuRld4ZjdvZTUxbjd6Rmd6Q25xNNIBckFVX3lxTE4wQ3psakxsek9pd0R5V09IZEMxNklxTDdfS0pHTzVfQVFwY3YwZnBSNWlYNnpUX0hHbFFmRHMxd3RhZDVvaC1kUEFyd3JqQXhuSDVpVGhUd2RJMlVWR0N0V0lOOUxkWmVraXlCX3dhbmdkUQ?oc=5",
+      "title": "OpenAI is sued over rogue AI Hugging Face cyberattack",
+      "summary": "",
+      "publishedAt": "2026-09-30T10:15:49.000Z",
+      "publisher": "CNBC",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
         "reason": "Corporate move or major external event"
       }
     },
@@ -250,6 +212,25 @@
       "publishedAt": "2026-09-25T21:03:31.000Z",
       "publisher": "CNN",
       "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "9f2dde650fe4660cd91f6f528574306888952f6f",
+      "company": "Anthropic",
+      "sourceKind": "official",
+      "sourceId": "anthropic-news",
+      "sourceLabel": "Anthropic News",
+      "homepageUrl": "https://www.anthropic.com/news",
+      "url": "https://www.anthropic.com/news/claude-frontier-academy",
+      "title": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
+      "summary": "",
+      "publishedAt": "2026-10-02T00:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "anchor",
       "classification": {
         "bucket": "critical",
         "score": 6,
@@ -276,6 +257,44 @@
       }
     },
     {
+      "id": "f90760f792fce087398d05a1db2c796a88dafea3",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSUl0WXhnMTNyWUdhQlY0dFN4Z2JkVlh2OGc0Y3M0OHdNeHNPMnpaZFVGUldUdU9UeWFpWDBRMGZGQ05TVzM2SzdpX3VaVG9McDl6VGlYWElJUmkzam83cUJ2VXViRVlvbGE5eVdrY2JpSmJpV0hlRmJhYU1oMTBYT3FCbGNZLXZoS0NCeXB3NjY2aTBDdkFuaWJvUQ?oc=5",
+      "title": "OpenAI fires three employees following AI security revelations",
+      "summary": "",
+      "publishedAt": "2026-10-02T07:18:37.000Z",
+      "publisher": "Yahoo",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "d26cbd17958291f739529c5e68871be8748ef33a",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026",
+      "title": "The latest AI news we announced in September 2026",
+      "summary": "Here are Google’s latest AI updates from September 2026",
+      "publishedAt": "2026-10-02T15:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
       "id": "2f4e1972348c3f03e512800b12d5ba1fc87d3142",
       "company": "Google",
       "sourceKind": "official",
@@ -295,60 +314,22 @@
       }
     },
     {
-      "id": "bfa1377b2a0c5c2329c91f65e1c57ca7d8c4b0e5",
-      "company": "Google",
+      "id": "37bf32ade2e16d21d529ab63231e67228a960d6e",
+      "company": "Meta",
       "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synthid-bio",
-      "title": "We’re introducing SynthID Bio, bringing our watermarking technology to synthetic biology.",
-      "summary": "Google DeepMind introduces SynthID Bio to watermark AI-designed proteins while maintaining biological function. Read the full research report here.",
-      "publishedAt": "2026-09-30T15:00:00.000Z",
+      "sourceId": "meta-newsroom",
+      "sourceLabel": "Meta Newsroom",
+      "homepageUrl": "https://about.fb.com/news/",
+      "url": "https://about.fb.com/news/2026/09/introducing-ray-ban-meta-audio-glasses-new-styles-plus-muse",
+      "title": "Introducing Ray-Ban Meta Audio and More AI Glasses Styles",
+      "summary": "",
+      "publishedAt": null,
       "publisher": "",
-      "discoveryMethod": "feed",
+      "discoveryMethod": "anchor",
       "classification": {
         "bucket": "critical",
         "score": 5,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "f3f91120d0f5d588986e9dee0829cd67ab2050f0",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSUQ2UF9xa0tYb2VKRTFLNVpwb04xbnJCMld6TWx3Wm1IYTA0V2lXRmFEZC1hRm5zUXNOV3djUUo2SmRHbEFNbWRpMzQ0TFAzUzZGenQ1bEV4eGtkWXdWUnF4bGZmZXprb0lvOHdCcWhZU080QzU1aTl1WVBfR0V3NmNpNFVBM1Z6cWNEaDFFYkQ0eU5MLVdmNjJJTkFCSDg4eElUSUZqZ0Ntdw?oc=5",
-      "title": "Synopsys, OpenAI strike deal to develop AI model for chip design work",
-      "summary": "",
-      "publishedAt": "2026-09-30T19:02:09.000Z",
-      "publisher": "Reuters",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "e4e107046f73b78cb3123c6c32293ebd8c3daf1c",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRDc5eXpQRFMtbXNtR29xTWNMdGZpWTZpNTZmU3dfT2NGbExWSXA2WndUUjF1U0FmdGNlT2NaTXRNM0t1S3RHZm9pa1l5c194VmdtR3ZwVnI3QXZWaG1Ja2stU21wSUpTd28zWnRtWmJfTzNudTRNbnUtQ0VXOEMzTXlDY0Q2QVYxZGdjTmlyMW83QU4zQVJaZHk3LUZONXBMdnc?oc=5",
-      "title": "Market Chatter: Meta Platforms Claims Billions in Tax Credits for AI Data Center Costs",
-      "summary": "",
-      "publishedAt": "2026-09-30T10:34:54.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
+        "reason": "Corporate move or major external event"
       }
     },
     {
@@ -371,16 +352,16 @@
       }
     },
     {
-      "id": "dd66acaed2a04b44cad22fd2bd31d13ed4bc8e27",
-      "company": "OpenAI",
+      "id": "bfa1377b2a0c5c2329c91f65e1c57ca7d8c4b0e5",
+      "company": "Google",
       "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
-      "title": "Introducing GPT-6.1 Sol",
-      "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
-      "publishedAt": "2026-09-29T10:00:00.000Z",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synthid-bio",
+      "title": "We’re introducing SynthID Bio, bringing our watermarking technology to synthetic biology.",
+      "summary": "Google DeepMind introduces SynthID Bio to watermark AI-designed proteins while maintaining biological function. Read the full research report here.",
+      "publishedAt": "2026-09-30T15:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -409,25 +390,6 @@
       }
     },
     {
-      "id": "3658b441ff32f88ed6da6d5360e86f9d64e4e92d",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-flash-developers",
-      "title": "See what 4 builders are making with Gemini 3.8 Flash",
-      "summary": "See what developers have built with Gemini 3.8 Flash, our most intelligent workhorse model, launched in early September.",
-      "publishedAt": "2026-09-28T16:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
       "id": "0f3ecb43d64d390061c64adb4d24abcb317639ea",
       "company": "Meta",
       "sourceKind": "official",
@@ -447,35 +409,16 @@
       }
     },
     {
-      "id": "0c514bb6dd8bfc3f7f55c4ad368e02276647da4f",
-      "company": "Meta",
-      "sourceKind": "official",
-      "sourceId": "meta-newsroom",
-      "sourceLabel": "Meta Newsroom",
-      "homepageUrl": "https://about.fb.com/news/",
-      "url": "https://about.fb.com/news/2026/09/the-biggest-news-from-connect-2026",
-      "title": "The Biggest News From Connect 2026",
-      "summary": "Yesterday at Connect, we announced that we're bringing Muse to our AI glasses, launched Meta VR Glasses, and more. The post The Biggest News From Connect 2026",
-      "publishedAt": "2026-09-24T21:15:55.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "3fca30e00d5bb091131ee80409e8efa28130e514",
+      "id": "f3f91120d0f5d588986e9dee0829cd67ab2050f0",
       "company": "Microsoft",
       "sourceKind": "external",
       "sourceId": "external-microsoft-major",
       "sourceLabel": "Major External News - Microsoft",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTW5MdG1uUmc5OGRYalhONHdTSDZpOXQ4Y09pNF9Bc2tBb3RwYksyZ0d5V0J1SHI2akpadEVlUnJjNUVGRnVDVmtJTktRaGVfNWVVRUdlX2hXdlotYkJZZU56b0NHclcwb3ZCcWhzWGVhcXNPWDRBSC1acUoxUkRTVXhmUmw1dVhQRUlxVkIyOUhNLVA1Rko5dFNVMlVKekVSZnl0UE5OQnRJUEl5eEFYTEpxM3VfSnlSWGJCTXItbjJmUllQZnRKNlYyQVRxaUU?oc=5",
-      "title": "OpenAI targets $30 billion funding at $1.4 trillion valuation, Bloomberg News reports",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSUQ2UF9xa0tYb2VKRTFLNVpwb04xbnJCMld6TWx3Wm1IYTA0V2lXRmFEZC1hRm5zUXNOV3djUUo2SmRHbEFNbWRpMzQ0TFAzUzZGenQ1bEV4eGtkWXdWUnF4bGZmZXprb0lvOHdCcWhZU080QzU1aTl1WVBfR0V3NmNpNFVBM1Z6cWNEaDFFYkQ0eU5MLVdmNjJJTkFCSDg4eElUSUZqZ0Ntdw?oc=5",
+      "title": "Synopsys, OpenAI strike deal to develop AI model for chip design work",
       "summary": "",
-      "publishedAt": "2026-09-29T18:27:05.000Z",
+      "publishedAt": "2026-09-30T19:02:09.000Z",
       "publisher": "Reuters",
       "discoveryMethod": "feed",
       "classification": {
@@ -485,22 +428,41 @@
       }
     },
     {
-      "id": "19db7cc5ca5cc5ea9756742a5f11d351db2a9625",
+      "id": "77fa07c81d6abd26622355ec22086994bcfa582c",
       "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/devday-2026-recap",
-      "title": "DevDay 2026 Recap",
-      "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
-      "publishedAt": "2026-09-29T10:00:00.000Z",
-      "publisher": "",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNa0dnNU9sMGVvNHVWbHJGVHdlQ0xoMHBzclpGR1JKWTljM3FUV1QyMVhHdDY4OXg3eWEyQldJNjZGQU11N2E4amw3Z184WEN3TVZ0Q1IwRmRqcVVGMC1UMzBBbW5FdGtKZGNWeVRzMkhrTXp2bHhzdXJOTXY4RnpFSE5Jd3p0UWlfMmhOOXBZeGFsS2c?oc=5",
+      "title": "OpenAI hopes to raise $30B in new funding round",
+      "summary": "",
+      "publishedAt": "2026-09-30T10:45:00.000Z",
+      "publisher": "Semafor",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
         "score": 3,
-        "reason": "Safety, security, or policy update"
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "e4e107046f73b78cb3123c6c32293ebd8c3daf1c",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRDc5eXpQRFMtbXNtR29xTWNMdGZpWTZpNTZmU3dfT2NGbExWSXA2WndUUjF1U0FmdGNlT2NaTXRNM0t1S3RHZm9pa1l5c194VmdtR3ZwVnI3QXZWaG1Ja2stU21wSUpTd28zWnRtWmJfTzNudTRNbnUtQ0VXOEMzTXlDY0Q2QVYxZGdjTmlyMW83QU4zQVJaZHk3LUZONXBMdnc?oc=5",
+      "title": "Market Chatter: Meta Platforms Claims Billions in Tax Credits for AI Data Center Costs",
+      "summary": "",
+      "publishedAt": "2026-09-30T10:34:54.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
       }
     },
     {
@@ -540,97 +502,59 @@
         "score": 3,
         "reason": "Safety, security, or policy update"
       }
+    },
+    {
+      "id": "8e206c4d9ed6ea5b326e3f64cf71247a89bf9979",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/practical-guide-building-gpt-6",
+      "title": "A model guide for the GPT-6 family",
+      "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+      "publishedAt": "2026-10-02T16:15:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "a97398f76ee518bf736bd99bb5eae108305b51c5",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/chatham-financial",
+      "title": "Chatham scales its capital markets expertise with OpenAI",
+      "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
+      "publishedAt": "2026-10-02T00:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
+      }
     }
   ],
   "newItems": [
     {
-      "id": "c09ff031a138f010f2884761095ef78bdcdb9a9e",
-      "company": "Google",
-      "sourceKind": "external",
-      "sourceId": "external-google-major",
-      "sourceLabel": "Major External News - Google",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOLWVuZmZuVjZVZVdGUENzNm4yMVB1SXJyeXJZeTlWeE1CSXY1N09kT244UEp0Z3VzalY5UWdWVW9ISG4tX3AxcDRzcFhRbnJ4RjZWX1l2ajFzZFMxWVBwMWtrRUVzbXZ3b1A2dUhGOWM3RHdRUmJRVDZyOVF4R1k2Q0wwX1BXYTNDeHpya3hEYVVDQTNCWEs2b0N4dE85SXl6VmZLRg?oc=5",
-      "title": "Federal Court Dismisses Publishers’ Suits Over Google’s AI Overviews",
-      "summary": "",
-      "publishedAt": "2026-10-01T18:28:29.000Z",
-      "publisher": "The Information",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "fe1b394a8fa1d05198139489dfad382d1b280bce",
-      "company": "Google",
-      "sourceKind": "external",
-      "sourceId": "external-google-major",
-      "sourceLabel": "Major External News - Google",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQkNsLS1ycHhSdV9jeUJsS3NLdFl0d0lqWGV5U0NyVHB1cVJ0c2Nwa0N3YTZhX3RkYTZjU1FDOS02eUdUZXJFeW1iRFVOUVZrc0lUN0x5Tzh2VjFoQlpFdlNMbURZbE11UHgxT2lpU2tRRHpyX3RLMndDNzdMUU1IRlF4aFpyaTZZRXBLT1QzRGVBMWM?oc=5",
-      "title": "Judge dismisses antitrust lawsuits over Google’s AI Overviews",
-      "summary": "",
-      "publishedAt": "2026-10-01T17:12:21.000Z",
-      "publisher": "The Verge",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "3838d1ab5fbe8fdce97c764016e4721c83d1fff6",
+      "id": "d034cc8b097b2b6a1bf3780136f1da1a39621779",
       "company": "OpenAI",
       "sourceKind": "external",
       "sourceId": "external-openai-major",
       "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQzNEZnZHZVRmdUdlcGw5V21Td0t3WTlrYlZCejBLZ1ZUQ2tPUVI3OXZPcnA4cXVlcVU5SjBsME1SSEdLSHV4dEVqUGtvbWJvd0VxeFFTY0VyVjhKNGFMS1NvX0l1UFJucllOZHlKRHVFaXVZMEFuNlhlTUQtS3lJclF3WUVRbS1nRmJURWNtaEZmdDAwTWZOcjg3d1E?oc=5",
-      "title": "US regulator opens inquiry into Anthropic, OpenAI and other AI labs",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vcm94WTgtQnVWX3AyX2pKaXZGRmt4bmdkSWFjSXItNE1YSmZmUGJkbm1NZEs0YS1zTGlBVVdHQ28zLVl2TXUtbjh0aTU5dG1UWTNGVHkzaHNuRld4ZjdvZTUxbjd6Rmd6Q25xNNIBckFVX3lxTE4wQ3psakxsek9pd0R5V09IZEMxNklxTDdfS0pHTzVfQVFwY3YwZnBSNWlYNnpUX0hHbFFmRHMxd3RhZDVvaC1kUEFyd3JqQXhuSDVpVGhUd2RJMlVWR0N0V0lOOUxkWmVraXlCX3dhbmdkUQ?oc=5",
+      "title": "OpenAI is sued over rogue AI Hugging Face cyberattack",
       "summary": "",
-      "publishedAt": "2026-10-01T11:37:14.000Z",
-      "publisher": "Yahoo",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "dd1a45cb0ed46969bf455de89479982dd664dbb4",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE85VzNRN0U1ZXVjd2xsejNhQktkbFVpeUFMR1JnVG40aDY5TmNIWl9sQkN5MHF2M1planJYYlBYMThqbDZNaWVQVS12OUwtS18yZmlHWklSbEdVRk1PMXRScjdNNEFjRWE5MWZCZUN6U1VSSkRSSVI0clRR0gF_QVVfeXFMT2kyUl9HdDRsZmdEUll6TVhBRnk5Um1MTm42aXdyY2pCY1otQ3laOHI4OHVYd19wQ3RoRnRTckZlOVNUN2JjN2hpMkRBaUpmZjhseWFXTzdYeG9oUGZtQTlDNUlDX3FJTzFialBBMm84enFOc2NNSnJHS1J1YU9WRQ?oc=5",
-      "title": "Sen. Hawley: OpenAI CEO Sam Altman declined to testify at rogue AI hearing",
-      "summary": "",
-      "publishedAt": "2026-09-30T19:34:11.000Z",
+      "publishedAt": "2026-09-30T10:15:49.000Z",
       "publisher": "CNBC",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "4e55e8317825e60494f70eea9899d58b0d901e27",
-      "company": "Meta",
-      "sourceKind": "official",
-      "sourceId": "meta-newsroom",
-      "sourceLabel": "Meta Newsroom",
-      "homepageUrl": "https://about.fb.com/news/",
-      "url": "https://about.fb.com/news/2026/10/announcing-ranveer-singh-as-brand-ambassador-for-ray-ban-and-ray-ban-meta-in-india-along-with-exciting-new-updates-to-our-ai-glasses",
-      "title": "Announcing Ranveer Singh as Brand Ambassador for Ray-Ban and Ray-Ban Meta in India along with Exciting New Updates to our AI Glasses",
-      "summary": "Ranveer Singh becomes the first Brand Ambassador for Ray-Ban and Ray-Ban Meta in India. The post Announcing Ranveer Singh as Brand Ambassador for Ray-Ban and Ray-Ban Meta in India along with Exciting New Updates to our AI Glasses",
-      "publishedAt": "2026-10-01T14:16:04.000Z",
-      "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -639,16 +563,54 @@
       }
     },
     {
-      "id": "2f4e1972348c3f03e512800b12d5ba1fc87d3142",
+      "id": "9f2dde650fe4660cd91f6f528574306888952f6f",
+      "company": "Anthropic",
+      "sourceKind": "official",
+      "sourceId": "anthropic-news",
+      "sourceLabel": "Anthropic News",
+      "homepageUrl": "https://www.anthropic.com/news",
+      "url": "https://www.anthropic.com/news/claude-frontier-academy",
+      "title": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
+      "summary": "",
+      "publishedAt": "2026-10-02T00:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "anchor",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "f90760f792fce087398d05a1db2c796a88dafea3",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSUl0WXhnMTNyWUdhQlY0dFN4Z2JkVlh2OGc0Y3M0OHdNeHNPMnpaZFVGUldUdU9UeWFpWDBRMGZGQ05TVzM2SzdpX3VaVG9McDl6VGlYWElJUmkzam83cUJ2VXViRVlvbGE5eVdrY2JpSmJpV0hlRmJhYU1oMTBYT3FCbGNZLXZoS0NCeXB3NjY2aTBDdkFuaWJvUQ?oc=5",
+      "title": "OpenAI fires three employees following AI security revelations",
+      "summary": "",
+      "publishedAt": "2026-10-02T07:18:37.000Z",
+      "publisher": "Yahoo",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "d26cbd17958291f739529c5e68871be8748ef33a",
       "company": "Google",
       "sourceKind": "official",
       "sourceId": "google-ai",
       "sourceLabel": "Google AI",
       "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-science-ai-flu-forecasts",
-      "title": "Google's AI ranks #1 for predicting flu hospitalizations.",
-      "summary": "Google’s science AI model was the best at forecasting flu-related hospital admissions, the Centers for Disease Control announced.",
-      "publishedAt": "2026-09-30T21:30:00.000Z",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026",
+      "title": "The latest AI news we announced in September 2026",
+      "summary": "Here are Google’s latest AI updates from September 2026",
+      "publishedAt": "2026-10-02T15:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -658,41 +620,60 @@
       }
     },
     {
-      "id": "f3f91120d0f5d588986e9dee0829cd67ab2050f0",
-      "company": "Microsoft",
+      "id": "77fa07c81d6abd26622355ec22086994bcfa582c",
+      "company": "OpenAI",
       "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSUQ2UF9xa0tYb2VKRTFLNVpwb04xbnJCMld6TWx3Wm1IYTA0V2lXRmFEZC1hRm5zUXNOV3djUUo2SmRHbEFNbWRpMzQ0TFAzUzZGenQ1bEV4eGtkWXdWUnF4bGZmZXprb0lvOHdCcWhZU080QzU1aTl1WVBfR0V3NmNpNFVBM1Z6cWNEaDFFYkQ0eU5MLVdmNjJJTkFCSDg4eElUSUZqZ0Ntdw?oc=5",
-      "title": "Synopsys, OpenAI strike deal to develop AI model for chip design work",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNa0dnNU9sMGVvNHVWbHJGVHdlQ0xoMHBzclpGR1JKWTljM3FUV1QyMVhHdDY4OXg3eWEyQldJNjZGQU11N2E4amw3Z184WEN3TVZ0Q1IwRmRqcVVGMC1UMzBBbW5FdGtKZGNWeVRzMkhrTXp2bHhzdXJOTXY4RnpFSE5Jd3p0UWlfMmhOOXBZeGFsS2c?oc=5",
+      "title": "OpenAI hopes to raise $30B in new funding round",
       "summary": "",
-      "publishedAt": "2026-09-30T19:02:09.000Z",
-      "publisher": "Reuters",
+      "publishedAt": "2026-09-30T10:45:00.000Z",
+      "publisher": "Semafor",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
-        "score": 4,
+        "score": 3,
         "reason": "Trusted external coverage"
       }
     },
     {
-      "id": "e4e107046f73b78cb3123c6c32293ebd8c3daf1c",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRDc5eXpQRFMtbXNtR29xTWNMdGZpWTZpNTZmU3dfT2NGbExWSXA2WndUUjF1U0FmdGNlT2NaTXRNM0t1S3RHZm9pa1l5c194VmdtR3ZwVnI3QXZWaG1Ja2stU21wSUpTd28zWnRtWmJfTzNudTRNbnUtQ0VXOEMzTXlDY0Q2QVYxZGdjTmlyMW83QU4zQVJaZHk3LUZONXBMdnc?oc=5",
-      "title": "Market Chatter: Meta Platforms Claims Billions in Tax Credits for AI Data Center Costs",
-      "summary": "",
-      "publishedAt": "2026-09-30T10:34:54.000Z",
-      "publisher": "Yahoo Finance",
+      "id": "8e206c4d9ed6ea5b326e3f64cf71247a89bf9979",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/practical-guide-building-gpt-6",
+      "title": "A model guide for the GPT-6 family",
+      "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+      "publishedAt": "2026-10-02T16:15:00.000Z",
+      "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "a97398f76ee518bf736bd99bb5eae108305b51c5",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/chatham-financial",
+      "title": "Chatham scales its capital markets expertise with OpenAI",
+      "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
+      "publishedAt": "2026-10-02T00:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
       }
     }
   ],
