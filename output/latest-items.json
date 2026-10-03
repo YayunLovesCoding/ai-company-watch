@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T19:03:29.611Z",
+  "generatedAt": "2026-10-03T17:50:19.044Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -76,12 +76,12 @@
     }
   ],
   "totals": {
-    "fetched": 41,
+    "fetched": 39,
     "deduped": 24,
-    "new": 7,
+    "new": 2,
     "byKind": {
-      "official": 12,
-      "external": 12
+      "official": 14,
+      "external": 10
     }
   },
   "items": [
@@ -119,7 +119,7 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 7,
+        "score": 6,
         "reason": "Corporate move or major external event"
       }
     },
@@ -138,7 +138,7 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 7,
+        "score": 6,
         "reason": "Corporate move or major external event"
       }
     },
@@ -157,7 +157,7 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 7,
+        "score": 6,
         "reason": "Corporate move or major external event"
       }
     },
@@ -173,44 +173,6 @@
       "summary": "",
       "publishedAt": "2026-09-30T17:07:39.000Z",
       "publisher": "Financial Times",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "d034cc8b097b2b6a1bf3780136f1da1a39621779",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vcm94WTgtQnVWX3AyX2pKaXZGRmt4bmdkSWFjSXItNE1YSmZmUGJkbm1NZEs0YS1zTGlBVVdHQ28zLVl2TXUtbjh0aTU5dG1UWTNGVHkzaHNuRld4ZjdvZTUxbjd6Rmd6Q25xNNIBckFVX3lxTE4wQ3psakxsek9pd0R5V09IZEMxNklxTDdfS0pHTzVfQVFwY3YwZnBSNWlYNnpUX0hHbFFmRHMxd3RhZDVvaC1kUEFyd3JqQXhuSDVpVGhUd2RJMlVWR0N0V0lOOUxkWmVraXlCX3dhbmdkUQ?oc=5",
-      "title": "OpenAI is sued over rogue AI Hugging Face cyberattack",
-      "summary": "",
-      "publishedAt": "2026-09-30T10:15:49.000Z",
-      "publisher": "CNBC",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "e2d98f3077fa7f0acbbe5a910f9e9c351c51540b",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RajNPU0VTeE5CeTZlZEtEY2Z0SEw4TmNPdG81bjRpYmVOMnQ1UWhjTHBtOG1jVEc0UFdwaHl0N2d4T0x5cWpPQ3pfS3VsMDB4a3ptSGlXUV82QUJXbEdBdC1jdUx5d3RZQk5iaVF3RGpSbWI5WjhwczdfOVctd2s?oc=5",
-      "title": "Federal appeals court rules Pentagon’s blacklist of Anthropic was legal",
-      "summary": "",
-      "publishedAt": "2026-09-25T21:03:31.000Z",
-      "publisher": "CNN",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -238,36 +200,17 @@
       }
     },
     {
-      "id": "4e55e8317825e60494f70eea9899d58b0d901e27",
-      "company": "Meta",
-      "sourceKind": "official",
-      "sourceId": "meta-newsroom",
-      "sourceLabel": "Meta Newsroom",
-      "homepageUrl": "https://about.fb.com/news/",
-      "url": "https://about.fb.com/news/2026/10/announcing-ranveer-singh-as-brand-ambassador-for-ray-ban-and-ray-ban-meta-in-india-along-with-exciting-new-updates-to-our-ai-glasses",
-      "title": "Announcing Ranveer Singh as Brand Ambassador for Ray-Ban and Ray-Ban Meta in India along with Exciting New Updates to our AI Glasses",
-      "summary": "Ranveer Singh becomes the first Brand Ambassador for Ray-Ban and Ray-Ban Meta in India. The post Announcing Ranveer Singh as Brand Ambassador for Ray-Ban and Ray-Ban Meta in India along with Exciting New Updates to our AI Glasses",
-      "publishedAt": "2026-10-01T14:16:04.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "f90760f792fce087398d05a1db2c796a88dafea3",
+      "id": "d77ff3029b3e1f2af7895ce2a401975570c9d96b",
       "company": "OpenAI",
       "sourceKind": "external",
       "sourceId": "external-openai-major",
       "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSUl0WXhnMTNyWUdhQlY0dFN4Z2JkVlh2OGc0Y3M0OHdNeHNPMnpaZFVGUldUdU9UeWFpWDBRMGZGQ05TVzM2SzdpX3VaVG9McDl6VGlYWElJUmkzam83cUJ2VXViRVlvbGE5eVdrY2JpSmJpV0hlRmJhYU1oMTBYT3FCbGNZLXZoS0NCeXB3NjY2aTBDdkFuaWJvUQ?oc=5",
-      "title": "OpenAI fires three employees following AI security revelations",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdUN0djVNM0FETl9maHZSTUZrMUVoTkhwYzV0QkVoS1JaRFhpc21EVDJoRzZnQTZoTzRiWjg1bVdPNEJrUG5ubUI2UndQQXNiOW5xUUdmUEJMczdlT202bDV2TXR6ajNQNWl3OTJVaUJUSnZPLUFveG50N2RiX0gtU1ppVlpoaVFKSm14a1pPWTRYVnpaUXFWMWl0YWRzUQ?oc=5",
+      "title": "OpenAI Hires Top Trump AI Official to Work on National Security",
       "summary": "",
-      "publishedAt": "2026-10-02T07:18:37.000Z",
-      "publisher": "Yahoo",
+      "publishedAt": "2026-10-02T19:00:00.000Z",
+      "publisher": "The Information",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -295,22 +238,22 @@
       }
     },
     {
-      "id": "2f4e1972348c3f03e512800b12d5ba1fc87d3142",
-      "company": "Google",
+      "id": "4e55e8317825e60494f70eea9899d58b0d901e27",
+      "company": "Meta",
       "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-science-ai-flu-forecasts",
-      "title": "Google's AI ranks #1 for predicting flu hospitalizations.",
-      "summary": "Google’s science AI model was the best at forecasting flu-related hospital admissions, the Centers for Disease Control announced.",
-      "publishedAt": "2026-09-30T21:30:00.000Z",
+      "sourceId": "meta-newsroom",
+      "sourceLabel": "Meta Newsroom",
+      "homepageUrl": "https://about.fb.com/news/",
+      "url": "https://about.fb.com/news/2026/10/announcing-ranveer-singh-as-brand-ambassador-for-ray-ban-and-ray-ban-meta-in-india-along-with-exciting-new-updates-to-our-ai-glasses",
+      "title": "Announcing Ranveer Singh as Brand Ambassador for Ray-Ban and Ray-Ban Meta in India along with Exciting New Updates to our AI Glasses",
+      "summary": "Ranveer Singh becomes the first Brand Ambassador for Ray-Ban and Ray-Ban Meta in India. The post Announcing Ranveer Singh as Brand Ambassador for Ray-Ban and Ray-Ban Meta in India along with Exciting New Updates to our AI Glasses",
+      "publishedAt": "2026-10-01T14:16:04.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
         "score": 5,
-        "reason": "Flagship model or product launch"
+        "reason": "Corporate move or major external event"
       }
     },
     {
@@ -333,22 +276,41 @@
       }
     },
     {
-      "id": "77dc9279904bd3415652b3a5a9ae9fbf762533ba",
-      "company": "Google",
+      "id": "539fab73520be4f21a72828179172f6514ad2026",
+      "company": "Microsoft",
       "sourceKind": "external",
-      "sourceId": "external-google-major",
-      "sourceLabel": "Major External News - Google",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNb3oyamRrWUN3WGkwenJ4VjlPdnAwQkpaU0NoOEdBdXJGZ0JGUGxZLU5WOXVJV1lQbjlXWXhNMkZ1Y2g2QXI1Z0tfa2dYSC13VWdRZGt3THNkaUlXZDVfcTVIeHlGYmU2Q1JJOHJOUWdiQlZ1RC1aajJXTDdtWnlxdms4b0ZzZmd6VU1RT203NW5SS2xGRUhkWVloNk9JTDh4QkE?oc=5",
-      "title": "Alphabet (GOOGL) Faces Gemini Security Questions. Could AI Agents Raise its Risks?",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTTlCOGpRYXJUakJJcG5xaWJyd2NFaFFkbkM4VjJIYWRpNUVpM2l5TEVXQVNaTm5IX1hEajgzVXBxME1ueElwMUFyMW1kQ1o4WE5PeV9rRDlzRXZyeDJ5VjJDLWd5Z1JJMW5lQTdrcy1sREp2cDhDaGxzUmRUa2EwYjV3MzUxbzgtSS1Xb052ZDBiM0xyUjh2LXpHY1gtZXpkVVV3WVBqVHRma0ktQkRN?oc=5",
+      "title": "OpenAI delays latest model over security concerns, as industry faces new safety pressures",
       "summary": "",
-      "publishedAt": "2026-09-26T01:27:00.000Z",
-      "publisher": "Yahoo Finance",
+      "publishedAt": "2026-09-29T01:45:00.000Z",
+      "publisher": "AP News",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
         "score": 4,
         "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "2f4e1972348c3f03e512800b12d5ba1fc87d3142",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-science-ai-flu-forecasts",
+      "title": "Google's AI ranks #1 for predicting flu hospitalizations.",
+      "summary": "Google’s science AI model was the best at forecasting flu-related hospital admissions, the Centers for Disease Control announced.",
+      "publishedAt": "2026-09-30T21:30:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Flagship model or product launch"
       }
     },
     {
@@ -409,17 +371,17 @@
       }
     },
     {
-      "id": "f3f91120d0f5d588986e9dee0829cd67ab2050f0",
-      "company": "Microsoft",
+      "id": "5c6ae042974e249192ddd70bbd420d3fbce4c299",
+      "company": "OpenAI",
       "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSUQ2UF9xa0tYb2VKRTFLNVpwb04xbnJCMld6TWx3Wm1IYTA0V2lXRmFEZC1hRm5zUXNOV3djUUo2SmRHbEFNbWRpMzQ0TFAzUzZGenQ1bEV4eGtkWXdWUnF4bGZmZXprb0lvOHdCcWhZU080QzU1aTl1WVBfR0V3NmNpNFVBM1Z6cWNEaDFFYkQ0eU5MLVdmNjJJTkFCSDg4eElUSUZqZ0Ntdw?oc=5",
-      "title": "Synopsys, OpenAI strike deal to develop AI model for chip design work",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNTZ0eE4xQmV1U3JhUDA0MVoyQmg1d3FlR0hUVlVGMVF1UTBNYmNNbVBySzlERVQ3Y194bTFlVXdqdHVVUjVoM3UtbWpaeEE0b0FxT1R3QTBtd2pwVm9neHVTcE05Z1BZaFZ5RlFvOENfa2JqUXU1eXBOSmxFUTlDS2xMZXVGNWZOWFRDYzZsRnNGZw?oc=5",
+      "title": "OpenAI Eyes $1.4 Trillion Valuation in New Funding",
       "summary": "",
-      "publishedAt": "2026-09-30T19:02:09.000Z",
-      "publisher": "Reuters",
+      "publishedAt": "2026-09-30T12:15:24.000Z",
+      "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -540,59 +502,59 @@
         "score": 2,
         "reason": "Routine official update"
       }
+    },
+    {
+      "id": "97cd97d27d220f15f9bc8a69f1f4b5eea602a9e8",
+      "company": "Anthropic",
+      "sourceKind": "official",
+      "sourceId": "anthropic-engineering",
+      "sourceLabel": "Anthropic Engineering",
+      "homepageUrl": "https://www.anthropic.com/engineering",
+      "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
+      "title": "Featured How we contain Claude across products As agents grow more capable, so does their potential blast radius. The engineering question is how to cap it. Here’s what we’ve learned building containment for claude.ai, Claude Code, and Cowork.",
+      "summary": "",
+      "publishedAt": null,
+      "publisher": "",
+      "discoveryMethod": "anchor",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Technical or research update"
+      }
+    },
+    {
+      "id": "98fa6ec9cb84a23cbbc15e07a6719c544cbd6ccd",
+      "company": "Microsoft",
+      "sourceKind": "official",
+      "sourceId": "microsoft-ai",
+      "sourceLabel": "Microsoft AI",
+      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
+      "url": "https://news.microsoft.com/source/features/ai/retrochimera-new-research-advances-ai-assisted-molecule-synthesis",
+      "title": "Read the story titled RetroChimera: New research advances AI-assisted molecule synthesis",
+      "summary": "",
+      "publishedAt": null,
+      "publisher": "",
+      "discoveryMethod": "anchor",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Technical or research update"
+      }
     }
   ],
   "newItems": [
     {
-      "id": "d034cc8b097b2b6a1bf3780136f1da1a39621779",
+      "id": "d77ff3029b3e1f2af7895ce2a401975570c9d96b",
       "company": "OpenAI",
       "sourceKind": "external",
       "sourceId": "external-openai-major",
       "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vcm94WTgtQnVWX3AyX2pKaXZGRmt4bmdkSWFjSXItNE1YSmZmUGJkbm1NZEs0YS1zTGlBVVdHQ28zLVl2TXUtbjh0aTU5dG1UWTNGVHkzaHNuRld4ZjdvZTUxbjd6Rmd6Q25xNNIBckFVX3lxTE4wQ3psakxsek9pd0R5V09IZEMxNklxTDdfS0pHTzVfQVFwY3YwZnBSNWlYNnpUX0hHbFFmRHMxd3RhZDVvaC1kUEFyd3JqQXhuSDVpVGhUd2RJMlVWR0N0V0lOOUxkWmVraXlCX3dhbmdkUQ?oc=5",
-      "title": "OpenAI is sued over rogue AI Hugging Face cyberattack",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdUN0djVNM0FETl9maHZSTUZrMUVoTkhwYzV0QkVoS1JaRFhpc21EVDJoRzZnQTZoTzRiWjg1bVdPNEJrUG5ubUI2UndQQXNiOW5xUUdmUEJMczdlT202bDV2TXR6ajNQNWl3OTJVaUJUSnZPLUFveG50N2RiX0gtU1ppVlpoaVFKSm14a1pPWTRYVnpaUXFWMWl0YWRzUQ?oc=5",
+      "title": "OpenAI Hires Top Trump AI Official to Work on National Security",
       "summary": "",
-      "publishedAt": "2026-09-30T10:15:49.000Z",
-      "publisher": "CNBC",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "9f2dde650fe4660cd91f6f528574306888952f6f",
-      "company": "Anthropic",
-      "sourceKind": "official",
-      "sourceId": "anthropic-news",
-      "sourceLabel": "Anthropic News",
-      "homepageUrl": "https://www.anthropic.com/news",
-      "url": "https://www.anthropic.com/news/claude-frontier-academy",
-      "title": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
-      "summary": "",
-      "publishedAt": "2026-10-02T00:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "anchor",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "f90760f792fce087398d05a1db2c796a88dafea3",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSUl0WXhnMTNyWUdhQlY0dFN4Z2JkVlh2OGc0Y3M0OHdNeHNPMnpaZFVGUldUdU9UeWFpWDBRMGZGQ05TVzM2SzdpX3VaVG9McDl6VGlYWElJUmkzam83cUJ2VXViRVlvbGE5eVdrY2JpSmJpV0hlRmJhYU1oMTBYT3FCbGNZLXZoS0NCeXB3NjY2aTBDdkFuaWJvUQ?oc=5",
-      "title": "OpenAI fires three employees following AI security revelations",
-      "summary": "",
-      "publishedAt": "2026-10-02T07:18:37.000Z",
-      "publisher": "Yahoo",
+      "publishedAt": "2026-10-02T19:00:00.000Z",
+      "publisher": "The Information",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -601,79 +563,22 @@
       }
     },
     {
-      "id": "d26cbd17958291f739529c5e68871be8748ef33a",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026",
-      "title": "The latest AI news we announced in September 2026",
-      "summary": "Here are Google’s latest AI updates from September 2026",
-      "publishedAt": "2026-10-02T15:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "77fa07c81d6abd26622355ec22086994bcfa582c",
+      "id": "5c6ae042974e249192ddd70bbd420d3fbce4c299",
       "company": "OpenAI",
       "sourceKind": "external",
       "sourceId": "external-openai-major",
       "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNa0dnNU9sMGVvNHVWbHJGVHdlQ0xoMHBzclpGR1JKWTljM3FUV1QyMVhHdDY4OXg3eWEyQldJNjZGQU11N2E4amw3Z184WEN3TVZ0Q1IwRmRqcVVGMC1UMzBBbW5FdGtKZGNWeVRzMkhrTXp2bHhzdXJOTXY4RnpFSE5Jd3p0UWlfMmhOOXBZeGFsS2c?oc=5",
-      "title": "OpenAI hopes to raise $30B in new funding round",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNTZ0eE4xQmV1U3JhUDA0MVoyQmg1d3FlR0hUVlVGMVF1UTBNYmNNbVBySzlERVQ3Y194bTFlVXdqdHVVUjVoM3UtbWpaeEE0b0FxT1R3QTBtd2pwVm9neHVTcE05Z1BZaFZ5RlFvOENfa2JqUXU1eXBOSmxFUTlDS2xMZXVGNWZOWFRDYzZsRnNGZw?oc=5",
+      "title": "OpenAI Eyes $1.4 Trillion Valuation in New Funding",
       "summary": "",
-      "publishedAt": "2026-09-30T10:45:00.000Z",
-      "publisher": "Semafor",
+      "publishedAt": "2026-09-30T12:15:24.000Z",
+      "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
         "score": 3,
         "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "8e206c4d9ed6ea5b326e3f64cf71247a89bf9979",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/practical-guide-building-gpt-6",
-      "title": "A model guide for the GPT-6 family",
-      "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
-      "publishedAt": "2026-10-02T16:15:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "a97398f76ee518bf736bd99bb5eae108305b51c5",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/chatham-financial",
-      "title": "Chatham scales its capital markets expertise with OpenAI",
-      "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
-      "publishedAt": "2026-10-02T00:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
       }
     }
   ],
