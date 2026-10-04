@@ -1,28 +1,35 @@
 # AI Company Watch
 
-Generated: Oct 3, 2026, 10:50 AM PDT
+Generated: Oct 4, 2026, 11:02 AM PDT
 Lookback window: 7 day(s)
 Sources checked: 12
-Items fetched: 39
+Items fetched: 38
 Items kept: 24
-New items: 2
-External items kept: 10
-Official items kept: 14
+New items: 3
+External items kept: 9
+Official items kept: 15
 
 ## Critical External News
 
-### OpenAI - OpenAI Hires Top Trump AI Official to Work on National Security
+### OpenAI - OpenAI safety employee quits, says 'time for trial and error is over'
 Source: Major External News - OpenAI
-Publisher: The Information
-Published: Oct 2, 2026
+Publisher: reuters.com
+Published: Oct 3, 2026
+Why it matters: Corporate move or major external event
+Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxPanBnbDA2SnluX0swT1ZpQ212VUNKRHh1T3d2Tmt0VDBieEtFVmh6blFFZEVCZlFLbjd4TnNYRnhacmtoSEdRTTFsbVdQN3RjRW5BTVd2NkJwdkdmcHNBa2czV3BZc19MYnJ1dkFvTkh1YXZQQkw1Zmtma2Y4Qm10RzlIUlhJS1ZSUHJnVVdTNlk1djVnNndqNXJBZ29hcEVJUmdkZTNWcklGWEF4TGtuZw?oc=5
+
+### OpenAI - OpenAI safety employee resigns, claiming the company’s ‘culture is broken’
+Source: Major External News - OpenAI
+Publisher: TechCrunch
+Published: Oct 3, 2026
 Why it matters: Safety, security, or policy update
-Link: https://news.google.com/rss/articles/CBMingFBVV95cUxQdUN0djVNM0FETl9maHZSTUZrMUVoTkhwYzV0QkVoS1JaRFhpc21EVDJoRzZnQTZoTzRiWjg1bVdPNEJrUG5ubUI2UndQQXNiOW5xUUdmUEJMczdlT202bDV2TXR6ajNQNWl3OTJVaUJUSnZPLUFveG50N2RiX0gtU1ppVlpoaVFKSm14a1pPWTRYVnpaUXFWMWl0YWRzUQ?oc=5
+Link: https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR0JlUHlOLTF6R21EV2trSHd6Si1Tckd6SXdDeXZIY1ZKRkxLZzJmRFNwamo2WXhYRTNTYWhJMWpDZTJyb01vd2NpQXZTaE9BRWxnaEFsdDYzeThJdDA0Y0RQcUhjTWlPYkx1c1NxXzRkcWgyRk54N0Y2SDJVY3ZYMUdQaEhEbzZEVkowX1VBODRsNHRMMTBPX3BUMHdwai12MUZtMVhwRVM?oc=5
 
-## Important External News
+## Official Company Updates
 
-### OpenAI - OpenAI Eyes $1.4 Trillion Valuation in New Funding
-Source: Major External News - OpenAI
-Publisher: Yahoo Finance
-Published: Sep 30, 2026
-Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMikgFBVV95cUxNNTZ0eE4xQmV1U3JhUDA0MVoyQmg1d3FlR0hUVlVGMVF1UTBNYmNNbVBySzlERVQ3Y194bTFlVXdqdHVVUjVoM3UtbWpaeEE0b0FxT1R3QTBtd2pwVm9neHVTcE05Z1BZaFZ5RlFvOENfa2JqUXU1eXBOSmxFUTlDS2xMZXVGNWZOWFRDYzZsRnNGZw?oc=5
+### OpenAI - The eternal complement
+Source: OpenAI Newsroom
+Published: Oct 1, 2026
+Why it matters: Routine official update
+Summary: Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.
+Link: https://openai.com/index/the-eternal-complement

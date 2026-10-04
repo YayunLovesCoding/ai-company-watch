@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T17:50:19.044Z",
+  "generatedAt": "2026-10-04T18:02:10.133Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -76,15 +76,34 @@
     }
   ],
   "totals": {
-    "fetched": 39,
+    "fetched": 38,
     "deduped": 24,
-    "new": 2,
+    "new": 3,
     "byKind": {
-      "official": 14,
-      "external": 10
+      "official": 15,
+      "external": 9
     }
   },
   "items": [
+    {
+      "id": "44ea6b5a3abb1087df6c69e2107a062aaf7a58aa",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPanBnbDA2SnluX0swT1ZpQ212VUNKRHh1T3d2Tmt0VDBieEtFVmh6blFFZEVCZlFLbjd4TnNYRnhacmtoSEdRTTFsbVdQN3RjRW5BTVd2NkJwdkdmcHNBa2czV3BZc19MYnJ1dkFvTkh1YXZQQkw1Zmtma2Y4Qm10RzlIUlhJS1ZSUHJnVVdTNlk1djVnNndqNXJBZ29hcEVJUmdkZTNWcklGWEF4TGtuZw?oc=5",
+      "title": "OpenAI safety employee quits, says 'time for trial and error is over'",
+      "summary": "",
+      "publishedAt": "2026-10-03T19:00:00.000Z",
+      "publisher": "reuters.com",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
     {
       "id": "c09ff031a138f010f2884761095ef78bdcdb9a9e",
       "company": "Google",
@@ -100,7 +119,7 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 7,
+        "score": 6,
         "reason": "Corporate move or major external event"
       }
     },
@@ -162,22 +181,41 @@
       }
     },
     {
-      "id": "fb5702f8a4f7bca9c954a88dfcbe4679b331802d",
+      "id": "6e25fdc16961140f6671a4f5fb0d8f7f3e1d28c7",
       "company": "OpenAI",
       "sourceKind": "external",
       "sourceId": "external-openai-major",
       "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTmZUMXl2aTVwYjVtWUhybXMyZGFMOHJ6aExDRTNJM2FvaTVLcW8tY0V0TGYwYU5NNERzUG1DX2RCNXF1M0JRTzhCNkh4Ukp4WEVRRk9vckFsd1UxY3cybUQwNjJmSWgtZ0pyNkdXeXdUY0hHYjNnS3JDeTRsSWx3enJpc0M?oc=5",
-      "title": "US competition watchdog expands investigation of Anthropic and OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE51dmdLSEl6NmNpYzhnSW1SeVBBMTZRcmFtVkpKUUltTV9TbllGS0N3cU1hSkRETmdJd0JqenIxeG5XaElGUmhlLV9aLWhjX2t5aW5vZng2OWRzUk5XMWRkcUVnanlwR2p0U2JtREYtZVppZw?oc=5",
+      "title": "OpenAI hit with landmark lawsuit following Hugging Face hack",
       "summary": "",
-      "publishedAt": "2026-09-30T17:07:39.000Z",
-      "publisher": "Financial Times",
+      "publishedAt": "2026-09-29T21:34:05.000Z",
+      "publisher": "Axios",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
         "score": 6,
         "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "a6121278672f986fd42c3e71b077a21abb9635b8",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR0JlUHlOLTF6R21EV2trSHd6Si1Tckd6SXdDeXZIY1ZKRkxLZzJmRFNwamo2WXhYRTNTYWhJMWpDZTJyb01vd2NpQXZTaE9BRWxnaEFsdDYzeThJdDA0Y0RQcUhjTWlPYkx1c1NxXzRkcWgyRk54N0Y2SDJVY3ZYMUdQaEhEbzZEVkowX1VBODRsNHRMMTBPX3BUMHdwai12MUZtMVhwRVM?oc=5",
+      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+      "summary": "",
+      "publishedAt": "2026-10-03T16:30:01.000Z",
+      "publisher": "TechCrunch",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Safety, security, or policy update"
       }
     },
     {
@@ -195,46 +233,8 @@
       "discoveryMethod": "anchor",
       "classification": {
         "bucket": "critical",
-        "score": 6,
+        "score": 5,
         "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "d77ff3029b3e1f2af7895ce2a401975570c9d96b",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdUN0djVNM0FETl9maHZSTUZrMUVoTkhwYzV0QkVoS1JaRFhpc21EVDJoRzZnQTZoTzRiWjg1bVdPNEJrUG5ubUI2UndQQXNiOW5xUUdmUEJMczdlT202bDV2TXR6ajNQNWl3OTJVaUJUSnZPLUFveG50N2RiX0gtU1ppVlpoaVFKSm14a1pPWTRYVnpaUXFWMWl0YWRzUQ?oc=5",
-      "title": "OpenAI Hires Top Trump AI Official to Work on National Security",
-      "summary": "",
-      "publishedAt": "2026-10-02T19:00:00.000Z",
-      "publisher": "The Information",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "d26cbd17958291f739529c5e68871be8748ef33a",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026",
-      "title": "The latest AI news we announced in September 2026",
-      "summary": "Here are Google’s latest AI updates from September 2026",
-      "publishedAt": "2026-10-02T15:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Flagship model or product launch"
       }
     },
     {
@@ -276,22 +276,22 @@
       }
     },
     {
-      "id": "539fab73520be4f21a72828179172f6514ad2026",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTTlCOGpRYXJUakJJcG5xaWJyd2NFaFFkbkM4VjJIYWRpNUVpM2l5TEVXQVNaTm5IX1hEajgzVXBxME1ueElwMUFyMW1kQ1o4WE5PeV9rRDlzRXZyeDJ5VjJDLWd5Z1JJMW5lQTdrcy1sREp2cDhDaGxzUmRUa2EwYjV3MzUxbzgtSS1Xb052ZDBiM0xyUjh2LXpHY1gtZXpkVVV3WVBqVHRma0ktQkRN?oc=5",
-      "title": "OpenAI delays latest model over security concerns, as industry faces new safety pressures",
-      "summary": "",
-      "publishedAt": "2026-09-29T01:45:00.000Z",
-      "publisher": "AP News",
+      "id": "d26cbd17958291f739529c5e68871be8748ef33a",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026",
+      "title": "The latest AI news we announced in September 2026",
+      "summary": "Here are Google’s latest AI updates from September 2026",
+      "publishedAt": "2026-10-02T15:00:00.000Z",
+      "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
         "score": 4,
-        "reason": "Safety, security, or policy update"
+        "reason": "Flagship model or product launch"
       }
     },
     {
@@ -371,44 +371,6 @@
       }
     },
     {
-      "id": "5c6ae042974e249192ddd70bbd420d3fbce4c299",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNTZ0eE4xQmV1U3JhUDA0MVoyQmg1d3FlR0hUVlVGMVF1UTBNYmNNbVBySzlERVQ3Y194bTFlVXdqdHVVUjVoM3UtbWpaeEE0b0FxT1R3QTBtd2pwVm9neHVTcE05Z1BZaFZ5RlFvOENfa2JqUXU1eXBOSmxFUTlDS2xMZXVGNWZOWFRDYzZsRnNGZw?oc=5",
-      "title": "OpenAI Eyes $1.4 Trillion Valuation in New Funding",
-      "summary": "",
-      "publishedAt": "2026-09-30T12:15:24.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "77fa07c81d6abd26622355ec22086994bcfa582c",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNa0dnNU9sMGVvNHVWbHJGVHdlQ0xoMHBzclpGR1JKWTljM3FUV1QyMVhHdDY4OXg3eWEyQldJNjZGQU11N2E4amw3Z184WEN3TVZ0Q1IwRmRqcVVGMC1UMzBBbW5FdGtKZGNWeVRzMkhrTXp2bHhzdXJOTXY4RnpFSE5Jd3p0UWlfMmhOOXBZeGFsS2c?oc=5",
-      "title": "OpenAI hopes to raise $30B in new funding round",
-      "summary": "",
-      "publishedAt": "2026-09-30T10:45:00.000Z",
-      "publisher": "Semafor",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
       "id": "e4e107046f73b78cb3123c6c32293ebd8c3daf1c",
       "company": "Meta",
       "sourceKind": "external",
@@ -420,6 +382,25 @@
       "summary": "",
       "publishedAt": "2026-09-30T10:34:54.000Z",
       "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "66f60d70656b3a263d22957df58772b211cba24a",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObmVYZUMtNFhXTXNoLXlfeUxuRUV2dGlqQTBqYjU3ZU9nTGJ1Vm5zSmNsSkJvWjRWanhmZzdPa1BTMDFKSmhKN1VvR3VFVDA4eEozekNGanFiUi0xWV9lOWpoWnBjb1lBVk5CY19NN3lfX2N6by11blZUc0JTWkxoLUpkQkdHVG1lQ1VGQjJ4WkZvcHhSaElwVFdjZTZMOWxWdHlELVBSa2h1d2NBRWE2ZEtVUQ?oc=5",
+      "title": "OpenAI Targets $30 Billion in Funding at $1.4 Trillion Value",
+      "summary": "",
+      "publishedAt": "2026-09-29T21:24:56.000Z",
+      "publisher": "Bloomberg.com",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -466,44 +447,6 @@
       }
     },
     {
-      "id": "8e206c4d9ed6ea5b326e3f64cf71247a89bf9979",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/practical-guide-building-gpt-6",
-      "title": "A model guide for the GPT-6 family",
-      "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
-      "publishedAt": "2026-10-02T16:15:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "a97398f76ee518bf736bd99bb5eae108305b51c5",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/chatham-financial",
-      "title": "Chatham scales its capital markets expertise with OpenAI",
-      "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
-      "publishedAt": "2026-10-02T00:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
       "id": "97cd97d27d220f15f9bc8a69f1f4b5eea602a9e8",
       "company": "Anthropic",
       "sourceKind": "official",
@@ -540,21 +483,97 @@
         "score": 2,
         "reason": "Technical or research update"
       }
+    },
+    {
+      "id": "8e206c4d9ed6ea5b326e3f64cf71247a89bf9979",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/practical-guide-building-gpt-6",
+      "title": "A model guide for the GPT-6 family",
+      "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+      "publishedAt": "2026-10-02T16:15:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 1,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "a97398f76ee518bf736bd99bb5eae108305b51c5",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/chatham-financial",
+      "title": "Chatham scales its capital markets expertise with OpenAI",
+      "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
+      "publishedAt": "2026-10-02T00:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 1,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "7e67b43cf9d0e609b77c8416e1333d34aa00dfc5",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/the-eternal-complement",
+      "title": "The eternal complement",
+      "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
+      "publishedAt": "2026-10-01T17:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 1,
+        "reason": "Routine official update"
+      }
     }
   ],
   "newItems": [
     {
-      "id": "d77ff3029b3e1f2af7895ce2a401975570c9d96b",
+      "id": "44ea6b5a3abb1087df6c69e2107a062aaf7a58aa",
       "company": "OpenAI",
       "sourceKind": "external",
       "sourceId": "external-openai-major",
       "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdUN0djVNM0FETl9maHZSTUZrMUVoTkhwYzV0QkVoS1JaRFhpc21EVDJoRzZnQTZoTzRiWjg1bVdPNEJrUG5ubUI2UndQQXNiOW5xUUdmUEJMczdlT202bDV2TXR6ajNQNWl3OTJVaUJUSnZPLUFveG50N2RiX0gtU1ppVlpoaVFKSm14a1pPWTRYVnpaUXFWMWl0YWRzUQ?oc=5",
-      "title": "OpenAI Hires Top Trump AI Official to Work on National Security",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPanBnbDA2SnluX0swT1ZpQ212VUNKRHh1T3d2Tmt0VDBieEtFVmh6blFFZEVCZlFLbjd4TnNYRnhacmtoSEdRTTFsbVdQN3RjRW5BTVd2NkJwdkdmcHNBa2czV3BZc19MYnJ1dkFvTkh1YXZQQkw1Zmtma2Y4Qm10RzlIUlhJS1ZSUHJnVVdTNlk1djVnNndqNXJBZ29hcEVJUmdkZTNWcklGWEF4TGtuZw?oc=5",
+      "title": "OpenAI safety employee quits, says 'time for trial and error is over'",
       "summary": "",
-      "publishedAt": "2026-10-02T19:00:00.000Z",
-      "publisher": "The Information",
+      "publishedAt": "2026-10-03T19:00:00.000Z",
+      "publisher": "reuters.com",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "a6121278672f986fd42c3e71b077a21abb9635b8",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR0JlUHlOLTF6R21EV2trSHd6Si1Tckd6SXdDeXZIY1ZKRkxLZzJmRFNwamo2WXhYRTNTYWhJMWpDZTJyb01vd2NpQXZTaE9BRWxnaEFsdDYzeThJdDA0Y0RQcUhjTWlPYkx1c1NxXzRkcWgyRk54N0Y2SDJVY3ZYMUdQaEhEbzZEVkowX1VBODRsNHRMMTBPX3BUMHdwai12MUZtMVhwRVM?oc=5",
+      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+      "summary": "",
+      "publishedAt": "2026-10-03T16:30:01.000Z",
+      "publisher": "TechCrunch",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -563,22 +582,22 @@
       }
     },
     {
-      "id": "5c6ae042974e249192ddd70bbd420d3fbce4c299",
+      "id": "7e67b43cf9d0e609b77c8416e1333d34aa00dfc5",
       "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNTZ0eE4xQmV1U3JhUDA0MVoyQmg1d3FlR0hUVlVGMVF1UTBNYmNNbVBySzlERVQ3Y194bTFlVXdqdHVVUjVoM3UtbWpaeEE0b0FxT1R3QTBtd2pwVm9neHVTcE05Z1BZaFZ5RlFvOENfa2JqUXU1eXBOSmxFUTlDS2xMZXVGNWZOWFRDYzZsRnNGZw?oc=5",
-      "title": "OpenAI Eyes $1.4 Trillion Valuation in New Funding",
-      "summary": "",
-      "publishedAt": "2026-09-30T12:15:24.000Z",
-      "publisher": "Yahoo Finance",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/the-eternal-complement",
+      "title": "The eternal complement",
+      "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
+      "publishedAt": "2026-10-01T17:00:00.000Z",
+      "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Trusted external coverage"
+        "bucket": "digest",
+        "score": 1,
+        "reason": "Routine official update"
       }
     }
   ],
