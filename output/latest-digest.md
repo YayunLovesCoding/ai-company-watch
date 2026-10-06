@@ -1,93 +1,94 @@
 # AI Company Watch
 
-Generated: Oct 5, 2026, 2:29 PM PDT
+Generated: Oct 6, 2026, 12:20 PM PDT
 Lookback window: 7 day(s)
 Sources checked: 12
-Items fetched: 36
+Items fetched: 37
 Items kept: 24
 New items: 11
-External items kept: 7
-Official items kept: 17
+External items kept: 10
+Official items kept: 14
 
 ## Critical External News
 
-### OpenAI - OpenAI sued for trademark infringement over 'Astra' AI model
-Source: Major External News - OpenAI
+### Anthropic - Anthropic, OpenAI, Google and Meta execs set to testify at NYC Council hearing on AI risks
+Source: Major External News - Anthropic
+Publisher: CNBC Africa
+Published: Oct 5, 2026
+Why it matters: Corporate move or major external event
+Link: https://news.google.com/rss/articles/CBMivAFBVV95cUxOZWw4eGtZSDFrUWJPTU03WlEyOEUzRTFGeUxwelZUbjlMSkh0MnExRHpOYTBSUXl1LWJvbUJhOURHeTBXM1pOMklGOG5TUDU2X3NaSGNzMkxVS3RpZWIyWklleERwWWNhSjhyT09qSXBPZDV0SzlsNmE4QlA2RzBVbHpjS0p6NWdELXBYUGNpc0g0d1VDTXk4M0NVMktKUXRPeU9BS2FWb1lZZkpTRFUwVkJIbllVdFVTSmdoVA?oc=5
+
+### Anthropic - Anthropic opens its most powerful AI models to more security teams
+Source: Major External News - Anthropic
 Publisher: Reuters
-Published: Oct 5, 2026
-Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMirwFBVV95cUxPcW56VDk1TEhMTEdHUmg1RlB0cVIza055bEQ1OWJsLTk3OEFySUJNTzhSQ0Q0bTloYnBGN2VXaTBQUmxnNEd0UUtuc0NEeDR1UjZjWERWeEZURlpNOHVfQUo3TnBKaVF6ekJ4SDktZEdUQW5XUThabHMwdXVlRWl2ZHd0OVNHdDF2UmlRZ2ZWVjREeXhmZ3l3RXZUV3Z2MnNZQlFrOEdaUllrdkNGWmNv?oc=5
-
-### OpenAI - Cerebras Stock Surges After OpenAI CEO Calls Chipmaker a ‘Close Partner’
-Source: Major External News - OpenAI
-Publisher: Yahoo Finance
-Published: Oct 5, 2026
-Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMingFBVV95cUxPdlozOTBqQl84X3RBeGlsbUxPQldTU09XYTIzZVNHdlFUbWRySDNsdWVxaFg4SG5udUNubF9xMXNTWEJ0eFhobmcyRUg2U00xa0w5TmtuWno1NldLdVUzSTk2bVZzeDkxNUhLY2Z3WjBQX2pZVEdtNnk0bFFUWUlBbzFoVTJvU2doOG9CeUFxWF9CQ3B4SF9Tdm8ySjZYdw?oc=5
-
-### OpenAI - Cerebras stock surges after OpenAI CEO Altman lauds 'close partner'
-Source: Major External News - OpenAI
-Publisher: Yahoo Finance
-Published: Oct 5, 2026
-Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMivwFBVV95cUxOMllVMkZxZ1g1WE16N2pVU1RrVnVYSHhrUS0xXzlOTTV2OFNBTjFFV2VwSGRWc2RPbUY2QzdWWGJjWUFrV1pfUl81dHdfSGNIbHZ2YUZzdmdjTllOZnVGZ3NCLWJLelA5NFYzazY5cDgxWndfUXZUb1NGUmtFbTBIOFllRFBvLUFPLWJGNFZ3ZmNqZFJBeTdyby00TS1uU1lZWG9xR3dGdVdobUlMWFN6LXVXUUh3UVlxbU5lM2x4OA?oc=5
-
-### Microsoft - Cerebras stock pops after OpenAI CEO Altman lauds 'close partner'
-Source: Major External News - Microsoft
-Publisher: Yahoo Finance
-Published: Oct 5, 2026
-Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMivAFBVV95cUxNaExfejRCel9FdkY0eW1lSHp2dmUtZUlSR0xEQ2RKZVdSUU0yY1NfdDYxbW1OZ2J4enpfc3Z4N3RlVFRNa3RYNXJRN0hDc0xtS2xMNUMxTGxBZUloY1k2LWxqSEN2TmRqN2NnMTlLWFJhNHBiRWpET1RfVlNhWHVSYWxjbkpHMUZnT0ZFRE1YX0NMTHBYeWpQY192MklvVzRBY091Ukh5R1l1V1gtelg2Y0NMSWc1cl96SWxMag?oc=5
-
-### OpenAI - Cerebras Systems Shares Rise After Altman Comments on OpenAI Partnership
-Source: Major External News - OpenAI
-Publisher: Yahoo Finance
-Published: Oct 5, 2026
-Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMioAFBVV95cUxOWmdJOVBpUFgxWkFUcTV1em5TekhrVXJISDBxN190NXN2cU8zTVR4RlcxM3NHS2RvMEU5MWpueGFoVWlsc0hoc19CUGNtZEhQNGpXUmk3cTBKclFVTzVmNE9DQjJaVFJxTFlYLXA4eUlYQnFFUEdGRVp2ZWpMSFVMYUlSVWtMSHp6T0N1M1hORS1MM3ZFYjJSajg5MlNrZU9C?oc=5
+Published: Oct 6, 2026
+Why it matters: Safety, security, or policy update
+Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxQRkxQM2QzdFNaWVZ2cDdhMGNGb24za0lLSjNZOTlLTkMwMTNPNDBnSjMyaHRXZ0QwVkRLV2RwNUdob2ZpNHhfX19TVkNxQW1XOFEybjdJWTZFbGZPU1hLR1pEcFpyNmZLV19IUVJqUm9LOWxZNnNhRjVSc1pFQU1YR2lXZEw4X19FT3pXM0dVUmdZdW5QNWtKU3YxS0RkLUI4UnJPZXJkeERJdlNSakNLUE9GX2d2Zm8?oc=5
 
 ## Important External News
 
-### Anthropic - Anthropic, OpenAI, Meta and Google executives testify under oath at NYC council meeting
-Source: Major External News - Anthropic
-Publisher: CNBC
-Published: Oct 5, 2026
+### OpenAI - Watch S&P 500 Nears Record High; OpenAI in $30B Funding Talks with UAE, BlackRock
+Source: Major External News - OpenAI
+Publisher: Bloomberg.com
+Published: Oct 6, 2026
 Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdWdDaC1nd0xGN0ZpMHdQNlRlZE9rVUdWc1BJRjhlWmhBbE53Y2h1S2h6ZnQ1b2piZ2V3ZEYtT0Vkbldxa1Q5bjZJYVNpOUJkaThLdjJLY2wzZW1Bb3F4ZWoyQnJmajRTTWoxMjluLWk3WmFFTEkxeDVURmIzRXZvV094bG8xZzJsVE1mNzB0ekNYdzRfVnEzSzlHYUpoYXd5TnhydlUtNVhQSHdZMVRpeHRqX1JPTmdISzQ4Y3NGdTE2QQ?oc=5
+Link: https://news.google.com/rss/articles/CBMiiAFBVV95cUxNR1RFQ0dhT3JsX0RhRUItOGZRUHg1QXZzZVdkVDZLQWd2emlDUTdTTFl2M0pxdUNPYTlERzhIOVBrLWEtVGVIOC1Sc3c5SXpyWWhjcHowMllyckJ3Y0p6ZnpReDVkWEp5YTNISUNMYnhUMDdsUS1pa3NIU19fRHJNM0dkN0dYQmk5?oc=5
 
-### Meta - A billion-dollar Meta project that isn’t a data center
-Source: Major External News - Meta
-Publisher: Fortune
+### OpenAI - Watch OpenAI, DeepSeek & Moonshot Chase Billions in New AI Funding
+Source: Major External News - OpenAI
+Publisher: Bloomberg.com
+Published: Oct 6, 2026
+Why it matters: Trusted external coverage
+Link: https://news.google.com/rss/articles/CBMifkFVX3lxTE1OWEZPMWdULWFmYlhoXzAwNG00QVJjMDVWdVdPWFFMRFQyaDVuRFAzNmwwWm55LTRJdlp3ZFNpcFhpaXVyX0stMldKRkZYYW8taGFVdU81eFRMQm5GbEZWMzY2WjlzSW9uQnNFb0pueEEtWmlPVVpPY2ItQmRWUQ?oc=5
+
+### OpenAI - OpenAI in talks with UAE funds to anchor $30 bln funding round - Bloomberg
+Source: Major External News - OpenAI
+Publisher: Yahoo Finance UK
 Published: Oct 5, 2026
 Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMijgFBVV95cUxNNHhkTDhwRWZhVHNodDhqSnlobGZ6dHFoNV9ENFFrRENNdTlfczZLeEYtMjFyYkRQVlFkbnJTc1hZSW5oNE16QkxfRlNONW9qNFE3azF0cDRJVFdDUnNPVC1PenlVNFFaaEVRZHJEdXBEU3F0MEcyVVJxUVJINFh0UldmdHhMUVNaOHNNVlhB?oc=5
+Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxPNjZTNlFHajdYV3Q0a2h6VlUwZGdwSWViVmtqN2wyZlpoRldkamNieTdTSVJPRUl4Rklqd2NXTjdwdnVBUFdyNW40U1k3Sldfd1hyMUQtLW1idTVMVmVoRXRGZG1tekQ4dmVPNGp0a0hFS3A1bkZKUjFBLU0zSm1sNzJsdE4?oc=5
+
+### OpenAI - OpenAI, Anthropic tell Australia they would welcome data breach rules
+Source: Major External News - OpenAI
+Publisher: Reuters
+Published: Oct 5, 2026
+Why it matters: Trusted external coverage
+Link: https://news.google.com/rss/articles/CBMixgFBVV95cUxPakluaktNLUFlZk8zejE5LUV6VWYtdkphTjB0UVpiYjJ2WVYwd2lXUC0xMTdPcFJXYUNMajk5MlMtcmNlSUxiUGY3T0plNzYxMG02X09jbkNlcDBldEdueENYdXhHVnd6TkVmVExyZGtzN0hqdUF5X2VsaEVMX3hWT21ob3VvWWE5UlNqbnZLb24yTXJlYWJiZGl1cjRWNnNad1ljTlF4WTVJREEza2Y0SmlmX0E0QzJfeVZjU1hFOXdYeDU2bEE?oc=5
+
+## Critical Official Updates
+
+### OpenAI - Atlassian and OpenAI expand partnership to turn enterprise knowledge into action
+Source: OpenAI Newsroom
+Published: Oct 6, 2026
+Why it matters: Corporate move or major external event
+Summary: Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.
+Link: https://openai.com/index/atlassian-partnership
+
+### Google - EmbeddingGemma 2: an open, lightweight multimodal embedding model
+Source: Google AI
+Published: Oct 6, 2026
+Why it matters: Flagship model or product launch
+Summary: Introducing EmbeddingGemma 2, an open multimodal embedding model optimized for privacy-first use cases
+Link: https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2
 
 ## Official Company Updates
 
-### OpenAI - Our approach to EU text provenance rules
-Source: OpenAI Newsroom
-Published: Oct 5, 2026
-Why it matters: Routine official update
-Summary: How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.
-Link: https://openai.com/index/eu-text-provenance
-
-### OpenAI - Building advertising for the way people use AI
-Source: OpenAI Newsroom
-Published: Oct 5, 2026
-Why it matters: Routine official update
-Summary: OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.
-Link: https://openai.com/index/new-chatgpt-ads-format-and-measurement
-
-### Google - Guided Vision in Gemini Live: built for accessibility
+### Google - Making global public health more proactive with Google Earth AI
 Source: Google AI
-Published: Oct 1, 2026
+Published: Oct 6, 2026
 Why it matters: Routine official update
-Summary: Guided Vision in Gemini Live is built alongside the blind and low-vision community and offers real-time visual assistance.
-Link: https://blog.google/innovation-and-ai/products/gemini-app/guided-vision-gemini-live
+Summary: Google is helping health leaders overcome reporting lags, forecast disease outbreaks, and deliver care to vulnerable communities.
+Link: https://blog.google/innovation-and-ai/technology/health/google-earth-ai
 
-### OpenAI - How Albertsons Companies is reimagining retail from the inside out
+### OpenAI - Advancing computer use with Ironclad
 Source: OpenAI Newsroom
-Published: Oct 1, 2026
+Published: Oct 6, 2026
 Why it matters: Routine official update
-Summary: Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.
-Link: https://openai.com/index/albertsons-reimagining-retail
+Summary: Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.
+Link: https://openai.com/index/advancing-computer-use-with-ironclad
+
+### Anthropic - Expanding the Cyber Verification Program
+Source: Anthropic News
+Published: Oct 5, 2026
+Why it matters: Routine official update
+Link: https://www.anthropic.com/news/cyber-verification-program
