@@ -1,94 +1,74 @@
 # AI Company Watch
 
-Generated: Oct 6, 2026, 12:20 PM PDT
+Generated: Oct 7, 2026, 12:48 PM PDT
 Lookback window: 7 day(s)
 Sources checked: 12
-Items fetched: 37
+Items fetched: 38
 Items kept: 24
-New items: 11
-External items kept: 10
-Official items kept: 14
+New items: 8
+External items kept: 12
+Official items kept: 12
 
 ## Critical External News
 
-### Anthropic - Anthropic, OpenAI, Google and Meta execs set to testify at NYC Council hearing on AI risks
-Source: Major External News - Anthropic
-Publisher: CNBC Africa
+### Google - Unity Shares Rise 5% After Google AI Gaming Partnership
+Source: Major External News - Google
+Publisher: Yahoo Finance
+Published: Oct 7, 2026
+Why it matters: Corporate move or major external event
+Link: https://news.google.com/rss/articles/CBMilAFBVV95cUxQZ3NGRHc2UFVOR005cWJBWG03WlA0d1RYZF9kS0tFZkdoSmw3ZGk0di05R2xCZVZJaVhEWi1OS0E2VFloemEzdldfcUhCRjVSTm9NWXZvcFpXZXpIRURTVFJQUWdFZ0RKRGV4VHJYX0tPWGl4VWZlR0twWVk2VGF0UlZrU0hYQS0xYTA3T29GVmVscDJ4?oc=5
+
+### Google - Unity stock jumps 5% on Google AI gaming partnership
+Source: Major External News - Google
+Publisher: Yahoo Finance
+Published: Oct 7, 2026
+Why it matters: Corporate move or major external event
+Link: https://news.google.com/rss/articles/CBMilAFBVV95cUxNT3hIbV9Rc3NWRm0yc01nT2Q1aW9TUTNVZlJ3ZXF4Z0NWcm1ETlZFQVBZRmpzNzQwTVJFVFM0X2V2bXV4TFFhUkV4UmxiRkE3UHF3UEZ0UTN0ZEo1SWZELVV4VXoyT29oV0EzcW5acE8xd1hMM0pvQklaQ3VYdXprdjVybXlmd1NZYm9vU3ZySHBSQU9z?oc=5
+
+### Microsoft - OpenAI CEO Sam Altman Called Cerebras a 'Close Partner.' Its Stock Surged.
+Source: Major External News - Microsoft
+Publisher: Yahoo Finance
 Published: Oct 5, 2026
 Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMivAFBVV95cUxOZWw4eGtZSDFrUWJPTU03WlEyOEUzRTFGeUxwelZUbjlMSkh0MnExRHpOYTBSUXl1LWJvbUJhOURHeTBXM1pOMklGOG5TUDU2X3NaSGNzMkxVS3RpZWIyWklleERwWWNhSjhyT09qSXBPZDV0SzlsNmE4QlA2RzBVbHpjS0p6NWdELXBYUGNpc0g0d1VDTXk4M0NVMktKUXRPeU9BS2FWb1lZZkpTRFUwVkJIbllVdFVTSmdoVA?oc=5
-
-### Anthropic - Anthropic opens its most powerful AI models to more security teams
-Source: Major External News - Anthropic
-Publisher: Reuters
-Published: Oct 6, 2026
-Why it matters: Safety, security, or policy update
-Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxQRkxQM2QzdFNaWVZ2cDdhMGNGb24za0lLSjNZOTlLTkMwMTNPNDBnSjMyaHRXZ0QwVkRLV2RwNUdob2ZpNHhfX19TVkNxQW1XOFEybjdJWTZFbGZPU1hLR1pEcFpyNmZLV19IUVJqUm9LOWxZNnNhRjVSc1pFQU1YR2lXZEw4X19FT3pXM0dVUmdZdW5QNWtKU3YxS0RkLUI4UnJPZXJkeERJdlNSakNLUE9GX2d2Zm8?oc=5
+Link: https://news.google.com/rss/articles/CBMilwFBVV95cUxOYzlVZ0trNUd0akUyck1CcU5LMXN3YzFyMVdacVBhM3RHZXRITzBJZXh3Slg2TWctSlEwanZPaFp6ZEE0Yk4zMjhuNmpMS0ZneldOUUtxVWQzOVQzaTFOYTZKLXUxWWRIbEZZUE5KZGQtRHVfRDhxaVJ0X25RWC11YWtWa1oxR2pnLUt5bUdRUjMwUUxIOGNn?oc=5
 
 ## Important External News
 
-### OpenAI - Watch S&P 500 Nears Record High; OpenAI in $30B Funding Talks with UAE, BlackRock
+### OpenAI - OpenAI's Human Rights Lead: What the military could do with AI 'keeps me up at night'
 Source: Major External News - OpenAI
-Publisher: Bloomberg.com
+Publisher: Fortune
 Published: Oct 6, 2026
 Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMiiAFBVV95cUxNR1RFQ0dhT3JsX0RhRUItOGZRUHg1QXZzZVdkVDZLQWd2emlDUTdTTFl2M0pxdUNPYTlERzhIOVBrLWEtVGVIOC1Sc3c5SXpyWWhjcHowMllyckJ3Y0p6ZnpReDVkWEp5YTNISUNMYnhUMDdsUS1pa3NIU19fRHJNM0dkN0dYQmk5?oc=5
-
-### OpenAI - Watch OpenAI, DeepSeek & Moonshot Chase Billions in New AI Funding
-Source: Major External News - OpenAI
-Publisher: Bloomberg.com
-Published: Oct 6, 2026
-Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMifkFVX3lxTE1OWEZPMWdULWFmYlhoXzAwNG00QVJjMDVWdVdPWFFMRFQyaDVuRFAzNmwwWm55LTRJdlp3ZFNpcFhpaXVyX0stMldKRkZYYW8taGFVdU81eFRMQm5GbEZWMzY2WjlzSW9uQnNFb0pueEEtWmlPVVpPY2ItQmRWUQ?oc=5
-
-### OpenAI - OpenAI in talks with UAE funds to anchor $30 bln funding round - Bloomberg
-Source: Major External News - OpenAI
-Publisher: Yahoo Finance UK
-Published: Oct 5, 2026
-Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxPNjZTNlFHajdYV3Q0a2h6VlUwZGdwSWViVmtqN2wyZlpoRldkamNieTdTSVJPRUl4Rklqd2NXTjdwdnVBUFdyNW40U1k3Sldfd1hyMUQtLW1idTVMVmVoRXRGZG1tekQ4dmVPNGp0a0hFS3A1bkZKUjFBLU0zSm1sNzJsdE4?oc=5
-
-### OpenAI - OpenAI, Anthropic tell Australia they would welcome data breach rules
-Source: Major External News - OpenAI
-Publisher: Reuters
-Published: Oct 5, 2026
-Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMixgFBVV95cUxPakluaktNLUFlZk8zejE5LUV6VWYtdkphTjB0UVpiYjJ2WVYwd2lXUC0xMTdPcFJXYUNMajk5MlMtcmNlSUxiUGY3T0plNzYxMG02X09jbkNlcDBldEdueENYdXhHVnd6TkVmVExyZGtzN0hqdUF5X2VsaEVMX3hWT21ob3VvWWE5UlNqbnZLb24yTXJlYWJiZGl1cjRWNnNad1ljTlF4WTVJREEza2Y0SmlmX0E0QzJfeVZjU1hFOXdYeDU2bEE?oc=5
+Link: https://news.google.com/rss/articles/CBMimAFBVV95cUxPbTNzTVZXVDBUekRBMjQ0bF9lcG9kX0hvY1RPaDRNY2tLaFlSLTZEMWhtVkhfWEZaOXRGSmlQT3lHZTBXN3RTRGliOHRqU2ZieUIzbklPaDh5Q0t2Q2ZIWFdOTHo3cTdCa0hUcWhRRWIwdktsQ3Y3dFY0UHBMaU1uWUhvdzJVbjUxbVh0MnRDT2l4ZGlxMEFtSQ?oc=5
 
 ## Critical Official Updates
 
-### OpenAI - Atlassian and OpenAI expand partnership to turn enterprise knowledge into action
-Source: OpenAI Newsroom
-Published: Oct 6, 2026
+### Google - We're making it easier to identify AI-generated content globally.
+Source: Google AI
+Published: Oct 7, 2026
 Why it matters: Corporate move or major external event
-Summary: Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.
-Link: https://openai.com/index/atlassian-partnership
+Summary: We’re launching a standalone platform to help you easily identify whether online content was created using Google AI or tools from our industry partners.
+Link: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synth-id-ai-content
 
-### Google - EmbeddingGemma 2: an open, lightweight multimodal embedding model
-Source: Google AI
-Published: Oct 6, 2026
-Why it matters: Flagship model or product launch
-Summary: Introducing EmbeddingGemma 2, an open multimodal embedding model optimized for privacy-first use cases
-Link: https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2
+### OpenAI - Radisson Hotel Group brings hotel discovery into ChatGPT
+Source: OpenAI Newsroom
+Published: Oct 7, 2026
+Why it matters: Corporate move or major external event
+Summary: Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.
+Link: https://openai.com/index/radisson
 
-## Official Company Updates
+## Important Official Updates
 
-### Google - Making global public health more proactive with Google Earth AI
-Source: Google AI
-Published: Oct 6, 2026
-Why it matters: Routine official update
-Summary: Google is helping health leaders overcome reporting lags, forecast disease outbreaks, and deliver care to vulnerable communities.
-Link: https://blog.google/innovation-and-ai/technology/health/google-earth-ai
-
-### OpenAI - Advancing computer use with Ironclad
+### OpenAI - How Jump Trading is scaling quant research with ChatGPT
 Source: OpenAI Newsroom
 Published: Oct 6, 2026
-Why it matters: Routine official update
-Summary: Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.
-Link: https://openai.com/index/advancing-computer-use-with-ironclad
+Why it matters: Technical or research update
+Summary: Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.
+Link: https://openai.com/index/jump-trading
 
-### Anthropic - Expanding the Cyber Verification Program
-Source: Anthropic News
-Published: Oct 5, 2026
-Why it matters: Routine official update
-Link: https://www.anthropic.com/news/cyber-verification-program
+### OpenAI - Sharing AI progress in mathematics
+Source: OpenAI Newsroom
+Published: Oct 6, 2026
+Why it matters: Technical or research update
+Summary: OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.
+Link: https://openai.com/index/sharing-ai-progress-in-mathematics

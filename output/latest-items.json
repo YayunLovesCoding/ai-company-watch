@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T19:20:43.602Z",
+  "generatedAt": "2026-10-07T19:48:08.500Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -76,15 +76,53 @@
     }
   ],
   "totals": {
-    "fetched": 37,
+    "fetched": 38,
     "deduped": 24,
-    "new": 11,
+    "new": 8,
     "byKind": {
-      "official": 14,
-      "external": 10
+      "official": 12,
+      "external": 12
     }
   },
   "items": [
+    {
+      "id": "9f65bc624111eddfb1ae247f712ea07d21b3b089",
+      "company": "Google",
+      "sourceKind": "external",
+      "sourceId": "external-google-major",
+      "sourceLabel": "Major External News - Google",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZ3NGRHc2UFVOR005cWJBWG03WlA0d1RYZF9kS0tFZkdoSmw3ZGk0di05R2xCZVZJaVhEWi1OS0E2VFloemEzdldfcUhCRjVSTm9NWXZvcFpXZXpIRURTVFJQUWdFZ0RKRGV4VHJYX0tPWGl4VWZlR0twWVk2VGF0UlZrU0hYQS0xYTA3T29GVmVscDJ4?oc=5",
+      "title": "Unity Shares Rise 5% After Google AI Gaming Partnership",
+      "summary": "",
+      "publishedAt": "2026-10-07T12:37:55.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "201244fe66fe022b590339ebeeb72a4ca8514b3d",
+      "company": "Google",
+      "sourceKind": "external",
+      "sourceId": "external-google-major",
+      "sourceLabel": "Major External News - Google",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNT3hIbV9Rc3NWRm0yc01nT2Q1aW9TUTNVZlJ3ZXF4Z0NWcm1ETlZFQVBZRmpzNzQwTVJFVFM0X2V2bXV4TFFhUkV4UmxiRkE3UHF3UEZ0UTN0ZEo1SWZELVV4VXoyT29oV0EzcW5acE8xd1hMM0pvQklaQ3VYdXprdjVybXlmd1NZYm9vU3ZySHBSQU9z?oc=5",
+      "title": "Unity stock jumps 5% on Google AI gaming partnership",
+      "summary": "",
+      "publishedAt": "2026-10-07T12:36:54.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
     {
       "id": "ead7f44112a32f33f2cd619cb8a2205e376369d9",
       "company": "Anthropic",
@@ -105,21 +143,21 @@
       }
     },
     {
-      "id": "8ddc6be0566b7494fc5c70425875d358699f857d",
+      "id": "2b7d727883c13f8a075587f1cb5a25a814a450cd",
       "company": "Microsoft",
       "sourceKind": "external",
       "sourceId": "external-microsoft-major",
       "sourceLabel": "Major External News - Microsoft",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMllVMkZxZ1g1WE16N2pVU1RrVnVYSHhrUS0xXzlOTTV2OFNBTjFFV2VwSGRWc2RPbUY2QzdWWGJjWUFrV1pfUl81dHdfSGNIbHZ2YUZzdmdjTllOZnVGZ3NCLWJLelA5NFYzazY5cDgxWndfUXZUb1NGUmtFbTBIOFllRFBvLUFPLWJGNFZ3ZmNqZFJBeTdyby00TS1uU1lZWG9xR3dGdVdobUlMWFN6LXVXUUh3UVlxbU5lM2x4OA?oc=5",
-      "title": "Cerebras stock surges after OpenAI CEO Altman lauds 'close partner'",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYzlVZ0trNUd0akUyck1CcU5LMXN3YzFyMVdacVBhM3RHZXRITzBJZXh3Slg2TWctSlEwanZPaFp6ZEE0Yk4zMjhuNmpMS0ZneldOUUtxVWQzOVQzaTFOYTZKLXUxWWRIbEZZUE5KZGQtRHVfRDhxaVJ0X25RWC11YWtWa1oxR2pnLUt5bUdRUjMwUUxIOGNn?oc=5",
+      "title": "OpenAI CEO Sam Altman Called Cerebras a 'Close Partner.' Its Stock Surged.",
       "summary": "",
-      "publishedAt": "2026-10-05T20:00:31.000Z",
+      "publishedAt": "2026-10-05T17:34:33.000Z",
       "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 7,
+        "score": 6,
         "reason": "Corporate move or major external event"
       }
     },
@@ -138,7 +176,26 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 7,
+        "score": 6,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "8ddc6be0566b7494fc5c70425875d358699f857d",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMllVMkZxZ1g1WE16N2pVU1RrVnVYSHhrUS0xXzlOTTV2OFNBTjFFV2VwSGRWc2RPbUY2QzdWWGJjWUFrV1pfUl81dHdfSGNIbHZ2YUZzdmdjTllOZnVGZ3NCLWJLelA5NFYzazY5cDgxWndfUXZUb1NGUmtFbTBIOFllRFBvLUFPLWJGNFZ3ZmNqZFJBeTdyby00TS1uU1lZWG9xR3dGdVdobUlMWFN6LXVXUUh3UVlxbU5lM2x4OA?oc=5",
+      "title": "Cerebras stock surges after OpenAI CEO Altman lauds 'close partner'",
+      "summary": "",
+      "publishedAt": "2026-10-05T15:37:08.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
         "reason": "Corporate move or major external event"
       }
     },
@@ -157,7 +214,45 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 7,
+        "score": 6,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "0fa13121f0824c56e3831e00a55317a21991eaaf",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synth-id-ai-content",
+      "title": "We're making it easier to identify AI-generated content globally.",
+      "summary": "We’re launching a standalone platform to help you easily identify whether online content was created using Google AI or tools from our industry partners.",
+      "publishedAt": "2026-10-07T14:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "04e9dc3828b5420c0f01153ffacad571c15c3fe5",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/radisson",
+      "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+      "summary": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
+      "publishedAt": "2026-10-07T07:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
         "reason": "Corporate move or major external event"
       }
     },
@@ -181,25 +276,6 @@
       }
     },
     {
-      "id": "713dc795886d2ba396bceebfec63d48486ce3377",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRkxQM2QzdFNaWVZ2cDdhMGNGb24za0lLSjNZOTlLTkMwMTNPNDBnSjMyaHRXZ0QwVkRLV2RwNUdob2ZpNHhfX19TVkNxQW1XOFEybjdJWTZFbGZPU1hLR1pEcFpyNmZLV19IUVJqUm9LOWxZNnNhRjVSc1pFQU1YR2lXZEw4X19FT3pXM0dVUmdZdW5QNWtKU3YxS0RkLUI4UnJPZXJkeERJdlNSakNLUE9GX2d2Zm8?oc=5",
-      "title": "Anthropic opens its most powerful AI models to more security teams",
-      "summary": "",
-      "publishedAt": "2026-10-06T19:03:45.000Z",
-      "publisher": "Reuters",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
       "id": "0a7d6e8e8b6e889979dc0a12221511f0a054640c",
       "company": "Google",
       "sourceKind": "official",
@@ -212,6 +288,25 @@
       "publishedAt": "2026-10-06T16:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "a22a6ca92e5c69fdf01eef5e96b283f5b72e4fc3",
+      "company": "Anthropic",
+      "sourceKind": "official",
+      "sourceId": "anthropic-news",
+      "sourceLabel": "Anthropic News",
+      "homepageUrl": "https://www.anthropic.com/news",
+      "url": "https://www.anthropic.com/news/cyber-verification-program",
+      "title": "Expanding the Cyber Verification Program We’re launching a new, expanded version of our Cyber Verification Program, which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.",
+      "summary": "",
+      "publishedAt": "2026-10-06T00:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "anchor",
       "classification": {
         "bucket": "critical",
         "score": 5,
@@ -276,6 +371,25 @@
       }
     },
     {
+      "id": "8832aa704c2373a781697e6cfaab7b1d8d4bfc38",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbTNzTVZXVDBUekRBMjQ0bF9lcG9kX0hvY1RPaDRNY2tLaFlSLTZEMWhtVkhfWEZaOXRGSmlQT3lHZTBXN3RTRGliOHRqU2ZieUIzbklPaDh5Q0t2Q2ZIWFdOTHo3cTdCa0hUcWhRRWIwdktsQ3Y3dFY0UHBMaU1uWUhvdzJVbjUxbVh0MnRDT2l4ZGlxMEFtSQ?oc=5",
+      "title": "OpenAI's Human Rights Lead: What the military could do with AI 'keeps me up at night'",
+      "summary": "",
+      "publishedAt": "2026-10-06T20:43:00.000Z",
+      "publisher": "Fortune",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
       "id": "286f4e9c2ae8947f4691988145eb821fb8328bc1",
       "company": "OpenAI",
       "sourceKind": "external",
@@ -325,44 +439,6 @@
       "summary": "",
       "publishedAt": "2026-10-06T00:56:00.000Z",
       "publisher": "Yahoo Finance UK",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "26342281e78f1b70d234d08c2e04af55bc55c170",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPakluaktNLUFlZk8zejE5LUV6VWYtdkphTjB0UVpiYjJ2WVYwd2lXUC0xMTdPcFJXYUNMajk5MlMtcmNlSUxiUGY3T0plNzYxMG02X09jbkNlcDBldEdueENYdXhHVnd6TkVmVExyZGtzN0hqdUF5X2VsaEVMX3hWT21ob3VvWWE5UlNqbnZLb24yTXJlYWJiZGl1cjRWNnNad1ljTlF4WTVJREEza2Y0SmlmX0E0QzJfeVZjU1hFOXdYeDU2bEE?oc=5",
-      "title": "OpenAI, Anthropic tell Australia they would welcome data breach rules",
-      "summary": "",
-      "publishedAt": "2026-10-06T00:15:00.000Z",
-      "publisher": "Reuters",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "ee820771f62f0c2ad7d212780ce4b757bac94d95",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNHhkTDhwRWZhVHNodDhqSnlobGZ6dHFoNV9ENFFrRENNdTlfczZLeEYtMjFyYkRQVlFkbnJTc1hZSW5oNE16QkxfRlNONW9qNFE3azF0cDRJVFdDUnNPVC1PenlVNFFaaEVRZHJEdXBEU3F0MEcyVVJxUVJINFh0UldmdHhMUVNaOHNNVlhB?oc=5",
-      "title": "A billion-dollar Meta project that isn’t a data center",
-      "summary": "",
-      "publishedAt": "2026-10-05T10:42:00.000Z",
-      "publisher": "Fortune",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -390,6 +466,63 @@
       }
     },
     {
+      "id": "ee820771f62f0c2ad7d212780ce4b757bac94d95",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNHhkTDhwRWZhVHNodDhqSnlobGZ6dHFoNV9ENFFrRENNdTlfczZLeEYtMjFyYkRQVlFkbnJTc1hZSW5oNE16QkxfRlNONW9qNFE3azF0cDRJVFdDUnNPVC1PenlVNFFaaEVRZHJEdXBEU3F0MEcyVVJxUVJINFh0UldmdHhMUVNaOHNNVlhB?oc=5",
+      "title": "A billion-dollar Meta project that isn’t a data center",
+      "summary": "",
+      "publishedAt": "2026-10-05T10:42:00.000Z",
+      "publisher": "Fortune",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "342677ae7eadb2eb62e4a38c30f07848c459226e",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/jump-trading",
+      "title": "How Jump Trading is scaling quant research with ChatGPT",
+      "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
+      "publishedAt": "2026-10-06T12:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Technical or research update"
+      }
+    },
+    {
+      "id": "47b9255d8fa0f8e89c91be9f3fca6f4f2b924e04",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+      "title": "Sharing AI progress in mathematics",
+      "summary": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
+      "publishedAt": "2026-10-06T12:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Technical or research update"
+      }
+    },
+    {
       "id": "3a0b4572422c1a8cbc95ae7fb7158fc8dc49f9d0",
       "company": "Anthropic",
       "sourceKind": "official",
@@ -407,154 +540,21 @@
         "score": 3,
         "reason": "Safety, security, or policy update"
       }
-    },
-    {
-      "id": "a0fc52c7c407bf11d8b68ccf62e1b5e671a984b4",
-      "company": "Microsoft",
-      "sourceKind": "official",
-      "sourceId": "microsoft-ai",
-      "sourceLabel": "Microsoft AI",
-      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
-      "url": "https://news.microsoft.com/source/emea/features/how-kier-groups-louisa-finlay-is-using-copilot-to-drive-safety-and-productivity-in-the-construction-industry",
-      "title": "Read the story titled How Kier Group’s Louisa Finlay is using Copilot to drive safety and productivity in the construction industry",
-      "summary": "",
-      "publishedAt": null,
-      "publisher": "",
-      "discoveryMethod": "anchor",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "ef7c8bf9c7af1af5e414c4e328f1494718926601",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/technology/health/google-earth-ai",
-      "title": "Making global public health more proactive with Google Earth AI",
-      "summary": "Google is helping health leaders overcome reporting lags, forecast disease outbreaks, and deliver care to vulnerable communities.",
-      "publishedAt": "2026-10-06T15:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "9964af802e9c5fdee2b956b6ca12adb5b9c62816",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
-      "title": "Advancing computer use with Ironclad",
-      "summary": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
-      "publishedAt": "2026-10-06T10:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "a22a6ca92e5c69fdf01eef5e96b283f5b72e4fc3",
-      "company": "Anthropic",
-      "sourceKind": "official",
-      "sourceId": "anthropic-news",
-      "sourceLabel": "Anthropic News",
-      "homepageUrl": "https://www.anthropic.com/news",
-      "url": "https://www.anthropic.com/news/cyber-verification-program",
-      "title": "Expanding the Cyber Verification Program",
-      "summary": "",
-      "publishedAt": "2026-10-06T00:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "anchor",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "78ad53815846c15cf66038ceb51792507cbc3ef4",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/eu-text-provenance",
-      "title": "Our approach to EU text provenance rules",
-      "summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
-      "publishedAt": "2026-10-05T15:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "3cbec84de8bf615536c6b0a8e25828a7b15705aa",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-      "title": "Building advertising for the way people use AI",
-      "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
-      "publishedAt": "2026-10-05T10:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "97cd97d27d220f15f9bc8a69f1f4b5eea602a9e8",
-      "company": "Anthropic",
-      "sourceKind": "official",
-      "sourceId": "anthropic-engineering",
-      "sourceLabel": "Anthropic Engineering",
-      "homepageUrl": "https://www.anthropic.com/engineering",
-      "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
-      "title": "Featured How we contain Claude across products As agents grow more capable, so does their potential blast radius. The engineering question is how to cap it. Here’s what we’ve learned building containment for claude.ai, Claude Code, and Cowork.",
-      "summary": "",
-      "publishedAt": null,
-      "publisher": "",
-      "discoveryMethod": "anchor",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Technical or research update"
-      }
     }
   ],
   "newItems": [
     {
-      "id": "ead7f44112a32f33f2cd619cb8a2205e376369d9",
-      "company": "Anthropic",
+      "id": "9f65bc624111eddfb1ae247f712ea07d21b3b089",
+      "company": "Google",
       "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
+      "sourceId": "external-google-major",
+      "sourceLabel": "Major External News - Google",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZWw4eGtZSDFrUWJPTU03WlEyOEUzRTFGeUxwelZUbjlMSkh0MnExRHpOYTBSUXl1LWJvbUJhOURHeTBXM1pOMklGOG5TUDU2X3NaSGNzMkxVS3RpZWIyWklleERwWWNhSjhyT09qSXBPZDV0SzlsNmE4QlA2RzBVbHpjS0p6NWdELXBYUGNpc0g0d1VDTXk4M0NVMktKUXRPeU9BS2FWb1lZZkpTRFUwVkJIbllVdFVTSmdoVA?oc=5",
-      "title": "Anthropic, OpenAI, Google and Meta execs set to testify at NYC Council hearing on AI risks",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZ3NGRHc2UFVOR005cWJBWG03WlA0d1RYZF9kS0tFZkdoSmw3ZGk0di05R2xCZVZJaVhEWi1OS0E2VFloemEzdldfcUhCRjVSTm9NWXZvcFpXZXpIRURTVFJQUWdFZ0RKRGV4VHJYX0tPWGl4VWZlR0twWVk2VGF0UlZrU0hYQS0xYTA3T29GVmVscDJ4?oc=5",
+      "title": "Unity Shares Rise 5% After Google AI Gaming Partnership",
       "summary": "",
-      "publishedAt": "2026-10-05T20:43:00.000Z",
-      "publisher": "CNBC Africa",
+      "publishedAt": "2026-10-07T12:37:55.000Z",
+      "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -563,16 +563,54 @@
       }
     },
     {
-      "id": "60ef2af305e795fe7c29ac5334b70c4a29353c7c",
-      "company": "OpenAI",
+      "id": "201244fe66fe022b590339ebeeb72a4ca8514b3d",
+      "company": "Google",
+      "sourceKind": "external",
+      "sourceId": "external-google-major",
+      "sourceLabel": "Major External News - Google",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNT3hIbV9Rc3NWRm0yc01nT2Q1aW9TUTNVZlJ3ZXF4Z0NWcm1ETlZFQVBZRmpzNzQwTVJFVFM0X2V2bXV4TFFhUkV4UmxiRkE3UHF3UEZ0UTN0ZEo1SWZELVV4VXoyT29oV0EzcW5acE8xd1hMM0pvQklaQ3VYdXprdjVybXlmd1NZYm9vU3ZySHBSQU9z?oc=5",
+      "title": "Unity stock jumps 5% on Google AI gaming partnership",
+      "summary": "",
+      "publishedAt": "2026-10-07T12:36:54.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "2b7d727883c13f8a075587f1cb5a25a814a450cd",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYzlVZ0trNUd0akUyck1CcU5LMXN3YzFyMVdacVBhM3RHZXRITzBJZXh3Slg2TWctSlEwanZPaFp6ZEE0Yk4zMjhuNmpMS0ZneldOUUtxVWQzOVQzaTFOYTZKLXUxWWRIbEZZUE5KZGQtRHVfRDhxaVJ0X25RWC11YWtWa1oxR2pnLUt5bUdRUjMwUUxIOGNn?oc=5",
+      "title": "OpenAI CEO Sam Altman Called Cerebras a 'Close Partner.' Its Stock Surged.",
+      "summary": "",
+      "publishedAt": "2026-10-05T17:34:33.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "0fa13121f0824c56e3831e00a55317a21991eaaf",
+      "company": "Google",
       "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/atlassian-partnership",
-      "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-      "summary": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
-      "publishedAt": "2026-10-06T16:00:00.000Z",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synth-id-ai-content",
+      "title": "We're making it easier to identify AI-generated content globally.",
+      "summary": "We’re launching a standalone platform to help you easily identify whether online content was created using Google AI or tools from our industry partners.",
+      "publishedAt": "2026-10-07T14:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -582,174 +620,79 @@
       }
     },
     {
-      "id": "713dc795886d2ba396bceebfec63d48486ce3377",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRkxQM2QzdFNaWVZ2cDdhMGNGb24za0lLSjNZOTlLTkMwMTNPNDBnSjMyaHRXZ0QwVkRLV2RwNUdob2ZpNHhfX19TVkNxQW1XOFEybjdJWTZFbGZPU1hLR1pEcFpyNmZLV19IUVJqUm9LOWxZNnNhRjVSc1pFQU1YR2lXZEw4X19FT3pXM0dVUmdZdW5QNWtKU3YxS0RkLUI4UnJPZXJkeERJdlNSakNLUE9GX2d2Zm8?oc=5",
-      "title": "Anthropic opens its most powerful AI models to more security teams",
-      "summary": "",
-      "publishedAt": "2026-10-06T19:03:45.000Z",
-      "publisher": "Reuters",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "0a7d6e8e8b6e889979dc0a12221511f0a054640c",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2",
-      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-      "summary": "Introducing EmbeddingGemma 2, an open multimodal embedding model optimized for privacy-first use cases",
-      "publishedAt": "2026-10-06T16:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "286f4e9c2ae8947f4691988145eb821fb8328bc1",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNR1RFQ0dhT3JsX0RhRUItOGZRUHg1QXZzZVdkVDZLQWd2emlDUTdTTFl2M0pxdUNPYTlERzhIOVBrLWEtVGVIOC1Sc3c5SXpyWWhjcHowMllyckJ3Y0p6ZnpReDVkWEp5YTNISUNMYnhUMDdsUS1pa3NIU19fRHJNM0dkN0dYQmk5?oc=5",
-      "title": "Watch S&P 500 Nears Record High; OpenAI in $30B Funding Talks with UAE, BlackRock",
-      "summary": "",
-      "publishedAt": "2026-10-06T12:18:36.000Z",
-      "publisher": "Bloomberg.com",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "81654f13077e21c9b6b6c56e40734e16280eddc5",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1OWEZPMWdULWFmYlhoXzAwNG00QVJjMDVWdVdPWFFMRFQyaDVuRFAzNmwwWm55LTRJdlp3ZFNpcFhpaXVyX0stMldKRkZYYW8taGFVdU81eFRMQm5GbEZWMzY2WjlzSW9uQnNFb0pueEEtWmlPVVpPY2ItQmRWUQ?oc=5",
-      "title": "Watch OpenAI, DeepSeek & Moonshot Chase Billions in New AI Funding",
-      "summary": "",
-      "publishedAt": "2026-10-06T10:59:19.000Z",
-      "publisher": "Bloomberg.com",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "115bc19c377ba4ff900882f6c28e720a86c23a94",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNjZTNlFHajdYV3Q0a2h6VlUwZGdwSWViVmtqN2wyZlpoRldkamNieTdTSVJPRUl4Rklqd2NXTjdwdnVBUFdyNW40U1k3Sldfd1hyMUQtLW1idTVMVmVoRXRGZG1tekQ4dmVPNGp0a0hFS3A1bkZKUjFBLU0zSm1sNzJsdE4?oc=5",
-      "title": "OpenAI in talks with UAE funds to anchor $30 bln funding round - Bloomberg",
-      "summary": "",
-      "publishedAt": "2026-10-06T00:56:00.000Z",
-      "publisher": "Yahoo Finance UK",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "26342281e78f1b70d234d08c2e04af55bc55c170",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPakluaktNLUFlZk8zejE5LUV6VWYtdkphTjB0UVpiYjJ2WVYwd2lXUC0xMTdPcFJXYUNMajk5MlMtcmNlSUxiUGY3T0plNzYxMG02X09jbkNlcDBldEdueENYdXhHVnd6TkVmVExyZGtzN0hqdUF5X2VsaEVMX3hWT21ob3VvWWE5UlNqbnZLb24yTXJlYWJiZGl1cjRWNnNad1ljTlF4WTVJREEza2Y0SmlmX0E0QzJfeVZjU1hFOXdYeDU2bEE?oc=5",
-      "title": "OpenAI, Anthropic tell Australia they would welcome data breach rules",
-      "summary": "",
-      "publishedAt": "2026-10-06T00:15:00.000Z",
-      "publisher": "Reuters",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "ef7c8bf9c7af1af5e414c4e328f1494718926601",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/technology/health/google-earth-ai",
-      "title": "Making global public health more proactive with Google Earth AI",
-      "summary": "Google is helping health leaders overcome reporting lags, forecast disease outbreaks, and deliver care to vulnerable communities.",
-      "publishedAt": "2026-10-06T15:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "9964af802e9c5fdee2b956b6ca12adb5b9c62816",
+      "id": "04e9dc3828b5420c0f01153ffacad571c15c3fe5",
       "company": "OpenAI",
       "sourceKind": "official",
       "sourceId": "openai-newsroom",
       "sourceLabel": "OpenAI Newsroom",
       "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
-      "title": "Advancing computer use with Ironclad",
-      "summary": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
-      "publishedAt": "2026-10-06T10:00:00.000Z",
+      "url": "https://openai.com/index/radisson",
+      "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+      "summary": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
+      "publishedAt": "2026-10-07T07:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Corporate move or major external event"
       }
     },
     {
-      "id": "a22a6ca92e5c69fdf01eef5e96b283f5b72e4fc3",
-      "company": "Anthropic",
-      "sourceKind": "official",
-      "sourceId": "anthropic-news",
-      "sourceLabel": "Anthropic News",
-      "homepageUrl": "https://www.anthropic.com/news",
-      "url": "https://www.anthropic.com/news/cyber-verification-program",
-      "title": "Expanding the Cyber Verification Program",
+      "id": "8832aa704c2373a781697e6cfaab7b1d8d4bfc38",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbTNzTVZXVDBUekRBMjQ0bF9lcG9kX0hvY1RPaDRNY2tLaFlSLTZEMWhtVkhfWEZaOXRGSmlQT3lHZTBXN3RTRGliOHRqU2ZieUIzbklPaDh5Q0t2Q2ZIWFdOTHo3cTdCa0hUcWhRRWIwdktsQ3Y3dFY0UHBMaU1uWUhvdzJVbjUxbVh0MnRDT2l4ZGlxMEFtSQ?oc=5",
+      "title": "OpenAI's Human Rights Lead: What the military could do with AI 'keeps me up at night'",
       "summary": "",
-      "publishedAt": "2026-10-06T00:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "anchor",
+      "publishedAt": "2026-10-06T20:43:00.000Z",
+      "publisher": "Fortune",
+      "discoveryMethod": "feed",
       "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "342677ae7eadb2eb62e4a38c30f07848c459226e",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/jump-trading",
+      "title": "How Jump Trading is scaling quant research with ChatGPT",
+      "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
+      "publishedAt": "2026-10-06T12:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Technical or research update"
+      }
+    },
+    {
+      "id": "47b9255d8fa0f8e89c91be9f3fca6f4f2b924e04",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+      "title": "Sharing AI progress in mathematics",
+      "summary": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
+      "publishedAt": "2026-10-06T12:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Technical or research update"
       }
     }
   ],
