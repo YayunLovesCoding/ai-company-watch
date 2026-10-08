@@ -1,74 +1,72 @@
 # AI Company Watch
 
-Generated: Oct 7, 2026, 12:48 PM PDT
+Generated: Oct 8, 2026, 12:43 PM PDT
 Lookback window: 7 day(s)
 Sources checked: 12
-Items fetched: 38
+Items fetched: 39
 Items kept: 24
 New items: 8
-External items kept: 12
-Official items kept: 12
+External items kept: 10
+Official items kept: 14
 
 ## Critical External News
 
-### Google - Unity Shares Rise 5% After Google AI Gaming Partnership
-Source: Major External News - Google
-Publisher: Yahoo Finance
-Published: Oct 7, 2026
+### OpenAI - USA Today sues OpenAI for copyright infringement over AI training
+Source: Major External News - OpenAI
+Publisher: Reuters
+Published: Oct 8, 2026
 Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMilAFBVV95cUxQZ3NGRHc2UFVOR005cWJBWG03WlA0d1RYZF9kS0tFZkdoSmw3ZGk0di05R2xCZVZJaVhEWi1OS0E2VFloemEzdldfcUhCRjVSTm9NWXZvcFpXZXpIRURTVFJQUWdFZ0RKRGV4VHJYX0tPWGl4VWZlR0twWVk2VGF0UlZrU0hYQS0xYTA3T29GVmVscDJ4?oc=5
+Link: https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX1ZpWlNlN2RRMzA2d0JLeVQ3WC1teVdBQ3hGYTYxZEtwdVFKampVb0tyaXp4RmdYV3FWMDEyT2ZKcXg4Z1BMeDRpcjNZYzd3bGNmSkducG42cHBaOGVXdDI5dURWbHpFXzRzQ1p1ajk2TWNfX2RTREJpVGpxbC1OTzA0QVNEYkw4aUdoS0Z6dGcxNTB1Q3JMVmhyakhJMFNmTWwtTU9lQzl3V09COXIwYnZSdXZtUDh1?oc=5
 
-### Google - Unity stock jumps 5% on Google AI gaming partnership
-Source: Major External News - Google
-Publisher: Yahoo Finance
-Published: Oct 7, 2026
-Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMilAFBVV95cUxNT3hIbV9Rc3NWRm0yc01nT2Q1aW9TUTNVZlJ3ZXF4Z0NWcm1ETlZFQVBZRmpzNzQwTVJFVFM0X2V2bXV4TFFhUkV4UmxiRkE3UHF3UEZ0UTN0ZEo1SWZELVV4VXoyT29oV0EzcW5acE8xd1hMM0pvQklaQ3VYdXprdjVybXlmd1NZYm9vU3ZySHBSQU9z?oc=5
-
-### Microsoft - OpenAI CEO Sam Altman Called Cerebras a 'Close Partner.' Its Stock Surged.
+### Microsoft - Cerebras Stock Gets A Boost After OpenAI CEO Sam Altman Calls Chipmaker ‘Close Partner’
 Source: Major External News - Microsoft
 Publisher: Yahoo Finance
-Published: Oct 5, 2026
+Published: Oct 4, 2026
 Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMilwFBVV95cUxOYzlVZ0trNUd0akUyck1CcU5LMXN3YzFyMVdacVBhM3RHZXRITzBJZXh3Slg2TWctSlEwanZPaFp6ZEE0Yk4zMjhuNmpMS0ZneldOUUtxVWQzOVQzaTFOYTZKLXUxWWRIbEZZUE5KZGQtRHVfRDhxaVJ0X25RWC11YWtWa1oxR2pnLUt5bUdRUjMwUUxIOGNn?oc=5
+Link: https://news.google.com/rss/articles/CBMingFBVV95cUxOVGswZ25GMUQ1b1NRTS05R1NWY1NDZ2FoeVdGMjhHWTloenpTMDFsZjBzWWwzVTJJM2M4ek0xMnZqSXNoTkFDeE9ZTjBvdHNEam1Wckc4THFUeHBXdDU4UjZvaEhNWEEyajlOZThPcjY4enZuS0x5NUpSTjM2c2E3cFZ5emRONmZ2UzhzZEU3ZzR6RFhjMTE2WFN0dmlIZw?oc=5
 
 ## Important External News
 
-### OpenAI - OpenAI's Human Rights Lead: What the military could do with AI 'keeps me up at night'
+### OpenAI - Nvidia, Oracle, CoreWeave and other AI stocks sink on OpenAI revenue report
 Source: Major External News - OpenAI
-Publisher: Fortune
-Published: Oct 6, 2026
+Publisher: CNBC
+Published: Oct 8, 2026
 Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMimAFBVV95cUxPbTNzTVZXVDBUekRBMjQ0bF9lcG9kX0hvY1RPaDRNY2tLaFlSLTZEMWhtVkhfWEZaOXRGSmlQT3lHZTBXN3RTRGliOHRqU2ZieUIzbklPaDh5Q0t2Q2ZIWFdOTHo3cTdCa0hUcWhRRWIwdktsQ3Y3dFY0UHBMaU1uWUhvdzJVbjUxbVh0MnRDT2l4ZGlxMEFtSQ?oc=5
+Link: https://news.google.com/rss/articles/CBMiggFBVV95cUxPOG8tazVEa2hVcWdlYU1pZk53QzNMLU1lVWk4c2U0NFRvMk5IMnJYMWdTZERsSHhkYWo1dkRlczFWcGdwRHJfbFJzQ09kUEo1elE4YVRQZWp0Z3lVbU1MUjJIVV9lbFFHbUxPUlJhUER6NzgwdjVFTHM4UVhGZ3pNd3pR0gGHAUFVX3lxTE9nLWxxNlZwaWJicm9JSVBTT3lHeElLRDJ2QklRT2FkelA0eXZSNDlyRWh6dWlhNFloNzZfOUtid3dmcEJsTGNNcTE5VnhEbURXWWo0UGktcmhXNV8tS1lHYndTellPVm00RmFpeFVLTnBqNENtUUtBdHV2NVdPU0Jnb1A1NnpzSQ?oc=5
 
 ## Critical Official Updates
 
-### Google - We're making it easier to identify AI-generated content globally.
-Source: Google AI
+### Meta - Meta Donates 1,000 AI Glasses to Singapore&#8217;s Disability Community
+Source: Meta Newsroom
 Published: Oct 7, 2026
 Why it matters: Corporate move or major external event
-Summary: We’re launching a standalone platform to help you easily identify whether online content was created using Google AI or tools from our industry partners.
-Link: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synth-id-ai-content
+Summary: Meta donates 1,000 Ray-Ban Meta AI glasses to four Singapore community organisations to help persons with disabilities. The post Meta Donates 1,000 AI Glasses to Singapore&#8217;s Disability Community
+Link: https://about.fb.com/news/2026/10/meta-donates-1000-ai-glasses-to-singapores-disability-community
 
-### OpenAI - Radisson Hotel Group brings hotel discovery into ChatGPT
-Source: OpenAI Newsroom
+### Anthropic - Introducing the Anthropic Cyber Mission
+Source: Anthropic News
 Published: Oct 7, 2026
-Why it matters: Corporate move or major external event
-Summary: Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.
-Link: https://openai.com/index/radisson
+Why it matters: Flagship model or product launch
+Link: https://www.anthropic.com/news/anthropic-cyber-mission
 
 ## Important Official Updates
 
-### OpenAI - How Jump Trading is scaling quant research with ChatGPT
-Source: OpenAI Newsroom
-Published: Oct 6, 2026
-Why it matters: Technical or research update
-Summary: Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.
-Link: https://openai.com/index/jump-trading
+### Anthropic - 2026 Usage Policy update
+Source: Anthropic News
+Published: Oct 7, 2026
+Why it matters: Safety, security, or policy update
+Link: https://www.anthropic.com/news/2026-usage-policy-update
 
-### OpenAI - Sharing AI progress in mathematics
+### OpenAI - How Oracle turns days of work into minutes with ChatGPT and Codex
 Source: OpenAI Newsroom
-Published: Oct 6, 2026
+Published: Oct 8, 2026
 Why it matters: Technical or research update
-Summary: OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.
-Link: https://openai.com/index/sharing-ai-progress-in-mathematics
+Summary: Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.
+Link: https://openai.com/index/oracle
+
+### Meta - Why Data Centers Are Such a Big Part of Meta&#8217;s AI Approach
+Source: Meta Newsroom
+Published: Oct 7, 2026
+Why it matters: Technical or research update
+Summary: Developer and creator Tom Shaw sat down with Meta’s Head of Infrastructure, Santosh Janardhan, to talk about why we need data centers and how Meta is leading the charge to build them. The post Why Data Centers Are Such a Big Part of Meta&#8217;s AI Approach
+Link: https://about.fb.com/news/2026/10/meta-data-centers-ai-approach
