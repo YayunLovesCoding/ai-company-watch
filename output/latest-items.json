@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T19:20:34.400Z",
+  "generatedAt": "2026-10-10T18:19:09.108Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -76,12 +76,12 @@
     }
   ],
   "totals": {
-    "fetched": 38,
+    "fetched": 39,
     "deduped": 24,
-    "new": 8,
+    "new": 2,
     "byKind": {
-      "official": 16,
-      "external": 8
+      "official": 14,
+      "external": 10
     }
   },
   "items": [
@@ -181,25 +181,6 @@
       }
     },
     {
-      "id": "def08189a22704ef2cf4fee5fb63abc74c4b5cfc",
-      "company": "Meta",
-      "sourceKind": "official",
-      "sourceId": "meta-newsroom",
-      "sourceLabel": "Meta Newsroom",
-      "homepageUrl": "https://about.fb.com/news/",
-      "url": "https://about.fb.com/news/2026/10/meta-donates-1000-ai-glasses-to-singapores-disability-community",
-      "title": "Meta Donates 1,000 AI Glasses to Singapore&#8217;s Disability Community",
-      "summary": "Meta donates 1,000 Ray-Ban Meta AI glasses to four Singapore community organisations to help persons with disabilities. The post Meta Donates 1,000 AI Glasses to Singapore&#8217;s Disability Community",
-      "publishedAt": "2026-10-08T05:49:36.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
       "id": "096c440b821c9b05a906ba7bee0d24947f5ea719",
       "company": "OpenAI",
       "sourceKind": "external",
@@ -238,22 +219,22 @@
       }
     },
     {
-      "id": "db9c355075ab2255375e8cccd40454cd5d83003d",
-      "company": "Anthropic",
+      "id": "def08189a22704ef2cf4fee5fb63abc74c4b5cfc",
+      "company": "Meta",
       "sourceKind": "official",
-      "sourceId": "anthropic-news",
-      "sourceLabel": "Anthropic News",
-      "homepageUrl": "https://www.anthropic.com/news",
-      "url": "https://www.anthropic.com/news/anthropic-cyber-mission",
-      "title": "Introducing the Anthropic Cyber Mission",
-      "summary": "",
-      "publishedAt": "2026-10-08T00:00:00.000Z",
+      "sourceId": "meta-newsroom",
+      "sourceLabel": "Meta Newsroom",
+      "homepageUrl": "https://about.fb.com/news/",
+      "url": "https://about.fb.com/news/2026/10/meta-donates-1000-ai-glasses-to-singapores-disability-community",
+      "title": "Meta Donates 1,000 AI Glasses to Singapore&#8217;s Disability Community",
+      "summary": "Meta donates 1,000 Ray-Ban Meta AI glasses to four Singapore community organisations to help persons with disabilities. The post Meta Donates 1,000 AI Glasses to Singapore&#8217;s Disability Community",
+      "publishedAt": "2026-10-08T05:49:36.000Z",
       "publisher": "",
-      "discoveryMethod": "anchor",
+      "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
         "score": 5,
-        "reason": "Flagship model or product launch"
+        "reason": "Corporate move or major external event"
       }
     },
     {
@@ -314,6 +295,44 @@
       }
     },
     {
+      "id": "5b11479ceeae1d15662dc7813ccb00c1aa36de72",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVlF2dmIwN3lPZjBEaFRYaVlDU2hHWXNXNUNISjdiTEgyc1dycTFmdElzRFN3QW00ZXk1QjQ2OHBZOVFneUxHVk1DUU9URXpmTGc2RjVRb3FTdHQ4R3JlOUFMTnNsWXNDYnpLSFFLc05KMVJ2dktxLUVzV0JOVmlRMy1UNFNnMEYwRXdQZlhSVE9RMmo3OVlsajg1TWxtckdURUltWVl1ZG1mLUJIV1pLUFQ1NEM?oc=5",
+      "title": "Anthropic admits its Claude AI agents tried to breach government websites during tests",
+      "summary": "",
+      "publishedAt": "2026-10-09T23:42:05.000Z",
+      "publisher": "Startup Fortune",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "f26a5cf91b6dfaa620b594f93c5044bfeb984b44",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcmxMemhOTlY2Zm50Slh1VklHTGRhdzVocEpERGVxRXVKWEM5RGliRVN6Y2pLMXg4enE5aGFMWE1Kd3VzYXhhMUk3UFpseGE3M2pkUVVudG56MTBBRzJIZTRPQkkxNmZRYlEtR0ltT1NCWjkyUnNza3VienFIcHYxNnFuU1Q3dw?oc=5",
+      "title": "The Fallout From OpenAI’s Revenue Surprise",
+      "summary": "",
+      "publishedAt": "2026-10-09T12:06:43.000Z",
+      "publisher": "The New York Times",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
       "id": "710f10b14c9586f3d21fb16ef28594ddd45892ae",
       "company": "OpenAI",
       "sourceKind": "external",
@@ -333,33 +352,14 @@
       }
     },
     {
-      "id": "20598d55f39f8ef80d624fa48477089c9119f3e5",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOG8tazVEa2hVcWdlYU1pZk53QzNMLU1lVWk4c2U0NFRvMk5IMnJYMWdTZERsSHhkYWo1dkRlczFWcGdwRHJfbFJzQ09kUEo1elE4YVRQZWp0Z3lVbU1MUjJIVV9lbFFHbUxPUlJhUER6NzgwdjVFTHM4UVhGZ3pNd3pR0gGHAUFVX3lxTE9nLWxxNlZwaWJicm9JSVBTT3lHeElLRDJ2QklRT2FkelA0eXZSNDlyRWh6dWlhNFloNzZfOUtid3dmcEJsTGNNcTE5VnhEbURXWWo0UGktcmhXNV8tS1lHYndTellPVm00RmFpeFVLTnBqNENtUUtBdHV2NVdPU0Jnb1A1NnpzSQ?oc=5",
-      "title": "Nvidia, Oracle, CoreWeave and other AI stocks sink on OpenAI revenue report",
-      "summary": "",
-      "publishedAt": "2026-10-08T18:14:54.000Z",
-      "publisher": "CNBC",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "7a238471d7092596655199c19a93e82f369e2aa9",
+      "id": "db9c355075ab2255375e8cccd40454cd5d83003d",
       "company": "Anthropic",
       "sourceKind": "official",
       "sourceId": "anthropic-news",
       "sourceLabel": "Anthropic News",
       "homepageUrl": "https://www.anthropic.com/news",
-      "url": "https://www.anthropic.com/news/2026-usage-policy-update",
-      "title": "2026 Usage Policy update",
+      "url": "https://www.anthropic.com/news/anthropic-cyber-mission",
+      "title": "Introducing the Anthropic Cyber Mission",
       "summary": "",
       "publishedAt": "2026-10-08T00:00:00.000Z",
       "publisher": "",
@@ -367,7 +367,7 @@
       "classification": {
         "bucket": "important",
         "score": 4,
-        "reason": "Safety, security, or policy update"
+        "reason": "Flagship model or product launch"
       }
     },
     {
@@ -397,7 +397,7 @@
       "sourceLabel": "Anthropic News",
       "homepageUrl": "https://www.anthropic.com/news",
       "url": "https://www.anthropic.com/news/cyber-verification-program",
-      "title": "Expanding the Cyber Verification Program We’re launching a new, expanded version of our Cyber Verification Program, which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.",
+      "title": "Expanding the Cyber Verification Program Announcements We’re launching a new, expanded version of our Cyber Verification Program, which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.",
       "summary": "",
       "publishedAt": "2026-10-06T00:00:00.000Z",
       "publisher": "",
@@ -406,6 +406,25 @@
         "bucket": "important",
         "score": 4,
         "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "20598d55f39f8ef80d624fa48477089c9119f3e5",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOG8tazVEa2hVcWdlYU1pZk53QzNMLU1lVWk4c2U0NFRvMk5IMnJYMWdTZERsSHhkYWo1dkRlczFWcGdwRHJfbFJzQ09kUEo1elE4YVRQZWp0Z3lVbU1MUjJIVV9lbFFHbUxPUlJhUER6NzgwdjVFTHM4UVhGZ3pNd3pR0gGHAUFVX3lxTE9nLWxxNlZwaWJicm9JSVBTT3lHeElLRDJ2QklRT2FkelA0eXZSNDlyRWh6dWlhNFloNzZfOUtid3dmcEJsTGNNcTE5VnhEbURXWWo0UGktcmhXNV8tS1lHYndTellPVm00RmFpeFVLTnBqNENtUUtBdHV2NVdPU0Jnb1A1NnpzSQ?oc=5",
+      "title": "Nvidia, Oracle, CoreWeave and other AI stocks sink on OpenAI revenue report",
+      "summary": "",
+      "publishedAt": "2026-10-08T18:14:54.000Z",
+      "publisher": "CNBC",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
       }
     },
     {
@@ -428,41 +447,22 @@
       }
     },
     {
-      "id": "112b5f00879d4fef3be367032aa59a57159f98cd",
-      "company": "OpenAI",
+      "id": "7a238471d7092596655199c19a93e82f369e2aa9",
+      "company": "Anthropic",
       "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/oracle",
-      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-      "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
-      "publishedAt": "2026-10-08T16:00:00.000Z",
+      "sourceId": "anthropic-news",
+      "sourceLabel": "Anthropic News",
+      "homepageUrl": "https://www.anthropic.com/news",
+      "url": "https://www.anthropic.com/news/2026-usage-policy-update",
+      "title": "2026 Usage Policy update",
+      "summary": "",
+      "publishedAt": "2026-10-08T00:00:00.000Z",
       "publisher": "",
-      "discoveryMethod": "feed",
+      "discoveryMethod": "anchor",
       "classification": {
         "bucket": "important",
         "score": 3,
-        "reason": "Technical or research update"
-      }
-    },
-    {
-      "id": "12cf730ba9e93470ce84a3d4768ad6cecb00d4c5",
-      "company": "Meta",
-      "sourceKind": "official",
-      "sourceId": "meta-newsroom",
-      "sourceLabel": "Meta Newsroom",
-      "homepageUrl": "https://about.fb.com/news/",
-      "url": "https://about.fb.com/news/2026/10/meta-data-centers-ai-approach",
-      "title": "Why Data Centers Are Such a Big Part of Meta&#8217;s AI Approach",
-      "summary": "Developer and creator Tom Shaw sat down with Meta’s Head of Infrastructure, Santosh Janardhan, to talk about why we need data centers and how Meta is leading the charge to build them. The post Why Data Centers Are Such a Big Part of Meta&#8217;s AI Approach",
-      "publishedAt": "2026-10-07T23:19:30.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Technical or research update"
+        "reason": "Safety, security, or policy update"
       }
     },
     {
@@ -523,114 +523,38 @@
       }
     },
     {
-      "id": "cc15d3cfdb32cc619df9abe01f7572aac8249695",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-at-work",
-      "title": "Google Cloud introduces the Gemini agent.",
-      "summary": "Google Cloud’s new Gemini agent automates workflows by connecting to your business systems. See how it streamlines enterprise tasks in one prompt.",
-      "publishedAt": "2026-10-08T12:05:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    }
-  ],
-  "newItems": [
-    {
-      "id": "e9a0fe4851ce0f9d81c0c708e91939a4d79d973d",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONzZQeFJQRXFQcUVSOXRrUnpKZjZiUjVBZWNsU1BubjYzTlpLWW12bmRZYzNmcV9rbGFvMGxIeGJkM2hHdlFlMml0VGU3dGpSWVJlRklXV0F0Y2txZWE3M29xWkxGZXU2OTBXTjVtbmpwcmUtTzNlTDRtQTc5ajRBTXRDbmlQU3VzYzFJTTdBZGJpQW4xcVE?oc=5",
-      "title": "Controversy swirls over ‘abrupt’ firing of OpenAI safety team members involved in the Hugging Face hack investigation",
-      "summary": "",
-      "publishedAt": "2026-10-09T17:21:00.000Z",
-      "publisher": "Fortune",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "edd58468d564448f5fe7e63ada47c987b79bf809",
+      "id": "112b5f00879d4fef3be367032aa59a57159f98cd",
       "company": "OpenAI",
       "sourceKind": "official",
       "sourceId": "openai-newsroom",
       "sourceLabel": "OpenAI Newsroom",
       "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/sophos",
-      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
-      "publishedAt": "2026-10-09T07:00:00.000Z",
+      "url": "https://openai.com/index/oracle",
+      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+      "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
+      "publishedAt": "2026-10-08T16:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Technical or research update"
       }
-    },
+    }
+  ],
+  "newItems": [
     {
-      "id": "096c440b821c9b05a906ba7bee0d24947f5ea719",
-      "company": "OpenAI",
+      "id": "5b11479ceeae1d15662dc7813ccb00c1aa36de72",
+      "company": "Anthropic",
       "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVkJyLTlxV1UzUFZzYVFBejJ0S2NsTVoxb1JRZVdTTHhYaHI5eGQ3MHRaanlOQzBsU0RUXzcwUV9FTHZnUmNGUjRjV1pwTUhHNnVKektQcVFGTHR4YWFZSnNQZjEwcG01dEVBUk1xM285ZDYyQnU0cjRFQXNSLXZzQjZjOHJZVGxibTAzcVdxcmg2cnJNUGd3YVU4NXdCX1ExZzVrbGN4c0NGTnRXUU9YUG9KUHFCRTRqek9Z?oc=5",
-      "title": "OpenAI says it has fired three researchers for violating sensitive information policy",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVlF2dmIwN3lPZjBEaFRYaVlDU2hHWXNXNUNISjdiTEgyc1dycTFmdElzRFN3QW00ZXk1QjQ2OHBZOVFneUxHVk1DUU9URXpmTGc2RjVRb3FTdHQ4R3JlOUFMTnNsWXNDYnpLSFFLc05KMVJ2dktxLUVzV0JOVmlRMy1UNFNnMEYwRXdQZlhSVE9RMmo3OVlsajg1TWxtckdURUltWVl1ZG1mLUJIV1pLUFQ1NEM?oc=5",
+      "title": "Anthropic admits its Claude AI agents tried to breach government websites during tests",
       "summary": "",
-      "publishedAt": "2026-10-09T06:30:00.000Z",
-      "publisher": "Reuters",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "de2c05c13ee0c3145407f7229d285ef891d7957a",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPY3dHZlI0RUtfZlJfZERob1pnN3g3bWI3a21ua2JBeFVZV3VCV0lFYXlXcTU4dFpkQmk2b0RmMnJ4dU9NYWo4OG55RVFqTGxuUmIzVUZLN1BHanlkSXY4VG1BS25HUnhyd3RJLUlmZ3ZhNkI4SFVhNEJpSzV0RF9haE9DazZXc1dUVGU4cXE0aS0wMTRjU3NZcV9OVW9kcE1uRHdiVGxzZi1ycHhsUjVaRXFwVWtRZ1k?oc=5",
-      "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
-      "summary": "",
-      "publishedAt": "2026-10-08T20:04:26.000Z",
-      "publisher": "TechCrunch",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "710f10b14c9586f3d21fb16ef28594ddd45892ae",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNblIweTNmU24xcF9GaG9uYkUzUGYwZXBRVlppZnJnT3pEZkNOT2R4UzdWbXpSY0RrWTZUelBSYjh3VHNsRGh4S0FZSjBEM3VqVUdmcmY1ZHpDbjQ1OXFVU0hBRGt6cFR5RzBYZGlJcy1QeUhZc2tuWWQwX2Y3NUJTMDNVWUowWDlhUDFlaUhOcEZNWkRmU2xQRDVfaTI3VklLWFE?oc=5",
-      "title": "Stocktwits AI Roundup: OpenAI Revenue Woes Rattle Chip Stocks, SoftBank Hunts $100B, Microsoft Goes AI-First",
-      "summary": "",
-      "publishedAt": "2026-10-09T06:43:30.000Z",
-      "publisher": "Yahoo Finance",
+      "publishedAt": "2026-10-09T23:42:05.000Z",
+      "publisher": "Startup Fortune",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -639,60 +563,22 @@
       }
     },
     {
-      "id": "931fa7f796faff42e78d060aefc9c95b4c3d147f",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/technology/health/amie-clinical-study-lancet",
-      "title": "Study in The Lancet suggests AI could improve patient-physician relationships.",
-      "summary": "A peer-reviewed study in The Lancet evaluates Google's AMIE medical AI in a real-world primary care clinic.",
-      "publishedAt": "2026-10-08T22:30:00.000Z",
-      "publisher": "",
+      "id": "f26a5cf91b6dfaa620b594f93c5044bfeb984b44",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcmxMemhOTlY2Zm50Slh1VklHTGRhdzVocEpERGVxRXVKWEM5RGliRVN6Y2pLMXg4enE5aGFMWE1Kd3VzYXhhMUk3UFpseGE3M2pkUVVudG56MTBBRzJIZTRPQkkxNmZRYlEtR0ltT1NCWjkyUnNza3VienFIcHYxNnFuU1Q3dw?oc=5",
+      "title": "The Fallout From OpenAI’s Revenue Surprise",
+      "summary": "",
+      "publishedAt": "2026-10-09T12:06:43.000Z",
+      "publisher": "The New York Times",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
-        "score": 3,
-        "reason": "Technical or research update"
-      }
-    },
-    {
-      "id": "90995f7dbc9c26746d9c1348259bf95f75d89e72",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/asana-browser-agent",
-      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
-      "publishedAt": "2026-10-09T07:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "cc15d3cfdb32cc619df9abe01f7572aac8249695",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-at-work",
-      "title": "Google Cloud introduces the Gemini agent.",
-      "summary": "Google Cloud’s new Gemini agent automates workflows by connecting to your business systems. See how it streamlines enterprise tasks in one prompt.",
-      "publishedAt": "2026-10-08T12:05:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
+        "score": 4,
+        "reason": "Trusted external coverage"
       }
     }
   ],
