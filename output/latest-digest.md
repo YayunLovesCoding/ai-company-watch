@@ -1,109 +1,95 @@
 # AI Company Watch
 
-Generated: Oct 14, 2026, 11:23 AM PDT
+Generated: Oct 15, 2026, 11:05 AM PDT
 Lookback window: 7 day(s)
 Sources checked: 12
-Items fetched: 41
+Items fetched: 43
 Items kept: 24
-New items: 13
-External items kept: 11
-Official items kept: 13
+New items: 11
+External items kept: 12
+Official items kept: 12
 
 ## Critical External News
 
-### OpenAI - Apple, OpenAI Head to Court in High-Stakes AI Trade Secret Fight
+### OpenAI - Report: OpenAI Interested in Acquiring Trail of Bits
 Source: Major External News - OpenAI
-Publisher: Bloomberg.com
-Published: Oct 14, 2026
-Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxNWkZXOGQtY20wYks4cjUyN3lSZEFCNDJvYWVlSGxra0IyOHQ5bEVUTC1jU0E5aU1WY1Y4NFZuT3lvX2JOdjhIeHJyaWVwWG5QVExsUjZSeUhQS2tObzM2Wlg1RjY4bGtzaWhOclRDNnRqMXdINTI4bGJtNkxYOEEtUFo0VDNwUWFuT3Z4b2tFRGIxWlNwXzhnTzI1Mnl5OGl3WXZxS25rblVrbTZtdlNjNFVRbXI?oc=5
-
-### Microsoft - California Court Asked to Void Law Undoing Microsoft Tax Refund
-Source: Major External News - Microsoft
-Publisher: Bloomberg Tax
-Published: Oct 14, 2026
-Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxNOGw2d2RmcXhva1FOUGU2MXpmSWRLT09kVXNPOTNwMVNKbFJsdmxkQzZoNFFBYlZ3LWtZMUdVZHdRTldqRU9UM2dKYUhvOFNGT3JDTUx4UmRWUzFmX1QzcERTd2VMRTZwcENqelp5S2VGMmNUclZ3MFZseVZHR0lUWDJic253T1lKYm9nVTgwZHlmcVFDS19BMkowMXVwbWdELXlNQlpueGR3Qnl0enpJcW5LbEVhOWc?oc=5
-
-### Anthropic - Over 50 Projects with Claude Take CI&T to a New Partnership Tier
-Source: Major External News - Anthropic
 Publisher: Yahoo Finance
 Published: Oct 14, 2026
 Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMilAFBVV95cUxOMzBlLUI4SUtBM0FSRUVKRWpWcmVnZDg0UkhTSG1lNEIwUTktaC1tYXJxVDZJYnJ2UUdSZVpZSmhzdEg2UHFXNWlWLUFOMkoxMXNoNGczcEtCbXJXX0Y3V3NtdHhFajZHOElyZDNKNHU4SEU5Q25PSzV3QzFvcXFJQmp4aHI0MkFuZkpnN2RKdHRyMVA2?oc=5
-
-### Anthropic - Anthropic asks full appeals court to rehear its Pentagon blacklist case
-Source: Major External News - Anthropic
-Publisher: Startup Fortune
-Published: Oct 13, 2026
-Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMioAFBVV95cUxOUm9QaXY0M0tDeTV0d0hSa0NhdU1QUlNlYnFoR1kzOVgwa1g0UjRlZVlXYUlPdnNwSVN6ZFBYNDljVE9MTGVpeTJvV1E5cnRUdTRmWFpCSlZYLV9aNGdMS19hTHBlZWdJX0t5eUJEb2p2aHEzUktiZWRJMXFXOENDOVdyZHZCXzVyRzQ5b014aXlPVjBYV2psOW5IUWp3VkZf?oc=5
-
-### OpenAI - OpenAI Eyes Acquisition That Could Boost Cybersecurity Business
-Source: Major External News - OpenAI
-Publisher: The Information
-Published: Oct 13, 2026
-Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMilAFBVV95cUxPOEx3Zy1mSzNfMW1VYzRzTXE2YUg4alU4N1hVUVJVNGNsR21wY3N4ckNhS1g4UGI4QkxHYWUxSjlpX0hobjJleVJSV096Uk1xRmIxVWMzWXY0NlQ0ZGlOSWxEREhnaHRBcWoyZjlFQXhxSm9RaEdYR1h0YmNndHZQcEp6bVpzREd1MWV5YUF4QU1LR0FH?oc=5
-
-### OpenAI - Judge orders OpenAI to turn over hiring records in Apple trade secrets case
-Source: Major External News - OpenAI
-Publisher: TechCrunch
-Published: Oct 13, 2026
-Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMirwFBVV95cUxOd2pNdU8wUjNoOEhxSVFkQzl1VXFFSUY0NU5rM0Vjb0dZejJCUkhoQUJFQkctLWVrZDlaVkN3SVhLeC1jYW1aWWZ4QWxkdTBiXzdqNzl3aXZKd1h6dHdyV0k0SG1SZFc2ZTBpTkowelBLZ0hDQ1lhaEppUWZSejh0dnI5WVJCUmdnRGRxalU0STdYU2FLVjJDWURucXRKa2xYQU9HTm9yQkdKd2pKdDBj?oc=5
-
-### Microsoft - Marvell, Microsoft and Oracle Establish OCP Working Group to Standardize Data Center Hardware Security
-Source: Major External News - Microsoft
-Publisher: Yahoo Finance
-Published: Oct 13, 2026
-Why it matters: Safety, security, or policy update
-Link: https://news.google.com/rss/articles/CBMipAFBVV95cUxORlpYZzU5WDlGdHY0OTdVcHZyYjRxZkIzOGVyVm44VE1NVW5KaGI3ZlBPcXVwMDZSM3RoUnZ2RFg1TkVLMXJvQ191TkNocDc3by1IUlRPMVdhWUFUS0MtVHdzWmlxZFhDcHg5SjhaX2xucVprYzBGLTVXdXhPMjZPRWJGMnd4ZVQxeEtEcGNOTGZCc0FlYXJfU1hrRVFaMGR6cGh1TQ?oc=5
+Link: https://news.google.com/rss/articles/CBMipwFBVV95cUxPVzd6Z2JRbHV5N3REdmVJTWtnU2RSVDdYUFlJWWdab0hsQWVQUkZwQmEzb0QxcEhJQm5JZXc5WXVTRFluSXhBTW9RZnVOLVc0aG1Yd3NBbC1laXl2N19ZN0I0eDJ1TEo5OElrbXV3R090TzFGNExUellnc0taZ29xYXpRWGpVWWV0RjRiWHU1ZWdHNTh1Wk9fcTZlTE83M09xTmY2MzFLYw?oc=5
 
 ## Important External News
 
-### Meta - Senators Question Meta’s Data Center Tax Strategy
+### Meta - Exclusive / Meta data center credits draw congressional scrutiny
 Source: Major External News - Meta
-Publisher: The New York Times
+Publisher: Semafor
+Published: Oct 15, 2026
+Why it matters: Trusted external coverage
+Link: https://news.google.com/rss/articles/CBMimwFBVV95cUxPUTVRaUJmS0lMS3NQX0VjdTRFdVFZNmoycGc5Q3hCVExBSHpfaXpwTF9CdnF5RHZoaW1WZGRHLUxwTWEzMFF2cVMyWlBfUThvY0NfYzh6cWxuMGtuT3lMUGdNZnYwUk05X3huT0xkcmhzRVliSmMtbXhyc2hvQWkya3Y2bnFVTGlEUjVHNDVDNndna1hGcmpldDVhQQ?oc=5
+
+### Anthropic - Update: Market Chatter: Anthropic Revenue Hits $16.8 Billion in Q3, AI-Modeler Cash Flow Positive
+Source: Major External News - Anthropic
+Publisher: Yahoo Finance
+Published: Oct 15, 2026
+Why it matters: Trusted external coverage
+Link: https://news.google.com/rss/articles/CBMiowFBVV95cUxORGhjd28zT3YtRk4waGZjdkxEcVRVR2NFZDMxUTJPX01pWk90b2RJb0xqZHUxc1ptQ3BHbFoxV1U2ZHVwZVZrZzJrSlFPT3VvWHJtalU3Qm9uZkw4UmdJUUlpdWg0NVVnd3hTQkNoQTduNW9udktyekVPYmp6RmNTUHdIYThHd2dqWC0yWk9OX1FiMHFfV2xvamwySl9MbXEycWow?oc=5
+
+### Anthropic - Anthropic’s Rapid But Slowing Growth Could Weigh on IPO Valuation
+Source: Major External News - Anthropic
+Publisher: The Information
 Published: Oct 14, 2026
 Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxObElIMDREWVcyNDVBZERFd2VSSnd5SDc5VERHbXVGRmUzaERKZGh5RWowb0xLdFozUkk1Yk1WekpBV0pZdHNUaWt5ekhUak5UYXVvSUw5SWhta1ZNakllVFVWaHRVRmppanIzZUx4QlJqdU1kaUNkeGN6Y2E0N1ZGZzVjWUs?oc=5
+Link: https://news.google.com/rss/articles/CBMilgFBVV95cUxQVGRiOFctY25wbVdWaHlwSFlRWF8teC1LV0M2U2ZNbVR1OG55OWlPYWFsM1pJMG5IV3FueXFPNVBJQ3BkN2t5QkY3SjRZWWZweVJEUzFydHJhUTJhdmhZMUN6b2U0THk0TW5tQVRjanFJZkpGdTJzUGtQNXlVZXppQ2JNRGhmZ1JRejFCdnQyNEVUVEJnbkE?oc=5
+
+### Anthropic - Anthropic Q3 revenue climbs to $16.8 billion: Report
+Source: Major External News - Anthropic
+Publisher: Yahoo Finance
+Published: Oct 14, 2026
+Why it matters: Trusted external coverage
+Link: https://news.google.com/rss/articles/CBMirgFBVV95cUxPY2pzTHJjWlBCcmx0RU9QNnBBLW16ZmNLS0RqMHc4NlgyalZhU09Eel85SDFTLWlpVTVQVTZYT1AtTUV2MXVWVnNyU3VsZmVyMVBaYzVuMDlYNnNyUnhzaUM1U3YyVklEVVZKSVBuZ25ZSllpRmZTbnRHdDZ0ekZCQ0hxaUNONXpYa24tUEtYNUxtWWhXTVhRSzRXSWhOMkh2THc0LWQtbTRKQjZJbGc?oc=5
+
+### Anthropic - At Anthropic pre-IPO meet: ‘Thinking’ caps, surging revenue, no human extinction
+Source: Major External News - Anthropic
+Publisher: Reuters
+Published: Oct 14, 2026
+Why it matters: Trusted external coverage
+Link: https://news.google.com/rss/articles/CBMipAFBVV95cUxPRHl4NDlfRl9CaVdHZzdFMUYzM3Rka2RvbXlYcXR4ZGEwWGt5LS1rSlZmUkx0SFhxMnlCb1AtSElVcWJoT29UX19jcnRlMFpQOW0zOXQ1cXd0eHNpeFZKdkdxM2JCMjZrOXRXTmhWRExOZHY5OGpxcmY1MHJ5QlVRc2hDejdubVcydi1oYmJRc2RKaWRBOWFLbFREY2VEblZ4SVRpdQ?oc=5
+
+## Critical Official Updates
+
+### Meta - Meta, Milan’s Pinacoteca di Brera, and EssilorLuxottica Expand Access to Art Through AI Glasses
+Source: Meta Newsroom
+Published: Oct 14, 2026
+Why it matters: Flagship model or product launch
+Summary: Today, Meta, Pinacoteca di Brera and EssilorLuxottica are proud to launch “Sensing Art &#8211; Discovering Masterpieces Beyond What Meets the Eye.” This pilot aims to explore how AI glasses can make art more accessible for people who are blind or with low vision &#8211; in colla...
+Link: https://about.fb.com/news/2026/10/meta-milans-pinacoteca-di-brera-and-essilorluxottica-expand-access-to-art-through-ai-glasses
 
 ## Important Official Updates
 
-### Google - Research@ 2026: Novel capabilities and intelligence
+### OpenAI - How Block is building AI-powered security with OpenAI technology
+Source: OpenAI Newsroom
+Published: Oct 14, 2026
+Why it matters: Safety, security, or policy update
+Summary: Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.
+Link: https://openai.com/index/block-ai-powered-security
+
+### Google - Bringing the magic: Google breaks open a bottleneck in quantum computing
 Source: Google AI
+Published: Oct 15, 2026
+Why it matters: Technical or research update
+Summary: In a paper published in Science, Google has shown that Magic State Cultivation works on Google Quantum AI hardware.
+Link: https://blog.google/innovation-and-ai/models-and-research/quantum-computing/magic-state-cultivation-quantum-computing
+
+### OpenAI - Teaching students to think and learn through questions
+Source: OpenAI Newsroom
+Published: Oct 15, 2026
+Why it matters: Technical or research update
+Summary: Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.
+Link: https://openai.com/index/teaching-students-to-think-and-learn-through-questions
+
+### Meta - More Than Three Quarters of Small Business Owners Say AI Makes Them More Productive, But Most Need More Guidance
+Source: Meta Newsroom
 Published: Oct 14, 2026
 Why it matters: Technical or research update
-Summary: We’re sharing our latest milestones and some of the advanced AI capabilities and intelligence that we’re putting in the hands of experts.
-Link: https://blog.google/innovation-and-ai/technology/research/research-capabilities-intelligence-2026
-
-### OpenAI - How Third Moment Research runs 10,000 agents for 36+ hours
-Source: OpenAI Newsroom
-Published: Oct 14, 2026
-Why it matters: Technical or research update
-Summary: With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.
-Link: https://openai.com/index/third-moment-research
-
-## Official Company Updates
-
-### OpenAI - Amp puts AI agents to work beyond code with OpenAI models
-Source: OpenAI Newsroom
-Published: Oct 14, 2026
-Why it matters: Routine official update
-Summary: See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.
-Link: https://openai.com/index/amp-beyond-coding
-
-### OpenAI - SentinelOne cuts malware analysis from weeks to hours
-Source: OpenAI Newsroom
-Published: Oct 14, 2026
-Why it matters: Routine official update
-Summary: With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.
-Link: https://openai.com/index/sentinelone
-
-### Google - We’re powering European scientific discovery with advanced AI compute and frontier models.
-Source: Google AI
-Published: Oct 14, 2026
-Why it matters: Routine official update
-Summary: Google DeepMind and Google Cloud are providing up to 200 top European scientific researchers with direct access to our frontier models, together with $3 million in compu…
-Link: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/were-powering-european-scientific-discovery-with-advanced-ai-compute-and-frontier-models
+Summary: New Meta research across nine APAC markets shows how AI is helping small businesses grow, compete with larger rivals and reach customers across borders. The post More Than Three Quarters of Small Business Owners Say AI Makes Them More Productive, But Most Need More Guidance
+Link: https://about.fb.com/news/2026/10/more-than-three-quarters-of-small-business-owners-say-ai-makes-them-more-productive-but-most-need-more-guidance
