@@ -1,95 +1,109 @@
 # AI Company Watch
 
-Generated: Oct 15, 2026, 11:05 AM PDT
+Generated: Oct 16, 2026, 10:52 AM PDT
 Lookback window: 7 day(s)
 Sources checked: 12
-Items fetched: 43
+Items fetched: 47
 Items kept: 24
-New items: 11
-External items kept: 12
-Official items kept: 12
+New items: 13
+External items kept: 17
+Official items kept: 7
 
 ## Critical External News
 
-### OpenAI - Report: OpenAI Interested in Acquiring Trail of Bits
-Source: Major External News - OpenAI
+### Google - CFTC Wants to Drop Gemini’s $5M Settlement. A Judge Just Said No
+Source: Major External News - Google
 Publisher: Yahoo Finance
-Published: Oct 14, 2026
+Published: Oct 16, 2026
 Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMipwFBVV95cUxPVzd6Z2JRbHV5N3REdmVJTWtnU2RSVDdYUFlJWWdab0hsQWVQUkZwQmEzb0QxcEhJQm5JZXc5WXVTRFluSXhBTW9RZnVOLVc0aG1Yd3NBbC1laXl2N19ZN0I0eDJ1TEo5OElrbXV3R090TzFGNExUellnc0taZ29xYXpRWGpVWWV0RjRiWHU1ZWdHNTh1Wk9fcTZlTE83M09xTmY2MzFLYw?oc=5
+Link: https://news.google.com/rss/articles/CBMilAFBVV95cUxQV0xWUHJTd1gxSGR5RTNNQ1NhZ2hNdWpyci15aWt5OFFCUGVZMTNWQllEU19nR05NalZLNWhPOXVBci0tUjkzRm1JMTRjVGoyZTk4ZWtxU1ZSNnNWMS0wMGU0MGZtNm5TdnFpUzlXQVQzWWs2dXRoemtrZHVrVWl5bndwZmhWMlpTR3lpVjh5Q2g0dW5I?oc=5
+
+### Google - Judge rejects CFTC, Gemini bid to vacate $5 million settlement
+Source: Major External News - Google
+Publisher: Reuters
+Published: Oct 16, 2026
+Why it matters: Corporate move or major external event
+Link: https://news.google.com/rss/articles/CBMipAFBVV95cUxPamRGbnhqOWFNVXc1dk9nVTI5ZExzTHcwbHZTdTQxVDNfdXNvQVhseGpMNDlneFB4TXJwU0FWa291YlB2OU1uRS1ITWJ3T3VIOVBtSkVaYzRwSTlUWVRUOWhwWG85UHI0RnBQOV9lLXE1NW5XZ0dtdXBsVk1oU0lJaHZMNFJYRUhtYmNMdHU4NXEyTmpneFdHeWZoQXJqXzBvN1hMUg?oc=5
+
+### Microsoft - Microsoft's Business Software Proposed to Receive Increased UK Regulatory Scrutiny
+Source: Major External News - Microsoft
+Publisher: Yahoo Finance
+Published: Oct 16, 2026
+Why it matters: Corporate move or major external event
+Link: https://news.google.com/rss/articles/CBMipAFBVV95cUxQazQyR3NFWURrZk9wZ0hHdC1xUHd6UGhzdjhqN2FKSnFJb0pyUHhjbkY3THg2M3FrUXJTNHRyOWZnNGtTUEkwOUNEUnAtRjdYUHRwY2ltNXlhdjluZlVmRzV5RV9WSDhQQnJKalEzZGVKWVlEZWZnQVlDeVZEN2xVU3dLaWlmVVQ0YlFUMFIyMVFuQW9fc05OTlg3Vk9WSUtkVWhJbA?oc=5
+
+### Microsoft - UK competition regulator targets Microsoft's business software grip
+Source: Major External News - Microsoft
+Publisher: Yahoo Finance
+Published: Oct 16, 2026
+Why it matters: Corporate move or major external event
+Link: https://news.google.com/rss/articles/CBMipwFBVV95cUxNNHM1MTVqTWp0bHp6YnZpeVB6QWtubVBPMmx5LVlvd2FDb1ExYTYxWEZNeU5VM3ZtMUJhZzJnck02Tk5aYnFEUm1NbU12OWhUMTJ2Vi1xbkUtc3NRODZzTWdHZ3publBrYWdUdnJGOUt6a0RxbUdPT0hsbzRjTG5VOERuTHdSWmZTYUlYM1RNZ1ItUWFQOE5mOTlZdEFfQlozaExNTlkzSQ?oc=5
+
+### Google - Judge Rejects Gemini, CFTC Bid to Undo $5 Million Settlement
+Source: Major External News - Google
+Publisher: Bloomberg.com
+Published: Oct 15, 2026
+Why it matters: Corporate move or major external event
+Link: https://news.google.com/rss/articles/CBMirgFBVV95cUxPSEo1M19SOE9TQUZrZl9ibkQxVE12LU5ZZllPS3doYUJVUXJRVHZhbzNpYnoxVHBYaHlhUmFoZk1mMm5SQm9jUTQ4Z0RuY0dsZkg4cjNDUjh4dXEtNFQ0Yi1ZMzYyX0tVWU5Kb0dMb2F4WTVUVzBySUU1YVJLeW9ZdWU0S2Y1TnBJOXp0NUZJS1ZZemg5ci15Y0Q0NHdtRkttYTl3bkNNWF9Sb01iaWc?oc=5
+
+### Microsoft - Eight states sue OpenAI saying ChatGPT hurt kids and lied to adults
+Source: Major External News - Microsoft
+Publisher: Fortune
+Published: Oct 15, 2026
+Why it matters: Corporate move or major external event
+Link: https://news.google.com/rss/articles/CBMioAFBVV95cUxOZ2FaLUFwck1kbDNtaXhoNy1uNWV2MXBBbXBDV0hGcU5UVE9VbUQ2dEdYSVBQTXdBV0R1NG9OaWg3c0Q1RTZlY05WdXpHOV9fUWNBWVlKSkRtd1EwdVBPV3ZmYlhpY1Y5WHNIa212R3oyTEhqTzNFS0N0VTVNRjJaRENkWmpYTlVpQV9FZWR0VzgxQjYzSXM2M0I0NWdPbHpn?oc=5
+
+### Anthropic - FTC Subpoenas OpenAI and Anthropic as AI Safety Incidents Trigger Consumer Protection Investigation
+Source: Major External News - Anthropic
+Publisher: Yahoo
+Published: Oct 15, 2026
+Why it matters: Corporate move or major external event
+Link: https://news.google.com/rss/articles/CBMimAFBVV95cUxQclJJeWhjZUtvMjhOTE5UZ0duRVdxR21nVlVxdERqYTZRMWFUX2FhYnlieVN1TDJ5XzJjZ1Y2ampWZktHN1J4SGZWaTNWd0xvbEE3Q2lOUk52eXhjT0NNczAzcm1OVndJVFVSTnBhRlhiOGNGcXBJekVUVUhHUEszanZZUXM1dUV0QXUtMGFTMjJQbG4yckRYcg?oc=5
 
 ## Important External News
 
-### Meta - Exclusive / Meta data center credits draw congressional scrutiny
-Source: Major External News - Meta
-Publisher: Semafor
-Published: Oct 15, 2026
+### OpenAI - OpenAI–Hugging Face breach is a great example of how 'potent' these AI models are, says Cohere CEO
+Source: Major External News - OpenAI
+Publisher: CNBC
+Published: Oct 16, 2026
 Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMimwFBVV95cUxPUTVRaUJmS0lMS3NQX0VjdTRFdVFZNmoycGc5Q3hCVExBSHpfaXpwTF9CdnF5RHZoaW1WZGRHLUxwTWEzMFF2cVMyWlBfUThvY0NfYzh6cWxuMGtuT3lMUGdNZnYwUk05X3huT0xkcmhzRVliSmMtbXhyc2hvQWkya3Y2bnFVTGlEUjVHNDVDNndna1hGcmpldDVhQQ?oc=5
+Link: https://news.google.com/rss/articles/CBMi1AFBVV95cUxOd0x1RGVkZFl3dDgteFlzSGt1cS1xei1XMndzX0lxNHBiSzdvclVtdTNwSkFzdkgwQnVFRFZDT191WTBLMDNvSURDdmRWU2dyOXgtYlo5SUREenhSSVVvUGRVWGtxQ2M1bGk2OHIxRjBIYm9nTTJGQTZmSS1DWE9sbzhOckdDdXFMeHdGQmNjVTRaN2FveWZQU2dyT2R1T2psZG5QRFIyY2ZzaDBfd2lFamk3MFFzX213MmZyaWFsYmtwUFJtenlkVjR3N3AtTXRPelNZbg?oc=5
 
-### Anthropic - Update: Market Chatter: Anthropic Revenue Hits $16.8 Billion in Q3, AI-Modeler Cash Flow Positive
-Source: Major External News - Anthropic
-Publisher: Yahoo Finance
-Published: Oct 15, 2026
-Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMiowFBVV95cUxORGhjd28zT3YtRk4waGZjdkxEcVRVR2NFZDMxUTJPX01pWk90b2RJb0xqZHUxc1ptQ3BHbFoxV1U2ZHVwZVZrZzJrSlFPT3VvWHJtalU3Qm9uZkw4UmdJUUlpdWg0NVVnd3hTQkNoQTduNW9udktyekVPYmp6RmNTUHdIYThHd2dqWC0yWk9OX1FiMHFfV2xvamwySl9MbXEycWow?oc=5
-
-### Anthropic - Anthropic’s Rapid But Slowing Growth Could Weigh on IPO Valuation
-Source: Major External News - Anthropic
-Publisher: The Information
-Published: Oct 14, 2026
-Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMilgFBVV95cUxQVGRiOFctY25wbVdWaHlwSFlRWF8teC1LV0M2U2ZNbVR1OG55OWlPYWFsM1pJMG5IV3FueXFPNVBJQ3BkN2t5QkY3SjRZWWZweVJEUzFydHJhUTJhdmhZMUN6b2U0THk0TW5tQVRjanFJZkpGdTJzUGtQNXlVZXppQ2JNRGhmZ1JRejFCdnQyNEVUVEJnbkE?oc=5
-
-### Anthropic - Anthropic Q3 revenue climbs to $16.8 billion: Report
-Source: Major External News - Anthropic
-Publisher: Yahoo Finance
-Published: Oct 14, 2026
-Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMirgFBVV95cUxPY2pzTHJjWlBCcmx0RU9QNnBBLW16ZmNLS0RqMHc4NlgyalZhU09Eel85SDFTLWlpVTVQVTZYT1AtTUV2MXVWVnNyU3VsZmVyMVBaYzVuMDlYNnNyUnhzaUM1U3YyVklEVVZKSVBuZ25ZSllpRmZTbnRHdDZ0ekZCQ0hxaUNONXpYa24tUEtYNUxtWWhXTVhRSzRXSWhOMkh2THc0LWQtbTRKQjZJbGc?oc=5
-
-### Anthropic - At Anthropic pre-IPO meet: ‘Thinking’ caps, surging revenue, no human extinction
+### Anthropic - Investors temper Anthropic IPO valuation expectations over revenue growth slowdown, sources say
 Source: Major External News - Anthropic
 Publisher: Reuters
+Published: Oct 15, 2026
+Why it matters: Trusted external coverage
+Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxQRW4tSGppV2U0ZWtvaXBsQmlyaDVVLVFCSmJNMWdmMHpod0FWd25kUXRNQzFvZXJPTmhoQUNvMlFrQzI3NjBQVG9McWFPRHdUODhMbVItOGg4S0N3ZmJ4R2psZVd1aWFZM2M0aEY4R3VaYnFZWUxhOFZiRXAxTnc5UG9hMm1ERGpKbURkX3BWYzQ5UWl3THBFTDhWUWR0SVhUSWJsekpMZjM4OUZRQl9BVmY2djVKRENDSldCSUpOWmdvbHVK?oc=5
+
+### Meta - Mason County approves development of hyperscale data center for Meta
+Source: Major External News - Meta
+Publisher: Yahoo
+Published: Oct 15, 2026
+Why it matters: Trusted external coverage
+Link: https://news.google.com/rss/articles/CBMinwFBVV95cUxQSWZrZUFxVlJVa3ZmOFFETXEwaVNmbXNBZGRqWEdBeEFEcGtwcVUxQ1hpSkc2eGVoRlZjOHVkeFQxSjdCNWVxbng0TlJ6UkhRdDJDczBYbFoyel9zWE1rSzgzQkdWWV9FQnRHUDBoLTRFeE12c3dGOTE1OVl3RlFwTl9mZW9hY21TNm41VEFCNl9QYUlNdmt4WktONTM5bU0?oc=5
+
+### Anthropic - Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO
+Source: Major External News - Anthropic
+Publisher: Financial Times
 Published: Oct 14, 2026
 Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMipAFBVV95cUxPRHl4NDlfRl9CaVdHZzdFMUYzM3Rka2RvbXlYcXR4ZGEwWGt5LS1rSlZmUkx0SFhxMnlCb1AtSElVcWJoT29UX19jcnRlMFpQOW0zOXQ1cXd0eHNpeFZKdkdxM2JCMjZrOXRXTmhWRExOZHY5OGpxcmY1MHJ5QlVRc2hDejdubVcydi1oYmJRc2RKaWRBOWFLbFREY2VEblZ4SVRpdQ?oc=5
+Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxPREFXR25nQUF4WXJFTFcwN01WaS1OUWphZkFKWmRLVFlza2c3Q194d1JVdWdpRU9LWlNyZlE4REZEUEdhZzA4Ykc4UEpxZmdaaUp5ckZIcG5zNXdOYUdIYm9WQ3JxOXktR2I0d1Jab0g1T0lRcERma2FrUmx6ekZoRGJPazE?oc=5
 
 ## Critical Official Updates
 
-### Meta - Meta, Milan’s Pinacoteca di Brera, and EssilorLuxottica Expand Access to Art Through AI Glasses
-Source: Meta Newsroom
-Published: Oct 14, 2026
+### OpenAI - Bringing GPT-Rosalind to academic research labs
+Source: OpenAI Newsroom
+Published: Oct 15, 2026
 Why it matters: Flagship model or product launch
-Summary: Today, Meta, Pinacoteca di Brera and EssilorLuxottica are proud to launch “Sensing Art &#8211; Discovering Masterpieces Beyond What Meets the Eye.” This pilot aims to explore how AI glasses can make art more accessible for people who are blind or with low vision &#8211; in colla...
-Link: https://about.fb.com/news/2026/10/meta-milans-pinacoteca-di-brera-and-essilorluxottica-expand-access-to-art-through-ai-glasses
+Summary: Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.
+Link: https://openai.com/index/introducing-the-rosalind-academic-plan
 
 ## Important Official Updates
 
-### OpenAI - How Block is building AI-powered security with OpenAI technology
-Source: OpenAI Newsroom
-Published: Oct 14, 2026
-Why it matters: Safety, security, or policy update
-Summary: Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.
-Link: https://openai.com/index/block-ai-powered-security
-
-### Google - Bringing the magic: Google breaks open a bottleneck in quantum computing
+### Google - We’re sharing 3 tips to study smarter with Gemini Notebook.
 Source: Google AI
-Published: Oct 15, 2026
+Published: Oct 16, 2026
 Why it matters: Technical or research update
-Summary: In a paper published in Science, Google has shown that Magic State Cultivation works on Google Quantum AI hardware.
-Link: https://blog.google/innovation-and-ai/models-and-research/quantum-computing/magic-state-cultivation-quantum-computing
-
-### OpenAI - Teaching students to think and learn through questions
-Source: OpenAI Newsroom
-Published: Oct 15, 2026
-Why it matters: Technical or research update
-Summary: Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.
-Link: https://openai.com/index/teaching-students-to-think-and-learn-through-questions
-
-### Meta - More Than Three Quarters of Small Business Owners Say AI Makes Them More Productive, But Most Need More Guidance
-Source: Meta Newsroom
-Published: Oct 14, 2026
-Why it matters: Technical or research update
-Summary: New Meta research across nine APAC markets shows how AI is helping small businesses grow, compete with larger rivals and reach customers across borders. The post More Than Three Quarters of Small Business Owners Say AI Makes Them More Productive, But Most Need More Guidance
-Link: https://about.fb.com/news/2026/10/more-than-three-quarters-of-small-business-owners-say-ai-makes-them-more-productive-but-most-need-more-guidance
+Summary: Master your exams with Google Gemini Notebook’s new 60-second video overviews and interactive quiz formats. Try these study tools at notebook.google.
+Link: https://blog.google/innovation-and-ai/products/gemini-notebook/three-tips-study-gemini-notebook

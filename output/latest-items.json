@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T18:05:49.240Z",
+  "generatedAt": "2026-10-16T17:52:13.664Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -76,15 +76,148 @@
     }
   ],
   "totals": {
-    "fetched": 43,
+    "fetched": 47,
     "deduped": 24,
-    "new": 11,
+    "new": 13,
     "byKind": {
-      "official": 12,
-      "external": 12
+      "official": 7,
+      "external": 17
     }
   },
   "items": [
+    {
+      "id": "ea7680b00d2a65137362a7e11316f251c8d1da22",
+      "company": "Google",
+      "sourceKind": "external",
+      "sourceId": "external-google-major",
+      "sourceLabel": "Major External News - Google",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQV0xWUHJTd1gxSGR5RTNNQ1NhZ2hNdWpyci15aWt5OFFCUGVZMTNWQllEU19nR05NalZLNWhPOXVBci0tUjkzRm1JMTRjVGoyZTk4ZWtxU1ZSNnNWMS0wMGU0MGZtNm5TdnFpUzlXQVQzWWs2dXRoemtrZHVrVWl5bndwZmhWMlpTR3lpVjh5Q2g0dW5I?oc=5",
+      "title": "CFTC Wants to Drop Gemini’s $5M Settlement. A Judge Just Said No",
+      "summary": "",
+      "publishedAt": "2026-10-16T16:36:04.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "7914b89cf60fac69603342deb636e00ce69bac6b",
+      "company": "Google",
+      "sourceKind": "external",
+      "sourceId": "external-google-major",
+      "sourceLabel": "Major External News - Google",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPamRGbnhqOWFNVXc1dk9nVTI5ZExzTHcwbHZTdTQxVDNfdXNvQVhseGpMNDlneFB4TXJwU0FWa291YlB2OU1uRS1ITWJ3T3VIOVBtSkVaYzRwSTlUWVRUOWhwWG85UHI0RnBQOV9lLXE1NW5XZ0dtdXBsVk1oU0lJaHZMNFJYRUhtYmNMdHU4NXEyTmpneFdHeWZoQXJqXzBvN1hMUg?oc=5",
+      "title": "Judge rejects CFTC, Gemini bid to vacate $5 million settlement",
+      "summary": "",
+      "publishedAt": "2026-10-16T16:10:37.000Z",
+      "publisher": "Reuters",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "2806a052d04f5a0f6cd4b378921e716b68911ea5",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQazQyR3NFWURrZk9wZ0hHdC1xUHd6UGhzdjhqN2FKSnFJb0pyUHhjbkY3THg2M3FrUXJTNHRyOWZnNGtTUEkwOUNEUnAtRjdYUHRwY2ltNXlhdjluZlVmRzV5RV9WSDhQQnJKalEzZGVKWVlEZWZnQVlDeVZEN2xVU3dLaWlmVVQ0YlFUMFIyMVFuQW9fc05OTlg3Vk9WSUtkVWhJbA?oc=5",
+      "title": "Microsoft's Business Software Proposed to Receive Increased UK Regulatory Scrutiny",
+      "summary": "",
+      "publishedAt": "2026-10-16T10:11:51.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "958fd9da506e19f1b9d70eff4d644ccc9f6de602",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNHM1MTVqTWp0bHp6YnZpeVB6QWtubVBPMmx5LVlvd2FDb1ExYTYxWEZNeU5VM3ZtMUJhZzJnck02Tk5aYnFEUm1NbU12OWhUMTJ2Vi1xbkUtc3NRODZzTWdHZ3publBrYWdUdnJGOUt6a0RxbUdPT0hsbzRjTG5VOERuTHdSWmZTYUlYM1RNZ1ItUWFQOE5mOTlZdEFfQlozaExNTlkzSQ?oc=5",
+      "title": "UK competition regulator targets Microsoft's business software grip",
+      "summary": "",
+      "publishedAt": "2026-10-16T09:10:19.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "67d233883f6066f0cc0ff4a2397d16d442267a8c",
+      "company": "Google",
+      "sourceKind": "external",
+      "sourceId": "external-google-major",
+      "sourceLabel": "Major External News - Google",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSEo1M19SOE9TQUZrZl9ibkQxVE12LU5ZZllPS3doYUJVUXJRVHZhbzNpYnoxVHBYaHlhUmFoZk1mMm5SQm9jUTQ4Z0RuY0dsZkg4cjNDUjh4dXEtNFQ0Yi1ZMzYyX0tVWU5Kb0dMb2F4WTVUVzBySUU1YVJLeW9ZdWU0S2Y1TnBJOXp0NUZJS1ZZemg5ci15Y0Q0NHdtRkttYTl3bkNNWF9Sb01iaWc?oc=5",
+      "title": "Judge Rejects Gemini, CFTC Bid to Undo $5 Million Settlement",
+      "summary": "",
+      "publishedAt": "2026-10-15T23:05:18.000Z",
+      "publisher": "Bloomberg.com",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "e59ced12bdd3d45db5bce4d99506dd4342b45ade",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZ2FaLUFwck1kbDNtaXhoNy1uNWV2MXBBbXBDV0hGcU5UVE9VbUQ2dEdYSVBQTXdBV0R1NG9OaWg3c0Q1RTZlY05WdXpHOV9fUWNBWVlKSkRtd1EwdVBPV3ZmYlhpY1Y5WHNIa212R3oyTEhqTzNFS0N0VTVNRjJaRENkWmpYTlVpQV9FZWR0VzgxQjYzSXM2M0I0NWdPbHpn?oc=5",
+      "title": "Eight states sue OpenAI saying ChatGPT hurt kids and lied to adults",
+      "summary": "",
+      "publishedAt": "2026-10-15T19:07:00.000Z",
+      "publisher": "Fortune",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "a82bd667ce4ecfa936b3ced070bacd2c0ced3754",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQclJJeWhjZUtvMjhOTE5UZ0duRVdxR21nVlVxdERqYTZRMWFUX2FhYnlieVN1TDJ5XzJjZ1Y2ampWZktHN1J4SGZWaTNWd0xvbEE3Q2lOUk52eXhjT0NNczAzcm1OVndJVFVSTnBhRlhiOGNGcXBJekVUVUhHUEszanZZUXM1dUV0QXUtMGFTMjJQbG4yckRYcg?oc=5",
+      "title": "FTC Subpoenas OpenAI and Anthropic as AI Safety Incidents Trigger Consumer Protection Investigation",
+      "summary": "",
+      "publishedAt": "2026-10-15T18:50:58.000Z",
+      "publisher": "Yahoo",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
     {
       "id": "4fa7646f448a251fb8cb48fd384d14a83207d745",
       "company": "OpenAI",
@@ -119,59 +252,40 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 7,
+        "score": 6,
         "reason": "Corporate move or major external event"
       }
     },
     {
-      "id": "3820c625419826f8d8cc42c5c8008f5afc875d6d",
-      "company": "Microsoft",
+      "id": "f58bee442ef81cea077ccd3902b1dae0299802b1",
+      "company": "Anthropic",
       "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOGw2d2RmcXhva1FOUGU2MXpmSWRLT09kVXNPOTNwMVNKbFJsdmxkQzZoNFFBYlZ3LWtZMUdVZHdRTldqRU9UM2dKYUhvOFNGT3JDTUx4UmRWUzFmX1QzcERTd2VMRTZwcENqelp5S2VGMmNUclZ3MFZseVZHR0lUWDJic253T1lKYm9nVTgwZHlmcVFDS19BMkowMXVwbWdELXlNQlpueGR3Qnl0enpJcW5LbEVhOWc?oc=5",
-      "title": "California Court Asked to Void Law Undoing Microsoft Tax Refund",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMzBlLUI4SUtBM0FSRUVKRWpWcmVnZDg0UkhTSG1lNEIwUTktaC1tYXJxVDZJYnJ2UUdSZVpZSmhzdEg2UHFXNWlWLUFOMkoxMXNoNGczcEtCbXJXX0Y3V3NtdHhFajZHOElyZDNKNHU4SEU5Q25PSzV3QzFvcXFJQmp4aHI0MkFuZkpnN2RKdHRyMVA2?oc=5",
+      "title": "Over 50 Projects with Claude Take CI&T to a New Partnership Tier",
       "summary": "",
-      "publishedAt": "2026-10-14T13:47:00.000Z",
-      "publisher": "Bloomberg Tax",
+      "publishedAt": "2026-10-14T13:00:00.000Z",
+      "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 7,
+        "score": 6,
         "reason": "Corporate move or major external event"
       }
     },
     {
-      "id": "0cb442eaa754e4afe98cad561b44e4069f7c61f1",
+      "id": "a72d1e4da6b0e1062a21232ab241fb1975aaab08",
       "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOd2pNdU8wUjNoOEhxSVFkQzl1VXFFSUY0NU5rM0Vjb0dZejJCUkhoQUJFQkctLWVrZDlaVkN3SVhLeC1jYW1aWWZ4QWxkdTBiXzdqNzl3aXZKd1h6dHdyV0k0SG1SZFc2ZTBpTkowelBLZ0hDQ1lhaEppUWZSejh0dnI5WVJCUmdnRGRxalU0STdYU2FLVjJDWURucXRKa2xYQU9HTm9yQkdKd2pKdDBj?oc=5",
-      "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
-      "summary": "",
-      "publishedAt": "2026-10-13T20:36:44.000Z",
-      "publisher": "TechCrunch",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "61a2ef3c9ba432218a38a684a0b99c21b642add0",
-      "company": "Meta",
       "sourceKind": "official",
-      "sourceId": "meta-newsroom",
-      "sourceLabel": "Meta Newsroom",
-      "homepageUrl": "https://about.fb.com/news/",
-      "url": "https://about.fb.com/news/2026/10/meta-milans-pinacoteca-di-brera-and-essilorluxottica-expand-access-to-art-through-ai-glasses",
-      "title": "Meta, Milan’s Pinacoteca di Brera, and EssilorLuxottica Expand Access to Art Through AI Glasses",
-      "summary": "Today, Meta, Pinacoteca di Brera and EssilorLuxottica are proud to launch “Sensing Art &#8211; Discovering Masterpieces Beyond What Meets the Eye.” This pilot aims to explore how AI glasses can make art more accessible for people who are blind or with low vision &#8211; in colla...",
-      "publishedAt": "2026-10-14T16:00:57.000Z",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+      "title": "Bringing GPT-Rosalind to academic research labs",
+      "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+      "publishedAt": "2026-10-15T19:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -200,6 +314,63 @@
       }
     },
     {
+      "id": "ee90a69035d2ec4089172ffa0e26179b0dbbb630",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOd0x1RGVkZFl3dDgteFlzSGt1cS1xei1XMndzX0lxNHBiSzdvclVtdTNwSkFzdkgwQnVFRFZDT191WTBLMDNvSURDdmRWU2dyOXgtYlo5SUREenhSSVVvUGRVWGtxQ2M1bGk2OHIxRjBIYm9nTTJGQTZmSS1DWE9sbzhOckdDdXFMeHdGQmNjVTRaN2FveWZQU2dyT2R1T2psZG5QRFIyY2ZzaDBfd2lFamk3MFFzX213MmZyaWFsYmtwUFJtenlkVjR3N3AtTXRPelNZbg?oc=5",
+      "title": "OpenAI–Hugging Face breach is a great example of how 'potent' these AI models are, says Cohere CEO",
+      "summary": "",
+      "publishedAt": "2026-10-16T14:51:01.000Z",
+      "publisher": "CNBC",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "6c97feaf5b06ce4939d3e8a9dc0f86495933cdb0",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRW4tSGppV2U0ZWtvaXBsQmlyaDVVLVFCSmJNMWdmMHpod0FWd25kUXRNQzFvZXJPTmhoQUNvMlFrQzI3NjBQVG9McWFPRHdUODhMbVItOGg4S0N3ZmJ4R2psZVd1aWFZM2M0aEY4R3VaYnFZWUxhOFZiRXAxTnc5UG9hMm1ERGpKbURkX3BWYzQ5UWl3THBFTDhWUWR0SVhUSWJsekpMZjM4OUZRQl9BVmY2djVKRENDSldCSUpOWmdvbHVK?oc=5",
+      "title": "Investors temper Anthropic IPO valuation expectations over revenue growth slowdown, sources say",
+      "summary": "",
+      "publishedAt": "2026-10-15T21:00:00.000Z",
+      "publisher": "Reuters",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "b9bd0fe8a96fd70647d34573eb6d6db8c2d1653c",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSWZrZUFxVlJVa3ZmOFFETXEwaVNmbXNBZGRqWEdBeEFEcGtwcVUxQ1hpSkc2eGVoRlZjOHVkeFQxSjdCNWVxbng0TlJ6UkhRdDJDczBYbFoyel9zWE1rSzgzQkdWWV9FQnRHUDBoLTRFeE12c3dGOTE1OVl3RlFwTl9mZW9hY21TNm41VEFCNl9QYUlNdmt4WktONTM5bU0?oc=5",
+      "title": "Mason County approves development of hyperscale data center for Meta",
+      "summary": "",
+      "publishedAt": "2026-10-15T10:35:29.000Z",
+      "publisher": "Yahoo",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
       "id": "99bc9412815348afec4c929b7b616451d1ef0ef6",
       "company": "Meta",
       "sourceKind": "external",
@@ -219,17 +390,17 @@
       }
     },
     {
-      "id": "2728203981935e66c7db5891f2218291954c8fcc",
+      "id": "288da68e243b3cca871fbb3e534411850b9e40de",
       "company": "Anthropic",
       "sourceKind": "external",
       "sourceId": "external-anthropic-major",
       "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORGhjd28zT3YtRk4waGZjdkxEcVRVR2NFZDMxUTJPX01pWk90b2RJb0xqZHUxc1ptQ3BHbFoxV1U2ZHVwZVZrZzJrSlFPT3VvWHJtalU3Qm9uZkw4UmdJUUlpdWg0NVVnd3hTQkNoQTduNW9udktyekVPYmp6RmNTUHdIYThHd2dqWC0yWk9OX1FiMHFfV2xvamwySl9MbXEycWow?oc=5",
-      "title": "Update: Market Chatter: Anthropic Revenue Hits $16.8 Billion in Q3, AI-Modeler Cash Flow Positive",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPREFXR25nQUF4WXJFTFcwN01WaS1OUWphZkFKWmRLVFlza2c3Q194d1JVdWdpRU9LWlNyZlE4REZEUEdhZzA4Ykc4UEpxZmdaaUp5ckZIcG5zNXdOYUdIYm9WQ3JxOXktR2I0d1Jab0g1T0lRcERma2FrUmx6ekZoRGJPazE?oc=5",
+      "title": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
       "summary": "",
-      "publishedAt": "2026-10-15T08:20:41.000Z",
-      "publisher": "Yahoo Finance",
+      "publishedAt": "2026-10-14T22:06:31.000Z",
+      "publisher": "Financial Times",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -238,117 +409,22 @@
       }
     },
     {
-      "id": "1f332c2454114e453f32dbc1ce9ef5041e8df87e",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVGRiOFctY25wbVdWaHlwSFlRWF8teC1LV0M2U2ZNbVR1OG55OWlPYWFsM1pJMG5IV3FueXFPNVBJQ3BkN2t5QkY3SjRZWWZweVJEUzFydHJhUTJhdmhZMUN6b2U0THk0TW5tQVRjanFJZkpGdTJzUGtQNXlVZXppQ2JNRGhmZ1JRejFCdnQyNEVUVEJnbkE?oc=5",
-      "title": "Anthropic’s Rapid But Slowing Growth Could Weigh on IPO Valuation",
-      "summary": "",
-      "publishedAt": "2026-10-15T02:27:00.000Z",
-      "publisher": "The Information",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "a8fef98200208094c4cc1f7890943e33749a2ed2",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPY2pzTHJjWlBCcmx0RU9QNnBBLW16ZmNLS0RqMHc4NlgyalZhU09Eel85SDFTLWlpVTVQVTZYT1AtTUV2MXVWVnNyU3VsZmVyMVBaYzVuMDlYNnNyUnhzaUM1U3YyVklEVVZKSVBuZ25ZSllpRmZTbnRHdDZ0ekZCQ0hxaUNONXpYa24tUEtYNUxtWWhXTVhRSzRXSWhOMkh2THc0LWQtbTRKQjZJbGc?oc=5",
-      "title": "Anthropic Q3 revenue climbs to $16.8 billion: Report",
-      "summary": "",
-      "publishedAt": "2026-10-15T00:36:00.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "491630de6f36a1ba43ec16d3fdb7d3a0bc316ddc",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRHl4NDlfRl9CaVdHZzdFMUYzM3Rka2RvbXlYcXR4ZGEwWGt5LS1rSlZmUkx0SFhxMnlCb1AtSElVcWJoT29UX19jcnRlMFpQOW0zOXQ1cXd0eHNpeFZKdkdxM2JCMjZrOXRXTmhWRExOZHY5OGpxcmY1MHJ5QlVRc2hDejdubVcydi1oYmJRc2RKaWRBOWFLbFREY2VEblZ4SVRpdQ?oc=5",
-      "title": "At Anthropic pre-IPO meet: ‘Thinking’ caps, surging revenue, no human extinction",
-      "summary": "",
-      "publishedAt": "2026-10-14T22:27:00.000Z",
-      "publisher": "Reuters",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "c11af53764ee9e90de4526a44b2ca8cbe3a2521a",
+      "id": "61a2ef3c9ba432218a38a684a0b99c21b642add0",
       "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObElIMDREWVcyNDVBZERFd2VSSnd5SDc5VERHbXVGRmUzaERKZGh5RWowb0xLdFozUkk1Yk1WekpBV0pZdHNUaWt5ekhUak5UYXVvSUw5SWhta1ZNakllVFVWaHRVRmppanIzZUx4QlJqdU1kaUNkeGN6Y2E0N1ZGZzVjWUs?oc=5",
-      "title": "Senators Question Meta’s Data Center Tax Strategy",
-      "summary": "",
-      "publishedAt": "2026-10-14T19:12:32.000Z",
-      "publisher": "The New York Times",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "1dc531eda821eaff974abfaaf6d32c13ae28ad68",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORlpYZzU5WDlGdHY0OTdVcHZyYjRxZkIzOGVyVm44VE1NVW5KaGI3ZlBPcXVwMDZSM3RoUnZ2RFg1TkVLMXJvQ191TkNocDc3by1IUlRPMVdhWUFUS0MtVHdzWmlxZFhDcHg5SjhaX2xucVprYzBGLTVXdXhPMjZPRWJGMnd4ZVQxeEtEcGNOTGZCc0FlYXJfU1hrRVFaMGR6cGh1TQ?oc=5",
-      "title": "Marvell, Microsoft and Oracle Establish OCP Working Group to Standardize Data Center Hardware Security",
-      "summary": "",
-      "publishedAt": "2026-10-13T13:00:00.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "7d10f0ddfecf202c0b2cc2a533b94c794cdf0d1c",
-      "company": "OpenAI",
       "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/block-ai-powered-security",
-      "title": "How Block is building AI-powered security with OpenAI technology",
-      "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
-      "publishedAt": "2026-10-14T07:00:00.000Z",
+      "sourceId": "meta-newsroom",
+      "sourceLabel": "Meta Newsroom",
+      "homepageUrl": "https://about.fb.com/news/",
+      "url": "https://about.fb.com/news/2026/10/meta-milans-pinacoteca-di-brera-and-essilorluxottica-expand-access-to-art-through-ai-glasses",
+      "title": "Meta, Milan’s Pinacoteca di Brera, and EssilorLuxottica Expand Access to Art Through AI Glasses",
+      "summary": "Today, Meta, Pinacoteca di Brera and EssilorLuxottica are proud to launch “Sensing Art &#8211; Discovering Masterpieces Beyond What Meets the Eye.” This pilot aims to explore how AI glasses can make art more accessible for people who are blind or with low vision &#8211; in colla...",
+      "publishedAt": "2026-10-14T16:00:57.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
         "score": 4,
-        "reason": "Safety, security, or policy update"
+        "reason": "Flagship model or product launch"
       }
     },
     {
@@ -371,6 +447,25 @@
       }
     },
     {
+      "id": "c11af53764ee9e90de4526a44b2ca8cbe3a2521a",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObElIMDREWVcyNDVBZERFd2VSSnd5SDc5VERHbXVGRmUzaERKZGh5RWowb0xLdFozUkk1Yk1WekpBV0pZdHNUaWt5ekhUak5UYXVvSUw5SWhta1ZNakllVFVWaHRVRmppanIzZUx4QlJqdU1kaUNkeGN6Y2E0N1ZGZzVjWUs?oc=5",
+      "title": "Senators Question Meta’s Data Center Tax Strategy",
+      "summary": "",
+      "publishedAt": "2026-10-14T14:48:05.000Z",
+      "publisher": "The New York Times",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
       "id": "a1277d0a4f1b4742825181ab47565bccc277cf56",
       "company": "Meta",
       "sourceKind": "external",
@@ -390,6 +485,25 @@
       }
     },
     {
+      "id": "bb9f592d5f654f968da50a776979321db7a18821",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/three-tips-study-gemini-notebook",
+      "title": "We’re sharing 3 tips to study smarter with Gemini Notebook.",
+      "summary": "Master your exams with Google Gemini Notebook’s new 60-second video overviews and interactive quiz formats. Try these study tools at notebook.google.",
+      "publishedAt": "2026-10-16T16:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Technical or research update"
+      }
+    },
+    {
       "id": "f084928e13b1c9698e99cc584a0eeddff41d3dee",
       "company": "Google",
       "sourceKind": "official",
@@ -426,134 +540,20 @@
         "score": 3,
         "reason": "Technical or research update"
       }
-    },
-    {
-      "id": "d7f4f48324ba74158d1a73c8b397d97e7125a944",
-      "company": "Meta",
-      "sourceKind": "official",
-      "sourceId": "meta-newsroom",
-      "sourceLabel": "Meta Newsroom",
-      "homepageUrl": "https://about.fb.com/news/",
-      "url": "https://about.fb.com/news/2026/10/more-than-three-quarters-of-small-business-owners-say-ai-makes-them-more-productive-but-most-need-more-guidance",
-      "title": "More Than Three Quarters of Small Business Owners Say AI Makes Them More Productive, But Most Need More Guidance",
-      "summary": "New Meta research across nine APAC markets shows how AI is helping small businesses grow, compete with larger rivals and reach customers across borders. The post More Than Three Quarters of Small Business Owners Say AI Makes Them More Productive, But Most Need More Guidance",
-      "publishedAt": "2026-10-15T00:50:50.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Technical or research update"
-      }
-    },
-    {
-      "id": "bfe647b0306d07171319014cf009ab4a38634470",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/technology/research/research-capabilities-intelligence-2026",
-      "title": "Research@ 2026: Novel capabilities and intelligence",
-      "summary": "We’re sharing our latest milestones and some of the advanced AI capabilities and intelligence that we’re putting in the hands of experts.",
-      "publishedAt": "2026-10-14T16:15:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Technical or research update"
-      }
-    },
-    {
-      "id": "e181547094b0a112cf0b18eccd2fd79396c82dce",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/third-moment-research",
-      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
-      "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
-      "publishedAt": "2026-10-14T07:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Technical or research update"
-      }
-    },
-    {
-      "id": "1a30691bdfc656f370d1667ba314873d1bf84189",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/technology/safety-security/gemini-4-model-safety-security",
-      "title": "Developing Gemini 4 Argon responsibly and safely",
-      "summary": "Learn more about our approach to safety and security for Gemini 4 Argon.",
-      "publishedAt": "2026-10-13T18:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "3a0b4572422c1a8cbc95ae7fb7158fc8dc49f9d0",
-      "company": "Anthropic",
-      "sourceKind": "official",
-      "sourceId": "anthropic-news",
-      "sourceLabel": "Anthropic News",
-      "homepageUrl": "https://www.anthropic.com/news",
-      "url": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy",
-      "title": "Responsible Scaling Policy",
-      "summary": "",
-      "publishedAt": null,
-      "publisher": "",
-      "discoveryMethod": "anchor",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "a0fc52c7c407bf11d8b68ccf62e1b5e671a984b4",
-      "company": "Microsoft",
-      "sourceKind": "official",
-      "sourceId": "microsoft-ai",
-      "sourceLabel": "Microsoft AI",
-      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
-      "url": "https://news.microsoft.com/source/emea/features/how-kier-groups-louisa-finlay-is-using-copilot-to-drive-safety-and-productivity-in-the-construction-industry",
-      "title": "Read the story titled How Kier Group’s Louisa Finlay is using Copilot to drive safety and productivity in the construction industry",
-      "summary": "",
-      "publishedAt": null,
-      "publisher": "",
-      "discoveryMethod": "anchor",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Safety, security, or policy update"
-      }
     }
   ],
   "newItems": [
     {
-      "id": "61905745a4674cf95fb526bad6bb32629217699d",
-      "company": "OpenAI",
+      "id": "ea7680b00d2a65137362a7e11316f251c8d1da22",
+      "company": "Google",
       "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
+      "sourceId": "external-google-major",
+      "sourceLabel": "Major External News - Google",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVzd6Z2JRbHV5N3REdmVJTWtnU2RSVDdYUFlJWWdab0hsQWVQUkZwQmEzb0QxcEhJQm5JZXc5WXVTRFluSXhBTW9RZnVOLVc0aG1Yd3NBbC1laXl2N19ZN0I0eDJ1TEo5OElrbXV3R090TzFGNExUellnc0taZ29xYXpRWGpVWWV0RjRiWHU1ZWdHNTh1Wk9fcTZlTE83M09xTmY2MzFLYw?oc=5",
-      "title": "Report: OpenAI Interested in Acquiring Trail of Bits",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQV0xWUHJTd1gxSGR5RTNNQ1NhZ2hNdWpyci15aWt5OFFCUGVZMTNWQllEU19nR05NalZLNWhPOXVBci0tUjkzRm1JMTRjVGoyZTk4ZWtxU1ZSNnNWMS0wMGU0MGZtNm5TdnFpUzlXQVQzWWs2dXRoemtrZHVrVWl5bndwZmhWMlpTR3lpVjh5Q2g0dW5I?oc=5",
+      "title": "CFTC Wants to Drop Gemini’s $5M Settlement. A Judge Just Said No",
       "summary": "",
-      "publishedAt": "2026-10-14T16:05:54.000Z",
+      "publishedAt": "2026-10-16T16:36:04.000Z",
       "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
@@ -563,16 +563,130 @@
       }
     },
     {
-      "id": "61a2ef3c9ba432218a38a684a0b99c21b642add0",
-      "company": "Meta",
+      "id": "7914b89cf60fac69603342deb636e00ce69bac6b",
+      "company": "Google",
+      "sourceKind": "external",
+      "sourceId": "external-google-major",
+      "sourceLabel": "Major External News - Google",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPamRGbnhqOWFNVXc1dk9nVTI5ZExzTHcwbHZTdTQxVDNfdXNvQVhseGpMNDlneFB4TXJwU0FWa291YlB2OU1uRS1ITWJ3T3VIOVBtSkVaYzRwSTlUWVRUOWhwWG85UHI0RnBQOV9lLXE1NW5XZ0dtdXBsVk1oU0lJaHZMNFJYRUhtYmNMdHU4NXEyTmpneFdHeWZoQXJqXzBvN1hMUg?oc=5",
+      "title": "Judge rejects CFTC, Gemini bid to vacate $5 million settlement",
+      "summary": "",
+      "publishedAt": "2026-10-16T16:10:37.000Z",
+      "publisher": "Reuters",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "2806a052d04f5a0f6cd4b378921e716b68911ea5",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQazQyR3NFWURrZk9wZ0hHdC1xUHd6UGhzdjhqN2FKSnFJb0pyUHhjbkY3THg2M3FrUXJTNHRyOWZnNGtTUEkwOUNEUnAtRjdYUHRwY2ltNXlhdjluZlVmRzV5RV9WSDhQQnJKalEzZGVKWVlEZWZnQVlDeVZEN2xVU3dLaWlmVVQ0YlFUMFIyMVFuQW9fc05OTlg3Vk9WSUtkVWhJbA?oc=5",
+      "title": "Microsoft's Business Software Proposed to Receive Increased UK Regulatory Scrutiny",
+      "summary": "",
+      "publishedAt": "2026-10-16T10:11:51.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "958fd9da506e19f1b9d70eff4d644ccc9f6de602",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNHM1MTVqTWp0bHp6YnZpeVB6QWtubVBPMmx5LVlvd2FDb1ExYTYxWEZNeU5VM3ZtMUJhZzJnck02Tk5aYnFEUm1NbU12OWhUMTJ2Vi1xbkUtc3NRODZzTWdHZ3publBrYWdUdnJGOUt6a0RxbUdPT0hsbzRjTG5VOERuTHdSWmZTYUlYM1RNZ1ItUWFQOE5mOTlZdEFfQlozaExNTlkzSQ?oc=5",
+      "title": "UK competition regulator targets Microsoft's business software grip",
+      "summary": "",
+      "publishedAt": "2026-10-16T09:10:19.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "67d233883f6066f0cc0ff4a2397d16d442267a8c",
+      "company": "Google",
+      "sourceKind": "external",
+      "sourceId": "external-google-major",
+      "sourceLabel": "Major External News - Google",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSEo1M19SOE9TQUZrZl9ibkQxVE12LU5ZZllPS3doYUJVUXJRVHZhbzNpYnoxVHBYaHlhUmFoZk1mMm5SQm9jUTQ4Z0RuY0dsZkg4cjNDUjh4dXEtNFQ0Yi1ZMzYyX0tVWU5Kb0dMb2F4WTVUVzBySUU1YVJLeW9ZdWU0S2Y1TnBJOXp0NUZJS1ZZemg5ci15Y0Q0NHdtRkttYTl3bkNNWF9Sb01iaWc?oc=5",
+      "title": "Judge Rejects Gemini, CFTC Bid to Undo $5 Million Settlement",
+      "summary": "",
+      "publishedAt": "2026-10-15T23:05:18.000Z",
+      "publisher": "Bloomberg.com",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "e59ced12bdd3d45db5bce4d99506dd4342b45ade",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZ2FaLUFwck1kbDNtaXhoNy1uNWV2MXBBbXBDV0hGcU5UVE9VbUQ2dEdYSVBQTXdBV0R1NG9OaWg3c0Q1RTZlY05WdXpHOV9fUWNBWVlKSkRtd1EwdVBPV3ZmYlhpY1Y5WHNIa212R3oyTEhqTzNFS0N0VTVNRjJaRENkWmpYTlVpQV9FZWR0VzgxQjYzSXM2M0I0NWdPbHpn?oc=5",
+      "title": "Eight states sue OpenAI saying ChatGPT hurt kids and lied to adults",
+      "summary": "",
+      "publishedAt": "2026-10-15T19:07:00.000Z",
+      "publisher": "Fortune",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "a82bd667ce4ecfa936b3ced070bacd2c0ced3754",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQclJJeWhjZUtvMjhOTE5UZ0duRVdxR21nVlVxdERqYTZRMWFUX2FhYnlieVN1TDJ5XzJjZ1Y2ampWZktHN1J4SGZWaTNWd0xvbEE3Q2lOUk52eXhjT0NNczAzcm1OVndJVFVSTnBhRlhiOGNGcXBJekVUVUhHUEszanZZUXM1dUV0QXUtMGFTMjJQbG4yckRYcg?oc=5",
+      "title": "FTC Subpoenas OpenAI and Anthropic as AI Safety Incidents Trigger Consumer Protection Investigation",
+      "summary": "",
+      "publishedAt": "2026-10-15T18:50:58.000Z",
+      "publisher": "Yahoo",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "a72d1e4da6b0e1062a21232ab241fb1975aaab08",
+      "company": "OpenAI",
       "sourceKind": "official",
-      "sourceId": "meta-newsroom",
-      "sourceLabel": "Meta Newsroom",
-      "homepageUrl": "https://about.fb.com/news/",
-      "url": "https://about.fb.com/news/2026/10/meta-milans-pinacoteca-di-brera-and-essilorluxottica-expand-access-to-art-through-ai-glasses",
-      "title": "Meta, Milan’s Pinacoteca di Brera, and EssilorLuxottica Expand Access to Art Through AI Glasses",
-      "summary": "Today, Meta, Pinacoteca di Brera and EssilorLuxottica are proud to launch “Sensing Art &#8211; Discovering Masterpieces Beyond What Meets the Eye.” This pilot aims to explore how AI glasses can make art more accessible for people who are blind or with low vision &#8211; in colla...",
-      "publishedAt": "2026-10-14T16:00:57.000Z",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+      "title": "Bringing GPT-Rosalind to academic research labs",
+      "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+      "publishedAt": "2026-10-15T19:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -582,17 +696,17 @@
       }
     },
     {
-      "id": "99bc9412815348afec4c929b7b616451d1ef0ef6",
-      "company": "Meta",
+      "id": "ee90a69035d2ec4089172ffa0e26179b0dbbb630",
+      "company": "OpenAI",
       "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUTVRaUJmS0lMS3NQX0VjdTRFdVFZNmoycGc5Q3hCVExBSHpfaXpwTF9CdnF5RHZoaW1WZGRHLUxwTWEzMFF2cVMyWlBfUThvY0NfYzh6cWxuMGtuT3lMUGdNZnYwUk05X3huT0xkcmhzRVliSmMtbXhyc2hvQWkya3Y2bnFVTGlEUjVHNDVDNndna1hGcmpldDVhQQ?oc=5",
-      "title": "Exclusive / Meta data center credits draw congressional scrutiny",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOd0x1RGVkZFl3dDgteFlzSGt1cS1xei1XMndzX0lxNHBiSzdvclVtdTNwSkFzdkgwQnVFRFZDT191WTBLMDNvSURDdmRWU2dyOXgtYlo5SUREenhSSVVvUGRVWGtxQ2M1bGk2OHIxRjBIYm9nTTJGQTZmSS1DWE9sbzhOckdDdXFMeHdGQmNjVTRaN2FveWZQU2dyT2R1T2psZG5QRFIyY2ZzaDBfd2lFamk3MFFzX213MmZyaWFsYmtwUFJtenlkVjR3N3AtTXRPelNZbg?oc=5",
+      "title": "OpenAI–Hugging Face breach is a great example of how 'potent' these AI models are, says Cohere CEO",
       "summary": "",
-      "publishedAt": "2026-10-15T08:56:00.000Z",
-      "publisher": "Semafor",
+      "publishedAt": "2026-10-16T14:51:01.000Z",
+      "publisher": "CNBC",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -601,73 +715,16 @@
       }
     },
     {
-      "id": "2728203981935e66c7db5891f2218291954c8fcc",
+      "id": "6c97feaf5b06ce4939d3e8a9dc0f86495933cdb0",
       "company": "Anthropic",
       "sourceKind": "external",
       "sourceId": "external-anthropic-major",
       "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORGhjd28zT3YtRk4waGZjdkxEcVRVR2NFZDMxUTJPX01pWk90b2RJb0xqZHUxc1ptQ3BHbFoxV1U2ZHVwZVZrZzJrSlFPT3VvWHJtalU3Qm9uZkw4UmdJUUlpdWg0NVVnd3hTQkNoQTduNW9udktyekVPYmp6RmNTUHdIYThHd2dqWC0yWk9OX1FiMHFfV2xvamwySl9MbXEycWow?oc=5",
-      "title": "Update: Market Chatter: Anthropic Revenue Hits $16.8 Billion in Q3, AI-Modeler Cash Flow Positive",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRW4tSGppV2U0ZWtvaXBsQmlyaDVVLVFCSmJNMWdmMHpod0FWd25kUXRNQzFvZXJPTmhoQUNvMlFrQzI3NjBQVG9McWFPRHdUODhMbVItOGg4S0N3ZmJ4R2psZVd1aWFZM2M0aEY4R3VaYnFZWUxhOFZiRXAxTnc5UG9hMm1ERGpKbURkX3BWYzQ5UWl3THBFTDhWUWR0SVhUSWJsekpMZjM4OUZRQl9BVmY2djVKRENDSldCSUpOWmdvbHVK?oc=5",
+      "title": "Investors temper Anthropic IPO valuation expectations over revenue growth slowdown, sources say",
       "summary": "",
-      "publishedAt": "2026-10-15T08:20:41.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "1f332c2454114e453f32dbc1ce9ef5041e8df87e",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVGRiOFctY25wbVdWaHlwSFlRWF8teC1LV0M2U2ZNbVR1OG55OWlPYWFsM1pJMG5IV3FueXFPNVBJQ3BkN2t5QkY3SjRZWWZweVJEUzFydHJhUTJhdmhZMUN6b2U0THk0TW5tQVRjanFJZkpGdTJzUGtQNXlVZXppQ2JNRGhmZ1JRejFCdnQyNEVUVEJnbkE?oc=5",
-      "title": "Anthropic’s Rapid But Slowing Growth Could Weigh on IPO Valuation",
-      "summary": "",
-      "publishedAt": "2026-10-15T02:27:00.000Z",
-      "publisher": "The Information",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "a8fef98200208094c4cc1f7890943e33749a2ed2",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPY2pzTHJjWlBCcmx0RU9QNnBBLW16ZmNLS0RqMHc4NlgyalZhU09Eel85SDFTLWlpVTVQVTZYT1AtTUV2MXVWVnNyU3VsZmVyMVBaYzVuMDlYNnNyUnhzaUM1U3YyVklEVVZKSVBuZ25ZSllpRmZTbnRHdDZ0ekZCQ0hxaUNONXpYa24tUEtYNUxtWWhXTVhRSzRXSWhOMkh2THc0LWQtbTRKQjZJbGc?oc=5",
-      "title": "Anthropic Q3 revenue climbs to $16.8 billion: Report",
-      "summary": "",
-      "publishedAt": "2026-10-15T00:36:00.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "491630de6f36a1ba43ec16d3fdb7d3a0bc316ddc",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRHl4NDlfRl9CaVdHZzdFMUYzM3Rka2RvbXlYcXR4ZGEwWGt5LS1rSlZmUkx0SFhxMnlCb1AtSElVcWJoT29UX19jcnRlMFpQOW0zOXQ1cXd0eHNpeFZKdkdxM2JCMjZrOXRXTmhWRExOZHY5OGpxcmY1MHJ5QlVRc2hDejdubVcydi1oYmJRc2RKaWRBOWFLbFREY2VEblZ4SVRpdQ?oc=5",
-      "title": "At Anthropic pre-IPO meet: ‘Thinking’ caps, surging revenue, no human extinction",
-      "summary": "",
-      "publishedAt": "2026-10-14T22:27:00.000Z",
+      "publishedAt": "2026-10-15T21:00:00.000Z",
       "publisher": "Reuters",
       "discoveryMethod": "feed",
       "classification": {
@@ -677,73 +734,54 @@
       }
     },
     {
-      "id": "7d10f0ddfecf202c0b2cc2a533b94c794cdf0d1c",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/block-ai-powered-security",
-      "title": "How Block is building AI-powered security with OpenAI technology",
-      "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
-      "publishedAt": "2026-10-14T07:00:00.000Z",
-      "publisher": "",
+      "id": "b9bd0fe8a96fd70647d34573eb6d6db8c2d1653c",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSWZrZUFxVlJVa3ZmOFFETXEwaVNmbXNBZGRqWEdBeEFEcGtwcVUxQ1hpSkc2eGVoRlZjOHVkeFQxSjdCNWVxbng0TlJ6UkhRdDJDczBYbFoyel9zWE1rSzgzQkdWWV9FQnRHUDBoLTRFeE12c3dGOTE1OVl3RlFwTl9mZW9hY21TNm41VEFCNl9QYUlNdmt4WktONTM5bU0?oc=5",
+      "title": "Mason County approves development of hyperscale data center for Meta",
+      "summary": "",
+      "publishedAt": "2026-10-15T10:35:29.000Z",
+      "publisher": "Yahoo",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
         "score": 4,
-        "reason": "Safety, security, or policy update"
+        "reason": "Trusted external coverage"
       }
     },
     {
-      "id": "f084928e13b1c9698e99cc584a0eeddff41d3dee",
+      "id": "288da68e243b3cca871fbb3e534411850b9e40de",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPREFXR25nQUF4WXJFTFcwN01WaS1OUWphZkFKWmRLVFlza2c3Q194d1JVdWdpRU9LWlNyZlE4REZEUEdhZzA4Ykc4UEpxZmdaaUp5ckZIcG5zNXdOYUdIYm9WQ3JxOXktR2I0d1Jab0g1T0lRcERma2FrUmx6ekZoRGJPazE?oc=5",
+      "title": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
+      "summary": "",
+      "publishedAt": "2026-10-14T22:06:31.000Z",
+      "publisher": "Financial Times",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "bb9f592d5f654f968da50a776979321db7a18821",
       "company": "Google",
       "sourceKind": "official",
       "sourceId": "google-ai",
       "sourceLabel": "Google AI",
       "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/magic-state-cultivation-quantum-computing",
-      "title": "Bringing the magic: Google breaks open a bottleneck in quantum computing",
-      "summary": "In a paper published in Science, Google has shown that Magic State Cultivation works on Google Quantum AI hardware.",
-      "publishedAt": "2026-10-15T18:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Technical or research update"
-      }
-    },
-    {
-      "id": "fa14b8f7db4605dfa58d6966f0032b53bc43f042",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-      "title": "Teaching students to think and learn through questions",
-      "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
-      "publishedAt": "2026-10-15T13:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Technical or research update"
-      }
-    },
-    {
-      "id": "d7f4f48324ba74158d1a73c8b397d97e7125a944",
-      "company": "Meta",
-      "sourceKind": "official",
-      "sourceId": "meta-newsroom",
-      "sourceLabel": "Meta Newsroom",
-      "homepageUrl": "https://about.fb.com/news/",
-      "url": "https://about.fb.com/news/2026/10/more-than-three-quarters-of-small-business-owners-say-ai-makes-them-more-productive-but-most-need-more-guidance",
-      "title": "More Than Three Quarters of Small Business Owners Say AI Makes Them More Productive, But Most Need More Guidance",
-      "summary": "New Meta research across nine APAC markets shows how AI is helping small businesses grow, compete with larger rivals and reach customers across borders. The post More Than Three Quarters of Small Business Owners Say AI Makes Them More Productive, But Most Need More Guidance",
-      "publishedAt": "2026-10-15T00:50:50.000Z",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/three-tips-study-gemini-notebook",
+      "title": "We’re sharing 3 tips to study smarter with Gemini Notebook.",
+      "summary": "Master your exams with Google Gemini Notebook’s new 60-second video overviews and interactive quiz formats. Try these study tools at notebook.google.",
+      "publishedAt": "2026-10-16T16:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
