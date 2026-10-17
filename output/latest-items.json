@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T17:52:13.664Z",
+  "generatedAt": "2026-10-17T16:54:52.823Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -76,9 +76,9 @@
     }
   ],
   "totals": {
-    "fetched": 47,
+    "fetched": 48,
     "deduped": 24,
-    "new": 13,
+    "new": 5,
     "byKind": {
       "official": 7,
       "external": 17
@@ -181,25 +181,6 @@
       }
     },
     {
-      "id": "e59ced12bdd3d45db5bce4d99506dd4342b45ade",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZ2FaLUFwck1kbDNtaXhoNy1uNWV2MXBBbXBDV0hGcU5UVE9VbUQ2dEdYSVBQTXdBV0R1NG9OaWg3c0Q1RTZlY05WdXpHOV9fUWNBWVlKSkRtd1EwdVBPV3ZmYlhpY1Y5WHNIa212R3oyTEhqTzNFS0N0VTVNRjJaRENkWmpYTlVpQV9FZWR0VzgxQjYzSXM2M0I0NWdPbHpn?oc=5",
-      "title": "Eight states sue OpenAI saying ChatGPT hurt kids and lied to adults",
-      "summary": "",
-      "publishedAt": "2026-10-15T19:07:00.000Z",
-      "publisher": "Fortune",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
       "id": "a82bd667ce4ecfa936b3ced070bacd2c0ced3754",
       "company": "Anthropic",
       "sourceKind": "external",
@@ -233,7 +214,7 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 7,
+        "score": 6,
         "reason": "Corporate move or major external event"
       }
     },
@@ -268,6 +249,25 @@
       "summary": "",
       "publishedAt": "2026-10-14T13:00:00.000Z",
       "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "4a2f3ca18eb9cee6e404d64432a48a189cc310da",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/benefit-street-partners",
+      "title": "Benefit Street Partners answers questions faster with Codex",
+      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+      "publishedAt": "2026-10-16T00:00:00.000Z",
+      "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -314,6 +314,44 @@
       }
     },
     {
+      "id": "6c97feaf5b06ce4939d3e8a9dc0f86495933cdb0",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRW4tSGppV2U0ZWtvaXBsQmlyaDVVLVFCSmJNMWdmMHpod0FWd25kUXRNQzFvZXJPTmhoQUNvMlFrQzI3NjBQVG9McWFPRHdUODhMbVItOGg4S0N3ZmJ4R2psZVd1aWFZM2M0aEY4R3VaYnFZWUxhOFZiRXAxTnc5UG9hMm1ERGpKbURkX3BWYzQ5UWl3THBFTDhWUWR0SVhUSWJsekpMZjM4OUZRQl9BVmY2djVKRENDSldCSUpOWmdvbHVK?oc=5",
+      "title": "Investors temper Anthropic IPO valuation expectations over revenue growth slowdown, sources say",
+      "summary": "",
+      "publishedAt": "2026-10-17T10:10:22.000Z",
+      "publisher": "Reuters",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "002bb1d551525bd01b51bc22c2b7b1ec2237c27c",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVnB1RXlFY1hwNUhQbnJrN1pzMUlaS1hncHo4ODNZd1R1NDFtVTFOWFd0dkdqNVlQaEhPbVlydjdDR3poUEd6ZTNkaUhOX01LbUJYVmZJU3VLczVEMmdyQldwbm5mNWd1ZVZnS1BjR3JBRFJnM0twVzcybXYyc3JwaDk0VjBlcFktOGR1Z3lhYmVrdTQ5Z3F0ZjNJM2N4N3NvSjBIamZJNA?oc=5",
+      "title": "Anthropic offers Blackstone double-digit yield in chip-financing deal, FT reports",
+      "summary": "",
+      "publishedAt": "2026-10-17T01:01:00.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
       "id": "ee90a69035d2ec4089172ffa0e26179b0dbbb630",
       "company": "OpenAI",
       "sourceKind": "external",
@@ -333,79 +371,41 @@
       }
     },
     {
-      "id": "6c97feaf5b06ce4939d3e8a9dc0f86495933cdb0",
-      "company": "Anthropic",
+      "id": "9fb835ef6b3c7c5edf7ac8e4346eb37f30ac6fb0",
+      "company": "OpenAI",
       "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRW4tSGppV2U0ZWtvaXBsQmlyaDVVLVFCSmJNMWdmMHpod0FWd25kUXRNQzFvZXJPTmhoQUNvMlFrQzI3NjBQVG9McWFPRHdUODhMbVItOGg4S0N3ZmJ4R2psZVd1aWFZM2M0aEY4R3VaYnFZWUxhOFZiRXAxTnc5UG9hMm1ERGpKbURkX3BWYzQ5UWl3THBFTDhWUWR0SVhUSWJsekpMZjM4OUZRQl9BVmY2djVKRENDSldCSUpOWmdvbHVK?oc=5",
-      "title": "Investors temper Anthropic IPO valuation expectations over revenue growth slowdown, sources say",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWVFmQXR5RHg1bUk3T29CM001WGwtbGNwNGNhRlZqc1hfSms4Sk9vbE1iZHp0eGktbG8zZ21ONmxIWThTUHR0a0ZCajJ0bUVhYkpqOG9MX01zdF9mMTNBV1hzcFdJTERjZXYzb0hZRDhEU25BT1JCLUhaRW9EdEczd2xHTUZEbXpwaC0yaG5WMGkyeG1nVWc?oc=5",
+      "title": "Alleged OpenAI security breach \"underscores how big the challenge is\" to foil espionage: tech editor",
       "summary": "",
-      "publishedAt": "2026-10-15T21:00:00.000Z",
-      "publisher": "Reuters",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "b9bd0fe8a96fd70647d34573eb6d6db8c2d1653c",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSWZrZUFxVlJVa3ZmOFFETXEwaVNmbXNBZGRqWEdBeEFEcGtwcVUxQ1hpSkc2eGVoRlZjOHVkeFQxSjdCNWVxbng0TlJ6UkhRdDJDczBYbFoyel9zWE1rSzgzQkdWWV9FQnRHUDBoLTRFeE12c3dGOTE1OVl3RlFwTl9mZW9hY21TNm41VEFCNl9QYUlNdmt4WktONTM5bU0?oc=5",
-      "title": "Mason County approves development of hyperscale data center for Meta",
-      "summary": "",
-      "publishedAt": "2026-10-15T10:35:29.000Z",
+      "publishedAt": "2026-10-14T23:02:04.000Z",
       "publisher": "Yahoo",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
         "score": 4,
-        "reason": "Trusted external coverage"
+        "reason": "Safety, security, or policy update"
       }
     },
     {
-      "id": "99bc9412815348afec4c929b7b616451d1ef0ef6",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUTVRaUJmS0lMS3NQX0VjdTRFdVFZNmoycGc5Q3hCVExBSHpfaXpwTF9CdnF5RHZoaW1WZGRHLUxwTWEzMFF2cVMyWlBfUThvY0NfYzh6cWxuMGtuT3lMUGdNZnYwUk05X3huT0xkcmhzRVliSmMtbXhyc2hvQWkya3Y2bnFVTGlEUjVHNDVDNndna1hGcmpldDVhQQ?oc=5",
-      "title": "Exclusive / Meta data center credits draw congressional scrutiny",
-      "summary": "",
-      "publishedAt": "2026-10-15T08:56:00.000Z",
-      "publisher": "Semafor",
+      "id": "65442e708214c10b88da99a535be852d30396736",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/itau-generative-ai",
+      "title": "How Itaú is building generative AI for its entire customer base",
+      "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+      "publishedAt": "2026-10-16T19:00:00.000Z",
+      "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
         "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "288da68e243b3cca871fbb3e534411850b9e40de",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPREFXR25nQUF4WXJFTFcwN01WaS1OUWphZkFKWmRLVFlza2c3Q194d1JVdWdpRU9LWlNyZlE4REZEUEdhZzA4Ykc4UEpxZmdaaUp5ckZIcG5zNXdOYUdIYm9WQ3JxOXktR2I0d1Jab0g1T0lRcERma2FrUmx6ekZoRGJPazE?oc=5",
-      "title": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
-      "summary": "",
-      "publishedAt": "2026-10-14T22:06:31.000Z",
-      "publisher": "Financial Times",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
+        "reason": "Safety, security, or policy update"
       }
     },
     {
@@ -444,6 +444,44 @@
         "bucket": "important",
         "score": 4,
         "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "b9bd0fe8a96fd70647d34573eb6d6db8c2d1653c",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSWZrZUFxVlJVa3ZmOFFETXEwaVNmbXNBZGRqWEdBeEFEcGtwcVUxQ1hpSkc2eGVoRlZjOHVkeFQxSjdCNWVxbng0TlJ6UkhRdDJDczBYbFoyel9zWE1rSzgzQkdWWV9FQnRHUDBoLTRFeE12c3dGOTE1OVl3RlFwTl9mZW9hY21TNm41VEFCNl9QYUlNdmt4WktONTM5bU0?oc=5",
+      "title": "Mason County approves development of hyperscale data center for Meta",
+      "summary": "",
+      "publishedAt": "2026-10-15T10:35:29.000Z",
+      "publisher": "Yahoo",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "766b0c1a588e4e2f8d41c8263e2b13d4dad11e28",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQakJwR184dHpOZTdMcGFIUFUwdVNDeTBnelFtd1FwMzY5NmhWT0x1RmYxbFRlTm5WSUt6dVFjbnVwR1VRTXV0SEQwY0hRM1pWU1ZwdHRkWXFTUjh3clI2UFlJb1pBX3RBYkNWbjVodzU5SWN6VnpQWmQ5OEpaTlAzdW9jNFpLOGtxUU54alRzbTRmSWZZd3V6Wg?oc=5",
+      "title": "Meta data center credits draw congressional scrutiny",
+      "summary": "",
+      "publishedAt": "2026-10-15T08:56:22.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
       }
     },
     {
@@ -502,292 +540,102 @@
         "score": 3,
         "reason": "Technical or research update"
       }
-    },
+    }
+  ],
+  "newItems": [
     {
-      "id": "f084928e13b1c9698e99cc584a0eeddff41d3dee",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/magic-state-cultivation-quantum-computing",
-      "title": "Bringing the magic: Google breaks open a bottleneck in quantum computing",
-      "summary": "In a paper published in Science, Google has shown that Magic State Cultivation works on Google Quantum AI hardware.",
-      "publishedAt": "2026-10-15T18:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Technical or research update"
-      }
-    },
-    {
-      "id": "fa14b8f7db4605dfa58d6966f0032b53bc43f042",
+      "id": "4a2f3ca18eb9cee6e404d64432a48a189cc310da",
       "company": "OpenAI",
       "sourceKind": "official",
       "sourceId": "openai-newsroom",
       "sourceLabel": "OpenAI Newsroom",
       "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-      "title": "Teaching students to think and learn through questions",
-      "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
-      "publishedAt": "2026-10-15T13:00:00.000Z",
+      "url": "https://openai.com/index/benefit-street-partners",
+      "title": "Benefit Street Partners answers questions faster with Codex",
+      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+      "publishedAt": "2026-10-16T00:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Technical or research update"
-      }
-    }
-  ],
-  "newItems": [
-    {
-      "id": "ea7680b00d2a65137362a7e11316f251c8d1da22",
-      "company": "Google",
-      "sourceKind": "external",
-      "sourceId": "external-google-major",
-      "sourceLabel": "Major External News - Google",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQV0xWUHJTd1gxSGR5RTNNQ1NhZ2hNdWpyci15aWt5OFFCUGVZMTNWQllEU19nR05NalZLNWhPOXVBci0tUjkzRm1JMTRjVGoyZTk4ZWtxU1ZSNnNWMS0wMGU0MGZtNm5TdnFpUzlXQVQzWWs2dXRoemtrZHVrVWl5bndwZmhWMlpTR3lpVjh5Q2g0dW5I?oc=5",
-      "title": "CFTC Wants to Drop Gemini’s $5M Settlement. A Judge Just Said No",
-      "summary": "",
-      "publishedAt": "2026-10-16T16:36:04.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
         "bucket": "critical",
-        "score": 7,
+        "score": 6,
         "reason": "Corporate move or major external event"
       }
     },
     {
-      "id": "7914b89cf60fac69603342deb636e00ce69bac6b",
-      "company": "Google",
-      "sourceKind": "external",
-      "sourceId": "external-google-major",
-      "sourceLabel": "Major External News - Google",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPamRGbnhqOWFNVXc1dk9nVTI5ZExzTHcwbHZTdTQxVDNfdXNvQVhseGpMNDlneFB4TXJwU0FWa291YlB2OU1uRS1ITWJ3T3VIOVBtSkVaYzRwSTlUWVRUOWhwWG85UHI0RnBQOV9lLXE1NW5XZ0dtdXBsVk1oU0lJaHZMNFJYRUhtYmNMdHU4NXEyTmpneFdHeWZoQXJqXzBvN1hMUg?oc=5",
-      "title": "Judge rejects CFTC, Gemini bid to vacate $5 million settlement",
-      "summary": "",
-      "publishedAt": "2026-10-16T16:10:37.000Z",
-      "publisher": "Reuters",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "2806a052d04f5a0f6cd4b378921e716b68911ea5",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQazQyR3NFWURrZk9wZ0hHdC1xUHd6UGhzdjhqN2FKSnFJb0pyUHhjbkY3THg2M3FrUXJTNHRyOWZnNGtTUEkwOUNEUnAtRjdYUHRwY2ltNXlhdjluZlVmRzV5RV9WSDhQQnJKalEzZGVKWVlEZWZnQVlDeVZEN2xVU3dLaWlmVVQ0YlFUMFIyMVFuQW9fc05OTlg3Vk9WSUtkVWhJbA?oc=5",
-      "title": "Microsoft's Business Software Proposed to Receive Increased UK Regulatory Scrutiny",
-      "summary": "",
-      "publishedAt": "2026-10-16T10:11:51.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "958fd9da506e19f1b9d70eff4d644ccc9f6de602",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNHM1MTVqTWp0bHp6YnZpeVB6QWtubVBPMmx5LVlvd2FDb1ExYTYxWEZNeU5VM3ZtMUJhZzJnck02Tk5aYnFEUm1NbU12OWhUMTJ2Vi1xbkUtc3NRODZzTWdHZ3publBrYWdUdnJGOUt6a0RxbUdPT0hsbzRjTG5VOERuTHdSWmZTYUlYM1RNZ1ItUWFQOE5mOTlZdEFfQlozaExNTlkzSQ?oc=5",
-      "title": "UK competition regulator targets Microsoft's business software grip",
-      "summary": "",
-      "publishedAt": "2026-10-16T09:10:19.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "67d233883f6066f0cc0ff4a2397d16d442267a8c",
-      "company": "Google",
-      "sourceKind": "external",
-      "sourceId": "external-google-major",
-      "sourceLabel": "Major External News - Google",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSEo1M19SOE9TQUZrZl9ibkQxVE12LU5ZZllPS3doYUJVUXJRVHZhbzNpYnoxVHBYaHlhUmFoZk1mMm5SQm9jUTQ4Z0RuY0dsZkg4cjNDUjh4dXEtNFQ0Yi1ZMzYyX0tVWU5Kb0dMb2F4WTVUVzBySUU1YVJLeW9ZdWU0S2Y1TnBJOXp0NUZJS1ZZemg5ci15Y0Q0NHdtRkttYTl3bkNNWF9Sb01iaWc?oc=5",
-      "title": "Judge Rejects Gemini, CFTC Bid to Undo $5 Million Settlement",
-      "summary": "",
-      "publishedAt": "2026-10-15T23:05:18.000Z",
-      "publisher": "Bloomberg.com",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "e59ced12bdd3d45db5bce4d99506dd4342b45ade",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZ2FaLUFwck1kbDNtaXhoNy1uNWV2MXBBbXBDV0hGcU5UVE9VbUQ2dEdYSVBQTXdBV0R1NG9OaWg3c0Q1RTZlY05WdXpHOV9fUWNBWVlKSkRtd1EwdVBPV3ZmYlhpY1Y5WHNIa212R3oyTEhqTzNFS0N0VTVNRjJaRENkWmpYTlVpQV9FZWR0VzgxQjYzSXM2M0I0NWdPbHpn?oc=5",
-      "title": "Eight states sue OpenAI saying ChatGPT hurt kids and lied to adults",
-      "summary": "",
-      "publishedAt": "2026-10-15T19:07:00.000Z",
-      "publisher": "Fortune",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "a82bd667ce4ecfa936b3ced070bacd2c0ced3754",
+      "id": "002bb1d551525bd01b51bc22c2b7b1ec2237c27c",
       "company": "Anthropic",
       "sourceKind": "external",
       "sourceId": "external-anthropic-major",
       "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQclJJeWhjZUtvMjhOTE5UZ0duRVdxR21nVlVxdERqYTZRMWFUX2FhYnlieVN1TDJ5XzJjZ1Y2ampWZktHN1J4SGZWaTNWd0xvbEE3Q2lOUk52eXhjT0NNczAzcm1OVndJVFVSTnBhRlhiOGNGcXBJekVUVUhHUEszanZZUXM1dUV0QXUtMGFTMjJQbG4yckRYcg?oc=5",
-      "title": "FTC Subpoenas OpenAI and Anthropic as AI Safety Incidents Trigger Consumer Protection Investigation",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVnB1RXlFY1hwNUhQbnJrN1pzMUlaS1hncHo4ODNZd1R1NDFtVTFOWFd0dkdqNVlQaEhPbVlydjdDR3poUEd6ZTNkaUhOX01LbUJYVmZJU3VLczVEMmdyQldwbm5mNWd1ZVZnS1BjR3JBRFJnM0twVzcybXYyc3JwaDk0VjBlcFktOGR1Z3lhYmVrdTQ5Z3F0ZjNJM2N4N3NvSjBIamZJNA?oc=5",
+      "title": "Anthropic offers Blackstone double-digit yield in chip-financing deal, FT reports",
       "summary": "",
-      "publishedAt": "2026-10-15T18:50:58.000Z",
-      "publisher": "Yahoo",
+      "publishedAt": "2026-10-17T01:01:00.000Z",
+      "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
       }
     },
     {
-      "id": "a72d1e4da6b0e1062a21232ab241fb1975aaab08",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-      "title": "Bringing GPT-Rosalind to academic research labs",
-      "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
-      "publishedAt": "2026-10-15T19:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "ee90a69035d2ec4089172ffa0e26179b0dbbb630",
+      "id": "9fb835ef6b3c7c5edf7ac8e4346eb37f30ac6fb0",
       "company": "OpenAI",
       "sourceKind": "external",
       "sourceId": "external-openai-major",
       "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOd0x1RGVkZFl3dDgteFlzSGt1cS1xei1XMndzX0lxNHBiSzdvclVtdTNwSkFzdkgwQnVFRFZDT191WTBLMDNvSURDdmRWU2dyOXgtYlo5SUREenhSSVVvUGRVWGtxQ2M1bGk2OHIxRjBIYm9nTTJGQTZmSS1DWE9sbzhOckdDdXFMeHdGQmNjVTRaN2FveWZQU2dyT2R1T2psZG5QRFIyY2ZzaDBfd2lFamk3MFFzX213MmZyaWFsYmtwUFJtenlkVjR3N3AtTXRPelNZbg?oc=5",
-      "title": "OpenAI–Hugging Face breach is a great example of how 'potent' these AI models are, says Cohere CEO",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWVFmQXR5RHg1bUk3T29CM001WGwtbGNwNGNhRlZqc1hfSms4Sk9vbE1iZHp0eGktbG8zZ21ONmxIWThTUHR0a0ZCajJ0bUVhYkpqOG9MX01zdF9mMTNBV1hzcFdJTERjZXYzb0hZRDhEU25BT1JCLUhaRW9EdEczd2xHTUZEbXpwaC0yaG5WMGkyeG1nVWc?oc=5",
+      "title": "Alleged OpenAI security breach \"underscores how big the challenge is\" to foil espionage: tech editor",
       "summary": "",
-      "publishedAt": "2026-10-16T14:51:01.000Z",
-      "publisher": "CNBC",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "6c97feaf5b06ce4939d3e8a9dc0f86495933cdb0",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRW4tSGppV2U0ZWtvaXBsQmlyaDVVLVFCSmJNMWdmMHpod0FWd25kUXRNQzFvZXJPTmhoQUNvMlFrQzI3NjBQVG9McWFPRHdUODhMbVItOGg4S0N3ZmJ4R2psZVd1aWFZM2M0aEY4R3VaYnFZWUxhOFZiRXAxTnc5UG9hMm1ERGpKbURkX3BWYzQ5UWl3THBFTDhWUWR0SVhUSWJsekpMZjM4OUZRQl9BVmY2djVKRENDSldCSUpOWmdvbHVK?oc=5",
-      "title": "Investors temper Anthropic IPO valuation expectations over revenue growth slowdown, sources say",
-      "summary": "",
-      "publishedAt": "2026-10-15T21:00:00.000Z",
-      "publisher": "Reuters",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "b9bd0fe8a96fd70647d34573eb6d6db8c2d1653c",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSWZrZUFxVlJVa3ZmOFFETXEwaVNmbXNBZGRqWEdBeEFEcGtwcVUxQ1hpSkc2eGVoRlZjOHVkeFQxSjdCNWVxbng0TlJ6UkhRdDJDczBYbFoyel9zWE1rSzgzQkdWWV9FQnRHUDBoLTRFeE12c3dGOTE1OVl3RlFwTl9mZW9hY21TNm41VEFCNl9QYUlNdmt4WktONTM5bU0?oc=5",
-      "title": "Mason County approves development of hyperscale data center for Meta",
-      "summary": "",
-      "publishedAt": "2026-10-15T10:35:29.000Z",
+      "publishedAt": "2026-10-14T23:02:04.000Z",
       "publisher": "Yahoo",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
         "score": 4,
-        "reason": "Trusted external coverage"
+        "reason": "Safety, security, or policy update"
       }
     },
     {
-      "id": "288da68e243b3cca871fbb3e534411850b9e40de",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPREFXR25nQUF4WXJFTFcwN01WaS1OUWphZkFKWmRLVFlza2c3Q194d1JVdWdpRU9LWlNyZlE4REZEUEdhZzA4Ykc4UEpxZmdaaUp5ckZIcG5zNXdOYUdIYm9WQ3JxOXktR2I0d1Jab0g1T0lRcERma2FrUmx6ekZoRGJPazE?oc=5",
-      "title": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
-      "summary": "",
-      "publishedAt": "2026-10-14T22:06:31.000Z",
-      "publisher": "Financial Times",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "bb9f592d5f654f968da50a776979321db7a18821",
-      "company": "Google",
+      "id": "65442e708214c10b88da99a535be852d30396736",
+      "company": "OpenAI",
       "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/three-tips-study-gemini-notebook",
-      "title": "We’re sharing 3 tips to study smarter with Gemini Notebook.",
-      "summary": "Master your exams with Google Gemini Notebook’s new 60-second video overviews and interactive quiz formats. Try these study tools at notebook.google.",
-      "publishedAt": "2026-10-16T16:00:00.000Z",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/itau-generative-ai",
+      "title": "How Itaú is building generative AI for its entire customer base",
+      "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+      "publishedAt": "2026-10-16T19:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
+        "score": 4,
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "766b0c1a588e4e2f8d41c8263e2b13d4dad11e28",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQakJwR184dHpOZTdMcGFIUFUwdVNDeTBnelFtd1FwMzY5NmhWT0x1RmYxbFRlTm5WSUt6dVFjbnVwR1VRTXV0SEQwY0hRM1pWU1ZwdHRkWXFTUjh3clI2UFlJb1pBX3RBYkNWbjVodzU5SWN6VnpQWmQ5OEpaTlAzdW9jNFpLOGtxUU54alRzbTRmSWZZd3V6Wg?oc=5",
+      "title": "Meta data center credits draw congressional scrutiny",
+      "summary": "",
+      "publishedAt": "2026-10-15T08:56:22.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
         "score": 3,
-        "reason": "Technical or research update"
+        "reason": "Trusted external coverage"
       }
     }
   ],
