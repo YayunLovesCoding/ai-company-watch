@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T16:54:52.823Z",
+  "generatedAt": "2026-10-18T17:09:13.088Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -76,15 +76,53 @@
     }
   ],
   "totals": {
-    "fetched": 48,
+    "fetched": 44,
     "deduped": 24,
-    "new": 5,
+    "new": 3,
     "byKind": {
-      "official": 7,
-      "external": 17
+      "official": 9,
+      "external": 15
     }
   },
   "items": [
+    {
+      "id": "642156bf494f3ea90a9b26f8cf701a5afd78a204",
+      "company": "Google",
+      "sourceKind": "external",
+      "sourceId": "external-google-major",
+      "sourceLabel": "Major External News - Google",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQT0JnYlc1SXZYa2pTVFRBNGJnenZPZXgydnlPYVpxN3BIeXRhSkpDT3FFbXVNbnlSUG9sMnNwclMtNlNjU0JhY3RDSXRkMHp4VWJLaWFCc1pxdnRVSHZtWkZRTWJVeExKc0NUZk5IcUxkTDdWbEU4cDZPTVBJeThBQm5YSU9PRXJ1UUdtbUlKeDFVMW9IUEJV?oc=5",
+      "title": "Unity Stock In Focus After Google AI Game Creation Partnership",
+      "summary": "",
+      "publishedAt": "2026-10-18T02:16:00.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "5dd1db8251f72702535ee79f2cd1337644af2c61",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE95VmhydWdNYk4tSUlIUVBQcmlYMGRrbGQxc1NOTF9KQnB6TlBnTnBJaG9OdFR2NVNCQkhYME52S3RQZzhRME5UQlNJZUIzazhIZzZJ?oc=5",
+      "title": "OpenAI Accelerates Ad Push with Meta Hires & Slashed Prices, Apple Antitrust Worries Developers — TITV [Video]",
+      "summary": "",
+      "publishedAt": "2026-10-16T19:10:59.000Z",
+      "publisher": "The Information",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
     {
       "id": "ea7680b00d2a65137362a7e11316f251c8d1da22",
       "company": "Google",
@@ -100,7 +138,7 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 7,
+        "score": 6,
         "reason": "Corporate move or major external event"
       }
     },
@@ -119,45 +157,7 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "2806a052d04f5a0f6cd4b378921e716b68911ea5",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQazQyR3NFWURrZk9wZ0hHdC1xUHd6UGhzdjhqN2FKSnFJb0pyUHhjbkY3THg2M3FrUXJTNHRyOWZnNGtTUEkwOUNEUnAtRjdYUHRwY2ltNXlhdjluZlVmRzV5RV9WSDhQQnJKalEzZGVKWVlEZWZnQVlDeVZEN2xVU3dLaWlmVVQ0YlFUMFIyMVFuQW9fc05OTlg3Vk9WSUtkVWhJbA?oc=5",
-      "title": "Microsoft's Business Software Proposed to Receive Increased UK Regulatory Scrutiny",
-      "summary": "",
-      "publishedAt": "2026-10-16T10:11:51.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "958fd9da506e19f1b9d70eff4d644ccc9f6de602",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNHM1MTVqTWp0bHp6YnZpeVB6QWtubVBPMmx5LVlvd2FDb1ExYTYxWEZNeU5VM3ZtMUJhZzJnck02Tk5aYnFEUm1NbU12OWhUMTJ2Vi1xbkUtc3NRODZzTWdHZ3publBrYWdUdnJGOUt6a0RxbUdPT0hsbzRjTG5VOERuTHdSWmZTYUlYM1RNZ1ItUWFQOE5mOTlZdEFfQlozaExNTlkzSQ?oc=5",
-      "title": "UK competition regulator targets Microsoft's business software grip",
-      "summary": "",
-      "publishedAt": "2026-10-16T09:10:19.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
+        "score": 6,
         "reason": "Corporate move or major external event"
       }
     },
@@ -176,7 +176,7 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 7,
+        "score": 6,
         "reason": "Corporate move or major external event"
       }
     },
@@ -192,44 +192,6 @@
       "summary": "",
       "publishedAt": "2026-10-15T18:50:58.000Z",
       "publisher": "Yahoo",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "4fa7646f448a251fb8cb48fd384d14a83207d745",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWkZXOGQtY20wYks4cjUyN3lSZEFCNDJvYWVlSGxra0IyOHQ5bEVUTC1jU0E5aU1WY1Y4NFZuT3lvX2JOdjhIeHJyaWVwWG5QVExsUjZSeUhQS2tObzM2Wlg1RjY4bGtzaWhOclRDNnRqMXdINTI4bGJtNkxYOEEtUFo0VDNwUWFuT3Z4b2tFRGIxWlNwXzhnTzI1Mnl5OGl3WXZxS25rblVrbTZtdlNjNFVRbXI?oc=5",
-      "title": "Apple, OpenAI Head to Court in High-Stakes AI Trade Secret Fight",
-      "summary": "",
-      "publishedAt": "2026-10-14T21:59:36.000Z",
-      "publisher": "Bloomberg.com",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "61905745a4674cf95fb526bad6bb32629217699d",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVzd6Z2JRbHV5N3REdmVJTWtnU2RSVDdYUFlJWWdab0hsQWVQUkZwQmEzb0QxcEhJQm5JZXc5WXVTRFluSXhBTW9RZnVOLVc0aG1Yd3NBbC1laXl2N19ZN0I0eDJ1TEo5OElrbXV3R090TzFGNExUellnc0taZ29xYXpRWGpVWWV0RjRiWHU1ZWdHNTh1Wk9fcTZlTE83M09xTmY2MzFLYw?oc=5",
-      "title": "Report: OpenAI Interested in Acquiring Trail of Bits",
-      "summary": "",
-      "publishedAt": "2026-10-14T16:05:54.000Z",
-      "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -271,27 +233,8 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "a72d1e4da6b0e1062a21232ab241fb1975aaab08",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-      "title": "Bringing GPT-Rosalind to academic research labs",
-      "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
-      "publishedAt": "2026-10-15T19:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
         "score": 5,
-        "reason": "Flagship model or product launch"
+        "reason": "Corporate move or major external event"
       }
     },
     {
@@ -311,6 +254,25 @@
         "bucket": "critical",
         "score": 5,
         "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "64f8d6a842941d972eca6577d61105ab9b076e2a",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLTRuYTBta3p6RENuTVRJdWlGTW9qV1pPYmdZWl9qR1BEN1k4czdONmx5elpCa3hfOTExaWJSRkQ5RHE4QVFjcmhxa3lSc1c2a0x5aVlCUThkTElreHkzbG81RG5lUGdzSkNCbU9JRmRIc0Fqb0hXNngxRG1vTmJGNmVuU2Nwclc1R3hONHFuWi1OSDhRUzNXalNIS21pb3gxeHZDVy1uSnd1bnpmYUwxdVNn?oc=5",
+      "title": "OpenCode breach exposes stored OpenAI and Anthropic keys, prompts urgent key rotation",
+      "summary": "",
+      "publishedAt": "2026-10-17T18:57:21.000Z",
+      "publisher": "Startup Fortune",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
       }
     },
     {
@@ -344,25 +306,6 @@
       "summary": "",
       "publishedAt": "2026-10-17T01:01:00.000Z",
       "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "ee90a69035d2ec4089172ffa0e26179b0dbbb630",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOd0x1RGVkZFl3dDgteFlzSGt1cS1xei1XMndzX0lxNHBiSzdvclVtdTNwSkFzdkgwQnVFRFZDT191WTBLMDNvSURDdmRWU2dyOXgtYlo5SUREenhSSVVvUGRVWGtxQ2M1bGk2OHIxRjBIYm9nTTJGQTZmSS1DWE9sbzhOckdDdXFMeHdGQmNjVTRaN2FveWZQU2dyT2R1T2psZG5QRFIyY2ZzaDBfd2lFamk3MFFzX213MmZyaWFsYmtwUFJtenlkVjR3N3AtTXRPelNZbg?oc=5",
-      "title": "OpenAI–Hugging Face breach is a great example of how 'potent' these AI models are, says Cohere CEO",
-      "summary": "",
-      "publishedAt": "2026-10-16T14:51:01.000Z",
-      "publisher": "CNBC",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -409,6 +352,25 @@
       }
     },
     {
+      "id": "a72d1e4da6b0e1062a21232ab241fb1975aaab08",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+      "title": "Bringing GPT-Rosalind to academic research labs",
+      "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+      "publishedAt": "2026-10-15T19:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
       "id": "61a2ef3c9ba432218a38a684a0b99c21b642add0",
       "company": "Meta",
       "sourceKind": "official",
@@ -447,17 +409,17 @@
       }
     },
     {
-      "id": "b9bd0fe8a96fd70647d34573eb6d6db8c2d1653c",
-      "company": "Meta",
+      "id": "ee90a69035d2ec4089172ffa0e26179b0dbbb630",
+      "company": "OpenAI",
       "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSWZrZUFxVlJVa3ZmOFFETXEwaVNmbXNBZGRqWEdBeEFEcGtwcVUxQ1hpSkc2eGVoRlZjOHVkeFQxSjdCNWVxbng0TlJ6UkhRdDJDczBYbFoyel9zWE1rSzgzQkdWWV9FQnRHUDBoLTRFeE12c3dGOTE1OVl3RlFwTl9mZW9hY21TNm41VEFCNl9QYUlNdmt4WktONTM5bU0?oc=5",
-      "title": "Mason County approves development of hyperscale data center for Meta",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOd0x1RGVkZFl3dDgteFlzSGt1cS1xei1XMndzX0lxNHBiSzdvclVtdTNwSkFzdkgwQnVFRFZDT191WTBLMDNvSURDdmRWU2dyOXgtYlo5SUREenhSSVVvUGRVWGtxQ2M1bGk2OHIxRjBIYm9nTTJGQTZmSS1DWE9sbzhOckdDdXFMeHdGQmNjVTRaN2FveWZQU2dyT2R1T2psZG5QRFIyY2ZzaDBfd2lFamk3MFFzX213MmZyaWFsYmtwUFJtenlkVjR3N3AtTXRPelNZbg?oc=5",
+      "title": "OpenAI–Hugging Face breach is a great example of how 'potent' these AI models are, says Cohere CEO",
       "summary": "",
-      "publishedAt": "2026-10-15T10:35:29.000Z",
-      "publisher": "Yahoo",
+      "publishedAt": "2026-10-16T14:51:01.000Z",
+      "publisher": "CNBC",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -466,17 +428,17 @@
       }
     },
     {
-      "id": "766b0c1a588e4e2f8d41c8263e2b13d4dad11e28",
+      "id": "99bc9412815348afec4c929b7b616451d1ef0ef6",
       "company": "Meta",
       "sourceKind": "external",
       "sourceId": "external-meta-major",
       "sourceLabel": "Major External News - Meta",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQakJwR184dHpOZTdMcGFIUFUwdVNDeTBnelFtd1FwMzY5NmhWT0x1RmYxbFRlTm5WSUt6dVFjbnVwR1VRTXV0SEQwY0hRM1pWU1ZwdHRkWXFTUjh3clI2UFlJb1pBX3RBYkNWbjVodzU5SWN6VnpQWmQ5OEpaTlAzdW9jNFpLOGtxUU54alRzbTRmSWZZd3V6Wg?oc=5",
-      "title": "Meta data center credits draw congressional scrutiny",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUTVRaUJmS0lMS3NQX0VjdTRFdVFZNmoycGc5Q3hCVExBSHpfaXpwTF9CdnF5RHZoaW1WZGRHLUxwTWEzMFF2cVMyWlBfUThvY0NfYzh6cWxuMGtuT3lMUGdNZnYwUk05X3huT0xkcmhzRVliSmMtbXhyc2hvQWkya3Y2bnFVTGlEUjVHNDVDNndna1hGcmpldDVhQQ?oc=5",
+      "title": "Exclusive / Meta data center credits draw congressional scrutiny",
       "summary": "",
-      "publishedAt": "2026-10-15T08:56:22.000Z",
-      "publisher": "Yahoo Finance",
+      "publishedAt": "2026-10-15T08:56:00.000Z",
+      "publisher": "Semafor",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -523,6 +485,44 @@
       }
     },
     {
+      "id": "3a0b4572422c1a8cbc95ae7fb7158fc8dc49f9d0",
+      "company": "Anthropic",
+      "sourceKind": "official",
+      "sourceId": "anthropic-news",
+      "sourceLabel": "Anthropic News",
+      "homepageUrl": "https://www.anthropic.com/news",
+      "url": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy",
+      "title": "Responsible Scaling Policy",
+      "summary": "",
+      "publishedAt": null,
+      "publisher": "",
+      "discoveryMethod": "anchor",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "a0fc52c7c407bf11d8b68ccf62e1b5e671a984b4",
+      "company": "Microsoft",
+      "sourceKind": "official",
+      "sourceId": "microsoft-ai",
+      "sourceLabel": "Microsoft AI",
+      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
+      "url": "https://news.microsoft.com/source/emea/features/how-kier-groups-louisa-finlay-is-using-copilot-to-drive-safety-and-productivity-in-the-construction-industry",
+      "title": "Read the story titled How Kier Group’s Louisa Finlay is using Copilot to drive safety and productivity in the construction industry",
+      "summary": "",
+      "publishedAt": null,
+      "publisher": "",
+      "discoveryMethod": "anchor",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
       "id": "bb9f592d5f654f968da50a776979321db7a18821",
       "company": "Google",
       "sourceKind": "official",
@@ -536,105 +536,67 @@
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
-        "bucket": "important",
-        "score": 3,
+        "bucket": "digest",
+        "score": 2,
         "reason": "Technical or research update"
       }
     }
   ],
   "newItems": [
     {
-      "id": "4a2f3ca18eb9cee6e404d64432a48a189cc310da",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/benefit-street-partners",
-      "title": "Benefit Street Partners answers questions faster with Codex",
-      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
-      "publishedAt": "2026-10-16T00:00:00.000Z",
-      "publisher": "",
+      "id": "642156bf494f3ea90a9b26f8cf701a5afd78a204",
+      "company": "Google",
+      "sourceKind": "external",
+      "sourceId": "external-google-major",
+      "sourceLabel": "Major External News - Google",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQT0JnYlc1SXZYa2pTVFRBNGJnenZPZXgydnlPYVpxN3BIeXRhSkpDT3FFbXVNbnlSUG9sMnNwclMtNlNjU0JhY3RDSXRkMHp4VWJLaWFCc1pxdnRVSHZtWkZRTWJVeExKc0NUZk5IcUxkTDdWbEU4cDZPTVBJeThBQm5YSU9PRXJ1UUdtbUlKeDFVMW9IUEJV?oc=5",
+      "title": "Unity Stock In Focus After Google AI Game Creation Partnership",
+      "summary": "",
+      "publishedAt": "2026-10-18T02:16:00.000Z",
+      "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 6,
+        "score": 7,
         "reason": "Corporate move or major external event"
       }
     },
     {
-      "id": "002bb1d551525bd01b51bc22c2b7b1ec2237c27c",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVnB1RXlFY1hwNUhQbnJrN1pzMUlaS1hncHo4ODNZd1R1NDFtVTFOWFd0dkdqNVlQaEhPbVlydjdDR3poUEd6ZTNkaUhOX01LbUJYVmZJU3VLczVEMmdyQldwbm5mNWd1ZVZnS1BjR3JBRFJnM0twVzcybXYyc3JwaDk0VjBlcFktOGR1Z3lhYmVrdTQ5Z3F0ZjNJM2N4N3NvSjBIamZJNA?oc=5",
-      "title": "Anthropic offers Blackstone double-digit yield in chip-financing deal, FT reports",
-      "summary": "",
-      "publishedAt": "2026-10-17T01:01:00.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "9fb835ef6b3c7c5edf7ac8e4346eb37f30ac6fb0",
+      "id": "5dd1db8251f72702535ee79f2cd1337644af2c61",
       "company": "OpenAI",
       "sourceKind": "external",
       "sourceId": "external-openai-major",
       "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWVFmQXR5RHg1bUk3T29CM001WGwtbGNwNGNhRlZqc1hfSms4Sk9vbE1iZHp0eGktbG8zZ21ONmxIWThTUHR0a0ZCajJ0bUVhYkpqOG9MX01zdF9mMTNBV1hzcFdJTERjZXYzb0hZRDhEU25BT1JCLUhaRW9EdEczd2xHTUZEbXpwaC0yaG5WMGkyeG1nVWc?oc=5",
-      "title": "Alleged OpenAI security breach \"underscores how big the challenge is\" to foil espionage: tech editor",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE95VmhydWdNYk4tSUlIUVBQcmlYMGRrbGQxc1NOTF9KQnB6TlBnTnBJaG9OdFR2NVNCQkhYME52S3RQZzhRME5UQlNJZUIzazhIZzZJ?oc=5",
+      "title": "OpenAI Accelerates Ad Push with Meta Hires & Slashed Prices, Apple Antitrust Worries Developers — TITV [Video]",
       "summary": "",
-      "publishedAt": "2026-10-14T23:02:04.000Z",
-      "publisher": "Yahoo",
+      "publishedAt": "2026-10-16T19:10:59.000Z",
+      "publisher": "The Information",
       "discoveryMethod": "feed",
       "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Safety, security, or policy update"
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
       }
     },
     {
-      "id": "65442e708214c10b88da99a535be852d30396736",
+      "id": "64f8d6a842941d972eca6577d61105ab9b076e2a",
       "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/itau-generative-ai",
-      "title": "How Itaú is building generative AI for its entire customer base",
-      "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
-      "publishedAt": "2026-10-16T19:00:00.000Z",
-      "publisher": "",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLTRuYTBta3p6RENuTVRJdWlGTW9qV1pPYmdZWl9qR1BEN1k4czdONmx5elpCa3hfOTExaWJSRkQ5RHE4QVFjcmhxa3lSc1c2a0x5aVlCUThkTElreHkzbG81RG5lUGdzSkNCbU9JRmRIc0Fqb0hXNngxRG1vTmJGNmVuU2Nwclc1R3hONHFuWi1OSDhRUzNXalNIS21pb3gxeHZDVy1uSnd1bnpmYUwxdVNn?oc=5",
+      "title": "OpenCode breach exposes stored OpenAI and Anthropic keys, prompts urgent key rotation",
+      "summary": "",
+      "publishedAt": "2026-10-17T18:57:21.000Z",
+      "publisher": "Startup Fortune",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
         "score": 4,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "766b0c1a588e4e2f8d41c8263e2b13d4dad11e28",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQakJwR184dHpOZTdMcGFIUFUwdVNDeTBnelFtd1FwMzY5NmhWT0x1RmYxbFRlTm5WSUt6dVFjbnVwR1VRTXV0SEQwY0hRM1pWU1ZwdHRkWXFTUjh3clI2UFlJb1pBX3RBYkNWbjVodzU5SWN6VnpQWmQ5OEpaTlAzdW9jNFpLOGtxUU54alRzbTRmSWZZd3V6Wg?oc=5",
-      "title": "Meta data center credits draw congressional scrutiny",
-      "summary": "",
-      "publishedAt": "2026-10-15T08:56:22.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
         "reason": "Trusted external coverage"
       }
     }
