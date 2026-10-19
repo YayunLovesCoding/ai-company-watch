@@ -1,35 +1,34 @@
 # AI Company Watch
 
-Generated: Oct 18, 2026, 10:09 AM PDT
+Generated: Oct 19, 2026, 12:42 PM PDT
 Lookback window: 7 day(s)
 Sources checked: 12
-Items fetched: 44
+Items fetched: 43
 Items kept: 24
 New items: 3
-External items kept: 15
-Official items kept: 9
+External items kept: 8
+Official items kept: 16
 
 ## Critical External News
 
-### Google - Unity Stock In Focus After Google AI Game Creation Partnership
-Source: Major External News - Google
+### OpenAI - Accenture Expands Federal AI Push With Google's Gemini Agents, Months After OpenAI Partnership
+Source: Major External News - OpenAI
 Publisher: Yahoo Finance
-Published: Oct 17, 2026
+Published: Oct 19, 2026
 Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMilwFBVV95cUxQT0JnYlc1SXZYa2pTVFRBNGJnenZPZXgydnlPYVpxN3BIeXRhSkpDT3FFbXVNbnlSUG9sMnNwclMtNlNjU0JhY3RDSXRkMHp4VWJLaWFCc1pxdnRVSHZtWkZRTWJVeExKc0NUZk5IcUxkTDdWbEU4cDZPTVBJeThBQm5YSU9PRXJ1UUdtbUlKeDFVMW9IUEJV?oc=5
+Link: https://news.google.com/rss/articles/CBMingFBVV95cUxOSll1aTZwN1Z3Y1g4b0h5UjF1eUs3Zlc4UTc5THpQOWk1MVMxRDNPdktkZ3R0dnNZS2xudlZiazBrbGN0MEZteXRQMV9fVlJRc3lacXpnUGppelNyUm9Jc0ZURkI4V1g3TVp4U1RjcW11eUxOLVByZmJFeTB6RjZkVGRkVUN0QXo4ejhyb2NpZjg5QVduNlNIUjRwckhydw?oc=5
 
-### OpenAI - OpenAI Accelerates Ad Push with Meta Hires & Slashed Prices, Apple Antitrust Worries Developers — TITV [Video]
-Source: Major External News - OpenAI
-Publisher: The Information
-Published: Oct 16, 2026
-Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMiU0FVX3lxTE95VmhydWdNYk4tSUlIUVBQcmlYMGRrbGQxc1NOTF9KQnB6TlBnTnBJaG9OdFR2NVNCQkhYME52S3RQZzhRME5UQlNJZUIzazhIZzZJ?oc=5
+## Official Company Updates
 
-## Important External News
+### Google - How to shape your slides and videos with Gemini Notebook
+Source: Google AI
+Published: Oct 19, 2026
+Why it matters: Routine official update
+Summary: Gemini Notebook is giving more creative control in the creation of Slide Decks and Video Overviews.
+Link: https://blog.google/innovation-and-ai/products/gemini-notebook/co-create-slides-videos
 
-### OpenAI - OpenCode breach exposes stored OpenAI and Anthropic keys, prompts urgent key rotation
-Source: Major External News - OpenAI
-Publisher: Startup Fortune
+### Anthropic - Investing in the public benefit
+Source: Anthropic News
 Published: Oct 17, 2026
-Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxNLTRuYTBta3p6RENuTVRJdWlGTW9qV1pPYmdZWl9qR1BEN1k4czdONmx5elpCa3hfOTExaWJSRkQ5RHE4QVFjcmhxa3lSc1c2a0x5aVlCUThkTElreHkzbG81RG5lUGdzSkNCbU9JRmRIc0Fqb0hXNngxRG1vTmJGNmVuU2Nwclc1R3hONHFuWi1OSDhRUzNXalNIS21pb3gxeHZDVy1uSnd1bnpmYUwxdVNn?oc=5
+Why it matters: Routine official update
+Link: https://www.anthropic.com/news/public-benefit-fund
