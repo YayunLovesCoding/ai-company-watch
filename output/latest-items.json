@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T18:23:29.221Z",
+  "generatedAt": "2026-10-21T18:29:24.234Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -76,15 +76,34 @@
     }
   ],
   "totals": {
-    "fetched": 42,
+    "fetched": 38,
     "deduped": 24,
-    "new": 11,
+    "new": 10,
     "byKind": {
-      "official": 14,
-      "external": 10
+      "official": 18,
+      "external": 6
     }
   },
   "items": [
+    {
+      "id": "4cfd86f145d5ba07d2163098533d088d2e253714",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTDFvdENpSndjLWtWdVRFSXRYWHJrVzNGTFJkY3pwc0s0eDNMYWxYWkVYZkxfTTJSdE5tdTJYRUctSUszdGt6VG9Jekl6am5JbVI4T1Y3MjRBTUZEOWJTSEhSTnFkYzVHT1RreWZuYmY1a1UweW9TMmlmaEJ3UWR4bEd5TllHVnBfQURXbVNOY0JfdlNMZ2hoZ29zSENFVlNidE9wTXVtem5SVjREMklXeWhqTQ?oc=5",
+      "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+      "summary": "",
+      "publishedAt": "2026-10-20T20:35:10.000Z",
+      "publisher": "TechCrunch",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
     {
       "id": "480a5b90ee8e7a6e3fbedf161d7a188eb172a47c",
       "company": "OpenAI",
@@ -95,7 +114,7 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMkpaOUNKeWsxZVN1WXZhZkFCMkxUSnpCUWJtTTdKdDYtd2tycEdxU0RJbmgyR3QzQ2FfS1o2dVJqQ090VE9vZFJ5RVZyZ1loYTljWnVZalBTNEJuWlFCb0MycGFtcFZXeUNUTTFwYlBpQzVyRkZjclR2UzJDVDVsNVVTcGVCSTJidEE?oc=5",
       "title": "Exclusive: OpenAI has acquired Orchestra Bio",
       "summary": "",
-      "publishedAt": "2026-10-20T18:01:46.000Z",
+      "publishedAt": "2026-10-20T18:05:00.000Z",
       "publisher": "Axios",
       "discoveryMethod": "feed",
       "classification": {
@@ -120,120 +139,6 @@
       "classification": {
         "bucket": "critical",
         "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "a49443f9d7e487a85aff741ebd636495de858d5e",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaGpsbVBOd2kxZzMyc0R4U2g4WnFVWEZXZXU4Y1V0Nll2RkEwV29qdVFMSW5hMXhyWXl0Tmk1SktZN3FmU2hub3U5aW53dk8teDJuZXd1OGJfWUpZOVdRazFDSVVselBJWDZzeGdGNGVPdXZhTTRWR214UDcxODBMTURNbm16X2NiVXZYVHpQQV9DZEl4bVc4UktoNA?oc=5",
-      "title": "Commvault Systems (CVLT) Could Be 5% Undervalued Following Microsoft 365 Security Launch",
-      "summary": "",
-      "publishedAt": "2026-10-20T12:10:15.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "59313c4cb9e112ccfa5edaa45d85770214dd2cfe",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPc015ZzZTaVlUbHJ5ckJxV194VDZLcVFUUF95U3E4TUhWcmpMNnlXMWJ6LVM0N0l6SmVSSzRjWXhzODZ0LTNhTTdLOXpzZjF3NmVrUGxUNE1BendxdmNLY3pJMS1xbTZTVktHZElyeXA5NDhtQWdzV0hhU0NLSlF4VUxoZXZMbGRKNUNyVTFVV1EtajJNdzdORGpKRmZPeXhzRnA5MFkyeFBwZw?oc=5",
-      "title": "How Investors Are Reacting To Commvault Systems (CVLT) Microsoft 365 Security Launch",
-      "summary": "",
-      "publishedAt": "2026-10-20T11:12:15.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "642156bf494f3ea90a9b26f8cf701a5afd78a204",
-      "company": "Google",
-      "sourceKind": "external",
-      "sourceId": "external-google-major",
-      "sourceLabel": "Major External News - Google",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQT0JnYlc1SXZYa2pTVFRBNGJnenZPZXgydnlPYVpxN3BIeXRhSkpDT3FFbXVNbnlSUG9sMnNwclMtNlNjU0JhY3RDSXRkMHp4VWJLaWFCc1pxdnRVSHZtWkZRTWJVeExKc0NUZk5IcUxkTDdWbEU4cDZPTVBJeThBQm5YSU9PRXJ1UUdtbUlKeDFVMW9IUEJV?oc=5",
-      "title": "Unity Stock In Focus After Google AI Game Creation Partnership",
-      "summary": "",
-      "publishedAt": "2026-10-18T02:16:00.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "f58bee442ef81cea077ccd3902b1dae0299802b1",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMzBlLUI4SUtBM0FSRUVKRWpWcmVnZDg0UkhTSG1lNEIwUTktaC1tYXJxVDZJYnJ2UUdSZVpZSmhzdEg2UHFXNWlWLUFOMkoxMXNoNGczcEtCbXJXX0Y3V3NtdHhFajZHOElyZDNKNHU4SEU5Q25PSzV3QzFvcXFJQmp4aHI0MkFuZkpnN2RKdHRyMVA2?oc=5",
-      "title": "Over 50 Projects with Claude Take CI&T to a New Partnership Tier",
-      "summary": "",
-      "publishedAt": "2026-10-14T13:00:00.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "dbaa902542534b3aef2de952931670bbaaa97f74",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
-      "title": "OpenAI acquires Orchestra Bio",
-      "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
-      "publishedAt": "2026-10-20T00:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "4a2f3ca18eb9cee6e404d64432a48a189cc310da",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/benefit-street-partners",
-      "title": "Benefit Street Partners answers questions faster with Codex",
-      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
-      "publishedAt": "2026-10-16T00:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
         "reason": "Corporate move or major external event"
       }
     },
@@ -276,41 +181,60 @@
       }
     },
     {
-      "id": "61a2ef3c9ba432218a38a684a0b99c21b642add0",
-      "company": "Meta",
-      "sourceKind": "official",
-      "sourceId": "meta-newsroom",
-      "sourceLabel": "Meta Newsroom",
-      "homepageUrl": "https://about.fb.com/news/",
-      "url": "https://about.fb.com/news/2026/10/meta-milans-pinacoteca-di-brera-and-essilorluxottica-expand-access-to-art-through-ai-glasses",
-      "title": "Meta, Milan’s Pinacoteca di Brera, and EssilorLuxottica Expand Access to Art Through AI Glasses",
-      "summary": "Today, Meta, Pinacoteca di Brera and EssilorLuxottica are proud to launch “Sensing Art &#8211; Discovering Masterpieces Beyond What Meets the Eye.” This pilot aims to explore how AI glasses can make art more accessible for people who are blind or with low vision &#8211; in colla...",
-      "publishedAt": "2026-10-14T16:00:57.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "64f8d6a842941d972eca6577d61105ab9b076e2a",
+      "id": "d3e123d86f8179abe944aaa39d6b0b051d51df1f",
       "company": "OpenAI",
       "sourceKind": "external",
       "sourceId": "external-openai-major",
       "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLTRuYTBta3p6RENuTVRJdWlGTW9qV1pPYmdZWl9qR1BEN1k4czdONmx5elpCa3hfOTExaWJSRkQ5RHE4QVFjcmhxa3lSc1c2a0x5aVlCUThkTElreHkzbG81RG5lUGdzSkNCbU9JRmRIc0Fqb0hXNngxRG1vTmJGNmVuU2Nwclc1R3hONHFuWi1OSDhRUzNXalNIS21pb3gxeHZDVy1uSnd1bnpmYUwxdVNn?oc=5",
-      "title": "OpenCode breach exposes stored OpenAI and Anthropic keys, prompts urgent key rotation",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ2RvdkF6TjJyWkllZXVuTDZCYWxFaEg4Y3NDNWdVV2w5cHk5eXJERHA3aHdHdV9vVklCMUo4SDA3MjZ4aml3N3QtaUpsdVptQzlFV3BEWjJGM0YzQW9pY09RZTNrVkdxbHZlRS1uMlJ1X3lrN0piZ1hPMlFEYndhU3ZZTHpFY3lPdHJSNTRxdUEyWk85NkVPYVRnTlVEZnd1WWRjdg?oc=5",
+      "title": "OpenAI President: Security Spend Should “Vastly Outstrip Software Spend.” Cue CrowdStrike",
       "summary": "",
-      "publishedAt": "2026-10-17T18:57:21.000Z",
-      "publisher": "Startup Fortune",
+      "publishedAt": "2026-10-19T18:14:06.000Z",
+      "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
-        "score": 3,
-        "reason": "Trusted external coverage"
+        "score": 4,
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "edef63b51aedc0121d1aea11f9472c530dce47d4",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/building-chatgpt-ad-stack",
+      "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+      "summary": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
+      "publishedAt": "2026-10-21T07:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "d3f519557f32dd3d643c27d4c9f89095ff53a6df",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+      "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+      "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
+      "publishedAt": "2026-10-21T07:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Safety, security, or policy update"
       }
     },
     {
@@ -333,22 +257,22 @@
       }
     },
     {
-      "id": "c11af53764ee9e90de4526a44b2ca8cbe3a2521a",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObElIMDREWVcyNDVBZERFd2VSSnd5SDc5VERHbXVGRmUzaERKZGh5RWowb0xLdFozUkk1Yk1WekpBV0pZdHNUaWt5ekhUak5UYXVvSUw5SWhta1ZNakllVFVWaHRVRmppanIzZUx4QlJqdU1kaUNkeGN6Y2E0N1ZGZzVjWUs?oc=5",
-      "title": "Senators Question Meta’s Data Center Tax Strategy",
-      "summary": "",
-      "publishedAt": "2026-10-14T14:48:05.000Z",
-      "publisher": "The New York Times",
+      "id": "1de8e62ff715d1f1b849a16afe7dfd3ed7898410",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+      "title": "Using thousands of AI agents to uncover new leads in biological data",
+      "summary": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
+      "publishedAt": "2026-10-21T04:50:00.000Z",
+      "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
         "score": 3,
-        "reason": "Trusted external coverage"
+        "reason": "Technical or research update"
       }
     },
     {
@@ -371,44 +295,6 @@
       }
     },
     {
-      "id": "7a364f356aab49466020015082ef4122a7394f52",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/low-resource-programming-languages",
-      "title": "Advancing coding in low‑resource programming languages",
-      "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
-      "publishedAt": "2026-10-19T12:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Technical or research update"
-      }
-    },
-    {
-      "id": "65442e708214c10b88da99a535be852d30396736",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/itau-generative-ai",
-      "title": "How Itaú is building generative AI for its entire customer base",
-      "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
-      "publishedAt": "2026-10-16T19:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
       "id": "a0fc52c7c407bf11d8b68ccf62e1b5e671a984b4",
       "company": "Microsoft",
       "sourceKind": "official",
@@ -425,6 +311,101 @@
         "bucket": "important",
         "score": 3,
         "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "4ab93569e260b2b0a16714b594221da5ccc8e4ab",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/att-legal",
+      "title": "How AT&T is rethinking in-house legal work with OpenAI",
+      "summary": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
+      "publishedAt": "2026-10-21T17:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "e38a3ad2196f1022dbb630a6ec269bedf0ae16be",
+      "company": "Microsoft",
+      "sourceKind": "official",
+      "sourceId": "microsoft-ai",
+      "sourceLabel": "Microsoft AI",
+      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
+      "url": "https://news.microsoft.com/source/emea/features/before-the-ambulance-arrives-how-ai-is-helping-the-nhs-rethink-patient-care",
+      "title": "Before the ambulance arrives: How AI is helping the NHS rethink patient care",
+      "summary": "Before the ambulance arrives: How AI is helping the NHS rethink patient care",
+      "publishedAt": "2026-10-21T16:24:40.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "74fcf21eca7add4a8265b1181e42f31fbfb429bc",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+      "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+      "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
+      "publishedAt": "2026-10-21T13:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "b67bba8524a92a555010a40ae338a341e8471dec",
+      "company": "Microsoft",
+      "sourceKind": "official",
+      "sourceId": "microsoft-ai",
+      "sourceLabel": "Microsoft AI",
+      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
+      "url": "https://news.microsoft.com/source/2026/10/21/microsoft-empowers-more-than-330000-volkswagen-group-employees-with-copilot",
+      "title": "Microsoft empowers more than 330,000 Volkswagen Group employees with Copilot",
+      "summary": "Microsoft empowers more than 330,000 Volkswagen Group employees with Copilot",
+      "publishedAt": "2026-10-21T12:00:08.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "61f4d0141ff303c02405716db977e4c6353bca59",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/openai-models-google-cloud",
+      "title": "OpenAI models are coming to Google Cloud",
+      "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
+      "publishedAt": "2026-10-21T12:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
       }
     },
     {
@@ -457,44 +438,6 @@
       "title": "New Gemini tools for small business owners",
       "summary": "We’re announcing new tools for Gemini — including a dedicated business landing page — to help small business owners around the world.",
       "publishedAt": "2026-10-20T16:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "b3fcb2e42d321123382678ef1b3ee803b99778a9",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/ted-taylor-restaurant",
-      "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
-      "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
-      "publishedAt": "2026-10-20T10:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "6cac32efa67078ed67f4d1c2edeac9f06d8f0f58",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/co-create-slides-videos",
-      "title": "How to shape your slides and videos with Gemini Notebook",
-      "summary": "Gemini Notebook is giving more creative control in the creation of Slide Decks and Video Overviews.",
-      "publishedAt": "2026-10-19T17:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -540,134 +483,153 @@
         "score": 2,
         "reason": "Technical or research update"
       }
-    }
-  ],
-  "newItems": [
-    {
-      "id": "480a5b90ee8e7a6e3fbedf161d7a188eb172a47c",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMkpaOUNKeWsxZVN1WXZhZkFCMkxUSnpCUWJtTTdKdDYtd2tycEdxU0RJbmgyR3QzQ2FfS1o2dVJqQ090VE9vZFJ5RVZyZ1loYTljWnVZalBTNEJuWlFCb0MycGFtcFZXeUNUTTFwYlBpQzVyRkZjclR2UzJDVDVsNVVTcGVCSTJidEE?oc=5",
-      "title": "Exclusive: OpenAI has acquired Orchestra Bio",
-      "summary": "",
-      "publishedAt": "2026-10-20T18:01:46.000Z",
-      "publisher": "Axios",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
     },
     {
-      "id": "4e2f126e16e96e8f4adc086c448b3a20684267cb",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE41U250MTRWUm1rSG1jbUlVOFp6bnVQb1g4SGI3dklyX2psUUlnT09BZkFYRTh1S2tIVVFDR1BPUWExa09VNWY5bGNqRGR4VUozd1FzcUhLazdyMDlDSS1HZ0s2WEd4T1pwR25FYmx0UENNTjlIdjhzcmJ2MC1SenM?oc=5",
-      "title": "The OpenAI bugging case had its (first) day in court",
-      "summary": "",
-      "publishedAt": "2026-10-20T09:01:00.000Z",
-      "publisher": "Fortune",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "a49443f9d7e487a85aff741ebd636495de858d5e",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaGpsbVBOd2kxZzMyc0R4U2g4WnFVWEZXZXU4Y1V0Nll2RkEwV29qdVFMSW5hMXhyWXl0Tmk1SktZN3FmU2hub3U5aW53dk8teDJuZXd1OGJfWUpZOVdRazFDSVVselBJWDZzeGdGNGVPdXZhTTRWR214UDcxODBMTURNbm16X2NiVXZYVHpQQV9DZEl4bVc4UktoNA?oc=5",
-      "title": "Commvault Systems (CVLT) Could Be 5% Undervalued Following Microsoft 365 Security Launch",
-      "summary": "",
-      "publishedAt": "2026-10-20T12:10:15.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "59313c4cb9e112ccfa5edaa45d85770214dd2cfe",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPc015ZzZTaVlUbHJ5ckJxV194VDZLcVFUUF95U3E4TUhWcmpMNnlXMWJ6LVM0N0l6SmVSSzRjWXhzODZ0LTNhTTdLOXpzZjF3NmVrUGxUNE1BendxdmNLY3pJMS1xbTZTVktHZElyeXA5NDhtQWdzV0hhU0NLSlF4VUxoZXZMbGRKNUNyVTFVV1EtajJNdzdORGpKRmZPeXhzRnA5MFkyeFBwZw?oc=5",
-      "title": "How Investors Are Reacting To Commvault Systems (CVLT) Microsoft 365 Security Launch",
-      "summary": "",
-      "publishedAt": "2026-10-20T11:12:15.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "dbaa902542534b3aef2de952931670bbaaa97f74",
-      "company": "OpenAI",
+      "id": "d7f4f48324ba74158d1a73c8b397d97e7125a944",
+      "company": "Meta",
       "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
-      "title": "OpenAI acquires Orchestra Bio",
-      "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
-      "publishedAt": "2026-10-20T00:00:00.000Z",
+      "sourceId": "meta-newsroom",
+      "sourceLabel": "Meta Newsroom",
+      "homepageUrl": "https://about.fb.com/news/",
+      "url": "https://about.fb.com/news/2026/10/more-than-three-quarters-of-small-business-owners-say-ai-makes-them-more-productive-but-most-need-more-guidance",
+      "title": "More Than Three Quarters of Small Business Owners Say AI Makes Them More Productive, But Most Need More Guidance",
+      "summary": "New Meta research across nine APAC markets shows how AI is helping small businesses grow, compete with larger rivals and reach customers across borders. The post More Than Three Quarters of Small Business Owners Say AI Makes Them More Productive, But Most Need More Guidance",
+      "publishedAt": "2026-10-15T00:50:50.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Technical or research update"
       }
     },
     {
-      "id": "6c45e6e74c4974e58bce3e9b96d2d2448fa259bf",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbkJjX3V2dDNuQ2pmZFRVNWw4R3pfQ0dTRUREQmd2X3U2SzVoVGxHT2ZyQVdnbmxXQzdSb1MxeHcySXBvNkd6dmFoZzJicFNCUG5hQ3lvNS1NbXJJUFhEY3BJcmo0VVJmNExCVzlMWHRxTkhkamR3UlFWMnVfVDJOaFY3dVM3VEVyS3Bxbk9wdE1kNksxaXl3TTREZw?oc=5",
-      "title": "OpenAI Seeks $30 Billion in Funding at Potential $1.4 Trillion Valuation, Reuters Reports",
-      "summary": "",
-      "publishedAt": "2026-10-20T10:41:59.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "6f78b8e1398a0d49f4bd0c11bbe17f28393b5bbd",
+      "id": "98fa6ec9cb84a23cbbc15e07a6719c544cbd6ccd",
       "company": "Microsoft",
       "sourceKind": "official",
       "sourceId": "microsoft-ai",
       "sourceLabel": "Microsoft AI",
       "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
-      "url": "https://news.microsoft.com/source/emea/features/microsoft-opens-e1m-dream-space-hub-at-its-data-centre-campus-in-grange-castle-to-bring-stem-and-ai-skills-to-young-people-in-surrounding-communities",
-      "title": "Microsoft opens a hands-on STEM and AI hub for students at its Grange Castle data center campus",
-      "summary": "Microsoft opens a hands-on STEM and AI hub for students at its Grange Castle data center campus",
-      "publishedAt": "2026-10-20T16:29:35.000Z",
+      "url": "https://news.microsoft.com/source/features/ai/retrochimera-new-research-advances-ai-assisted-molecule-synthesis",
+      "title": "Read the story titled RetroChimera: New research advances AI-assisted molecule synthesis",
+      "summary": "",
+      "publishedAt": null,
+      "publisher": "",
+      "discoveryMethod": "anchor",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Technical or research update"
+      }
+    },
+    {
+      "id": "6cac32efa67078ed67f4d1c2edeac9f06d8f0f58",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/co-create-slides-videos",
+      "title": "How to shape your slides and videos with Gemini Notebook",
+      "summary": "Gemini Notebook is giving more creative control in the creation of Slide Decks and Video Overviews.",
+      "publishedAt": "2026-10-19T17:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 1,
+        "reason": "Routine official update"
+      }
+    }
+  ],
+  "newItems": [
+    {
+      "id": "4cfd86f145d5ba07d2163098533d088d2e253714",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTDFvdENpSndjLWtWdVRFSXRYWHJrVzNGTFJkY3pwc0s0eDNMYWxYWkVYZkxfTTJSdE5tdTJYRUctSUszdGt6VG9Jekl6am5JbVI4T1Y3MjRBTUZEOWJTSEhSTnFkYzVHT1RreWZuYmY1a1UweW9TMmlmaEJ3UWR4bEd5TllHVnBfQURXbVNOY0JfdlNMZ2hoZ29zSENFVlNidE9wTXVtem5SVjREMklXeWhqTQ?oc=5",
+      "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+      "summary": "",
+      "publishedAt": "2026-10-20T20:35:10.000Z",
+      "publisher": "TechCrunch",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "d3e123d86f8179abe944aaa39d6b0b051d51df1f",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ2RvdkF6TjJyWkllZXVuTDZCYWxFaEg4Y3NDNWdVV2w5cHk5eXJERHA3aHdHdV9vVklCMUo4SDA3MjZ4aml3N3QtaUpsdVptQzlFV3BEWjJGM0YzQW9pY09RZTNrVkdxbHZlRS1uMlJ1X3lrN0piZ1hPMlFEYndhU3ZZTHpFY3lPdHJSNTRxdUEyWk85NkVPYVRnTlVEZnd1WWRjdg?oc=5",
+      "title": "OpenAI President: Security Spend Should “Vastly Outstrip Software Spend.” Cue CrowdStrike",
+      "summary": "",
+      "publishedAt": "2026-10-19T18:14:06.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "edef63b51aedc0121d1aea11f9472c530dce47d4",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/building-chatgpt-ad-stack",
+      "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+      "summary": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
+      "publishedAt": "2026-10-21T07:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "d3f519557f32dd3d643c27d4c9f89095ff53a6df",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+      "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+      "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
+      "publishedAt": "2026-10-21T07:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "1de8e62ff715d1f1b849a16afe7dfd3ed7898410",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+      "title": "Using thousands of AI agents to uncover new leads in biological data",
+      "summary": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
+      "publishedAt": "2026-10-21T04:50:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -677,35 +639,16 @@
       }
     },
     {
-      "id": "7a364f356aab49466020015082ef4122a7394f52",
+      "id": "4ab93569e260b2b0a16714b594221da5ccc8e4ab",
       "company": "OpenAI",
       "sourceKind": "official",
       "sourceId": "openai-newsroom",
       "sourceLabel": "OpenAI Newsroom",
       "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/low-resource-programming-languages",
-      "title": "Advancing coding in low‑resource programming languages",
-      "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
-      "publishedAt": "2026-10-19T12:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Technical or research update"
-      }
-    },
-    {
-      "id": "07552f78263eb7bd9c8c469f07a8b91110bf300f",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-clinical-study",
-      "title": "Ask a Scientist: How can AI help doctors spend more time on collaborative care?",
-      "summary": "AMIE, an AI system people can chat with before doctor’s appointments, securely gathers patient information, and saves doctors time.",
-      "publishedAt": "2026-10-20T16:00:00.000Z",
+      "url": "https://openai.com/index/att-legal",
+      "title": "How AT&T is rethinking in-house legal work with OpenAI",
+      "summary": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
+      "publishedAt": "2026-10-21T17:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -715,16 +658,16 @@
       }
     },
     {
-      "id": "4bdfa4285ba879d1360c685cad2f0c1afa3cccf4",
-      "company": "Google",
+      "id": "e38a3ad2196f1022dbb630a6ec269bedf0ae16be",
+      "company": "Microsoft",
       "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/new-tools-small-business-owners",
-      "title": "New Gemini tools for small business owners",
-      "summary": "We’re announcing new tools for Gemini — including a dedicated business landing page — to help small business owners around the world.",
-      "publishedAt": "2026-10-20T16:00:00.000Z",
+      "sourceId": "microsoft-ai",
+      "sourceLabel": "Microsoft AI",
+      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
+      "url": "https://news.microsoft.com/source/emea/features/before-the-ambulance-arrives-how-ai-is-helping-the-nhs-rethink-patient-care",
+      "title": "Before the ambulance arrives: How AI is helping the NHS rethink patient care",
+      "summary": "Before the ambulance arrives: How AI is helping the NHS rethink patient care",
+      "publishedAt": "2026-10-21T16:24:40.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -734,16 +677,54 @@
       }
     },
     {
-      "id": "b3fcb2e42d321123382678ef1b3ee803b99778a9",
+      "id": "74fcf21eca7add4a8265b1181e42f31fbfb429bc",
       "company": "OpenAI",
       "sourceKind": "official",
       "sourceId": "openai-newsroom",
       "sourceLabel": "OpenAI Newsroom",
       "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/ted-taylor-restaurant",
-      "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
-      "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
-      "publishedAt": "2026-10-20T10:00:00.000Z",
+      "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+      "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+      "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
+      "publishedAt": "2026-10-21T13:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "b67bba8524a92a555010a40ae338a341e8471dec",
+      "company": "Microsoft",
+      "sourceKind": "official",
+      "sourceId": "microsoft-ai",
+      "sourceLabel": "Microsoft AI",
+      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
+      "url": "https://news.microsoft.com/source/2026/10/21/microsoft-empowers-more-than-330000-volkswagen-group-employees-with-copilot",
+      "title": "Microsoft empowers more than 330,000 Volkswagen Group employees with Copilot",
+      "summary": "Microsoft empowers more than 330,000 Volkswagen Group employees with Copilot",
+      "publishedAt": "2026-10-21T12:00:08.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "61f4d0141ff303c02405716db977e4c6353bca59",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/openai-models-google-cloud",
+      "title": "OpenAI models are coming to Google Cloud",
+      "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
+      "publishedAt": "2026-10-21T12:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
