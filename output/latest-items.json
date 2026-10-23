@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T18:24:31.481Z",
+  "generatedAt": "2026-10-23T18:10:45.346Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -78,38 +78,38 @@
   "totals": {
     "fetched": 41,
     "deduped": 24,
-    "new": 8,
+    "new": 9,
     "byKind": {
-      "official": 15,
-      "external": 9
+      "official": 13,
+      "external": 11
     }
   },
   "items": [
     {
-      "id": "4cfd86f145d5ba07d2163098533d088d2e253714",
-      "company": "OpenAI",
+      "id": "badda17ad896695234d723df718654e1902e3b6f",
+      "company": "Anthropic",
       "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTDFvdENpSndjLWtWdVRFSXRYWHJrVzNGTFJkY3pwc0s0eDNMYWxYWkVYZkxfTTJSdE5tdTJYRUctSUszdGt6VG9Jekl6am5JbVI4T1Y3MjRBTUZEOWJTSEhSTnFkYzVHT1RreWZuYmY1a1UweW9TMmlmaEJ3UWR4bEd5TllHVnBfQURXbVNOY0JfdlNMZ2hoZ29zSENFVlNidE9wTXVtem5SVjREMklXeWhqTQ?oc=5",
-      "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdnZydGY4cEdLMHdFVVJ2R2kwaG1yOVZuQi1XNzk2SEw5T3lWQkZHZl9UYXhfazU2bFRQU0VabnlCdTBDMDhyQ2ZfUGNSODkxOWc4ZFBQOUVndEs5QmxtREZJQVlVY0RjLUVoUVh5ZWZIcWpuY3ExeUZGcGNuNzF5TGNBUy0?oc=5",
+      "title": "Anthropic strikes deal to launch European consultancy",
       "summary": "",
-      "publishedAt": "2026-10-20T20:35:10.000Z",
-      "publisher": "TechCrunch",
+      "publishedAt": "2026-10-23T09:04:09.000Z",
+      "publisher": "Financial Times",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
+        "score": 6,
+        "reason": "Flagship model or product launch"
       }
     },
     {
       "id": "480a5b90ee8e7a6e3fbedf161d7a188eb172a47c",
-      "company": "OpenAI",
+      "company": "Microsoft",
       "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
       "homepageUrl": "https://news.google.com/",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMkpaOUNKeWsxZVN1WXZhZkFCMkxUSnpCUWJtTTdKdDYtd2tycEdxU0RJbmgyR3QzQ2FfS1o2dVJqQ090VE9vZFJ5RVZyZ1loYTljWnVZalBTNEJuWlFCb0MycGFtcFZXeUNUTTFwYlBpQzVyRkZjclR2UzJDVDVsNVVTcGVCSTJidEE?oc=5",
       "title": "Exclusive: OpenAI has acquired Orchestra Bio",
@@ -124,17 +124,17 @@
       }
     },
     {
-      "id": "6219fd9412655795a2cb377c5f27d4d740dd9f51",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSll1aTZwN1Z3Y1g4b0h5UjF1eUs3Zlc4UTc5THpQOWk1MVMxRDNPdktkZ3R0dnNZS2xudlZiazBrbGN0MEZteXRQMV9fVlJRc3lacXpnUGppelNyUm9Jc0ZURkI4V1g3TVp4U1RjcW11eUxOLVByZmJFeTB6RjZkVGRkVUN0QXo4ejhyb2NpZjg5QVduNlNIUjRwckhydw?oc=5",
-      "title": "Accenture Expands Federal AI Push With Google's Gemini Agents, Months After OpenAI Partnership",
-      "summary": "",
-      "publishedAt": "2026-10-19T12:41:40.000Z",
-      "publisher": "Yahoo Finance",
+      "id": "15c1f8ef7a582594bf056b85165849e9f70ce0f3",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+      "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
+      "publishedAt": "2026-10-23T00:00:00.000Z",
+      "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -163,10 +163,10 @@
     },
     {
       "id": "107ba39b2354805b52fbbeee502f82831e17228c",
-      "company": "OpenAI",
+      "company": "Microsoft",
       "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
       "homepageUrl": "https://news.google.com/",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5aVW9GbzJYU2tyRUZaZXhuYVZLUzNKaURYMF96UUxGelZEQlJuS05hd3V2ajZXYThmYS1nZm1fRTFEZ1RlYzJxY0RDSnd2c0dCTTJ5RTRYa2daejlQYVQzNGhsazViYnk0LTRUQzhobnkwMU5pV0lDMzc1ONIBgAFBVV95cUxPWU1MOW5DRUpvWXNVNExyUzRMdVhsUHVyUWdPcUJmY19wMVVEaDNuVFczazh1VWZ5RE85Z0hOQjZWVm9GTS1pd3BOMjhyZ1dRMzdSM1Y3MHBCS3dYaHlhOVBPMHotVmp0ZVNQbE4wZjdKcVcwQnBwVUd5MlJ0VUZuUg?oc=5",
       "title": "Critical PHP web security flaws spark global alarm as Google, OpenAI and Amazon respond",
@@ -219,17 +219,74 @@
       }
     },
     {
-      "id": "8d7ab156c920a77ea4663a9b1ee7e329af3dc70c",
-      "company": "Meta",
+      "id": "6fdb49091549bae2aad3985ac71c9a0440d3dd53",
+      "company": "OpenAI",
       "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcE1JLW02aFdGLVA4X0FDaXNDdWRveFhmS1V2VzhVeVhiV21hLU1IanV2RlR1QmVXckRscFhOdTJpTDRrMzFROFpFOVdsWkVBbkI5YUM1djdDUmJMU21GVXVJMGE0aUlvajV4SkpBTGVpQmJNbVhCZm1jQ3U5Mzh2R1dlRnNoRDY4?oc=5",
-      "title": "Google, Amazon, Meta and Microsoft promise less secrets, more money to data center communities",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRk9GdU82R1QxNGZ2NlRiRm5zVVZoVDF6eUlXdTZLNGpFR3pqT05fdUdMLXJjTERhLXRvMGFCQmRmVWFsWjM3cEZoS3o2NzJKaks1cFJWbDhoeWlXeFRvNUMwb25DZzFKTmVMMkkzWDdXaC1QdVhHeWpfMGw5U2RfT1FaVVJGZldEZ1ptOHVJMVJZdGlZUEdtaXN5UnVoZjdOeWZPRzBScTVLOU1EQzkydU00MUI1c2JKVmlibVRhMHJVemZ0QkwzLXhTelB3cFE?oc=5",
+      "title": "OpenAI aiming for new $30 billion funding round at a $1.25 trillion valuation",
       "summary": "",
-      "publishedAt": "2026-10-22T13:54:00.000Z",
-      "publisher": "Fortune",
+      "publishedAt": "2026-10-23T13:45:39.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "a6ff8cec00099730e5d18059b232163eddc9afdc",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5LUFcxRTMyZzRwRnE1V2JMWk9IWEtvb2lXakRMUDRZbVlLbGNRN3dOU3pWX0RXMnRSQWJ1M2xnVXVodjhfZ090UXBYWVF6YlNhcS0xbnhMallHRzdsbFVtbGNGRHRHVUFkQ3F3RWpDdGZfd2pxcFJYTWs1blU1aWc?oc=5",
+      "title": "Watch OpenAI Targets $1.25 Trillion Valuation in New Funding Round",
+      "summary": "",
+      "publishedAt": "2026-10-23T12:40:26.000Z",
+      "publisher": "Bloomberg.com",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "4be2eeb262e6e7ed5b65976f467dc143b25cc7d8",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNlJ6SFpHeHRub3NJR1l1dFg0YzFULWdWX1MtU1A4b1luZTFMMkktcHU0YWdNMi1RMy1Sc3FkVF9WTnhvc0txaV9HX1k1d1cxQVgyOWdWcUU2UVVRXzlNMDdydVc2cmxEQ1FqX0dPeEFqZ3pzZnVGRnZYUzEwR0xfanQycnZPUEp6SkM1ZEo4OV9KOHZrWk9sbElfRmcxVDVmYUhfSmNqODhra1JvYko4MWRLNA?oc=5",
+      "title": "OpenAI Shifts Value to $1.25 Trillion as Funding Talks Finalize",
+      "summary": "",
+      "publishedAt": "2026-10-22T23:31:57.000Z",
+      "publisher": "Bloomberg.com",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "dfb5f42cbbf7ac2e8bbe81eeeb124ab76898be2f",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxON0lOUndGcjRBanppZmhpM1o2blEzanc5WEpHeU5PQi1HUFYzZ3pod2pvY3JIdm5BTnI2RDYzTlg1ZGd1QkhxSGR2OTB6UEFkNElQbkkwYk1sclEtdG1pMzFYRnl6Nlo3ZUlwb1hEaFM2WlRHRmNjcE1nblA1c202RzNwLUlhVnhLZVlFc2NSakpLdUcwRTJhVS1MYVdkSVU?oc=5",
+      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+      "summary": "",
+      "publishedAt": "2026-10-22T22:08:24.000Z",
+      "publisher": "TechCrunch",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -257,6 +314,25 @@
       }
     },
     {
+      "id": "602e09931112f0ec19a4dde3c32fe9886fbb933a",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNmxuNWpQV0RLeks3V1JXRXRBS2NBa0R4YW1mV1dlMjBZcG8zdTZYVWZaUjlJaUNsZTkycVdQVlNveEFoU3FxcXh2YXVNN01KTDBUOWZaa2JVYW1wTVVBdnpmUmlObUxrWHNEN3g5SVY5b1NZWjZ2bUZzR0RkaWhpbUVfYmMyQXNtMnpnbC1KQmE?oc=5",
+      "title": "Meta gives inside look at Huntsville data center amid resource concerns",
+      "summary": "",
+      "publishedAt": "2026-10-22T03:07:00.000Z",
+      "publisher": "Yahoo",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
       "id": "2344ba5a2d43a038591bfb136bece704f7479b51",
       "company": "Meta",
       "sourceKind": "external",
@@ -272,25 +348,6 @@
       "classification": {
         "bucket": "important",
         "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "6c45e6e74c4974e58bce3e9b96d2d2448fa259bf",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbkJjX3V2dDNuQ2pmZFRVNWw4R3pfQ0dTRUREQmd2X3U2SzVoVGxHT2ZyQVdnbmxXQzdSb1MxeHcySXBvNkd6dmFoZzJicFNCUG5hQ3lvNS1NbXJJUFhEY3BJcmo0VVJmNExCVzlMWHRxTkhkamR3UlFWMnVfVDJOaFY3dVM3VEVyS3Bxbk9wdE1kNksxaXl3TTREZw?oc=5",
-      "title": "OpenAI Seeks $30 Billion in Funding at Potential $1.4 Trillion Valuation, Reuters Reports",
-      "summary": "",
-      "publishedAt": "2026-10-20T10:41:59.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
         "reason": "Trusted external coverage"
       }
     },
@@ -352,6 +409,44 @@
       }
     },
     {
+      "id": "298c8de07d18f423dad39eb2358f85464fd4cd53",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+      "publishedAt": "2026-10-23T17:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "27825e300358401234fc8ca55cc275b9d4171e9a",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/decisions-api",
+      "title": "Build more responsive apps with the Decisions API",
+      "summary": "Fast, focused, low-cost decisions for any application.",
+      "publishedAt": "2026-10-22T19:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
+      }
+    },
+    {
       "id": "657de87e70512b3c58b7ede076c817638e72ea03",
       "company": "Microsoft",
       "sourceKind": "official",
@@ -371,22 +466,22 @@
       }
     },
     {
-      "id": "4ab93569e260b2b0a16714b594221da5ccc8e4ab",
-      "company": "OpenAI",
+      "id": "98fa6ec9cb84a23cbbc15e07a6719c544cbd6ccd",
+      "company": "Microsoft",
       "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/att-legal",
-      "title": "How AT&T is rethinking in-house legal work with OpenAI",
-      "summary": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
-      "publishedAt": "2026-10-21T17:00:00.000Z",
+      "sourceId": "microsoft-ai",
+      "sourceLabel": "Microsoft AI",
+      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
+      "url": "https://news.microsoft.com/source/features/ai/retrochimera-new-research-advances-ai-assisted-molecule-synthesis",
+      "title": "Read the story titled RetroChimera: New research advances AI-assisted molecule synthesis",
+      "summary": "",
+      "publishedAt": null,
       "publisher": "",
-      "discoveryMethod": "feed",
+      "discoveryMethod": "anchor",
       "classification": {
         "bucket": "digest",
         "score": 2,
-        "reason": "Routine official update"
+        "reason": "Technical or research update"
       }
     },
     {
@@ -404,103 +499,8 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "digest",
-        "score": 2,
+        "score": 1,
         "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "74fcf21eca7add4a8265b1181e42f31fbfb429bc",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
-      "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-      "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
-      "publishedAt": "2026-10-21T13:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "b67bba8524a92a555010a40ae338a341e8471dec",
-      "company": "Microsoft",
-      "sourceKind": "official",
-      "sourceId": "microsoft-ai",
-      "sourceLabel": "Microsoft AI",
-      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
-      "url": "https://news.microsoft.com/source/2026/10/21/microsoft-empowers-more-than-330000-volkswagen-group-employees-with-copilot",
-      "title": "Microsoft empowers more than 330,000 Volkswagen Group employees with Copilot",
-      "summary": "Microsoft empowers more than 330,000 Volkswagen Group employees with Copilot",
-      "publishedAt": "2026-10-21T12:00:08.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "61f4d0141ff303c02405716db977e4c6353bca59",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/openai-models-google-cloud",
-      "title": "OpenAI models are coming to Google Cloud",
-      "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
-      "publishedAt": "2026-10-21T12:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "6f78b8e1398a0d49f4bd0c11bbe17f28393b5bbd",
-      "company": "Microsoft",
-      "sourceKind": "official",
-      "sourceId": "microsoft-ai",
-      "sourceLabel": "Microsoft AI",
-      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
-      "url": "https://news.microsoft.com/source/emea/features/microsoft-opens-e1m-dream-space-hub-at-its-data-centre-campus-in-grange-castle-to-bring-stem-and-ai-skills-to-young-people-in-surrounding-communities",
-      "title": "Microsoft opens a hands-on STEM and AI hub for students at its Grange Castle data center campus",
-      "summary": "Microsoft opens a hands-on STEM and AI hub for students at its Grange Castle data center campus",
-      "publishedAt": "2026-10-20T16:29:35.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Technical or research update"
-      }
-    },
-    {
-      "id": "bb9f592d5f654f968da50a776979321db7a18821",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/three-tips-study-gemini-notebook",
-      "title": "We’re sharing 3 tips to study smarter with Gemini Notebook.",
-      "summary": "Master your exams with Google Gemini Notebook’s new 60-second video overviews and interactive quiz formats. Try these study tools at notebook.google.",
-      "publishedAt": "2026-10-16T16:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Technical or research update"
       }
     },
     {
@@ -544,16 +544,35 @@
   ],
   "newItems": [
     {
-      "id": "2ed22a61b2f19a0c8004f80b27de018cfecd7ddb",
+      "id": "badda17ad896695234d723df718654e1902e3b6f",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdnZydGY4cEdLMHdFVVJ2R2kwaG1yOVZuQi1XNzk2SEw5T3lWQkZHZl9UYXhfazU2bFRQU0VabnlCdTBDMDhyQ2ZfUGNSODkxOWc4ZFBQOUVndEs5QmxtREZJQVlVY0RjLUVoUVh5ZWZIcWpuY3ExeUZGcGNuNzF5TGNBUy0?oc=5",
+      "title": "Anthropic strikes deal to launch European consultancy",
+      "summary": "",
+      "publishedAt": "2026-10-23T09:04:09.000Z",
+      "publisher": "Financial Times",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "15c1f8ef7a582594bf056b85165849e9f70ce0f3",
       "company": "OpenAI",
       "sourceKind": "official",
       "sourceId": "openai-newsroom",
       "sourceLabel": "OpenAI Newsroom",
       "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/broad-access-through-consistent-standards",
-      "title": "Broad access through consistent standards",
-      "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
-      "publishedAt": "2026-10-21T21:00:00.000Z",
+      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+      "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
+      "publishedAt": "2026-10-23T00:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -563,36 +582,17 @@
       }
     },
     {
-      "id": "107ba39b2354805b52fbbeee502f82831e17228c",
+      "id": "6fdb49091549bae2aad3985ac71c9a0440d3dd53",
       "company": "OpenAI",
       "sourceKind": "external",
       "sourceId": "external-openai-major",
       "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5aVW9GbzJYU2tyRUZaZXhuYVZLUzNKaURYMF96UUxGelZEQlJuS05hd3V2ajZXYThmYS1nZm1fRTFEZ1RlYzJxY0RDSnd2c0dCTTJ5RTRYa2daejlQYVQzNGhsazViYnk0LTRUQzhobnkwMU5pV0lDMzc1ONIBgAFBVV95cUxPWU1MOW5DRUpvWXNVNExyUzRMdVhsUHVyUWdPcUJmY19wMVVEaDNuVFczazh1VWZ5RE85Z0hOQjZWVm9GTS1pd3BOMjhyZ1dRMzdSM1Y3MHBCS3dYaHlhOVBPMHotVmp0ZVNQbE4wZjdKcVcwQnBwVUd5MlJ0VUZuUg?oc=5",
-      "title": "Critical PHP web security flaws spark global alarm as Google, OpenAI and Amazon respond",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRk9GdU82R1QxNGZ2NlRiRm5zVVZoVDF6eUlXdTZLNGpFR3pqT05fdUdMLXJjTERhLXRvMGFCQmRmVWFsWjM3cEZoS3o2NzJKaks1cFJWbDhoeWlXeFRvNUMwb25DZzFKTmVMMkkzWDdXaC1QdVhHeWpfMGw5U2RfT1FaVVJGZldEZ1ptOHVJMVJZdGlZUEdtaXN5UnVoZjdOeWZPRzBScTVLOU1EQzkydU00MUI1c2JKVmlibVRhMHJVemZ0QkwzLXhTelB3cFE?oc=5",
+      "title": "OpenAI aiming for new $30 billion funding round at a $1.25 trillion valuation",
       "summary": "",
-      "publishedAt": "2026-10-22T01:05:00.000Z",
-      "publisher": "CNBC",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "8d7ab156c920a77ea4663a9b1ee7e329af3dc70c",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcE1JLW02aFdGLVA4X0FDaXNDdWRveFhmS1V2VzhVeVhiV21hLU1IanV2RlR1QmVXckRscFhOdTJpTDRrMzFROFpFOVdsWkVBbkI5YUM1djdDUmJMU21GVXVJMGE0aUlvajV4SkpBTGVpQmJNbVhCZm1jQ3U5Mzh2R1dlRnNoRDY4?oc=5",
-      "title": "Google, Amazon, Meta and Microsoft promise less secrets, more money to data center communities",
-      "summary": "",
-      "publishedAt": "2026-10-22T13:54:00.000Z",
-      "publisher": "Fortune",
+      "publishedAt": "2026-10-23T13:45:39.000Z",
+      "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -601,17 +601,17 @@
       }
     },
     {
-      "id": "daac42809df3f873e0c91b362e22cb13433a9157",
-      "company": "Meta",
+      "id": "a6ff8cec00099730e5d18059b232163eddc9afdc",
+      "company": "OpenAI",
       "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOR2U3U001eG9mWG5wVzktZmprM093UkJCNS15NHQ4aTRMdlZuN1Z1SkVGM3dFZnRkSGpSdkJoSHVsa01QaEdoOG92Rmcwdi1XamJGcWRjd0NJM0hnUFdERkhyOG1KQ1JScEF2YTlmSjUzVFFyb3hFZUZqZFdEREpyUnRBcXdGMHl0cVBIaVZxRmxic2E5X0tTTFZscXBGdw?oc=5",
-      "title": "Meta offers a look inside its Huntsville data center",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5LUFcxRTMyZzRwRnE1V2JMWk9IWEtvb2lXakRMUDRZbVlLbGNRN3dOU3pWX0RXMnRSQWJ1M2xnVXVodjhfZ090UXBYWVF6YlNhcS0xbnhMallHRzdsbFVtbGNGRHRHVUFkQ3F3RWpDdGZfd2pxcFJYTWs1blU1aWc?oc=5",
+      "title": "Watch OpenAI Targets $1.25 Trillion Valuation in New Funding Round",
       "summary": "",
-      "publishedAt": "2026-10-22T12:16:30.000Z",
-      "publisher": "Axios",
+      "publishedAt": "2026-10-23T12:40:26.000Z",
+      "publisher": "Bloomberg.com",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -620,16 +620,54 @@
       }
     },
     {
-      "id": "2344ba5a2d43a038591bfb136bece704f7479b51",
+      "id": "4be2eeb262e6e7ed5b65976f467dc143b25cc7d8",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNlJ6SFpHeHRub3NJR1l1dFg0YzFULWdWX1MtU1A4b1luZTFMMkktcHU0YWdNMi1RMy1Sc3FkVF9WTnhvc0txaV9HX1k1d1cxQVgyOWdWcUU2UVVRXzlNMDdydVc2cmxEQ1FqX0dPeEFqZ3pzZnVGRnZYUzEwR0xfanQycnZPUEp6SkM1ZEo4OV9KOHZrWk9sbElfRmcxVDVmYUhfSmNqODhra1JvYko4MWRLNA?oc=5",
+      "title": "OpenAI Shifts Value to $1.25 Trillion as Funding Talks Finalize",
+      "summary": "",
+      "publishedAt": "2026-10-22T23:31:57.000Z",
+      "publisher": "Bloomberg.com",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "dfb5f42cbbf7ac2e8bbe81eeeb124ab76898be2f",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxON0lOUndGcjRBanppZmhpM1o2blEzanc5WEpHeU5PQi1HUFYzZ3pod2pvY3JIdm5BTnI2RDYzTlg1ZGd1QkhxSGR2OTB6UEFkNElQbkkwYk1sclEtdG1pMzFYRnl6Nlo3ZUlwb1hEaFM2WlRHRmNjcE1nblA1c202RzNwLUlhVnhLZVlFc2NSakpLdUcwRTJhVS1MYVdkSVU?oc=5",
+      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+      "summary": "",
+      "publishedAt": "2026-10-22T22:08:24.000Z",
+      "publisher": "TechCrunch",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "602e09931112f0ec19a4dde3c32fe9886fbb933a",
       "company": "Meta",
       "sourceKind": "external",
       "sourceId": "external-meta-major",
       "sourceLabel": "Major External News - Meta",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOHQ2blIyN3ZodWlranpSVGRNaUd3UFNIbnVZOGhIUXptVHdrSlEzUHRlNktlbHh3MjFMZ2xUR29acHl1WjZ5dDNiRkNpaHdVcmVlbU0yS25VWS1DbTItWXF2aERxeUd2Wjdnb3pOWWtpUGxDMEwzMkNUNXNWM3F3SFd3VU81eTVjR2tULQ?oc=5",
-      "title": "Meta opens Huntsville data center doors amid local concerns over water and power use",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNmxuNWpQV0RLeks3V1JXRXRBS2NBa0R4YW1mV1dlMjBZcG8zdTZYVWZaUjlJaUNsZTkycVdQVlNveEFoU3FxcXh2YXVNN01KTDBUOWZaa2JVYW1wTVVBdnpmUmlObUxrWHNEN3g5SVY5b1NZWjZ2bUZzR0RkaWhpbUVfYmMyQXNtMnpnbC1KQmE?oc=5",
+      "title": "Meta gives inside look at Huntsville data center amid resource concerns",
       "summary": "",
-      "publishedAt": "2026-10-21T22:42:19.000Z",
+      "publishedAt": "2026-10-22T03:07:00.000Z",
       "publisher": "Yahoo",
       "discoveryMethod": "feed",
       "classification": {
@@ -639,54 +677,35 @@
       }
     },
     {
-      "id": "63c31ca523f91ccfb067ba69d79f874951382164",
+      "id": "298c8de07d18f423dad39eb2358f85464fd4cd53",
       "company": "OpenAI",
       "sourceKind": "official",
       "sourceId": "openai-newsroom",
       "sourceLabel": "OpenAI Newsroom",
       "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/forward-deployed-engineering-means",
-      "title": "What FDE means at OpenAI",
-      "summary": "What forward deployed engineering means at OpenAI",
-      "publishedAt": "2026-10-22T06:00:00.000Z",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+      "publishedAt": "2026-10-23T17:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Technical or research update"
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
       }
     },
     {
-      "id": "ba6fa07d677a822106bce5984f77463673ff3072",
+      "id": "27825e300358401234fc8ca55cc275b9d4171e9a",
       "company": "OpenAI",
       "sourceKind": "official",
       "sourceId": "openai-newsroom",
       "sourceLabel": "OpenAI Newsroom",
       "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/uber-chatgpt-work-rollout",
-      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
-      "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
-      "publishedAt": "2026-10-22T00:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Technical or research update"
-      }
-    },
-    {
-      "id": "657de87e70512b3c58b7ede076c817638e72ea03",
-      "company": "Microsoft",
-      "sourceKind": "official",
-      "sourceId": "microsoft-ai",
-      "sourceLabel": "Microsoft AI",
-      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
-      "url": "https://news.microsoft.com/source/emea/features/data-and-ai-agents-give-a-lift-to-tk-elevator-service-technicians",
-      "title": "Data and AI agents give a lift to TK Elevator service technicians",
-      "summary": "Data and AI agents give a lift to TK Elevator service technicians",
-      "publishedAt": "2026-10-22T13:58:15.000Z",
+      "url": "https://openai.com/index/decisions-api",
+      "title": "Build more responsive apps with the Decisions API",
+      "summary": "Fast, focused, low-cost decisions for any application.",
+      "publishedAt": "2026-10-22T19:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
