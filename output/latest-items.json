@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T17:29:56.544Z",
+  "generatedAt": "2026-10-26T19:47:15.561Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -76,26 +76,26 @@
     }
   ],
   "totals": {
-    "fetched": 40,
+    "fetched": 41,
     "deduped": 24,
-    "new": 3,
+    "new": 11,
     "byKind": {
-      "official": 15,
-      "external": 9
+      "official": 14,
+      "external": 10
     }
   },
   "items": [
     {
-      "id": "c29a9594944b0ab1aa9e4e561b82368865364e30",
+      "id": "7a33e35c4f398980c2571f1430885c83daa38f92",
       "company": "OpenAI",
       "sourceKind": "external",
       "sourceId": "external-openai-major",
       "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWjJyaUpfQjlzWjVGMjdaWkpHdHZKX2hZazgtU1F1UEdmTkNIbzUwbWFjZkxVSlozQkVEbGlSd2VFbkZzLTB1SjJvcDBTbUUwVVp4RnJScHVZelNnUHdReHl3YTJZSl9veU1ZS1dXYjZXdmZNZFdabFBpMjR4YU16M2lWaDhaZkFEbnFtT2EwSzdwRkduVVJhdkZR?oc=5",
-      "title": "Texan Senate Candidate Sues OpenAI Before Midterms, Accuses Altman Of 'Lying To Users And Harming Texans'",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZXE3S1hveUdfaVBxTTM5NkUtclVyZ01vUl9mVWhIdVp0anlLd2xYUGZNRUZUd1hQYmd4UW5fWm5zSWcwdGVXTDNFVlJVdWVPWEQ1Yko3dlpfRjdGVjhKQjAyOE9rLTRSbTlXOHQxSUxybjdxNDNkS0RTMmRDRlJtbTc0bGNKRUFMVXc?oc=5",
+      "title": "Texas sues OpenAI, Sam Altman over ChatGPT safety for children",
       "summary": "",
-      "publishedAt": "2026-10-24T09:57:26.000Z",
+      "publishedAt": "2026-10-26T18:34:29.000Z",
       "publisher": "Yahoo",
       "discoveryMethod": "feed",
       "classification": {
@@ -105,17 +105,17 @@
       }
     },
     {
-      "id": "1a49e72e9e7f826d549cb72a158497b4c1fb8ed8",
-      "company": "Meta",
+      "id": "fe8abc7718c7cd3777280709e25b0a644dd4c6c4",
+      "company": "Anthropic",
       "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOb3IyWGlUdC0ta043MmZkT05fMWFSM0thbWc0QXF1ei03MXFlVnVhWkljbVBQUjdQZkxIZ1RQTnZ4ZkNXczJHcXdvNVYyVmxudkowOTlFa3k5ZncxUjBFOF9jLVhOODNXN2psSzMwYVloZlFPc0x0bmJnZ19qVy01bDl5aGRmWlFVTVFxV3RLVGZ2ZmlJQWo5Zmszbw?oc=5",
-      "title": "Exclusive: Meta acquires AI data platform Sundial",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5TSU12YjBVSEl2R0ZuM2lEWEUzWXZfdzRtaWRkT2NEM21hcUFPSzJqLXY5VTlxWGE4N3VVYWVQemt4SVdJMHVQY3BfNjgteURQYkFNcFdUaU9wd255MXhucjg1Q0dOdnhWTmhPRkZDM05tcnNGX2ZKRQ?oc=5",
+      "title": "The FTC is demanding Anthropic execs testify in expanding AI safety probe",
       "summary": "",
-      "publishedAt": "2026-10-23T20:52:20.000Z",
-      "publisher": "Yahoo Finance",
+      "publishedAt": "2026-10-26T18:03:45.000Z",
+      "publisher": "Axios",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -124,60 +124,79 @@
       }
     },
     {
-      "id": "3a6a6c05f784cd457748e93e5dff2738f6d01651",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOS01OUZRS1hEaFFMU0pJSkEwdEVKQThtcVJITXJ6elVKbFVHV0QwQVFyc1VUb1NVZExxQ2J4YkN0MTVxS094bUFqdmZYa3QwSUprRjlVX3YwSkZfcEF5U1JEV0h0aWVjUldENHFIaEtZR0RPU3Y0WHpjQXFmRUw2SVROYXQ2NWwzZmNGWG9lcTdwYkhFd0NvY3poSG1YVHRfclVsMmZ0OXRDV245cmx3ckRFVENhZUJydkVXYjVrOA?oc=5",
-      "title": "OpenAI resumes frontier AI training after security overhaul, discloses flaw in widely used software",
-      "summary": "",
-      "publishedAt": "2026-10-23T20:06:00.000Z",
-      "publisher": "Reuters",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "badda17ad896695234d723df718654e1902e3b6f",
+      "id": "87797b90a77f1c29fa440bdd096ffeaa0160729d",
       "company": "Anthropic",
       "sourceKind": "external",
       "sourceId": "external-anthropic-major",
       "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdnZydGY4cEdLMHdFVVJ2R2kwaG1yOVZuQi1XNzk2SEw5T3lWQkZHZl9UYXhfazU2bFRQU0VabnlCdTBDMDhyQ2ZfUGNSODkxOWc4ZFBQOUVndEs5QmxtREZJQVlVY0RjLUVoUVh5ZWZIcWpuY3ExeUZGcGNuNzF5TGNBUy0?oc=5",
-      "title": "Anthropic strikes deal to launch European consultancy",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVXZTRUhadExyYWlsOTZxS3AyeEJMNXVWYVMyeHQ4OXhqU2R2TThIZlBwU0Y3ZTdHalVlbGo4S0c5MVhxVE9zYTlxZ0NSOGNiRm5hRVEycVZlS3FpX0dYLXRuaXVweEtWekNMX3JpbWhGOXprZU82VVNLVVRqYlRPckVxWno0alJGV20xcDVxMVZOa0cxaUZwQ2QyYjVEVUlYQVE5b2NNRzI?oc=5",
+      "title": "Anthropic sued over Elvis songs used to train Claude",
       "summary": "",
-      "publishedAt": "2026-10-23T09:04:09.000Z",
-      "publisher": "Financial Times",
+      "publishedAt": "2026-10-26T15:09:45.000Z",
+      "publisher": "Reuters",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 5,
-        "reason": "Flagship model or product launch"
+        "score": 7,
+        "reason": "Corporate move or major external event"
       }
     },
     {
-      "id": "15c1f8ef7a582594bf056b85165849e9f70ce0f3",
+      "id": "662b94b180708299f6b46753dde66a43f9f0d80e",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcGJzV2lYaDY1VjkzZVlPMVBhYU5ORDFPX3JTa3NsS1JKNkh1b0t4Qll5NDlBUmRWbGExRTBEMWNLM3hNVmtkczU3VWpyYTBrSHZhczkxb1NhX3M2TkY1aGIwb21wS25QdHRnT1c2WklPOHBEVUpjejNVb1hKbVcxcGlPa3JfbVJ5NU9WaWNjVFByUk1YeUFuTnh0aw?oc=5",
+      "title": "Exclusive: Meta acquires AI data platform Sundial",
+      "summary": "",
+      "publishedAt": "2026-10-23T20:52:20.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "8f2f08b6e197805b4e591a57a55e222a54e44f14",
       "company": "OpenAI",
       "sourceKind": "official",
       "sourceId": "openai-newsroom",
       "sourceLabel": "OpenAI Newsroom",
       "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
-      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-      "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
-      "publishedAt": "2026-10-23T00:00:00.000Z",
+      "url": "https://openai.com/index/openai-cut-incident-investigation",
+      "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+      "summary": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
+      "publishedAt": "2026-10-26T07:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "1758535ac6be3e6bbbbd229f2163da1b6bc77452",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+      "title": "Introducing GPT-6.1 Terra",
+      "summary": "Bringing fast and capable computer use to everyone",
+      "publishedAt": "2026-10-26T00:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
         "score": 5,
-        "reason": "Corporate move or major external event"
+        "reason": "Flagship model or product launch"
       }
     },
     {
@@ -200,6 +219,63 @@
       }
     },
     {
+      "id": "09732252eb71f831893dbfc1c43844b585aec3a6",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObDluS3Q3dTBMc3hHVnYwMHJWWHFseDZDWWpPSEpaN3BZeGNyQjdIQUREYXM1dE1rMGhGbzg5ZjNUYmJxS28teHVLU2hlNE4yUXdKa0VfOXZueThpdV9yS0NocUt1ZW9ULWNTaW55a1RmMEdtdHdEV3AtQTJzcEEzM2xPNVJHNi1iOTlwUjUzVV84NXB5cFNLempoekJtb0xyZ0w2M0M4VF9SZVhYS0xTVW00SzcxbUdjUGVfMl90Q3NIMU1QOTFDWWtTQXh0QQ?oc=5",
+      "title": "Anthropic IPO reminds this former Amazon board member of Jeff Bezos's AWS bet",
+      "summary": "",
+      "publishedAt": "2026-10-26T14:44:06.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "8f5502ea71118358a3092912e5e85b6b762aee21",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83a1BzeUdlQVM4X1VkUUFBWnBYWEtTeUpXaF9WUHRqbTg2bC15XzZmUGE1YVZsMmdLWWJUbmp5d09EYWtmQ29DRXllQzhSOGpoR0pTM2p4b0Qwdw?oc=5",
+      "title": "Anthropic’s IPO prospectus shows $16.3 billion in revenue, an $80.7 billion net loss, and goal of an 'age of miracles'",
+      "summary": "",
+      "publishedAt": "2026-10-26T14:25:00.000Z",
+      "publisher": "Fortune",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "3a6a6c05f784cd457748e93e5dff2738f6d01651",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOS01OUZRS1hEaFFMU0pJSkEwdEVKQThtcVJITXJ6elVKbFVHV0QwQVFyc1VUb1NVZExxQ2J4YkN0MTVxS094bUFqdmZYa3QwSUprRjlVX3YwSkZfcEF5U1JEV0h0aWVjUldENHFIaEtZR0RPU3Y0WHpjQXFmRUw2SVROYXQ2NWwzZmNGWG9lcTdwYkhFd0NvY3poSG1YVHRfclVsMmZ0OXRDV245cmx3ckRFVENhZUJydkVXYjVrOA?oc=5",
+      "title": "OpenAI resumes frontier AI training after security overhaul, discloses flaw in widely used software",
+      "summary": "",
+      "publishedAt": "2026-10-23T20:06:00.000Z",
+      "publisher": "Reuters",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
       "id": "ffd134c3576f00602414f81c973442bd74f41f4f",
       "company": "OpenAI",
       "sourceKind": "external",
@@ -214,26 +290,7 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "451f1e30269b5a9971353180150b006821fa9f8e",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSEp5YjNHSUdHRHduLUVTMkxTWTB6TUV0ZzZoeEs1aTFLOWZ0ZmN5aG1OdVdoeDlGNnZkajZ5djFUSkM4SXhFdDEtaUltT2JROExfSG5TMlVTQ2Z1RUNnTVI5d012TlFGYjlFdklpa2kzU0FISnJybnZ6dmNJcUNXajJ4NzBad3Bsb0hjTUNocFFSY3VBcXM3a1B4SWVDSl9BSG1oSlAwRWRvWEVWdm9QNnR1U1Jab1M5ZFE?oc=5",
-      "title": "An $8 billion Treasury break helped Meta’s tax rate hit 2%. Senators want data center tax answers",
-      "summary": "",
-      "publishedAt": "2026-10-23T18:21:00.000Z",
-      "publisher": "Fortune",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
+        "score": 3,
         "reason": "Trusted external coverage"
       }
     },
@@ -276,25 +333,6 @@
       }
     },
     {
-      "id": "602e09931112f0ec19a4dde3c32fe9886fbb933a",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNmxuNWpQV0RLeks3V1JXRXRBS2NBa0R4YW1mV1dlMjBZcG8zdTZYVWZaUjlJaUNsZTkycVdQVlNveEFoU3FxcXh2YXVNN01KTDBUOWZaa2JVYW1wTVVBdnpmUmlObUxrWHNEN3g5SVY5b1NZWjZ2bUZzR0RkaWhpbUVfYmMyQXNtMnpnbC1KQmE?oc=5",
-      "title": "Meta gives inside look at Huntsville data center amid resource concerns",
-      "summary": "",
-      "publishedAt": "2026-10-22T03:07:00.000Z",
-      "publisher": "Yahoo",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
       "id": "a0fc52c7c407bf11d8b68ccf62e1b5e671a984b4",
       "company": "Microsoft",
       "sourceKind": "official",
@@ -314,41 +352,41 @@
       }
     },
     {
-      "id": "63c31ca523f91ccfb067ba69d79f874951382164",
+      "id": "64d59b55a8fb866695c8c1e923e768f9baf418cb",
       "company": "OpenAI",
       "sourceKind": "official",
       "sourceId": "openai-newsroom",
       "sourceLabel": "OpenAI Newsroom",
       "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/forward-deployed-engineering-means",
-      "title": "What FDE means at OpenAI",
-      "summary": "What forward deployed engineering means at OpenAI",
-      "publishedAt": "2026-10-22T06:00:00.000Z",
+      "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+      "title": "ChatGPT’s expanding world of work",
+      "summary": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
+      "publishedAt": "2026-10-26T10:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "digest",
         "score": 2,
-        "reason": "Technical or research update"
+        "reason": "Routine official update"
       }
     },
     {
-      "id": "ba6fa07d677a822106bce5984f77463673ff3072",
+      "id": "eb7708c5f537ab79bfe683ac06695862c6627f7a",
       "company": "OpenAI",
       "sourceKind": "official",
       "sourceId": "openai-newsroom",
       "sourceLabel": "OpenAI Newsroom",
       "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/uber-chatgpt-work-rollout",
-      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
-      "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
-      "publishedAt": "2026-10-22T00:00:00.000Z",
+      "url": "https://openai.com/index/fanatics-streamline-fan-experience",
+      "title": "How Fanatics and OpenAI streamline the fan experience",
+      "summary": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
+      "publishedAt": "2026-10-26T07:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "digest",
         "score": 2,
-        "reason": "Technical or research update"
+        "reason": "Routine official update"
       }
     },
     {
@@ -400,44 +438,6 @@
       "title": "Securing our frontier model training environment",
       "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
       "publishedAt": "2026-10-23T10:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "27825e300358401234fc8ca55cc275b9d4171e9a",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/decisions-api",
-      "title": "Build more responsive apps with the Decisions API",
-      "summary": "Fast, focused, low-cost decisions for any application.",
-      "publishedAt": "2026-10-22T19:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "657de87e70512b3c58b7ede076c817638e72ea03",
-      "company": "Microsoft",
-      "sourceKind": "official",
-      "sourceId": "microsoft-ai",
-      "sourceLabel": "Microsoft AI",
-      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
-      "url": "https://news.microsoft.com/source/emea/features/data-and-ai-agents-give-a-lift-to-tk-elevator-service-technicians",
-      "title": "Data and AI agents give a lift to TK Elevator service technicians",
-      "summary": "Data and AI agents give a lift to TK Elevator service technicians",
-      "publishedAt": "2026-10-22T13:58:15.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -504,25 +504,6 @@
       }
     },
     {
-      "id": "6cac32efa67078ed67f4d1c2edeac9f06d8f0f58",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/co-create-slides-videos",
-      "title": "How to shape your slides and videos with Gemini Notebook",
-      "summary": "Gemini Notebook is giving more creative control in the creation of Slide Decks and Video Overviews.",
-      "publishedAt": "2026-10-19T17:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
-    },
-    {
       "id": "10310c209328b333bcb74674a62790ce398884c7",
       "company": "Anthropic",
       "sourceKind": "official",
@@ -540,20 +521,39 @@
         "score": 1,
         "reason": "Routine official update"
       }
+    },
+    {
+      "id": "edf59637f599d673936feb2660654973133b362c",
+      "company": "Anthropic",
+      "sourceKind": "official",
+      "sourceId": "anthropic-news",
+      "sourceLabel": "Anthropic News",
+      "homepageUrl": "https://www.anthropic.com/news",
+      "url": "https://www.anthropic.com/news/s1-sec",
+      "title": "Anthropic files S-1 with the SEC for proposed initial public offering",
+      "summary": "",
+      "publishedAt": null,
+      "publisher": "",
+      "discoveryMethod": "anchor",
+      "classification": {
+        "bucket": "digest",
+        "score": 1,
+        "reason": "Routine official update"
+      }
     }
   ],
   "newItems": [
     {
-      "id": "c29a9594944b0ab1aa9e4e561b82368865364e30",
+      "id": "7a33e35c4f398980c2571f1430885c83daa38f92",
       "company": "OpenAI",
       "sourceKind": "external",
       "sourceId": "external-openai-major",
       "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWjJyaUpfQjlzWjVGMjdaWkpHdHZKX2hZazgtU1F1UEdmTkNIbzUwbWFjZkxVSlozQkVEbGlSd2VFbkZzLTB1SjJvcDBTbUUwVVp4RnJScHVZelNnUHdReHl3YTJZSl9veU1ZS1dXYjZXdmZNZFdabFBpMjR4YU16M2lWaDhaZkFEbnFtT2EwSzdwRkduVVJhdkZR?oc=5",
-      "title": "Texan Senate Candidate Sues OpenAI Before Midterms, Accuses Altman Of 'Lying To Users And Harming Texans'",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZXE3S1hveUdfaVBxTTM5NkUtclVyZ01vUl9mVWhIdVp0anlLd2xYUGZNRUZUd1hQYmd4UW5fWm5zSWcwdGVXTDNFVlJVdWVPWEQ1Yko3dlpfRjdGVjhKQjAyOE9rLTRSbTlXOHQxSUxybjdxNDNkS0RTMmRDRlJtbTc0bGNKRUFMVXc?oc=5",
+      "title": "Texas sues OpenAI, Sam Altman over ChatGPT safety for children",
       "summary": "",
-      "publishedAt": "2026-10-24T09:57:26.000Z",
+      "publishedAt": "2026-10-26T18:34:29.000Z",
       "publisher": "Yahoo",
       "discoveryMethod": "feed",
       "classification": {
@@ -563,16 +563,111 @@
       }
     },
     {
-      "id": "ffd134c3576f00602414f81c973442bd74f41f4f",
-      "company": "OpenAI",
+      "id": "fe8abc7718c7cd3777280709e25b0a644dd4c6c4",
+      "company": "Anthropic",
       "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWHUwZllOYVp1Z0ZEdUJsYllvSm9nVjVyVHRudGg5bDZIcGtkclhfRlFBMEhVdEhSaHVHR3lURnNvWXhZck5ja2dmcXhpZFh3a2lna2hrUXJkdzRFbDF5bVVUTDVGUVBXVTVIeWIteGE4SXl6Sk1ONFBhUy1UbVRTRDdtTXhKeklzMGVCNkxmWThkUl9x?oc=5",
-      "title": "OpenAI Nears $1.25 Trillion Valuation. What That Tells Investors Ahead of a Potential 2027 IPO.",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5TSU12YjBVSEl2R0ZuM2lEWEUzWXZfdzRtaWRkT2NEM21hcUFPSzJqLXY5VTlxWGE4N3VVYWVQemt4SVdJMHVQY3BfNjgteURQYkFNcFdUaU9wd255MXhucjg1Q0dOdnhWTmhPRkZDM05tcnNGX2ZKRQ?oc=5",
+      "title": "The FTC is demanding Anthropic execs testify in expanding AI safety probe",
       "summary": "",
-      "publishedAt": "2026-10-24T05:58:24.000Z",
+      "publishedAt": "2026-10-26T18:03:45.000Z",
+      "publisher": "Axios",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "87797b90a77f1c29fa440bdd096ffeaa0160729d",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVXZTRUhadExyYWlsOTZxS3AyeEJMNXVWYVMyeHQ4OXhqU2R2TThIZlBwU0Y3ZTdHalVlbGo4S0c5MVhxVE9zYTlxZ0NSOGNiRm5hRVEycVZlS3FpX0dYLXRuaXVweEtWekNMX3JpbWhGOXprZU82VVNLVVRqYlRPckVxWno0alJGV20xcDVxMVZOa0cxaUZwQ2QyYjVEVUlYQVE5b2NNRzI?oc=5",
+      "title": "Anthropic sued over Elvis songs used to train Claude",
+      "summary": "",
+      "publishedAt": "2026-10-26T15:09:45.000Z",
+      "publisher": "Reuters",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "662b94b180708299f6b46753dde66a43f9f0d80e",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcGJzV2lYaDY1VjkzZVlPMVBhYU5ORDFPX3JTa3NsS1JKNkh1b0t4Qll5NDlBUmRWbGExRTBEMWNLM3hNVmtkczU3VWpyYTBrSHZhczkxb1NhX3M2TkY1aGIwb21wS25QdHRnT1c2WklPOHBEVUpjejNVb1hKbVcxcGlPa3JfbVJ5NU9WaWNjVFByUk1YeUFuTnh0aw?oc=5",
+      "title": "Exclusive: Meta acquires AI data platform Sundial",
+      "summary": "",
+      "publishedAt": "2026-10-23T20:52:20.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "8f2f08b6e197805b4e591a57a55e222a54e44f14",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/openai-cut-incident-investigation",
+      "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+      "summary": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
+      "publishedAt": "2026-10-26T07:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "1758535ac6be3e6bbbbd229f2163da1b6bc77452",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+      "title": "Introducing GPT-6.1 Terra",
+      "summary": "Bringing fast and capable computer use to everyone",
+      "publishedAt": "2026-10-26T00:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "09732252eb71f831893dbfc1c43844b585aec3a6",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObDluS3Q3dTBMc3hHVnYwMHJWWHFseDZDWWpPSEpaN3BZeGNyQjdIQUREYXM1dE1rMGhGbzg5ZjNUYmJxS28teHVLU2hlNE4yUXdKa0VfOXZueThpdV9yS0NocUt1ZW9ULWNTaW55a1RmMEdtdHdEV3AtQTJzcEEzM2xPNVJHNi1iOTlwUjUzVV84NXB5cFNLempoekJtb0xyZ0w2M0M4VF9SZVhYS0xTVW00SzcxbUdjUGVfMl90Q3NIMU1QOTFDWWtTQXh0QQ?oc=5",
+      "title": "Anthropic IPO reminds this former Amazon board member of Jeff Bezos's AWS bet",
+      "summary": "",
+      "publishedAt": "2026-10-26T14:44:06.000Z",
       "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
@@ -582,14 +677,71 @@
       }
     },
     {
-      "id": "10310c209328b333bcb74674a62790ce398884c7",
+      "id": "8f5502ea71118358a3092912e5e85b6b762aee21",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83a1BzeUdlQVM4X1VkUUFBWnBYWEtTeUpXaF9WUHRqbTg2bC15XzZmUGE1YVZsMmdLWWJUbmp5d09EYWtmQ29DRXllQzhSOGpoR0pTM2p4b0Qwdw?oc=5",
+      "title": "Anthropic’s IPO prospectus shows $16.3 billion in revenue, an $80.7 billion net loss, and goal of an 'age of miracles'",
+      "summary": "",
+      "publishedAt": "2026-10-26T14:25:00.000Z",
+      "publisher": "Fortune",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "64d59b55a8fb866695c8c1e923e768f9baf418cb",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+      "title": "ChatGPT’s expanding world of work",
+      "summary": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
+      "publishedAt": "2026-10-26T10:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "eb7708c5f537ab79bfe683ac06695862c6627f7a",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/fanatics-streamline-fan-experience",
+      "title": "How Fanatics and OpenAI streamline the fan experience",
+      "summary": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
+      "publishedAt": "2026-10-26T07:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "edf59637f599d673936feb2660654973133b362c",
       "company": "Anthropic",
       "sourceKind": "official",
       "sourceId": "anthropic-news",
       "sourceLabel": "Anthropic News",
       "homepageUrl": "https://www.anthropic.com/news",
-      "url": "https://www.anthropic.com/news/announcements",
-      "title": "Announcements",
+      "url": "https://www.anthropic.com/news/s1-sec",
+      "title": "Anthropic files S-1 with the SEC for proposed initial public offering",
       "summary": "",
       "publishedAt": null,
       "publisher": "",
