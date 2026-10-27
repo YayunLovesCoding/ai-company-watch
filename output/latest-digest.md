@@ -1,94 +1,103 @@
 # AI Company Watch
 
-Generated: Oct 26, 2026, 12:47 PM PDT
+Generated: Oct 27, 2026, 12:16 PM PDT
 Lookback window: 7 day(s)
 Sources checked: 12
-Items fetched: 41
+Items fetched: 42
 Items kept: 24
-New items: 11
+New items: 12
 External items kept: 10
 Official items kept: 14
 
 ## Critical External News
 
-### OpenAI - Texas sues OpenAI, Sam Altman over ChatGPT safety for children
+### OpenAI - UK Home Office May Face Investigation Over Use of OpenAI Tech
 Source: Major External News - OpenAI
-Publisher: Yahoo
-Published: Oct 26, 2026
+Publisher: WIRED
+Published: Oct 27, 2026
 Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMiigFBVV95cUxPZXE3S1hveUdfaVBxTTM5NkUtclVyZ01vUl9mVWhIdVp0anlLd2xYUGZNRUZUd1hQYmd4UW5fWm5zSWcwdGVXTDNFVlJVdWVPWEQ1Yko3dlpfRjdGVjhKQjAyOE9rLTRSbTlXOHQxSUxybjdxNDNkS0RTMmRDRlJtbTc0bGNKRUFMVXc?oc=5
+Link: https://news.google.com/rss/articles/CBMilgFBVV95cUxNX2c0RW1HV0NCbUFvRkNMVHJwWGVFRWcyTUtDVUwwNmREMVpxSTZwMTh4d0ttTnpfdFhFaUQ5OGdNQXoxVW8tZGZ1YlBSYXBkcnBYM1llcTNjZDJ3YnItMEJfa0hudWk5YWtRRWlaTnZpM2l4Q1AtaFR6bHpfVFBjTm5lSW5QTDgxMUEyLWJyWUZDQTM4elE?oc=5
 
-### Anthropic - The FTC is demanding Anthropic execs testify in expanding AI safety probe
+### Anthropic - Meta and Nvidia's AI Partnership and breaking down Anthropic's IPO
 Source: Major External News - Anthropic
-Publisher: Axios
-Published: Oct 26, 2026
-Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMieEFVX3lxTE5TSU12YjBVSEl2R0ZuM2lEWEUzWXZfdzRtaWRkT2NEM21hcUFPSzJqLXY5VTlxWGE4N3VVYWVQemt4SVdJMHVQY3BfNjgteURQYkFNcFdUaU9wd255MXhucjg1Q0dOdnhWTmhPRkZDM05tcnNGX2ZKRQ?oc=5
-
-### Anthropic - Anthropic sued over Elvis songs used to train Claude
-Source: Major External News - Anthropic
-Publisher: Reuters
-Published: Oct 26, 2026
-Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVXZTRUhadExyYWlsOTZxS3AyeEJMNXVWYVMyeHQ4OXhqU2R2TThIZlBwU0Y3ZTdHalVlbGo4S0c5MVhxVE9zYTlxZ0NSOGNiRm5hRVEycVZlS3FpX0dYLXRuaXVweEtWekNMX3JpbWhGOXprZU82VVNLVVRqYlRPckVxWno0alJGV20xcDVxMVZOa0cxaUZwQ2QyYjVEVUlYQVE5b2NNRzI?oc=5
-
-### Meta - Exclusive: Meta acquires AI data platform Sundial
-Source: Major External News - Meta
 Publisher: Yahoo Finance
-Published: Oct 23, 2026
+Published: Oct 27, 2026
 Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMimwFBVV95cUxOcGJzV2lYaDY1VjkzZVlPMVBhYU5ORDFPX3JTa3NsS1JKNkh1b0t4Qll5NDlBUmRWbGExRTBEMWNLM3hNVmtkczU3VWpyYTBrSHZhczkxb1NhX3M2TkY1aGIwb21wS25QdHRnT1c2WklPOHBEVUpjejNVb1hKbVcxcGlPa3JfbVJ5NU9WaWNjVFByUk1YeUFuTnh0aw?oc=5
+Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxPdm1lQlRrNUZfV0VzcmFNSW1fMURyNGMzenJWanM2WkFyUnctckRwYW0xSzZONVNUcFZsVFpNcXhKN1ZXTnlLZTktNmJOZlI1SWdvak1odXV4bVBXTGh6Q1JPclE0RmFwb2FoU01Fa3lOUWx5QWQ1LXpyS3NMSVgzV1BuVmRGbTYtb1hRVnVaQ2ktRUR6ek5FWlBwZVhManlxYUkyajI2RWNhbUU1TWp0dg?oc=5
+
+### Meta - Nvidia investing $3 billion in Meta in Muse partnership
+Source: Major External News - Meta
+Publisher: Axios
+Published: Oct 27, 2026
+Why it matters: Corporate move or major external event
+Link: https://news.google.com/rss/articles/CBMibEFVX3lxTFA4WWFCR1ItajdJSVpLRVB2U0FhNVRSRG1YMTBxSVRJeEYtZUNZVnFGa2RPd0NCN3M0RjRmQUpRUUhCYjBkRFQxVW1IS0RvMXMzdGN2YWdWVUlZN3RKdVRFeVUtLVNTZE5pUlJDZw?oc=5
+
+### Meta - Nvidia, AMD to invest $4 billion in Meta as tech giants deepen AI partnership
+Source: Major External News - Meta
+Publisher: CNBC
+Published: Oct 27, 2026
+Why it matters: Corporate move or major external event
+Link: https://news.google.com/rss/articles/CBMiZkFVX3lxTE9lRlJvNzJPYWpWVDdDUjQwTFZVZC1Ibk54Zk43SEc1LUE0ZXpweFJZcUo2TVYwYTVWcDZrdEVpMFFpeXNIUkU2MTVNa1FXaC1Pdm5yWkhUYlptVVUzbjNuWlZ2NlVVZ9IBa0FVX3lxTFBTQXJKZC1wR0l4eGtlcFlaODVRTGRvWlR0Y3dhZnhMZFFxbzRHSEJ0RjFMNVh3R1h4bnZzaWc0U2JIYWExUlZCRzRNZWlFcF9QcWhiZUFHRWM2VWwzd0lFUGhzSUFVd0lVREtN?oc=5
 
 ## Important External News
 
-### Anthropic - Anthropic IPO reminds this former Amazon board member of Jeff Bezos's AWS bet
+### Anthropic - Anthropic’s 7 Co-Founders Could See Combined Wealth Top $200 Billion if AI Startup Hits $2 Trillion IPO Valuation: Report
 Source: Major External News - Anthropic
 Publisher: Yahoo Finance
-Published: Oct 26, 2026
+Published: Oct 27, 2026
 Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMizgFBVV95cUxObDluS3Q3dTBMc3hHVnYwMHJWWHFseDZDWWpPSEpaN3BZeGNyQjdIQUREYXM1dE1rMGhGbzg5ZjNUYmJxS28teHVLU2hlNE4yUXdKa0VfOXZueThpdV9yS0NocUt1ZW9ULWNTaW55a1RmMEdtdHdEV3AtQTJzcEEzM2xPNVJHNi1iOTlwUjUzVV84NXB5cFNLempoekJtb0xyZ0w2M0M4VF9SZVhYS0xTVW00SzcxbUdjUGVfMl90Q3NIMU1QOTFDWWtTQXh0QQ?oc=5
+Link: https://news.google.com/rss/articles/CBMimAFBVV95cUxPbHRZSXF6ZXhfckNKTU1wN1U1ejNITEFRTzVuVXkzZGR0eTJHTmhjUG03R0oyMGF0YWxrR283OGd4Q3JiOGRCWWlXaGxuLUcxc3BfWnRUaURBN2JIS2gwVU01c2tTb1hSZjYzbFI2eUpXY2phU1puaF9Na1FwOXhBVWFpdHBxajdra05uejVfd0xDU1pFSktENg?oc=5
 
-### Anthropic - Anthropic’s IPO prospectus shows $16.3 billion in revenue, an $80.7 billion net loss, and goal of an 'age of miracles'
-Source: Major External News - Anthropic
-Publisher: Fortune
-Published: Oct 26, 2026
+### OpenAI - OpenAI nears up to $30 billion funding round at $1.25 trillion valuation led by UAE investors
+Source: Major External News - OpenAI
+Publisher: CNBC
+Published: Oct 22, 2026
 Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMiWkFVX3lxTE83a1BzeUdlQVM4X1VkUUFBWnBYWEtTeUpXaF9WUHRqbTg2bC15XzZmUGE1YVZsMmdLWWJUbmp5d09EYWtmQ29DRXllQzhSOGpoR0pTM2p4b0Qwdw?oc=5
+Link: https://news.google.com/rss/articles/CBMie0FVX3lxTE4yWm1VRnpOb00tR0ZfUDVmaVh2S1dyNVhia0J4OWJ5anpxRUUtbjhHX19IbHZDUEdlVEc4OEE3aHQxNGw0ajhwR0ZDTFdPcC01YzZ6My1HVW84bzFzRHpnNGdkNnRCSnVrYTZMcnBGMjZVd0tIVUI5cWkxQdIBgAFBVV95cUxPeVdKRHhVdHUwa3ZfVkMxQm1od1YycVNSZURFaU1yeS1jUGhUNVF6MTh1aDdObmNuUks4d2k3empTZFNGUnFmZjYzNWR2VTJNbnlhNzI0dmpZZ0ctR3NwT05yTGdqRU5yaGFzX0FWVFpNY1BnbmVMaldMU3NZXzh1OA?oc=5
 
 ## Critical Official Updates
 
-### OpenAI - How Ultrafast cut incident investigation from hours to minutes at OpenAI
+### OpenAI - OpenAI expands partnership with Oracle to bring its apps to ChatGPT
+Source: OpenAI Newsroom
+Published: Oct 27, 2026
+Why it matters: Corporate move or major external event
+Summary: OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.
+Link: https://openai.com/index/oracle-apps-in-chatgpt
+
+## Important Official Updates
+
+### OpenAI - Greptile takes bug detection beyond code review with GPT-6 Astra
 Source: OpenAI Newsroom
 Published: Oct 26, 2026
-Why it matters: Corporate move or major external event
-Summary: See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.
-Link: https://openai.com/index/openai-cut-incident-investigation
+Why it matters: Safety, security, or policy update
+Summary: How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.
+Link: https://openai.com/index/greptile-code-review-codex-astra
 
-### OpenAI - Introducing GPT-6.1 Terra
+### OpenAI - GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases
 Source: OpenAI Newsroom
-Published: Oct 25, 2026
-Why it matters: Flagship model or product launch
-Summary: Bringing fast and capable computer use to everyone
-Link: https://openai.com/index/introducing-gpt-6-1-terra
+Published: Oct 26, 2026
+Why it matters: Safety, security, or policy update
+Summary: CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.
+Link: https://openai.com/index/gpt-6-1-sol-coderabbit-code-security
+
+### Google - We’re announcing Genie 4, our new world model for real-time interactive simulation.
+Source: Google AI
+Published: Oct 27, 2026
+Why it matters: Technical or research update
+Summary: Today, we’re announcing our research on Genie 4, our new world model that brings unprecedented realism and native audio to real-time interactive simulation.The Genie 4 m…
+Link: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-genie-4
 
 ## Official Company Updates
 
-### OpenAI - ChatGPT’s expanding world of work
+### OpenAI - Working with academic communities to build scientific understanding
 Source: OpenAI Newsroom
 Published: Oct 26, 2026
 Why it matters: Routine official update
-Summary: Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.
-Link: https://openai.com/index/chatgpt-expanding-world-of-work
+Summary: OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.
+Link: https://openai.com/index/building-scientific-understanding-with-academic-communities
 
-### OpenAI - How Fanatics and OpenAI streamline the fan experience
-Source: OpenAI Newsroom
-Published: Oct 26, 2026
-Why it matters: Routine official update
-Summary: Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.
-Link: https://openai.com/index/fanatics-streamline-fan-experience
-
-### Anthropic - Anthropic files S-1 with the SEC for proposed initial public offering
+### Anthropic - Anthropic has opened an office in Singapore and signed an MOU with the country’s government to advance safe, responsible AI adoption.
 Source: Anthropic News
 Published: Unknown
 Why it matters: Routine official update
-Link: https://www.anthropic.com/news/s1-sec
+Link: https://www.anthropic.com/news/singapore-office-opening

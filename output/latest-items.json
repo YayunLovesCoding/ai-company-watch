@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T19:47:15.561Z",
+  "generatedAt": "2026-10-27T19:16:45.708Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -76,9 +76,9 @@
     }
   ],
   "totals": {
-    "fetched": 41,
+    "fetched": 42,
     "deduped": 24,
-    "new": 11,
+    "new": 12,
     "byKind": {
       "official": 14,
       "external": 10
@@ -86,17 +86,17 @@
   },
   "items": [
     {
-      "id": "7a33e35c4f398980c2571f1430885c83daa38f92",
+      "id": "6d9e3d93e8a4b638c126892c960e5e60289812c6",
       "company": "OpenAI",
       "sourceKind": "external",
       "sourceId": "external-openai-major",
       "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZXE3S1hveUdfaVBxTTM5NkUtclVyZ01vUl9mVWhIdVp0anlLd2xYUGZNRUZUd1hQYmd4UW5fWm5zSWcwdGVXTDNFVlJVdWVPWEQ1Yko3dlpfRjdGVjhKQjAyOE9rLTRSbTlXOHQxSUxybjdxNDNkS0RTMmRDRlJtbTc0bGNKRUFMVXc?oc=5",
-      "title": "Texas sues OpenAI, Sam Altman over ChatGPT safety for children",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNX2c0RW1HV0NCbUFvRkNMVHJwWGVFRWcyTUtDVUwwNmREMVpxSTZwMTh4d0ttTnpfdFhFaUQ5OGdNQXoxVW8tZGZ1YlBSYXBkcnBYM1llcTNjZDJ3YnItMEJfa0hudWk5YWtRRWlaTnZpM2l4Q1AtaFR6bHpfVFBjTm5lSW5QTDgxMUEyLWJyWUZDQTM4elE?oc=5",
+      "title": "UK Home Office May Face Investigation Over Use of OpenAI Tech",
       "summary": "",
-      "publishedAt": "2026-10-26T18:34:29.000Z",
-      "publisher": "Yahoo",
+      "publishedAt": "2026-10-27T15:10:00.000Z",
+      "publisher": "WIRED",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -105,17 +105,55 @@
       }
     },
     {
-      "id": "fe8abc7718c7cd3777280709e25b0a644dd4c6c4",
+      "id": "8e0a6d0cd0cfff0c804af650f0637e091a6b3915",
       "company": "Anthropic",
       "sourceKind": "external",
       "sourceId": "external-anthropic-major",
       "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5TSU12YjBVSEl2R0ZuM2lEWEUzWXZfdzRtaWRkT2NEM21hcUFPSzJqLXY5VTlxWGE4N3VVYWVQemt4SVdJMHVQY3BfNjgteURQYkFNcFdUaU9wd255MXhucjg1Q0dOdnhWTmhPRkZDM05tcnNGX2ZKRQ?oc=5",
-      "title": "The FTC is demanding Anthropic execs testify in expanding AI safety probe",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdm1lQlRrNUZfV0VzcmFNSW1fMURyNGMzenJWanM2WkFyUnctckRwYW0xSzZONVNUcFZsVFpNcXhKN1ZXTnlLZTktNmJOZlI1SWdvak1odXV4bVBXTGh6Q1JPclE0RmFwb2FoU01Fa3lOUWx5QWQ1LXpyS3NMSVgzV1BuVmRGbTYtb1hRVnVaQ2ktRUR6ek5FWlBwZVhManlxYUkyajI2RWNhbUU1TWp0dg?oc=5",
+      "title": "Meta and Nvidia's AI Partnership and breaking down Anthropic's IPO",
       "summary": "",
-      "publishedAt": "2026-10-26T18:03:45.000Z",
+      "publishedAt": "2026-10-27T13:38:21.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "27379a130863fc6ce14176725cbd1b2e2103f285",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4WWFCR1ItajdJSVpLRVB2U0FhNVRSRG1YMTBxSVRJeEYtZUNZVnFGa2RPd0NCN3M0RjRmQUpRUUhCYjBkRFQxVW1IS0RvMXMzdGN2YWdWVUlZN3RKdVRFeVUtLVNTZE5pUlJDZw?oc=5",
+      "title": "Nvidia investing $3 billion in Meta in Muse partnership",
+      "summary": "",
+      "publishedAt": "2026-10-27T09:25:48.000Z",
       "publisher": "Axios",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "2c1cd4f8f0f554939055867b9a4f368e089c9aed",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9lRlJvNzJPYWpWVDdDUjQwTFZVZC1Ibk54Zk43SEc1LUE0ZXpweFJZcUo2TVYwYTVWcDZrdEVpMFFpeXNIUkU2MTVNa1FXaC1Pdm5yWkhUYlptVVUzbjNuWlZ2NlVVZ9IBa0FVX3lxTFBTQXJKZC1wR0l4eGtlcFlaODVRTGRvWlR0Y3dhZnhMZFFxbzRHSEJ0RjFMNVh3R1h4bnZzaWc0U2JIYWExUlZCRzRNZWlFcF9QcWhiZUFHRWM2VWwzd0lFUGhzSUFVd0lVREtN?oc=5",
+      "title": "Nvidia, AMD to invest $4 billion in Meta as tech giants deepen AI partnership",
+      "summary": "",
+      "publishedAt": "2026-10-27T08:40:53.000Z",
+      "publisher": "CNBC",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -143,60 +181,22 @@
       }
     },
     {
-      "id": "662b94b180708299f6b46753dde66a43f9f0d80e",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcGJzV2lYaDY1VjkzZVlPMVBhYU5ORDFPX3JTa3NsS1JKNkh1b0t4Qll5NDlBUmRWbGExRTBEMWNLM3hNVmtkczU3VWpyYTBrSHZhczkxb1NhX3M2TkY1aGIwb21wS25QdHRnT1c2WklPOHBEVUpjejNVb1hKbVcxcGlPa3JfbVJ5NU9WaWNjVFByUk1YeUFuTnh0aw?oc=5",
-      "title": "Exclusive: Meta acquires AI data platform Sundial",
-      "summary": "",
-      "publishedAt": "2026-10-23T20:52:20.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "8f2f08b6e197805b4e591a57a55e222a54e44f14",
+      "id": "a3a879144b2984ac94bfd6f21f2a919716019c6d",
       "company": "OpenAI",
       "sourceKind": "official",
       "sourceId": "openai-newsroom",
       "sourceLabel": "OpenAI Newsroom",
       "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/openai-cut-incident-investigation",
-      "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
-      "summary": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
-      "publishedAt": "2026-10-26T07:00:00.000Z",
+      "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+      "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
+      "publishedAt": "2026-10-27T07:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
         "score": 6,
         "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "1758535ac6be3e6bbbbd229f2163da1b6bc77452",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/introducing-gpt-6-1-terra",
-      "title": "Introducing GPT-6.1 Terra",
-      "summary": "Bringing fast and capable computer use to everyone",
-      "publishedAt": "2026-10-26T00:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Flagship model or product launch"
       }
     },
     {
@@ -219,6 +219,25 @@
       }
     },
     {
+      "id": "04b3c35e479977c657a8ae578cd5bc6fa42133f3",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbHRZSXF6ZXhfckNKTU1wN1U1ejNITEFRTzVuVXkzZGR0eTJHTmhjUG03R0oyMGF0YWxrR283OGd4Q3JiOGRCWWlXaGxuLUcxc3BfWnRUaURBN2JIS2gwVU01c2tTb1hSZjYzbFI2eUpXY2phU1puaF9Na1FwOXhBVWFpdHBxajdra05uejVfd0xDU1pFSktENg?oc=5",
+      "title": "Anthropic’s 7 Co-Founders Could See Combined Wealth Top $200 Billion if AI Startup Hits $2 Trillion IPO Valuation: Report",
+      "summary": "",
+      "publishedAt": "2026-10-27T16:30:10.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
       "id": "09732252eb71f831893dbfc1c43844b585aec3a6",
       "company": "Anthropic",
       "sourceKind": "external",
@@ -230,25 +249,6 @@
       "summary": "",
       "publishedAt": "2026-10-26T14:44:06.000Z",
       "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "8f5502ea71118358a3092912e5e85b6b762aee21",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83a1BzeUdlQVM4X1VkUUFBWnBYWEtTeUpXaF9WUHRqbTg2bC15XzZmUGE1YVZsMmdLWWJUbmp5d09EYWtmQ29DRXllQzhSOGpoR0pTM2p4b0Qwdw?oc=5",
-      "title": "Anthropic’s IPO prospectus shows $16.3 billion in revenue, an $80.7 billion net loss, and goal of an 'age of miracles'",
-      "summary": "",
-      "publishedAt": "2026-10-26T14:25:00.000Z",
-      "publisher": "Fortune",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -276,35 +276,54 @@
       }
     },
     {
-      "id": "ffd134c3576f00602414f81c973442bd74f41f4f",
+      "id": "250e5d8f302445e732f11c3d93295dd5649f2f7e",
       "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWHUwZllOYVp1Z0ZEdUJsYllvSm9nVjVyVHRudGg5bDZIcGtkclhfRlFBMEhVdEhSaHVHR3lURnNvWXhZck5ja2dmcXhpZFh3a2lna2hrUXJkdzRFbDF5bVVUTDVGUVBXVTVIeWIteGE4SXl6Sk1ONFBhUy1UbVRTRDdtTXhKeklzMGVCNkxmWThkUl9x?oc=5",
-      "title": "OpenAI Nears $1.25 Trillion Valuation. What That Tells Investors Ahead of a Potential 2027 IPO.",
-      "summary": "",
-      "publishedAt": "2026-10-24T05:58:24.000Z",
-      "publisher": "Yahoo Finance",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/greptile-code-review-codex-astra",
+      "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+      "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+      "publishedAt": "2026-10-26T22:00:00.000Z",
+      "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
-        "score": 3,
-        "reason": "Trusted external coverage"
+        "score": 4,
+        "reason": "Safety, security, or policy update"
       }
     },
     {
-      "id": "b0d44961fea25d764b091265b488d212a6117b29",
+      "id": "1a1d4bf2fc111eb8468802ff9bbd62e331b7f1cf",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+      "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+      "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
+      "publishedAt": "2026-10-26T13:45:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "adb397617d69697a1bce2120c45a2401a269c5d4",
       "company": "OpenAI",
       "sourceKind": "external",
       "sourceId": "external-openai-major",
       "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPM29SaklkbG0weV9VVHlqa2ZXUFEzNk1xZElNanRadVZyT3lHOUZYV1VLZ1hPaDZXVmpURXVFeGNXNnM3cmVPNTQyb1FJM0RpSV9YaXNLVi1XbjlLcEpaUFFta3c1Wm93MUdGWHpXQktabDd5N3JOb2s1TWwwejFydUUxb1R6N1Vxc1lDZXJ6eGxWOTNjZHR2eXdaVG1lcEF0MHlOTlVicTZ3UmM2TElkM1IteUhISHQ0NlYyRUZLQTN5ZUNSTVpodUtBSHBOdw?oc=5",
-      "title": "OpenAI nears funding round of up to $30B at a $1.25T valuation, led by UAE investors: sources",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4yWm1VRnpOb00tR0ZfUDVmaVh2S1dyNVhia0J4OWJ5anpxRUUtbjhHX19IbHZDUEdlVEc4OEE3aHQxNGw0ajhwR0ZDTFdPcC01YzZ6My1HVW84bzFzRHpnNGdkNnRCSnVrYTZMcnBGMjZVd0tIVUI5cWkxQdIBgAFBVV95cUxPeVdKRHhVdHUwa3ZfVkMxQm1od1YycVNSZURFaU1yeS1jUGhUNVF6MTh1aDdObmNuUks4d2k3empTZFNGUnFmZjYzNWR2VTJNbnlhNzI0dmpZZ0ctR3NwT05yTGdqRU5yaGFzX0FWVFpNY1BnbmVMaldMU3NZXzh1OA?oc=5",
+      "title": "OpenAI nears up to $30 billion funding round at $1.25 trillion valuation led by UAE investors",
       "summary": "",
-      "publishedAt": "2026-10-23T15:10:00.000Z",
+      "publishedAt": "2026-10-22T20:15:19.000Z",
       "publisher": "CNBC",
       "discoveryMethod": "feed",
       "classification": {
@@ -333,6 +352,25 @@
       }
     },
     {
+      "id": "b7dc23ae3cdc58263f1c21e0dd7f0c9cd6172356",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-genie-4",
+      "title": "We’re announcing Genie 4, our new world model for real-time interactive simulation.",
+      "summary": "Today, we’re announcing our research on Genie 4, our new world model that brings unprecedented realism and native audio to real-time interactive simulation.The Genie 4 m…",
+      "publishedAt": "2026-10-27T16:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Technical or research update"
+      }
+    },
+    {
       "id": "a0fc52c7c407bf11d8b68ccf62e1b5e671a984b4",
       "company": "Microsoft",
       "sourceKind": "official",
@@ -349,6 +387,25 @@
         "bucket": "important",
         "score": 3,
         "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "f16aefe89a6e3f3b8efed940fa1afba45d52bb2d",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+      "title": "Working with academic communities to build scientific understanding",
+      "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
+      "publishedAt": "2026-10-26T14:30:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
       }
     },
     {
@@ -409,44 +466,6 @@
       }
     },
     {
-      "id": "298c8de07d18f423dad39eb2358f85464fd4cd53",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-      "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
-      "publishedAt": "2026-10-23T17:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "48e2274fdf2ba9fe48db533ddecc410e5cc41b05",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-      "title": "Securing our frontier model training environment",
-      "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
-      "publishedAt": "2026-10-23T10:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
-    },
-    {
       "id": "e38a3ad2196f1022dbb630a6ec269bedf0ae16be",
       "company": "Microsoft",
       "sourceKind": "official",
@@ -457,44 +476,6 @@
       "title": "Before the ambulance arrives: How AI is helping the NHS rethink patient care",
       "summary": "Before the ambulance arrives: How AI is helping the NHS rethink patient care",
       "publishedAt": "2026-10-21T16:24:40.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "07552f78263eb7bd9c8c469f07a8b91110bf300f",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-clinical-study",
-      "title": "Ask a Scientist: How can AI help doctors spend more time on collaborative care?",
-      "summary": "AMIE, an AI system people can chat with before doctor’s appointments, securely gathers patient information, and saves doctors time.",
-      "publishedAt": "2026-10-20T16:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "4bdfa4285ba879d1360c685cad2f0c1afa3cccf4",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/new-tools-small-business-owners",
-      "title": "New Gemini tools for small business owners",
-      "summary": "We’re announcing new tools for Gemini — including a dedicated business landing page — to help small business owners around the world.",
-      "publishedAt": "2026-10-20T16:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -540,21 +521,40 @@
         "score": 1,
         "reason": "Routine official update"
       }
+    },
+    {
+      "id": "87253efedaff810e9e069125a5f7f7cc952dd69f",
+      "company": "Anthropic",
+      "sourceKind": "official",
+      "sourceId": "anthropic-news",
+      "sourceLabel": "Anthropic News",
+      "homepageUrl": "https://www.anthropic.com/news",
+      "url": "https://www.anthropic.com/news/singapore-office-opening",
+      "title": "Anthropic has opened an office in Singapore and signed an MOU with the country’s government to advance safe, responsible AI adoption.",
+      "summary": "",
+      "publishedAt": null,
+      "publisher": "",
+      "discoveryMethod": "anchor",
+      "classification": {
+        "bucket": "digest",
+        "score": 1,
+        "reason": "Routine official update"
+      }
     }
   ],
   "newItems": [
     {
-      "id": "7a33e35c4f398980c2571f1430885c83daa38f92",
+      "id": "6d9e3d93e8a4b638c126892c960e5e60289812c6",
       "company": "OpenAI",
       "sourceKind": "external",
       "sourceId": "external-openai-major",
       "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZXE3S1hveUdfaVBxTTM5NkUtclVyZ01vUl9mVWhIdVp0anlLd2xYUGZNRUZUd1hQYmd4UW5fWm5zSWcwdGVXTDNFVlJVdWVPWEQ1Yko3dlpfRjdGVjhKQjAyOE9rLTRSbTlXOHQxSUxybjdxNDNkS0RTMmRDRlJtbTc0bGNKRUFMVXc?oc=5",
-      "title": "Texas sues OpenAI, Sam Altman over ChatGPT safety for children",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNX2c0RW1HV0NCbUFvRkNMVHJwWGVFRWcyTUtDVUwwNmREMVpxSTZwMTh4d0ttTnpfdFhFaUQ5OGdNQXoxVW8tZGZ1YlBSYXBkcnBYM1llcTNjZDJ3YnItMEJfa0hudWk5YWtRRWlaTnZpM2l4Q1AtaFR6bHpfVFBjTm5lSW5QTDgxMUEyLWJyWUZDQTM4elE?oc=5",
+      "title": "UK Home Office May Face Investigation Over Use of OpenAI Tech",
       "summary": "",
-      "publishedAt": "2026-10-26T18:34:29.000Z",
-      "publisher": "Yahoo",
+      "publishedAt": "2026-10-27T15:10:00.000Z",
+      "publisher": "WIRED",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -563,16 +563,35 @@
       }
     },
     {
-      "id": "fe8abc7718c7cd3777280709e25b0a644dd4c6c4",
+      "id": "8e0a6d0cd0cfff0c804af650f0637e091a6b3915",
       "company": "Anthropic",
       "sourceKind": "external",
       "sourceId": "external-anthropic-major",
       "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5TSU12YjBVSEl2R0ZuM2lEWEUzWXZfdzRtaWRkT2NEM21hcUFPSzJqLXY5VTlxWGE4N3VVYWVQemt4SVdJMHVQY3BfNjgteURQYkFNcFdUaU9wd255MXhucjg1Q0dOdnhWTmhPRkZDM05tcnNGX2ZKRQ?oc=5",
-      "title": "The FTC is demanding Anthropic execs testify in expanding AI safety probe",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdm1lQlRrNUZfV0VzcmFNSW1fMURyNGMzenJWanM2WkFyUnctckRwYW0xSzZONVNUcFZsVFpNcXhKN1ZXTnlLZTktNmJOZlI1SWdvak1odXV4bVBXTGh6Q1JPclE0RmFwb2FoU01Fa3lOUWx5QWQ1LXpyS3NMSVgzV1BuVmRGbTYtb1hRVnVaQ2ktRUR6ek5FWlBwZVhManlxYUkyajI2RWNhbUU1TWp0dg?oc=5",
+      "title": "Meta and Nvidia's AI Partnership and breaking down Anthropic's IPO",
       "summary": "",
-      "publishedAt": "2026-10-26T18:03:45.000Z",
+      "publishedAt": "2026-10-27T13:38:21.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "27379a130863fc6ce14176725cbd1b2e2103f285",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4WWFCR1ItajdJSVpLRVB2U0FhNVRSRG1YMTBxSVRJeEYtZUNZVnFGa2RPd0NCN3M0RjRmQUpRUUhCYjBkRFQxVW1IS0RvMXMzdGN2YWdWVUlZN3RKdVRFeVUtLVNTZE5pUlJDZw?oc=5",
+      "title": "Nvidia investing $3 billion in Meta in Muse partnership",
+      "summary": "",
+      "publishedAt": "2026-10-27T09:25:48.000Z",
       "publisher": "Axios",
       "discoveryMethod": "feed",
       "classification": {
@@ -582,17 +601,17 @@
       }
     },
     {
-      "id": "87797b90a77f1c29fa440bdd096ffeaa0160729d",
-      "company": "Anthropic",
+      "id": "2c1cd4f8f0f554939055867b9a4f368e089c9aed",
+      "company": "Meta",
       "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVXZTRUhadExyYWlsOTZxS3AyeEJMNXVWYVMyeHQ4OXhqU2R2TThIZlBwU0Y3ZTdHalVlbGo4S0c5MVhxVE9zYTlxZ0NSOGNiRm5hRVEycVZlS3FpX0dYLXRuaXVweEtWekNMX3JpbWhGOXprZU82VVNLVVRqYlRPckVxWno0alJGV20xcDVxMVZOa0cxaUZwQ2QyYjVEVUlYQVE5b2NNRzI?oc=5",
-      "title": "Anthropic sued over Elvis songs used to train Claude",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9lRlJvNzJPYWpWVDdDUjQwTFZVZC1Ibk54Zk43SEc1LUE0ZXpweFJZcUo2TVYwYTVWcDZrdEVpMFFpeXNIUkU2MTVNa1FXaC1Pdm5yWkhUYlptVVUzbjNuWlZ2NlVVZ9IBa0FVX3lxTFBTQXJKZC1wR0l4eGtlcFlaODVRTGRvWlR0Y3dhZnhMZFFxbzRHSEJ0RjFMNVh3R1h4bnZzaWc0U2JIYWExUlZCRzRNZWlFcF9QcWhiZUFHRWM2VWwzd0lFUGhzSUFVd0lVREtN?oc=5",
+      "title": "Nvidia, AMD to invest $4 billion in Meta as tech giants deepen AI partnership",
       "summary": "",
-      "publishedAt": "2026-10-26T15:09:45.000Z",
-      "publisher": "Reuters",
+      "publishedAt": "2026-10-27T08:40:53.000Z",
+      "publisher": "CNBC",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -601,35 +620,16 @@
       }
     },
     {
-      "id": "662b94b180708299f6b46753dde66a43f9f0d80e",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcGJzV2lYaDY1VjkzZVlPMVBhYU5ORDFPX3JTa3NsS1JKNkh1b0t4Qll5NDlBUmRWbGExRTBEMWNLM3hNVmtkczU3VWpyYTBrSHZhczkxb1NhX3M2TkY1aGIwb21wS25QdHRnT1c2WklPOHBEVUpjejNVb1hKbVcxcGlPa3JfbVJ5NU9WaWNjVFByUk1YeUFuTnh0aw?oc=5",
-      "title": "Exclusive: Meta acquires AI data platform Sundial",
-      "summary": "",
-      "publishedAt": "2026-10-23T20:52:20.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "8f2f08b6e197805b4e591a57a55e222a54e44f14",
+      "id": "a3a879144b2984ac94bfd6f21f2a919716019c6d",
       "company": "OpenAI",
       "sourceKind": "official",
       "sourceId": "openai-newsroom",
       "sourceLabel": "OpenAI Newsroom",
       "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/openai-cut-incident-investigation",
-      "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
-      "summary": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
-      "publishedAt": "2026-10-26T07:00:00.000Z",
+      "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+      "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
+      "publishedAt": "2026-10-27T07:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -639,35 +639,16 @@
       }
     },
     {
-      "id": "1758535ac6be3e6bbbbd229f2163da1b6bc77452",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/introducing-gpt-6-1-terra",
-      "title": "Introducing GPT-6.1 Terra",
-      "summary": "Bringing fast and capable computer use to everyone",
-      "publishedAt": "2026-10-26T00:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "09732252eb71f831893dbfc1c43844b585aec3a6",
+      "id": "04b3c35e479977c657a8ae578cd5bc6fa42133f3",
       "company": "Anthropic",
       "sourceKind": "external",
       "sourceId": "external-anthropic-major",
       "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObDluS3Q3dTBMc3hHVnYwMHJWWHFseDZDWWpPSEpaN3BZeGNyQjdIQUREYXM1dE1rMGhGbzg5ZjNUYmJxS28teHVLU2hlNE4yUXdKa0VfOXZueThpdV9yS0NocUt1ZW9ULWNTaW55a1RmMEdtdHdEV3AtQTJzcEEzM2xPNVJHNi1iOTlwUjUzVV84NXB5cFNLempoekJtb0xyZ0w2M0M4VF9SZVhYS0xTVW00SzcxbUdjUGVfMl90Q3NIMU1QOTFDWWtTQXh0QQ?oc=5",
-      "title": "Anthropic IPO reminds this former Amazon board member of Jeff Bezos's AWS bet",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbHRZSXF6ZXhfckNKTU1wN1U1ejNITEFRTzVuVXkzZGR0eTJHTmhjUG03R0oyMGF0YWxrR283OGd4Q3JiOGRCWWlXaGxuLUcxc3BfWnRUaURBN2JIS2gwVU01c2tTb1hSZjYzbFI2eUpXY2phU1puaF9Na1FwOXhBVWFpdHBxajdra05uejVfd0xDU1pFSktENg?oc=5",
+      "title": "Anthropic’s 7 Co-Founders Could See Combined Wealth Top $200 Billion if AI Startup Hits $2 Trillion IPO Valuation: Report",
       "summary": "",
-      "publishedAt": "2026-10-26T14:44:06.000Z",
+      "publishedAt": "2026-10-27T16:30:10.000Z",
       "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
@@ -677,35 +658,92 @@
       }
     },
     {
-      "id": "8f5502ea71118358a3092912e5e85b6b762aee21",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83a1BzeUdlQVM4X1VkUUFBWnBYWEtTeUpXaF9WUHRqbTg2bC15XzZmUGE1YVZsMmdLWWJUbmp5d09EYWtmQ29DRXllQzhSOGpoR0pTM2p4b0Qwdw?oc=5",
-      "title": "Anthropic’s IPO prospectus shows $16.3 billion in revenue, an $80.7 billion net loss, and goal of an 'age of miracles'",
-      "summary": "",
-      "publishedAt": "2026-10-26T14:25:00.000Z",
-      "publisher": "Fortune",
+      "id": "250e5d8f302445e732f11c3d93295dd5649f2f7e",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/greptile-code-review-codex-astra",
+      "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+      "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+      "publishedAt": "2026-10-26T22:00:00.000Z",
+      "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
         "score": 4,
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "1a1d4bf2fc111eb8468802ff9bbd62e331b7f1cf",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+      "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+      "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
+      "publishedAt": "2026-10-26T13:45:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "adb397617d69697a1bce2120c45a2401a269c5d4",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4yWm1VRnpOb00tR0ZfUDVmaVh2S1dyNVhia0J4OWJ5anpxRUUtbjhHX19IbHZDUEdlVEc4OEE3aHQxNGw0ajhwR0ZDTFdPcC01YzZ6My1HVW84bzFzRHpnNGdkNnRCSnVrYTZMcnBGMjZVd0tIVUI5cWkxQdIBgAFBVV95cUxPeVdKRHhVdHUwa3ZfVkMxQm1od1YycVNSZURFaU1yeS1jUGhUNVF6MTh1aDdObmNuUks4d2k3empTZFNGUnFmZjYzNWR2VTJNbnlhNzI0dmpZZ0ctR3NwT05yTGdqRU5yaGFzX0FWVFpNY1BnbmVMaldMU3NZXzh1OA?oc=5",
+      "title": "OpenAI nears up to $30 billion funding round at $1.25 trillion valuation led by UAE investors",
+      "summary": "",
+      "publishedAt": "2026-10-22T20:15:19.000Z",
+      "publisher": "CNBC",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
         "reason": "Trusted external coverage"
       }
     },
     {
-      "id": "64d59b55a8fb866695c8c1e923e768f9baf418cb",
+      "id": "b7dc23ae3cdc58263f1c21e0dd7f0c9cd6172356",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-genie-4",
+      "title": "We’re announcing Genie 4, our new world model for real-time interactive simulation.",
+      "summary": "Today, we’re announcing our research on Genie 4, our new world model that brings unprecedented realism and native audio to real-time interactive simulation.The Genie 4 m…",
+      "publishedAt": "2026-10-27T16:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Technical or research update"
+      }
+    },
+    {
+      "id": "f16aefe89a6e3f3b8efed940fa1afba45d52bb2d",
       "company": "OpenAI",
       "sourceKind": "official",
       "sourceId": "openai-newsroom",
       "sourceLabel": "OpenAI Newsroom",
       "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
-      "title": "ChatGPT’s expanding world of work",
-      "summary": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
-      "publishedAt": "2026-10-26T10:00:00.000Z",
+      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+      "title": "Working with academic communities to build scientific understanding",
+      "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
+      "publishedAt": "2026-10-26T14:30:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -715,33 +753,14 @@
       }
     },
     {
-      "id": "eb7708c5f537ab79bfe683ac06695862c6627f7a",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/fanatics-streamline-fan-experience",
-      "title": "How Fanatics and OpenAI streamline the fan experience",
-      "summary": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
-      "publishedAt": "2026-10-26T07:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "edf59637f599d673936feb2660654973133b362c",
+      "id": "87253efedaff810e9e069125a5f7f7cc952dd69f",
       "company": "Anthropic",
       "sourceKind": "official",
       "sourceId": "anthropic-news",
       "sourceLabel": "Anthropic News",
       "homepageUrl": "https://www.anthropic.com/news",
-      "url": "https://www.anthropic.com/news/s1-sec",
-      "title": "Anthropic files S-1 with the SEC for proposed initial public offering",
+      "url": "https://www.anthropic.com/news/singapore-office-opening",
+      "title": "Anthropic has opened an office in Singapore and signed an MOU with the country’s government to advance safe, responsible AI adoption.",
       "summary": "",
       "publishedAt": null,
       "publisher": "",
