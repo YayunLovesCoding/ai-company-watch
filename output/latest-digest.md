@@ -1,103 +1,79 @@
 # AI Company Watch
 
-Generated: Oct 27, 2026, 12:16 PM PDT
+Generated: Oct 28, 2026, 12:23 PM PDT
 Lookback window: 7 day(s)
 Sources checked: 12
-Items fetched: 42
+Items fetched: 40
 Items kept: 24
-New items: 12
-External items kept: 10
-Official items kept: 14
+New items: 9
+External items kept: 9
+Official items kept: 15
 
 ## Critical External News
 
-### OpenAI - UK Home Office May Face Investigation Over Use of OpenAI Tech
+### OpenAI - Oracle expands OpenAI partnership, stock jumps on deal
 Source: Major External News - OpenAI
-Publisher: WIRED
+Publisher: CNBC
 Published: Oct 27, 2026
 Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMilgFBVV95cUxNX2c0RW1HV0NCbUFvRkNMVHJwWGVFRWcyTUtDVUwwNmREMVpxSTZwMTh4d0ttTnpfdFhFaUQ5OGdNQXoxVW8tZGZ1YlBSYXBkcnBYM1llcTNjZDJ3YnItMEJfa0hudWk5YWtRRWlaTnZpM2l4Q1AtaFR6bHpfVFBjTm5lSW5QTDgxMUEyLWJyWUZDQTM4elE?oc=5
+Link: https://news.google.com/rss/articles/CBMinAFBVV95cUxNSVRPQkhOWF9iLXVxeEVhci01ZV95V0NBb0NGanhIUkVfbEc3cnpiV25QYXlHSnNZWE1nX1RXd0Iyb0hkMFNnaElxVHBQcjZwYmlLbVZQVGx1OEk0Yk1VbzdxTEVVc2l2TmRxZXN5TnF5b3pZOXRfdGVCb0pvTjZ5VU56ZGlINUZ1QlFscWZYUlNuMVhwVkhrTUZ0Z28?oc=5
 
-### Anthropic - Meta and Nvidia's AI Partnership and breaking down Anthropic's IPO
+### Anthropic - Lumia Security Adds Claude Compliance API Integration, Expanding AI Governance Options for Enterprises
 Source: Major External News - Anthropic
 Publisher: Yahoo Finance
 Published: Oct 27, 2026
-Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxPdm1lQlRrNUZfV0VzcmFNSW1fMURyNGMzenJWanM2WkFyUnctckRwYW0xSzZONVNUcFZsVFpNcXhKN1ZXTnlLZTktNmJOZlI1SWdvak1odXV4bVBXTGh6Q1JPclE0RmFwb2FoU01Fa3lOUWx5QWQ1LXpyS3NMSVgzV1BuVmRGbTYtb1hRVnVaQ2ktRUR6ek5FWlBwZVhManlxYUkyajI2RWNhbUU1TWp0dg?oc=5
-
-### Meta - Nvidia investing $3 billion in Meta in Muse partnership
-Source: Major External News - Meta
-Publisher: Axios
-Published: Oct 27, 2026
-Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMibEFVX3lxTFA4WWFCR1ItajdJSVpLRVB2U0FhNVRSRG1YMTBxSVRJeEYtZUNZVnFGa2RPd0NCN3M0RjRmQUpRUUhCYjBkRFQxVW1IS0RvMXMzdGN2YWdWVUlZN3RKdVRFeVUtLVNTZE5pUlJDZw?oc=5
-
-### Meta - Nvidia, AMD to invest $4 billion in Meta as tech giants deepen AI partnership
-Source: Major External News - Meta
-Publisher: CNBC
-Published: Oct 27, 2026
-Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMiZkFVX3lxTE9lRlJvNzJPYWpWVDdDUjQwTFZVZC1Ibk54Zk43SEc1LUE0ZXpweFJZcUo2TVYwYTVWcDZrdEVpMFFpeXNIUkU2MTVNa1FXaC1Pdm5yWkhUYlptVVUzbjNuWlZ2NlVVZ9IBa0FVX3lxTFBTQXJKZC1wR0l4eGtlcFlaODVRTGRvWlR0Y3dhZnhMZFFxbzRHSEJ0RjFMNVh3R1h4bnZzaWc0U2JIYWExUlZCRzRNZWlFcF9QcWhiZUFHRWM2VWwzd0lFUGhzSUFVd0lVREtN?oc=5
-
-## Important External News
-
-### Anthropic - Anthropic’s 7 Co-Founders Could See Combined Wealth Top $200 Billion if AI Startup Hits $2 Trillion IPO Valuation: Report
-Source: Major External News - Anthropic
-Publisher: Yahoo Finance
-Published: Oct 27, 2026
-Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMimAFBVV95cUxPbHRZSXF6ZXhfckNKTU1wN1U1ejNITEFRTzVuVXkzZGR0eTJHTmhjUG03R0oyMGF0YWxrR283OGd4Q3JiOGRCWWlXaGxuLUcxc3BfWnRUaURBN2JIS2gwVU01c2tTb1hSZjYzbFI2eUpXY2phU1puaF9Na1FwOXhBVWFpdHBxajdra05uejVfd0xDU1pFSktENg?oc=5
-
-### OpenAI - OpenAI nears up to $30 billion funding round at $1.25 trillion valuation led by UAE investors
-Source: Major External News - OpenAI
-Publisher: CNBC
-Published: Oct 22, 2026
-Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMie0FVX3lxTE4yWm1VRnpOb00tR0ZfUDVmaVh2S1dyNVhia0J4OWJ5anpxRUUtbjhHX19IbHZDUEdlVEc4OEE3aHQxNGw0ajhwR0ZDTFdPcC01YzZ6My1HVW84bzFzRHpnNGdkNnRCSnVrYTZMcnBGMjZVd0tIVUI5cWkxQdIBgAFBVV95cUxPeVdKRHhVdHUwa3ZfVkMxQm1od1YycVNSZURFaU1yeS1jUGhUNVF6MTh1aDdObmNuUks4d2k3empTZFNGUnFmZjYzNWR2VTJNbnlhNzI0dmpZZ0ctR3NwT05yTGdqRU5yaGFzX0FWVFpNY1BnbmVMaldMU3NZXzh1OA?oc=5
-
-## Critical Official Updates
-
-### OpenAI - OpenAI expands partnership with Oracle to bring its apps to ChatGPT
-Source: OpenAI Newsroom
-Published: Oct 27, 2026
-Why it matters: Corporate move or major external event
-Summary: OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.
-Link: https://openai.com/index/oracle-apps-in-chatgpt
+Why it matters: Safety, security, or policy update
+Link: https://news.google.com/rss/articles/CBMiowFBVV95cUxOOWJZMHhWUVdQTTUxcE5lOTlZQWowcHNmelRiazBwbzJlcGNoZ0tYQVpqc3J3NmRiYUxyMzVWeGkxQlFsc3h6aDZlWl9HY2RDa0x2T1FqbU1LamFvWnlCVzNnR2c5b1dmazFPMVZKYTliUzdYYk85eUgxS0lhZHdvaUZJYlRkQzVjTnlvMWcxVnRGVlpfU1NIUl8tMDB1ZG54enBv?oc=5
 
 ## Important Official Updates
 
-### OpenAI - Greptile takes bug detection beyond code review with GPT-6 Astra
+### OpenAI - How Check Point accelerates vulnerability research with Daybreak
 Source: OpenAI Newsroom
 Published: Oct 26, 2026
 Why it matters: Safety, security, or policy update
-Summary: How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.
-Link: https://openai.com/index/greptile-code-review-codex-astra
+Summary: With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.
+Link: https://openai.com/index/check-point-daybreak
 
-### OpenAI - GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases
+### OpenAI - Retell uses OpenAI models to help power 100M monthly calls
 Source: OpenAI Newsroom
-Published: Oct 26, 2026
-Why it matters: Safety, security, or policy update
-Summary: CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.
-Link: https://openai.com/index/gpt-6-1-sol-coderabbit-code-security
-
-### Google - We’re announcing Genie 4, our new world model for real-time interactive simulation.
-Source: Google AI
 Published: Oct 27, 2026
 Why it matters: Technical or research update
-Summary: Today, we’re announcing our research on Genie 4, our new world model that brings unprecedented realism and native audio to real-time interactive simulation.The Genie 4 m…
-Link: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-genie-4
+Summary: GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.
+Link: https://openai.com/index/retell-ai
 
 ## Official Company Updates
 
-### OpenAI - Working with academic communities to build scientific understanding
-Source: OpenAI Newsroom
-Published: Oct 26, 2026
+### Google - Dive into new topics with immersive explorations in the Gemini app.
+Source: Google AI
+Published: Oct 28, 2026
 Why it matters: Routine official update
-Summary: OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.
-Link: https://openai.com/index/building-scientific-understanding-with-academic-communities
+Summary: Today, we are rolling out immersive explorations in the new Gemini student hub.
+Link: https://blog.google/innovation-and-ai/products/gemini-app/immersive-explorations-student-hub
 
-### Anthropic - Anthropic has opened an office in Singapore and signed an MOU with the country’s government to advance safe, responsible AI adoption.
-Source: Anthropic News
-Published: Unknown
+### Google - Gemini 4 Carbon: our next frontier model
+Source: Google AI
+Published: Oct 28, 2026
 Why it matters: Routine official update
-Link: https://www.anthropic.com/news/singapore-office-opening
+Summary: Gemini 4 Carbon is our strongest model with state-of-the-art cybersecurity and long horizon capabilities.
+Link: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon
+
+### OpenAI - The future of the firm
+Source: OpenAI Newsroom
+Published: Oct 28, 2026
+Why it matters: Routine official update
+Summary: How AI might enter the org chart—beneath, beside, and between us.
+Link: https://openai.com/index/the-future-of-the-firm
+
+### OpenAI - Legora is building the agentic operating system for legal work
+Source: OpenAI Newsroom
+Published: Oct 28, 2026
+Why it matters: Routine official update
+Summary: See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.
+Link: https://openai.com/index/legora
+
+### Meta - Muse Is Now Available in Singapore: The World’s First Personal AI Agent Built for Everyone
+Source: Meta Newsroom
+Published: Oct 27, 2026
+Why it matters: Routine official update
+Summary: Today we’re announcing Muse is now available in Singapore. The post Muse Is Now Available in Singapore: The World’s First Personal AI Agent Built for Everyone
+Link: https://about.fb.com/news/2026/10/muse-is-now-available-in-singapore-the-worlds-first-personal-ai-agent-built-for-everyone
