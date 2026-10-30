@@ -1,118 +1,81 @@
 # AI Company Watch
 
-Generated: Oct 29, 2026, 12:27 PM PDT
+Generated: Oct 30, 2026, 12:03 PM PDT
 Lookback window: 7 day(s)
 Sources checked: 12
-Items fetched: 40
+Items fetched: 42
 Items kept: 24
-New items: 14
-External items kept: 9
-Official items kept: 15
+New items: 9
+External items kept: 10
+Official items kept: 14
 
 ## Critical External News
 
-### Microsoft - Telesign Partners With Microsoft to Become Key Authentication Provider
+### Anthropic - Broadcom Stock Outlook Hinges On AI Chip Growth And Anthropic Partnership
+Source: Major External News - Anthropic
+Publisher: Yahoo Finance UK
+Published: Oct 30, 2026
+Why it matters: Corporate move or major external event
+Link: https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVE5fNHdFQm14b0dGRXJsNDNxNG90UXdHYVRJOWs5YVd0ODc4ZmM3Zlg2ZUZ5dzNqdlBCTE1ld0dEd1RrQjRYcXhxMGpMZEpBUnltM1oxQzNEc3BpbjJ2ZW44T25WUnBlY2tQeGlGaVBzMkdpX19GdGt4WXhQMVdzVXNhZVlaSGdI?oc=5
+
+### Anthropic - Amazon earnings fall short amid tech sell-off, and Anthropic becomes SpaceX's top partner
+Source: Major External News - Anthropic
+Publisher: Yahoo Finance
+Published: Oct 30, 2026
+Why it matters: Corporate move or major external event
+Link: https://news.google.com/rss/articles/CBMizwFBVV95cUxOc1J1YktQUFJOWnhkYWNpTFM5QWlKd0F1R29yajFrOC1BTWZmeEk2OVBORzhETUljWHNVX2I5V0w1dlVRWDNKZHpXNjR3SHJBWEFFMGM0V3l5azI5bmlraVV4X3hlWWdsV2VwYjNqV2pfQzhIcC1XTFVQQTZRM25PS1VERHdyb1V3enM4dTU5c3RXMm9kejJCS3M2eUtWM3ZzdnpzT3BqWDVuMEQtZlo2RGE2OU5fbDNVYm9oRXpnX1VjY2dpTEdYaGVOcFN3WWc?oc=5
+
+### Microsoft - The Estée Lauder Companies and Microsoft Announce a New Strategic Partnership to Power Enterprise Efficiency and Consumer-Centric Growth
 Source: Major External News - Microsoft
 Publisher: Yahoo Finance
+Published: Oct 30, 2026
+Why it matters: Corporate move or major external event
+Link: https://news.google.com/rss/articles/CBMinAFBVV95cUxOMlRJTXg1Vk96WGdNZzFlS2k1dzhxZnIwbDFiWVozelZ3dmJTTWZXQ1hKRjBBWG5BSERCcWZNQ1ZjcnY4MUpwSUJEUW5tWTA4X25jdW1Qbm5ZZVNfUjlqb2pZQkJuaDRFRUE0b0hXYm1KTk9vLVZvNndvMTVqN3N2bWhNZUZ6X205SGp1eVpNRmswc2c3STFzRmxxWWY?oc=5
+
+### OpenAI - OpenAI-backed Thrive Holdings acquires ADT
+Source: Major External News - OpenAI
+Publisher: TechCrunch
 Published: Oct 29, 2026
 Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMipAFBVV95cUxNZXRGVlZGdXk3V29OT09JY1ZKcDNZY0ZMRWUyMzd6U3VzZVdsQUtyVjl1UHNaalJ5WDlNZTBGeDctMWpMTHhLTng5dmduZXNqekpaNUVrdzhrMVFMb2FTUU5QcnlDVDZZV21DejhRcDlDM3BJSm5STDZkcHlCb2tNSnl6Ri1mOTdtWklCU3BKTldmWVd6d3ZGMm56VFYxSW1taWNOdg?oc=5
+Link: https://news.google.com/rss/articles/CBMigwFBVV95cUxOaFNnYk5yRjFKX2NkdnAyLTBwb3ZselRtdHZycDk4NFhEOTJBZ0RaSmdfbmZEeDFaX1MwX216bjMtRkxMdlhMZnVTWjUydC1XWlJBY3FURmE1SjR1QTZuQUhvMWZGZFVQeW1Tam1GUk9OMmR1OFZSdkM3d0ZLRHA2bHVyYw?oc=5
 
 ## Important External News
 
-### OpenAI - Microsoft recorded $10 billion in revenue from OpenAI
+### Anthropic - Banks Shelve Bond Sale for Anthropic-Tied Texas Data Center
+Source: Major External News - Anthropic
+Publisher: Bloomberg.com
+Published: Oct 29, 2026
+Why it matters: Trusted external coverage
+Link: https://news.google.com/rss/articles/CBMirwFBVV95cUxOTWZ1cFJjWU12d2ZBMU9WVTFvbXFMdXBwaUFMRko0VXBXYkZadEM1dDRsRi04QjR6TjE1NmhpOGY3bDBNdjlrWXUtT29uc2NTNmpVTzE4QnQ0ZkRtNURPOG1OZW5QOGFyMGJ2R196NFhxTThFZGlpSV9PdlVBRFJXdm0wdHRzSnpOTEtPR18ybFpXSGZESWNxeEhEdGotYUJNOHhXYVR3XzlDVlVabjhV?oc=5
+
+### OpenAI - OpenAI Now Makes Up 11% of Microsoft’s Revenue
 Source: Major External News - OpenAI
 Publisher: Yahoo Finance
-Published: Oct 28, 2026
-Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMiowFBVV95cUxNTFd2dkJ0R3BsMy04Ny1rUGlVWncwY0tjMklSSDlSQWNjNUFrb2lSNEdwNjhBZ0dKTnJobnh3WC1xSFFqTVlLZXFBNEs0SDgwTGxfTjdiTldVVjExYk02aVRDRDlDUE1sSnJwdVlWRl9vZ2lIV3FfQ19GeWJPZjJvLVZLeG82MGN1dmxqMVh0SGRqcjgzX2VzZ05UQTFTNHBNVlFB?oc=5
-
-### Anthropic - Reed Hastings Could Get Richer From Anthropic IPO: Here's How Many Shares Netflix Co-Founder Owns
-Source: Major External News - Anthropic
-Publisher: Yahoo Finance
-Published: Oct 28, 2026
-Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMiogFBVV95cUxNSktpN3I5OUJFX3AtTXQ1VW1NcWJYZDhuYmhuTmoyMnhFY1Vxdzl1c0xMdzBoWHBiblZCS2xXM0NGVVdhNE81eDJ2NmFxbll6VnFlNEhuNWFVQkZSeUF2X0k1bjkzdlZ6OWxZWVJrTWRkOVR6RE9hcWhUUmM1N2dKVnAwU0hLdkJmTDhKMUdmRndnUGR4NUc0TzZZS3plYWdHNWc?oc=5
-
-### Microsoft - Microsoft stock jumps 4% as cloud growth drives earnings and revenue beat
-Source: Major External News - Microsoft
-Publisher: CNBC
-Published: Oct 28, 2026
-Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMigAFBVV95cUxNclpVVGdGd3NYYWo4bGNFRTVlYjhQc0VhMzhmZnRsRnlTNkRidVNwaGlQVVdPMktwMHRMYzhUTWpYUXFYaVFfZFRkSkRmbDNGOWxVa29MSWhhUDk4RE9BVElXUTY3SWo2SHRNbGVhRU9vbjd3ZHJnZlpTdHpSbHpDNNIBhgFBVV95cUxNRXA0VC1WZEYxMWVmenJmdVRiRzhDRFVzUVNVNlJXaEJDc011NjZuT2VHdTJLYndYaGV1NDM2UU93Zm12X1J2VWtYMEJNQ3ZkU0Nhb3M0c0dQT3pzVFl3eTlqLWluNHJjRHpVRTJicTdqSXNTSHBVQjdKWlJtYjZjN2tQZkc3dw?oc=5
-
-## Critical Official Updates
-
-### Meta - The Future Is for Everyone: Meta and CNIB Partner to Support Canadians Who Are Blind, Deafblind or Have Low Vision
-Source: Meta Newsroom
 Published: Oct 29, 2026
-Why it matters: Corporate move or major external event
-Summary: We believe the future is for everyone. That&#8217;s why Meta is partnering with CNIB – a non-profit founded in 1918 that empowers Canadians impacted by blindness to live their dreams – to help bring the benefit of AI glasses to more Canadians who are blind, Deafblind or have low...
-Link: https://about.fb.com/news/2026/10/the-future-is-for-everyone-meta-and-cnib-partner-to-support-canadians-who-are-blind-deafblind-or-have-low-vision
-
-### OpenAI - OpenAI and ServiceNow expand partnership across enterprise workflows
-Source: OpenAI Newsroom
-Published: Oct 28, 2026
-Why it matters: Corporate move or major external event
-Summary: OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.
-Link: https://openai.com/index/openai-servicenow-partnership-expansion
-
-### Google - You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.
-Source: Google AI
-Published: Oct 29, 2026
-Why it matters: Flagship model or product launch
-Summary: Generate, edit, and preview PDFs or Docs directly in Gemini. Use the new full-screen editor to refine your files today. See what's new in Gemini.
-Link: https://blog.google/innovation-and-ai/products/gemini-app/edit-files-directly
-
-### Google - Partnering with Singapore to bring frontier AI to public health
-Source: Google AI
-Published: Oct 28, 2026
-Why it matters: Flagship model or product launch
-Summary: Google announced a new research hub and initiatives to support clinicians, advance research, and help Singaporeans live healthier lives.
-Link: https://blog.google/innovation-and-ai/technology/health/google-for-health-summit-singapore
+Why it matters: Trusted external coverage
+Link: https://news.google.com/rss/articles/CBMimgFBVV95cUxQZ1UtaTBHSi1UbWwzMS13Ukk1NjhDWDF2b0Y5UkJJdlVGRUFWSXBIMW5mQmZNQ1B2SzNyZlN5dEx4cmxkVFZXZUJabDl1QUJ2dmNmR2cwWTZhRXhka3RiZHRKSTFVODJzWHBmVWo2WURDcFBRTE1rRGpUdHBDZXNxQzVtRkQxcS1SaTR2M2E1cVlaaUtlUXZUNUtn?oc=5
 
 ## Important Official Updates
 
-### Google - Gemini Notebook makes hundreds of textbooks available to help students learn even more.
+### OpenAI - Community safety report and new protections for teens
+Source: OpenAI Newsroom
+Published: Oct 30, 2026
+Why it matters: Safety, security, or policy update
+Summary: OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.
+Link: https://openai.com/index/community-safety-report-and-new-protections-for-teens
+
+### Google - We’ve received our first response from the Project Suncatcher prototype satellite.
 Source: Google AI
-Published: Oct 29, 2026
+Published: Oct 30, 2026
 Why it matters: Technical or research update
-Summary: Add textbooks from OpenStax and S Chand to Google Gemini Notebook. Generate custom study guides and quizzes now. See the available catalog.
-Link: https://blog.google/innovation-and-ai/products/gemini-notebook/new-access-textbooks
+Summary: This week, we reached our "Hello World" milestone: the first-ever AI response from a data center class TPU in orbit.
+Link: https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response
 
 ## Official Company Updates
 
-### OpenAI - An updated Model Spec for more capable and beneficial AI
+### OpenAI - Making it easier for websites to express AI training preferences
 Source: OpenAI Newsroom
-Published: Oct 29, 2026
+Published: Oct 30, 2026
 Why it matters: Routine official update
-Summary: OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.
-Link: https://openai.com/index/updated-model-spec
-
-### Google - Equipping healthcare professionals with practical AI skills
-Source: Google AI
-Published: Oct 29, 2026
-Why it matters: Routine official update
-Summary: Built by clinicians at Google, the new Google AI for Healthcare Professionals Certificate helps healthcare professionals prioritize patients.
-Link: https://blog.google/innovation-and-ai/technology/health/google-ai-for-healthcare-professionals-certificate
-
-### Google - How to use Gemini to update your resume
-Source: Google AI
-Published: Oct 29, 2026
-Why it matters: Routine official update
-Summary: Turn raw notes into high-impact, ATS-friendly resume bullets using Gemini. Follow these four steps to polish your professional profile. Get the details.
-Link: https://blog.google/innovation-and-ai/products/gemini-app/update-resume-with-gemini
-
-### OpenAI - How we detect frontier model misalignment
-Source: OpenAI Newsroom
-Published: Oct 29, 2026
-Why it matters: Routine official update
-Summary: OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.
-Link: https://openai.com/index/how-we-detect-frontier-model-misalignment
-
-### OpenAI - How Ropes & Gray is developing AI for transactional diligence
-Source: OpenAI Newsroom
-Published: Oct 29, 2026
-Why it matters: Routine official update
-Summary: Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.
-Link: https://openai.com/index/ropes-gray-ai-diligence
+Summary: OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.
+Link: https://openai.com/index/helping-websites-express-ai-training-preferences
