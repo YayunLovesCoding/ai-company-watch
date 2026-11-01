@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T18:21:54.493Z",
+  "generatedAt": "2026-11-01T18:47:38.727Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -76,12 +76,12 @@
     }
   ],
   "totals": {
-    "fetched": 41,
+    "fetched": 38,
     "deduped": 24,
-    "new": 7,
+    "new": 1,
     "byKind": {
-      "official": 14,
-      "external": 10
+      "official": 16,
+      "external": 8
     }
   },
   "items": [
@@ -100,26 +100,26 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 7,
+        "score": 6,
         "reason": "Corporate move or major external event"
       }
     },
     {
-      "id": "0b8bb5f59e28b71dc4cf4c8ace3f9f8f86544da0",
+      "id": "3e114d34a6cffcb50a1c3219f6fab84c65d16582",
       "company": "Microsoft",
       "sourceKind": "external",
       "sourceId": "external-microsoft-major",
       "sourceLabel": "Major External News - Microsoft",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaFNnYk5yRjFKX2NkdnAyLTBwb3ZselRtdHZycDk4NFhEOTJBZ0RaSmdfbmZEeDFaX1MwX216bjMtRkxMdlhMZnVTWjUydC1XWlJBY3FURmE1SjR1QTZuQUhvMWZGZFVQeW1Tam1GUk9OMmR1OFZSdkM3d0ZLRHA2bHVyYw?oc=5",
-      "title": "OpenAI-backed Thrive Holdings acquires ADT",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSVRPQkhOWF9iLXVxeEVhci01ZV95V0NBb0NGanhIUkVfbEc3cnpiV25QYXlHSnNZWE1nX1RXd0Iyb0hkMFNnaElxVHBQcjZwYmlLbVZQVGx1OEk0Yk1VbzdxTEVVc2l2TmRxZXN5TnF5b3pZOXRfdGVCb0pvTjZ5VU56ZGlINUZ1QlFscWZYUlNuMVhwVkhrTUZ0Z28?oc=5",
+      "title": "Oracle expands OpenAI partnership, stock jumps on deal",
       "summary": "",
-      "publishedAt": "2026-10-29T19:56:19.000Z",
-      "publisher": "TechCrunch",
+      "publishedAt": "2026-10-27T21:43:00.000Z",
+      "publisher": "CNBC",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 7,
+        "score": 6,
         "reason": "Corporate move or major external event"
       }
     },
@@ -138,7 +138,7 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 6,
+        "score": 5,
         "reason": "Corporate move or major external event"
       }
     },
@@ -200,25 +200,6 @@
       }
     },
     {
-      "id": "927961aa2862d70f5381c12d183bcd9984eb1188",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBaZkRqVjFyVno5Q2JkQy15dl9SMVp5Z2FtS2tvYkdBNmdXSkRFQV9IZHFxZFIzdzhZbXFlZHU2YmNpQXRET0xBaUxBMzBxb2p5VFlQQzNteE03Rm1zQnJrYUtockVzVF9HMWRMSmh5cFdPX05MdFo0RkQzVkxDd9IBgwFBVV95cUxQZjZjMkNQcTBjY1NsNjNsbUMwdzI5ckNESVR0TE9uRVE3aWcwNGE2QkhBSnZHTXl0czFXWTVaaXRTTUJtd2lYSWZCRDNSaV8wM3VsZFFUbDVYMkNBVFU3bW1BVW9MZkwyR09paGthcmphLTFDdlI3WDhmUTVlbjBSYnBvRQ?oc=5",
-      "title": "OpenAI slashes funding target by $10 billion amid tech rout, FT reports",
-      "summary": "",
-      "publishedAt": "2026-10-31T16:08:55.000Z",
-      "publisher": "CNBC",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
       "id": "edfb5c66bd0857022f9206d26cc409c3d273d2ed",
       "company": "Microsoft",
       "sourceKind": "external",
@@ -229,6 +210,25 @@
       "title": "OpenAI’s CEO Thinks Your Laptop’s Memory Should Be in a Data Center",
       "summary": "",
       "publishedAt": "2026-10-31T13:49:57.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "3281c3d8804718c158b917c42e62afe38e3c48e5",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOEtJV1h1b1BodkhIN1ByZnZNVFhoU29HRGt5Z1dzNGIyMkZiTlg4ek5VOUxORmx6Q0xuRGt5UnVtemYwOGs5MXFITElwUUI0OTR3YmY3Q3JwUzFHMHhHTnhxbXcyTUl6T0UzUzgyVDJ5V0wyYkx1ck5maUE0THE5ZEE3cFRLQXBlYzlrTElHQmhfc1RaU05HNVV1LVNlVGVZcnpnSkVR?oc=5",
+      "title": "OpenAI IPO Valuation Target Reportedly Trimmed By $150B After Nasdaq 100 Registers Worst Month Since March 2025 Following Brutal Tech Sell-Off",
+      "summary": "",
+      "publishedAt": "2026-10-31T11:30:55.000Z",
       "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
@@ -257,25 +257,6 @@
       }
     },
     {
-      "id": "802792dee2f7aa8fb13d40c305ed63917cc1fa97",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTVhJcHNBZnUzbW5iaTFiZkx1eFBkSjVYajB5NjRUWFBrS3Jya1Q1Wm93VW5zWVhqNjl0MmxXdjl0VHNKRjlwLVM3QXFVUEIxZl9xTE9zTzVmMkRUYml3MU1pbm9WZllyYWdMWGpMXzNsZk84M0NkX1REOTBLX3VSeTdTYzhBSnVLWVNaTW5Dd2FDemUxbkgza2N3OHdjZXk5bl9GT2IxSjU2Zw?oc=5",
-      "title": "OpenAI cuts its funding round target by 10 billion dollars amid market jitters",
-      "summary": "",
-      "publishedAt": "2026-10-31T00:46:05.000Z",
-      "publisher": "Startup Fortune",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
       "id": "d669e4242ceb725c1c110ede0d60fc925ebc4d44",
       "company": "OpenAI",
       "sourceKind": "external",
@@ -292,44 +273,6 @@
         "bucket": "important",
         "score": 4,
         "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "376a7c48627e2a1b2d54b9bb6cb0ff7a99d9d4a4",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOWJZMHhWUVdQTTUxcE5lOTlZQWowcHNmelRiazBwbzJlcGNoZ0tYQVpqc3J3NmRiYUxyMzVWeGkxQlFsc3h6aDZlWl9HY2RDa0x2T1FqbU1LamFvWnlCVzNnR2c5b1dmazFPMVZKYTliUzdYYk85eUgxS0lhZHdvaUZJYlRkQzVjTnlvMWcxVnRGVlpfU1NIUl8tMDB1ZG54enBv?oc=5",
-      "title": "Lumia Security Adds Claude Compliance API Integration, Expanding AI Governance Options for Enterprises",
-      "summary": "",
-      "publishedAt": "2026-10-27T18:38:00.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "c7606af40dbb903f1458e0f22e7105b96ee65c77",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
-      "title": "Community safety report and new protections for teens",
-      "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
-      "publishedAt": "2026-10-30T09:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Safety, security, or policy update"
       }
     },
     {
@@ -390,22 +333,22 @@
       }
     },
     {
-      "id": "c350724d4712c97714dd93f5cdf6f3fe22b5b0b2",
-      "company": "Google",
+      "id": "c7606af40dbb903f1458e0f22e7105b96ee65c77",
+      "company": "OpenAI",
       "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response",
-      "title": "We’ve received our first response from the Project Suncatcher prototype satellite.",
-      "summary": "This week, we reached our \"Hello World\" milestone: the first-ever AI response from a data center class TPU in orbit.",
-      "publishedAt": "2026-10-30T17:00:00.000Z",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+      "title": "Community safety report and new protections for teens",
+      "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
+      "publishedAt": "2026-10-30T09:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
         "score": 3,
-        "reason": "Technical or research update"
+        "reason": "Safety, security, or policy update"
       }
     },
     {
@@ -428,22 +371,22 @@
       }
     },
     {
-      "id": "25cc4c9bb2e3e7e535a029d8ccf56c3c1c4d2670",
-      "company": "OpenAI",
+      "id": "c350724d4712c97714dd93f5cdf6f3fe22b5b0b2",
+      "company": "Google",
       "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
-      "title": "Making it easier for websites to express AI training preferences",
-      "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
-      "publishedAt": "2026-10-30T09:30:00.000Z",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response",
+      "title": "We’ve received our first response from the Project Suncatcher prototype satellite.",
+      "summary": "This week, we reached our \"Hello World\" milestone: the first-ever AI response from a data center class TPU in orbit.",
+      "publishedAt": "2026-10-30T17:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "digest",
         "score": 2,
-        "reason": "Routine official update"
+        "reason": "Technical or research update"
       }
     },
     {
@@ -482,6 +425,25 @@
         "bucket": "digest",
         "score": 2,
         "reason": "Technical or research update"
+      }
+    },
+    {
+      "id": "25cc4c9bb2e3e7e535a029d8ccf56c3c1c4d2670",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+      "title": "Making it easier for websites to express AI training preferences",
+      "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+      "publishedAt": "2026-10-30T09:30:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 1,
+        "reason": "Routine official update"
       }
     },
     {
@@ -540,135 +502,59 @@
         "score": 1,
         "reason": "Routine official update"
       }
-    }
-  ],
-  "newItems": [
+    },
     {
-      "id": "d2282bcce1625c643a8eee68a045d3c9816c93c6",
+      "id": "d28967fce9c692cd06eccf3709b27a584532abf2",
       "company": "OpenAI",
       "sourceKind": "official",
       "sourceId": "openai-newsroom",
       "sourceLabel": "OpenAI Newsroom",
       "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/fair-use-benefits-everyone",
-      "title": "Fair use benefits everyone",
-      "summary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
-      "publishedAt": "2026-10-30T00:00:00.000Z",
+      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+      "title": "How we detect frontier model misalignment",
+      "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+      "publishedAt": "2026-10-29T09:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
+        "bucket": "digest",
+        "score": 1,
+        "reason": "Routine official update"
       }
     },
     {
-      "id": "8f5ebd02c356309353dd0ab900157a7b8397a9f1",
+      "id": "2d9928289658e98658f7f3e71e7d1e4d989180d1",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/ropes-gray-ai-diligence",
+      "title": "How Ropes & Gray is developing AI for transactional diligence",
+      "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
+      "publishedAt": "2026-10-29T07:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 1,
+        "reason": "Routine official update"
+      }
+    }
+  ],
+  "newItems": [
+    {
+      "id": "3281c3d8804718c158b917c42e62afe38e3c48e5",
       "company": "OpenAI",
       "sourceKind": "external",
       "sourceId": "external-openai-major",
       "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPLVZ2ZXhJa3pETjlVa2l6S3pGbnpkQUVaUnl6emEzQU95X3ZaY2FuU093Zk5PWHJZU2tEbGtrakFpVDdTZmlTTmFlaXpwVFdtd19DS3N2TzJCVklrNEx5dXowTFh0QTNzZXo0NmxwaXIxb2ZoN1F5VmlUTk91RzBqeEQ5M01iZzVVMWxPQUZqaTl6Zw?oc=5",
-      "title": "OpenAI reportedly lowers funding target for new round",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOEtJV1h1b1BodkhIN1ByZnZNVFhoU29HRGt5Z1dzNGIyMkZiTlg4ek5VOUxORmx6Q0xuRGt5UnVtemYwOGs5MXFITElwUUI0OTR3YmY3Q3JwUzFHMHhHTnhxbXcyTUl6T0UzUzgyVDJ5V0wyYkx1ck5maUE0THE5ZEE3cFRLQXBlYzlrTElHQmhfc1RaU05HNVV1LVNlVGVZcnpnSkVR?oc=5",
+      "title": "OpenAI IPO Valuation Target Reportedly Trimmed By $150B After Nasdaq 100 Registers Worst Month Since March 2025 Following Brutal Tech Sell-Off",
       "summary": "",
-      "publishedAt": "2026-10-31T16:12:55.000Z",
-      "publisher": "TechCrunch",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "927961aa2862d70f5381c12d183bcd9984eb1188",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBaZkRqVjFyVno5Q2JkQy15dl9SMVp5Z2FtS2tvYkdBNmdXSkRFQV9IZHFxZFIzdzhZbXFlZHU2YmNpQXRET0xBaUxBMzBxb2p5VFlQQzNteE03Rm1zQnJrYUtockVzVF9HMWRMSmh5cFdPX05MdFo0RkQzVkxDd9IBgwFBVV95cUxQZjZjMkNQcTBjY1NsNjNsbUMwdzI5ckNESVR0TE9uRVE3aWcwNGE2QkhBSnZHTXl0czFXWTVaaXRTTUJtd2lYSWZCRDNSaV8wM3VsZFFUbDVYMkNBVFU3bW1BVW9MZkwyR09paGthcmphLTFDdlI3WDhmUTVlbjBSYnBvRQ?oc=5",
-      "title": "OpenAI slashes funding target by $10 billion amid tech rout, FT reports",
-      "summary": "",
-      "publishedAt": "2026-10-31T16:08:55.000Z",
-      "publisher": "CNBC",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "edfb5c66bd0857022f9206d26cc409c3d273d2ed",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYzhBZ05wc1NIVWR0cHFQZ0tTWUpJYTNMZjRlUkN0ZHZVUllybGZXZ3ByUDNya2ZXX3dzU3g3aGpGZXlNYmlKUlhkVnNsa3otT3k3bXdMZW9OcTMwSThaSDVZM2FPOFkwTVFqbUxMNHg5bU5WTE9NM1ZJX1JOVHRoQjRQRkZvZjR5dnpiTF9lQmQxSk5sREc0?oc=5",
-      "title": "OpenAI’s CEO Thinks Your Laptop’s Memory Should Be in a Data Center",
-      "summary": "",
-      "publishedAt": "2026-10-31T13:49:57.000Z",
+      "publishedAt": "2026-10-31T11:30:55.000Z",
       "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "d4991fb73f9bcf24af5b35d548786fe6d66d5968",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPN1Fva1BkZVk3T3ZZVWZiSUNOQVhaMElmVERReF8zekRzTWt0YnNZZUVpTGUtaUd0MFVKcmp2TXF2d2hxNldzTUYyNVhTRjFxUU8xeHAtYllENzhtMDRlbF93dXUtb3RXNWkwbk9icU5KdlN4anY3RzJnSXl2dHZ0a3JTT2QzMlRsY1hhLWxyUVdSYzFFV1E3MzRBeXJmOU5EcnVIUzI0S2hhYTk2dUE?oc=5",
-      "title": "OpenAI’s Altman Meets Samsung Executives as Chip Crunch Deepens",
-      "summary": "",
-      "publishedAt": "2026-10-31T06:40:00.000Z",
-      "publisher": "Bloomberg.com",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "802792dee2f7aa8fb13d40c305ed63917cc1fa97",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTVhJcHNBZnUzbW5iaTFiZkx1eFBkSjVYajB5NjRUWFBrS3Jya1Q1Wm93VW5zWVhqNjl0MmxXdjl0VHNKRjlwLVM3QXFVUEIxZl9xTE9zTzVmMkRUYml3MU1pbm9WZllyYWdMWGpMXzNsZk84M0NkX1REOTBLX3VSeTdTYzhBSnVLWVNaTW5Dd2FDemUxbkgza2N3OHdjZXk5bl9GT2IxSjU2Zw?oc=5",
-      "title": "OpenAI cuts its funding round target by 10 billion dollars amid market jitters",
-      "summary": "",
-      "publishedAt": "2026-10-31T00:46:05.000Z",
-      "publisher": "Startup Fortune",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "d669e4242ceb725c1c110ede0d60fc925ebc4d44",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTWw3N0l5dm5KUi1FQmllTEpEeUdkY1k5TVlFNTlnWWFlbTgtdUJfZE9RMjZiQlJEVXU2VFo2blVaWk1MZzNYMm9OYmdrSngtSk02YnhKNDdVMVZkS3hIMHpWZ2dnRjJZWjBzQ0lFRU4ySFFUQzdTdnUzN3JETGtCYlo3Y3kxeGJseG5veVJMSVVCRDVPYzB3TXQyaFE?oc=5",
-      "title": "OpenAI slashes funding target by $10 billion amid tech rout, FT reports",
-      "summary": "",
-      "publishedAt": "2026-10-31T00:17:00.000Z",
-      "publisher": "Reuters",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
