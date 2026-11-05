@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T20:41:39.013Z",
+  "generatedAt": "2026-11-05T20:57:28.337Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -76,27 +76,46 @@
     }
   ],
   "totals": {
-    "fetched": 45,
+    "fetched": 47,
     "deduped": 24,
-    "new": 8,
+    "new": 11,
     "byKind": {
-      "official": 12,
-      "external": 12
+      "official": 10,
+      "external": 14
     }
   },
   "items": [
     {
-      "id": "9a4bcbd0cdee19741ea361f07b8399a663052765",
-      "company": "Microsoft",
+      "id": "0465fecdcb5b5bcceda9723779a2efd7288ebb80",
+      "company": "OpenAI",
       "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeU5PYkxjTWhIRnZWeV9HRkxYUWtQLXo4eW1kcTRPOHRYY3pNaFhLNjZ4ZGx4MEVzX0VwNWhQYWRxZEFhZ3hYLUxQQ0F4anZGU2RVZWVwOXNqNUxtcHJjUTRDajVUbmxKZ0VyN3B5QWpCZGF1QUFnLXR0VXZMYjNsT25LZFYtNlg0cVhNbjVB?oc=5",
-      "title": "Microsoft (MSFT) Deepens Enterprise AI Networking Partnership",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVG5rcmlWc3p4NjNsVG02UnhxTkQ5RHM4R3NBMS1PMlh4aHEyQmJCaDF2YWl5XzliMUloSEowMTQ1dURfeHdoLTRxUmVHbWo3VThIY2MtcEt1aXlCVXF3T1FpYmtIdEwtM0VvdzF1bzlmTGEzNmNaUEJZOUR5eS01ejJGNGFlckJTYkJzdjJobDFzS2tsYm52NHFKM2lSXzI1c3c4?oc=5",
+      "title": "ADNOC-OpenAI partnership proves UAE’s AI ambitions: AIQ CEO",
       "summary": "",
-      "publishedAt": "2026-11-04T02:07:00.000Z",
-      "publisher": "Yahoo Finance Singapore",
+      "publishedAt": "2026-11-05T07:25:00.000Z",
+      "publisher": "CNBC",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "6bd5f6aef3102dbb1a3976e3745daccf524e865f",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNN19TcVZuaV9yaGFQME5CT1ZVWnlsa3VYY2xTOGRyNXMtcnUtU1o1ckdaTEI3MHlxemp3YTdMYmxHWTE5Wko0MEpNSThPVnBFWWZRZks0N3E3RzRXYnlIakJTR3BUbG9QT1kyMm9aUUMza19TSC1SU0o4N2RzY1lJdmFn?oc=5",
+      "title": "Meta acquires AI coding startup Conductor",
+      "summary": "",
+      "publishedAt": "2026-11-04T21:10:56.000Z",
+      "publisher": "TechCrunch",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -119,7 +138,26 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 7,
+        "score": 6,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "fcc36105f52e9b1e614bc544336088e7ed5fae1b",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/wyoming-data-center",
+      "title": "Investing in Wyoming’s infrastructure, energy and workforce",
+      "summary": "We’re building our first data center in Wyoming, representing a $17 billion investment in the Cowboy State.",
+      "publishedAt": "2026-11-05T17:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
         "reason": "Corporate move or major external event"
       }
     },
@@ -143,6 +181,25 @@
       }
     },
     {
+      "id": "42ed643a6ed315fd483887b7ddeb4873066a1df0",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZThLcjRmNUduOEJ4aUt0bmF0OXI4T0xhb0hQMk9BMjlYb3YzYWx1V05CaFRjR2xuMTROU1l3NUd6M0phTWE4ZG9hSHEzS21KTGVrUGxBWVBsRFA4UWtZVEtxVjM1V2x4NGFzY01UVkMzcEQzSW9pc013MDc3RXZRSFM4TENWcmxRbGExTHAwQzRHYlE3UEZlaHZvWldTTUVyNEZkWWZ5VdIBrAFBVV95cUxNb0ZKaGw3Qmh1WEFRTHV1Tk9RNDd5bnVudHhrR0pCQVJXUG5TUDdrXy1kXzA1Z2s2MFpSSlNzVEl0TFh2RURiejFETVZVZkNkSzhVZ1JFa3hPRHFFcUFOWFpWSE1EOTUwSDF6dEFCZU01Z2JMV3JKRjJ3ZkQ0Wkc2VHFwdzhkd1VodEtPdUg4REItby15c3d5azQ0MGdLbExuaEdxdjhlTS16MlhP?oc=5",
+      "title": "OpenAI pledges to halt NDAs in new data center policy proposal after election rebuke",
+      "summary": "",
+      "publishedAt": "2026-11-05T10:00:01.000Z",
+      "publisher": "CNBC",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
       "id": "5cdae7dab5678a44c7f2a6d89085ae9567128750",
       "company": "Google",
       "sourceKind": "external",
@@ -162,131 +219,36 @@
       }
     },
     {
-      "id": "36883f59ca80de66dec3fc06698c925d5141beeb",
+      "id": "53c56afbaf05f856eba574dee155263173cd7748",
       "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPY2NHYWtHR3NKMlg5Rjh4OG5RcGVTY2VoaFRlb2hhaTkzZEpCemRIQkdCUTgwMFJMZjhrdUVpV08wWC1JclZVdXVjb0cwYmE4X1BxcnpNbmhNMG44cVVkTU4wYXhic1dNRW1JWXBNMUJoeUxGdVNYOTdBS3JwMHlQSm8tcEtkVkFycy00YmpoXzdsSW5LZkR2eXE3cUlHX1lNUkNiQjY4a004ZmdPcF9JT2o2cVVvQzJ4cF9BaQ?oc=5",
-      "title": "OpenAI employees warned about operational security lapses for years, sources say",
-      "summary": "",
-      "publishedAt": "2026-11-03T18:56:00.000Z",
-      "publisher": "Reuters",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "31e373d1920ac1ca392a9019de5a17adee28225e",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcmlGNDdrZGlJVU53UFV2cWhZVGdpczBwcmtaZlZPVndpOFFXT2p1YlJWVnV2UHFhXy1uYTdBOEVMMHRnSnBlLUpnQjVDWThPSFRQNm9ob3ltdDZOUEZiOHBsUFVadDBQYkw3czdVdjRaSldTcUw2UnZKWWMxUU9Yel9TYkJpckZQSWQxQkdSRkNoOVA3aGZuRFZ1Tl82SDd5LW95TTVnb3RrWFdNY0lYeA?oc=5",
-      "title": "CrowdStrike Integrates Falcon Guardian Security Into Anthropic’s Claude Cowork to Protect AI Agents",
-      "summary": "",
-      "publishedAt": "2026-11-03T14:56:07.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "aebec45196e2a89f6a42a5b2609f3e12264770c5",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVE1IUUFsdXVIWmhDcncwNUtYbmdfOUZRazQ2dUthaTI5SzcwYWtnUXF4Y01zeVhoWDEtQWZXZW5xTUJjX2R0c0FDU3FraGRfR1pLM3ZuVVBGUTY1UTQ5UnhkLU9QbW94WWxPeWRiWHF0YUF0aXRVRGlhLWRlMjN2MzRCaTdmOGhHdTRwQ2Y5RncycEJjMU9EVGZmbm91MUU?oc=5",
-      "title": "Tanium Joins OpenAI Trusted Access for Cyber Program to Strengthen Platform Security with Frontier AI",
-      "summary": "",
-      "publishedAt": "2026-11-03T14:51:00.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "6fca63b0e10962e8eae050dcd359931ae25295bc",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeFN0VmlqRTB5WmVmamcxbEpIaDQ2UHFNeG4zWURvWGtXRnZLQTI0amFSY3gyODk5RjdOSjc5SVN5U2VxLVk5Z0tqT283M0tOeUxFQjR1NmY3Q0tJc0xndl9vYVM2NDJKemhOVm9ReU9kQWNuU25QeWxYZHZDMEZtVzNUcHJHWnPSAYwBQVVfeXFMTTdUTG1Bb3pveHRyWmxCVG5oZ01Obks4bkFTUlI1YmRacHl1anZkSnYzQ0E0NjNhRktOOE96QmZ3MFd4TVNnTHJIQnBCTWhCdERTaG1xT3VVU0FTbVdTbFFTZ0tzSV9mdVJaRWEyNjloNXExQ3RSQTdwc2dmZjJ4VG5OdFZwNzl1RjQ3UFo?oc=5",
-      "title": "OpenAI hires former U.S. Army Secretary Dan Driscoll for national security role",
-      "summary": "",
-      "publishedAt": "2026-11-03T02:17:00.000Z",
-      "publisher": "CNBC",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "d72bb5f34f047dd0291a4a18797b8802e46f4f37",
-      "company": "Meta",
       "sourceKind": "official",
-      "sourceId": "meta-newsroom",
-      "sourceLabel": "Meta Newsroom",
-      "homepageUrl": "https://about.fb.com/news/",
-      "url": "https://about.fb.com/news/2026/10/the-future-is-for-everyone-meta-and-cnib-partner-to-support-canadians-who-are-blind-deafblind-or-have-low-vision",
-      "title": "The Future Is for Everyone: Meta and CNIB Partner to Support Canadians Who Are Blind, Deafblind or Have Low Vision",
-      "summary": "We believe the future is for everyone. That&#8217;s why Meta is partnering with CNIB – a non-profit founded in 1918 that empowers Canadians impacted by blindness to live their dreams – to help bring the benefit of AI glasses to more Canadians who are blind, Deafblind or have low...",
-      "publishedAt": "2026-10-29T17:00:36.000Z",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/introducing-gpt-6-cyber",
+      "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+      "summary": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
+      "publishedAt": "2026-11-05T09:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
         "score": 5,
-        "reason": "Corporate move or major external event"
+        "reason": "Flagship model or product launch"
       }
     },
     {
-      "id": "4e55e8317825e60494f70eea9899d58b0d901e27",
+      "id": "e6190aefded4b4d8dab8044c86e2789c606e7ddd",
       "company": "Meta",
-      "sourceKind": "official",
-      "sourceId": "meta-newsroom",
-      "sourceLabel": "Meta Newsroom",
-      "homepageUrl": "https://about.fb.com/news/",
-      "url": "https://about.fb.com/news/2026/10/announcing-ranveer-singh-as-brand-ambassador-for-ray-ban-and-ray-ban-meta-in-india-along-with-exciting-new-updates-to-our-ai-glasses",
-      "title": "Announcing Ranveer Singh as Brand Ambassador for Ray-Ban and Ray-Ban Meta in India along with Exciting New Updates to our AI Glasses",
-      "summary": "",
-      "publishedAt": null,
-      "publisher": "",
-      "discoveryMethod": "anchor",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "0e233305926bc73414abfac71f8ba30f2d34bdb6",
-      "company": "OpenAI",
       "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5OaUdITlV1WEtmam1aNDlWMG4yd1hMZXBSc19qTExTVkdOeTgtbkt0VGtzWklpUlg0VENqOXBmUjlZUjEtNmNPdDdBak01dmRZTlAtd0kyTlA4WFlQdFVVUHluVFpKNjZPQS1CRWRHcw?oc=5",
-      "title": "Exclusive: OpenAI targets Microsoft's GitHub with deal for startup",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaXRWQUt1ZGRGakRuUVBHT291ekQya3FxOFFpYldDUm5RM2pEVEw0ak85SVBCVWV3TlgwdjhqZVJzTGtUYXZodWg1QTNGNzU1X29oSmxMc19uRUs0eXIyV29nemlBLWxBbDl5M2prLWctUUFiSF93eFRZQzdESjBKbGNLdFlueWU0Nmc?oc=5",
+      "title": "Meta President on Data Center Politics",
       "summary": "",
-      "publishedAt": "2026-11-04T11:54:35.000Z",
-      "publisher": "Axios",
+      "publishedAt": "2026-11-05T02:34:36.000Z",
+      "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -295,17 +257,17 @@
       }
     },
     {
-      "id": "68da0472c35a81aa58cafa2d90647a3118632357",
-      "company": "Anthropic",
+      "id": "0e233305926bc73414abfac71f8ba30f2d34bdb6",
+      "company": "Microsoft",
       "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNbFFMNDA5anVlblVzc3RXbklSOWFsZnpmQjdDU2lCY0lJMGJCYWQ5bTl0RmFRRU9uOUVKTjhVYjdWWGJLYXhLNzIzeGU0VndaanRKbzkxaTVZWkRfbHpSaDhMSnZvbjIyYU1MMl9XRXpobGNYRzBQTlRPRDYxWEo3QXluWTlOb2lNMURkSHN5LU9xVk9IamJORk5rd2hkU2puMFJIbG9JdmhMQUcwN29YSC1VWHN4bGZGQU5hUDJpZ1RNUGlaQlVNSkJ1ZlRzd3BRX3JvRll2TXRUdWVoR2owOXpLSWpzQ0VYcG1RSmRfemFjVU03aFBUdVdDSmQ2YVUzVTQtVkp3?oc=5",
-      "title": "Dario Amodei wants 'a country of geniuses in a data center.' Realizing that vision requires risky financial mechanics, Anthropic's IPO filing shows",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5OaUdITlV1WEtmam1aNDlWMG4yd1hMZXBSc19qTExTVkdOeTgtbkt0VGtzWklpUlg0VENqOXBmUjlZUjEtNmNPdDdBak01dmRZTlAtd0kyTlA4WFlQdFVVUHluVFpKNjZPQS1CRWRHcw?oc=5",
+      "title": "Exclusive: OpenAI targets Microsoft's GitHub with deal for startup",
       "summary": "",
-      "publishedAt": "2026-11-04T11:22:00.000Z",
-      "publisher": "Fortune",
+      "publishedAt": "2026-11-04T11:33:27.000Z",
+      "publisher": "Axios",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -333,16 +295,111 @@
       }
     },
     {
-      "id": "a2357e701f020223b3100435aeb5d89294fe9043",
+      "id": "23745740db6e164129e3da2d3f57b92dc267e974",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPY3RKZ3JJTFBHVzJUVXg5b3plRk1ia1FPSFhZNE9FUEtPd3pBQ2ZSa2psVmphTk43UEs2cUxxc1ZfMDRYOUFzMHhROXN5WmoxZURqU29xRDVhS05CRnFJZjZwTHNySkJGbzd1Z0ZadDdlcUdxaV9CSE1xUERDQXZ4S1hWT0dZME1mV1VpTW45dXVMRzNiRmcyZHN0Ql9mbHlpdzBZd216czZCY29ydzdZbGtWSFByRDdvcGc?oc=5",
+      "title": "RPT AMD's OpenAI, Meta chip deals trigger $1 billion quarterly charge",
+      "summary": "",
+      "publishedAt": "2026-11-04T02:12:00.000Z",
+      "publisher": "Reuters",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "36883f59ca80de66dec3fc06698c925d5141beeb",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPY2NHYWtHR3NKMlg5Rjh4OG5RcGVTY2VoaFRlb2hhaTkzZEpCemRIQkdCUTgwMFJMZjhrdUVpV08wWC1JclZVdXVjb0cwYmE4X1BxcnpNbmhNMG44cVVkTU4wYXhic1dNRW1JWXBNMUJoeUxGdVNYOTdBS3JwMHlQSm8tcEtkVkFycy00YmpoXzdsSW5LZkR2eXE3cUlHX1lNUkNiQjY4a004ZmdPcF9JT2o2cVVvQzJ4cF9BaQ?oc=5",
+      "title": "OpenAI employees warned about operational security lapses for years, sources say",
+      "summary": "",
+      "publishedAt": "2026-11-03T18:56:00.000Z",
+      "publisher": "Reuters",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "31e373d1920ac1ca392a9019de5a17adee28225e",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcmlGNDdrZGlJVU53UFV2cWhZVGdpczBwcmtaZlZPVndpOFFXT2p1YlJWVnV2UHFhXy1uYTdBOEVMMHRnSnBlLUpnQjVDWThPSFRQNm9ob3ltdDZOUEZiOHBsUFVadDBQYkw3czdVdjRaSldTcUw2UnZKWWMxUU9Yel9TYkJpckZQSWQxQkdSRkNoOVA3aGZuRFZ1Tl82SDd5LW95TTVnb3RrWFdNY0lYeA?oc=5",
+      "title": "CrowdStrike Integrates Falcon Guardian Security Into Anthropic’s Claude Cowork to Protect AI Agents",
+      "summary": "",
+      "publishedAt": "2026-11-03T14:56:07.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "6fca63b0e10962e8eae050dcd359931ae25295bc",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeFN0VmlqRTB5WmVmamcxbEpIaDQ2UHFNeG4zWURvWGtXRnZLQTI0amFSY3gyODk5RjdOSjc5SVN5U2VxLVk5Z0tqT283M0tOeUxFQjR1NmY3Q0tJc0xndl9vYVM2NDJKemhOVm9ReU9kQWNuU25QeWxYZHZDMEZtVzNUcHJHWnPSAYwBQVVfeXFMTTdUTG1Bb3pveHRyWmxCVG5oZ01Obks4bkFTUlI1YmRacHl1anZkSnYzQ0E0NjNhRktOOE96QmZ3MFd4TVNnTHJIQnBCTWhCdERTaG1xT3VVU0FTbVdTbFFTZ0tzSV9mdVJaRWEyNjloNXExQ3RSQTdwc2dmZjJ4VG5OdFZwNzl1RjQ3UFo?oc=5",
+      "title": "OpenAI hires former U.S. Army Secretary Dan Driscoll for national security role",
+      "summary": "",
+      "publishedAt": "2026-11-03T02:17:00.000Z",
+      "publisher": "CNBC",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "a24085594549b1b351c6af4019790c1023020682",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPa0RvSXRVaTdwOVJYOUZqaFVfY2JUd0hxVHpBc05JVjFhMmM1VGNwalM5N3JSSHNJVWNrcGxsbkFTSmphYWFYMEpuX1pMLTdHU2tvYlFZbHBoYVlIM0lkc3ZXTTVHNUFrYndjMGVXLU9lZ1p6TE5KVHNJWkV5Y2Y1NndreTdqYXZwM0M3aGt1X2NPQlk2YXJid3BjNU83b0NLTmFKYnJESQ?oc=5",
+      "title": "SentinelOne Expands AI Security Coverage to Claude Cowork",
+      "summary": "",
+      "publishedAt": "2026-11-02T19:18:00.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "f93567576105c7139347931d4fd5aa66d92f2c44",
       "company": "OpenAI",
       "sourceKind": "official",
       "sourceId": "openai-newsroom",
       "sourceLabel": "OpenAI Newsroom",
       "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/cisco-cyber",
-      "title": "How Cisco defends at machine speed with OpenAI",
-      "summary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
-      "publishedAt": "2026-11-03T08:00:00.000Z",
+      "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+      "title": "Setting a new standard for responsible AI infrastructure",
+      "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
+      "publishedAt": "2026-11-05T02:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -371,25 +428,6 @@
       }
     },
     {
-      "id": "c8e557921c2349edce8fa2846eb35121d8611243",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/edit-files-directly",
-      "title": "You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.",
-      "summary": "Generate, edit, and preview PDFs or Docs directly in Gemini. Use the new full-screen editor to refine your files today. See what's new in Gemini.",
-      "publishedAt": "2026-10-29T16:15:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
       "id": "dd1ca4682df417edc0645754c3047db6c79afcb9",
       "company": "Anthropic",
       "sourceKind": "external",
@@ -406,63 +444,6 @@
         "bucket": "important",
         "score": 3,
         "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "0ff4b1229e6ff9c9522861ef6c6d47d5c7fa08c7",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPalN1b2NwcllWRkRjRUNmOVBjSDMxWDNzdjZIclhDNTdMMFlaVUx2eWN1U19acllfTk0xX0JIbkJma21jVDFhZUR1czFjbVdLbThjMHVQZ0F4MkFvNmc0cURPN05FMkE3VFNyMTktbmNzWVIxN3c1YVFhSXpBTmZSQk1DZ013aDVRcXE5OEplekFkZWFJbmQxUEhDSVJ3RVVrZWJUd2ZRYWRfWUJhMVMycEZRRk8?oc=5",
-      "title": "Anthropic revenue growth slows, compute financing risks mount ahead of IPO",
-      "summary": "",
-      "publishedAt": "2026-11-02T14:50:00.000Z",
-      "publisher": "Reuters",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "26c6032e1d2677657b700d5fc3cfed3434f8516c",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
-      "title": "Accelerating engineering for the physical world",
-      "summary": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
-      "publishedAt": "2026-11-03T12:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Technical or research update"
-      }
-    },
-    {
-      "id": "ddc65a2a913631895f6bcd873630399366cec0bf",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/technology/research/partnering-singapore-advance-scientific-discovery",
-      "title": "Advancing research and partnering with universities in Singapore",
-      "summary": "Google is investing in new research grants and capacity-building initiatives to advance AI for science and support the next generation of scientific leaders in Singapore.",
-      "publishedAt": "2026-11-03T04:30:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Technical or research update"
       }
     },
     {
@@ -485,6 +466,44 @@
       }
     },
     {
+      "id": "d7e9e3e89ee778d6f0e0cdfdb8adebe3fbc25559",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash",
+      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "summary": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing.",
+      "publishedAt": "2026-11-05T17:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "570227a5d2aea513581c7b98c4460a772093f620",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/turn-drawings-into-apps-gemini",
+      "title": "Transform a quick drawing into a live app with Gemini.",
+      "summary": "Turn your sketches into functional apps using Gemini. Upload your drawings to the Canvas tool to generate and refine code instantly. Try it now.",
+      "publishedAt": "2026-11-05T17:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
+      }
+    },
+    {
       "id": "91e6a98d22c84046cfa1e991a24e998c19345fcf",
       "company": "Google",
       "sourceKind": "official",
@@ -504,35 +523,16 @@
       }
     },
     {
-      "id": "75679f5aa60bfcf88cfee2650e1fad6a696bd2d7",
+      "id": "a4f4c423c54260333db70d9834764f1b9740c579",
       "company": "OpenAI",
       "sourceKind": "official",
       "sourceId": "openai-newsroom",
       "sourceLabel": "OpenAI Newsroom",
       "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/daybreak-red-aws-govcloud",
-      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
-      "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
-      "publishedAt": "2026-11-04T07:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "08b710f1e7801fa86cc96c61e8aad81d8bc7aec0",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/heimstaden",
-      "title": "Heimstaden is changing residential real estate management with AI",
-      "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
-      "publishedAt": "2026-11-03T08:00:00.000Z",
+      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+      "title": "A thousand fewer paths to root",
+      "summary": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
+      "publishedAt": "2026-11-04T08:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -544,17 +544,17 @@
   ],
   "newItems": [
     {
-      "id": "9a4bcbd0cdee19741ea361f07b8399a663052765",
-      "company": "Microsoft",
+      "id": "0465fecdcb5b5bcceda9723779a2efd7288ebb80",
+      "company": "OpenAI",
       "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeU5PYkxjTWhIRnZWeV9HRkxYUWtQLXo4eW1kcTRPOHRYY3pNaFhLNjZ4ZGx4MEVzX0VwNWhQYWRxZEFhZ3hYLUxQQ0F4anZGU2RVZWVwOXNqNUxtcHJjUTRDajVUbmxKZ0VyN3B5QWpCZGF1QUFnLXR0VXZMYjNsT25LZFYtNlg0cVhNbjVB?oc=5",
-      "title": "Microsoft (MSFT) Deepens Enterprise AI Networking Partnership",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVG5rcmlWc3p4NjNsVG02UnhxTkQ5RHM4R3NBMS1PMlh4aHEyQmJCaDF2YWl5XzliMUloSEowMTQ1dURfeHdoLTRxUmVHbWo3VThIY2MtcEt1aXlCVXF3T1FpYmtIdEwtM0VvdzF1bzlmTGEzNmNaUEJZOUR5eS01ejJGNGFlckJTYkJzdjJobDFzS2tsYm52NHFKM2lSXzI1c3c4?oc=5",
+      "title": "ADNOC-OpenAI partnership proves UAE’s AI ambitions: AIQ CEO",
       "summary": "",
-      "publishedAt": "2026-11-04T02:07:00.000Z",
-      "publisher": "Yahoo Finance Singapore",
+      "publishedAt": "2026-11-05T07:25:00.000Z",
+      "publisher": "CNBC",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -563,16 +563,35 @@
       }
     },
     {
-      "id": "3a06f84c0f51a102b02f8b5a5ff865c2013898ad",
-      "company": "OpenAI",
+      "id": "6bd5f6aef3102dbb1a3976e3745daccf524e865f",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNN19TcVZuaV9yaGFQME5CT1ZVWnlsa3VYY2xTOGRyNXMtcnUtU1o1ckdaTEI3MHlxemp3YTdMYmxHWTE5Wko0MEpNSThPVnBFWWZRZks0N3E3RzRXYnlIakJTR3BUbG9QT1kyMm9aUUMza19TSC1SU0o4N2RzY1lJdmFn?oc=5",
+      "title": "Meta acquires AI coding startup Conductor",
+      "summary": "",
+      "publishedAt": "2026-11-04T21:10:56.000Z",
+      "publisher": "TechCrunch",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "fcc36105f52e9b1e614bc544336088e7ed5fae1b",
+      "company": "Google",
       "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/openai-to-acquire-pierre",
-      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
-      "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
-      "publishedAt": "2026-11-04T14:30:00.000Z",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/wyoming-data-center",
+      "title": "Investing in Wyoming’s infrastructure, energy and workforce",
+      "summary": "We’re building our first data center in Wyoming, representing a $17 billion investment in the Cowboy State.",
+      "publishedAt": "2026-11-05T17:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -582,17 +601,17 @@
       }
     },
     {
-      "id": "5cdae7dab5678a44c7f2a6d89085ae9567128750",
-      "company": "Google",
+      "id": "42ed643a6ed315fd483887b7ddeb4873066a1df0",
+      "company": "OpenAI",
       "sourceKind": "external",
-      "sourceId": "external-google-major",
-      "sourceLabel": "Major External News - Google",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQenhUZDROek4zN19FZThzeUZUMW9UVzNLdUpNbF9OQVE2MHRlMDV5WUZyNzR3TzlXcDJxWENCV040Nnp2emNkWklvem4yRnhNM0pYUDdoR0Q4UlBOSkNUNG9zc3ZoQzMzQlZ0V1JlTTlIck0zQW5JMHNONzQ5dWJFZXB1a25hcGV3bzdQQkt6NXhhQQ?oc=5",
-      "title": "Gemini for Home now plugs into AT&T’s smart security system",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZThLcjRmNUduOEJ4aUt0bmF0OXI4T0xhb0hQMk9BMjlYb3YzYWx1V05CaFRjR2xuMTROU1l3NUd6M0phTWE4ZG9hSHEzS21KTGVrUGxBWVBsRFA4UWtZVEtxVjM1V2x4NGFzY01UVkMzcEQzSW9pc013MDc3RXZRSFM4TENWcmxRbGExTHAwQzRHYlE3UEZlaHZvWldTTUVyNEZkWWZ5VdIBrAFBVV95cUxNb0ZKaGw3Qmh1WEFRTHV1Tk9RNDd5bnVudHhrR0pCQVJXUG5TUDdrXy1kXzA1Z2s2MFpSSlNzVEl0TFh2RURiejFETVZVZkNkSzhVZ1JFa3hPRHFFcUFOWFpWSE1EOTUwSDF6dEFCZU01Z2JMV3JKRjJ3ZkQ0Wkc2VHFwdzhkd1VodEtPdUg4REItby15c3d5azQ0MGdLbExuaEdxdjhlTS16MlhP?oc=5",
+      "title": "OpenAI pledges to halt NDAs in new data center policy proposal after election rebuke",
       "summary": "",
-      "publishedAt": "2026-11-04T20:23:24.000Z",
-      "publisher": "The Verge",
+      "publishedAt": "2026-11-05T10:00:01.000Z",
+      "publisher": "CNBC",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -601,55 +620,36 @@
       }
     },
     {
-      "id": "0e233305926bc73414abfac71f8ba30f2d34bdb6",
+      "id": "53c56afbaf05f856eba574dee155263173cd7748",
       "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5OaUdITlV1WEtmam1aNDlWMG4yd1hMZXBSc19qTExTVkdOeTgtbkt0VGtzWklpUlg0VENqOXBmUjlZUjEtNmNPdDdBak01dmRZTlAtd0kyTlA4WFlQdFVVUHluVFpKNjZPQS1CRWRHcw?oc=5",
-      "title": "Exclusive: OpenAI targets Microsoft's GitHub with deal for startup",
-      "summary": "",
-      "publishedAt": "2026-11-04T11:54:35.000Z",
-      "publisher": "Axios",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/introducing-gpt-6-cyber",
+      "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+      "summary": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
+      "publishedAt": "2026-11-05T09:00:00.000Z",
+      "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Flagship model or product launch"
       }
     },
     {
-      "id": "68da0472c35a81aa58cafa2d90647a3118632357",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNbFFMNDA5anVlblVzc3RXbklSOWFsZnpmQjdDU2lCY0lJMGJCYWQ5bTl0RmFRRU9uOUVKTjhVYjdWWGJLYXhLNzIzeGU0VndaanRKbzkxaTVZWkRfbHpSaDhMSnZvbjIyYU1MMl9XRXpobGNYRzBQTlRPRDYxWEo3QXluWTlOb2lNMURkSHN5LU9xVk9IamJORk5rd2hkU2puMFJIbG9JdmhMQUcwN29YSC1VWHN4bGZGQU5hUDJpZ1RNUGlaQlVNSkJ1ZlRzd3BRX3JvRll2TXRUdWVoR2owOXpLSWpzQ0VYcG1RSmRfemFjVU03aFBUdVdDSmQ2YVUzVTQtVkp3?oc=5",
-      "title": "Dario Amodei wants 'a country of geniuses in a data center.' Realizing that vision requires risky financial mechanics, Anthropic's IPO filing shows",
-      "summary": "",
-      "publishedAt": "2026-11-04T11:22:00.000Z",
-      "publisher": "Fortune",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "47ed1abc866c59ad9058edc4d42dc9798eb530a0",
+      "id": "e6190aefded4b4d8dab8044c86e2789c606e7ddd",
       "company": "Meta",
       "sourceKind": "external",
       "sourceId": "external-meta-major",
       "sourceLabel": "Major External News - Meta",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbzlfT3NETFZHc09DZFd6Q1I5UjJxUmNCbHdwRHUzZ0t4WThBYVNpSkVKcEhvaVg4ZzE5V1p2dVU4ZjdpcG94RVZlVFFFTGwxTl9qbEN2NnBlV2xoQU9nSVVDLTlVU1VzNmlUZUxMRUlaa3pxTzBIRUpTeVlqQ0tZWUhpZVd4c2xi?oc=5",
-      "title": "2026 Louisiana Senate race: Julia Letlow's ties to Meta data center",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaXRWQUt1ZGRGakRuUVBHT291ekQya3FxOFFpYldDUm5RM2pEVEw0ak85SVBCVWV3TlgwdjhqZVJzTGtUYXZodWg1QTNGNzU1X29oSmxMc19uRUs0eXIyV29nemlBLWxBbDl5M2prLWctUUFiSF93eFRZQzdESjBKbGNLdFlueWU0Nmc?oc=5",
+      "title": "Meta President on Data Center Politics",
       "summary": "",
-      "publishedAt": "2026-11-04T06:25:00.000Z",
-      "publisher": "Yahoo",
+      "publishedAt": "2026-11-05T02:34:36.000Z",
+      "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -658,16 +658,54 @@
       }
     },
     {
-      "id": "91e6a98d22c84046cfa1e991a24e998c19345fcf",
+      "id": "23745740db6e164129e3da2d3f57b92dc267e974",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPY3RKZ3JJTFBHVzJUVXg5b3plRk1ia1FPSFhZNE9FUEtPd3pBQ2ZSa2psVmphTk43UEs2cUxxc1ZfMDRYOUFzMHhROXN5WmoxZURqU29xRDVhS05CRnFJZjZwTHNySkJGbzd1Z0ZadDdlcUdxaV9CSE1xUERDQXZ4S1hWT0dZME1mV1VpTW45dXVMRzNiRmcyZHN0Ql9mbHlpdzBZd216czZCY29ydzdZbGtWSFByRDdvcGc?oc=5",
+      "title": "RPT AMD's OpenAI, Meta chip deals trigger $1 billion quarterly charge",
+      "summary": "",
+      "publishedAt": "2026-11-04T02:12:00.000Z",
+      "publisher": "Reuters",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "f93567576105c7139347931d4fd5aa66d92f2c44",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+      "title": "Setting a new standard for responsible AI infrastructure",
+      "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
+      "publishedAt": "2026-11-05T02:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "d7e9e3e89ee778d6f0e0cdfdb8adebe3fbc25559",
       "company": "Google",
       "sourceKind": "official",
       "sourceId": "google-ai",
       "sourceLabel": "Google AI",
       "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/technology/health/evaluating-health-ai-at-scale",
-      "title": "We're sharing our framework for building safer and more helpful AI for health.",
-      "summary": "Many of us have turned to AI with a health question or received care from a doctor who’s using it. The adoption of technology for health is accelerating and impacts bill…",
-      "publishedAt": "2026-11-04T14:00:00.000Z",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash",
+      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "summary": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing.",
+      "publishedAt": "2026-11-05T17:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -677,16 +715,35 @@
       }
     },
     {
-      "id": "75679f5aa60bfcf88cfee2650e1fad6a696bd2d7",
+      "id": "570227a5d2aea513581c7b98c4460a772093f620",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/turn-drawings-into-apps-gemini",
+      "title": "Transform a quick drawing into a live app with Gemini.",
+      "summary": "Turn your sketches into functional apps using Gemini. Upload your drawings to the Canvas tool to generate and refine code instantly. Try it now.",
+      "publishedAt": "2026-11-05T17:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "a4f4c423c54260333db70d9834764f1b9740c579",
       "company": "OpenAI",
       "sourceKind": "official",
       "sourceId": "openai-newsroom",
       "sourceLabel": "OpenAI Newsroom",
       "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/daybreak-red-aws-govcloud",
-      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
-      "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
-      "publishedAt": "2026-11-04T07:00:00.000Z",
+      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+      "title": "A thousand fewer paths to root",
+      "summary": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
+      "publishedAt": "2026-11-04T08:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {

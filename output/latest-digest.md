@@ -1,74 +1,97 @@
 # AI Company Watch
 
-Generated: Nov 4, 2026, 12:41 PM PST
+Generated: Nov 5, 2026, 12:57 PM PST
 Lookback window: 7 day(s)
 Sources checked: 12
-Items fetched: 45
+Items fetched: 47
 Items kept: 24
-New items: 8
-External items kept: 12
-Official items kept: 12
+New items: 11
+External items kept: 14
+Official items kept: 10
 
 ## Critical External News
 
-### Microsoft - Microsoft (MSFT) Deepens Enterprise AI Networking Partnership
-Source: Major External News - Microsoft
-Publisher: Yahoo Finance Singapore
-Published: Nov 3, 2026
-Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMijgFBVV95cUxOeU5PYkxjTWhIRnZWeV9HRkxYUWtQLXo4eW1kcTRPOHRYY3pNaFhLNjZ4ZGx4MEVzX0VwNWhQYWRxZEFhZ3hYLUxQQ0F4anZGU2RVZWVwOXNqNUxtcHJjUTRDajVUbmxKZ0VyN3B5QWpCZGF1QUFnLXR0VXZMYjNsT25LZFYtNlg0cVhNbjVB?oc=5
-
-### Google - Gemini for Home now plugs into AT&T’s smart security system
-Source: Major External News - Google
-Publisher: The Verge
+### OpenAI - ADNOC-OpenAI partnership proves UAE’s AI ambitions: AIQ CEO
+Source: Major External News - OpenAI
+Publisher: CNBC
 Published: Nov 4, 2026
+Why it matters: Corporate move or major external event
+Link: https://news.google.com/rss/articles/CBMiowFBVV95cUxQVG5rcmlWc3p4NjNsVG02UnhxTkQ5RHM4R3NBMS1PMlh4aHEyQmJCaDF2YWl5XzliMUloSEowMTQ1dURfeHdoLTRxUmVHbWo3VThIY2MtcEt1aXlCVXF3T1FpYmtIdEwtM0VvdzF1bzlmTGEzNmNaUEJZOUR5eS01ejJGNGFlckJTYkJzdjJobDFzS2tsYm52NHFKM2lSXzI1c3c4?oc=5
+
+### Meta - Meta acquires AI coding startup Conductor
+Source: Major External News - Meta
+Publisher: TechCrunch
+Published: Nov 4, 2026
+Why it matters: Corporate move or major external event
+Link: https://news.google.com/rss/articles/CBMiggFBVV95cUxNN19TcVZuaV9yaGFQME5CT1ZVWnlsa3VYY2xTOGRyNXMtcnUtU1o1ckdaTEI3MHlxemp3YTdMYmxHWTE5Wko0MEpNSThPVnBFWWZRZks0N3E3RzRXYnlIakJTR3BUbG9QT1kyMm9aUUMza19TSC1SU0o4N2RzY1lJdmFn?oc=5
+
+### OpenAI - OpenAI pledges to halt NDAs in new data center policy proposal after election rebuke
+Source: Major External News - OpenAI
+Publisher: CNBC
+Published: Nov 5, 2026
 Why it matters: Safety, security, or policy update
-Link: https://news.google.com/rss/articles/CBMikgFBVV95cUxQenhUZDROek4zN19FZThzeUZUMW9UVzNLdUpNbF9OQVE2MHRlMDV5WUZyNzR3TzlXcDJxWENCV040Nnp2emNkWklvem4yRnhNM0pYUDdoR0Q4UlBOSkNUNG9zc3ZoQzMzQlZ0V1JlTTlIck0zQW5JMHNONzQ5dWJFZXB1a25hcGV3bzdQQkt6NXhhQQ?oc=5
+Link: https://news.google.com/rss/articles/CBMipwFBVV95cUxPZThLcjRmNUduOEJ4aUt0bmF0OXI4T0xhb0hQMk9BMjlYb3YzYWx1V05CaFRjR2xuMTROU1l3NUd6M0phTWE4ZG9hSHEzS21KTGVrUGxBWVBsRFA4UWtZVEtxVjM1V2x4NGFzY01UVkMzcEQzSW9pc013MDc3RXZRSFM4TENWcmxRbGExTHAwQzRHYlE3UEZlaHZvWldTTUVyNEZkWWZ5VdIBrAFBVV95cUxNb0ZKaGw3Qmh1WEFRTHV1Tk9RNDd5bnVudHhrR0pCQVJXUG5TUDdrXy1kXzA1Z2s2MFpSSlNzVEl0TFh2RURiejFETVZVZkNkSzhVZ1JFa3hPRHFFcUFOWFpWSE1EOTUwSDF6dEFCZU01Z2JMV3JKRjJ3ZkQ0Wkc2VHFwdzhkd1VodEtPdUg4REItby15c3d5azQ0MGdLbExuaEdxdjhlTS16MlhP?oc=5
 
 ## Important External News
 
-### OpenAI - Exclusive: OpenAI targets Microsoft's GitHub with deal for startup
-Source: Major External News - OpenAI
-Publisher: Axios
-Published: Nov 4, 2026
-Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMib0FVX3lxTE5OaUdITlV1WEtmam1aNDlWMG4yd1hMZXBSc19qTExTVkdOeTgtbkt0VGtzWklpUlg0VENqOXBmUjlZUjEtNmNPdDdBak01dmRZTlAtd0kyTlA4WFlQdFVVUHluVFpKNjZPQS1CRWRHcw?oc=5
-
-### Anthropic - Dario Amodei wants 'a country of geniuses in a data center.' Realizing that vision requires risky financial mechanics, Anthropic's IPO filing shows
-Source: Major External News - Anthropic
-Publisher: Fortune
-Published: Nov 4, 2026
-Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMihgJBVV95cUxNbFFMNDA5anVlblVzc3RXbklSOWFsZnpmQjdDU2lCY0lJMGJCYWQ5bTl0RmFRRU9uOUVKTjhVYjdWWGJLYXhLNzIzeGU0VndaanRKbzkxaTVZWkRfbHpSaDhMSnZvbjIyYU1MMl9XRXpobGNYRzBQTlRPRDYxWEo3QXluWTlOb2lNMURkSHN5LU9xVk9IamJORk5rd2hkU2puMFJIbG9JdmhMQUcwN29YSC1VWHN4bGZGQU5hUDJpZ1RNUGlaQlVNSkJ1ZlRzd3BRX3JvRll2TXRUdWVoR2owOXpLSWpzQ0VYcG1RSmRfemFjVU03aFBUdVdDSmQ2YVUzVTQtVkp3?oc=5
-
-### Meta - 2026 Louisiana Senate race: Julia Letlow's ties to Meta data center
+### Meta - Meta President on Data Center Politics
 Source: Major External News - Meta
-Publisher: Yahoo
+Publisher: Yahoo Finance
+Published: Nov 4, 2026
+Why it matters: Trusted external coverage
+Link: https://news.google.com/rss/articles/CBMiigFBVV95cUxOaXRWQUt1ZGRGakRuUVBHT291ekQya3FxOFFpYldDUm5RM2pEVEw0ak85SVBCVWV3TlgwdjhqZVJzTGtUYXZodWg1QTNGNzU1X29oSmxMc19uRUs0eXIyV29nemlBLWxBbDl5M2prLWctUUFiSF93eFRZQzdESjBKbGNLdFlueWU0Nmc?oc=5
+
+### Meta - RPT AMD's OpenAI, Meta chip deals trigger $1 billion quarterly charge
+Source: Major External News - Meta
+Publisher: Reuters
 Published: Nov 3, 2026
 Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbzlfT3NETFZHc09DZFd6Q1I5UjJxUmNCbHdwRHUzZ0t4WThBYVNpSkVKcEhvaVg4ZzE5V1p2dVU4ZjdpcG94RVZlVFFFTGwxTl9qbEN2NnBlV2xoQU9nSVVDLTlVU1VzNmlUZUxMRUlaa3pxTzBIRUpTeVlqQ0tZWUhpZVd4c2xi?oc=5
+Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxPY3RKZ3JJTFBHVzJUVXg5b3plRk1ia1FPSFhZNE9FUEtPd3pBQ2ZSa2psVmphTk43UEs2cUxxc1ZfMDRYOUFzMHhROXN5WmoxZURqU29xRDVhS05CRnFJZjZwTHNySkJGbzd1Z0ZadDdlcUdxaV9CSE1xUERDQXZ4S1hWT0dZME1mV1VpTW45dXVMRzNiRmcyZHN0Ql9mbHlpdzBZd216czZCY29ydzdZbGtWSFByRDdvcGc?oc=5
 
 ## Critical Official Updates
 
-### OpenAI - OpenAI to acquire Pierre Computer Company, Inc.
+### Google - Investing in Wyoming’s infrastructure, energy and workforce
+Source: Google AI
+Published: Nov 5, 2026
+Why it matters: Corporate move or major external event
+Summary: We’re building our first data center in Wyoming, representing a $17 billion investment in the Cowboy State.
+Link: https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/wyoming-data-center
+
+### OpenAI - GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents
+Source: OpenAI Newsroom
+Published: Nov 5, 2026
+Why it matters: Flagship model or product launch
+Summary: Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.
+Link: https://openai.com/index/introducing-gpt-6-cyber
+
+## Important Official Updates
+
+### OpenAI - Setting a new standard for responsible AI infrastructure
 Source: OpenAI Newsroom
 Published: Nov 4, 2026
-Why it matters: Corporate move or major external event
-Summary: OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.
-Link: https://openai.com/index/openai-to-acquire-pierre
+Why it matters: Safety, security, or policy update
+Summary: OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.
+Link: https://openai.com/index/setting-new-standard-responsible-ai-infrastructure
 
 ## Official Company Updates
 
-### Google - We're sharing our framework for building safer and more helpful AI for health.
+### Google - Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips
 Source: Google AI
+Published: Nov 5, 2026
+Why it matters: Routine official update
+Summary: Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing.
+Link: https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash
+
+### Google - Transform a quick drawing into a live app with Gemini.
+Source: Google AI
+Published: Nov 5, 2026
+Why it matters: Routine official update
+Summary: Turn your sketches into functional apps using Gemini. Upload your drawings to the Canvas tool to generate and refine code instantly. Try it now.
+Link: https://blog.google/innovation-and-ai/products/gemini-app/turn-drawings-into-apps-gemini
+
+### OpenAI - A thousand fewer paths to root
+Source: OpenAI Newsroom
 Published: Nov 4, 2026
 Why it matters: Routine official update
-Summary: Many of us have turned to AI with a health question or received care from a doctor who’s using it. The adoption of technology for health is accelerating and impacts bill…
-Link: https://blog.google/innovation-and-ai/technology/health/evaluating-health-ai-at-scale
-
-### OpenAI - Daybreak Red is now available in AWS GovCloud (US-East)
-Source: OpenAI Newsroom
-Published: Nov 3, 2026
-Why it matters: Routine official update
-Summary: Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.
-Link: https://openai.com/index/daybreak-red-aws-govcloud
+Summary: OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.
+Link: https://openai.com/index/a-thousand-fewer-paths-to-root
