@@ -1,72 +1,54 @@
 # AI Company Watch
 
-Generated: Nov 6, 2026, 12:17 PM PST
+Generated: Nov 7, 2026, 10:31 AM PST
 Lookback window: 7 day(s)
 Sources checked: 12
 Items fetched: 45
 Items kept: 24
-New items: 8
-External items kept: 14
-Official items kept: 10
+New items: 6
+External items kept: 16
+Official items kept: 8
 
 ## Important External News
 
-### Microsoft - Microsoft Is Winding Down Oracle Deal to Rent AI Cloud Capacity
-Source: Major External News - Microsoft
-Publisher: Bloomberg.com
-Published: Nov 6, 2026
-Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxPeXFhaDRlRjBvZktGaFM2eExYdGpJakRNazYxc2Y2UWoyMDJzS1VFb2Z5ZTNkSVhMRHBTbUdtb25kZHJUdkpRVXRQU1hQVGtIbS1maVNoeGhSZ2pHOGF1aDY3R1AwSTU4TmlmSEdEc19RYlowVXAzc0NlSzdVZ2xBZXduc2FzT3ViQ0xDS3RYdklKMzFnVzRtUkZKQnVBWlBDTWtGcGZUU01ZSktQTG5aOE9lbXE?oc=5
-
-### Microsoft - Activists breach Microsoft data centre construction site as protests spread in Europe
-Source: Major External News - Microsoft
+### OpenAI - OpenAI gets $11 billion funding at $1.25 trillion valuation, source says
+Source: Major External News - OpenAI
 Publisher: Reuters
 Published: Nov 6, 2026
 Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMixwFBVV95cUxQWlBqNDNLWm53eHI0c0JoT0pQRWhQTFZ0LU12MEFzNmV2YVNqaEdkbWNPOGl0MG93VFlfUUluLXVoV1JFMnk4OFA0dVdoNm9hU044UjNyTnBfMDdHZmlCbC1QeGZqNFk1VF9ZQ2dLRW9keVNLWl9QX0NrZE55cFU4MXJZaDRZLWJjMFI4QVoxekwybVlydDcwc01UaFJuY1RQLXNienI3eFlPSXpVZHBJX09sMnZRRktxQ2hWNFk2UmtDaGRQbndF?oc=5
+Link: https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdlpNRm5XVy11c3hLY0NRdjh2T3VmOE1LOWQ2LXlvcFhmZlFJYkQya3N3QWxud2UteUZpWVlCTXVHUXZZTjIwRlVQaUhqOGhyM2lDaDJTSGcxMnE5MzhOZ1NHYlJIc1p5bHRxaVZjZDd4MFY2RWMtRkNlYkhSVkdpMlRBWi1PYUNmZGNydXZnOTZFMTFoOHR0azBpUlU1aHpVdFA4dlhCV0dDNm91VE0xSVg0bXZhcF9jaVAzcXYzaldOdw?oc=5
 
-### Anthropic - Anthropic IPO Buyers See Valuation as Low as $1.1 Trillion
+### OpenAI - OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation
+Source: Major External News - OpenAI
+Publisher: TechCrunch
+Published: Nov 6, 2026
+Why it matters: Trusted external coverage
+Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxNRzVwenhwOUEyaGxYMTR0NkE2LXQxZk9PcklwNTlwX3h1SjhUbEgtSkRleWxwUXluYzdlTE5fN29oV0liWkxtMVB1ck9Welkxekx0anBGSjJIOHV2UGNnNTVUbXVFV1JjckRxVGk3c05QdXhFV2Vhdl81T0RKb0ZycTl3RU9YdXVRRGljdWZjb254dlBRb3U5dnZoSlpTUy1SRXNib1JFNjBrTHZpdkktbTJpTQ?oc=5
+
+### Anthropic - Why Google’s Backstop Just De-Risked TeraWulf’s $19B Anthropic Deal
 Source: Major External News - Anthropic
+Publisher: Yahoo Finance
+Published: Nov 6, 2026
+Why it matters: Trusted external coverage
+Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxNRXZOaS1DTEdvSmxnWFRPb1RNYVVRLWtsd1NvNElDYkJ4UTlyRmpwVnF1TjNTWldGLU9GUW9ncmRZbF9vWVU4Z1JRb21QY0MzbHpwYWRZelp2ZXRDVWNMV1NHYXdBTURiLWYyaDVMVk5MTUVrRFRVQmJPMVAxSGZsZGlwOFo?oc=5
+
+### OpenAI - OpenAI Completes $11 Billion Portion of Funding at $1.25 Trillion Value
+Source: Major External News - OpenAI
 Publisher: Bloomberg.com
 Published: Nov 6, 2026
 Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxNSnFFOWdvbmtEcGNObXJldm1QTGRoeXRMbnQ1THZ6REh2bDE4V2U4VmNDbVdOWHRtNm9TaGdCbTBrZUotOWdNZWszbmNoSUpjWnlNN2NNZ1NUcUJPVWRKb2s2RTlPZ19hNGZoR28tSWllbWFzQ0FNTUdoYl9GODVmb1JSdElLd0l0dWFSTktsbFBqSW1YVFJ2SU90anhWZjNMT0RJaFJJWlpfTUVtaDduTw?oc=5
+Link: https://news.google.com/rss/articles/CBMivAFBVV95cUxOZUs1X0RZcHpSM0pJZVlZOHZrWEppOG5oemNaUHFVUGZYV1ZSQ2lVVVhxZENDQWVDTkVPRkN5XzRxT3JGVDExWFVVQ2VWejZ3a21tb2NCNlFrc29DVW11OC1ZRXdJX1lDNWp6Tk90STljUDdBMmltdEgyTVFJQTI5cEJFRkdHMno0Ni1CU2NFQ2M2dXRBdjFMTl8zZ1dZM1p5R2kyT2lGZmF1OGhoQm9zTDNYeWk2NG44SVlnUQ?oc=5
 
-### Anthropic - Neo Brings Security Visibility Inside Claude Cowork
+### Anthropic - Anthropic to press ahead with IPO targeting $1.5tn valuation
 Source: Major External News - Anthropic
-Publisher: Yahoo Finance
-Published: Nov 2, 2026
-Why it matters: Safety, security, or policy update
-Link: https://news.google.com/rss/articles/CBMiowFBVV95cUxNTDdXclBuTXc5b1FySnU0M3JoWm1PVXJ6VEFDa2JmcTl0c0o2aE45VTI1Rkpsd3hOQURFMEl3d0wwa1VzTWZibTl2eTlZME5zX3Y5ZVV4ZUZSNndzSzhiY0UxaUF2cmxVbnV0cHVNZnhXXzBRbWFjcG5uNGcyWVVYVkE0Smt5emV1WmNkRll4RFJCQ1pLbGRKbzJkeXhrOTYwQnNR?oc=5
-
-## Important Official Updates
-
-### OpenAI - Measuring how AI agents handle everyday wet-lab science
-Source: OpenAI Newsroom
-Published: Nov 5, 2026
-Why it matters: Technical or research update
-Summary: OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.
-Link: https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science
-
-## Official Company Updates
-
-### OpenAI - Partnering with Hacktron to find vulnerabilities in OpenAI’s systems
-Source: OpenAI Newsroom
+Publisher: Financial Times
 Published: Nov 6, 2026
-Why it matters: Routine official update
-Summary: OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.
-Link: https://openai.com/index/partnering-with-hacktron
+Why it matters: Trusted external coverage
+Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxPbjV5NWJDbm9FZ2VFTmNEWHdHVUt5ODJwdlZOQjgzZTdJdkFwN0FzQkNsVFdENVJ3MnZybWFvTXltVVFwYVUyWVY4UjRsaFlFajdwMk9QV1gyRmx2UzFpOTlzaWpZdGRrRG1HVTY1c2lMbGJ1eURCQ2E5M1ljSWZNanViUXI?oc=5
 
-### OpenAI - Cult.fit builds operational muscle with Codex
-Source: OpenAI Newsroom
-Published: Nov 5, 2026
-Why it matters: Routine official update
-Summary: Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.
-Link: https://openai.com/index/cultfit-builds-with-codex
-
-### OpenAI - Australian universities are creating AI-native graduates
-Source: OpenAI Newsroom
-Published: Nov 5, 2026
-Why it matters: Routine official update
-Summary: Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.
-Link: https://openai.com/index/australian-universities-ai-native-graduates
+### OpenAI - 2024: OpenAI board chair warns against resisting new tech
+Source: Major External News - OpenAI
+Publisher: Yahoo
+Published: Nov 6, 2026
+Why it matters: Trusted external coverage
+Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxOaENTMTVSOHp1TlhISzA5SGpIZmFzN3lpX2NWdDJXVEpzU3VLdHVZbEJoVVNzejlTZnFtT2FEU0xpRkxBN2hpbUJNSUttaXJGNjQ5ZmRUZHJYSUNoU3RDd2Z0SGkza3AteHM2UGh4RHY4QTVPUFVsYWZGcWRLZnYzWjEwWE8?oc=5
