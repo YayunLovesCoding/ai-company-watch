@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T20:43:28.927Z",
+  "generatedAt": "2026-11-11T21:07:06.528Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -76,27 +76,46 @@
     }
   ],
   "totals": {
-    "fetched": 43,
+    "fetched": 45,
     "deduped": 24,
-    "new": 19,
+    "new": 15,
     "byKind": {
-      "official": 13,
-      "external": 11
+      "official": 10,
+      "external": 14
     }
   },
   "items": [
     {
-      "id": "2141e4dfb1c403f1ab4567d67f468d8040631ff7",
-      "company": "Google",
+      "id": "e22478d9d64c36121a57e4b4a7c24a2a890b2046",
+      "company": "OpenAI",
       "sourceKind": "external",
-      "sourceId": "external-google-major",
-      "sourceLabel": "Major External News - Google",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNEMzWEZvQXhGWXpHN0luTENfd3pJTWRydHJkTVFadTRHMnNhRWhXM1dUMmFNb0lxWUNoZld3eFFwY1dBelRBZnZ0anNYZXdaQjl4Qi0tVkxuZTZ1a0YwUVRaT3Z5aXhDRC0tcHE0VjI3ME5iTWd5SThLX1QxTEZkek8yb3c?oc=5",
-      "title": "Parents Sue Google AI Chatbot Over Planning Suicide - Order In The Court",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcUZzUVF1NFQ5NFVFYVRGSUNtVkhnc0plRGxFazRvVWFheFJOVEdnTnlfNDktZWJmc0Zvb044TGVkVVJiYS1vbmd1SmdLX25qTE9fV3pPckVzdlZqbW9hS19jRDVueWZRRTNMcFRQTGZzTlhnTUtseks2ZUFadmtha09yZG5yckJMbW5XUW9ZS0s0MnBMdFZPZFlqd1I?oc=5",
+      "title": "TSM Stock Jumps Premarket After Board Approves $1B Investment In Anthropic And OpenAI, Dividend Raise",
       "summary": "",
-      "publishedAt": "2026-11-10T16:25:00.000Z",
-      "publisher": "Yahoo",
+      "publishedAt": "2026-11-11T09:06:49.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "93e3a33f9d77de179f32ce5fb927ec74b6888714",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZnlSclk3NV81R05vWFNYbUZUTWh1Y3Voc3lqQ1k4aVhldHBXWVdFUVpTMTZJVS16WUw3Sllwd1dsWnJQclExMG5uU29mX2lpNlotQ1lTdXJkNUMtbDZYcnVWQVJ3aDRJRE9EVElkVENSMHlEN29rc1FwMDN3X1d3RVV6TG1XRmJoRkE5aU9KQm12R0dLQmsxUVpVbUZlTENq?oc=5",
+      "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+      "summary": "",
+      "publishedAt": "2026-11-10T21:08:52.000Z",
+      "publisher": "TechCrunch",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -114,8 +133,27 @@
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN0VFMGg0QW1oVmJPTTlwX3d0dUpBbmZDVXRBRHlzcnZvVGpxQ3pmRF9ZSm4xSnhMYnNMM3VxQzV5SDBGeVd2R3ZLRUFGRnc0ZTh2ZTIwNG81VWJkeEVMMWdDSkxfaHcxc3Z4cVNUeVNUQlotRlh4S21ITlFQY2FxOUEzc0dYZjNaWUxNT2ZVZFhlV1pLVWlWTVJaWWRvNFB1bllPM3o2Ml9waEVRR3VNOTF5MGhvNUts?oc=5",
       "title": "Australia to launch AI safety regulator after OpenAI breach",
       "summary": "",
-      "publishedAt": "2026-11-10T15:50:22.000Z",
+      "publishedAt": "2026-11-10T15:47:00.000Z",
       "publisher": "AP News",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "10a0bf7c2c5b3d0455c8aca04164a9e30ae69b04",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTV9rRkJJdElUOGkzSWk1S2t2UTFMSjdNaDFZRUZyemdkdDJLdl9Da0MzRDh3Q2hWM2tsclJvbDhZX3U2SWVaS2VwaW9kSndDbEpHX3hQdE52anNNWEN3Z2ZPVGd4RmNVajQ2MzJDWGp6bXltTE1vSzJHUi1SdnlXQTJWVTlCT0x1YVVwOXV3?oc=5",
+      "title": "Australia to launch AI safety regulator after OpenAI breach",
+      "summary": "",
+      "publishedAt": "2026-11-10T15:45:45.000Z",
+      "publisher": "Yahoo",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -162,54 +200,54 @@
       }
     },
     {
-      "id": "9c5b7dd2483df71f19a2b907b191ab277594cf93",
+      "id": "f28f90d2895a812ca579d518fcae44bbc0ce22af",
       "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZVJXX0F6amhIRlpRZGpsTmNHenBVYndTci03aEFma05jOHYtNElITWF6TnVscnNfTndvaHFjeEVHNTRfSGZubWxESVlLQ295RWNCb3ZWMmpBdDJ0aVNYYktyb1RVTVRaZTFQVmRORXZ2TmpfakRQWm1aNGdlS0J3d3pENXc3NmNoSDN4Rms4UDNkYzFLNkFBSjJJSHRoNUhhYktVNl9XYmdNdFZVNjdTdk9YQlR4bDRpcmc?oc=5",
-      "title": "Australia to mandate AI breach reporting, create regulator after OpenAI breach",
-      "summary": "",
-      "publishedAt": "2026-11-10T01:30:00.000Z",
-      "publisher": "Reuters",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "b8e61c82c23e14f818c152f354858c6337795a95",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNFd6MGdLa3YwRWRsck0xaEFGNHNwYm9nSW1idFZSeWVLVzczSG5mYy1hazd3bUppeW9NNlhTM3p0Si0xZWxYd0R0QU9ReXZONmVPMHNtMTYwRG43N3FfWEJjMXltM2pGZXRJWGxiNXV5WXVndXlOQ3E4VTBTQ3gwdzhJc1l6VTh2ODJKNFMtOXRzMWJDYS05TGl0UzR2bXBkc2xB?oc=5",
-      "title": "Anthropic seeks $1.4 trillion valuation in highly anticipated IPO, reportedly aiming for Nov. 19 or Nov. 20 debut",
-      "summary": "",
-      "publishedAt": "2026-11-10T14:50:39.000Z",
-      "publisher": "Yahoo Finance",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "title": "Gilbert + Tobin rethinks the business of law with AI",
+      "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+      "publishedAt": "2026-11-12T00:00:00.000Z",
+      "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
         "score": 6,
-        "reason": "Flagship model or product launch"
+        "reason": "Corporate move or major external event"
       }
     },
     {
-      "id": "d3f0566a5e1093c996236d8ce0cea7c59308bade",
+      "id": "e2b68d906141aa1e5ff69816f93320fc236c0d76",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcVlqaXUwYkwwcHFqNjdaSk95ZEhFNlpBdmRsV1ZsM2loSExqZzh0TVhka3ZtQ2ljWGpULVlrTXU2SlpGM19LalpDV0dIZlZ6bVZmOWJaalFvcVFqRjJRUjMxVG5QUlFRYWR2RFplZ1FzYnNKRXowd1owNl9qZ2NHRHVDWHRZVnY4TENuSkZHaHJHLU43ZTlNR3pfcjllbTVC?oc=5",
+      "title": "Meta Stock: Midterm Election Results Raise Concerns Over AI Data Center Expansion",
+      "summary": "",
+      "publishedAt": "2026-11-11T13:29:50.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "30fc72fbf285f0bf145efa6faefbee9c1186f94a",
       "company": "Google",
       "sourceKind": "official",
       "sourceId": "google-ai",
       "sourceLabel": "Google AI",
       "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/multimodal-knowledge-agent-benchmark",
-      "title": "Introducing the Multimodal Knowledge Agent benchmark",
-      "summary": "We’re launching Multimodal Knowledge Agent, a new benchmark to evaluate how agents reason across visually-complex multimodal tasks.",
-      "publishedAt": "2026-11-10T16:00:00.000Z",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/professional-agentic-architect",
+      "title": "Get certified as a Google Cloud Professional Agentic Architect.",
+      "summary": "Today we announced Google Cloud's new Professional Agentic Architect certification.",
+      "publishedAt": "2026-11-11T17:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -238,25 +276,6 @@
       }
     },
     {
-      "id": "02e4a20d191af38069a25027faf99637ec16408a",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare",
-      "title": "Google Cloud launches Gemini for healthcare.",
-      "summary": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
-      "publishedAt": "2026-11-10T13:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
       "id": "5ca4dc7b6d88cb31d41f9b1c287b0178583121a9",
       "company": "OpenAI",
       "sourceKind": "official",
@@ -276,35 +295,16 @@
       }
     },
     {
-      "id": "abec54a588bc7465401b5b31003331b0f2a10f3a",
-      "company": "Anthropic",
+      "id": "94b255c7d194c7b4cf049da1d093cda88d3d5331",
+      "company": "Meta",
       "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNVJYc0ExZG41UkQwSjZhRGgxbVFYUjFTN0p1RW1jTFE4Y2Z2OUlGOFlaN3NlZ01vN21vcEFhMkdiS3BHQjZLdUJzVkNlVXp1UEpkSGdDTHZIbnZscTNONmxGclFxNHFPeGRTN2lUbHFtYzgtWmthWmxJaUcyMnNRTXRYM21oaXNQTlE?oc=5",
-      "title": "Anthropic inks $3.4 billion deal for gas-powered data centers to secure AI autonomy ahead of IPO",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQY1dNLTZ2M1BDcjMyRHM2RE5VeC1IRG5id0c5Y0duMkVmc3NoMWZxckZuYmVLMUt0eXd4SzdrLVB3Z1FmdkhtcnFLd3J0WXFBMzRMQjEydkVJNHBRVHgxY1pIbTNZUklEM0dUaE5zcFdWT1FORW04TjB0ZE1NOW5sMzhfYWxlQTA4TmdMYWlOcVRqcEZyUTY5NlhQa1JaS3NoU1IxQnNKTFB6UU5SMTFZc2UwYw?oc=5",
+      "title": "Meta’s Head of Infrastructure, Engineering to Step Down in 2027",
       "summary": "",
-      "publishedAt": "2026-11-10T20:33:00.000Z",
-      "publisher": "Fortune",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "e4a8e1b3bf29c1d35e05379df064d185af805f0b",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUTgtOV9zN3Ywb2UycWxaSlNwOGltSV91cjMtRWdlNnJibWhnTVgtQkZkd0ZYU0NweVB5MEhaMkd6ZVNpUXlra3JiQ2ltcU4xUUUta0pPV2dqb19uWWpLZWVkanNqTnlsVEo2YmdFeGw2M2dNcGtGVHdGb1hBMTN4MFRteXhkbUctZWIxSURUQjcxczZxbmdtbGQ0d3ZLWWJCcjFQQVpwb1pjNHNzWlE?oc=5",
-      "title": "Anthropic Targets $1.4 Trillion Valuation in Blockbuster IPO",
-      "summary": "",
-      "publishedAt": "2026-11-10T18:01:22.000Z",
+      "publishedAt": "2026-11-11T16:21:18.000Z",
       "publisher": "Bloomberg.com",
       "discoveryMethod": "feed",
       "classification": {
@@ -314,17 +314,93 @@
       }
     },
     {
-      "id": "6828f58c96e4e59d4d85ddfa73bb176df1c32ba1",
+      "id": "ffed802c08c267e7713e203d0a9b1018c5c38ee0",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYXpPSURlUk40eFhFUlp5UlVOaVZSUVlFdDdRSFpmZjl1X3NhVXBacmNhcDhDVVE3UGtzMVpiUS0wVHU1Uzl2a2xIRVNMNnZ2b1U0NUN2RjdKSGFIaE55cUgwcVNUeFFSUVhiejF4ZFBlblp1LVpGM252djd2RzNNSEg2TVVUbS1fTTVOVg?oc=5",
+      "title": "Families Have 90 Days to Leave Trailer Homes for Meta Data Center, but Some May End Up Homeless",
+      "summary": "",
+      "publishedAt": "2026-11-11T14:30:46.000Z",
+      "publisher": "Yahoo",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "20a8d1cfa278357a49783f47d35465b7a2e71a2d",
       "company": "Anthropic",
       "sourceKind": "external",
       "sourceId": "external-anthropic-major",
       "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNY29jNmZNZkNLNElZV21RQXVOY3VCWGwzOFljUXBNRkNieEVLUmFqSG1YazBuanR1dVd1U0drbV90U2xmWEJBcXdhOW14Wk43UWIxMTlTcHZHQUo3bkJUNjdfeWYwdUhGcVI4OFNBYnpnbk5CUGVmdXE2WW1iU2ZlYVBnTm9uNkxiOThacTJ1b2g1bUgyWVl5Z2RkR3dUY1M1c1pVdjRZWUduNUFtOW1LMmR4NzlSWG5CYUw5d05lN2xkVU9BQlJuNA?oc=5",
-      "title": "Anthropic Discloses Over $10 Billion in New Deals with Microsoft, Google; Says Lambda Deal May Be Cancelled",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNC1GQUhWMnhxNS1sUy1OUEhqZDRka1FDODNVUWNoNEJvbERyaHNscFFYb3d0cmZOR0JlMUZYTWRueFlhdzNiZU90VUotWkpvb2lDa0RJdmtYeUFvUE5rM1BvcFpDbmVxdG1NQjNRbzlKaHdJRG5zNGJDMnJyMnEtSWNEMG1lUXZZekwzOVlzY01ubl9lN3VoMmhMNA?oc=5",
+      "title": "Anthropic’s bankers mull raising IPO valuation to $1.5T",
       "summary": "",
-      "publishedAt": "2026-11-10T17:39:00.000Z",
-      "publisher": "The Information",
+      "publishedAt": "2026-11-11T11:55:00.000Z",
+      "publisher": "Semafor",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "a0b3c42732816686b18e69812321c7734a99e4b4",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNa3ZJT1VnODFlMjkwVmE1Z05vaktUWmUtOGNpY19VVG1DMU9ObkZ6QndkOTlVMmVSZGR4RENBV0RwYTZzM241UXIyazhRWGRyNi1SZVNzWWNjYXBSUjlFUGdXb3U3QklJLXprbVBZLXRjdjd2dGphaEItMFVVTGR0OERfeEc?oc=5",
+      "title": "Anthropic IPO valuation calculator: How much is it really worth?",
+      "summary": "",
+      "publishedAt": "2026-11-11T05:02:58.000Z",
+      "publisher": "Financial Times",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "0b351e8942e4fe4975f5a4018f56323edf9e58d6",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYnVCSTA4VERVbE9QQmhQbjNENjRrSVhqc21PTnV2bFVtdHNCWXRFLUxBWVpqemFlN21FcXhobDh2OGRXTGNqNXJaUXBpOVZjcmk3czg4Tlo3Ukp0NlloaWpTNk44OV9IZDJHUmpKb0hPdndlVjNTZEdsX3hpVUJJT2dMS2dMXzVQd2ZqXzFtSEo2YjlqeGtETDdiWXJLNUNjelQ3Ng?oc=5",
+      "title": "Anthropic's lower-than-expected IPO valuation might not top SpaceX, but it's a 'smart' strategy, experts say",
+      "summary": "",
+      "publishedAt": "2026-11-10T23:45:00.000Z",
+      "publisher": "Fortune",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "80a44f4cd968d5256c7c0395d3902e2fed55637b",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWnhqVzNnUThnNE5UQjI0YjlXNXN3a0ZXbWxBUTdyTzltV2dqVWd3bUJudFNYUXZ2cF9IN1JCTmpaTFdWbF9ieGlSbXhYbUItV1poMGEyaGJMdDRORElvUE9lTkNFblV4dnRCMlExTE9nMG0zMldkU3p6OF9KeUJ2bDZwcklTaU56Wkw0?oc=5",
+      "title": "Anthropic revenue could top $600B: Goldman",
+      "summary": "",
+      "publishedAt": "2026-11-10T22:29:00.000Z",
+      "publisher": "Semafor",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -352,60 +428,22 @@
       }
     },
     {
-      "id": "e424c28f526c23bf51f07663634afcc746f6b08f",
-      "company": "Microsoft",
+      "id": "329f10c5763fb302d2112e9111cfe8fb28098983",
+      "company": "Google",
       "sourceKind": "official",
-      "sourceId": "microsoft-ai",
-      "sourceLabel": "Microsoft AI",
-      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
-      "url": "https://news.microsoft.com/source/2026/11/09/northern-trust-and-microsoft-frontier-company-collaborate-to-transform-client-onboarding-through-ai",
-      "title": "Northern Trust and Microsoft Frontier Company collaborate to transform client onboarding through AI",
-      "summary": "Northern Trust and Microsoft Frontier Company collaborate to transform client onboarding through AI",
-      "publishedAt": "2026-11-09T15:58:45.000Z",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/cybersecurity-2027",
+      "title": "Google Cloud leaders share what to expect in cybersecurity for 2027.",
+      "summary": "In our Security 2027 analysis, leaders from across Google, Google Cloud, and Mandiant break down the critical trends shaping the next era of defense.",
+      "publishedAt": "2026-11-11T17:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
         "score": 4,
         "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "f37b680abcf7adcb8bec0b0adda548a12d3efee4",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/control-room",
-      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
-      "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
-      "publishedAt": "2026-11-09T13:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "b2c8e093f063fd6e72143987ae46690f32ed2b50",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdlpNRm5XVy11c3hLY0NRdjh2T3VmOE1LOWQ2LXlvcFhmZlFJYkQya3N3QWxud2UteUZpWVlCTXVHUXZZTjIwRlVQaUhqOGhyM2lDaDJTSGcxMnE5MzhOZ1NHYlJIc1p5bHRxaVZjZDd4MFY2RWMtRkNlYkhSVkdpMlRBWi1PYUNmZGNydXZnOTZFMTFoOHR0azBpUlU1aHpVdFA4dlhCV0dDNm91VE0xSVg0bXZhcF9jaVAzcXYzaldOdw?oc=5",
-      "title": "OpenAI gets $11 billion funding at $1.25 trillion valuation, source says",
-      "summary": "",
-      "publishedAt": "2026-11-08T15:12:57.000Z",
-      "publisher": "Reuters",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Trusted external coverage"
       }
     },
     {
@@ -428,22 +466,22 @@
       }
     },
     {
-      "id": "3588ceed41552e465a0d28bf3b0ad339e960cd8a",
-      "company": "OpenAI",
+      "id": "e424c28f526c23bf51f07663634afcc746f6b08f",
+      "company": "Microsoft",
       "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/ai-effect-on-freelance-work",
-      "title": "Work at the Frontier: AI’s effect on freelance work",
-      "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
-      "publishedAt": "2026-11-10T07:00:00.000Z",
+      "sourceId": "microsoft-ai",
+      "sourceLabel": "Microsoft AI",
+      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
+      "url": "https://news.microsoft.com/source/2026/11/09/northern-trust-and-microsoft-frontier-company-collaborate-to-transform-client-onboarding-through-ai",
+      "title": "Northern Trust and Microsoft Frontier Company collaborate to transform client onboarding through AI",
+      "summary": "Northern Trust and Microsoft Frontier Company collaborate to transform client onboarding through AI",
+      "publishedAt": "2026-11-09T15:58:45.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
         "score": 3,
-        "reason": "Technical or research update"
+        "reason": "Safety, security, or policy update"
       }
     },
     {
@@ -466,16 +504,16 @@
       }
     },
     {
-      "id": "a525fa830b85f10664765d6934b94949c59dc3e6",
+      "id": "cce714811b519a82922e4ba72c95cc2532e1ab7f",
       "company": "Google",
       "sourceKind": "official",
       "sourceId": "google-ai",
       "sourceLabel": "Google AI",
       "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available",
-      "title": "Gemini 4 Carbon is now available",
-      "summary": "Today, we’re making Gemini 4 Carbon available to developers, enterprises, scientists, and consumers.",
-      "publishedAt": "2026-11-10T16:00:00.000Z",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api",
+      "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+      "summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
+      "publishedAt": "2026-11-11T18:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -485,54 +523,16 @@
       }
     },
     {
-      "id": "15706f35e993d4cb4bad7fa58665bdd88d3f2cc1",
+      "id": "d6f0075961b79de9b39bb5aff745a5eb947975c4",
       "company": "Google",
       "sourceKind": "official",
       "sourceId": "google-ai",
       "sourceLabel": "Google AI",
       "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-4-carbon-developers",
-      "title": "Gemini 4 Carbon is now available for developers.",
-      "summary": "Starting today, developers can build with Gemini 4 Carbon, our strongest model with frontier performance in cybersecurity and long-horizon capabilities. Built for sustai…",
-      "publishedAt": "2026-11-10T16:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "46ecb159c1535b0933157f2d30d2423d17c0c4bd",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-      "title": "Helping caregivers use AI in everyday life",
-      "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
-      "publishedAt": "2026-11-10T12:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "9c331579e229757a7a398cd4a7db6c8d1421dabe",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
-      "title": "ChatGPT Enterprise now available in AWS Marketplace",
-      "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
-      "publishedAt": "2026-11-09T19:00:00.000Z",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-on-apple-carplay",
+      "title": "Talk it through with Gemini, now on Apple CarPlay",
+      "summary": "Gemini is now available on Apple CarPlay.",
+      "publishedAt": "2026-11-11T17:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -544,16 +544,54 @@
   ],
   "newItems": [
     {
-      "id": "2141e4dfb1c403f1ab4567d67f468d8040631ff7",
-      "company": "Google",
+      "id": "e22478d9d64c36121a57e4b4a7c24a2a890b2046",
+      "company": "OpenAI",
       "sourceKind": "external",
-      "sourceId": "external-google-major",
-      "sourceLabel": "Major External News - Google",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNEMzWEZvQXhGWXpHN0luTENfd3pJTWRydHJkTVFadTRHMnNhRWhXM1dUMmFNb0lxWUNoZld3eFFwY1dBelRBZnZ0anNYZXdaQjl4Qi0tVkxuZTZ1a0YwUVRaT3Z5aXhDRC0tcHE0VjI3ME5iTWd5SThLX1QxTEZkek8yb3c?oc=5",
-      "title": "Parents Sue Google AI Chatbot Over Planning Suicide - Order In The Court",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcUZzUVF1NFQ5NFVFYVRGSUNtVkhnc0plRGxFazRvVWFheFJOVEdnTnlfNDktZWJmc0Zvb044TGVkVVJiYS1vbmd1SmdLX25qTE9fV3pPckVzdlZqbW9hS19jRDVueWZRRTNMcFRQTGZzTlhnTUtseks2ZUFadmtha09yZG5yckJMbW5XUW9ZS0s0MnBMdFZPZFlqd1I?oc=5",
+      "title": "TSM Stock Jumps Premarket After Board Approves $1B Investment In Anthropic And OpenAI, Dividend Raise",
       "summary": "",
-      "publishedAt": "2026-11-10T16:25:00.000Z",
+      "publishedAt": "2026-11-11T09:06:49.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "93e3a33f9d77de179f32ce5fb927ec74b6888714",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZnlSclk3NV81R05vWFNYbUZUTWh1Y3Voc3lqQ1k4aVhldHBXWVdFUVpTMTZJVS16WUw3Sllwd1dsWnJQclExMG5uU29mX2lpNlotQ1lTdXJkNUMtbDZYcnVWQVJ3aDRJRE9EVElkVENSMHlEN29rc1FwMDN3X1d3RVV6TG1XRmJoRkE5aU9KQm12R0dLQmsxUVpVbUZlTENq?oc=5",
+      "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+      "summary": "",
+      "publishedAt": "2026-11-10T21:08:52.000Z",
+      "publisher": "TechCrunch",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "10a0bf7c2c5b3d0455c8aca04164a9e30ae69b04",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTV9rRkJJdElUOGkzSWk1S2t2UTFMSjdNaDFZRUZyemdkdDJLdl9Da0MzRDh3Q2hWM2tsclJvbDhZX3U2SWVaS2VwaW9kSndDbEpHX3hQdE52anNNWEN3Z2ZPVGd4RmNVajQ2MzJDWGp6bXltTE1vSzJHUi1SdnlXQTJWVTlCT0x1YVVwOXV3?oc=5",
+      "title": "Australia to launch AI safety regulator after OpenAI breach",
+      "summary": "",
+      "publishedAt": "2026-11-10T15:45:45.000Z",
       "publisher": "Yahoo",
       "discoveryMethod": "feed",
       "classification": {
@@ -563,168 +601,54 @@
       }
     },
     {
-      "id": "631831a3ad078a51b7dd30fc9c3727fe1d6f8abb",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN0VFMGg0QW1oVmJPTTlwX3d0dUpBbmZDVXRBRHlzcnZvVGpxQ3pmRF9ZSm4xSnhMYnNMM3VxQzV5SDBGeVd2R3ZLRUFGRnc0ZTh2ZTIwNG81VWJkeEVMMWdDSkxfaHcxc3Z4cVNUeVNUQlotRlh4S21ITlFQY2FxOUEzc0dYZjNaWUxNT2ZVZFhlV1pLVWlWTVJaWWRvNFB1bllPM3o2Ml9waEVRR3VNOTF5MGhvNUts?oc=5",
-      "title": "Australia to launch AI safety regulator after OpenAI breach",
-      "summary": "",
-      "publishedAt": "2026-11-10T15:50:22.000Z",
-      "publisher": "AP News",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "48afcf590d0b63398e4bdb506f14a10c3aece98e",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQ21wVjBfN3NTcVhBYzBPX0pTWXhFRGVqNWRiVnN2UEppVEVlTElncEVCaHVWdDdyekI5V3BUekxXSjl2RFlGSEQ3OVJraU9LSzdzQ2VDWDF0UVVkaGZwSlhNRUpFblV2OWZ0UGhVUU5MNXprTnRUNEU0cko0R1VWcFpzUUpTUUtKeE1NQ1M5c0xLb0RpczN5TlU0MEwxMGpOcURPS2pwTjZxYllGTXROVW93?oc=5",
-      "title": "AvePoint Deepens Strategic Partnership with Microsoft to Advance Trusted AI Adoption",
-      "summary": "",
-      "publishedAt": "2026-11-10T14:00:00.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "cf919d1cd2b703e48b7003fd1ab539139ab43c96",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZU9qVXJqVzJIX0FWSGRHeGFuaTBEZkotTkc2SllMbEtvdEdSMS1YUXJyLXFJbzM3TUQ5Zklwei15UUdKSExRTkRfbHVMc0I4M2F1UGZxY25sTHcyTTZHOW54eHBZYXFrN2VGMVprZHl5UzVkX1FSSnl4ZG8xZk9Tbzc3RWxOTFJVUXBreHZFdzRKMlU?oc=5",
-      "title": "Australia Unveils New A.I. Regulator After OpenAI Breach",
-      "summary": "",
-      "publishedAt": "2026-11-10T11:01:07.000Z",
-      "publisher": "The New York Times",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "9c5b7dd2483df71f19a2b907b191ab277594cf93",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZVJXX0F6amhIRlpRZGpsTmNHenBVYndTci03aEFma05jOHYtNElITWF6TnVscnNfTndvaHFjeEVHNTRfSGZubWxESVlLQ295RWNCb3ZWMmpBdDJ0aVNYYktyb1RVTVRaZTFQVmRORXZ2TmpfakRQWm1aNGdlS0J3d3pENXc3NmNoSDN4Rms4UDNkYzFLNkFBSjJJSHRoNUhhYktVNl9XYmdNdFZVNjdTdk9YQlR4bDRpcmc?oc=5",
-      "title": "Australia to mandate AI breach reporting, create regulator after OpenAI breach",
-      "summary": "",
-      "publishedAt": "2026-11-10T01:30:00.000Z",
-      "publisher": "Reuters",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "b8e61c82c23e14f818c152f354858c6337795a95",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNFd6MGdLa3YwRWRsck0xaEFGNHNwYm9nSW1idFZSeWVLVzczSG5mYy1hazd3bUppeW9NNlhTM3p0Si0xZWxYd0R0QU9ReXZONmVPMHNtMTYwRG43N3FfWEJjMXltM2pGZXRJWGxiNXV5WXVndXlOQ3E4VTBTQ3gwdzhJc1l6VTh2ODJKNFMtOXRzMWJDYS05TGl0UzR2bXBkc2xB?oc=5",
-      "title": "Anthropic seeks $1.4 trillion valuation in highly anticipated IPO, reportedly aiming for Nov. 19 or Nov. 20 debut",
-      "summary": "",
-      "publishedAt": "2026-11-10T14:50:39.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "d3f0566a5e1093c996236d8ce0cea7c59308bade",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/multimodal-knowledge-agent-benchmark",
-      "title": "Introducing the Multimodal Knowledge Agent benchmark",
-      "summary": "We’re launching Multimodal Knowledge Agent, a new benchmark to evaluate how agents reason across visually-complex multimodal tasks.",
-      "publishedAt": "2026-11-10T16:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "646e58946cb76443898e71d1406c83f32c481806",
-      "company": "Microsoft",
-      "sourceKind": "official",
-      "sourceId": "microsoft-ai",
-      "sourceLabel": "Microsoft AI",
-      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
-      "url": "https://news.microsoft.com/source/2026/11/10/ibm-and-microsoft-announce-a-new-ai-agent-platform-designed-for-industry-specific-transformation",
-      "title": "IBM and Microsoft announce a new AI agent platform designed for industry-specific transformation",
-      "summary": "IBM and Microsoft announce a new AI agent platform designed for industry-specific transformation",
-      "publishedAt": "2026-11-10T13:00:08.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "02e4a20d191af38069a25027faf99637ec16408a",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare",
-      "title": "Google Cloud launches Gemini for healthcare.",
-      "summary": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
-      "publishedAt": "2026-11-10T13:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "5ca4dc7b6d88cb31d41f9b1c287b0178583121a9",
+      "id": "f28f90d2895a812ca579d518fcae44bbc0ce22af",
       "company": "OpenAI",
       "sourceKind": "official",
       "sourceId": "openai-newsroom",
       "sourceLabel": "OpenAI Newsroom",
       "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/introducing-businesses-chatgpt",
-      "title": "Introducing Businesses in ChatGPT",
-      "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
-      "publishedAt": "2026-11-10T10:00:00.000Z",
+      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "title": "Gilbert + Tobin rethinks the business of law with AI",
+      "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+      "publishedAt": "2026-11-12T00:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "e2b68d906141aa1e5ff69816f93320fc236c0d76",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcVlqaXUwYkwwcHFqNjdaSk95ZEhFNlpBdmRsV1ZsM2loSExqZzh0TVhka3ZtQ2ljWGpULVlrTXU2SlpGM19LalpDV0dIZlZ6bVZmOWJaalFvcVFqRjJRUjMxVG5QUlFRYWR2RFplZ1FzYnNKRXowd1owNl9qZ2NHRHVDWHRZVnY4TENuSkZHaHJHLU43ZTlNR3pfcjllbTVC?oc=5",
+      "title": "Meta Stock: Midterm Election Results Raise Concerns Over AI Data Center Expansion",
+      "summary": "",
+      "publishedAt": "2026-11-11T13:29:50.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "30fc72fbf285f0bf145efa6faefbee9c1186f94a",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/professional-agentic-architect",
+      "title": "Get certified as a Google Cloud Professional Agentic Architect.",
+      "summary": "Today we announced Google Cloud's new Professional Agentic Architect certification.",
+      "publishedAt": "2026-11-11T17:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -734,35 +658,16 @@
       }
     },
     {
-      "id": "abec54a588bc7465401b5b31003331b0f2a10f3a",
-      "company": "Anthropic",
+      "id": "94b255c7d194c7b4cf049da1d093cda88d3d5331",
+      "company": "Meta",
       "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNVJYc0ExZG41UkQwSjZhRGgxbVFYUjFTN0p1RW1jTFE4Y2Z2OUlGOFlaN3NlZ01vN21vcEFhMkdiS3BHQjZLdUJzVkNlVXp1UEpkSGdDTHZIbnZscTNONmxGclFxNHFPeGRTN2lUbHFtYzgtWmthWmxJaUcyMnNRTXRYM21oaXNQTlE?oc=5",
-      "title": "Anthropic inks $3.4 billion deal for gas-powered data centers to secure AI autonomy ahead of IPO",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQY1dNLTZ2M1BDcjMyRHM2RE5VeC1IRG5id0c5Y0duMkVmc3NoMWZxckZuYmVLMUt0eXd4SzdrLVB3Z1FmdkhtcnFLd3J0WXFBMzRMQjEydkVJNHBRVHgxY1pIbTNZUklEM0dUaE5zcFdWT1FORW04TjB0ZE1NOW5sMzhfYWxlQTA4TmdMYWlOcVRqcEZyUTY5NlhQa1JaS3NoU1IxQnNKTFB6UU5SMTFZc2UwYw?oc=5",
+      "title": "Meta’s Head of Infrastructure, Engineering to Step Down in 2027",
       "summary": "",
-      "publishedAt": "2026-11-10T20:33:00.000Z",
-      "publisher": "Fortune",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "e4a8e1b3bf29c1d35e05379df064d185af805f0b",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUTgtOV9zN3Ywb2UycWxaSlNwOGltSV91cjMtRWdlNnJibWhnTVgtQkZkd0ZYU0NweVB5MEhaMkd6ZVNpUXlra3JiQ2ltcU4xUUUta0pPV2dqb19uWWpLZWVkanNqTnlsVEo2YmdFeGw2M2dNcGtGVHdGb1hBMTN4MFRteXhkbUctZWIxSURUQjcxczZxbmdtbGQ0d3ZLWWJCcjFQQVpwb1pjNHNzWlE?oc=5",
-      "title": "Anthropic Targets $1.4 Trillion Valuation in Blockbuster IPO",
-      "summary": "",
-      "publishedAt": "2026-11-10T18:01:22.000Z",
+      "publishedAt": "2026-11-11T16:21:18.000Z",
       "publisher": "Bloomberg.com",
       "discoveryMethod": "feed",
       "classification": {
@@ -772,36 +677,17 @@
       }
     },
     {
-      "id": "6828f58c96e4e59d4d85ddfa73bb176df1c32ba1",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNY29jNmZNZkNLNElZV21RQXVOY3VCWGwzOFljUXBNRkNieEVLUmFqSG1YazBuanR1dVd1U0drbV90U2xmWEJBcXdhOW14Wk43UWIxMTlTcHZHQUo3bkJUNjdfeWYwdUhGcVI4OFNBYnpnbk5CUGVmdXE2WW1iU2ZlYVBnTm9uNkxiOThacTJ1b2g1bUgyWVl5Z2RkR3dUY1M1c1pVdjRZWUduNUFtOW1LMmR4NzlSWG5CYUw5d05lN2xkVU9BQlJuNA?oc=5",
-      "title": "Anthropic Discloses Over $10 Billion in New Deals with Microsoft, Google; Says Lambda Deal May Be Cancelled",
-      "summary": "",
-      "publishedAt": "2026-11-10T17:39:00.000Z",
-      "publisher": "The Information",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "e9cbe4b03b0983e597bef8552637830fcc8ca65a",
+      "id": "ffed802c08c267e7713e203d0a9b1018c5c38ee0",
       "company": "Meta",
       "sourceKind": "external",
       "sourceId": "external-meta-major",
       "sourceLabel": "Major External News - Meta",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdFNXMnIzTnpzMlhBWmdTSTA3V2MtVm9EZnZEczNHUlJnNDNrdGZyeHptb05XUktfYjhHbXNETjllMWtwQ0JELUlpNkdJOHVnejFrdE9UV05TNHdIMkxwT2hCSF9YQ20wa0dRUnZDRm5PMU5SSWFyQlp3cHBiLXNVZHJtbXN4WFBqdVNXWDZVRWt1QmN5Ymc?oc=5",
-      "title": "Dan Ives Says Microsoft Amazon and Meta Win Big as Data Center Slowdown Looms",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYXpPSURlUk40eFhFUlp5UlVOaVZSUVlFdDdRSFpmZjl1X3NhVXBacmNhcDhDVVE3UGtzMVpiUS0wVHU1Uzl2a2xIRVNMNnZ2b1U0NUN2RjdKSGFIaE55cUgwcVNUeFFSUVhiejF4ZFBlblp1LVpGM252djd2RzNNSEg2TVVUbS1fTTVOVg?oc=5",
+      "title": "Families Have 90 Days to Leave Trailer Homes for Meta Data Center, but Some May End Up Homeless",
       "summary": "",
-      "publishedAt": "2026-11-10T14:56:05.000Z",
-      "publisher": "Yahoo Finance",
+      "publishedAt": "2026-11-11T14:30:46.000Z",
+      "publisher": "Yahoo",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -810,54 +696,111 @@
       }
     },
     {
-      "id": "01a8528fa117926a6942a8da712f5c8913fac83e",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/closing-ai-guidance-gap-education",
-      "title": "Closing the AI guidance gap in education",
-      "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
-      "publishedAt": "2026-11-10T09:00:00.000Z",
-      "publisher": "",
+      "id": "20a8d1cfa278357a49783f47d35465b7a2e71a2d",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNC1GQUhWMnhxNS1sUy1OUEhqZDRka1FDODNVUWNoNEJvbERyaHNscFFYb3d0cmZOR0JlMUZYTWRueFlhdzNiZU90VUotWkpvb2lDa0RJdmtYeUFvUE5rM1BvcFpDbmVxdG1NQjNRbzlKaHdJRG5zNGJDMnJyMnEtSWNEMG1lUXZZekwzOVlzY01ubl9lN3VoMmhMNA?oc=5",
+      "title": "Anthropic’s bankers mull raising IPO valuation to $1.5T",
+      "summary": "",
+      "publishedAt": "2026-11-11T11:55:00.000Z",
+      "publisher": "Semafor",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
-        "score": 3,
-        "reason": "Technical or research update"
+        "score": 4,
+        "reason": "Trusted external coverage"
       }
     },
     {
-      "id": "3588ceed41552e465a0d28bf3b0ad339e960cd8a",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/ai-effect-on-freelance-work",
-      "title": "Work at the Frontier: AI’s effect on freelance work",
-      "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
-      "publishedAt": "2026-11-10T07:00:00.000Z",
-      "publisher": "",
+      "id": "a0b3c42732816686b18e69812321c7734a99e4b4",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNa3ZJT1VnODFlMjkwVmE1Z05vaktUWmUtOGNpY19VVG1DMU9ObkZ6QndkOTlVMmVSZGR4RENBV0RwYTZzM241UXIyazhRWGRyNi1SZVNzWWNjYXBSUjlFUGdXb3U3QklJLXprbVBZLXRjdjd2dGphaEItMFVVTGR0OERfeEc?oc=5",
+      "title": "Anthropic IPO valuation calculator: How much is it really worth?",
+      "summary": "",
+      "publishedAt": "2026-11-11T05:02:58.000Z",
+      "publisher": "Financial Times",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
-        "score": 3,
-        "reason": "Technical or research update"
+        "score": 4,
+        "reason": "Trusted external coverage"
       }
     },
     {
-      "id": "a525fa830b85f10664765d6934b94949c59dc3e6",
+      "id": "0b351e8942e4fe4975f5a4018f56323edf9e58d6",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYnVCSTA4VERVbE9QQmhQbjNENjRrSVhqc21PTnV2bFVtdHNCWXRFLUxBWVpqemFlN21FcXhobDh2OGRXTGNqNXJaUXBpOVZjcmk3czg4Tlo3Ukp0NlloaWpTNk44OV9IZDJHUmpKb0hPdndlVjNTZEdsX3hpVUJJT2dMS2dMXzVQd2ZqXzFtSEo2YjlqeGtETDdiWXJLNUNjelQ3Ng?oc=5",
+      "title": "Anthropic's lower-than-expected IPO valuation might not top SpaceX, but it's a 'smart' strategy, experts say",
+      "summary": "",
+      "publishedAt": "2026-11-10T23:45:00.000Z",
+      "publisher": "Fortune",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "80a44f4cd968d5256c7c0395d3902e2fed55637b",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWnhqVzNnUThnNE5UQjI0YjlXNXN3a0ZXbWxBUTdyTzltV2dqVWd3bUJudFNYUXZ2cF9IN1JCTmpaTFdWbF9ieGlSbXhYbUItV1poMGEyaGJMdDRORElvUE9lTkNFblV4dnRCMlExTE9nMG0zMldkU3p6OF9KeUJ2bDZwcklTaU56Wkw0?oc=5",
+      "title": "Anthropic revenue could top $600B: Goldman",
+      "summary": "",
+      "publishedAt": "2026-11-10T22:29:00.000Z",
+      "publisher": "Semafor",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "329f10c5763fb302d2112e9111cfe8fb28098983",
       "company": "Google",
       "sourceKind": "official",
       "sourceId": "google-ai",
       "sourceLabel": "Google AI",
       "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available",
-      "title": "Gemini 4 Carbon is now available",
-      "summary": "Today, we’re making Gemini 4 Carbon available to developers, enterprises, scientists, and consumers.",
-      "publishedAt": "2026-11-10T16:00:00.000Z",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/cybersecurity-2027",
+      "title": "Google Cloud leaders share what to expect in cybersecurity for 2027.",
+      "summary": "In our Security 2027 analysis, leaders from across Google, Google Cloud, and Mandiant break down the critical trends shaping the next era of defense.",
+      "publishedAt": "2026-11-11T17:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "cce714811b519a82922e4ba72c95cc2532e1ab7f",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api",
+      "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+      "summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
+      "publishedAt": "2026-11-11T18:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -867,35 +810,16 @@
       }
     },
     {
-      "id": "15706f35e993d4cb4bad7fa58665bdd88d3f2cc1",
+      "id": "d6f0075961b79de9b39bb5aff745a5eb947975c4",
       "company": "Google",
       "sourceKind": "official",
       "sourceId": "google-ai",
       "sourceLabel": "Google AI",
       "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-4-carbon-developers",
-      "title": "Gemini 4 Carbon is now available for developers.",
-      "summary": "Starting today, developers can build with Gemini 4 Carbon, our strongest model with frontier performance in cybersecurity and long-horizon capabilities. Built for sustai…",
-      "publishedAt": "2026-11-10T16:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "46ecb159c1535b0933157f2d30d2423d17c0c4bd",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-      "title": "Helping caregivers use AI in everyday life",
-      "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
-      "publishedAt": "2026-11-10T12:00:00.000Z",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-on-apple-carplay",
+      "title": "Talk it through with Gemini, now on Apple CarPlay",
+      "summary": "Gemini is now available on Apple CarPlay.",
+      "publishedAt": "2026-11-11T17:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
