@@ -1,76 +1,58 @@
 # AI Company Watch
 
-Generated: Nov 12, 2026, 1:21 PM PST
+Generated: Nov 13, 2026, 12:47 PM PST
 Lookback window: 7 day(s)
 Sources checked: 12
 Items fetched: 43
 Items kept: 24
-New items: 8
+New items: 6
 External items kept: 13
 Official items kept: 11
 
-## Critical External News
-
-### OpenAI - Anthropic, OpenAI sued for allegedly infringing inventors' neural network patents
-Source: Major External News - OpenAI
-Publisher: Reuters
-Published: Nov 12, 2026
-Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMivgFBVV95cUxOWTRubERMSXBGblFuaGZHYzh2SDBfRkZCR0F4bnZmUjlXazJhamZaSkhRRzJPT0xuUmZDdlY5RlJQVFE0Rm1VZl9UeVRTVldVRE01VWZORE9NNGxCbjNNTHBrZmdNTXZNbVo1UVdsZ0JLYTlfWkJqa2diNTdCWHUzQ0lYVHNfYWtVNlhlbWh0LUtDNHFsZW5zQ254eHRXdDlkMlJNUnBXY0pLRkx3M1ZRQ3ZKcmZ3RlNYdUxLcWF3?oc=5
-
-### Anthropic - Infor and Anthropic Announce Partnership That Turns Insights into Actions for Manufacturing Operations
-Source: Major External News - Anthropic
-Publisher: Yahoo Finance
-Published: Nov 12, 2026
-Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxOamtpQlItNTU4SDNYN1lKdEMyaHloZkRvS3g4YVpnZ3hQM0g5Q19BcU4xZU1NVmhhcUxTeF94TDU0VU1JLUpCX3hwMWdmZWVfcGtmTnhJZGhSaVRmcjdZWXJpa3RBdWFVd2Z2ODJlUTdnLUJXcDVCSmtxYjhSWDA0YnJmeUVFbXI5TGt0b3RIMkI1Rm1aaENwYVZpQVNYTVRBbzJ5Vm1QSUp3Zw?oc=5
-
 ## Important External News
 
-### Meta - Meta Is Handing Its AI Data Center Buildout to an Amazon Veteran
-Source: Major External News - Meta
+### Anthropic - Anthropic CEO Dario Amodei aims to 'underpromise and overdeliver' as IPO valuation drops below $2T hopes
+Source: Major External News - Anthropic
+Publisher: Yahoo Finance
+Published: Nov 13, 2026
+Why it matters: Trusted external coverage
+Link: https://news.google.com/rss/articles/CBMi7wFBVV95cUxOYWlOYlBreW82LXNaU055OVBTaUk2QlJDc09hckd3dG1UM0c0blctXzNKd1dwZ2FYdXk1emR6aEZrcVhZN2RSQmx1M1dRcVc5N0dCYmdnWm1GYzBDcmZ2eXpfNUdEVkp4X2otNzhDX3V4VjF4ZGRVOVFaT2ZfMl8yOXVNcmRCd1ppdjJFVWhPMEdwS1U0cEFQaml1aGNMcGtFT3VyYms1eU9qWWppZUdFRWF6VXRmQ2lZZzJURU1FajFwbGZLMFd2d2dXMzRsZWFoVnUxdHJDTVB6N0pIdDN2NG9JdjQ2R1BWVV9IMGh3SQ?oc=5
+
+### Microsoft - Lutnick agrees to testify about Nvidia and Microsoft outage hits millions: Morning Rundown
+Source: Major External News - Microsoft
+Publisher: NBC News
+Published: Nov 13, 2026
+Why it matters: Trusted external coverage
+Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxPdEdwY3V4a2gtd2o2R2dFY0EwMkxXRWRULVdtSlB3aDJFem9raWVaV0R0SEVGRm51SWstb3gwX0FMSkZOdWhMcXMxNG9ZbnlwcjEtRlhKaWRwWkFRUzNHTWFIdmx5ai1KelpmOW9TOFFNVHRIU0FULUFKZWs0MERfYkRrUjdjb0dyd3RmMlRXX2FpdW1QU1pLUmFDTm8xRF9XMk9lWndKSXFlRUZwRTVwMw?oc=5
+
+### OpenAI - OpenAI Reportedly Raises $15B At $1.25 Trillion Valuation
+Source: Major External News - OpenAI
 Publisher: Yahoo Finance
 Published: Nov 12, 2026
 Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMilgFBVV95cUxQSlNObDdTQnUyOGhHZWtiUEw2MjZOeklTM2JBanFPUnhMZU1BUXJGMzFSNGx5UU5WMm9ybTBuUk1HMFI1Tl9sZ01pRnpwOEs1eTVWUXdMMGtDc2ozeW91ZG54S0tvZ2tPUWlHNmo0OG9fUjh5U1gxdS1HUWk1LWJjUlpLcFVOQ2pxdTY4S25lckstY09YT3c?oc=5
+Link: https://news.google.com/rss/articles/CBMimwFBVV95cUxPQjJCXzFPZDhMNE1EUFlsUFROeFQ2MWZ5aHdCekd1dGtiNlhPaGN4X1I2VUxmYmZ6eXJBbF9Ddldzc2I3ZkwyQ1pVTEVkX1VZcFVxWXFXbi0zWmVVSTF1ZVp0NlZKSURhYkVrR2w3NnNXQXNvVUZxOFVxSkJQQTFnbTk5cWhtRXdQeFZmZkpvTkhDZGo2bzFOVk5pNA?oc=5
 
 ## Critical Official Updates
 
-### Google - Introducing Gemini 4 Hydrogen
-Source: Google AI
-Published: Nov 12, 2026
-Why it matters: Flagship model or product launch
-Summary: Today, we’re introducing Gemini 4 Hydrogen, our daily driver for agentic workflows
-Link: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen
-
-## Important Official Updates
-
-### OpenAI - Supporting research on AI and children’s safety
+### OpenAI - Introducing ChatGPT Wallet
 Source: OpenAI Newsroom
-Published: Nov 11, 2026
-Why it matters: Safety, security, or policy update
-Summary: OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.
-Link: https://openai.com/index/children-first-declaration
+Published: Nov 13, 2026
+Why it matters: Flagship model or product launch
+Summary: Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.
+Link: https://openai.com/index/introducing-chatgpt-wallet
 
 ## Official Company Updates
 
-### OpenAI - How Amplitude ships product improvements in 1–2 days with OpenAI
-Source: OpenAI Newsroom
-Published: Nov 12, 2026
-Why it matters: Routine official update
-Summary: Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.
-Link: https://openai.com/index/amplitude
-
-### Google - Gemini 4 Hydrogen: everyday coding and agentic workflows for developers
+### Google - Claim your Google Cloud Credits in Google AI Studio
 Source: Google AI
-Published: Nov 12, 2026
+Published: Nov 13, 2026
 Why it matters: Routine official update
-Summary: Build faster with Gemini 4 Hydrogen, Google’s new model for cost-efficient agentic coding and debugging. Start building in Google AI Studio today.
-Link: https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-hydrogen
+Summary: Claim your Google Cloud Credits in Google AI Studio
+Link: https://blog.google/innovation-and-ai/technology/developers-tools/google-cloud-credits-gdp-ai-studio
 
-### Google - Get quick answers from Gemini on any website.
+### Google - Connect Google Wallet to Gemini for personal finance insights
 Source: Google AI
-Published: Nov 12, 2026
+Published: Nov 13, 2026
 Why it matters: Routine official update
-Summary: Get quick answers with Gemini in Chrome. Summarize articles, compare products, and explain complex topics directly in your side panel. Try it now.
-Link: https://blog.google/innovation-and-ai/products/gemini-app/research-with-gemini-in-chrome
+Summary: All Gemini app users in the U.S. can connect Google Wallet to get responses informed by their spending habits.
+Link: https://blog.google/innovation-and-ai/products/gemini-app/google-wallet-gemini-app
