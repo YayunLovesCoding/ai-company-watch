@@ -1,58 +1,49 @@
 # AI Company Watch
 
-Generated: Nov 13, 2026, 12:47 PM PST
+Generated: Nov 14, 2026, 10:58 AM PST
 Lookback window: 7 day(s)
 Sources checked: 12
-Items fetched: 43
+Items fetched: 40
 Items kept: 24
-New items: 6
-External items kept: 13
-Official items kept: 11
+New items: 5
+External items kept: 10
+Official items kept: 14
 
-## Important External News
+## Critical External News
 
-### Anthropic - Anthropic CEO Dario Amodei aims to 'underpromise and overdeliver' as IPO valuation drops below $2T hopes
+### Anthropic - OpenAI, Anthropic, Google and Other AI Giants Face Lawsuit Demanding Development Freeze
+Source: Major External News - Anthropic
+Publisher: Yahoo
+Published: Nov 14, 2026
+Why it matters: Corporate move or major external event
+Link: https://news.google.com/rss/articles/CBMilwFBVV95cUxOaWRZX0NtSTg0SU1vOEduTmEwS0psN2RGdkMyV0ZiNHozSXBhT29FRXUwUWFTMVU0RzJlUzY1TkltbFNhV2JpdnMtNF9TaFdqZEU2Zm1VaEZCQ1RuT29yVEFxSllsNElXNmZDeGNJZ015V0RSNU9kQ2FGWndpbnVaOHlDYURGTVNJWTNNdGM2VFROckRNZzBF?oc=5
+
+### Anthropic - SpaceX-Tesla Merger Talks Advance. Plus Anthropic’s $1.4T IPO and Hyperbolic’s CEO
 Source: Major External News - Anthropic
 Publisher: Yahoo Finance
 Published: Nov 13, 2026
-Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMi7wFBVV95cUxOYWlOYlBreW82LXNaU055OVBTaUk2QlJDc09hckd3dG1UM0c0blctXzNKd1dwZ2FYdXk1emR6aEZrcVhZN2RSQmx1M1dRcVc5N0dCYmdnWm1GYzBDcmZ2eXpfNUdEVkp4X2otNzhDX3V4VjF4ZGRVOVFaT2ZfMl8yOXVNcmRCd1ppdjJFVWhPMEdwS1U0cEFQaml1aGNMcGtFT3VyYms1eU9qWWppZUdFRWF6VXRmQ2lZZzJURU1FajFwbGZLMFd2d2dXMzRsZWFoVnUxdHJDTVB6N0pIdDN2NG9JdjQ2R1BWVV9IMGh3SQ?oc=5
+Why it matters: Corporate move or major external event
+Link: https://news.google.com/rss/articles/CBMihwFBVV95cUxNSXRDQ0NkQXhTSE00M0w3dWw1OHFIREl4UHVHd2o5aXV0SVhMSXZZcEx4TURkcGwyZ2Q2Q3JZLUcwUmFNcjBsd1E1WWVCb1pIWUY5b29GcWJqTVE0LU9uY2cxSGdxdmZkT0x4Nkt6clpDTnJiWGRma3VocXNRTDBWR0NJemhldlk?oc=5
 
-### Microsoft - Lutnick agrees to testify about Nvidia and Microsoft outage hits millions: Morning Rundown
-Source: Major External News - Microsoft
-Publisher: NBC News
-Published: Nov 13, 2026
-Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxPdEdwY3V4a2gtd2o2R2dFY0EwMkxXRWRULVdtSlB3aDJFem9raWVaV0R0SEVGRm51SWstb3gwX0FMSkZOdWhMcXMxNG9ZbnlwcjEtRlhKaWRwWkFRUzNHTWFIdmx5ai1KelpmOW9TOFFNVHRIU0FULUFKZWs0MERfYkRrUjdjb0dyd3RmMlRXX2FpdW1QU1pLUmFDTm8xRF9XMk9lWndKSXFlRUZwRTVwMw?oc=5
-
-### OpenAI - OpenAI Reportedly Raises $15B At $1.25 Trillion Valuation
+### OpenAI - OpenAI, Google, Anthropic hit with lawsuit seeking halt to frontier AI development
 Source: Major External News - OpenAI
-Publisher: Yahoo Finance
+Publisher: Reuters
 Published: Nov 12, 2026
-Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMimwFBVV95cUxPQjJCXzFPZDhMNE1EUFlsUFROeFQ2MWZ5aHdCekd1dGtiNlhPaGN4X1I2VUxmYmZ6eXJBbF9Ddldzc2I3ZkwyQ1pVTEVkX1VZcFVxWXFXbi0zWmVVSTF1ZVp0NlZKSURhYkVrR2w3NnNXQXNvVUZxOFVxSkJQQTFnbTk5cWhtRXdQeFZmZkpvTkhDZGo2bzFOVk5pNA?oc=5
-
-## Critical Official Updates
-
-### OpenAI - Introducing ChatGPT Wallet
-Source: OpenAI Newsroom
-Published: Nov 13, 2026
-Why it matters: Flagship model or product launch
-Summary: Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.
-Link: https://openai.com/index/introducing-chatgpt-wallet
+Why it matters: Corporate move or major external event
+Link: https://news.google.com/rss/articles/CBMivwFBVV95cUxPWTR4ak5BdnRmV3hzYTZOcVhBYklWU01YRmtLak03b2hmeC1PMTd5blRQWUkxR2Q1ZXZWRC0xNkNxVDVoN2VOdTVlX1hFMXgwS1Y5TW1fUGt4NThQaEhRVFdna1YxUDhLTnBYUFJ6WTlFajlLM1BZTTRwNk5sWFMydkZtMlJNUnU4MWlDcUN6QmNtVHdUT1pLNXd6QXc4QVk0WmMtM1JxWU5XVC1PUGRIMVJNY2wzN1Z1d2N6WWJkbw?oc=5
 
 ## Official Company Updates
 
-### Google - Claim your Google Cloud Credits in Google AI Studio
-Source: Google AI
-Published: Nov 13, 2026
+### OpenAI - ChatGPT Plus for veterans and servicemembers
+Source: OpenAI Newsroom
+Published: Nov 11, 2026
 Why it matters: Routine official update
-Summary: Claim your Google Cloud Credits in Google AI Studio
-Link: https://blog.google/innovation-and-ai/technology/developers-tools/google-cloud-credits-gdp-ai-studio
+Summary: More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.
+Link: https://openai.com/index/chatgpt-plus-for-veterans
 
-### Google - Connect Google Wallet to Gemini for personal finance insights
-Source: Google AI
-Published: Nov 13, 2026
+### OpenAI - JioStar’s chief architect on AI discovery at 500M-user scale
+Source: OpenAI Newsroom
+Published: Nov 10, 2026
 Why it matters: Routine official update
-Summary: All Gemini app users in the U.S. can connect Google Wallet to get responses informed by their spending habits.
-Link: https://blog.google/innovation-and-ai/products/gemini-app/google-wallet-gemini-app
+Summary: JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.
+Link: https://openai.com/index/jiostar-vijay-seshadri
