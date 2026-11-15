@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T18:58:14.466Z",
+  "generatedAt": "2026-11-15T19:37:41.554Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -76,53 +76,15 @@
     }
   ],
   "totals": {
-    "fetched": 40,
+    "fetched": 39,
     "deduped": 24,
-    "new": 5,
+    "new": 1,
     "byKind": {
-      "official": 14,
-      "external": 10
+      "official": 16,
+      "external": 8
     }
   },
   "items": [
-    {
-      "id": "1ed700094fe28e63584562a9d2483c3e7032fccd",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaWRZX0NtSTg0SU1vOEduTmEwS0psN2RGdkMyV0ZiNHozSXBhT29FRXUwUWFTMVU0RzJlUzY1TkltbFNhV2JpdnMtNF9TaFdqZEU2Zm1VaEZCQ1RuT29yVEFxSllsNElXNmZDeGNJZ015V0RSNU9kQ2FGWndpbnVaOHlDYURGTVNJWTNNdGM2VFROckRNZzBF?oc=5",
-      "title": "OpenAI, Anthropic, Google and Other AI Giants Face Lawsuit Demanding Development Freeze",
-      "summary": "",
-      "publishedAt": "2026-11-14T17:01:02.000Z",
-      "publisher": "Yahoo",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "454d4081c80e98c4245bda9fc8c338341de5ef41",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSXRDQ0NkQXhTSE00M0w3dWw1OHFIREl4UHVHd2o5aXV0SVhMSXZZcEx4TURkcGwyZ2Q2Q3JZLUcwUmFNcjBsd1E1WWVCb1pIWUY5b29GcWJqTVE0LU9uY2cxSGdxdmZkT0x4Nkt6clpDTnJiWGRma3VocXNRTDBWR0NJemhldlk?oc=5",
-      "title": "SpaceX-Tesla Merger Talks Advance. Plus Anthropic’s $1.4T IPO and Hyperbolic’s CEO",
-      "summary": "",
-      "publishedAt": "2026-11-13T20:15:31.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
     {
       "id": "205a1e0685e39352ce6ba324611f664e0b9cdf19",
       "company": "OpenAI",
@@ -138,7 +100,7 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 7,
+        "score": 6,
         "reason": "Corporate move or major external event"
       }
     },
@@ -157,22 +119,22 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 7,
+        "score": 6,
         "reason": "Corporate move or major external event"
       }
     },
     {
-      "id": "631831a3ad078a51b7dd30fc9c3727fe1d6f8abb",
-      "company": "OpenAI",
+      "id": "36d89a93496eea9c03ed7036c41e854d13735db7",
+      "company": "Anthropic",
       "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN0VFMGg0QW1oVmJPTTlwX3d0dUpBbmZDVXRBRHlzcnZvVGpxQ3pmRF9ZSm4xSnhMYnNMM3VxQzV5SDBGeVd2R3ZLRUFGRnc0ZTh2ZTIwNG81VWJkeEVMMWdDSkxfaHcxc3Z4cVNUeVNUQlotRlh4S21ITlFQY2FxOUEzc0dYZjNaWUxNT2ZVZFhlV1pLVWlWTVJaWWRvNFB1bllPM3o2Ml9waEVRR3VNOTF5MGhvNUts?oc=5",
-      "title": "Australia to launch AI safety regulator after OpenAI breach",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOX01vVWFGLXNRUXJHT2tXSW1hc1FiZlQza0Y3X0RXMjRuSXBHM0paRnNiSzFkTlFBS2p6alUtU1JKYVdFTncyVXBSbTEwNFJRTjd5WnhRd1hNRDlTNFhPaHVGa05QR2hBQldxUXRVUmJraTVWZjEwRmg4dGpXTHQteWVJM3kweGFxSnVTSk56aWFaT2FHRnpMa0J6U3FjZFVfendhOXdhVV9oQzdZdHpKbEFfS3BieDdaLV9yNTZVRDBwOVpyeW5QTVFPNXQzQldwb0Fzd193eTFwQ0dMa2FkUlhzajRmVnZP?oc=5",
+      "title": "Advocacy groups sue Anthropic, Google, Meta, OpenAI and SpaceX",
       "summary": "",
-      "publishedAt": "2026-11-10T15:47:00.000Z",
-      "publisher": "AP News",
+      "publishedAt": "2026-11-12T15:20:22.000Z",
+      "publisher": "BNN Bloomberg",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -182,10 +144,10 @@
     },
     {
       "id": "cf919d1cd2b703e48b7003fd1ab539139ab43c96",
-      "company": "Microsoft",
+      "company": "OpenAI",
       "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZU9qVXJqVzJIX0FWSGRHeGFuaTBEZkotTkc2SllMbEtvdEdSMS1YUXJyLXFJbzM3TUQ5Zklwei15UUdKSExRTkRfbHVMc0I4M2F1UGZxY25sTHcyTTZHOW54eHBZYXFrN2VGMVprZHl5UzVkX1FSSnl4ZG8xZk9Tbzc3RWxOTFJVUXBreHZFdzRKMlU?oc=5",
       "title": "Australia Unveils New A.I. Regulator After OpenAI Breach",
@@ -197,25 +159,6 @@
         "bucket": "critical",
         "score": 6,
         "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "5bf4951adbe9698dd9e45df17c29fd95e4f30a2d",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/introducing-chatgpt-wallet",
-      "title": "Introducing ChatGPT Wallet",
-      "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
-      "publishedAt": "2026-11-13T15:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Flagship model or product launch"
       }
     },
     {
@@ -238,44 +181,6 @@
       }
     },
     {
-      "id": "6e36e360e69f060312c0102fde6f03877e5f4f63",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOYWlOYlBreW82LXNaU055OVBTaUk2QlJDc09hckd3dG1UM0c0blctXzNKd1dwZ2FYdXk1emR6aEZrcVhZN2RSQmx1M1dRcVc5N0dCYmdnWm1GYzBDcmZ2eXpfNUdEVkp4X2otNzhDX3V4VjF4ZGRVOVFaT2ZfMl8yOXVNcmRCd1ppdjJFVWhPMEdwS1U0cEFQaml1aGNMcGtFT3VyYms1eU9qWWppZUdFRWF6VXRmQ2lZZzJURU1FajFwbGZLMFd2d2dXMzRsZWFoVnUxdHJDTVB6N0pIdDN2NG9JdjQ2R1BWVV9IMGh3SQ?oc=5",
-      "title": "Anthropic CEO Dario Amodei aims to 'underpromise and overdeliver' as IPO valuation drops below $2T hopes",
-      "summary": "",
-      "publishedAt": "2026-11-13T18:12:34.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "c4eae2052eac78399719ef37b4c3c08a6c50fd81",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQjJCXzFPZDhMNE1EUFlsUFROeFQ2MWZ5aHdCekd1dGtiNlhPaGN4X1I2VUxmYmZ6eXJBbF9Ddldzc2I3ZkwyQ1pVTEVkX1VZcFVxWXFXbi0zWmVVSTF1ZVp0NlZKSURhYkVrR2w3NnNXQXNvVUZxOFVxSkJQQTFnbTk5cWhtRXdQeFZmZkpvTkhDZGo2bzFOVk5pNA?oc=5",
-      "title": "OpenAI Reportedly Raises $15B At $1.25 Trillion Valuation",
-      "summary": "",
-      "publishedAt": "2026-11-12T19:26:22.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
       "id": "e2b68d906141aa1e5ff69816f93320fc236c0d76",
       "company": "Meta",
       "sourceKind": "external",
@@ -292,6 +197,25 @@
         "bucket": "important",
         "score": 4,
         "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "5bf4951adbe9698dd9e45df17c29fd95e4f30a2d",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet",
+      "title": "Introducing ChatGPT Wallet",
+      "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+      "publishedAt": "2026-11-13T15:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Flagship model or product launch"
       }
     },
     {
@@ -333,17 +257,55 @@
       }
     },
     {
-      "id": "e9cbe4b03b0983e597bef8552637830fcc8ca65a",
+      "id": "6e36e360e69f060312c0102fde6f03877e5f4f63",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOYWlOYlBreW82LXNaU055OVBTaUk2QlJDc09hckd3dG1UM0c0blctXzNKd1dwZ2FYdXk1emR6aEZrcVhZN2RSQmx1M1dRcVc5N0dCYmdnWm1GYzBDcmZ2eXpfNUdEVkp4X2otNzhDX3V4VjF4ZGRVOVFaT2ZfMl8yOXVNcmRCd1ppdjJFVWhPMEdwS1U0cEFQaml1aGNMcGtFT3VyYms1eU9qWWppZUdFRWF6VXRmQ2lZZzJURU1FajFwbGZLMFd2d2dXMzRsZWFoVnUxdHJDTVB6N0pIdDN2NG9JdjQ2R1BWVV9IMGh3SQ?oc=5",
+      "title": "Anthropic CEO Dario Amodei aims to 'underpromise and overdeliver' as IPO valuation drops below $2T hopes",
+      "summary": "",
+      "publishedAt": "2026-11-13T18:12:34.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "c4eae2052eac78399719ef37b4c3c08a6c50fd81",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQjJCXzFPZDhMNE1EUFlsUFROeFQ2MWZ5aHdCekd1dGtiNlhPaGN4X1I2VUxmYmZ6eXJBbF9Ddldzc2I3ZkwyQ1pVTEVkX1VZcFVxWXFXbi0zWmVVSTF1ZVp0NlZKSURhYkVrR2w3NnNXQXNvVUZxOFVxSkJQQTFnbTk5cWhtRXdQeFZmZkpvTkhDZGo2bzFOVk5pNA?oc=5",
+      "title": "OpenAI Reportedly Raises $15B At $1.25 Trillion Valuation",
+      "summary": "",
+      "publishedAt": "2026-11-12T19:26:22.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "ffed802c08c267e7713e203d0a9b1018c5c38ee0",
       "company": "Meta",
       "sourceKind": "external",
       "sourceId": "external-meta-major",
       "sourceLabel": "Major External News - Meta",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdFNXMnIzTnpzMlhBWmdTSTA3V2MtVm9EZnZEczNHUlJnNDNrdGZyeHptb05XUktfYjhHbXNETjllMWtwQ0JELUlpNkdJOHVnejFrdE9UV05TNHdIMkxwT2hCSF9YQ20wa0dRUnZDRm5PMU5SSWFyQlp3cHBiLXNVZHJtbXN4WFBqdVNXWDZVRWt1QmN5Ymc?oc=5",
-      "title": "Dan Ives Says Microsoft Amazon and Meta Win Big as Data Center Slowdown Looms",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYXpPSURlUk40eFhFUlp5UlVOaVZSUVlFdDdRSFpmZjl1X3NhVXBacmNhcDhDVVE3UGtzMVpiUS0wVHU1Uzl2a2xIRVNMNnZ2b1U0NUN2RjdKSGFIaE55cUgwcVNUeFFSUVhiejF4ZFBlblp1LVpGM252djd2RzNNSEg2TVVUbS1fTTVOVg?oc=5",
+      "title": "Families Have 90 Days to Leave Trailer Homes for Meta Data Center, but Some May End Up Homeless",
       "summary": "",
-      "publishedAt": "2026-11-10T14:56:05.000Z",
-      "publisher": "Yahoo Finance",
+      "publishedAt": "2026-11-11T14:30:46.000Z",
+      "publisher": "Yahoo",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -442,7 +404,7 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "digest",
-        "score": 2,
+        "score": 1,
         "reason": "Routine official update"
       }
     },
@@ -540,102 +502,64 @@
         "score": 1,
         "reason": "Routine official update"
       }
+    },
+    {
+      "id": "46ecb159c1535b0933157f2d30d2423d17c0c4bd",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+      "title": "Helping caregivers use AI in everyday life",
+      "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+      "publishedAt": "2026-11-10T12:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 1,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "81bf65c7110bea2e7a55c5a9b02634160bede45b",
+      "company": "Meta",
+      "sourceKind": "official",
+      "sourceId": "meta-newsroom",
+      "sourceLabel": "Meta Newsroom",
+      "homepageUrl": "https://about.fb.com/news/",
+      "url": "https://about.fb.com/news/2026/11/expanding-teen-account-protections-to-teens-around-the-world",
+      "title": "Expanding Teen Account Protections to Teens Around the World",
+      "summary": "We’re expanding our AI age-estimation technology globally to place millions more teens in Teen Account protections on Instagram. The post Expanding Teen Account Protections to Teens Around the World",
+      "publishedAt": "2026-11-09T12:00:45.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 1,
+        "reason": "Routine official update"
+      }
     }
   ],
   "newItems": [
     {
-      "id": "1ed700094fe28e63584562a9d2483c3e7032fccd",
+      "id": "36d89a93496eea9c03ed7036c41e854d13735db7",
       "company": "Anthropic",
       "sourceKind": "external",
       "sourceId": "external-anthropic-major",
       "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaWRZX0NtSTg0SU1vOEduTmEwS0psN2RGdkMyV0ZiNHozSXBhT29FRXUwUWFTMVU0RzJlUzY1TkltbFNhV2JpdnMtNF9TaFdqZEU2Zm1VaEZCQ1RuT29yVEFxSllsNElXNmZDeGNJZ015V0RSNU9kQ2FGWndpbnVaOHlDYURGTVNJWTNNdGM2VFROckRNZzBF?oc=5",
-      "title": "OpenAI, Anthropic, Google and Other AI Giants Face Lawsuit Demanding Development Freeze",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOX01vVWFGLXNRUXJHT2tXSW1hc1FiZlQza0Y3X0RXMjRuSXBHM0paRnNiSzFkTlFBS2p6alUtU1JKYVdFTncyVXBSbTEwNFJRTjd5WnhRd1hNRDlTNFhPaHVGa05QR2hBQldxUXRVUmJraTVWZjEwRmg4dGpXTHQteWVJM3kweGFxSnVTSk56aWFaT2FHRnpMa0J6U3FjZFVfendhOXdhVV9oQzdZdHpKbEFfS3BieDdaLV9yNTZVRDBwOVpyeW5QTVFPNXQzQldwb0Fzd193eTFwQ0dMa2FkUlhzajRmVnZP?oc=5",
+      "title": "Advocacy groups sue Anthropic, Google, Meta, OpenAI and SpaceX",
       "summary": "",
-      "publishedAt": "2026-11-14T17:01:02.000Z",
-      "publisher": "Yahoo",
+      "publishedAt": "2026-11-12T15:20:22.000Z",
+      "publisher": "BNN Bloomberg",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 7,
+        "score": 6,
         "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "454d4081c80e98c4245bda9fc8c338341de5ef41",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSXRDQ0NkQXhTSE00M0w3dWw1OHFIREl4UHVHd2o5aXV0SVhMSXZZcEx4TURkcGwyZ2Q2Q3JZLUcwUmFNcjBsd1E1WWVCb1pIWUY5b29GcWJqTVE0LU9uY2cxSGdxdmZkT0x4Nkt6clpDTnJiWGRma3VocXNRTDBWR0NJemhldlk?oc=5",
-      "title": "SpaceX-Tesla Merger Talks Advance. Plus Anthropic’s $1.4T IPO and Hyperbolic’s CEO",
-      "summary": "",
-      "publishedAt": "2026-11-13T20:15:31.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "205a1e0685e39352ce6ba324611f664e0b9cdf19",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWTR4ak5BdnRmV3hzYTZOcVhBYklWU01YRmtLak03b2hmeC1PMTd5blRQWUkxR2Q1ZXZWRC0xNkNxVDVoN2VOdTVlX1hFMXgwS1Y5TW1fUGt4NThQaEhRVFdna1YxUDhLTnBYUFJ6WTlFajlLM1BZTTRwNk5sWFMydkZtMlJNUnU4MWlDcUN6QmNtVHdUT1pLNXd6QXc4QVk0WmMtM1JxWU5XVC1PUGRIMVJNY2wzN1Z1d2N6WWJkbw?oc=5",
-      "title": "OpenAI, Google, Anthropic hit with lawsuit seeking halt to frontier AI development",
-      "summary": "",
-      "publishedAt": "2026-11-12T20:35:49.000Z",
-      "publisher": "Reuters",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "80b38ea7da372c49e059a0a93b8b44c1ad9ac0e2",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/chatgpt-plus-for-veterans",
-      "title": "ChatGPT Plus for veterans and servicemembers",
-      "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
-      "publishedAt": "2026-11-11T08:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "8c999d6885d24711e9176d230ab5bde4e8521195",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/jiostar-vijay-seshadri",
-      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
-      "summary": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
-      "publishedAt": "2026-11-11T00:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
       }
     }
   ],
