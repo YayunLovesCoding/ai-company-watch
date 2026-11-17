@@ -1,143 +1,144 @@
 # AI Company Watch
 
-Generated: Nov 16, 2026, 3:15 PM PST
+Generated: Nov 17, 2026, 2:05 PM PST
 Lookback window: 7 day(s)
 Sources checked: 12
-Items fetched: 37
+Items fetched: 41
 Items kept: 24
 New items: 18
-External items kept: 8
-Official items kept: 16
+External items kept: 10
+Official items kept: 14
 
 ## Critical External News
 
-### OpenAI - OpenAI sued by California over 80 ‘loss of control’ incidents
+### OpenAI - Scoop: Democrats probe DOJ's role in OpenAI copyright fight
 Source: Major External News - OpenAI
-Publisher: Financial Times
-Published: Nov 16, 2026
+Publisher: Axios
+Published: Nov 17, 2026
 Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxOQTVKb1BxWTZ4a3ZfM2NQWjQyMFYzLVZ0eXZLU0hBcGFveTZjY1lrNmNjQUJITVZSamtIRnpSWWJSbmNHc1NmRm5CRkJBUThMOXVHSWJvNktwX2R1bzh5QmRFczZuQzlubVZHMjEwT1BqN09nUjJ6eW0ta1JIOWVlck1ERkI?oc=5
+Link: https://news.google.com/rss/articles/CBMihgFBVV95cUxOTnZ4TXZZNjNtQzhyb2hiS0ZBdEtKS05EeExrdmM2b01XQVlqWEVkRWZVZV9uaTdPbjhwekJuOW1hM0RvaXhpU2o3aFRiNVk5c1czLXZHNmMyZm1NYl9qa1pIVEJHRFBlckJyeHh6Rk1NTDhUY2tOREVHZmw5dzFTeWxIVEFjdw?oc=5
 
-### OpenAI - California sues OpenAI over AI models’ cyberattacks on Hugging Face, other companies
+### OpenAI - OpenAI pushes forward with AMD partnership amid ongoing efforts to diversify from Nvidia
 Source: Major External News - OpenAI
-Publisher: Reuters
-Published: Nov 16, 2026
+Publisher: Fortune
+Published: Nov 17, 2026
 Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUnZpbWVjMld3R0NVUjRwT1ZIZW04eFJwYVYzNzUzUi1pckdSQmJiZkh5MnNWeHlnX2ZDVUtBVGU5emdtV3hweWlENDBqeXFoTThlSWhTY0pNRURXbFBmOWRySmkwOGxFZGlPQW9qekNhVzB2bW1SQW1rbU52M01vRTc2M0V3Zktfb00xNE04NElpSTU3c2RXTlVZT3JPYkdSRkFqRUpVSmhvZ0JtcHM5LURPN2hXWDZ5Mk1HVkVZQW5Cdw?oc=5
+Link: https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNVVleXlRV2xxdHo2ams5NWFBWUlNdzF1VlNJWWJCX201T0VqVTAyejZFY3ZsVDhGb0FSSDZyUEI3Rk83MjM3SjdBTW1XZHNKckY2eVdjS01yVGk4UWRXeVFYUUM4bGFvUG5VRXphTXEzdU53QUg4S0xiS1ZlZ283eVRwQnhUckNXYjNlWkZDVm96R0EweFFLT1hwZjZmT1pqaTNWcXBtc2FDakdPWUpDLUdIMW96Y0VEejZIajMxelZPN3c3V1ZCaklSa1lwOHVLLVRkT0x3?oc=5
 
-### OpenAI - California state AG sues OpenAI over rogue agent incidents
-Source: Major External News - OpenAI
-Publisher: TechCrunch
-Published: Nov 16, 2026
-Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMimAFBVV95cUxQTmhTdE56clQ5WG5iSlZjLVFWWXRsTzNOd2FIbGMtLTloaXVKb1ZmRHFMUXM2eU9rY2Nwa3lPMV85UndyYjFJNnQ2dWtIc0c0bU42aXh3dGZiTTFaMUdMN1U1b0VnQUtfSDJwVGlycmFQRjlnd0lBb3dvTU4xOUJYS3lPUmxPYVBwWVFzNWxfeWpxck55VG9HWA?oc=5
-
-### OpenAI - California sues OpenAI over AI agents that hacked Hugging Face
-Source: Major External News - OpenAI
-Publisher: Startup Fortune
-Published: Nov 16, 2026
-Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMilAFBVV95cUxPNDNNamFzT2VrYmVOSTlSbXVvY3hRbjc0OUVTV0hFR3pyWGpWYnBacmRmaV9ReHVQNnFlY1B6MXlMYW9NSjY3bjN0NHRrV3UzeTlNdllIbjkxYl9MZk1WS0YwR3ZNRzZfYmZweVE2anNQZ0t1d3RoSVI2ZGhCYlhTbnlNMXFDR1E0ZU9DeEFIUEEzbW5m?oc=5
-
-### Microsoft - California sues OpenAI over Hugging Face, other AI model loss of control
-Source: Major External News - Microsoft
-Publisher: CNBC
-Published: Nov 16, 2026
-Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMie0FVX3lxTFA3M3plemQ2SHBfdWZaTERYakxMNURwT3d0YjVJWFU3TVl1NTQyQjhZbEpDRFJvNGc2ZFNtVjBmbk1nR0p5a2d2UHhJelJPSXg5ZlpKY1dKODUtUWF2UkNZNlhRTUxub0dWek8zRk5WenBDcW9EaDZWeHFHUdIBgAFBVV95cUxOMlcxTkRKLXpNZTlBMW01ZHFVWmoxX1c1TWY4Wk15VmhkRTlzTkVnMlI2R1NUSzNwb0xnZUtHNGVTRlRWWFRoNndaekJMbjNhTmtVeldYMEJuLXVBUTdib3JOUHhmOGJ5MDlHbllhU0F6MUdQMGxmdzR6RE1SX19OMA?oc=5
-
-### Microsoft - What a New AI Agent Partnership with Microsoft Means for IBM Stock
-Source: Major External News - Microsoft
+### Anthropic - Tribe AI Named a Preferred Partner in Anthropic’s Claude Partner Network
+Source: Major External News - Anthropic
 Publisher: Yahoo Finance
 Published: Nov 16, 2026
 Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMiogFBVV95cUxNRExHRUowaFJjQnBnSVFEVDg5UVpfeFk5NGJacWQ5b0dJcm56bzFzM2lZWk5yc1ptYXQzYUdmS1J6ZU1ER19qRWJUa3RRMXJpcUozTTEtT2RfVHBndkRWVFd6bHNpTjRPUkk4NHB6Z1NkdXhNM0ZJQjdhNlpGU2QxQno3a0RTMWcteW05aEx6dFhTa1VMVkptbURBeWtNUFdjT3c?oc=5
+Link: https://news.google.com/rss/articles/CBMinAFBVV95cUxPRkNnck9VQ2VHNjdybmxuM1p4V1pBYmVpcEdHOW9TS1lCaGlsUmhMc3hVZHZoU3pBWFRhVkRPYjFncFRWXzJIazRJRlJhMG9yeG90X3YxYzJzWENldEVJRnBxbFZXMTZMMU4tS3NLSm9TczBqRUFpdHJ3cDdRSkRXb0RKd0ZoSEZEQzNGd1NqTVpLNjdJTm45MEoyWlE?oc=5
 
-### Microsoft - OpenAI Explored $5 Billion–Plus Acquisition of Startup That Decodes How AI ‘Thinks’
+### OpenAI - 🇺🇸 An OpenAI board member says U.S. AI labs should STOP pushing their models forward "RIGHT NOW." Paul Christiano, who helped pioneer the technique used to train ChatGPT, says labs' security is too weak to keep improving their models without handin
+Source: Major External News - OpenAI
+Publisher: X
+Published: Nov 17, 2026
+Why it matters: Safety, security, or policy update
+Link: https://news.google.com/rss/articles/CBMibEFVX3lxTE9JNkxuNGNZTlRodHNtSkgxRS1xNThkYXF5TDhZUnJNbWpuZF9QTzluVmgweTRNUG9jbHFSSHN6M3pMVkRwWk9leHBjbjZOSWlBd1NCdlRoOFVtaXdET2JXWVMzZ2k1VEIwQ1ppcA?oc=5
+
+## Important External News
+
+### Meta - EXCLUSIVE: Trump's China data center curb advances despite Amazon, Google, Meta lobbying
+Source: Major External News - Meta
+Publisher: Reuters
+Published: Nov 17, 2026
+Why it matters: Trusted external coverage
+Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxPamZVTFBIMlk1aHp5ZUZ3ME56bnZlV3NPODhQY3JKcnI2dUtIT0FqSHFveTRSem1Rby14eXY4dnhCci1WWmNJdEZnTnNnOUJldUROSXFWc1I5SmExVXZ2dWlhMWhQSkpqTFJIN1R2aTJsX2tJQ1l6cnhRY2JWdTNpVjNKZFhuelREd1A1S29BYUhDRHlTNWxncUJ3aHFobUU1NFZNTVlkbkxLUWExUFVjWHpOSHo3aE0?oc=5
+
+### Microsoft - Microsoft’s Satya Nadella praises Jensen Huang, says return as CEO is ‘up to the Nvidia board’
 Source: Major External News - Microsoft
-Publisher: The Information
+Publisher: Fortune
+Published: Nov 17, 2026
+Why it matters: Trusted external coverage
+Link: https://news.google.com/rss/articles/CBMi5gFBVV95cUxQM3hQcmp5dXFNdGJ0QXpoamFyLWp4RnlRMWpQbklaVkEybXE4b09XNG5HQ1VKSEtGMXYyaEZfTk1fYmZQR21JRGs1S1laSWZPLXVVWElwVVBrd3NteTREZUtFeTNvdzRWZ19ydjdtWW5zYXhwYnRZb3dPOW84VU5IdW9oSWpLVFFNeWE2TWRTb19IY1RjV2VxS1FxcTBKTm5HNDZ1NjVPQzZOMm5YYXR1UjlEQ0hvRC1sbEZDd2hNczRINU1uWmlDQi1XUkRGV0ZjWEZBVDQyaUVZM1NCMzlIekY1MXdwUQ?oc=5
+
+### OpenAI - OpenAI CFO says latest funding round was unplanned, prompted by news report
+Source: Major External News - OpenAI
+Publisher: Semafor
 Published: Nov 16, 2026
-Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMirAFBVV95cUxOdEozd1VWQzFwZWlKajJ2aW1OSVJ1NnF3NlA0ZDhRVXVFV3hmMmpxS2lpYVpNYjJNSzVuNmptLU9rUFJwa2x4M2szTW5QdjhoS1djZ0tzMTRuMzBqN0xXWElJTTVCZWE2cXRfS2JwaXVfU3B4V0pqZzBWamctTFJLZ3h3ZTBsQ2ppY3Zxb2FVUnhRLVFXc3EyS2hrSUV2VklrdXJmZXlpMXJ3cnhW?oc=5
+Why it matters: Trusted external coverage
+Link: https://news.google.com/rss/articles/CBMiuAFBVV95cUxQajJjR0ZvREpYc3N1Z0pFN0hTZENOM3dxMlBhc2JxSHpPZWpFMXdndHRudXpRQkhUMWxjMURfeFBwRjBMTDdSNGtxS29pWGJnb29NazFTb3V4TUtrNEtBOHhQMExhNVMxcmdSbjhPWks5RlZYcVV3dWVVNm1qM0h2VHBvdjhPTEU4cDR0ZWJnTkF4cFZBVUJFSGxuV05kbEtvYk5qZ095YWVuZEhhOXNuakVYbHBGcExB?oc=5
+
+### Anthropic - 7 Leadership Lessons From Anthropic’s CEO Dario Amodei
+Source: Major External News - Anthropic
+Publisher: Yahoo
+Published: Nov 16, 2026
+Why it matters: Trusted external coverage
+Link: https://news.google.com/rss/articles/CBMilAFBVV95cUxPWllfaS1XRFNlT28wODhsdkFLSTJrMTFvMVpHN0FJc1ItMnJVd1JYUnFSaFJReExfcDk1dkFlVUtEdEpHQ0xQUjF2dWEyaWVDRzVmd0MyRE9CTDcwMF9nTmtUSVA4bDBBWndlTUw4NGFVUVVFREhkRHNQMU5uNFJfVEhoN2VGVXJ1M0d6VXVkaWw3TThD?oc=5
 
 ## Critical Official Updates
 
-### OpenAI - LVMH’s Media Division announces strategic partnership with OpenAI
+### Microsoft - Microsoft and organizations across industries launch AI Transparency Initiative to strengthen enterprise trust in AI models and agents
+Source: Microsoft AI
+Published: Nov 17, 2026
+Why it matters: Flagship model or product launch
+Summary: Microsoft and organizations across industries launch AI Transparency Initiative to strengthen enterprise trust in AI models and agents
+Link: https://news.microsoft.com/source/2026/11/17/microsoft-and-organizations-across-industries-launch-ai-transparency-initiative-to-strengthen-enterprise-trust-in-ai-models-and-agents
+
+### Microsoft - Microsoft and Salesforce Announce Copilotforce, Bringing Trusted Customer Context and Action into Microsoft AI Experiences
+Source: Microsoft AI
+Published: Nov 17, 2026
+Why it matters: Flagship model or product launch
+Summary: Microsoft and Salesforce Announce Copilotforce, Bringing Trusted Customer Context and Action into Microsoft AI Experiences
+Link: https://news.microsoft.com/source/2026/11/17/microsoft-and-salesforce-announce-copilotforce-bringing-trusted-customer-context-and-action-into-microsoft-ai-experiences
+
+### OpenAI - Introducing GPT-6.2 Astra and Sol
+Source: OpenAI Newsroom
+Published: Nov 17, 2026
+Why it matters: Flagship model or product launch
+Summary: Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.
+Link: https://openai.com/index/introducing-gpt-6-2-astra-sol
+
+### OpenAI - Astra for Law leads in legal intelligence
 Source: OpenAI Newsroom
 Published: Nov 16, 2026
-Why it matters: Corporate move or major external event
-Summary: LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.
-Link: https://openai.com/index/lvmh-media-division-partnership
+Why it matters: Flagship model or product launch
+Summary: Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.
+Link: https://openai.com/index/astra-law-6-2
 
-## Important Official Updates
-
-### Google - New AI training performance benchmarks for Google TPUs
-Source: Google AI
-Published: Nov 16, 2026
-Why it matters: Technical or research update
-Summary: In the latest MLPerf Training v6.1 benchmark round, Google Cloud published 10 results across seventh-generation Ironwood TPUs and NVIDIA Grace Blackwell GPUs, spanning f…
-Link: https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/training-performance-benchmarks-tpus
-
-### Google - Transform notes, research, and sources into interactive sites with Gemini Notebook.
-Source: Google AI
-Published: Nov 16, 2026
-Why it matters: Technical or research update
-Summary: Gemini Notebook now turns your research into interactive sites. Build project trackers and visual dashboards with Google. Create your site today.
-Link: https://blog.google/innovation-and-ai/products/gemini-notebook/interactive-sites
-
-### OpenAI - Science at the Frontier: How scientists use ChatGPT
+### OpenAI - Introducing OpenAI for Chile
 Source: OpenAI Newsroom
 Published: Nov 16, 2026
-Why it matters: Technical or research update
-Summary: Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.
-Link: https://openai.com/index/science-at-the-frontier
-
-### OpenAI - Our first phase of embedded assessments
-Source: OpenAI Newsroom
-Published: Nov 16, 2026
-Why it matters: Technical or research update
-Summary: OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.
-Link: https://openai.com/index/our-first-phase-of-embedded-assessments
+Why it matters: Flagship model or product launch
+Summary: OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.
+Link: https://openai.com/index/introducing-openai-for-chile
 
 ## Official Company Updates
 
-### Google - Regional voices are rolling out in the Gemini app.
-Source: Google AI
-Published: Nov 16, 2026
-Why it matters: Routine official update
-Summary: Gemini now offers 66 regional voices on Android and iOS. Choose a natural, local dialect for your app interactions. Pick your favorite voice today.
-Link: https://blog.google/innovation-and-ai/products/gemini-app/regional-voices
-
-### Google - The era of autonomous attacks has arrived.
-Source: Google AI
-Published: Nov 16, 2026
-Why it matters: Routine official update
-Summary: See how bad actors are shifting to autonomous attacks and how Google AI Threat Defense uses Gemini to defend against them.
-Link: https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gtig-ai-threat-tracker-q4-2026
-
-### OpenAI - Broadening access to AI for scientists
-Source: OpenAI Newsroom
-Published: Nov 16, 2026
-Why it matters: Routine official update
-Summary: We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.
-Link: https://openai.com/index/expanding-chatgpt-for-academic-researchers
-
-### OpenAI - Strengthening the fight against online child sexual abuse with new tools and support
-Source: OpenAI Newsroom
-Published: Nov 16, 2026
-Why it matters: Routine official update
-Summary: New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.
-Link: https://openai.com/index/strengthening-online-child-safety
-
-### Meta - 94% of Singapore Small Business Owners Surveyed Say More AI Guidance Is Needed
+### Meta - Muse Is Now Available in Australia: The World’s First Personal AI Agent Built for Everyone
 Source: Meta Newsroom
-Published: Nov 15, 2026
+Published: Nov 17, 2026
 Why it matters: Routine official update
-Summary: More than 180 small businesses, heartland merchants and creator-entrepreneurs joined Meta Upskill Day 2026 in Singapore, part of Meta's Small Business Growth Academy, with Senior Minister of State Low Yen Ling attending as Guest of Honour. The post 94% of Singapore Small Busines...
-Link: https://about.fb.com/news/2026/11/94-of-singapore-small-business-owners-surveyed-say-more-ai-guidance-is-needed
+Summary: Muse is available in Australia from today, with local connector experiences across creativity, shopping, property, fitness and entertainment rolling out progressively. The post Muse Is Now Available in Australia: The World’s First Personal AI Agent Built for Everyone
+Link: https://about.fb.com/news/2026/11/muse-is-now-available-in-australia
 
-### OpenAI - Advancing computer-use agents for healthcare teams
-Source: OpenAI Newsroom
-Published: Nov 15, 2026
+### Google - Put Gemini to work for you
+Source: Google AI
+Published: Nov 17, 2026
 Why it matters: Routine official update
-Link: https://openai.com/index/advancing-computer-use-for-healthcare-teams
+Summary: Tasks in Gemini is now free of charge in six countries, with new features starting in the U.S. and deeper Google Workspace integration to get things done on your behalf.
+Link: https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features
+
+### Google - Read the EmbeddingGemma 2 technical report.
+Source: Google AI
+Published: Nov 17, 2026
+Why it matters: Routine official update
+Summary: The Google EmbeddingGemma 2 technical report details our new multimodal model, covering its unified vector space and compact design. Read the report.
+Link: https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2-technical-report
+
+### OpenAI - Strengthening NATO and allied cyber defenses with AI
+Source: OpenAI Newsroom
+Published: Nov 16, 2026
+Why it matters: Routine official update
+Summary: How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.
+Link: https://openai.com/index/strengthening-nato-allied-cyber-defences-ai
+
+### Microsoft - What drives the cost of AI at work
+Source: Microsoft AI
+Published: Nov 16, 2026
+Why it matters: Routine official update
+Summary: What drives the cost of AI at work
+Link: https://news.microsoft.com/source/2026/11/16/what-ai-at-work-really-costs
