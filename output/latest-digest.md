@@ -1,144 +1,139 @@
 # AI Company Watch
 
-Generated: Nov 17, 2026, 2:05 PM PST
+Generated: Nov 18, 2026, 1:44 PM PST
 Lookback window: 7 day(s)
 Sources checked: 12
-Items fetched: 41
+Items fetched: 40
 Items kept: 24
-New items: 18
-External items kept: 10
-Official items kept: 14
+New items: 17
+External items kept: 9
+Official items kept: 15
 
 ## Critical External News
 
-### OpenAI - Scoop: Democrats probe DOJ's role in OpenAI copyright fight
-Source: Major External News - OpenAI
-Publisher: Axios
-Published: Nov 17, 2026
-Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMihgFBVV95cUxOTnZ4TXZZNjNtQzhyb2hiS0ZBdEtKS05EeExrdmM2b01XQVlqWEVkRWZVZV9uaTdPbjhwekJuOW1hM0RvaXhpU2o3aFRiNVk5c1czLXZHNmMyZm1NYl9qa1pIVEJHRFBlckJyeHh6Rk1NTDhUY2tOREVHZmw5dzFTeWxIVEFjdw?oc=5
-
-### OpenAI - OpenAI pushes forward with AMD partnership amid ongoing efforts to diversify from Nvidia
-Source: Major External News - OpenAI
-Publisher: Fortune
-Published: Nov 17, 2026
-Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNVVleXlRV2xxdHo2ams5NWFBWUlNdzF1VlNJWWJCX201T0VqVTAyejZFY3ZsVDhGb0FSSDZyUEI3Rk83MjM3SjdBTW1XZHNKckY2eVdjS01yVGk4UWRXeVFYUUM4bGFvUG5VRXphTXEzdU53QUg4S0xiS1ZlZ283eVRwQnhUckNXYjNlWkZDVm96R0EweFFLT1hwZjZmT1pqaTNWcXBtc2FDakdPWUpDLUdIMW96Y0VEejZIajMxelZPN3c3V1ZCaklSa1lwOHVLLVRkT0x3?oc=5
-
-### Anthropic - Tribe AI Named a Preferred Partner in Anthropic’s Claude Partner Network
-Source: Major External News - Anthropic
+### Microsoft - Microsoft, Intel Deepen Azure Partnership Amid Increasing AI, Cloud Demand
+Source: Major External News - Microsoft
 Publisher: Yahoo Finance
-Published: Nov 16, 2026
+Published: Nov 18, 2026
 Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMinAFBVV95cUxPRkNnck9VQ2VHNjdybmxuM1p4V1pBYmVpcEdHOW9TS1lCaGlsUmhMc3hVZHZoU3pBWFRhVkRPYjFncFRWXzJIazRJRlJhMG9yeG90X3YxYzJzWENldEVJRnBxbFZXMTZMMU4tS3NLSm9TczBqRUFpdHJ3cDdRSkRXb0RKd0ZoSEZEQzNGd1NqTVpLNjdJTm45MEoyWlE?oc=5
+Link: https://news.google.com/rss/articles/CBMipwFBVV95cUxQYlBiZ3kyM19sTFNhd2U1QVdzNHZJT3ZHYUIyT3Q4YURnT2tDSHBOdTBCejVrSmNzMDN6Q3QyNFlQcEpmQVg3aFF6RzBMbjJtRThUYmhHQWxNaVZCVFRCdFhTR0NzYVhhZU5hcTF5cVZvOTRxSmhqcVB6UVJiQV9BdjdHT1RBRy1yM25jWXFIaEFTdEVOOURMSHpqQnpxVnU1UmlZSlVSTQ?oc=5
 
-### OpenAI - 🇺🇸 An OpenAI board member says U.S. AI labs should STOP pushing their models forward "RIGHT NOW." Paul Christiano, who helped pioneer the technique used to train ChatGPT, says labs' security is too weak to keep improving their models without handin
+### Microsoft - OpenAI, Chip Ganassi Racing extend partnership to full-season primary
+Source: Major External News - Microsoft
+Publisher: Yahoo Finance
+Published: Nov 18, 2026
+Why it matters: Corporate move or major external event
+Link: https://news.google.com/rss/articles/CBMingFBVV95cUxQakVmWWctb2s4V1VYN2xFb0pGLW94TlR6SVFBYUh3c2RhTXdwV2FfdFRKWXE5c2FvM1FPN0NtZkdlMHBwdVkwcXVhamhINTJkeFZuRHNfMlBwYXZ2UGF1WFVRdkVCTDlqZUZDbTJJMlh5cmlIenpzWlhLLWpqVHZndU5RRVc1a0dMUXROT3pQcWlJcXMtQWotV3VUdUl1dw?oc=5
+
+### Microsoft - Publicis, Microsoft Reveal Insights From AI Partnership
+Source: Major External News - Microsoft
+Publisher: Yahoo Finance
+Published: Nov 18, 2026
+Why it matters: Corporate move or major external event
+Link: https://news.google.com/rss/articles/CBMinwFBVV95cUxOa3BJUDV6bXdaQ2ZmR1dCU2Z6U1B1WUp4cUNHa1NQQ05TNXBoc0tuR0RycWZKMTNMYTVhZzlEaXYyN29FU0pYN01YZFJLOEdMaFVndmFoSG9qczJfdExJX2Vud2lCV2d2T0g2Y1cxMFB0aTd5emw2WkFYRkVxSjhWUXBETlhucTY4bmVob0VKeTFvYnhzbXl3SUlEZDdLbU0?oc=5
+
+### OpenAI - California takes OpenAI to court as fears grow over what powerful AI could unleash
 Source: Major External News - OpenAI
-Publisher: X
+Publisher: Yahoo
+Published: Nov 18, 2026
+Why it matters: Corporate move or major external event
+Link: https://news.google.com/rss/articles/CBMimwFBVV95cUxQb0owc085S05MMWo5MjJzLUQwZkxxdTQ5ZEFfa2xHbGdkOEJQdWFfTFhOQjEwb1ltcmpuZXo2cHRQUFNydDFLVy1uRlZKeENyTG9PZ282ZFNTN3hsTmY4c0lhV0xKLXR4SG9NMHJmWXUtOHhDN2h3SFVSaHdEaWNLQi1iSnktQnQ3U3J6WlVzWWNUS19UTzRDcHVFSQ?oc=5
+
+### OpenAI - OpenAI bugging case defendant Alfozan set for trial in January
+Source: Major External News - OpenAI
+Publisher: CNBC
 Published: Nov 17, 2026
+Why it matters: Corporate move or major external event
+Link: https://news.google.com/rss/articles/CBMidkFVX3lxTE56c0NnNUN1OWlHQnBycmJySTdOazRkSDZHUnc1bkNyRHI0QTA5QVNxMkRVeEh6Z0Z0SWh5cUZxcGdzelIyck1lWFpCUXZuRmtFeFNYcW9ITzl2bTRjbndPUVZGeG9XM3gtSXZkcHZYbEVHX0xGV0HSAXtBVV95cUxOTnJobWtlR0x6ckhYbFQzNFc3Y1ZKOUpqZHp0eUdTdV92NmM0Q25lSUZQRDJRSW4tdFFyTkxTdW1CaWRPRjNDbzZWVnRQQUJqSzRvYzczX0pDVzBkdUkxWnBvS3kwUnFwcGxjU1BTb29BZHF2bHBqU0tOUGs?oc=5
+
+### OpenAI - Watch: OpenAI’s Top Executives Talk Rogue Agents and A.I. Security
+Source: Major External News - OpenAI
+Publisher: The New York Times
+Published: Nov 18, 2026
 Why it matters: Safety, security, or policy update
-Link: https://news.google.com/rss/articles/CBMibEFVX3lxTE9JNkxuNGNZTlRodHNtSkgxRS1xNThkYXF5TDhZUnJNbWpuZF9QTzluVmgweTRNUG9jbHFSSHN6M3pMVkRwWk9leHBjbjZOSWlBd1NCdlRoOFVtaXdET2JXWVMzZ2k1VEIwQ1ppcA?oc=5
+Link: https://news.google.com/rss/articles/CBMivAFBVV95cUxObVJySUFKTkhiN3ctUjF6RUpHWlROd1JZamlHLUZmSXdRMFlmbjVBNVpxc3ZMcDNiV0xiNFhzYWVzTVJLN0RFMklManpETEpWWVpGV3BLNEw3UnYtWWJiSmF6bGpLNnFMa25CYlRialJtX2VRX1p6aUo1TmY5Y21jT2ZRVkpxN3M3Y3F2OU4wWXU1U0stRGxjRXJ5SDRxcW9mdnVWM21ITDBTSFRJbHBDbm56M3ItOVUzMnh4WA?oc=5
 
 ## Important External News
 
-### Meta - EXCLUSIVE: Trump's China data center curb advances despite Amazon, Google, Meta lobbying
-Source: Major External News - Meta
-Publisher: Reuters
-Published: Nov 17, 2026
-Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxPamZVTFBIMlk1aHp5ZUZ3ME56bnZlV3NPODhQY3JKcnI2dUtIT0FqSHFveTRSem1Rby14eXY4dnhCci1WWmNJdEZnTnNnOUJldUROSXFWc1I5SmExVXZ2dWlhMWhQSkpqTFJIN1R2aTJsX2tJQ1l6cnhRY2JWdTNpVjNKZFhuelREd1A1S29BYUhDRHlTNWxncUJ3aHFobUU1NFZNTVlkbkxLUWExUFVjWHpOSHo3aE0?oc=5
-
-### Microsoft - Microsoft’s Satya Nadella praises Jensen Huang, says return as CEO is ‘up to the Nvidia board’
-Source: Major External News - Microsoft
-Publisher: Fortune
-Published: Nov 17, 2026
-Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMi5gFBVV95cUxQM3hQcmp5dXFNdGJ0QXpoamFyLWp4RnlRMWpQbklaVkEybXE4b09XNG5HQ1VKSEtGMXYyaEZfTk1fYmZQR21JRGs1S1laSWZPLXVVWElwVVBrd3NteTREZUtFeTNvdzRWZ19ydjdtWW5zYXhwYnRZb3dPOW84VU5IdW9oSWpLVFFNeWE2TWRTb19IY1RjV2VxS1FxcTBKTm5HNDZ1NjVPQzZOMm5YYXR1UjlEQ0hvRC1sbEZDd2hNczRINU1uWmlDQi1XUkRGV0ZjWEZBVDQyaUVZM1NCMzlIekY1MXdwUQ?oc=5
-
-### OpenAI - OpenAI CFO says latest funding round was unplanned, prompted by news report
+### OpenAI - Microsoft Nears $500 Million Deal to Sell AI to ByteDance, Irking OpenAI
 Source: Major External News - OpenAI
-Publisher: Semafor
-Published: Nov 16, 2026
+Publisher: The Information
+Published: Nov 18, 2026
 Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMiuAFBVV95cUxQajJjR0ZvREpYc3N1Z0pFN0hTZENOM3dxMlBhc2JxSHpPZWpFMXdndHRudXpRQkhUMWxjMURfeFBwRjBMTDdSNGtxS29pWGJnb29NazFTb3V4TUtrNEtBOHhQMExhNVMxcmdSbjhPWks5RlZYcVV3dWVVNm1qM0h2VHBvdjhPTEU4cDR0ZWJnTkF4cFZBVUJFSGxuV05kbEtvYk5qZ095YWVuZEhhOXNuakVYbHBGcExB?oc=5
-
-### Anthropic - 7 Leadership Lessons From Anthropic’s CEO Dario Amodei
-Source: Major External News - Anthropic
-Publisher: Yahoo
-Published: Nov 16, 2026
-Why it matters: Trusted external coverage
-Link: https://news.google.com/rss/articles/CBMilAFBVV95cUxPWllfaS1XRFNlT28wODhsdkFLSTJrMTFvMVpHN0FJc1ItMnJVd1JYUnFSaFJReExfcDk1dkFlVUtEdEpHQ0xQUjF2dWEyaWVDRzVmd0MyRE9CTDcwMF9nTmtUSVA4bDBBWndlTUw4NGFVUVVFREhkRHNQMU5uNFJfVEhoN2VGVXJ1M0d6VXVkaWw3TThD?oc=5
+Link: https://news.google.com/rss/articles/CBMipwFBVV95cUxObldnbUFFRTFOdWN6N3BFWjN2cmdqcXNnZ3JjTTNEMWNnWEdYUkFqVjZncEJFSnZjcHBrbUJSbU5PaVg5QWwwNWd2Z1p4NmF1N3FfMEFnMVRuSElIZ2szdWtOOUI1RGVxZUo3T2NFQl91bVE0ZGI0TDk4WnJmNHZ1b1p5ZGFyVzFBbEMtWko4dV9vRDUwVHd6Z0tYU1hYTlhKVGNwY2ktOA?oc=5
 
 ## Critical Official Updates
 
-### Microsoft - Microsoft and organizations across industries launch AI Transparency Initiative to strengthen enterprise trust in AI models and agents
-Source: Microsoft AI
-Published: Nov 17, 2026
-Why it matters: Flagship model or product launch
-Summary: Microsoft and organizations across industries launch AI Transparency Initiative to strengthen enterprise trust in AI models and agents
-Link: https://news.microsoft.com/source/2026/11/17/microsoft-and-organizations-across-industries-launch-ai-transparency-initiative-to-strengthen-enterprise-trust-in-ai-models-and-agents
-
-### Microsoft - Microsoft and Salesforce Announce Copilotforce, Bringing Trusted Customer Context and Action into Microsoft AI Experiences
-Source: Microsoft AI
-Published: Nov 17, 2026
-Why it matters: Flagship model or product launch
-Summary: Microsoft and Salesforce Announce Copilotforce, Bringing Trusted Customer Context and Action into Microsoft AI Experiences
-Link: https://news.microsoft.com/source/2026/11/17/microsoft-and-salesforce-announce-copilotforce-bringing-trusted-customer-context-and-action-into-microsoft-ai-experiences
-
-### OpenAI - Introducing GPT-6.2 Astra and Sol
+### OpenAI - Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT
 Source: OpenAI Newsroom
 Published: Nov 17, 2026
-Why it matters: Flagship model or product launch
-Summary: Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.
-Link: https://openai.com/index/introducing-gpt-6-2-astra-sol
+Why it matters: Corporate move or major external event
+Summary: Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.
+Link: https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership
 
-### OpenAI - Astra for Law leads in legal intelligence
-Source: OpenAI Newsroom
-Published: Nov 16, 2026
+### Google - Introducing Gemini 4 Neon
+Source: Google AI
+Published: Nov 18, 2026
 Why it matters: Flagship model or product launch
-Summary: Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.
-Link: https://openai.com/index/astra-law-6-2
+Summary: Today, we’re introducing Gemini 4 Neon
+Link: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon
 
-### OpenAI - Introducing OpenAI for Chile
-Source: OpenAI Newsroom
-Published: Nov 16, 2026
+### Google - Introducing Stitch Loop: A new way to build and evolve products
+Source: Google AI
+Published: Nov 18, 2026
 Why it matters: Flagship model or product launch
-Summary: OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.
-Link: https://openai.com/index/introducing-openai-for-chile
+Summary: Stitch Loop is an always-on product agent from Google Labs that works non-stop to help lean teams build better products.
+Link: https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-loop
+
+## Important Official Updates
+
+### OpenAI - Managing frontier AI risk: From training to deployment
+Source: OpenAI Newsroom
+Published: Nov 17, 2026
+Why it matters: Safety, security, or policy update
+Summary: OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.
+Link: https://openai.com/index/managing-frontier-ai-risk
+
+### OpenAI - Advancing chip design with OpenAI models
+Source: OpenAI Newsroom
+Published: Nov 17, 2026
+Why it matters: Technical or research update
+Summary: OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.
+Link: https://openai.com/index/advancing-chip-design-with-our-models
+
+### Google - How genome mapping can help researchers better understand disease
+Source: Google AI
+Published: Nov 17, 2026
+Why it matters: Technical or research update
+Summary: A Google DeepMind research scientist explains the potential behind our AlphaGenome and AlphaGenome Atlas tools.
+Link: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-disease-research
 
 ## Official Company Updates
 
-### Meta - Muse Is Now Available in Australia: The World’s First Personal AI Agent Built for Everyone
-Source: Meta Newsroom
-Published: Nov 17, 2026
-Why it matters: Routine official update
-Summary: Muse is available in Australia from today, with local connector experiences across creativity, shopping, property, fitness and entertainment rolling out progressively. The post Muse Is Now Available in Australia: The World’s First Personal AI Agent Built for Everyone
-Link: https://about.fb.com/news/2026/11/muse-is-now-available-in-australia
-
-### Google - Put Gemini to work for you
+### Google - Genie 4 is now available
 Source: Google AI
-Published: Nov 17, 2026
+Published: Nov 18, 2026
 Why it matters: Routine official update
-Summary: Tasks in Gemini is now free of charge in six countries, with new features starting in the U.S. and deeper Google Workspace integration to get things done on your behalf.
-Link: https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features
+Summary: We are rolling out a new Project Genie experience to eligible Google AI Ultra subscribers, opening access to our new Genie 4 world model.
+Link: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie
 
-### Google - Read the EmbeddingGemma 2 technical report.
+### Google - The Gemini app is now available on lower-memory Android devices.
 Source: Google AI
-Published: Nov 17, 2026
+Published: Nov 18, 2026
 Why it matters: Routine official update
-Summary: The Google EmbeddingGemma 2 technical report details our new multimodal model, covering its unified vector space and compact design. Read the report.
-Link: https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2-technical-report
+Summary: The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.
+Link: https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices
 
-### OpenAI - Strengthening NATO and allied cyber defenses with AI
+### OpenAI - The Silent Consensus
 Source: OpenAI Newsroom
-Published: Nov 16, 2026
+Published: Nov 18, 2026
 Why it matters: Routine official update
-Summary: How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.
-Link: https://openai.com/index/strengthening-nato-allied-cyber-defences-ai
+Summary: Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.
+Link: https://openai.com/index/the-silent-consensus
 
-### Microsoft - What drives the cost of AI at work
-Source: Microsoft AI
-Published: Nov 16, 2026
+### OpenAI - Inside the Codex sandbox
+Source: OpenAI Newsroom
+Published: Nov 18, 2026
 Why it matters: Routine official update
-Summary: What drives the cost of AI at work
-Link: https://news.microsoft.com/source/2026/11/16/what-ai-at-work-really-costs
+Summary: See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.
+Link: https://openai.com/index/inside-the-codex-sandbox

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T22:05:34.196Z",
+  "generatedAt": "2026-11-18T21:44:17.664Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -76,102 +76,26 @@
     }
   ],
   "totals": {
-    "fetched": 41,
+    "fetched": 40,
     "deduped": 24,
-    "new": 18,
+    "new": 17,
     "byKind": {
-      "official": 14,
-      "external": 10
+      "official": 15,
+      "external": 9
     }
   },
   "items": [
     {
-      "id": "337c4da8c157dd2cf65c972cd2da350c816b7bf4",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTnZ4TXZZNjNtQzhyb2hiS0ZBdEtKS05EeExrdmM2b01XQVlqWEVkRWZVZV9uaTdPbjhwekJuOW1hM0RvaXhpU2o3aFRiNVk5c1czLXZHNmMyZm1NYl9qa1pIVEJHRFBlckJyeHh6Rk1NTDhUY2tOREVHZmw5dzFTeWxIVEFjdw?oc=5",
-      "title": "Scoop: Democrats probe DOJ's role in OpenAI copyright fight",
-      "summary": "",
-      "publishedAt": "2026-11-17T21:44:49.000Z",
-      "publisher": "Axios",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "0a5ed0bd2a6be3d5188ef9969eeb10578a6e9371",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNVVleXlRV2xxdHo2ams5NWFBWUlNdzF1VlNJWWJCX201T0VqVTAyejZFY3ZsVDhGb0FSSDZyUEI3Rk83MjM3SjdBTW1XZHNKckY2eVdjS01yVGk4UWRXeVFYUUM4bGFvUG5VRXphTXEzdU53QUg4S0xiS1ZlZ283eVRwQnhUckNXYjNlWkZDVm96R0EweFFLT1hwZjZmT1pqaTNWcXBtc2FDakdPWUpDLUdIMW96Y0VEejZIajMxelZPN3c3V1ZCaklSa1lwOHVLLVRkT0x3?oc=5",
-      "title": "OpenAI pushes forward with AMD partnership amid ongoing efforts to diversify from Nvidia",
-      "summary": "",
-      "publishedAt": "2026-11-17T20:16:00.000Z",
-      "publisher": "Fortune",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "0c9418854e1d9ce6219b2d3f2b5f013d948b471d",
+      "id": "56dec231c16239d5724cbb4c47889bdde1f2a2b4",
       "company": "Microsoft",
       "sourceKind": "external",
       "sourceId": "external-microsoft-major",
       "sourceLabel": "Major External News - Microsoft",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTmhTdE56clQ5WG5iSlZjLVFWWXRsTzNOd2FIbGMtLTloaXVKb1ZmRHFMUXM2eU9rY2Nwa3lPMV85UndyYjFJNnQ2dWtIc0c0bU42aXh3dGZiTTFaMUdMN1U1b0VnQUtfSDJwVGlycmFQRjlnd0lBb3dvTU4xOUJYS3lPUmxPYVBwWVFzNWxfeWpxck55VG9HWA?oc=5",
-      "title": "California state AG sues OpenAI over rogue agent incidents",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYlBiZ3kyM19sTFNhd2U1QVdzNHZJT3ZHYUIyT3Q4YURnT2tDSHBOdTBCejVrSmNzMDN6Q3QyNFlQcEpmQVg3aFF6RzBMbjJtRThUYmhHQWxNaVZCVFRCdFhTR0NzYVhhZU5hcTF5cVZvOTRxSmhqcVB6UVJiQV9BdjdHT1RBRy1yM25jWXFIaEFTdEVOOURMSHpqQnpxVnU1UmlZSlVSTQ?oc=5",
+      "title": "Microsoft, Intel Deepen Azure Partnership Amid Increasing AI, Cloud Demand",
       "summary": "",
-      "publishedAt": "2026-11-16T20:07:13.000Z",
-      "publisher": "TechCrunch",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "9d5e914e3c3ce2241f16db02487d2b2a54d66144",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA3M3plemQ2SHBfdWZaTERYakxMNURwT3d0YjVJWFU3TVl1NTQyQjhZbEpDRFJvNGc2ZFNtVjBmbk1nR0p5a2d2UHhJelJPSXg5ZlpKY1dKODUtUWF2UkNZNlhRTUxub0dWek8zRk5WenBDcW9EaDZWeHFHUdIBgAFBVV95cUxOMlcxTkRKLXpNZTlBMW01ZHFVWmoxX1c1TWY4Wk15VmhkRTlzTkVnMlI2R1NUSzNwb0xnZUtHNGVTRlRWWFRoNndaekJMbjNhTmtVeldYMEJuLXVBUTdib3JOUHhmOGJ5MDlHbllhU0F6MUdQMGxmdzR6RE1SX19OMA?oc=5",
-      "title": "California sues OpenAI over Hugging Face, other AI model loss of control",
-      "summary": "",
-      "publishedAt": "2026-11-16T18:48:51.000Z",
-      "publisher": "CNBC",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "ebc13fbd74af88f2d40a83365b56b419cfa7f6f5",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRkNnck9VQ2VHNjdybmxuM1p4V1pBYmVpcEdHOW9TS1lCaGlsUmhMc3hVZHZoU3pBWFRhVkRPYjFncFRWXzJIazRJRlJhMG9yeG90X3YxYzJzWENldEVJRnBxbFZXMTZMMU4tS3NLSm9TczBqRUFpdHJ3cDdRSkRXb0RKd0ZoSEZEQzNGd1NqTVpLNjdJTm45MEoyWlE?oc=5",
-      "title": "Tribe AI Named a Preferred Partner in Anthropic’s Claude Partner Network",
-      "summary": "",
-      "publishedAt": "2026-11-16T16:00:00.000Z",
+      "publishedAt": "2026-11-18T18:21:05.000Z",
       "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
@@ -181,22 +105,155 @@
       }
     },
     {
-      "id": "04293fb0c49d479ea14ae5f43ff6b3e7ce5f2dba",
+      "id": "9cffe7106c4e038ccfe39a45b3eb4bfea782688d",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQakVmWWctb2s4V1VYN2xFb0pGLW94TlR6SVFBYUh3c2RhTXdwV2FfdFRKWXE5c2FvM1FPN0NtZkdlMHBwdVkwcXVhamhINTJkeFZuRHNfMlBwYXZ2UGF1WFVRdkVCTDlqZUZDbTJJMlh5cmlIenpzWlhLLWpqVHZndU5RRVc1a0dMUXROT3pQcWlJcXMtQWotV3VUdUl1dw?oc=5",
+      "title": "OpenAI, Chip Ganassi Racing extend partnership to full-season primary",
+      "summary": "",
+      "publishedAt": "2026-11-18T17:00:00.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "9ce33969b41edd4b5d5f76ba417aa6e3c62d52a5",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOa3BJUDV6bXdaQ2ZmR1dCU2Z6U1B1WUp4cUNHa1NQQ05TNXBoc0tuR0RycWZKMTNMYTVhZzlEaXYyN29FU0pYN01YZFJLOEdMaFVndmFoSG9qczJfdExJX2Vud2lCV2d2T0g2Y1cxMFB0aTd5emw2WkFYRkVxSjhWUXBETlhucTY4bmVob0VKeTFvYnhzbXl3SUlEZDdLbU0?oc=5",
+      "title": "Publicis, Microsoft Reveal Insights From AI Partnership",
+      "summary": "",
+      "publishedAt": "2026-11-18T15:51:13.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "5890c62b51ca36b83dd473387439fa37f02a483f",
       "company": "OpenAI",
       "sourceKind": "external",
       "sourceId": "external-openai-major",
       "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9JNkxuNGNZTlRodHNtSkgxRS1xNThkYXF5TDhZUnJNbWpuZF9QTzluVmgweTRNUG9jbHFSSHN6M3pMVkRwWk9leHBjbjZOSWlBd1NCdlRoOFVtaXdET2JXWVMzZ2k1VEIwQ1ppcA?oc=5",
-      "title": "🇺🇸 An OpenAI board member says U.S. AI labs should STOP pushing their models forward \"RIGHT NOW.\" Paul Christiano, who helped pioneer the technique used to train ChatGPT, says labs' security is too weak to keep improving their models without handin",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQb0owc085S05MMWo5MjJzLUQwZkxxdTQ5ZEFfa2xHbGdkOEJQdWFfTFhOQjEwb1ltcmpuZXo2cHRQUFNydDFLVy1uRlZKeENyTG9PZ282ZFNTN3hsTmY4c0lhV0xKLXR4SG9NMHJmWXUtOHhDN2h3SFVSaHdEaWNLQi1iSnktQnQ3U3J6WlVzWWNUS19UTzRDcHVFSQ?oc=5",
+      "title": "California takes OpenAI to court as fears grow over what powerful AI could unleash",
       "summary": "",
-      "publishedAt": "2026-11-17T08:52:00.000Z",
-      "publisher": "X",
+      "publishedAt": "2026-11-18T15:30:00.000Z",
+      "publisher": "Yahoo",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "7d6712c94dd8c25af124049dbed5ee5a17856114",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE56c0NnNUN1OWlHQnBycmJySTdOazRkSDZHUnc1bkNyRHI0QTA5QVNxMkRVeEh6Z0Z0SWh5cUZxcGdzelIyck1lWFpCUXZuRmtFeFNYcW9ITzl2bTRjbndPUVZGeG9XM3gtSXZkcHZYbEVHX0xGV0HSAXtBVV95cUxOTnJobWtlR0x6ckhYbFQzNFc3Y1ZKOUpqZHp0eUdTdV92NmM0Q25lSUZQRDJRSW4tdFFyTkxTdW1CaWRPRjNDbzZWVnRQQUJqSzRvYzczX0pDVzBkdUkxWnBvS3kwUnFwcGxjU1BTb29BZHF2bHBqU0tOUGs?oc=5",
+      "title": "OpenAI bugging case defendant Alfozan set for trial in January",
+      "summary": "",
+      "publishedAt": "2026-11-18T01:29:00.000Z",
+      "publisher": "CNBC",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "6cab9c8cd38347e314ec19080853721e61b4aabd",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+      "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+      "publishedAt": "2026-11-18T00:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "29982bdf79d2ba28232a499e3fc42bc78d445d7a",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObVJySUFKTkhiN3ctUjF6RUpHWlROd1JZamlHLUZmSXdRMFlmbjVBNVpxc3ZMcDNiV0xiNFhzYWVzTVJLN0RFMklManpETEpWWVpGV3BLNEw3UnYtWWJiSmF6bGpLNnFMa25CYlRialJtX2VRX1p6aUo1TmY5Y21jT2ZRVkpxN3M3Y3F2OU4wWXU1U0stRGxjRXJ5SDRxcW9mdnVWM21ITDBTSFRJbHBDbm56M3ItOVUzMnh4WA?oc=5",
+      "title": "Watch: OpenAI’s Top Executives Talk Rogue Agents and A.I. Security",
+      "summary": "",
+      "publishedAt": "2026-11-18T18:19:07.000Z",
+      "publisher": "The New York Times",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
         "score": 5,
         "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "b2c084a41275137173e812609f66e708e4fc8ea8",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon",
+      "title": "Introducing Gemini 4 Neon",
+      "summary": "Today, we’re introducing Gemini 4 Neon",
+      "publishedAt": "2026-11-18T21:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "5caa36bb4cc3e7aa386695c3eae3abdcf4dcf062",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-loop",
+      "title": "Introducing Stitch Loop: A new way to build and evolve products",
+      "summary": "Stitch Loop is an always-on product agent from Google Labs that works non-stop to help lean teams build better products.",
+      "publishedAt": "2026-11-18T17:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Flagship model or product launch"
       }
     },
     {
@@ -257,41 +314,22 @@
       }
     },
     {
-      "id": "0604bc2b50fc0c3b8a76f769a5779b3de6da7db5",
+      "id": "f00b9c40f8ab149773aac78d67b04d0e4b6b7ccb",
       "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/astra-law-6-2",
-      "title": "Astra for Law leads in legal intelligence",
-      "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
-      "publishedAt": "2026-11-17T00:00:00.000Z",
-      "publisher": "",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObldnbUFFRTFOdWN6N3BFWjN2cmdqcXNnZ3JjTTNEMWNnWEdYUkFqVjZncEJFSnZjcHBrbUJSbU5PaVg5QWwwNWd2Z1p4NmF1N3FfMEFnMVRuSElIZ2szdWtOOUI1RGVxZUo3T2NFQl91bVE0ZGI0TDk4WnJmNHZ1b1p5ZGFyVzFBbEMtWko4dV9vRDUwVHd6Z0tYU1hYTlhKVGNwY2ktOA?oc=5",
+      "title": "Microsoft Nears $500 Million Deal to Sell AI to ByteDance, Irking OpenAI",
+      "summary": "",
+      "publishedAt": "2026-11-18T14:00:00.000Z",
+      "publisher": "The Information",
       "discoveryMethod": "feed",
       "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "58da9c66b1456ac9aeddc4f19253eafcdf8c1d8b",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/introducing-openai-for-chile",
-      "title": "Introducing OpenAI for Chile",
-      "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
-      "publishedAt": "2026-11-17T00:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Flagship model or product launch"
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
       }
     },
     {
@@ -306,44 +344,6 @@
       "summary": "",
       "publishedAt": "2026-11-17T20:24:05.000Z",
       "publisher": "Reuters",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "bd292fcc1f353b0a2eb8f04a07d7b379cd1f8de6",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQM3hQcmp5dXFNdGJ0QXpoamFyLWp4RnlRMWpQbklaVkEybXE4b09XNG5HQ1VKSEtGMXYyaEZfTk1fYmZQR21JRGs1S1laSWZPLXVVWElwVVBrd3NteTREZUtFeTNvdzRWZ19ydjdtWW5zYXhwYnRZb3dPOW84VU5IdW9oSWpLVFFNeWE2TWRTb19IY1RjV2VxS1FxcTBKTm5HNDZ1NjVPQzZOMm5YYXR1UjlEQ0hvRC1sbEZDd2hNczRINU1uWmlDQi1XUkRGV0ZjWEZBVDQyaUVZM1NCMzlIekY1MXdwUQ?oc=5",
-      "title": "Microsoft’s Satya Nadella praises Jensen Huang, says return as CEO is ‘up to the Nvidia board’",
-      "summary": "",
-      "publishedAt": "2026-11-17T19:58:00.000Z",
-      "publisher": "Fortune",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "ae4c3b92ed2b6dc75fe8b5ae5ec0a615fad74657",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQajJjR0ZvREpYc3N1Z0pFN0hTZENOM3dxMlBhc2JxSHpPZWpFMXdndHRudXpRQkhUMWxjMURfeFBwRjBMTDdSNGtxS29pWGJnb29NazFTb3V4TUtrNEtBOHhQMExhNVMxcmdSbjhPWks5RlZYcVV3dWVVNm1qM0h2VHBvdjhPTEU4cDR0ZWJnTkF4cFZBVUJFSGxuV05kbEtvYk5qZ095YWVuZEhhOXNuakVYbHBGcExB?oc=5",
-      "title": "OpenAI CFO says latest funding round was unplanned, prompted by news report",
-      "summary": "",
-      "publishedAt": "2026-11-17T01:24:00.000Z",
-      "publisher": "Semafor",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -371,16 +371,16 @@
       }
     },
     {
-      "id": "d86f16b537a472836002c3ddc545a6f28775fd72",
-      "company": "Google",
+      "id": "8b6ac2940fdc0d0ef0bb9edfc5f301a34fa0795a",
+      "company": "OpenAI",
       "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gtig-ai-threat-tracker-q4-2026",
-      "title": "Outpace automated cyber threats with security built for nonstop defense.",
-      "summary": "See how bad actors are shifting to autonomous attacks and how Google AI Threat Defense uses Gemini to defend against them.",
-      "publishedAt": "2026-11-16T18:30:00.000Z",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/managing-frontier-ai-risk",
+      "title": "Managing frontier AI risk: From training to deployment",
+      "summary": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
+      "publishedAt": "2026-11-18T06:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -390,16 +390,16 @@
       }
     },
     {
-      "id": "1a45a81e9082a5e235b27b9a1810d45b14af3641",
-      "company": "Google",
+      "id": "c7d3ecb006439a135768f56529a5adc2ad0eb57f",
+      "company": "OpenAI",
       "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/training-performance-benchmarks-tpus",
-      "title": "New AI training performance benchmarks for Google TPUs",
-      "summary": "In the latest MLPerf Training v6.1 benchmark round, Google Cloud published 10 results across seventh-generation Ironwood TPUs and NVIDIA Grace Blackwell GPUs, spanning f…",
-      "publishedAt": "2026-11-16T16:00:00.000Z",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/advancing-chip-design-with-our-models",
+      "title": "Advancing chip design with OpenAI models",
+      "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
+      "publishedAt": "2026-11-18T00:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -409,22 +409,98 @@
       }
     },
     {
-      "id": "3e21ccc38b239093328b73a35422eee7376ee635",
+      "id": "166b0911e949b2d81e4fe3dc23ee60b0951d6a1f",
       "company": "Google",
       "sourceKind": "official",
       "sourceId": "google-ai",
       "sourceLabel": "Google AI",
       "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/interactive-sites",
-      "title": "Transform notes, research, and sources into interactive sites with Gemini Notebook.",
-      "summary": "Gemini Notebook now turns your research into interactive sites. Build project trackers and visual dashboards with Google. Create your site today.",
-      "publishedAt": "2026-11-16T16:00:00.000Z",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-disease-research",
+      "title": "How genome mapping can help researchers better understand disease",
+      "summary": "A Google DeepMind research scientist explains the potential behind our AlphaGenome and AlphaGenome Atlas tools.",
+      "publishedAt": "2026-11-17T22:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
         "score": 3,
         "reason": "Technical or research update"
+      }
+    },
+    {
+      "id": "abe03c170f0b92ca170ea0d248104d2e6bc83bbe",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie",
+      "title": "Genie 4 is now available",
+      "summary": "We are rolling out a new Project Genie experience to eligible Google AI Ultra subscribers, opening access to our new Genie 4 world model.",
+      "publishedAt": "2026-11-18T18:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "8e6075d168e06821304f71b020ff8006369d63dc",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices",
+      "title": "The Gemini app is now available on lower-memory Android devices.",
+      "summary": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
+      "publishedAt": "2026-11-18T17:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "e683d40fba103b5f4ba802f7642208e3fbf84dbf",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/the-silent-consensus",
+      "title": "The Silent Consensus",
+      "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
+      "publishedAt": "2026-11-18T10:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "53f2a14376dda94d54be4734bb5e7ea38842035f",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/inside-the-codex-sandbox",
+      "title": "Inside the Codex sandbox",
+      "summary": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
+      "publishedAt": "2026-11-18T08:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
       }
     },
     {
@@ -457,82 +533,6 @@
       "title": "Put Gemini to work for you",
       "summary": "Tasks in Gemini is now free of charge in six countries, with new features starting in the U.S. and deeper Google Workspace integration to get things done on your behalf.",
       "publishedAt": "2026-11-17T17:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "35e69ca0e0aa2cdd4eea3b38411a2fcecd2b0b90",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2-technical-report",
-      "title": "Read the EmbeddingGemma 2 technical report.",
-      "summary": "The Google EmbeddingGemma 2 technical report details our new multimodal model, covering its unified vector space and compact design. Read the report.",
-      "publishedAt": "2026-11-17T17:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "590cb0b9c5dd23f2eba579fcd818b4e2cc2cf4ac",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
-      "title": "Strengthening NATO and allied cyber defenses with AI",
-      "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
-      "publishedAt": "2026-11-17T00:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "b1402410d1be66817fbe955859e2f811236095f8",
-      "company": "Microsoft",
-      "sourceKind": "official",
-      "sourceId": "microsoft-ai",
-      "sourceLabel": "Microsoft AI",
-      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
-      "url": "https://news.microsoft.com/source/2026/11/16/what-ai-at-work-really-costs",
-      "title": "What drives the cost of AI at work",
-      "summary": "What drives the cost of AI at work",
-      "publishedAt": "2026-11-16T21:06:29.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "f757626f23d5e99c4098a26cb21c5fa227a2b7cc",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/regional-voices",
-      "title": "Regional voices are rolling out in the Gemini app.",
-      "summary": "Gemini now offers 66 regional voices on Android and iOS. Choose a natural, local dialect for your app interactions. Pick your favorite voice today.",
-      "publishedAt": "2026-11-16T18:45:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -544,54 +544,16 @@
   ],
   "newItems": [
     {
-      "id": "337c4da8c157dd2cf65c972cd2da350c816b7bf4",
-      "company": "OpenAI",
+      "id": "56dec231c16239d5724cbb4c47889bdde1f2a2b4",
+      "company": "Microsoft",
       "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTnZ4TXZZNjNtQzhyb2hiS0ZBdEtKS05EeExrdmM2b01XQVlqWEVkRWZVZV9uaTdPbjhwekJuOW1hM0RvaXhpU2o3aFRiNVk5c1czLXZHNmMyZm1NYl9qa1pIVEJHRFBlckJyeHh6Rk1NTDhUY2tOREVHZmw5dzFTeWxIVEFjdw?oc=5",
-      "title": "Scoop: Democrats probe DOJ's role in OpenAI copyright fight",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYlBiZ3kyM19sTFNhd2U1QVdzNHZJT3ZHYUIyT3Q4YURnT2tDSHBOdTBCejVrSmNzMDN6Q3QyNFlQcEpmQVg3aFF6RzBMbjJtRThUYmhHQWxNaVZCVFRCdFhTR0NzYVhhZU5hcTF5cVZvOTRxSmhqcVB6UVJiQV9BdjdHT1RBRy1yM25jWXFIaEFTdEVOOURMSHpqQnpxVnU1UmlZSlVSTQ?oc=5",
+      "title": "Microsoft, Intel Deepen Azure Partnership Amid Increasing AI, Cloud Demand",
       "summary": "",
-      "publishedAt": "2026-11-17T21:44:49.000Z",
-      "publisher": "Axios",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "0a5ed0bd2a6be3d5188ef9969eeb10578a6e9371",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNVVleXlRV2xxdHo2ams5NWFBWUlNdzF1VlNJWWJCX201T0VqVTAyejZFY3ZsVDhGb0FSSDZyUEI3Rk83MjM3SjdBTW1XZHNKckY2eVdjS01yVGk4UWRXeVFYUUM4bGFvUG5VRXphTXEzdU53QUg4S0xiS1ZlZ283eVRwQnhUckNXYjNlWkZDVm96R0EweFFLT1hwZjZmT1pqaTNWcXBtc2FDakdPWUpDLUdIMW96Y0VEejZIajMxelZPN3c3V1ZCaklSa1lwOHVLLVRkT0x3?oc=5",
-      "title": "OpenAI pushes forward with AMD partnership amid ongoing efforts to diversify from Nvidia",
-      "summary": "",
-      "publishedAt": "2026-11-17T20:16:00.000Z",
-      "publisher": "Fortune",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "ebc13fbd74af88f2d40a83365b56b419cfa7f6f5",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRkNnck9VQ2VHNjdybmxuM1p4V1pBYmVpcEdHOW9TS1lCaGlsUmhMc3hVZHZoU3pBWFRhVkRPYjFncFRWXzJIazRJRlJhMG9yeG90X3YxYzJzWENldEVJRnBxbFZXMTZMMU4tS3NLSm9TczBqRUFpdHJ3cDdRSkRXb0RKd0ZoSEZEQzNGd1NqTVpLNjdJTm45MEoyWlE?oc=5",
-      "title": "Tribe AI Named a Preferred Partner in Anthropic’s Claude Partner Network",
-      "summary": "",
-      "publishedAt": "2026-11-16T16:00:00.000Z",
+      "publishedAt": "2026-11-18T18:21:05.000Z",
       "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
@@ -601,17 +563,112 @@
       }
     },
     {
-      "id": "04293fb0c49d479ea14ae5f43ff6b3e7ce5f2dba",
+      "id": "9cffe7106c4e038ccfe39a45b3eb4bfea782688d",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQakVmWWctb2s4V1VYN2xFb0pGLW94TlR6SVFBYUh3c2RhTXdwV2FfdFRKWXE5c2FvM1FPN0NtZkdlMHBwdVkwcXVhamhINTJkeFZuRHNfMlBwYXZ2UGF1WFVRdkVCTDlqZUZDbTJJMlh5cmlIenpzWlhLLWpqVHZndU5RRVc1a0dMUXROT3pQcWlJcXMtQWotV3VUdUl1dw?oc=5",
+      "title": "OpenAI, Chip Ganassi Racing extend partnership to full-season primary",
+      "summary": "",
+      "publishedAt": "2026-11-18T17:00:00.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "9ce33969b41edd4b5d5f76ba417aa6e3c62d52a5",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOa3BJUDV6bXdaQ2ZmR1dCU2Z6U1B1WUp4cUNHa1NQQ05TNXBoc0tuR0RycWZKMTNMYTVhZzlEaXYyN29FU0pYN01YZFJLOEdMaFVndmFoSG9qczJfdExJX2Vud2lCV2d2T0g2Y1cxMFB0aTd5emw2WkFYRkVxSjhWUXBETlhucTY4bmVob0VKeTFvYnhzbXl3SUlEZDdLbU0?oc=5",
+      "title": "Publicis, Microsoft Reveal Insights From AI Partnership",
+      "summary": "",
+      "publishedAt": "2026-11-18T15:51:13.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "5890c62b51ca36b83dd473387439fa37f02a483f",
       "company": "OpenAI",
       "sourceKind": "external",
       "sourceId": "external-openai-major",
       "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9JNkxuNGNZTlRodHNtSkgxRS1xNThkYXF5TDhZUnJNbWpuZF9QTzluVmgweTRNUG9jbHFSSHN6M3pMVkRwWk9leHBjbjZOSWlBd1NCdlRoOFVtaXdET2JXWVMzZ2k1VEIwQ1ppcA?oc=5",
-      "title": "🇺🇸 An OpenAI board member says U.S. AI labs should STOP pushing their models forward \"RIGHT NOW.\" Paul Christiano, who helped pioneer the technique used to train ChatGPT, says labs' security is too weak to keep improving their models without handin",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQb0owc085S05MMWo5MjJzLUQwZkxxdTQ5ZEFfa2xHbGdkOEJQdWFfTFhOQjEwb1ltcmpuZXo2cHRQUFNydDFLVy1uRlZKeENyTG9PZ282ZFNTN3hsTmY4c0lhV0xKLXR4SG9NMHJmWXUtOHhDN2h3SFVSaHdEaWNLQi1iSnktQnQ3U3J6WlVzWWNUS19UTzRDcHVFSQ?oc=5",
+      "title": "California takes OpenAI to court as fears grow over what powerful AI could unleash",
       "summary": "",
-      "publishedAt": "2026-11-17T08:52:00.000Z",
-      "publisher": "X",
+      "publishedAt": "2026-11-18T15:30:00.000Z",
+      "publisher": "Yahoo",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "7d6712c94dd8c25af124049dbed5ee5a17856114",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE56c0NnNUN1OWlHQnBycmJySTdOazRkSDZHUnc1bkNyRHI0QTA5QVNxMkRVeEh6Z0Z0SWh5cUZxcGdzelIyck1lWFpCUXZuRmtFeFNYcW9ITzl2bTRjbndPUVZGeG9XM3gtSXZkcHZYbEVHX0xGV0HSAXtBVV95cUxOTnJobWtlR0x6ckhYbFQzNFc3Y1ZKOUpqZHp0eUdTdV92NmM0Q25lSUZQRDJRSW4tdFFyTkxTdW1CaWRPRjNDbzZWVnRQQUJqSzRvYzczX0pDVzBkdUkxWnBvS3kwUnFwcGxjU1BTb29BZHF2bHBqU0tOUGs?oc=5",
+      "title": "OpenAI bugging case defendant Alfozan set for trial in January",
+      "summary": "",
+      "publishedAt": "2026-11-18T01:29:00.000Z",
+      "publisher": "CNBC",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "6cab9c8cd38347e314ec19080853721e61b4aabd",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+      "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+      "publishedAt": "2026-11-18T00:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "29982bdf79d2ba28232a499e3fc42bc78d445d7a",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObVJySUFKTkhiN3ctUjF6RUpHWlROd1JZamlHLUZmSXdRMFlmbjVBNVpxc3ZMcDNiV0xiNFhzYWVzTVJLN0RFMklManpETEpWWVpGV3BLNEw3UnYtWWJiSmF6bGpLNnFMa25CYlRialJtX2VRX1p6aUo1TmY5Y21jT2ZRVkpxN3M3Y3F2OU4wWXU1U0stRGxjRXJ5SDRxcW9mdnVWM21ITDBTSFRJbHBDbm56M3ItOVUzMnh4WA?oc=5",
+      "title": "Watch: OpenAI’s Top Executives Talk Rogue Agents and A.I. Security",
+      "summary": "",
+      "publishedAt": "2026-11-18T18:19:07.000Z",
+      "publisher": "The New York Times",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
@@ -620,16 +677,16 @@
       }
     },
     {
-      "id": "b64337d2f902f92dd10c003ff1465bbe6a33c941",
-      "company": "Microsoft",
+      "id": "b2c084a41275137173e812609f66e708e4fc8ea8",
+      "company": "Google",
       "sourceKind": "official",
-      "sourceId": "microsoft-ai",
-      "sourceLabel": "Microsoft AI",
-      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
-      "url": "https://news.microsoft.com/source/2026/11/17/microsoft-and-organizations-across-industries-launch-ai-transparency-initiative-to-strengthen-enterprise-trust-in-ai-models-and-agents",
-      "title": "Microsoft and organizations across industries launch AI Transparency Initiative to strengthen enterprise trust in AI models and agents",
-      "summary": "Microsoft and organizations across industries launch AI Transparency Initiative to strengthen enterprise trust in AI models and agents",
-      "publishedAt": "2026-11-17T18:20:14.000Z",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon",
+      "title": "Introducing Gemini 4 Neon",
+      "summary": "Today, we’re introducing Gemini 4 Neon",
+      "publishedAt": "2026-11-18T21:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -639,16 +696,16 @@
       }
     },
     {
-      "id": "2adb42fb63722b0af73f8f6a9eaa8fd97bc59963",
-      "company": "Microsoft",
+      "id": "5caa36bb4cc3e7aa386695c3eae3abdcf4dcf062",
+      "company": "Google",
       "sourceKind": "official",
-      "sourceId": "microsoft-ai",
-      "sourceLabel": "Microsoft AI",
-      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
-      "url": "https://news.microsoft.com/source/2026/11/17/microsoft-and-salesforce-announce-copilotforce-bringing-trusted-customer-context-and-action-into-microsoft-ai-experiences",
-      "title": "Microsoft and Salesforce Announce Copilotforce, Bringing Trusted Customer Context and Action into Microsoft AI Experiences",
-      "summary": "Microsoft and Salesforce Announce Copilotforce, Bringing Trusted Customer Context and Action into Microsoft AI Experiences",
-      "publishedAt": "2026-11-17T18:10:16.000Z",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-loop",
+      "title": "Introducing Stitch Loop: A new way to build and evolve products",
+      "summary": "Stitch Loop is an always-on product agent from Google Labs that works non-stop to help lean teams build better products.",
+      "publishedAt": "2026-11-18T17:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -658,112 +715,17 @@
       }
     },
     {
-      "id": "549a77347d5e1e5f25e081258d641a2b8758c868",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
-      "title": "Introducing GPT-6.2 Astra and Sol",
-      "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
-      "publishedAt": "2026-11-17T17:45:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "0604bc2b50fc0c3b8a76f769a5779b3de6da7db5",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/astra-law-6-2",
-      "title": "Astra for Law leads in legal intelligence",
-      "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
-      "publishedAt": "2026-11-17T00:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "58da9c66b1456ac9aeddc4f19253eafcdf8c1d8b",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/introducing-openai-for-chile",
-      "title": "Introducing OpenAI for Chile",
-      "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
-      "publishedAt": "2026-11-17T00:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "b7a477284ecdb60e4fe0483f603e16415521f9c8",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPamZVTFBIMlk1aHp5ZUZ3ME56bnZlV3NPODhQY3JKcnI2dUtIT0FqSHFveTRSem1Rby14eXY4dnhCci1WWmNJdEZnTnNnOUJldUROSXFWc1I5SmExVXZ2dWlhMWhQSkpqTFJIN1R2aTJsX2tJQ1l6cnhRY2JWdTNpVjNKZFhuelREd1A1S29BYUhDRHlTNWxncUJ3aHFobUU1NFZNTVlkbkxLUWExUFVjWHpOSHo3aE0?oc=5",
-      "title": "EXCLUSIVE: Trump's China data center curb advances despite Amazon, Google, Meta lobbying",
-      "summary": "",
-      "publishedAt": "2026-11-17T20:24:05.000Z",
-      "publisher": "Reuters",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "bd292fcc1f353b0a2eb8f04a07d7b379cd1f8de6",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQM3hQcmp5dXFNdGJ0QXpoamFyLWp4RnlRMWpQbklaVkEybXE4b09XNG5HQ1VKSEtGMXYyaEZfTk1fYmZQR21JRGs1S1laSWZPLXVVWElwVVBrd3NteTREZUtFeTNvdzRWZ19ydjdtWW5zYXhwYnRZb3dPOW84VU5IdW9oSWpLVFFNeWE2TWRTb19IY1RjV2VxS1FxcTBKTm5HNDZ1NjVPQzZOMm5YYXR1UjlEQ0hvRC1sbEZDd2hNczRINU1uWmlDQi1XUkRGV0ZjWEZBVDQyaUVZM1NCMzlIekY1MXdwUQ?oc=5",
-      "title": "Microsoft’s Satya Nadella praises Jensen Huang, says return as CEO is ‘up to the Nvidia board’",
-      "summary": "",
-      "publishedAt": "2026-11-17T19:58:00.000Z",
-      "publisher": "Fortune",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "ae4c3b92ed2b6dc75fe8b5ae5ec0a615fad74657",
+      "id": "f00b9c40f8ab149773aac78d67b04d0e4b6b7ccb",
       "company": "OpenAI",
       "sourceKind": "external",
       "sourceId": "external-openai-major",
       "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQajJjR0ZvREpYc3N1Z0pFN0hTZENOM3dxMlBhc2JxSHpPZWpFMXdndHRudXpRQkhUMWxjMURfeFBwRjBMTDdSNGtxS29pWGJnb29NazFTb3V4TUtrNEtBOHhQMExhNVMxcmdSbjhPWks5RlZYcVV3dWVVNm1qM0h2VHBvdjhPTEU4cDR0ZWJnTkF4cFZBVUJFSGxuV05kbEtvYk5qZ095YWVuZEhhOXNuakVYbHBGcExB?oc=5",
-      "title": "OpenAI CFO says latest funding round was unplanned, prompted by news report",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObldnbUFFRTFOdWN6N3BFWjN2cmdqcXNnZ3JjTTNEMWNnWEdYUkFqVjZncEJFSnZjcHBrbUJSbU5PaVg5QWwwNWd2Z1p4NmF1N3FfMEFnMVRuSElIZ2szdWtOOUI1RGVxZUo3T2NFQl91bVE0ZGI0TDk4WnJmNHZ1b1p5ZGFyVzFBbEMtWko4dV9vRDUwVHd6Z0tYU1hYTlhKVGNwY2ktOA?oc=5",
+      "title": "Microsoft Nears $500 Million Deal to Sell AI to ByteDance, Irking OpenAI",
       "summary": "",
-      "publishedAt": "2026-11-17T01:24:00.000Z",
-      "publisher": "Semafor",
+      "publishedAt": "2026-11-18T14:00:00.000Z",
+      "publisher": "The Information",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -772,92 +734,73 @@
       }
     },
     {
-      "id": "c1e5a7fbc3eca839026a946b4045aa31343f0f82",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWllfaS1XRFNlT28wODhsdkFLSTJrMTFvMVpHN0FJc1ItMnJVd1JYUnFSaFJReExfcDk1dkFlVUtEdEpHQ0xQUjF2dWEyaWVDRzVmd0MyRE9CTDcwMF9nTmtUSVA4bDBBWndlTUw4NGFVUVVFREhkRHNQMU5uNFJfVEhoN2VGVXJ1M0d6VXVkaWw3TThD?oc=5",
-      "title": "7 Leadership Lessons From Anthropic’s CEO Dario Amodei",
-      "summary": "",
-      "publishedAt": "2026-11-16T22:25:31.000Z",
-      "publisher": "Yahoo",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "2f7ff3d5ef40d974572fd7faaccadbdfd112d2df",
-      "company": "Meta",
-      "sourceKind": "official",
-      "sourceId": "meta-newsroom",
-      "sourceLabel": "Meta Newsroom",
-      "homepageUrl": "https://about.fb.com/news/",
-      "url": "https://about.fb.com/news/2026/11/muse-is-now-available-in-australia",
-      "title": "Muse Is Now Available in Australia: The World’s First Personal AI Agent Built for Everyone",
-      "summary": "Muse is available in Australia from today, with local connector experiences across creativity, shopping, property, fitness and entertainment rolling out progressively. The post Muse Is Now Available in Australia: The World’s First Personal AI Agent Built for Everyone",
-      "publishedAt": "2026-11-17T18:00:31.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "cb1d8f8bc84f7e6afbd259b401364decf6841b22",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features",
-      "title": "Put Gemini to work for you",
-      "summary": "Tasks in Gemini is now free of charge in six countries, with new features starting in the U.S. and deeper Google Workspace integration to get things done on your behalf.",
-      "publishedAt": "2026-11-17T17:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "35e69ca0e0aa2cdd4eea3b38411a2fcecd2b0b90",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2-technical-report",
-      "title": "Read the EmbeddingGemma 2 technical report.",
-      "summary": "The Google EmbeddingGemma 2 technical report details our new multimodal model, covering its unified vector space and compact design. Read the report.",
-      "publishedAt": "2026-11-17T17:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "590cb0b9c5dd23f2eba579fcd818b4e2cc2cf4ac",
+      "id": "8b6ac2940fdc0d0ef0bb9edfc5f301a34fa0795a",
       "company": "OpenAI",
       "sourceKind": "official",
       "sourceId": "openai-newsroom",
       "sourceLabel": "OpenAI Newsroom",
       "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
-      "title": "Strengthening NATO and allied cyber defenses with AI",
-      "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
-      "publishedAt": "2026-11-17T00:00:00.000Z",
+      "url": "https://openai.com/index/managing-frontier-ai-risk",
+      "title": "Managing frontier AI risk: From training to deployment",
+      "summary": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
+      "publishedAt": "2026-11-18T06:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "c7d3ecb006439a135768f56529a5adc2ad0eb57f",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/advancing-chip-design-with-our-models",
+      "title": "Advancing chip design with OpenAI models",
+      "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
+      "publishedAt": "2026-11-18T00:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Technical or research update"
+      }
+    },
+    {
+      "id": "166b0911e949b2d81e4fe3dc23ee60b0951d6a1f",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-disease-research",
+      "title": "How genome mapping can help researchers better understand disease",
+      "summary": "A Google DeepMind research scientist explains the potential behind our AlphaGenome and AlphaGenome Atlas tools.",
+      "publishedAt": "2026-11-17T22:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Technical or research update"
+      }
+    },
+    {
+      "id": "abe03c170f0b92ca170ea0d248104d2e6bc83bbe",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie",
+      "title": "Genie 4 is now available",
+      "summary": "We are rolling out a new Project Genie experience to eligible Google AI Ultra subscribers, opening access to our new Genie 4 world model.",
+      "publishedAt": "2026-11-18T18:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -867,16 +810,54 @@
       }
     },
     {
-      "id": "b1402410d1be66817fbe955859e2f811236095f8",
-      "company": "Microsoft",
+      "id": "8e6075d168e06821304f71b020ff8006369d63dc",
+      "company": "Google",
       "sourceKind": "official",
-      "sourceId": "microsoft-ai",
-      "sourceLabel": "Microsoft AI",
-      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
-      "url": "https://news.microsoft.com/source/2026/11/16/what-ai-at-work-really-costs",
-      "title": "What drives the cost of AI at work",
-      "summary": "What drives the cost of AI at work",
-      "publishedAt": "2026-11-16T21:06:29.000Z",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices",
+      "title": "The Gemini app is now available on lower-memory Android devices.",
+      "summary": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
+      "publishedAt": "2026-11-18T17:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "e683d40fba103b5f4ba802f7642208e3fbf84dbf",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/the-silent-consensus",
+      "title": "The Silent Consensus",
+      "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
+      "publishedAt": "2026-11-18T10:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "53f2a14376dda94d54be4734bb5e7ea38842035f",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/inside-the-codex-sandbox",
+      "title": "Inside the Codex sandbox",
+      "summary": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
+      "publishedAt": "2026-11-18T08:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
