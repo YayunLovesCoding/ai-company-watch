@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T22:00:09.899Z",
+  "generatedAt": "2026-11-20T21:43:03.159Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -76,15 +76,34 @@
     }
   ],
   "totals": {
-    "fetched": 38,
+    "fetched": 41,
     "deduped": 24,
-    "new": 10,
+    "new": 8,
     "byKind": {
-      "official": 16,
-      "external": 8
+      "official": 13,
+      "external": 11
     }
   },
   "items": [
+    {
+      "id": "56dec231c16239d5724cbb4c47889bdde1f2a2b4",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYlBiZ3kyM19sTFNhd2U1QVdzNHZJT3ZHYUIyT3Q4YURnT2tDSHBOdTBCejVrSmNzMDN6Q3QyNFlQcEpmQVg3aFF6RzBMbjJtRThUYmhHQWxNaVZCVFRCdFhTR0NzYVhhZU5hcTF5cVZvOTRxSmhqcVB6UVJiQV9BdjdHT1RBRy1yM25jWXFIaEFTdEVOOURMSHpqQnpxVnU1UmlZSlVSTQ?oc=5",
+      "title": "Microsoft, Intel Deepen Azure Partnership Amid Increasing AI, Cloud Demand",
+      "summary": "",
+      "publishedAt": "2026-11-18T18:21:05.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Corporate move or major external event"
+      }
+    },
     {
       "id": "9cffe7106c4e038ccfe39a45b3eb4bfea782688d",
       "company": "OpenAI",
@@ -100,7 +119,7 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 7,
+        "score": 6,
         "reason": "Corporate move or major external event"
       }
     },
@@ -119,65 +138,8 @@
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 7,
+        "score": 6,
         "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "7d6712c94dd8c25af124049dbed5ee5a17856114",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE56c0NnNUN1OWlHQnBycmJySTdOazRkSDZHUnc1bkNyRHI0QTA5QVNxMkRVeEh6Z0Z0SWh5cUZxcGdzelIyck1lWFpCUXZuRmtFeFNYcW9ITzl2bTRjbndPUVZGeG9XM3gtSXZkcHZYbEVHX0xGV0HSAXtBVV95cUxOTnJobWtlR0x6ckhYbFQzNFc3Y1ZKOUpqZHp0eUdTdV92NmM0Q25lSUZQRDJRSW4tdFFyTkxTdW1CaWRPRjNDbzZWVnRQQUJqSzRvYzczX0pDVzBkdUkxWnBvS3kwUnFwcGxjU1BTb29BZHF2bHBqU0tOUGs?oc=5",
-      "title": "OpenAI bugging case defendant Alfozan set for trial in January",
-      "summary": "",
-      "publishedAt": "2026-11-18T01:29:00.000Z",
-      "publisher": "CNBC",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "29982bdf79d2ba28232a499e3fc42bc78d445d7a",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObVJySUFKTkhiN3ctUjF6RUpHWlROd1JZamlHLUZmSXdRMFlmbjVBNVpxc3ZMcDNiV0xiNFhzYWVzTVJLN0RFMklManpETEpWWVpGV3BLNEw3UnYtWWJiSmF6bGpLNnFMa25CYlRialJtX2VRX1p6aUo1TmY5Y21jT2ZRVkpxN3M3Y3F2OU4wWXU1U0stRGxjRXJ5SDRxcW9mdnVWM21ITDBTSFRJbHBDbm56M3ItOVUzMnh4WA?oc=5",
-      "title": "Watch: OpenAI’s Top Executives Talk Rogue Agents and A.I. Security",
-      "summary": "",
-      "publishedAt": "2026-11-18T18:19:07.000Z",
-      "publisher": "The New York Times",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "f72e3c8d82953f759684a3a5454156872d5b6010",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaXhGalYyRzdadEYzYVlZdm5SRkN5bFRiYXQxaVJyQW1NLW1NU3JXb29ZN3phZmMzbXpwSzRRdWMxUWxJUzdGOXc3YzgwS0p5VjI4eWVicm9Sc0xYaU9uSTRMMUo0NFl2a0FPd3lHVHZyUzloNm9kbmNSeGItSlVPZ0ZpdDFOcDF1bFFZWHV1cUMxRlkzejZaTXR1RHU0T1BDa0R3OWJlV2xOTGs?oc=5",
-      "title": "Akamai Extends Its Enterprise Security Controls to Microsoft Edge for Business Browser on Mobile",
-      "summary": "",
-      "publishedAt": "2026-11-18T13:58:00.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Safety, security, or policy update"
       }
     },
     {
@@ -200,16 +162,16 @@
       }
     },
     {
-      "id": "52edf7e751af728657866591becaa4dc51266c6e",
+      "id": "39e3aca57a94be0529a860ab221d132477a26f80",
       "company": "Meta",
       "sourceKind": "external",
       "sourceId": "external-meta-major",
       "sourceLabel": "Major External News - Meta",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZGhzTUNsZFE1Z1dNUFBYaVpZMjNsd0VwaW93ZnN1QVNMVWZXUUpMTE8zcFBZcmE0SVlVZ2dpcUplTG04VWNxb3RXQUpjM2Z6WDRlbVZNM0EyZkNGLUM2dEZLUHFQeE5WUEtLai03Y3RYREh2VDJpeVZxLW00ZUt5MnhYaWFwY05vU3pGb1lneDRGMmxENTlz?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUVRVWmlaa2tSRzFDRkNKX1pOZElxNkhIMk5xQWNBZWM4aGM2OUdoaHJ0TWlEYWs3VzJrdnJfT0NaX3lrTkRlbDMwOXJ3NlI1VUxwZTU5VVBlNTRlSDU4dXlPejIwUDNjWkZNTlBtNENsLUlUdVpqby1qY0RkaUF4TU5QQTEwQWpaeUM5YVBfSG1iY0JWOUpj?oc=5",
       "title": "Protesters urge Louisiana regulators to reject Entergy plan for Meta data center",
       "summary": "",
-      "publishedAt": "2026-11-18T23:08:20.000Z",
+      "publishedAt": "2026-11-20T16:36:04.000Z",
       "publisher": "Yahoo",
       "discoveryMethod": "feed",
       "classification": {
@@ -219,17 +181,17 @@
       }
     },
     {
-      "id": "f00b9c40f8ab149773aac78d67b04d0e4b6b7ccb",
-      "company": "OpenAI",
+      "id": "ece6ef073d570532d76b22e66870af34008257b7",
+      "company": "Anthropic",
       "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObldnbUFFRTFOdWN6N3BFWjN2cmdqcXNnZ3JjTTNEMWNnWEdYUkFqVjZncEJFSnZjcHBrbUJSbU5PaVg5QWwwNWd2Z1p4NmF1N3FfMEFnMVRuSElIZ2szdWtOOUI1RGVxZUo3T2NFQl91bVE0ZGI0TDk4WnJmNHZ1b1p5ZGFyVzFBbEMtWko4dV9vRDUwVHd6Z0tYU1hYTlhKVGNwY2ktOA?oc=5",
-      "title": "Microsoft Nears $500 Million Deal to Sell AI to ByteDance, Irking OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5XcEVGUHNKVV9UZ3BfN0dQQWFQbXNXdlFFYWF0Y0diUmE4RTBIRWd4OWY0S19fYjlFZW93WXNCOFhhN3pfcEgwRUhQMmFYRWVwSGJZcnczMWtlQXVRNEhjSzd1YXphNEhqYWJLS3dYUVNTZ0l0VkxrSHRR?oc=5",
+      "title": "Anthropic shares roar as revenue soars",
       "summary": "",
-      "publishedAt": "2026-11-18T14:00:00.000Z",
-      "publisher": "The Information",
+      "publishedAt": "2026-11-20T11:45:00.000Z",
+      "publisher": "Fortune",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -238,17 +200,74 @@
       }
     },
     {
-      "id": "8b6ac2940fdc0d0ef0bb9edfc5f301a34fa0795a",
+      "id": "93665280c3188c53713beecac63122818ea8c7bd",
       "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/managing-frontier-ai-risk",
-      "title": "Managing frontier AI risk: From training to deployment",
-      "summary": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
-      "publishedAt": "2026-11-18T06:00:00.000Z",
-      "publisher": "",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4yX3I4OHhtR2YtVlJTRnp2SG1ab0U4MXN0ejdNdERzejhXTjdDZkdjd095LUJZckJUUnYySEU3OF9ZRmhrWWx5N0FwX1V0ZGMwVEstQ3U3OEVXTld2THIxY2IxRnpwdTlxNXpfY3ozUGhaVVgwbEYyUFFaODg?oc=5",
+      "title": "OpenAI Foundation board member warns an audience that what's most likely to kill them is an 'AI accident'",
+      "summary": "",
+      "publishedAt": "2026-11-20T02:38:40.000Z",
+      "publisher": "CNN",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "e5ad31e20843605a022d0234f0637c956d20c47b",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTzZJTkViRl90T2lUaU1mR1dOTUkzNnhFaXdrZDVFbHdxNktLbEdHS3phMDhCZ1pfY1pXWExlOHBvZDNoa0xid0dteTJQNTlndlZxaXMwQTZyN1ZMWGlhSGRkdWp3M3pjVlFGNFg5WlFvY2U5Ym95dmx1MlA0MmpSMy10X04?oc=5",
+      "title": "Anthropic revenue target: $600bn, soonish",
+      "summary": "",
+      "publishedAt": "2026-11-19T06:34:35.000Z",
+      "publisher": "Financial Times",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "29982bdf79d2ba28232a499e3fc42bc78d445d7a",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObVJySUFKTkhiN3ctUjF6RUpHWlROd1JZamlHLUZmSXdRMFlmbjVBNVpxc3ZMcDNiV0xiNFhzYWVzTVJLN0RFMklManpETEpWWVpGV3BLNEw3UnYtWWJiSmF6bGpLNnFMa25CYlRialJtX2VRX1p6aUo1TmY5Y21jT2ZRVkpxN3M3Y3F2OU4wWXU1U0stRGxjRXJ5SDRxcW9mdnVWM21ITDBTSFRJbHBDbm56M3ItOVUzMnh4WA?oc=5",
+      "title": "Watch: OpenAI’s Top Executives Talk Rogue Agents and A.I. Security",
+      "summary": "",
+      "publishedAt": "2026-11-18T18:19:07.000Z",
+      "publisher": "The New York Times",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
+      "id": "f72e3c8d82953f759684a3a5454156872d5b6010",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaXhGalYyRzdadEYzYVlZdm5SRkN5bFRiYXQxaVJyQW1NLW1NU3JXb29ZN3phZmMzbXpwSzRRdWMxUWxJUzdGOXc3YzgwS0p5VjI4eWVicm9Sc0xYaU9uSTRMMUo0NFl2a0FPd3lHVHZyUzloNm9kbmNSeGItSlVPZ0ZpdDFOcDF1bFFZWHV1cUMxRlkzejZaTXR1RHU0T1BDa0R3OWJlV2xOTGs?oc=5",
+      "title": "Akamai Extends Its Enterprise Security Controls to Microsoft Edge for Business Browser on Mobile",
+      "summary": "",
+      "publishedAt": "2026-11-18T13:58:00.000Z",
+      "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -295,6 +314,44 @@
       }
     },
     {
+      "id": "9afed0143cc7325c98daa02e3bb6b28355f79d10",
+      "company": "Anthropic",
+      "sourceKind": "official",
+      "sourceId": "anthropic-news",
+      "sourceLabel": "Anthropic News",
+      "homepageUrl": "https://www.anthropic.com/news",
+      "url": "https://www.anthropic.com/news/ipo-close",
+      "title": "Anthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement",
+      "summary": "",
+      "publishedAt": null,
+      "publisher": "",
+      "discoveryMethod": "anchor",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "f00b9c40f8ab149773aac78d67b04d0e4b6b7ccb",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObldnbUFFRTFOdWN6N3BFWjN2cmdqcXNnZ3JjTTNEMWNnWEdYUkFqVjZncEJFSnZjcHBrbUJSbU5PaVg5QWwwNWd2Z1p4NmF1N3FfMEFnMVRuSElIZ2szdWtOOUI1RGVxZUo3T2NFQl91bVE0ZGI0TDk4WnJmNHZ1b1p5ZGFyVzFBbEMtWko4dV9vRDUwVHd6Z0tYU1hYTlhKVGNwY2ktOA?oc=5",
+      "title": "Microsoft Nears $500 Million Deal to Sell AI to ByteDance, Irking OpenAI",
+      "summary": "",
+      "publishedAt": "2026-11-18T14:00:00.000Z",
+      "publisher": "The Information",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
       "id": "b7a477284ecdb60e4fe0483f603e16415521f9c8",
       "company": "Meta",
       "sourceKind": "external",
@@ -333,41 +390,60 @@
       }
     },
     {
-      "id": "9fa731b0ef6c1da92e2ee19dd39d37ee6fef6c75",
-      "company": "OpenAI",
+      "id": "2ef902c4582a1ae83a8ab000c1205b3155d54837",
+      "company": "Meta",
       "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
-      "title": "acceleration: The jagged frontier",
-      "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
-      "publishedAt": "2026-11-18T08:00:00.000Z",
+      "sourceId": "meta-newsroom",
+      "sourceLabel": "Meta Newsroom",
+      "homepageUrl": "https://about.fb.com/news/",
+      "url": "https://about.fb.com/news/2026/11/advancing-science-together-highlights-from-the-open-source-ai-for-science-summit",
+      "title": "Advancing Science Together: Highlights From the Open Source AI For Science Summit",
+      "summary": "We brought researchers from universities, hospitals, and industry together for the Open Source AI for Science Summit, an event built around using open source AI to accelerate scientific discovery. The post Advancing Science Together: Highlights From the Open Source AI For Scienc...",
+      "publishedAt": "2026-11-20T18:30:45.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Technical or research update"
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
       }
     },
     {
-      "id": "c7d3ecb006439a135768f56529a5adc2ad0eb57f",
+      "id": "3ea993db7e3c60d1925ec70cc8db101a60f4b500",
       "company": "OpenAI",
       "sourceKind": "official",
       "sourceId": "openai-newsroom",
       "sourceLabel": "OpenAI Newsroom",
       "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/advancing-chip-design-with-our-models",
-      "title": "Advancing chip design with OpenAI models",
-      "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
-      "publishedAt": "2026-11-18T00:00:00.000Z",
+      "url": "https://openai.com/index/combatting-adversarial-distillation",
+      "title": "Combatting adversarial distillation",
+      "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+      "publishedAt": "2026-11-20T10:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Technical or research update"
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "f4784c30400364a228812ba2da28667f08ec2e59",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/introducing-medchembench",
+      "title": "Can AI help scientists identify promising drug candidates?",
+      "summary": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+      "publishedAt": "2026-11-20T00:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
       }
     },
     {
@@ -464,134 +540,20 @@
         "score": 2,
         "reason": "Routine official update"
       }
-    },
-    {
-      "id": "e683d40fba103b5f4ba802f7642208e3fbf84dbf",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/the-silent-consensus",
-      "title": "The Silent Consensus",
-      "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
-      "publishedAt": "2026-11-18T10:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "53f2a14376dda94d54be4734bb5e7ea38842035f",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/inside-the-codex-sandbox",
-      "title": "Inside the Codex sandbox",
-      "summary": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
-      "publishedAt": "2026-11-18T08:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "2f7ff3d5ef40d974572fd7faaccadbdfd112d2df",
-      "company": "Meta",
-      "sourceKind": "official",
-      "sourceId": "meta-newsroom",
-      "sourceLabel": "Meta Newsroom",
-      "homepageUrl": "https://about.fb.com/news/",
-      "url": "https://about.fb.com/news/2026/11/muse-is-now-available-in-australia",
-      "title": "Muse Is Now Available in Australia: The World’s First Personal AI Agent Built for Everyone",
-      "summary": "Muse is available in Australia from today, with local connector experiences across creativity, shopping, property, fitness and entertainment rolling out progressively. The post Muse Is Now Available in Australia: The World’s First Personal AI Agent Built for Everyone",
-      "publishedAt": "2026-11-17T18:00:31.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "dd1ac9ad528a63e3c57234d6ecc5b3cd0d8b9078",
-      "company": "Meta",
-      "sourceKind": "official",
-      "sourceId": "meta-newsroom",
-      "sourceLabel": "Meta Newsroom",
-      "homepageUrl": "https://about.fb.com/news/",
-      "url": "https://about.fb.com/news/2026/11/94-of-singapore-small-business-owners-surveyed-say-more-ai-guidance-is-needed",
-      "title": "94% of Singapore Small Business Owners Surveyed Say More AI Guidance Is Needed",
-      "summary": "More than 180 small businesses, heartland merchants and creator-entrepreneurs joined Meta Upskill Day 2026 in Singapore, part of Meta's Small Business Growth Academy, with Senior Minister of State Low Yen Ling attending as Guest of Honour. The post 94% of Singapore Small Busines...",
-      "publishedAt": "2026-11-16T06:25:27.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 1,
-        "reason": "Routine official update"
-      }
     }
   ],
   "newItems": [
     {
-      "id": "f72e3c8d82953f759684a3a5454156872d5b6010",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaXhGalYyRzdadEYzYVlZdm5SRkN5bFRiYXQxaVJyQW1NLW1NU3JXb29ZN3phZmMzbXpwSzRRdWMxUWxJUzdGOXc3YzgwS0p5VjI4eWVicm9Sc0xYaU9uSTRMMUo0NFl2a0FPd3lHVHZyUzloNm9kbmNSeGItSlVPZ0ZpdDFOcDF1bFFZWHV1cUMxRlkzejZaTXR1RHU0T1BDa0R3OWJlV2xOTGs?oc=5",
-      "title": "Akamai Extends Its Enterprise Security Controls to Microsoft Edge for Business Browser on Mobile",
-      "summary": "",
-      "publishedAt": "2026-11-18T13:58:00.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "b00f82b6db94c2e5b3b683ce3a1ae5d0e73a5a6b",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval",
-      "title": "Introducing Tool Retrieval in the Gemini API",
-      "summary": "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
-      "publishedAt": "2026-11-19T18:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "52edf7e751af728657866591becaa4dc51266c6e",
+      "id": "39e3aca57a94be0529a860ab221d132477a26f80",
       "company": "Meta",
       "sourceKind": "external",
       "sourceId": "external-meta-major",
       "sourceLabel": "Major External News - Meta",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZGhzTUNsZFE1Z1dNUFBYaVpZMjNsd0VwaW93ZnN1QVNMVWZXUUpMTE8zcFBZcmE0SVlVZ2dpcUplTG04VWNxb3RXQUpjM2Z6WDRlbVZNM0EyZkNGLUM2dEZLUHFQeE5WUEtLai03Y3RYREh2VDJpeVZxLW00ZUt5MnhYaWFwY05vU3pGb1lneDRGMmxENTlz?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUVRVWmlaa2tSRzFDRkNKX1pOZElxNkhIMk5xQWNBZWM4aGM2OUdoaHJ0TWlEYWs3VzJrdnJfT0NaX3lrTkRlbDMwOXJ3NlI1VUxwZTU5VVBlNTRlSDU4dXlPejIwUDNjWkZNTlBtNENsLUlUdVpqby1qY0RkaUF4TU5QQTEwQWpaeUM5YVBfSG1iY0JWOUpj?oc=5",
       "title": "Protesters urge Louisiana regulators to reject Entergy plan for Meta data center",
       "summary": "",
-      "publishedAt": "2026-11-18T23:08:20.000Z",
+      "publishedAt": "2026-11-20T16:36:04.000Z",
       "publisher": "Yahoo",
       "discoveryMethod": "feed",
       "classification": {
@@ -601,54 +563,111 @@
       }
     },
     {
-      "id": "fddf8d5b0f495d0d4e2e771fcaf4fba3eb6eff0b",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/putting-one-of-quantum-mechanics-deepest-features-to-test-at-scale",
-      "title": "How we’re putting one of quantum mechanics’ deepest features to the test at scale.",
-      "summary": "Google Quantum AI research proves contextuality powers quantum algorithms at scale. See how our processor beat classical limits. Get the details.",
-      "publishedAt": "2026-11-19T19:00:00.000Z",
-      "publisher": "",
+      "id": "ece6ef073d570532d76b22e66870af34008257b7",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5XcEVGUHNKVV9UZ3BfN0dQQWFQbXNXdlFFYWF0Y0diUmE4RTBIRWd4OWY0S19fYjlFZW93WXNCOFhhN3pfcEgwRUhQMmFYRWVwSGJZcnczMWtlQXVRNEhjSzd1YXphNEhqYWJLS3dYUVNTZ0l0VkxrSHRR?oc=5",
+      "title": "Anthropic shares roar as revenue soars",
+      "summary": "",
+      "publishedAt": "2026-11-20T11:45:00.000Z",
+      "publisher": "Fortune",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
-        "score": 3,
-        "reason": "Technical or research update"
+        "score": 4,
+        "reason": "Trusted external coverage"
       }
     },
     {
-      "id": "9fa731b0ef6c1da92e2ee19dd39d37ee6fef6c75",
+      "id": "93665280c3188c53713beecac63122818ea8c7bd",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4yX3I4OHhtR2YtVlJTRnp2SG1ab0U4MXN0ejdNdERzejhXTjdDZkdjd095LUJZckJUUnYySEU3OF9ZRmhrWWx5N0FwX1V0ZGMwVEstQ3U3OEVXTld2THIxY2IxRnpwdTlxNXpfY3ozUGhaVVgwbEYyUFFaODg?oc=5",
+      "title": "OpenAI Foundation board member warns an audience that what's most likely to kill them is an 'AI accident'",
+      "summary": "",
+      "publishedAt": "2026-11-20T02:38:40.000Z",
+      "publisher": "CNN",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "e5ad31e20843605a022d0234f0637c956d20c47b",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTzZJTkViRl90T2lUaU1mR1dOTUkzNnhFaXdrZDVFbHdxNktLbEdHS3phMDhCZ1pfY1pXWExlOHBvZDNoa0xid0dteTJQNTlndlZxaXMwQTZyN1ZMWGlhSGRkdWp3M3pjVlFGNFg5WlFvY2U5Ym95dmx1MlA0MmpSMy10X04?oc=5",
+      "title": "Anthropic revenue target: $600bn, soonish",
+      "summary": "",
+      "publishedAt": "2026-11-19T06:34:35.000Z",
+      "publisher": "Financial Times",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "9afed0143cc7325c98daa02e3bb6b28355f79d10",
+      "company": "Anthropic",
+      "sourceKind": "official",
+      "sourceId": "anthropic-news",
+      "sourceLabel": "Anthropic News",
+      "homepageUrl": "https://www.anthropic.com/news",
+      "url": "https://www.anthropic.com/news/ipo-close",
+      "title": "Anthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement",
+      "summary": "",
+      "publishedAt": null,
+      "publisher": "",
+      "discoveryMethod": "anchor",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "2ef902c4582a1ae83a8ab000c1205b3155d54837",
+      "company": "Meta",
+      "sourceKind": "official",
+      "sourceId": "meta-newsroom",
+      "sourceLabel": "Meta Newsroom",
+      "homepageUrl": "https://about.fb.com/news/",
+      "url": "https://about.fb.com/news/2026/11/advancing-science-together-highlights-from-the-open-source-ai-for-science-summit",
+      "title": "Advancing Science Together: Highlights From the Open Source AI For Science Summit",
+      "summary": "We brought researchers from universities, hospitals, and industry together for the Open Source AI for Science Summit, an event built around using open source AI to accelerate scientific discovery. The post Advancing Science Together: Highlights From the Open Source AI For Scienc...",
+      "publishedAt": "2026-11-20T18:30:45.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "3ea993db7e3c60d1925ec70cc8db101a60f4b500",
       "company": "OpenAI",
       "sourceKind": "official",
       "sourceId": "openai-newsroom",
       "sourceLabel": "OpenAI Newsroom",
       "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
-      "title": "acceleration: The jagged frontier",
-      "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
-      "publishedAt": "2026-11-18T08:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Technical or research update"
-      }
-    },
-    {
-      "id": "9d6db537dc9fc034f3f1485e24f1dd9cae2c50af",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/switch-ai-assistants-transfer-history",
-      "title": "ICYMI: Transfer your history from other AI apps into Gemini.",
-      "summary": "Transfer your chat history into Gemini. Import your ZIP files and AI summaries to continue conversations seamlessly. Get the details.",
-      "publishedAt": "2026-11-19T20:30:00.000Z",
+      "url": "https://openai.com/index/combatting-adversarial-distillation",
+      "title": "Combatting adversarial distillation",
+      "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+      "publishedAt": "2026-11-20T10:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -658,73 +677,16 @@
       }
     },
     {
-      "id": "2f744659d90551a036b17317fda6861c73990c99",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/genie-4-in-gemini-api",
-      "title": "Genie 4 is now available on the Gemini API.",
-      "summary": "Build interactive 720p worlds with Genie 4 on the Google Gemini API. Generate coherent environments with native audio and real-time controls. Get started.",
-      "publishedAt": "2026-11-19T17:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "a1c40c62a7200ebc4e7f43398b08b052d7d77d13",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac",
-      "title": "Let Gemini tackle repetitive chores on your Mac",
-      "summary": "The Gemini app for Mac now has computer use to help you with repetitive tasks.",
-      "publishedAt": "2026-11-19T17:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "2adef6bfeca022c84be450445d3873ec185273b7",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson",
-      "title": "Walter Isaacson on curiosity and creativity in the AI age.",
-      "summary": "Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode.",
-      "publishedAt": "2026-11-19T17:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "6687f7be62c34e4af8b14ad1fa0bb36ceef40b28",
+      "id": "f4784c30400364a228812ba2da28667f08ec2e59",
       "company": "OpenAI",
       "sourceKind": "official",
       "sourceId": "openai-newsroom",
       "sourceLabel": "OpenAI Newsroom",
       "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
-      "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
-      "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
-      "publishedAt": "2026-11-19T08:00:00.000Z",
+      "url": "https://openai.com/index/introducing-medchembench",
+      "title": "Can AI help scientists identify promising drug candidates?",
+      "summary": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+      "publishedAt": "2026-11-20T00:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
