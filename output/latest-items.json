@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T20:24:22.899Z",
+  "generatedAt": "2026-11-22T20:36:50.881Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -76,12 +76,12 @@
     }
   ],
   "totals": {
-    "fetched": 40,
+    "fetched": 39,
     "deduped": 24,
-    "new": 4,
+    "new": 2,
     "byKind": {
-      "official": 13,
-      "external": 11
+      "official": 15,
+      "external": 9
     }
   },
   "items": [
@@ -124,41 +124,22 @@
       }
     },
     {
-      "id": "56dec231c16239d5724cbb4c47889bdde1f2a2b4",
-      "company": "Microsoft",
+      "id": "01f2c80612a263a2c3bf7b58083df86ca8e6a1f7",
+      "company": "Anthropic",
       "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYlBiZ3kyM19sTFNhd2U1QVdzNHZJT3ZHYUIyT3Q4YURnT2tDSHBOdTBCejVrSmNzMDN6Q3QyNFlQcEpmQVg3aFF6RzBMbjJtRThUYmhHQWxNaVZCVFRCdFhTR0NzYVhhZU5hcTF5cVZvOTRxSmhqcVB6UVJiQV9BdjdHT1RBRy1yM25jWXFIaEFTdEVOOURMSHpqQnpxVnU1UmlZSlVSTQ?oc=5",
-      "title": "Microsoft, Intel Deepen Azure Partnership Amid Increasing AI, Cloud Demand",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcG00NjY3R0Z5aTZDYkNMa2R3Q1F0blZvSHN5N1lGckwxa0R3LWdjc3ZIMFphcUxDdC1rWUVpVVNfN2VvOWJ3V09ELUNQQms1SzBBRWM2R0wxRGpFejc2b2k5MGNvb1lYT0xOcFE5S3ZiN0dFdEpSQkswWjlnMnZyU1BCQ095NG53U3RHMkJDZFowU28tcW9aS3RSMUcyeVlVc0E?oc=5",
+      "title": "Anthropic (ANT) Puts Claude Into Enterprise Security As Its AI Builds Successors",
       "summary": "",
-      "publishedAt": "2026-11-18T18:21:05.000Z",
+      "publishedAt": "2026-11-22T18:07:02.000Z",
       "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "9cffe7106c4e038ccfe39a45b3eb4bfea782688d",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQakVmWWctb2s4V1VYN2xFb0pGLW94TlR6SVFBYUh3c2RhTXdwV2FfdFRKWXE5c2FvM1FPN0NtZkdlMHBwdVkwcXVhamhINTJkeFZuRHNfMlBwYXZ2UGF1WFVRdkVCTDlqZUZDbTJJMlh5cmlIenpzWlhLLWpqVHZndU5RRVc1a0dMUXROT3pQcWlJcXMtQWotV3VUdUl1dw?oc=5",
-      "title": "OpenAI, Chip Ganassi Racing extend partnership to full-season primary",
-      "summary": "",
-      "publishedAt": "2026-11-18T17:00:00.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 6,
-        "reason": "Corporate move or major external event"
+        "score": 5,
+        "reason": "Safety, security, or policy update"
       }
     },
     {
@@ -173,63 +154,6 @@
       "summary": "",
       "publishedAt": "2026-11-21T16:09:00.000Z",
       "publisher": "The Information",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "b5227e164a0185a9806c052fdcba2a71e5827531",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSGNUZ19ZdGhpVGp0ck1DVm5JRmtXbnhGMmQyYmZJMHhmVXo1UGNwQ3c2SVVYX3RNekwzSnRSVWtPNk1Id1pvUXNRYV9kc2hMSmV6RUxoWFdtWFduNlV6Q2tiR09nTWdHZkhPcFJkYU1pVjYycFpET0F0YmRBV1NnWk1RVlZjbE8tcnNNX0xIbkN4bWxq?oc=5",
-      "title": "Does the Nestle AI Deal Matter for Microsoft Shareholders?",
-      "summary": "",
-      "publishedAt": "2026-11-20T12:07:30.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "ece6ef073d570532d76b22e66870af34008257b7",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5XcEVGUHNKVV9UZ3BfN0dQQWFQbXNXdlFFYWF0Y0diUmE4RTBIRWd4OWY0S19fYjlFZW93WXNCOFhhN3pfcEgwRUhQMmFYRWVwSGJZcnczMWtlQXVRNEhjSzd1YXphNEhqYWJLS3dYUVNTZ0l0VkxrSHRR?oc=5",
-      "title": "Anthropic shares roar as revenue soars",
-      "summary": "",
-      "publishedAt": "2026-11-20T11:45:00.000Z",
-      "publisher": "Fortune",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "93665280c3188c53713beecac63122818ea8c7bd",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4yX3I4OHhtR2YtVlJTRnp2SG1ab0U4MXN0ejdNdERzejhXTjdDZkdjd095LUJZckJUUnYySEU3OF9ZRmhrWWx5N0FwX1V0ZGMwVEstQ3U3OEVXTld2THIxY2IxRnpwdTlxNXpfY3ozUGhaVVgwbEYyUFFaODg?oc=5",
-      "title": "OpenAI Foundation board member warns an audience that what's most likely to kill them is an 'AI accident'",
-      "summary": "",
-      "publishedAt": "2026-11-20T02:38:40.000Z",
-      "publisher": "CNN",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -333,17 +257,55 @@
       }
     },
     {
-      "id": "e5ad31e20843605a022d0234f0637c956d20c47b",
+      "id": "ece6ef073d570532d76b22e66870af34008257b7",
       "company": "Anthropic",
       "sourceKind": "external",
       "sourceId": "external-anthropic-major",
       "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTzZJTkViRl90T2lUaU1mR1dOTUkzNnhFaXdrZDVFbHdxNktLbEdHS3phMDhCZ1pfY1pXWExlOHBvZDNoa0xid0dteTJQNTlndlZxaXMwQTZyN1ZMWGlhSGRkdWp3M3pjVlFGNFg5WlFvY2U5Ym95dmx1MlA0MmpSMy10X04?oc=5",
-      "title": "Anthropic revenue target: $600bn, soonish",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5XcEVGUHNKVV9UZ3BfN0dQQWFQbXNXdlFFYWF0Y0diUmE4RTBIRWd4OWY0S19fYjlFZW93WXNCOFhhN3pfcEgwRUhQMmFYRWVwSGJZcnczMWtlQXVRNEhjSzd1YXphNEhqYWJLS3dYUVNTZ0l0VkxrSHRR?oc=5",
+      "title": "Anthropic shares roar as revenue soars",
       "summary": "",
-      "publishedAt": "2026-11-19T06:34:35.000Z",
-      "publisher": "Financial Times",
+      "publishedAt": "2026-11-20T11:45:00.000Z",
+      "publisher": "Fortune",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "93665280c3188c53713beecac63122818ea8c7bd",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4yX3I4OHhtR2YtVlJTRnp2SG1ab0U4MXN0ejdNdERzejhXTjdDZkdjd095LUJZckJUUnYySEU3OF9ZRmhrWWx5N0FwX1V0ZGMwVEstQ3U3OEVXTld2THIxY2IxRnpwdTlxNXpfY3ozUGhaVVgwbEYyUFFaODg?oc=5",
+      "title": "OpenAI Foundation board member warns an audience that what's most likely to kill them is an 'AI accident'",
+      "summary": "",
+      "publishedAt": "2026-11-20T02:38:40.000Z",
+      "publisher": "CNN",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "f00b9c40f8ab149773aac78d67b04d0e4b6b7ccb",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObldnbUFFRTFOdWN6N3BFWjN2cmdqcXNnZ3JjTTNEMWNnWEdYUkFqVjZncEJFSnZjcHBrbUJSbU5PaVg5QWwwNWd2Z1p4NmF1N3FfMEFnMVRuSElIZ2szdWtOOUI1RGVxZUo3T2NFQl91bVE0ZGI0TDk4WnJmNHZ1b1p5ZGFyVzFBbEMtWko4dV9vRDUwVHd6Z0tYU1hYTlhKVGNwY2ktOA?oc=5",
+      "title": "Microsoft Nears $500 Million Deal to Sell AI to ByteDance, Irking OpenAI",
+      "summary": "",
+      "publishedAt": "2026-11-18T14:00:00.000Z",
+      "publisher": "The Information",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
@@ -371,73 +333,16 @@
       }
     },
     {
-      "id": "2ef902c4582a1ae83a8ab000c1205b3155d54837",
-      "company": "Meta",
-      "sourceKind": "official",
-      "sourceId": "meta-newsroom",
-      "sourceLabel": "Meta Newsroom",
-      "homepageUrl": "https://about.fb.com/news/",
-      "url": "https://about.fb.com/news/2026/11/advancing-science-together-highlights-from-the-open-source-ai-for-science-summit",
-      "title": "Advancing Science Together: Highlights From the Open Source AI For Science Summit",
-      "summary": "We brought researchers from universities, hospitals, and industry together for the Open Source AI for Science Summit, an event built around using open source AI to accelerate scientific discovery. The post Advancing Science Together: Highlights From the Open Source AI For Scienc...",
-      "publishedAt": "2026-11-20T18:30:45.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "3ea993db7e3c60d1925ec70cc8db101a60f4b500",
+      "id": "de5cd1a6d51dc917ab910942b7b9fe70d73cd78c",
       "company": "OpenAI",
       "sourceKind": "official",
       "sourceId": "openai-newsroom",
       "sourceLabel": "OpenAI Newsroom",
       "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/combatting-adversarial-distillation",
-      "title": "Combatting adversarial distillation",
-      "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
-      "publishedAt": "2026-11-20T10:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "f4784c30400364a228812ba2da28667f08ec2e59",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/introducing-medchembench",
-      "title": "Can AI help scientists identify promising drug candidates?",
-      "summary": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
-      "publishedAt": "2026-11-20T00:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "9d6db537dc9fc034f3f1485e24f1dd9cae2c50af",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/switch-ai-assistants-transfer-history",
-      "title": "ICYMI: Transfer your history from other AI apps into Gemini.",
-      "summary": "Transfer your chat history into Gemini. Import your ZIP files and AI summaries to continue conversations seamlessly. Get the details.",
-      "publishedAt": "2026-11-19T20:30:00.000Z",
+      "url": "https://openai.com/index/perplexity-and-intelligence",
+      "title": "Perplexity and Intelligence",
+      "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+      "publishedAt": "2026-11-22T00:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -482,6 +387,82 @@
         "bucket": "digest",
         "score": 2,
         "reason": "Technical or research update"
+      }
+    },
+    {
+      "id": "2ef902c4582a1ae83a8ab000c1205b3155d54837",
+      "company": "Meta",
+      "sourceKind": "official",
+      "sourceId": "meta-newsroom",
+      "sourceLabel": "Meta Newsroom",
+      "homepageUrl": "https://about.fb.com/news/",
+      "url": "https://about.fb.com/news/2026/11/advancing-science-together-highlights-from-the-open-source-ai-for-science-summit",
+      "title": "Advancing Science Together: Highlights From the Open Source AI For Science Summit",
+      "summary": "We brought researchers from universities, hospitals, and industry together for the Open Source AI for Science Summit, an event built around using open source AI to accelerate scientific discovery. The post Advancing Science Together: Highlights From the Open Source AI For Scienc...",
+      "publishedAt": "2026-11-20T18:30:45.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 1,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "3ea993db7e3c60d1925ec70cc8db101a60f4b500",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/combatting-adversarial-distillation",
+      "title": "Combatting adversarial distillation",
+      "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+      "publishedAt": "2026-11-20T10:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 1,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "f4784c30400364a228812ba2da28667f08ec2e59",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/introducing-medchembench",
+      "title": "Can AI help scientists identify promising drug candidates?",
+      "summary": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+      "publishedAt": "2026-11-20T00:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 1,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "9d6db537dc9fc034f3f1485e24f1dd9cae2c50af",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/switch-ai-assistants-transfer-history",
+      "title": "ICYMI: Transfer your history from other AI apps into Gemini.",
+      "summary": "Transfer your chat history into Gemini. Import your ZIP files and AI summaries to continue conversations seamlessly. Get the details.",
+      "publishedAt": "2026-11-19T20:30:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 1,
+        "reason": "Routine official update"
       }
     },
     {
@@ -540,83 +521,64 @@
         "score": 1,
         "reason": "Routine official update"
       }
+    },
+    {
+      "id": "6687f7be62c34e4af8b14ad1fa0bb36ceef40b28",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+      "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+      "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
+      "publishedAt": "2026-11-19T08:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 1,
+        "reason": "Routine official update"
+      }
     }
   ],
   "newItems": [
     {
-      "id": "74b052addb7d074dcb22cc0cb9cf0b3424eb213b",
-      "company": "Microsoft",
+      "id": "01f2c80612a263a2c3bf7b58083df86ca8e6a1f7",
+      "company": "Anthropic",
       "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOX0tWZGtzMkJSYjRucW9iMDR6Z1VIeTZPalBIdkdOb1dMTEphdng4OHJTOEJlcVYzTDFOM0ZOSklURi1CRnFBU3IxWUVMblpVTjRiQlFaUXU1OXZzU2JVQUNpX1N3eFlaa1dlYm1QZlZoYmR0WDZxWU1pcmNnN05jaXJxZVd1ZXFrZFpRR0dmNnkxVHUzSTBXRVFIRFlRdw?oc=5",
-      "title": "Did Microsoft AI Partnership Just Shift Danaher's (DHR) Investment Narrative?",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcG00NjY3R0Z5aTZDYkNMa2R3Q1F0blZvSHN5N1lGckwxa0R3LWdjc3ZIMFphcUxDdC1rWUVpVVNfN2VvOWJ3V09ELUNQQms1SzBBRWM2R0wxRGpFejc2b2k5MGNvb1lYT0xOcFE5S3ZiN0dFdEpSQkswWjlnMnZyU1BCQ095NG53U3RHMkJDZFowU28tcW9aS3RSMUcyeVlVc0E?oc=5",
+      "title": "Anthropic (ANT) Puts Claude Into Enterprise Security As Its AI Builds Successors",
       "summary": "",
-      "publishedAt": "2026-11-21T05:15:00.000Z",
+      "publishedAt": "2026-11-22T18:07:02.000Z",
       "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
+        "score": 5,
+        "reason": "Safety, security, or policy update"
       }
     },
     {
-      "id": "7a6a6fdd9d42272c5433fc36dca5bbed358eb994",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWXJMSkI3WjVZT0FsT2NIdWZqem9oZFNXVjBFTFBlX3U3Sm5ESXlzNmpSa280bnR4a1UxdllQVHhOSDhOMkJlaGt6UC1laGVpckNySS04c3JNdUtGa09nSzRLS3owOW1KN2w1d3E3TDRtVEVsYTRXTjlIcnN5d21NQjRPUnBvU2NlWkZ2TlhVcy05ZVljTnlySVI3WlFJWGUzYTVF?oc=5",
-      "title": "Is Danaher (DHR) Undervalued After Its Microsoft AI Lab Partnership?",
-      "summary": "",
-      "publishedAt": "2026-11-21T04:20:00.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "c74b01fde71baacc6f6ff272a45a75c617432b04",
+      "id": "de5cd1a6d51dc917ab910942b7b9fe70d73cd78c",
       "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONGtvcmNHUnFkdTRhSXd2YVVwOGVRdVdoYkdVZG1rRnJDWWt3T2dUTFhfOGtPZVR1UEtyNnZWYVNNOVp2bUE1SWc3Sk9fdFF5dG9VaHdGcUVRQWRkbGZZYTJNUmhEOUJyZWJ3VFZHUU42RGFabG16bzduRlhMNGRjOEZvVU5zT0FnQzBNTzFjNUxRNm8?oc=5",
-      "title": "Oracle Says It Has Completed Funding to Fulfil OpenAI Deal",
-      "summary": "",
-      "publishedAt": "2026-11-21T16:09:00.000Z",
-      "publisher": "The Information",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/perplexity-and-intelligence",
+      "title": "Perplexity and Intelligence",
+      "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+      "publishedAt": "2026-11-22T00:00:00.000Z",
+      "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "b5227e164a0185a9806c052fdcba2a71e5827531",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSGNUZ19ZdGhpVGp0ck1DVm5JRmtXbnhGMmQyYmZJMHhmVXo1UGNwQ3c2SVVYX3RNekwzSnRSVWtPNk1Id1pvUXNRYV9kc2hMSmV6RUxoWFdtWFduNlV6Q2tiR09nTWdHZkhPcFJkYU1pVjYycFpET0F0YmRBV1NnWk1RVlZjbE8tcnNNX0xIbkN4bWxq?oc=5",
-      "title": "Does the Nestle AI Deal Matter for Microsoft Shareholders?",
-      "summary": "",
-      "publishedAt": "2026-11-20T12:07:30.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
       }
     }
   ],
