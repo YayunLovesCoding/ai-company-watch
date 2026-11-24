@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T01:31:18.839Z",
+  "generatedAt": "2026-11-24T23:24:55.520Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -76,64 +76,26 @@
     }
   ],
   "totals": {
-    "fetched": 40,
+    "fetched": 35,
     "deduped": 24,
-    "new": 10,
+    "new": 6,
     "byKind": {
-      "official": 14,
-      "external": 10
+      "official": 19,
+      "external": 5
     }
   },
   "items": [
     {
-      "id": "d41418beb50550d531169aedc4de27014b14df07",
+      "id": "c0aee9b5ef579f9461c5ff2138c27d60c67e8802",
       "company": "Microsoft",
       "sourceKind": "external",
       "sourceId": "external-microsoft-major",
       "sourceLabel": "Major External News - Microsoft",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNURxVTUtbTlQSWpuSlJDWWtrZEZiZ3VMRXYxNlVUNFpZZ21rdXdQLThieDRkRHF4LUczMDFjWlBlQS1SWDBvOHBETExYRUhsb1Fjbjk3eXRfekw4eFBKaDVLaFF6a0hJa2s1RlJRdTFVem1GbEZHOVprVl9abndYRFoyLWppWk40dy1ZeFhHS1FwSVlTdklpcHE2M3JQSEdZZ2d1eXZsUUQ?oc=5",
-      "title": "Danaher partners with Microsoft to create an agentic AI platform",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQzhoZmkxNVMxNkRKdFkzR25JWTg2dEpyTk1YbW52XzhQUENZV3JSTU8yVXliN0ZjRVZMT3FqYndTeHZFTkthVXZwdE5hNXBmaWV3d0MtZDRoTUQ5T2gzQVpJdGphN013ZnNad2lRaWdkTXhJTnAwTlpvcWJZZzk5OWwxTXotWUp6elNnT3RNV0dXQ2pKSDA2c2xkRmtUMm9vZVBqWW1ISGI1Wl9obkh3Rg?oc=5",
+      "title": "Straive Deepens Microsoft Partnership, Showcases 700+ AI Solution Accelerators at Microsoft Ignite 2026",
       "summary": "",
-      "publishedAt": "2026-11-23T15:00:00.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "2620ad4c7f9ac68d85d6ef497e9738722a0a9257",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdmhmeEgxSkU1V2V3QmEtdlJ5RUR2U1FZVm5lajNFT1h3cUJnUW1XQUZRSUNLYnV6QkFFNWhMR0ZtbEtRSDRvQXJ3dThFRWFYMUlfbTNFUkFMN3JwTWVHbC11MjB5LUNia3JVMUxjWUtGV0dSa3V4V1JIMHNMdGpzd2JkOGotTnpRbmh5cHBSQ213NFhwOWs4MVZ4YzBKZ3FsUlRpVzFsMHNQS3VKTXVmRDRvS3dWWGhO?oc=5",
-      "title": "California AG Bonta filed lawsuit against OpenAI over model security, public safety",
-      "summary": "",
-      "publishedAt": "2026-11-23T04:26:00.000Z",
-      "publisher": "Reuters",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "74b052addb7d074dcb22cc0cb9cf0b3424eb213b",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOX0tWZGtzMkJSYjRucW9iMDR6Z1VIeTZPalBIdkdOb1dMTEphdng4OHJTOEJlcVYzTDFOM0ZOSklURi1CRnFBU3IxWUVMblpVTjRiQlFaUXU1OXZzU2JVQUNpX1N3eFlaa1dlYm1QZlZoYmR0WDZxWU1pcmNnN05jaXJxZVd1ZXFrZFpRR0dmNnkxVHUzSTBXRVFIRFlRdw?oc=5",
-      "title": "Did Microsoft AI Partnership Just Shift Danaher's (DHR) Investment Narrative?",
-      "summary": "",
-      "publishedAt": "2026-11-21T05:15:00.000Z",
+      "publishedAt": "2026-11-18T14:00:00.000Z",
       "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
@@ -143,41 +105,22 @@
       }
     },
     {
-      "id": "3cde53c205d06696ea095a0ed21fd5c203b3a0c1",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNLWJidE1HdndwekZjbExEVFo2X1YwbEVDTDBJcE9ZcDRaNWlUZUZ0SFYzZ1l5eG44VDg2RG91dUtTTTAzX3BIYWk2QklnMkxRSWJxOU5Fdklwbkd1UFNPUVVwRkxHQlpBNXJuSkhYNU83Wm1RV1hVTFVzNFNVOWRQN1VyRU5udk1EamFkN0lQOEVteVdlTkRmRlFuek9mOEpaeWc?oc=5",
-      "title": "Can Akamai Strengthen Its Mobile Security Reach With Microsoft Tie-Up?",
-      "summary": "",
-      "publishedAt": "2026-11-23T15:51:00.000Z",
-      "publisher": "Yahoo Finance",
+      "id": "5ace9de0dfdb0aed5363d94a10bee7ce5859d750",
+      "company": "Meta",
+      "sourceKind": "official",
+      "sourceId": "meta-newsroom",
+      "sourceLabel": "Meta Newsroom",
+      "homepageUrl": "https://about.fb.com/news/",
+      "url": "https://about.fb.com/news/2026/11/introducing-muse-in-the-uk-a-personal-ai-agent-you-control",
+      "title": "Introducing Muse in the UK: A Personal AI Agent You Control",
+      "summary": "Muse is now in the UK: a personal AI agent that doesn't just answer questions, but one that you can task to get things done on your behalf The post Introducing Muse in the UK: A Personal AI Agent You Control",
+      "publishedAt": "2026-11-24T06:00:40.000Z",
+      "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
         "score": 5,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "01f2c80612a263a2c3bf7b58083df86ca8e6a1f7",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcG00NjY3R0Z5aTZDYkNMa2R3Q1F0blZvSHN5N1lGckwxa0R3LWdjc3ZIMFphcUxDdC1rWUVpVVNfN2VvOWJ3V09ELUNQQms1SzBBRWM2R0wxRGpFejc2b2k5MGNvb1lYT0xOcFE5S3ZiN0dFdEpSQkswWjlnMnZyU1BCQ095NG53U3RHMkJDZFowU28tcW9aS3RSMUcyeVlVc0E?oc=5",
-      "title": "Anthropic (ANT) Puts Claude Into Enterprise Security As Its AI Builds Successors",
-      "summary": "",
-      "publishedAt": "2026-11-22T18:07:02.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Safety, security, or policy update"
+        "reason": "Flagship model or product launch"
       }
     },
     {
@@ -238,60 +181,22 @@
       }
     },
     {
-      "id": "29982bdf79d2ba28232a499e3fc42bc78d445d7a",
-      "company": "OpenAI",
+      "id": "01f2c80612a263a2c3bf7b58083df86ca8e6a1f7",
+      "company": "Anthropic",
       "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObVJySUFKTkhiN3ctUjF6RUpHWlROd1JZamlHLUZmSXdRMFlmbjVBNVpxc3ZMcDNiV0xiNFhzYWVzTVJLN0RFMklManpETEpWWVpGV3BLNEw3UnYtWWJiSmF6bGpLNnFMa25CYlRialJtX2VRX1p6aUo1TmY5Y21jT2ZRVkpxN3M3Y3F2OU4wWXU1U0stRGxjRXJ5SDRxcW9mdnVWM21ITDBTSFRJbHBDbm56M3ItOVUzMnh4WA?oc=5",
-      "title": "Watch: OpenAI’s Top Executives Talk Rogue Agents and A.I. Security",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcG00NjY3R0Z5aTZDYkNMa2R3Q1F0blZvSHN5N1lGckwxa0R3LWdjc3ZIMFphcUxDdC1rWUVpVVNfN2VvOWJ3V09ELUNQQms1SzBBRWM2R0wxRGpFejc2b2k5MGNvb1lYT0xOcFE5S3ZiN0dFdEpSQkswWjlnMnZyU1BCQ095NG53U3RHMkJDZFowU28tcW9aS3RSMUcyeVlVc0E?oc=5",
+      "title": "Anthropic (ANT) Puts Claude Into Enterprise Security As Its AI Builds Successors",
       "summary": "",
-      "publishedAt": "2026-11-18T18:19:07.000Z",
-      "publisher": "The New York Times",
+      "publishedAt": "2026-11-22T18:07:02.000Z",
+      "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "important",
         "score": 4,
         "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "b00f82b6db94c2e5b3b683ce3a1ae5d0e73a5a6b",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval",
-      "title": "Introducing Tool Retrieval in the Gemini API",
-      "summary": "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
-      "publishedAt": "2026-11-19T18:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "2adb42fb63722b0af73f8f6a9eaa8fd97bc59963",
-      "company": "Microsoft",
-      "sourceKind": "official",
-      "sourceId": "microsoft-ai",
-      "sourceLabel": "Microsoft AI",
-      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
-      "url": "https://news.microsoft.com/source/2026/11/17/microsoft-and-salesforce-announce-copilotforce-bringing-trusted-customer-context-and-action-into-microsoft-ai-experiences",
-      "title": "Microsoft and Salesforce Announce Copilotforce, Bringing Trusted Customer Context and Action into Microsoft AI Experiences",
-      "summary": "Microsoft and Salesforce Announce Copilotforce, Bringing Trusted Customer Context and Action into Microsoft AI Experiences",
-      "publishedAt": "2026-11-17T18:10:16.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Flagship model or product launch"
       }
     },
     {
@@ -314,6 +219,25 @@
       }
     },
     {
+      "id": "2adb42fb63722b0af73f8f6a9eaa8fd97bc59963",
+      "company": "Microsoft",
+      "sourceKind": "official",
+      "sourceId": "microsoft-ai",
+      "sourceLabel": "Microsoft AI",
+      "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
+      "url": "https://news.microsoft.com/source/2026/11/17/microsoft-and-salesforce-announce-copilotforce-bringing-trusted-customer-context-and-action-into-microsoft-ai-experiences",
+      "title": "Read the story titled Microsoft and Salesforce Announce Copilotforce, Bringing Trusted Customer Context and Action into Microsoft AI Experiences",
+      "summary": "",
+      "publishedAt": null,
+      "publisher": "",
+      "discoveryMethod": "anchor",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
       "id": "c74b01fde71baacc6f6ff272a45a75c617432b04",
       "company": "OpenAI",
       "sourceKind": "external",
@@ -321,7 +245,7 @@
       "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONGtvcmNHUnFkdTRhSXd2YVVwOGVRdVdoYkdVZG1rRnJDWWt3T2dUTFhfOGtPZVR1UEtyNnZWYVNNOVp2bUE1SWc3Sk9fdFF5dG9VaHdGcUVRQWRkbGZZYTJNUmhEOUJyZWJ3VFZHUU42RGFabG16bzduRlhMNGRjOEZvVU5zT0FnQzBNTzFjNUxRNm8?oc=5",
-      "title": "Oracle Says It Has Completed Funding to Fulfil OpenAI Deal",
+      "title": "Oracle Says It Has Completed Funding to Fulfill OpenAI Deal",
       "summary": "",
       "publishedAt": "2026-11-21T16:09:00.000Z",
       "publisher": "The Information",
@@ -333,33 +257,14 @@
       }
     },
     {
-      "id": "39e3aca57a94be0529a860ab221d132477a26f80",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUVRVWmlaa2tSRzFDRkNKX1pOZElxNkhIMk5xQWNBZWM4aGM2OUdoaHJ0TWlEYWs3VzJrdnJfT0NaX3lrTkRlbDMwOXJ3NlI1VUxwZTU5VVBlNTRlSDU4dXlPejIwUDNjWkZNTlBtNENsLUlUdVpqby1qY0RkaUF4TU5QQTEwQWpaeUM5YVBfSG1iY0JWOUpj?oc=5",
-      "title": "Protesters urge Louisiana regulators to reject Entergy plan for Meta data center",
-      "summary": "",
-      "publishedAt": "2026-11-20T16:36:04.000Z",
-      "publisher": "Yahoo",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "840bd7a4f3f7c892f2cd01bd4448bea0800d3b92",
+      "id": "93665280c3188c53713beecac63122818ea8c7bd",
       "company": "OpenAI",
       "sourceKind": "external",
       "sourceId": "external-openai-major",
       "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNWlVWTllaQjkyOThNQ0o2ZkhLa0YtOWN4TlBvTzltRzJ2cXJtVnRFUlRfdmdCUmhVUzhiV295aHQ0Uk9UaDFYbmZ1SW1WZm9IYWhTZVNpOXJYY2pHMEdSaXQzZkZXZ3RzZEdHMjljbEpzbHVJZmpXUTRsMlV5eWMtc3dDMm9MT1BZMlRzWjdJRGR2cVV0RE5JQjd1bHUxWDJ6cjJLclRiVDJvYzM5aWZGVWRoZ3NZb0lTVmtmeGlVTWQ1YXRxQlFvZWtRcFphRVhPVHVvdUFTWFp2MktNQ0pfZ3dSQkE0Nm9uQ29wSTZ2Zm1Zdw?oc=5",
-      "title": "OpenAI Foundation board member warns an audience that what's most likely to kill them is an 'AI accident'",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4yX3I4OHhtR2YtVlJTRnp2SG1ab0U4MXN0ejdNdERzejhXTjdDZkdjd095LUJZckJUUnYySEU3OF9ZRmhrWWx5N0FwX1V0ZGMwVEstQ3U3OEVXTld2THIxY2IxRnpwdTlxNXpfY3ozUGhaVVgwbEYyUFFaODg?oc=5",
+      "title": "OpenAI Foundation board member warns an audience that what’s most likely to kill them is an ‘AI accident’",
       "summary": "",
       "publishedAt": "2026-11-20T02:38:40.000Z",
       "publisher": "CNN",
@@ -387,6 +292,82 @@
         "bucket": "important",
         "score": 3,
         "reason": "Technical or research update"
+      }
+    },
+    {
+      "id": "647f53f50f8d82bbfd7b21d4c59782b6acf60dc5",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-neon-builders",
+      "title": "See what 5 builders are making with Gemini 4 Neon",
+      "summary": "See five projects builders created with Gemini 4 Neon, from a glowing 3D Earth and Three.js butterflies to an interactive black hole.",
+      "publishedAt": "2026-11-24T16:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "3c6728c1bfd198791155e7911f8c578086a9a218",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+      "publishedAt": "2026-11-24T13:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "f3aa9260f1094b3713b95db83158321ea63632fb",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+      "title": "Searching for distant planets with Astra",
+      "summary": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
+      "publishedAt": "2026-11-24T11:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "bdeaaf77ada1b1994c34c6e20afd27c4b456b3ec",
+      "company": "Meta",
+      "sourceKind": "official",
+      "sourceId": "meta-newsroom",
+      "sourceLabel": "Meta Newsroom",
+      "homepageUrl": "https://about.fb.com/news/",
+      "url": "https://about.fb.com/news/2026/11/muse-now-available-in-the-uk-muse-does-the-work-you-stay-in-control",
+      "title": "Muse Now Available in the UK: Muse Does the Work, You Stay in Control",
+      "summary": "Muse, Meta&#8217;s personal AI agent, is now available to adults in the UK. Think of it as a helping hand for the jobs that pile up, like chasing a refund, renewing car insurance or keeping on top of the school calendar. To get those jobs done you can connect Muse to the apps yo...",
+      "publishedAt": "2026-11-24T06:00:04.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
       }
     },
     {
@@ -540,172 +521,77 @@
         "score": 1,
         "reason": "Routine official update"
       }
+    },
+    {
+      "id": "9d6db537dc9fc034f3f1485e24f1dd9cae2c50af",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/switch-ai-assistants-transfer-history",
+      "title": "ICYMI: Transfer your history from other AI apps into Gemini.",
+      "summary": "Transfer your chat history into Gemini. Import your ZIP files and AI summaries to continue conversations seamlessly. Get the details.",
+      "publishedAt": "2026-11-19T20:30:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 1,
+        "reason": "Routine official update"
+      }
     }
   ],
   "newItems": [
     {
-      "id": "d41418beb50550d531169aedc4de27014b14df07",
+      "id": "c0aee9b5ef579f9461c5ff2138c27d60c67e8802",
       "company": "Microsoft",
       "sourceKind": "external",
       "sourceId": "external-microsoft-major",
       "sourceLabel": "Major External News - Microsoft",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNURxVTUtbTlQSWpuSlJDWWtrZEZiZ3VMRXYxNlVUNFpZZ21rdXdQLThieDRkRHF4LUczMDFjWlBlQS1SWDBvOHBETExYRUhsb1Fjbjk3eXRfekw4eFBKaDVLaFF6a0hJa2s1RlJRdTFVem1GbEZHOVprVl9abndYRFoyLWppWk40dy1ZeFhHS1FwSVlTdklpcHE2M3JQSEdZZ2d1eXZsUUQ?oc=5",
-      "title": "Danaher partners with Microsoft to create an agentic AI platform",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQzhoZmkxNVMxNkRKdFkzR25JWTg2dEpyTk1YbW52XzhQUENZV3JSTU8yVXliN0ZjRVZMT3FqYndTeHZFTkthVXZwdE5hNXBmaWV3d0MtZDRoTUQ5T2gzQVpJdGphN013ZnNad2lRaWdkTXhJTnAwTlpvcWJZZzk5OWwxTXotWUp6elNnT3RNV0dXQ2pKSDA2c2xkRmtUMm9vZVBqWW1ISGI1Wl9obkh3Rg?oc=5",
+      "title": "Straive Deepens Microsoft Partnership, Showcases 700+ AI Solution Accelerators at Microsoft Ignite 2026",
       "summary": "",
-      "publishedAt": "2026-11-23T15:00:00.000Z",
+      "publishedAt": "2026-11-18T14:00:00.000Z",
       "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 7,
+        "score": 6,
         "reason": "Corporate move or major external event"
       }
     },
     {
-      "id": "2620ad4c7f9ac68d85d6ef497e9738722a0a9257",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdmhmeEgxSkU1V2V3QmEtdlJ5RUR2U1FZVm5lajNFT1h3cUJnUW1XQUZRSUNLYnV6QkFFNWhMR0ZtbEtRSDRvQXJ3dThFRWFYMUlfbTNFUkFMN3JwTWVHbC11MjB5LUNia3JVMUxjWUtGV0dSa3V4V1JIMHNMdGpzd2JkOGotTnpRbmh5cHBSQ213NFhwOWs4MVZ4YzBKZ3FsUlRpVzFsMHNQS3VKTXVmRDRvS3dWWGhO?oc=5",
-      "title": "California AG Bonta filed lawsuit against OpenAI over model security, public safety",
-      "summary": "",
-      "publishedAt": "2026-11-23T04:26:00.000Z",
-      "publisher": "Reuters",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 7,
-        "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "3cde53c205d06696ea095a0ed21fd5c203b3a0c1",
-      "company": "Microsoft",
-      "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNLWJidE1HdndwekZjbExEVFo2X1YwbEVDTDBJcE9ZcDRaNWlUZUZ0SFYzZ1l5eG44VDg2RG91dUtTTTAzX3BIYWk2QklnMkxRSWJxOU5Fdklwbkd1UFNPUVVwRkxHQlpBNXJuSkhYNU83Wm1RV1hVTFVzNFNVOWRQN1VyRU5udk1EamFkN0lQOEVteVdlTkRmRlFuek9mOEpaeWc?oc=5",
-      "title": "Can Akamai Strengthen Its Mobile Security Reach With Microsoft Tie-Up?",
-      "summary": "",
-      "publishedAt": "2026-11-23T15:51:00.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Safety, security, or policy update"
-      }
-    },
-    {
-      "id": "1d0c151fefed0deaf7f3ec56aad3faaff42e5184",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/introducing-shirudo",
-      "title": "OpenAI and Cisco introduce Shirudo",
-      "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
-      "publishedAt": "2026-11-23T21:20:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "1fa47c423ba12b2e39caf5958c05585bc8b193a8",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/file-slicing-controls",
-      "title": "Introducing file slicing controls in the Gemini API",
-      "summary": "New file slicing controls and native Office file support in the Gemini API let agents inspect targeted slices across Google AI Studio and Vertex AI while paying only for…",
-      "publishedAt": "2026-11-23T16:12:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "eb3a689fae4670a019a4bf1f44bcdd9544dbd2c0",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTjZhN0Fjb2pJRnVoUTBOZ3VheTBFQWhmNWhQOFViMHI2elZLbXhxdTJSOU10eFpOYU5ya3lYckl4cXVxaXNxLXNhY2Y4VjBSQWtzU1JlOWpsR3FLaVpTVTd2WXRPeERDN1R0X0tIZmFzb1J3RWplZWhUc3NTSHg1V0tWaDhrWHg2NnlXQ3lsWDJ1azFJa0xvTEt5N0NHcjlQdFFhNXZfZ3Rjc3BxalcxTzRmS3RveDR2N2g1cGFn?oc=5",
-      "title": "A Power Provider for Meta Urged Regulators to Exempt Data Center Plants From Acid Rain Rules",
-      "summary": "",
-      "publishedAt": "2026-11-23T10:15:00.000Z",
-      "publisher": "WIRED",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "840bd7a4f3f7c892f2cd01bd4448bea0800d3b92",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNWlVWTllaQjkyOThNQ0o2ZkhLa0YtOWN4TlBvTzltRzJ2cXJtVnRFUlRfdmdCUmhVUzhiV295aHQ0Uk9UaDFYbmZ1SW1WZm9IYWhTZVNpOXJYY2pHMEdSaXQzZkZXZ3RzZEdHMjljbEpzbHVJZmpXUTRsMlV5eWMtc3dDMm9MT1BZMlRzWjdJRGR2cVV0RE5JQjd1bHUxWDJ6cjJLclRiVDJvYzM5aWZGVWRoZ3NZb0lTVmtmeGlVTWQ1YXRxQlFvZWtRcFphRVhPVHVvdUFTWFp2MktNQ0pfZ3dSQkE0Nm9uQ29wSTZ2Zm1Zdw?oc=5",
-      "title": "OpenAI Foundation board member warns an audience that what's most likely to kill them is an 'AI accident'",
-      "summary": "",
-      "publishedAt": "2026-11-20T02:38:40.000Z",
-      "publisher": "CNN",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "6873cc6bdfd55c6b69af065b419cf76d1beac82a",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-canvas-tasks",
-      "title": "Here are 4 things you didn’t know you could do with Gemini Canvas.",
-      "summary": "Boost productivity with Google Gemini Canvas. Build web apps, create custom study tools, and refine writing side-by-side. Try it in your next chat.",
-      "publishedAt": "2026-11-23T18:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Technical or research update"
-      }
-    },
-    {
-      "id": "fd143178f0e9a69aeb2dfc2191b1eb57675f03e2",
+      "id": "5ace9de0dfdb0aed5363d94a10bee7ce5859d750",
       "company": "Meta",
       "sourceKind": "official",
       "sourceId": "meta-newsroom",
       "sourceLabel": "Meta Newsroom",
       "homepageUrl": "https://about.fb.com/news/",
-      "url": "https://about.fb.com/news/2026/11/researchers-using-meta-open-weight-ai-models-medical-breakthroughs",
-      "title": "Researchers Are Using Meta’s Open-Weight AI Models to Transform Medicine",
-      "summary": "We brought researchers together for the Open Source AI For Science Summit, where they shared how they’re using AI to accelerate scientific discovery. The post Researchers Are Using Meta’s Open-Weight AI Models to Transform Medicine",
-      "publishedAt": "2026-11-23T18:00:01.000Z",
+      "url": "https://about.fb.com/news/2026/11/introducing-muse-in-the-uk-a-personal-ai-agent-you-control",
+      "title": "Introducing Muse in the UK: A Personal AI Agent You Control",
+      "summary": "Muse is now in the UK: a personal AI agent that doesn't just answer questions, but one that you can task to get things done on your behalf The post Introducing Muse in the UK: A Personal AI Agent You Control",
+      "publishedAt": "2026-11-24T06:00:40.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 5,
+        "reason": "Flagship model or product launch"
+      }
+    },
+    {
+      "id": "647f53f50f8d82bbfd7b21d4c59782b6acf60dc5",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-neon-builders",
+      "title": "See what 5 builders are making with Gemini 4 Neon",
+      "summary": "See five projects builders created with Gemini 4 Neon, from a glowing 3D Earth and Three.js butterflies to an interactive black hole.",
+      "publishedAt": "2026-11-24T16:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
@@ -715,16 +601,54 @@
       }
     },
     {
-      "id": "5ecb3f6864cbb482a9e0643a84205ef9f31a20ac",
-      "company": "Google",
+      "id": "3c6728c1bfd198791155e7911f8c578086a9a218",
+      "company": "OpenAI",
       "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-hydrogen-builders",
-      "title": "See what 6 builders are making with Gemini 4 Hydrogen",
-      "summary": "See six projects builders created with Gemini 4 Hydrogen, from rainy sci-fi skies and pixelated koi ponds to an interactive moth.",
-      "publishedAt": "2026-11-23T18:00:00.000Z",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+      "publishedAt": "2026-11-24T13:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "f3aa9260f1094b3713b95db83158321ea63632fb",
+      "company": "OpenAI",
+      "sourceKind": "official",
+      "sourceId": "openai-newsroom",
+      "sourceLabel": "OpenAI Newsroom",
+      "homepageUrl": "https://openai.com/newsroom/",
+      "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+      "title": "Searching for distant planets with Astra",
+      "summary": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
+      "publishedAt": "2026-11-24T11:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 2,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "bdeaaf77ada1b1994c34c6e20afd27c4b456b3ec",
+      "company": "Meta",
+      "sourceKind": "official",
+      "sourceId": "meta-newsroom",
+      "sourceLabel": "Meta Newsroom",
+      "homepageUrl": "https://about.fb.com/news/",
+      "url": "https://about.fb.com/news/2026/11/muse-now-available-in-the-uk-muse-does-the-work-you-stay-in-control",
+      "title": "Muse Now Available in the UK: Muse Does the Work, You Stay in Control",
+      "summary": "Muse, Meta&#8217;s personal AI agent, is now available to adults in the UK. Think of it as a helping hand for the jobs that pile up, like chasing a refund, renewing car insurance or keeping on top of the school calendar. To get those jobs done you can connect Muse to the apps yo...",
+      "publishedAt": "2026-11-24T06:00:04.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
