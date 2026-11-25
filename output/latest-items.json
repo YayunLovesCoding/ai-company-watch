@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T23:24:55.520Z",
+  "generatedAt": "2026-11-25T22:58:55.739Z",
   "lookbackDays": 7,
   "sourcesChecked": [
     {
@@ -76,9 +76,9 @@
     }
   ],
   "totals": {
-    "fetched": 35,
+    "fetched": 36,
     "deduped": 24,
-    "new": 6,
+    "new": 1,
     "byKind": {
       "official": 19,
       "external": 5
@@ -86,16 +86,54 @@
   },
   "items": [
     {
-      "id": "c0aee9b5ef579f9461c5ff2138c27d60c67e8802",
+      "id": "f53f55f2d465390cfce582e09767cd099ba77590",
+      "company": "OpenAI",
+      "sourceKind": "external",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRzJ1c09xSU9NV3J5RGI1Ny1hUkFmV1pURmljRHV5aldoS2tsaTdIMDE2RVBncFNpSmYtWW04eHh4cnlvR3N0Q3Y1MnNSVVNfNmVFUi1KMFk0eTIxclN6TkhhbDNvR2d3S0VncjJlUXhPODlvRVZhcGVGM1NoREFRTHc1QzFFMHlOdjNwSm1DalZ5WTJRa0pTb2YtVloxN3p3ZDNmZkF4bjNORkxJM3ozZlJrRFJSYTJ0cWVORDVmajFmbjA?oc=5",
+      "title": "OpenAI taps Cravath litigator for court showdown with Musk over AI dominance",
+      "summary": "",
+      "publishedAt": "2026-11-25T21:10:44.000Z",
+      "publisher": "Reuters",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 7,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "d41418beb50550d531169aedc4de27014b14df07",
       "company": "Microsoft",
       "sourceKind": "external",
       "sourceId": "external-microsoft-major",
       "sourceLabel": "Major External News - Microsoft",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQzhoZmkxNVMxNkRKdFkzR25JWTg2dEpyTk1YbW52XzhQUENZV3JSTU8yVXliN0ZjRVZMT3FqYndTeHZFTkthVXZwdE5hNXBmaWV3d0MtZDRoTUQ5T2gzQVpJdGphN013ZnNad2lRaWdkTXhJTnAwTlpvcWJZZzk5OWwxTXotWUp6elNnT3RNV0dXQ2pKSDA2c2xkRmtUMm9vZVBqWW1ISGI1Wl9obkh3Rg?oc=5",
-      "title": "Straive Deepens Microsoft Partnership, Showcases 700+ AI Solution Accelerators at Microsoft Ignite 2026",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNURxVTUtbTlQSWpuSlJDWWtrZEZiZ3VMRXYxNlVUNFpZZ21rdXdQLThieDRkRHF4LUczMDFjWlBlQS1SWDBvOHBETExYRUhsb1Fjbjk3eXRfekw4eFBKaDVLaFF6a0hJa2s1RlJRdTFVem1GbEZHOVprVl9abndYRFoyLWppWk40dy1ZeFhHS1FwSVlTdklpcHE2M3JQSEdZZ2d1eXZsUUQ?oc=5",
+      "title": "Danaher partners with Microsoft to create an agentic AI platform",
       "summary": "",
-      "publishedAt": "2026-11-18T14:00:00.000Z",
+      "publishedAt": "2026-11-23T15:00:00.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "critical",
+        "score": 6,
+        "reason": "Corporate move or major external event"
+      }
+    },
+    {
+      "id": "74b052addb7d074dcb22cc0cb9cf0b3424eb213b",
+      "company": "Microsoft",
+      "sourceKind": "external",
+      "sourceId": "external-microsoft-major",
+      "sourceLabel": "Major External News - Microsoft",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOX0tWZGtzMkJSYjRucW9iMDR6Z1VIeTZPalBIdkdOb1dMTEphdng4OHJTOEJlcVYzTDFOM0ZOSklURi1CRnFBU3IxWUVMblpVTjRiQlFaUXU1OXZzU2JVQUNpX1N3eFlaa1dlYm1QZlZoYmR0WDZxWU1pcmNnN05jaXJxZVd1ZXFrZFpRR0dmNnkxVHUzSTBXRVFIRFlRdw?oc=5",
+      "title": "Did Microsoft AI Partnership Just Shift Danaher's (DHR) Investment Narrative?",
+      "summary": "",
+      "publishedAt": "2026-11-21T05:15:00.000Z",
       "publisher": "Yahoo Finance",
       "discoveryMethod": "feed",
       "classification": {
@@ -124,6 +162,25 @@
       }
     },
     {
+      "id": "01f2c80612a263a2c3bf7b58083df86ca8e6a1f7",
+      "company": "Anthropic",
+      "sourceKind": "external",
+      "sourceId": "external-anthropic-major",
+      "sourceLabel": "Major External News - Anthropic",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcG00NjY3R0Z5aTZDYkNMa2R3Q1F0blZvSHN5N1lGckwxa0R3LWdjc3ZIMFphcUxDdC1rWUVpVVNfN2VvOWJ3V09ELUNQQms1SzBBRWM2R0wxRGpFejc2b2k5MGNvb1lYT0xOcFE5S3ZiN0dFdEpSQkswWjlnMnZyU1BCQ095NG53U3RHMkJDZFowU28tcW9aS3RSMUcyeVlVc0E?oc=5",
+      "title": "Anthropic (ANT) Puts Claude Into Enterprise Security As Its AI Builds Successors",
+      "summary": "",
+      "publishedAt": "2026-11-22T18:07:02.000Z",
+      "publisher": "Yahoo Finance",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 4,
+        "reason": "Safety, security, or policy update"
+      }
+    },
+    {
       "id": "1d0c151fefed0deaf7f3ec56aad3faaff42e5184",
       "company": "OpenAI",
       "sourceKind": "official",
@@ -137,8 +194,8 @@
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
-        "bucket": "critical",
-        "score": 5,
+        "bucket": "important",
+        "score": 4,
         "reason": "Flagship model or product launch"
       }
     },
@@ -156,47 +213,9 @@
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
-        "bucket": "critical",
-        "score": 5,
+        "bucket": "important",
+        "score": 4,
         "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "eb3a689fae4670a019a4bf1f44bcdd9544dbd2c0",
-      "company": "Meta",
-      "sourceKind": "external",
-      "sourceId": "external-meta-major",
-      "sourceLabel": "Major External News - Meta",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTjZhN0Fjb2pJRnVoUTBOZ3VheTBFQWhmNWhQOFViMHI2elZLbXhxdTJSOU10eFpOYU5ya3lYckl4cXVxaXNxLXNhY2Y4VjBSQWtzU1JlOWpsR3FLaVpTVTd2WXRPeERDN1R0X0tIZmFzb1J3RWplZWhUc3NTSHg1V0tWaDhrWHg2NnlXQ3lsWDJ1azFJa0xvTEt5N0NHcjlQdFFhNXZfZ3Rjc3BxalcxTzRmS3RveDR2N2g1cGFn?oc=5",
-      "title": "A Power Provider for Meta Urged Regulators to Exempt Data Center Plants From Acid Rain Rules",
-      "summary": "",
-      "publishedAt": "2026-11-23T10:15:00.000Z",
-      "publisher": "WIRED",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "01f2c80612a263a2c3bf7b58083df86ca8e6a1f7",
-      "company": "Anthropic",
-      "sourceKind": "external",
-      "sourceId": "external-anthropic-major",
-      "sourceLabel": "Major External News - Anthropic",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcG00NjY3R0Z5aTZDYkNMa2R3Q1F0blZvSHN5N1lGckwxa0R3LWdjc3ZIMFphcUxDdC1rWUVpVVNfN2VvOWJ3V09ELUNQQms1SzBBRWM2R0wxRGpFejc2b2k5MGNvb1lYT0xOcFE5S3ZiN0dFdEpSQkswWjlnMnZyU1BCQ095NG53U3RHMkJDZFowU28tcW9aS3RSMUcyeVlVc0E?oc=5",
-      "title": "Anthropic (ANT) Puts Claude Into Enterprise Security As Its AI Builds Successors",
-      "summary": "",
-      "publishedAt": "2026-11-22T18:07:02.000Z",
-      "publisher": "Yahoo Finance",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 4,
-        "reason": "Safety, security, or policy update"
       }
     },
     {
@@ -219,79 +238,41 @@
       }
     },
     {
-      "id": "2adb42fb63722b0af73f8f6a9eaa8fd97bc59963",
+      "id": "eb3a689fae4670a019a4bf1f44bcdd9544dbd2c0",
+      "company": "Meta",
+      "sourceKind": "external",
+      "sourceId": "external-meta-major",
+      "sourceLabel": "Major External News - Meta",
+      "homepageUrl": "https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTjZhN0Fjb2pJRnVoUTBOZ3VheTBFQWhmNWhQOFViMHI2elZLbXhxdTJSOU10eFpOYU5ya3lYckl4cXVxaXNxLXNhY2Y4VjBSQWtzU1JlOWpsR3FLaVpTVTd2WXRPeERDN1R0X0tIZmFzb1J3RWplZWhUc3NTSHg1V0tWaDhrWHg2NnlXQ3lsWDJ1azFJa0xvTEt5N0NHcjlQdFFhNXZfZ3Rjc3BxalcxTzRmS3RveDR2N2g1cGFn?oc=5",
+      "title": "A Power Provider for Meta Urged Regulators to Exempt Data Center Plants From Acid Rain Rules",
+      "summary": "",
+      "publishedAt": "2026-11-23T10:15:00.000Z",
+      "publisher": "WIRED",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "important",
+        "score": 3,
+        "reason": "Trusted external coverage"
+      }
+    },
+    {
+      "id": "a0fc52c7c407bf11d8b68ccf62e1b5e671a984b4",
       "company": "Microsoft",
       "sourceKind": "official",
       "sourceId": "microsoft-ai",
       "sourceLabel": "Microsoft AI",
       "homepageUrl": "https://news.microsoft.com/source/topics/ai/",
-      "url": "https://news.microsoft.com/source/2026/11/17/microsoft-and-salesforce-announce-copilotforce-bringing-trusted-customer-context-and-action-into-microsoft-ai-experiences",
-      "title": "Read the story titled Microsoft and Salesforce Announce Copilotforce, Bringing Trusted Customer Context and Action into Microsoft AI Experiences",
+      "url": "https://news.microsoft.com/source/emea/features/how-kier-groups-louisa-finlay-is-using-copilot-to-drive-safety-and-productivity-in-the-construction-industry",
+      "title": "Read the story titled How Kier Group’s Louisa Finlay is using Copilot to drive safety and productivity in the construction industry",
       "summary": "",
       "publishedAt": null,
       "publisher": "",
       "discoveryMethod": "anchor",
       "classification": {
         "bucket": "important",
-        "score": 4,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "c74b01fde71baacc6f6ff272a45a75c617432b04",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONGtvcmNHUnFkdTRhSXd2YVVwOGVRdVdoYkdVZG1rRnJDWWt3T2dUTFhfOGtPZVR1UEtyNnZWYVNNOVp2bUE1SWc3Sk9fdFF5dG9VaHdGcUVRQWRkbGZZYTJNUmhEOUJyZWJ3VFZHUU42RGFabG16bzduRlhMNGRjOEZvVU5zT0FnQzBNTzFjNUxRNm8?oc=5",
-      "title": "Oracle Says It Has Completed Funding to Fulfill OpenAI Deal",
-      "summary": "",
-      "publishedAt": "2026-11-21T16:09:00.000Z",
-      "publisher": "The Information",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
         "score": 3,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "93665280c3188c53713beecac63122818ea8c7bd",
-      "company": "OpenAI",
-      "sourceKind": "external",
-      "sourceId": "external-openai-major",
-      "sourceLabel": "Major External News - OpenAI",
-      "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4yX3I4OHhtR2YtVlJTRnp2SG1ab0U4MXN0ejdNdERzejhXTjdDZkdjd095LUJZckJUUnYySEU3OF9ZRmhrWWx5N0FwX1V0ZGMwVEstQ3U3OEVXTld2THIxY2IxRnpwdTlxNXpfY3ozUGhaVVgwbEYyUFFaODg?oc=5",
-      "title": "OpenAI Foundation board member warns an audience that what’s most likely to kill them is an ‘AI accident’",
-      "summary": "",
-      "publishedAt": "2026-11-20T02:38:40.000Z",
-      "publisher": "CNN",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Trusted external coverage"
-      }
-    },
-    {
-      "id": "6873cc6bdfd55c6b69af065b419cf76d1beac82a",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-canvas-tasks",
-      "title": "Here are 4 things you didn’t know you could do with Gemini Canvas.",
-      "summary": "Boost productivity with Google Gemini Canvas. Build web apps, create custom study tools, and refine writing side-by-side. Try it in your next chat.",
-      "publishedAt": "2026-11-23T18:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "important",
-        "score": 3,
-        "reason": "Technical or research update"
+        "reason": "Safety, security, or policy update"
       }
     },
     {
@@ -371,41 +352,22 @@
       }
     },
     {
-      "id": "fd143178f0e9a69aeb2dfc2191b1eb57675f03e2",
-      "company": "Meta",
-      "sourceKind": "official",
-      "sourceId": "meta-newsroom",
-      "sourceLabel": "Meta Newsroom",
-      "homepageUrl": "https://about.fb.com/news/",
-      "url": "https://about.fb.com/news/2026/11/researchers-using-meta-open-weight-ai-models-medical-breakthroughs",
-      "title": "Researchers Are Using Meta’s Open-Weight AI Models to Transform Medicine",
-      "summary": "We brought researchers together for the Open Source AI For Science Summit, where they shared how they’re using AI to accelerate scientific discovery. The post Researchers Are Using Meta’s Open-Weight AI Models to Transform Medicine",
-      "publishedAt": "2026-11-23T18:00:01.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "5ecb3f6864cbb482a9e0643a84205ef9f31a20ac",
+      "id": "6873cc6bdfd55c6b69af065b419cf76d1beac82a",
       "company": "Google",
       "sourceKind": "official",
       "sourceId": "google-ai",
       "sourceLabel": "Google AI",
       "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-hydrogen-builders",
-      "title": "See what 6 builders are making with Gemini 4 Hydrogen",
-      "summary": "See six projects builders created with Gemini 4 Hydrogen, from rainy sci-fi skies and pixelated koi ponds to an interactive moth.",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-canvas-tasks",
+      "title": "Here are 4 things you didn’t know you could do with Gemini Canvas.",
+      "summary": "Boost productivity with Google Gemini Canvas. Build web apps, create custom study tools, and refine writing side-by-side. Try it in your next chat.",
       "publishedAt": "2026-11-23T18:00:00.000Z",
       "publisher": "",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "digest",
         "score": 2,
-        "reason": "Routine official update"
+        "reason": "Technical or research update"
       }
     },
     {
@@ -444,6 +406,44 @@
         "bucket": "digest",
         "score": 2,
         "reason": "Technical or research update"
+      }
+    },
+    {
+      "id": "fd143178f0e9a69aeb2dfc2191b1eb57675f03e2",
+      "company": "Meta",
+      "sourceKind": "official",
+      "sourceId": "meta-newsroom",
+      "sourceLabel": "Meta Newsroom",
+      "homepageUrl": "https://about.fb.com/news/",
+      "url": "https://about.fb.com/news/2026/11/researchers-using-meta-open-weight-ai-models-medical-breakthroughs",
+      "title": "Researchers Are Using Meta’s Open-Weight AI Models to Transform Medicine",
+      "summary": "We brought researchers together for the Open Source AI For Science Summit, where they shared how they’re using AI to accelerate scientific discovery. The post Researchers Are Using Meta’s Open-Weight AI Models to Transform Medicine",
+      "publishedAt": "2026-11-23T18:00:01.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 1,
+        "reason": "Routine official update"
+      }
+    },
+    {
+      "id": "5ecb3f6864cbb482a9e0643a84205ef9f31a20ac",
+      "company": "Google",
+      "sourceKind": "official",
+      "sourceId": "google-ai",
+      "sourceLabel": "Google AI",
+      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-hydrogen-builders",
+      "title": "See what 6 builders are making with Gemini 4 Hydrogen",
+      "summary": "See six projects builders created with Gemini 4 Hydrogen, from rainy sci-fi skies and pixelated koi ponds to an interactive moth.",
+      "publishedAt": "2026-11-23T18:00:00.000Z",
+      "publisher": "",
+      "discoveryMethod": "feed",
+      "classification": {
+        "bucket": "digest",
+        "score": 1,
+        "reason": "Routine official update"
       }
     },
     {
@@ -544,117 +544,22 @@
   ],
   "newItems": [
     {
-      "id": "c0aee9b5ef579f9461c5ff2138c27d60c67e8802",
-      "company": "Microsoft",
+      "id": "f53f55f2d465390cfce582e09767cd099ba77590",
+      "company": "OpenAI",
       "sourceKind": "external",
-      "sourceId": "external-microsoft-major",
-      "sourceLabel": "Major External News - Microsoft",
+      "sourceId": "external-openai-major",
+      "sourceLabel": "Major External News - OpenAI",
       "homepageUrl": "https://news.google.com/",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQzhoZmkxNVMxNkRKdFkzR25JWTg2dEpyTk1YbW52XzhQUENZV3JSTU8yVXliN0ZjRVZMT3FqYndTeHZFTkthVXZwdE5hNXBmaWV3d0MtZDRoTUQ5T2gzQVpJdGphN013ZnNad2lRaWdkTXhJTnAwTlpvcWJZZzk5OWwxTXotWUp6elNnT3RNV0dXQ2pKSDA2c2xkRmtUMm9vZVBqWW1ISGI1Wl9obkh3Rg?oc=5",
-      "title": "Straive Deepens Microsoft Partnership, Showcases 700+ AI Solution Accelerators at Microsoft Ignite 2026",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRzJ1c09xSU9NV3J5RGI1Ny1hUkFmV1pURmljRHV5aldoS2tsaTdIMDE2RVBncFNpSmYtWW04eHh4cnlvR3N0Q3Y1MnNSVVNfNmVFUi1KMFk0eTIxclN6TkhhbDNvR2d3S0VncjJlUXhPODlvRVZhcGVGM1NoREFRTHc1QzFFMHlOdjNwSm1DalZ5WTJRa0pTb2YtVloxN3p3ZDNmZkF4bjNORkxJM3ozZlJrRFJSYTJ0cWVORDVmajFmbjA?oc=5",
+      "title": "OpenAI taps Cravath litigator for court showdown with Musk over AI dominance",
       "summary": "",
-      "publishedAt": "2026-11-18T14:00:00.000Z",
-      "publisher": "Yahoo Finance",
+      "publishedAt": "2026-11-25T21:10:44.000Z",
+      "publisher": "Reuters",
       "discoveryMethod": "feed",
       "classification": {
         "bucket": "critical",
-        "score": 6,
+        "score": 7,
         "reason": "Corporate move or major external event"
-      }
-    },
-    {
-      "id": "5ace9de0dfdb0aed5363d94a10bee7ce5859d750",
-      "company": "Meta",
-      "sourceKind": "official",
-      "sourceId": "meta-newsroom",
-      "sourceLabel": "Meta Newsroom",
-      "homepageUrl": "https://about.fb.com/news/",
-      "url": "https://about.fb.com/news/2026/11/introducing-muse-in-the-uk-a-personal-ai-agent-you-control",
-      "title": "Introducing Muse in the UK: A Personal AI Agent You Control",
-      "summary": "Muse is now in the UK: a personal AI agent that doesn't just answer questions, but one that you can task to get things done on your behalf The post Introducing Muse in the UK: A Personal AI Agent You Control",
-      "publishedAt": "2026-11-24T06:00:40.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "critical",
-        "score": 5,
-        "reason": "Flagship model or product launch"
-      }
-    },
-    {
-      "id": "647f53f50f8d82bbfd7b21d4c59782b6acf60dc5",
-      "company": "Google",
-      "sourceKind": "official",
-      "sourceId": "google-ai",
-      "sourceLabel": "Google AI",
-      "homepageUrl": "https://blog.google/innovation-and-ai/technology/ai/",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-neon-builders",
-      "title": "See what 5 builders are making with Gemini 4 Neon",
-      "summary": "See five projects builders created with Gemini 4 Neon, from a glowing 3D Earth and Three.js butterflies to an interactive black hole.",
-      "publishedAt": "2026-11-24T16:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "3c6728c1bfd198791155e7911f8c578086a9a218",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
-      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-      "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
-      "publishedAt": "2026-11-24T13:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "f3aa9260f1094b3713b95db83158321ea63632fb",
-      "company": "OpenAI",
-      "sourceKind": "official",
-      "sourceId": "openai-newsroom",
-      "sourceLabel": "OpenAI Newsroom",
-      "homepageUrl": "https://openai.com/newsroom/",
-      "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
-      "title": "Searching for distant planets with Astra",
-      "summary": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
-      "publishedAt": "2026-11-24T11:00:00.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
-      }
-    },
-    {
-      "id": "bdeaaf77ada1b1994c34c6e20afd27c4b456b3ec",
-      "company": "Meta",
-      "sourceKind": "official",
-      "sourceId": "meta-newsroom",
-      "sourceLabel": "Meta Newsroom",
-      "homepageUrl": "https://about.fb.com/news/",
-      "url": "https://about.fb.com/news/2026/11/muse-now-available-in-the-uk-muse-does-the-work-you-stay-in-control",
-      "title": "Muse Now Available in the UK: Muse Does the Work, You Stay in Control",
-      "summary": "Muse, Meta&#8217;s personal AI agent, is now available to adults in the UK. Think of it as a helping hand for the jobs that pile up, like chasing a refund, renewing car insurance or keeping on top of the school calendar. To get those jobs done you can connect Muse to the apps yo...",
-      "publishedAt": "2026-11-24T06:00:04.000Z",
-      "publisher": "",
-      "discoveryMethod": "feed",
-      "classification": {
-        "bucket": "digest",
-        "score": 2,
-        "reason": "Routine official update"
       }
     }
   ],
