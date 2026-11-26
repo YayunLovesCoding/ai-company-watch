@@ -1,19 +1,19 @@
 # AI Company Watch
 
-Generated: Nov 25, 2026, 2:58 PM PST
+Generated: Nov 26, 2026, 2:52 PM PST
 Lookback window: 7 day(s)
 Sources checked: 12
-Items fetched: 36
+Items fetched: 35
 Items kept: 24
 New items: 1
-External items kept: 5
-Official items kept: 19
+External items kept: 4
+Official items kept: 20
 
 ## Critical External News
 
-### OpenAI - OpenAI taps Cravath litigator for court showdown with Musk over AI dominance
+### OpenAI - Judge Orders Release of OpenAI Engineer Accused of Secretly Recording Meetings
 Source: Major External News - OpenAI
-Publisher: Reuters
-Published: Nov 25, 2026
+Publisher: The New York Times
+Published: Nov 23, 2026
 Why it matters: Corporate move or major external event
-Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRzJ1c09xSU9NV3J5RGI1Ny1hUkFmV1pURmljRHV5aldoS2tsaTdIMDE2RVBncFNpSmYtWW04eHh4cnlvR3N0Q3Y1MnNSVVNfNmVFUi1KMFk0eTIxclN6TkhhbDNvR2d3S0VncjJlUXhPODlvRVZhcGVGM1NoREFRTHc1QzFFMHlOdjNwSm1DalZ5WTJRa0pTb2YtVloxN3p3ZDNmZkF4bjNORkxJM3ozZlJrRFJSYTJ0cWVORDVmajFmbjA?oc=5
+Link: https://news.google.com/rss/articles/CBMijAFBVV95cUxPZGUweWw4Y2NIQUtVYmdIUHFaQkt6Y3cxZnBHVFBueFpuMjJxaDZCZEZLQS02TnZZX3pzcEUxLWM2N0tQQ0ZSQ1VxTlJ2RWoyLTdvWnJzaTFIa0xTektOMVQzWkdXZ1BGYzJGcGR5MGR5U1NjaUc1b1ZxNmZMUEpVRUdGbWdTTk9sbVNtZg?oc=5
